@@ -134,9 +134,3 @@ Thank you for helping make the ExamSim platform a better resource for students!
 ## License
 
 This repository and its contents are licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-**Before Committing This `README.md`:**
-
-1.  **Replace Placeholder Link:** Find `[ExamSim Online Practice Platform](link-to-your-deployed-app-or-main-repo)` and replace `link-to-your-deployed-app-or-main-repo` with the actual URL of your deployed application or its main GitHub repository.
-2.  **Add `LICENSE` File:** Make sure you have a file named `LICENSE` in the root of this repository containing the text of the MIT License (you can easily find templates online).
