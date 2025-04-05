@@ -1,9 +1,9 @@
 [
   {
-    "id": "nimcet_2023", // Unique identifier
+    "id": "nimcet_2023",
     "title": "NIMCET 2023",
     "description": "National Institute of Technology MCA Common Entrance Test 2023",
-    "category": "NIMCET", // Optional: For filtering/grouping
-    "path": "NIMCET/nimcet_2023.json" // Relative path to the question file
-  },
+    "category": "NIMCET",
+    "path": "NIMCET/nimcet_2023.json"
+  }
 ]
