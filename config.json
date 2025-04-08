@@ -1,5 +1,12 @@
 [
   {
+    "id": "nimcet_2022",
+    "title": "NIMCET 2022",
+    "description": "National Institute of Technology MCA Common Entrance Test 2022",
+    "category": "NIMCET",
+    "path": "NIMCET/nimcet_2022.json"
+  },
+  {
     "id": "nimcet_2023",
     "title": "NIMCET 2023",
     "description": "National Institute of Technology MCA Common Entrance Test 2023",
@@ -12,5 +19,6 @@
     "description": "National Institute of Technology MCA Common Entrance Test 2024",
     "category": "NIMCET",
     "path": "NIMCET/nimcet_2024.json"
-  }
+  },
+
 ]
