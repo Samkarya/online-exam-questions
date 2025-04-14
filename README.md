@@ -102,16 +102,21 @@ To represent mathematical formulas, images, chemical equations, and code correct
     *   Correct: `"$\\frac{1}{2}$"` becomes `"$\\frac{1}{2}$"` in the JSON file.
     *   Correct: `"$\\sin(x)$"` becomes `"$\\sin(x)$"` in the JSON file.
 
-### 2. Images (Markdown Links to Repo Assets)
+### 2. Images (URL via Markdown)
 
-*   Use standard **Markdown image syntax**: `![Alt Text](Relative Path to Image)`
-*   **Hosting:** Images **must** be hosted within this GitHub repository.
-*   **File Structure:** Place images in an `assets` sub-directory within the corresponding Exam Category directory. Organize further by exam paper if needed.
-    *   Example Path: `NIMCET/assets/nimcet_2023_q2_diagram.png`
-*   **Relative Path:** The path used in the Markdown link **must** be relative *from the root of this repository*.
-    *   Correct Example: `![Circuit Diagram](NIMCET/assets/nimcet_2023_q2_diagram.png)`
-*   **Alt Text:** Provide meaningful alternative text for accessibility.
-*   **Use Case:** Ideal for diagrams, graphs, figures, complex chemical structures, etc.
+*   Use standard **Markdown image syntax**: `![Alt Text](Image URL)` to embed images within `question_text`, `options` values, or `explanation`.
+*   **Supported URL Types:**
+    *   **Absolute HTTPS URLs (Recommended):** This is the most flexible and recommended method, especially for user-generated or pasted content. Images can be hosted on any publicly accessible server supporting HTTPS.
+        *   Example: `![Diagram](https://some-image-hosting.com/path/to/your/image.png)`
+        *   Example using a placeholder service: `![Placeholder](https://picsum.photos/200/150)`
+    *   **Relative Paths (For Repo-Hosted Images):** If contributing official questions or assets *directly to this repository*, you can use relative paths. These paths **must** be relative *from the root of this repository*. Examify will automatically prepend the base URL of this repository's raw content (`https://raw.githubusercontent.com/Samkarya/online-exam-questions/main/`) to resolve the link.
+        *   Place images in an `assets` sub-directory within the corresponding `ExamCategory/` directory (e.g., `NIMCET/assets/`).
+        *   Example: `![Circuit Diagram](NIMCET/assets/nimcet_2023_q2_diagram.png)` - *Use this format only if the image file exists at that location within this repository.*
+*   **Blocked URLs:**
+    *   Absolute `http://` URLs are **not recommended** and may be blocked by browsers or the application due to security (mixed content) policies. Please use `https://`.
+    *   Local file paths (e.g., `C:\Users\...`, `file:///...`) will **not** work.
+*   **Alt Text:** Provide meaningful alternative text (`Alt Text`) for accessibility and for cases where the image might fail to load.
+*   **Use Case:** Ideal for diagrams, graphs, figures, complex chemical structures, scanned question parts, etc.
 
 ### 3. Chemical Content
 
