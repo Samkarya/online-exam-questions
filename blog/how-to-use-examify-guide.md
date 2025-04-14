@@ -1,5 +1,3 @@
-# How to Use Examify: A Step-by-Step Guide
-
 Ready to dive into focused exam practice with Examify ([https://examify.web.app/](https://examify.web.app/))? This guide will walk you through the key steps, from selecting your test to understanding your results.
 
 ## Step 1: Accessing Examify (Account Optional but Recommended)
