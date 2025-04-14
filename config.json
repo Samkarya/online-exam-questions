@@ -19,5 +19,12 @@
     "description": "National Institute of Technology MCA Common Entrance Test 2024",
     "category": "NIMCET",
     "path": "NIMCET/nimcet_2024.json"
+  },
+  {
+    "id": "jeeMain_2025_22Jan_shift1",
+    "title": "JEE Main 2025",
+    "description": "Joint Entrance Examination (Mains) Test 2025",
+    "category": "JEEMains",
+    "path": "JEEMains/jeeMain_2025_22Jan_shift1.json"
   }
 ]
