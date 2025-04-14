@@ -1,8 +1,8 @@
-# Online Exam Questions for ExamSim Platform
+# Online Exam Questions for Examify Platform
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <!-- Optional License Badge -->
 
-This repository hosts the JSON formatted question sets used by the [ExamSim Online Practice Platform](link-to-your-deployed-app-or-main-repo).
+This repository hosts the JSON formatted question sets used by the [Examify Online Practice Platform](link-to-your-deployed-app-or-main-repo).
 
 The goal of this repository is to:
 
@@ -91,7 +91,7 @@ Questions are organized into directories based on the examination category.
 
 ### `config.json` - The Exam Index
 
-The `config.json` file in the **root** of this repository acts as the master index for the ExamSim application. It lists all available official exams and points to their respective JSON files.
+The `config.json` file in the **root** of this repository acts as the master index for the Examify application. It lists all available official exams and points to their respective JSON files.
 
 **When adding a new exam JSON file, you MUST also add a corresponding entry to this `config.json` file.**
 
@@ -129,7 +129,7 @@ Contributions are highly welcome! You can help by adding new question sets, fixi
     *   Link to any relevant source material if applicable.
 7.  **Review:** Your PR will be reviewed, and feedback may be provided before merging.
 
-Thank you for helping make the ExamSim platform a better resource for students!
+Thank you for helping make the Examify platform a better resource for students!
 
 ## License
 
