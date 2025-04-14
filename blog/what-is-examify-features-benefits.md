@@ -1,5 +1,3 @@
-# What is Examify? Features and Benefits Explained
-
 Feeling the pressure of upcoming competitive entrance exams like NIMCET or CUET MCA? Looking for a way to practice that truly mirrors the real test environment? Meet **Examify** ([https://examify.web.app/](https://examify.web.app/)), your modern online exam simulator designed to sharpen your skills and boost your confidence.
 
 ## What is Examify?
