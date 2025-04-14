@@ -1,0 +1,839 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Mathematics",
+    "topic": "Sequences and Series",
+    "question_text": "Let $a_1, a_2, a_3, \\dots$ be a G.P. of increasing positive terms. If $a_1 a_5 = 28$ and $a_2 + a_4 = 29$, then $a_6$ is equal to:",
+    "options": {
+      "a": "628",
+      "b": "812",
+      "c": "526",
+      "d": "784"
+    },
+    "correct_answer": "d",
+    "explanation": ""
+  },
+  {
+    "question_number": 2,
+    "subject": "Mathematics",
+    "topic": "Differential Equations",
+    "question_text": "Let $x = x(y)$ be the solution of the differential equation $y \\frac{dx}{dy} + (x - \\frac{1}{y}) = 0$. If $x(1) = 1$, then $x (\\frac{1}{e})$ is :",
+    "options": {
+      "a": "\\frac{1}{3} + e",
+      "b": "3 + e",
+      "c": "3 - e",
+      "d": "\\frac{1}{3e} + e"
+    },
+    "correct_answer": "c",
+    "explanation": ""
+  },
+  {
+    "question_number": 3,
+    "subject": "Mathematics",
+    "topic": "Probability",
+    "question_text": "Two balls are selected at random one by one without replacement from a bag containing 4 white and 6 black balls. If the probability that the first selected ball is black, given that the second selected ball is also black, is $\\frac{m}{n}$, where gcd(m, n) = 1, then $m + n$ is equal to :",
+    "options": {
+      "a": "4",
+      "b": "14",
+      "c": "13",
+      "d": "11"
+    },
+    "correct_answer": "b",
+    "explanation": ""
+  },
+  {
+    "question_number": 4,
+    "subject": "Mathematics",
+    "topic": "Algebra (Logarithms, Equations)",
+    "question_text": "The product of all solutions of the equation $e^{5(\\log_e x)^2+3} = x^8, x > 0$, is :",
+    "options": {
+      "a": "e^{8/5}",
+      "b": "e^{6/5}",
+      "c": "e^2",
+      "d": "e"
+    },
+    "correct_answer": "a",
+    "explanation": ""
+  },
+  {
+    "question_number": 5,
+    "subject": "Mathematics",
+    "topic": "Coordinate Geometry (Reflection, Centroid)",
+    "question_text": "Let the triangle PQR be the image of the triangle with vertices (1, 3), (3, 1) and (2, 4) in the line $x + 2y = 2$. If the centroid of $\\triangle PQR$ is the point $(\\alpha, \\beta)$, then $15(\\alpha - \\beta)$ is equal to :",
+    "options": {
+      "a": "19",
+      "b": "24",
+      "c": "21",
+      "d": "22"
+    },
+    "correct_answer": "d",
+    "explanation": ""
+  },
+  {
+    "question_number": 6,
+    "subject": "Mathematics",
+    "topic": "Calculus (Integration)",
+    "question_text": "Let for $f(x) = 7 \\tan^8 x + 7 \\tan^6 x - 3 \\tan^4 x - 3 \\tan^2 x$, $I_1 = \\int_0^{\\pi/4} f(x)dx$ and $I_2 = \\int_0^{\\pi/4} x f(x)dx$. Then $7I_1 + 12I_2$ is equal to :",
+    "options": {
+      "a": "2",
+      "b": "1",
+      "c": "2\\pi",
+      "d": "\\pi"
+    },
+    "correct_answer": "b",
+    "explanation": ""
+  },
+  {
+    "question_number": 7,
+    "subject": "Mathematics",
+    "topic": "Coordinate Geometry (Parabola, Circle, Area)",
+    "question_text": "Let the parabola $y = x^2 + px - 3$, meet the coordinate axes at the points P, Q and R . If the circle C with centre at $(-1, -1)$ passes through the points P, Q and R, then the area of $\\triangle PQR$ is :",
+    "options": {
+      "a": "7",
+      "b": "4",
+      "c": "6",
+      "d": "5"
+    },
+    "correct_answer": "c",
+    "explanation": ""
+  },
+  {
+    "question_number": 8,
+    "subject": "Mathematics",
+    "topic": "3D Geometry (Lines)",
+    "question_text": "Let $L_1 : \\frac{x-1}{2} = \\frac{y-2}{-3} = \\frac{z+3}{4}$ and $L_2 : \\frac{x-2}{3} = \\frac{y-4}{4} = \\frac{z+5}{3}$ be two lines. Then which of the following points lies on the line of the shortest distance between $L_1$ and $L_2$?",
+    "options": {
+      "a": "(\\frac{1}{3}, -3, \\frac{29}{3})",
+      "b": "(-\\frac{5}{3}, -\\frac{7}{3}, 1)",
+      "c": "(2, 3, \\frac{4}{3})",
+      "d": "(\\frac{5}{3}, -1, \\frac{1}{3})"
+    },
+    "correct_answer": "a",
+    "explanation": ""
+  },
+  {
+    "question_number": 9,
+    "subject": "Mathematics",
+    "topic": "Functions & Calculus (Functional Equations)",
+    "question_text": "Let $f(x)$ be a real differentiable function such that $f(0) = 1$ and $f(x + y) = f(x)f'(y) + f'(x)f(y)$ for all $x,y \\in \\mathbb{R}$. Then $\\sum_{n=1}^{100} \\log_e f(n)$ is equal to :",
+    "options": {
+      "a": "2525",
+      "b": "5220",
+      "c": "2384",
+      "d": "2406"
+    },
+    "correct_answer": "a",
+    "explanation": ""
+  },
+  {
+    "question_number": 10,
+    "subject": "Mathematics",
+    "topic": "Permutations and Combinations",
+    "question_text": "From all the English alphabets, five letters are chosen and are arranged in alphabetical order. The total number of ways, in which the middle letter is ' M', is :",
+    "options": {
+      "a": "5148",
+      "b": "6084",
+      "c": "4356",
+      "d": "14950"
+    },
+    "correct_answer": "a",
+    "explanation": ""
+  },
+  {
+    "question_number": 11,
+    "subject": "Mathematics",
+    "topic": "Inverse Trigonometric Functions",
+    "question_text": "Using the principal values of the inverse trigonometric functions, the sum of the maximum and the minimum values of $16 \\left((\\sec^{-1}x)^2 + (\\csc^{-1}x)^2\\right)$ is :",
+    "options": {
+      "a": "24\\pi^2",
+      "b": "22\\pi^2",
+      "c": "31\\pi^2",
+      "d": "18\\pi^2"
+    },
+    "correct_answer": "b",
+    "explanation": ""
+  },
+  {
+    "question_number": 12,
+    "subject": "Mathematics",
+    "topic": "Differential Equations & Area under Curve",
+    "question_text": "Let $f : \\mathbb{R} \\to \\mathbb{R}$ be a twice differentiable function such that $f(x + y) = f(x)f(y)$ for all $x, y \\in \\mathbb{R}$. If $f'(0) = 4a$ and f satisfies $f''(x) - 3af'(x) - f(x) = 0, a > 0$, then the area of the region $R = \\{(x, y) | 0 \\le y \\le f(ax), 0 \\le x \\le 2\\}$ is:",
+    "options": {
+      "a": "e^2 - 1",
+      "b": "e^8 - 1",
+      "c": "e^4 + 1",
+      "d": "e^4 - 1"
+    },
+    "correct_answer": "a",
+    "explanation": "Note: The term $f(x)$ in the differential equation should likely be $4a^2 f(x)$ for a standard characteristic equation based on $f(x)=e^{kx}$ form derived from the functional equation and $f'(0)$. Assuming the standard form related to $f(x)=e^{4ax}$, the integral of $f(ax) = e^{4a^2x}$ from 0 to 2 gives $\\frac{1}{4a^2}(e^{8a^2}-1)$. If $a=1/2$, this gives $e^2-1$. Alternative interpretation based on the equation as written might yield different results. Let's assume the likely intended form leading to option 'a'. Functional equation $f(x+y)=f(x)f(y)$ with $f(0)=1$ implies $f(x) = e^{kx}$. $f'(x)=ke^{kx}$, $f'(0)=k=4a$. So $f(x)=e^{4ax}$. $f''(x)=16a^2e^{4ax}$. Substituting into $f''(x)-3af'(x)-f(x)=0$: $16a^2e^{4ax} - 3a(4ae^{4ax}) - e^{4ax} = 0 \implies (16a^2 - 12a^2 - 1)e^{4ax} = 0 \implies 4a^2 - 1 = 0 \implies a=1/2$ (since a>0). Area = $\\int_0^2 f(ax) dx = \\int_0^2 e^{4a^2x} dx = \\int_0^2 e^{x} dx = [e^x]_0^2 = e^2 - e^0 = e^2-1$.",
+    "difficulty": "Medium"
+  },
+  {
+    "question_number": 13,
+    "subject": "Mathematics",
+    "topic": "Area under Curve (Circle, Parabola)",
+    "question_text": "The area of the region, inside the circle $(x - 2\\sqrt{3})^2 + y^2 = 12$ and outside the parabola $y^2 = 2\\sqrt{3}x$ is:",
+    "options": {
+      "a": "3\\pi + 8",
+      "b": "6\\pi - 16",
+      "c": "3\\pi - 8",
+      "d": "6\\pi - 8"
+    },
+    "correct_answer": "b",
+    "explanation": ""
+  },
+  {
+    "question_number": 14,
+    "subject": "Mathematics",
+    "topic": "Coordinate Geometry (Hyperbola)",
+    "question_text": "Let the foci of a hyperbola be (1, 14) and (1, -12). If it passes through the point (1, 6), then the length of its latus-rectum is :",
+    "options": {
+      "a": "\\frac{25}{12}",
+      "b": "\\frac{25}{6}",
+      "c": "\\frac{144}{7}",
+      "d": "\\frac{288}{7}"
+    },
+    "correct_answer": "d",
+    "explanation": ""
+  },
+   {
+    "question_number": 15,
+    "subject": "Mathematics",
+    "topic": "Sequences and Series (Summation)",
+    "question_text": "If $\\sum_{r=1}^{n} T_r = \\frac{n}{6}(2n-1)(2n+1)(2n+3)(2n+5)$, then $\\lim_{n\\to\\infty} \\sum_{r=1}^{n} \\frac{1}{T_r}$ is equal to:",
+    "options": {
+      "a": "0",
+      "b": "\\frac{3}{5}",
+      "c": "1",
+      "d": "\\frac{5}{3}"
+    },
+    "correct_answer": "b",
+    "explanation": "Find $T_n = S_n - S_{n-1}$. This involves polynomial subtraction. $S_n = \\frac{n}{6}(4n^2-1)(4n^2+4n+15-12n-12) \approx \frac{n}{6}(4n^2)(...) \dots$. Let $S_n = \frac{n}{6}(2n-1)(2n+1)(2n+3)(2n+5)$. $T_n = S_n - S_{n-1}$. This calculation is tedious. Observe the structure resembles products. Maybe $T_r$ is simpler. Let's test simple cases. $S_1=T_1 = \frac{1}{6}(1)(3)(5)(7)=35/2$? Let's rethink the given $S_n$. It seems extremely large for typical series. The summation appears incorrect in the question OCR. Assuming $T_r = r(r+1)...$ structure. Another possibility is $T_r = (2r-1)(2r+1)(2r+3)(2r+5)$. Let $S_n = \sum_{r=1}^n T_r$. Then $\lim \sum \frac{1}{T_r}$ might be telescopic. If $T_r = (2r-1)(2r+1)(2r+3)(2r+5)$, then $\frac{1}{T_r} = \frac{1}{(2r-1)(2r+1)(2r+3)(2r+5)}$. Use partial fractions: $\frac{1}{T_r} = \frac{1}{8} \left( \frac{1}{(2r-1)(2r+1)(2r+3)} - \frac{1}{(2r+1)(2r+3)(2r+5)} \right)$. Let $V_r = \frac{1}{(2r-1)(2r+1)(2r+3)}$. Then the sum is $\frac{1}{8} \sum (V_r - V_{r+1})$. The limit sum is $\frac{1}{8}(V_1 - \lim V_{n+1}) = \frac{1}{8}(V_1 - 0) = \frac{1}{8} \frac{1}{(1)(3)(5)} = \frac{1}{120}$. This doesn't match options. Let's check the answer key: Q15 is (2) i.e., 3/5. There might be a typo in the question statement or the provided summation formula. Retrying with the provided $S_n$. It's unlikely the sum limit would be needed if $S_n$ is given. Perhaps the question meant: If $T_r = (2r-1)(2r+1)(2r+3)(2r+5)$, then calculate limit sum. The expression $\frac{n}{6}$ might be a typo for $\frac{1}{6}$ or similar. Without a clear $T_r$, using the answer (b) $\frac{3}{5}$ doesn't help derive the correct $T_r$ easily."
+  },
+  {
+    "question_number": 16,
+    "subject": "Mathematics",
+    "topic": "Statistics & Probability",
+    "question_text": "A coin is tossed three times. Let X denote the number of times a tail follows a head. If $\\mu$ and $\\sigma^2$ denote the mean and variance of X, then the value of $64 (\\mu + \\sigma^2)$ is:",
+    "options": {
+      "a": "51",
+      "b": "64",
+      "c": "32",
+      "d": "48"
+    },
+    "correct_answer": "d",
+    "explanation": ""
+  },
+  {
+    "question_number": 17,
+    "subject": "Mathematics",
+    "topic": "Sets and Relations",
+    "question_text": "The number of non-empty equivalence relations on the set {1, 2, 3} is :",
+    "options": {
+      "a": "6",
+      "b": "5",
+      "c": "7",
+      "d": "4"
+    },
+    "correct_answer": "b",
+    "explanation": "The number of equivalence relations on a set with n elements is given by the nth Bell number, $B_n$. For n=3, the partitions are {{1,2,3}}, {{1,2},{3}}, {{1,3},{2}}, {{2,3},{1}}, {{1},{2},{3}}. Total 5 partitions, which correspond to 5 equivalence relations. Since the question asks for non-empty relations, and all equivalence relations on a non-empty set are non-empty, the answer is 5."
+  },
+  {
+    "question_number": 18,
+    "subject": "Mathematics",
+    "topic": "Coordinate Geometry (Circle)",
+    "question_text": "A circle C of radius 2 lies in the second quadrant and touches both the coordinate axes. Let r be the radius of a circle that has centre at the point (2, 5) and intersects the circle C at exactly two points. If the set of all possible values of r is the interval $(\\alpha, \\beta)$, then $3\\beta - 2\\alpha$ is equal to :",
+    "options": {
+      "a": "10",
+      "b": "15",
+      "c": "12",
+      "d": "14"
+    },
+    "correct_answer": "b",
+    "explanation": ""
+  },
+  {
+    "question_number": 19,
+    "subject": "Mathematics",
+    "topic": "Number Theory, Sets",
+    "question_text": "Let A = {1, 2, 3, ..., 10} and B = {$\\frac{m}{n}$ : m, n $\\in$ A, m < n and gcd(m, n) = 1}. Then n(B) is equal to :",
+    "options": {
+      "a": "36",
+      "b": "31",
+      "c": "37",
+      "d": "29"
+    },
+    "correct_answer": "b",
+    "explanation": ""
+  },
+   {
+    "question_number": 20,
+    "subject": "Mathematics",
+    "topic": "Complex Numbers",
+    "question_text": "Let $z_1, z_2$ and $z_3$ be three complex numbers on the circle $|z| = 1$ with $arg (z_1) = \\frac{\\pi}{12}$, $arg (z_2) = 0$ and $arg (z_3) = \\frac{\\pi}{4}$. If $|z_1z_2 + z_2z_3 + z_3z_1|^2 = \\alpha + \\beta\\sqrt{2}$, $\\alpha, \\beta \\in \\mathbb{Z}$, then the value of $\\alpha^2 + \\beta^2$ is :",
+    "options": {
+      "a": "24",
+      "b": "29",
+      "c": "41",
+      "d": "31"
+    },
+    "correct_answer": "b",
+    "explanation": ""
+  },
+  {
+    "question_number": 29,
+    "subject": "Physics",
+    "topic": "Heat and Thermodynamics",
+    "question_text": "An amount of ice of mass $10^{-3}$ kg and temperature -10°C is transformed to vapour of temperature 110°C by applying heat. The total amount of work required for this conversion is, (Take, specific heat of ice = 2100 J kg$^{-1}$ K$^{-1}$, specific heat of water = 4180 J kg$^{-1}$ K$^{-1}$, specific heat of steam = 1920 J kg$^{-1}$ K$^{-1}$, Latent heat of ice = $3.35 \\times 10^5$ J kg$^{-1}$ and Latent heat of steam = $2.25 \\times 10^6$ J kg$^{-1}$)",
+    "options": {
+      "a": "3043 J",
+      "b": "3024 J",
+      "c": "3003 J",
+      "d": "3022 J"
+    },
+    "correct_answer": "a",
+    "explanation": "Total heat Q = Heat(ice -10C to 0C) + Heat(ice 0C to water 0C) + Heat(water 0C to 100C) + Heat(water 100C to steam 100C) + Heat(steam 100C to 110C). Q = $m c_{ice} \\Delta T_1 + m L_{ice} + m c_{water} \\Delta T_2 + m L_{steam} + m c_{steam} \\Delta T_3$. Q = $(10^{-3}) (2100)(10) + (10^{-3})(3.35 \\times 10^5) + (10^{-3})(4180)(100) + (10^{-3})(2.25 \\times 10^6) + (10^{-3})(1920)(10)$. Q = $21 + 335 + 418 + 2250 + 19.2 = 3043.2$ J. The question asks for 'work required', but thermodynamics problems usually calculate 'heat required' for phase changes. Assuming it means heat: ~3043 J.",
+    "difficulty": "Medium"
+  },
+  {
+    "question_number": 30,
+    "subject": "Physics",
+    "topic": "Modern Physics (Atomic Structure, de Broglie)",
+    "question_text": "An electron in the ground state of the hydrogen atom has the orbital radius of $5.3 \\times 10^{-11}$ m while that for the electron in third excited state is $8.48 \\times 10^{-10}$ m. The ratio of the de Broglie wavelengths of electron in the excited state to that in the ground state is",
+    "options": {
+      "a": "3",
+      "b": "16",
+      "c": "9",
+      "d": "4"
+    },
+    "correct_answer": "d",
+    "explanation": "Radius $r_n \propto n^2$. Ground state n=1. Third excited state n=4. $r_4 / r_1 = 4^2 / 1^2 = 16$. Given radii check: $8.48 \times 10^{-10} / (5.3 \times 10^{-11}) = 84.8 / 5.3 \approx 16$. So $n=4$ is correct. de Broglie wavelength $\\lambda = h/p = h/(mv)$. Velocity $v_n \propto 1/n$. Momentum $p_n \propto 1/n$. Wavelength $\\lambda_n \propto n$. Ratio $\\lambda_4 / \\lambda_1 = 4 / 1 = 4$."
+  },
+  {
+    "question_number": 31,
+    "subject": "Physics",
+    "topic": "Mechanics (Circular Motion, Energy Conservation)",
+    "question_text": "A bob of mass m is suspended at a point O by a light string of length l and left to perform vertical motion (circular) as shown in figure. Initially, by applying horizontal velocity $v_0$ at the point 'A', the string becomes slack when, the bob reaches at the point 'D'. The ratio of the kinetic energy of the bob at the points B and C is\n\n![Diagram showing vertical circular motion with points O, A, B, C, D. Angle AOB = 60 deg, Angle AOC = 60 deg. A is lowest point. D is highest point where string goes slack.](JEE_Main/assets/jee_main_2025_01_22_s1_q31.png)",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "4",
+      "d": "3"
+    },
+    "correct_answer": "b",
+    "explanation": "String becomes slack at D (highest point for slackness), meaning tension T=0. Let angle AOD = $\\theta$. For slackness, $v_D^2 = gl \\cos(\\pi - \\theta) = -gl \\cos\\theta$. By energy conservation between A and D: $KE_A + PE_A = KE_D + PE_D \implies \frac{1}{2}mv_0^2 + 0 = \frac{1}{2}mv_D^2 + mgl(1 - \\cos\\theta)$. Points B and C are at the same height, corresponding to 60 degrees from the vertical (A). Height $h_B = h_C = l(1-\\cos 60^\circ) = l/2$. By energy conservation A to B: $\frac{1}{2}mv_0^2 = \frac{1}{2}mv_B^2 + mgh_B = \frac{1}{2}mv_B^2 + mgl/2$. By energy conservation A to C: $\frac{1}{2}mv_0^2 = \frac{1}{2}mv_C^2 + mgh_C = \frac{1}{2}mv_C^2 + mgl/2$. Thus $KE_B = \frac{1}{2}mv_B^2 = \frac{1}{2}mv_C^2 = KE_C$. The ratio $KE_B / KE_C = 1$. However, the options and answer key (Q31 -> 2) suggest there might be a misunderstanding or error in the problem statement or diagram interpretation. If B is at 60 deg and C is at 120 deg from A (horizontal level), heights are $h_B=l/2$, $h_C=l$. Then $KE_B = KE_A - mgl/2$, $KE_C = KE_A - mgl$. Ratio depends on $KE_A$. Let's assume C is at 90 deg from vertical. $h_C = l$. $KE_C = KE_A-mgl$. Ratio $KE_B/KE_C = (KE_A - mgl/2) / (KE_A - mgl)$. This still depends on $v_0$. Let's use the slack condition. Often slackness occurs at $\theta > 90^\circ$. If slackness occurs *exactly* horizontally (at 90 deg), $v_D=0$. $KE_A = mgl$. Then $KE_B = mgl - mgl/2 = mgl/2$. $KE_C = mgl-mgl = 0$. Ratio undefined. If slackness occurs at top, $v_D^2=gl$. $KE_A = \frac{1}{2}m(5gl) = 2.5 mgl$. $KE_B = 2.5mgl - 0.5mgl = 2mgl$. $KE_C = 2.5mgl - mgl = 1.5mgl$. Ratio $2/1.5 = 4/3$. None match option 2. Let's assume B angle is 60 from vertical downwards, C is 60 from vertical upwards. $h_B = l(1-\cos 60) = l/2$. $h_C = l(1-\cos 120) = l(1 - (-1/2)) = 3l/2$. $KE_B = KE_A - mgl/2$. $KE_C = KE_A - 3mgl/2$. Ratio requires $KE_A$. If slack occurs at D (assume D corresponds to an angle $\theta$), $v_D^2=gl\cos\theta$. $\frac{1}{2}mv_0^2=\frac{1}{2}mv_D^2+mgl(1+\cos\theta)$. Let's re-examine the image. C is 60 degrees *above* horizontal A, B is 60 degrees *below* horizontal A. So height B is $l \sin 60 = l\sqrt{3}/2$. Height C is $l \sin 60 = l\sqrt{3}/2$. They are at same height relative to O horizontal. Relative to A, height of B is $l(1-\cos 60) = l/2$. Height of C is $l(1+\cos 60) = 3l/2$? No, B and C are symmetric wrt vertical. $h_B = l(1-\cos 60) = l/2$. $h_C = l(1-\cos 60)=l/2$. KE ratio is 1. Let's assume B is at 60 deg, C is at 90 deg (horizontal). $h_B = l/2$, $h_C = l$. $KE_B = KE_A - mgl/2$. $KE_C = KE_A - mgl$. Let's assume answer (2) is correct and work backwards. $KE_B / KE_C = 2 \implies KE_A - mgl/2 = 2(KE_A - mgl) \implies KE_A - mgl/2 = 2KE_A - 2mgl \implies KE_A = 1.5 mgl = \frac{3}{2} mgl$. $\frac{1}{2}mv_0^2 = \frac{3}{2}mgl \implies v_0^2=3gl$. This means $v_0$ is between $\sqrt{2gl}$ (reach horizontal) and $\sqrt{5gl}$ (complete circle). Where does it slack? At angle $\theta$ where $v^2=gl\cos\theta$. $KE_A = KE_\theta + mgl(1-\cos\theta)$. $1.5mgl = 0.5m(gl\cos\theta) + mgl(1-\cos\theta) \implies 1.5 = 0.5\cos\theta + 1-\cos\theta \implies 0.5 = -0.5\cos\theta \implies \cos\theta = -1$. Slack at the top. If $v_0^2=3gl$, it reaches C (horizontal) with $KE_C=1.5mgl-mgl=0.5mgl$. Reaches B with $KE_B = 1.5mgl-0.5mgl=1mgl$. Ratio $KE_B/KE_C = (1mgl)/(0.5mgl) = 2$. This matches answer (b) if C is assumed to be at the horizontal level (90 degrees from A).",
+    "difficulty": "Hard"
+  },
+   {
+    "question_number": 32,
+    "subject": "Physics",
+    "topic": "Optics (Lenses, Reflection)",
+    "question_text": "Given is a thin convex lens of glass (refractive index $\\mu$ ) and each side having radius of curvature R. One side is polished for complete reflection. At what distance from the lens, an object be placed on the optic axis so that the image gets formed on the object itself ?",
+    "options": {
+      "a": "R/\\mu",
+      "b": "R/(2\\mu - 3)",
+      "c": "\\mu R",
+      "d": "R/(2\\mu - 1)"
+    },
+    "correct_answer": "d",
+    "explanation": "This acts as an equivalent mirror. Power P = $P_{lens} + P_{mirror} + P_{lens} = 2P_{lens} + P_{mirror}$. Lens maker for convex lens: $P_{lens} = (\\mu-1)(\\frac{1}{R} - \\frac{1}{-R}) = \\frac{2(\\mu-1)}{R}$. $f_{lens} = \\frac{R}{2(\\mu-1)}$. Mirror power $P_{mirror} = -1/f_{mirror}$. The polished surface acts as a convex mirror with R. $f_{mirror} = R/2$. $P_{mirror} = -2/R$. Total Power $P = 2 \\frac{2(\\mu-1)}{R} - \\frac{2}{R} = \\frac{4\\mu - 4 - 2}{R} = \\frac{4\\mu - 6}{R}$. Equivalent focal length $F = 1/P = \\frac{R}{4\\mu - 6}$. This equivalent mirror forms image on object itself if object is at center of curvature = 2F. Distance $u = 2F = \\frac{2R}{4\\mu - 6} = \\frac{R}{2\\mu - 3}$. This matches option (b). Let's re-check mirror sign convention. Polished surface is convex mirror, focal length $f_m = -R/2$. $P_m = -1/f_m = 2/R$. Total power $P=2P_L+P_m = 2 \frac{2(\mu-1)}{R} + \frac{2}{R} = \frac{4\mu-4+2}{R} = \frac{4\mu-2}{R}$. Equivalent mirror focal length $F = -1/P = -\frac{R}{4\mu-2}$. Object at center of curvature $u = 2F = -\frac{2R}{4\mu-2} = -\frac{R}{2\mu-1}$. Distance is $|u| = \frac{R}{2\mu-1}$. This matches option (d).",
+    "difficulty": "Medium"
+  },
+  {
+    "question_number": 33,
+    "subject": "Physics",
+    "topic": "Semiconductors (Diodes)",
+    "question_text": "Which of the following circuits represents a forward biased diode?\n\n(A) ![Circuit A](JEE_Main/assets/jee_main_2025_01_22_s1_q33_a.png)\n(B) ![Circuit B](JEE_Main/assets/jee_main_2025_01_22_s1_q33_b.png)\n(C) ![Circuit C](JEE_Main/assets/jee_main_2025_01_22_s1_q33_c.png)\n(D) ![Circuit D](JEE_Main/assets/jee_main_2025_01_22_s1_q33_d.png)\n(E) ![Circuit E](JEE_Main/assets/jee_main_2025_01_22_s1_q33_e.png)\n\nChoose the correct answer from the options given below :",
+    "options": {
+        "a": "(A) and (D) only",
+        "b": "(B), (D) and (E) only",
+        "c": "(C) and (E) only",
+        "d": "(B), (C) and (E) only"
+     },
+     "correct_answer": "d",
+     "explanation": "Forward bias: P-side potential > N-side potential. (A) P=0V, N=-10V. $0 > -10$. Forward. (B) P=-10V, N=-15V. $-10 > -15$. Forward. (C) P=4V, N=2V. $4 > 2$. Forward. (D) P=-5V, N=-10V. $-5 > -10$. Forward. (E) P=2V, N=0V? (Assuming ground). $2 > 0$. Forward. All seem forward biased based on potential differences across the diode terminals shown. Let's re-examine the standard representation. Arrows usually point to N-side. (A) P=0, N=-10 -> FB. (B) P=-15, N=-10 -> RB. (C) P=2, N=4 -> RB. (D) P=-10, N=-5 -> RB. (E) P=0, N=2 -> RB. Wait, looking closer at image and answer (d: B,C,E) -> B: P(-10) > N(-15) => FB. C: P(4) > N(2) => FB. E: P(2V) > N(GND=0V) => FB. What about A and D? A: P(0) > N(-10) => FB. D: P(-5) > N(-10) => FB. It seems all are forward biased based on the explicit voltages shown directly across the diodes! The options provided (A,D only; B,D,E only; C,E only; B,C,E only) suggest only some are FB. There might be a misunderstanding of the diagram conventions or context. Re-evaluating based on standard circuit diagrams where voltage refers to points relative to ground unless otherwise specified. If the numbers are the voltages *at those points*, then the analysis holds that A, B, C, D, E are all FB. If the diagrams are meant differently (e.g. applied voltages across series resistors), the interpretation changes. Assuming the question and options are correct as given, and the answer is D (B,C,E), then A and D must be considered RB for some reason not obvious from the diagram alone. Perhaps the voltage sources are connected in reverse elsewhere? Assuming diagram shows potential AT terminals: A (0 > -10) FB, B (-10 > -15) FB, C (4 > 2) FB, D (-5 > -10) FB, E (2 > 0/Gnd assumed) FB. There seems to be an issue with the question/options/diagrams provided, as all appear forward biased. However, following the answer key (Q33->(4) which is B,C,E), we select d.",
+    "difficulty": "Easy"
+   },
+  {
+    "question_number": 34,
+    "subject": "Physics",
+    "topic": "Current Electricity (Potentiometer)",
+    "question_text": "Sliding contact of a potentiometer is in the middle of the potentiometer wire having resistance $R_p = 1\\Omega$ as shown in the figure. An external resistance of $R_e = 2\\Omega$ is connected via the sliding contact. The electric current in the circuit is :\n\n![Potentiometer circuit diagram with 0.9V source, Rp=1 Ohm wire, Re=2 Ohm connected at midpoint.](JEE_Main/assets/jee_main_2025_01_22_s1_q34.png)",
+    "options": {
+      "a": "0.9 A",
+      "b": "1.35 A",
+      "c": "0.3 A",
+      "d": "1.0 A"
+    },
+    "correct_answer": "d",
+    "explanation": "The wire $R_p=1\\Omega$ is tapped at the middle. The portion above the tap has resistance $R_1=R_p/2 = 0.5\\Omega$. The portion below the tap has resistance $R_2=R_p/2 = 0.5\\Omega$. The external resistance $R_e=2\\Omega$ is in parallel with the lower half ($R_2$). Equivalent resistance of parallel part $R_{parallel} = \\frac{R_2 \\times R_e}{R_2 + R_e} = \\frac{0.5 \\times 2}{0.5 + 2} = \\frac{1}{2.5} = 0.4\\Omega$. Total equivalent resistance $R_{total} = R_1 + R_{parallel} = 0.5 + 0.4 = 0.9\\Omega$. Source voltage $V = 0.9V$. Total current $I = V / R_{total} = 0.9V / 0.9\\Omega = 1.0 A$.",
+    "difficulty": "Medium"
+  },
+  {
+    "question_number": 35,
+    "subject": "Physics",
+    "topic": "Gravitation",
+    "question_text": "A small point of mass m is placed at a distance 2R from the centre 'O' of a big uniform solid sphere of mass M and radius R. The gravitational force on 'm' due to M is $F_1$. A spherical part of radius R/3 is removed from the big sphere as shown in the figure and the gravitational force on m due to remaining part of M is found to be $F_2$. The value of ratio $F_1 : F_2$ is\n\n![Diagram showing sphere M, radius R, center O. Mass m at distance 2R. A cavity of radius R/3 is removed, its center is at R from O, on the line connecting O and m.](JEE_Main/assets/jee_main_2025_01_22_s1_q35.png)",
+    "options": {
+      "a": "12 : 11",
+      "b": "11 : 10",
+      "c": "12 : 9",
+      "d": "16 : 9"
+    },
+    "correct_answer": "a",
+    "explanation": "$F_1$ is the force due to the complete sphere M at distance 2R. $F_1 = \\frac{G M m}{(2R)^2} = \\frac{G M m}{4R^2}$. Mass of the removed part (cavity). Volume of sphere $V = \frac{4}{3}\\pi R^3$. Density $\\rho = M/V$. Volume of cavity $V_c = \frac{4}{3}\\pi (R/3)^3 = \frac{1}{27} V$. Mass of cavity $M_c = \\rho V_c = \frac{M}{V} \frac{V}{27} = \frac{M}{27}$. The center of the cavity is at distance R from O, towards m. So, distance of cavity center from m is $2R - R = R$. Force due to cavity mass if it were present $F_c = \\frac{G M_c m}{R^2} = \\frac{G (M/27) m}{R^2} = \\frac{G M m}{27R^2}$. The force due to the remaining part $F_2$ is calculated using superposition: $F_2 = F_1 - F_c = \\frac{G M m}{4R^2} - \\frac{G M m}{27R^2} = G M m \\left(\\frac{1}{4} - \\frac{1}{27}\\right) \\frac{1}{R^2} = G M m \\left(\\frac{27 - 4}{108}\\right) \\frac{1}{R^2} = \\frac{23 G M m}{108 R^2}$. Ratio $F_1 : F_2 = \\frac{G M m / (4R^2)}{23 G M m / (108 R^2)} = \\frac{1/4}{23/108} = \\frac{1}{4} \\times \\frac{108}{23} = \\frac{27}{23}$. Let's re-read. The cavity center is ON the line connecting O and m. The figure shows the cavity center O' is at distance R/2 from O? Assuming center of cavity is R/2 from O. Distance O'm = 2R - R/2 = 3R/2. $F_c = \\frac{G M_c m}{(3R/2)^2} = \\frac{G (M/27) m}{9R^2/4} = \\frac{4 G M m}{243 R^2}$. $F_2 = F_1 - F_c = \frac{G M m}{4R^2} - \frac{4 G M m}{243 R^2} = G M m (\frac{1}{4} - \frac{4}{243}) \frac{1}{R^2} = G M m (\frac{243 - 16}{972}) \frac{1}{R^2} = \frac{227 G M m}{972 R^2}$. Ratio $F_1 : F_2 = \frac{1/4}{227/972} = \frac{972}{4 \times 227} = \frac{243}{227}$. Rechecking options. Maybe the center O' is at $2R/3$? Distance O'm = $2R-2R/3=4R/3$. $F_c=\frac{G(M/27)m}{(4R/3)^2}=\frac{GMm}{27(16R^2/9)}=\frac{GMm}{48R^2}$. $F_2 = \frac{GMm}{4R^2}-\frac{GMm}{48R^2}=GMm(\frac{12-1}{48R^2})=\frac{11GMm}{48R^2}$. Ratio $F_1:F_2 = \frac{1/4}{11/48} = \frac{48}{4 \times 11} = \frac{12}{11}$. This matches option (a).",
+    "difficulty": "Medium"
+  },
+  {
+    "question_number": 36,
+    "subject": "Physics",
+    "topic": "Waves (Sound, Organ Pipes)",
+    "question_text": "A closed organ and an open organ tube are filled by two different gases having same bulk modulus but different densities $\\rho_1$ and $\\rho_2$, respectively. The frequency of $9^{th}$ harmonic of closed tube is identical with $4^{th}$ harmonic of open tube. If the length of the closed tube is 10 cm and the density ratio of the gases is $\\rho_1 : \\rho_2 = 1 : 16$, then the length of the open tube is :",
+    "options": {
+      "a": "\\frac{45}{4} \\text{ cm}",
+      "b": "\\frac{40}{4} \\text{ cm}",
+      "c": "\\frac{48}{5} \\text{ cm}",
+      "d": "\\frac{20}{3} \\text{ cm}"
+    },
+    "correct_answer": "d",
+    "explanation": "Speed of sound $v = \sqrt{B/\rho}$. $v_1 = \sqrt{B/\rho_1}$, $v_2 = \sqrt{B/\rho_2}$. $\frac{v_1}{v_2} = \sqrt{\frac{\rho_2}{\rho_1}} = \sqrt{\frac{16}{1}} = 4$. Closed pipe length $L_c = 10$ cm. Harmonics $f_{nc} = n \frac{v_1}{4L_c}$ where n=1, 3, 5,... 9th harmonic is $n=17$? No, 9th possible harmonic means $n=9$. $f_{9c} = 9 \frac{v_1}{4L_c}$. Open pipe length $L_o$. Harmonics $f_{no} = n \frac{v_2}{2L_o}$ where n=1, 2, 3,... 4th harmonic is $n=4$. $f_{4o} = 4 \frac{v_2}{2L_o} = 2 \frac{v_2}{L_o}$. Given $f_{9c} = f_{4o}$. $9 \frac{v_1}{4L_c} = 2 \frac{v_2}{L_o}$. $\frac{9 v_1}{4 (10)} = \frac{2 v_2}{L_o}$. $L_o = \frac{80 v_2}{9 v_1} = \frac{80}{9} (\frac{v_2}{v_1}) = \frac{80}{9} (\frac{1}{4}) = \frac{20}{9}$ cm. Wait, 9th harmonic for closed pipe should be $(2 \times 9 - 1) = 17$? Let's assume '9th harmonic' means n=9 index in the sequence of possible frequencies. Closed: $f_1, f_3, f_5, ... f_{2k-1}$ is the kth harmonic. So 9th harmonic has $2k-1=9 \implies k=5$? If n=9 is the multiplier: $f_{9c}=9 v_1 / (4L_c)$. 4th harmonic of open pipe: $f_{4o} = 4 v_2 / (2L_o) = 2 v_2 / L_o$. $9 v_1 / (4 L_c) = 2 v_2 / L_o$. $L_o = (8 L_c / 9) (v_2/v_1) = (8 \times 10 / 9) \times (1/4) = 80 / 36 = 20/9$ cm. Let's reconsider harmonic numbering. Closed: $f_1, 3f_1, 5f_1, ...$. 9th harmonic is $17f_1 = 17 v_1 / (4L_c)$. Open: $f'_1, 2f'_1, 3f'_1, ...$. 4th harmonic is $4f'_1 = 4 v_2 / (2L_o) = 2v_2/L_o$. $17 v_1 / (4L_c) = 2 v_2 / L_o$. $L_o = (8 L_c / 17) (v_2/v_1) = (8 \times 10 / 17) (1/4) = 20/17$ cm. Option (d) is 20/3 cm. Let's check if 9th harmonic *number* is 9. Closed: $f_n = n \frac{v_1}{4 L_c}$, n=1,3,5... Let the frequency be $f_{9c}$. Open: $f_n = n \frac{v_2}{2 L_o}$, n=1,2,3... 4th harmonic is $f_{4o} = 4 \frac{v_2}{2 L_o}$. If 9th harmonic means the 9th possible frequency for closed pipe, it is $n=17$. If it means index 9 in the formula, $n=9$. Let's assume n=9 for closed pipe (only odd n allowed). $f_{9c} = 9 \frac{v_1}{4 L_c}$. $f_{4o} = 4 \frac{v_2}{2 L_o}$. $9 \frac{v_1}{4 (10)} = 4 \frac{v_2}{2 L_o}$. $\frac{9 v_1}{40} = \frac{2 v_2}{L_o}$. $L_o = \frac{80 v_2}{9 v_1} = \frac{80}{9} \frac{1}{4} = \frac{20}{9}$ cm. Still not matching. Let's re-read answer key: 36 -> (4). Option (d) is 20/3. Maybe $\rho_1:\rho_2=16:1$? Then $v_1/v_2 = \sqrt{1/16}=1/4$. $L_o = \frac{80}{9} (\frac{v_2}{v_1}) = \frac{80}{9} (4) = \frac{320}{9}$ cm. No. Let's assume 9th harmonic means frequency is 9 * fundamental for closed pipe: $9 f_{1c} = 9 \frac{v_1}{4L_c}$. 4th harmonic of open pipe $4 f_{1o} = 4 \frac{v_2}{2L_o}$. Then $9 \frac{v_1}{4L_c} = 4 \frac{v_2}{2L_o}$. $L_o = \frac{8 L_c}{9} \frac{v_2}{v_1} = \frac{8 \times 10}{9} \frac{1}{4} = \frac{20}{9}$ cm. The calculation seems consistent. Let's verify option (d) $20/3$ cm. If $L_o=20/3$, then $f_{4o} = 2 v_2 / (20/3) = 3 v_2 / 10$. $f_{9c} = 9 v_1 / 40$. Set equal: $9v_1/40 = 3v_2/10 \implies 9v_1 = 12v_2 \implies v_1/v_2 = 12/9 = 4/3$. But we found $v_1/v_2 = 4$. There is an inconsistency. Let's assume the 'frequency of 9th harmonic' implies $f = (2 \times 9 - 1) \frac{v_1}{4 L_c} = 17 \frac{v_1}{4 L_c}$. And 4th harmonic of open pipe is $f = 4 \frac{v_2}{2 L_o} = 2 \frac{v_2}{L_o}$. Equating: $17 \frac{v_1}{4 L_c} = 2 \frac{v_2}{L_o}$. $L_o = \frac{8 L_c}{17} \frac{v_2}{v_1} = \frac{8 \times 10}{17} \times \frac{1}{4} = \frac{20}{17}$ cm. Still doesn't match. Final check: Maybe 4th harmonic of OPEN is $(2 \times 4) \frac{v_2}{..}$? No. What if bulk moduli are different $B_1, B_2$ and densities $\rho_1, \rho_2$? No, says same B. Let's assume my ratio calc is correct: $L_o = 20/9$ cm. Maybe option (d) is typo and should be 20/9? Closest option is $20/3 \approx 6.67$. $20/9 \approx 2.22$. $20/17 \approx 1.17$. None are close to $20/3$. Rechecking Q36 answer: it is (4), which is $20/3$ cm. My derivation $L_o = 20/9$ seems robust based on standard harmonic definitions. Let's try assuming 9th harmonic of closed means frequency = $9 \times f_{fundamental}$. $f = 9(v_1/4L_c)$. 4th harmonic of open means frequency = $4 \times f_{fundamental}$. $f=4(v_2/2L_o)$. $9v_1/(4L_c) = 4v_2/(2L_o) \implies L_o = \frac{8L_c}{9} \frac{v_2}{v_1} = \frac{8(10)}{9}\frac{1}{4} = \frac{20}{9}$. Let's assume density ratio $\rho_2:\rho_1=1:16$. $v_1/v_2=\sqrt{1/16}=1/4$. $L_o=\frac{8L_c}{9}\frac{v_2}{v_1}=\frac{80}{9}(4)=\frac{320}{9}$. Let's assume $\rho_1:\rho_2=16:1$. $v_1/v_2=\sqrt{1/16}=1/4$. $L_o=\frac{80}{9}\frac{1}{4} = 20/9$. Could closed pipe length be $L_c = 30$cm? $L_o = \frac{8(30)}{9}\frac{1}{4} = \frac{240}{36} = 20/3$. Yes, if $L_c=30$cm (not 10cm), then $L_o=20/3$cm. Let's assume $L_c=10$cm is correct, maybe density ratio is $1:4$? $v_1/v_2=2$. $L_o=\frac{80}{9}\frac{1}{2}=40/9$. Density ratio $4:1$? $v_1/v_2=1/2$. $L_o=\frac{80}{9}(2)=160/9$. It seems there's a likely typo in the question's numbers (e.g. $L_c=30$cm instead of 10cm) to get option (d).",
+    "difficulty": "Medium"
+  },
+  {
+    "question_number": 37,
+    "subject": "Physics",
+    "topic": "Units and Dimensions",
+    "question_text": "If B is magnetic field and $\\mu_0$ is permeability of free space, then the dimensions of $(B/\\mu_0)$ is",
+    "options": {
+      "a": "ML$^2$T$^{-2}$ A$^{-1}$",
+      "b": "MT$^{-2}$ A$^{-1}$",
+      "c": "L$^{-1}$ A",
+      "d": "LT$^{-2}$ A$^{-1}$"
+    },
+    "correct_answer": "c",
+    "explanation": "Dimension of B: Force $F = qvB \implies B = F/(qv)$. $[B] = \\frac{MLT^{-2}}{A T L T^{-1}} = MT^{-2}A^{-1}$. Dimension of $\\mu_0$: From Biot-Savart or Ampere's law. $B = \frac{\\mu_0 I}{2\\pi r}$. $[\\mu_0] = \\frac{[B] [r]}{[I]} = \\frac{(MT^{-2}A^{-1}) L}{A} = MLT^{-2}A^{-2}$. Dimensions of $B/\mu_0$: $\\frac{[B]}{[\\mu_0]} = \\frac{MT^{-2}A^{-1}}{MLT^{-2}A^{-2}} = L^{-1} A$. This matches option (c). Alternative: Magnetic field intensity $H = B/\mu_0$. Unit is A/m. Dimension $A L^{-1}$.",
+    "difficulty": "Easy"
+  },
+    {
+    "question_number": 39,
+    "subject": "Physics",
+    "topic": "Units and Measurements (Vernier Calipers)",
+    "question_text": "Given below are two statements : Statement I : In a vernier callipers, one vernier scale division is always smaller than one main scale division. Statement II : The vernier constant is given by one main scale division multiplied by the number of vernier scale divisions. In the light of the above statements, choose the correct answer from the options given below.",
+    "options": {
+      "a": "Statement I is true but Statement II is false",
+      "b": "Statement I is false but Statement II is true",
+      "c": "Both Statement I and Statement II are false",
+      "d": "Both Statement I and Statement II are true"
+    },
+    "correct_answer": "a",
+    "explanation": "Statement I: True. The principle of a Vernier scale is based on the small difference between a Main Scale Division (MSD) and a Vernier Scale Division (VSD). Typically, n VSD = (n-1) MSD, so 1 VSD = (n-1)/n MSD, which is smaller than 1 MSD. Statement II: False. The Vernier constant (Least Count) is defined as the difference between one MSD and one VSD. LC = 1 MSD - 1 VSD. Alternatively, if n VSD = (n-1) MSD, then LC = 1 MSD / n. Statement II describes something incorrect.",
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 40,
+    "subject": "Physics",
+    "topic": "Modern Physics (Photoelectric Effect)",
+    "question_text": "The work functions of cesium (Cs) and lithium (Li) metals are 1.9 eV and 2.5 eV, respectively. If we incident a light of wavelength 550 nm on these two metal surfaces, then photo-electric effect is possible for the case of",
+    "options": {
+      "a": "Both Cs and Li",
+      "b": "Neither Cs nor Li",
+      "c": "Cs only",
+      "d": "Li only"
+    },
+    "correct_answer": "c",
+    "explanation": "Energy of incident photon $E = hc/\\lambda$. $h = 6.626 \times 10^{-34}$ Js, $c = 3 \times 10^8$ m/s, $\\lambda = 550 \times 10^{-9}$ m. $E = \\frac{(6.626 \times 10^{-34})(3 \times 10^8)}{550 \times 10^{-9}}$ Joules. Convert to eV: $1 eV = 1.602 \times 10^{-19}$ J. $E(eV) = \\frac{hc}{\\lambda e} = \\frac{1240 \\text{ eV nm}}{\\lambda (nm)}$. $E = \\frac{1240}{550} \\approx 2.25$ eV. For photoelectric effect, $E \\ge W_0$ (work function). For Cs, $W_0 = 1.9$ eV. Since $2.25 > 1.9$, PE effect occurs for Cs. For Li, $W_0 = 2.5$ eV. Since $2.25 < 2.5$, PE effect does not occur for Li. So, possible only for Cs.",
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 41,
+    "subject": "Physics",
+    "topic": "Heat and Thermodynamics (Radiation)",
+    "question_text": "Two spherical bodies of same materials having radii 0.2 m and 0.8 m are placed in same atmosphere. The temperature of the smaller body is 800 K and temperature of the bigger body is 400 K . If the energy radiated from the smaller body is E, the energy radiated from the bigger body is (assume, effect of the surrounding temperature to be negligible),",
+    "options": {
+      "a": "16 E",
+      "b": "E",
+      "c": "64 E",
+      "d": "256 E"
+    },
+    "correct_answer": "b",
+    "explanation": "Radiated power (Energy per unit time) $P = \\sigma e A T^4$. Area $A = 4\\pi r^2$. $P \propto r^2 T^4$. Smaller body: $r_1 = 0.2$, $T_1 = 800$. Energy $E_1 = P_1 \\times t \propto r_1^2 T_1^4 t = (0.2)^2 (800)^4 t$. Bigger body: $r_2 = 0.8$, $T_2 = 400$. Energy $E_2 = P_2 \\times t \propto r_2^2 T_2^4 t = (0.8)^2 (400)^4 t$. Ratio $E_2 / E_1 = \frac{r_2^2 T_2^4}{r_1^2 T_1^4} = (\frac{r_2}{r_1})^2 (\frac{T_2}{T_1})^4 = (\frac{0.8}{0.2})^2 (\frac{400}{800})^4 = (4)^2 (\frac{1}{2})^4 = 16 \times \frac{1}{16} = 1$. So, $E_2 = E_1 = E$.",
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 42,
+    "subject": "Physics",
+    "topic": "Optics (Lens Combinations)",
+    "question_text": "In the diagram given below, there are three lenses formed. Considering negligible thickness of each of them as compared to $|R_1|$ and $|R_2|$, i.e., the radii of curvature for upper and lower surfaces of the glass lens, the power of the combination is \n\n![Diagram of lens system: Container with water (mu=4/3), glass lens (mu=3/2), water (mu=4/3). Glass lens has radii R1, R2.](JEE_Main/assets/jee_main_2025_01_22_s1_q42.png)",
+    "options": {
+      "a": "\\frac{1}{6}(\\frac{1}{R_1} - \\frac{1}{R_2})",
+      "b": "-\\frac{1}{6}(\\frac{1}{R_1} + \\frac{1}{R_2})",
+      "c": "\\frac{1}{6}(\\frac{1}{R_1} + \\frac{1}{R_2})",
+      "d": "-\\frac{1}{6}(\\frac{1}{R_1} - \\frac{1}{R_2})"
+    },
+    "correct_answer": "d",
+    "explanation": "Treat as 3 lenses in contact: water lens 1, glass lens, water lens 2. Water lens 1 (top): Top surface flat ($\infty$), bottom surface R1. Medium water $\mu_w=4/3$, surrounding assumed air? No, it's a system. Use relative refractive indices. $P_{total} = P_{water1} + P_{glass} + P_{water2}$. $P_{water1}$: Lens shape upper flat, lower R1. Material water (4/3). $P_{glass}$: Upper R1, lower R2. Material glass (3/2) relative to water (4/3). $\mu_{rel} = \mu_g/\mu_w = (3/2)/(4/3) = 9/8$. $P_{glass} = (\mu_{rel}-1)(\frac{1}{R_1} - \frac{1}{R_2}) = (\frac{9}{8}-1)(\frac{1}{R_1} - \frac{1}{R_2}) = \frac{1}{8}(\frac{1}{R_1} - \frac{1}{R_2})$. $P_{water2}$: Upper R2, lower flat. Material water (4/3). This approach is complex. Alternative: Lens surfaces power $P=P_1+P_2+P_3$. Surface 1 (flat water): Power=0. Surface 2 (water-glass interface R1): $P_2 = (\mu_g - \mu_w)/R_1 = (3/2 - 4/3)/R_1 = (9/6-8/6)/R_1 = \frac{1}{6R_1}$. Surface 3 (glass-water interface R2): $P_3 = (\mu_w - \mu_g)/R_2 = (4/3 - 3/2)/R_2 = (8/6-9/6)/R_2 = -\frac{1}{6R_2}$. Surface 4 (flat water): Power=0. Total power $P = P_1+P_2+P_3+P_4 = 0 + \frac{1}{6R_1} - \frac{1}{6R_2} + 0 = \frac{1}{6}(\frac{1}{R_1} - \frac{1}{R_2})$. This matches option (a). Let's re-check sign convention and answer key. Q42 -> (4). Option (d) is $-\frac{1}{6}(\frac{1}{R_1} - \frac{1}{R_2})$. This suggests my surface power calculation might have a sign error or R convention issue. If R1 is convex, R2 is concave for a typical biconvex shape, R1>0, R2<0. Power = $\frac{1}{6}(\frac{1}{R_1} - \frac{1}{-|R_2|}) = \frac{1}{6}(\frac{1}{R_1} + \frac{1}{|R_2|})$. If R1 is convex, R2 is convex: $P=\frac{1}{6}(\frac{1}{R_1} - \frac{1}{R_2})$. If the result is (d), maybe $\mu_{water}>\mu_{glass}$? No. Let's revisit the definition of $P_i = (\mu_{after}-\mu_{before})/R$. P2: Before water, after glass. $P_2=(\mu_g-\mu_w)/R_1$. P3: Before glass, after water. $P_3=(\mu_w-\mu_g)/R_2$. Total $P=P_2+P_3 = \frac{\mu_g-\mu_w}{R_1} + \frac{\mu_w-\mu_g}{R_2} = (\mu_g-\mu_w)(\frac{1}{R_1}-\frac{1}{R_2}) = (3/2-4/3)(\frac{1}{R_1}-\frac{1}{R_2}) = \frac{1}{6}(\frac{1}{R_1}-\frac{1}{R_2})$. Still getting (a). The provided diagram seems to show a plano-concave water lens, a biconvex glass lens, and a plano-concave water lens. Let's assume R1 is radius of first glass surface, R2 radius of second. Top water lens power $P_{w1} = (\mu_w-1)(\frac{1}{\infty} - \frac{1}{R_1})$. Glass lens $P_g = (\mu_g-1)(\frac{1}{R_1} - \frac{1}{R_2})$. Bottom water lens $P_{w2} = (\mu_w-1)(\frac{1}{R_2} - \frac{1}{\infty})$. This assumes air surroundings, which is wrong. Using the surface method seems correct, result $\frac{1}{6}(\frac{1}{R_1}-\frac{1}{R_2})$. If the intended answer is (d), perhaps the question meant relative index $\mu_w/\mu_g$ or similar reversal. Assuming answer (d) is correct requires $P = (\mu_w-\mu_g)(\frac{1}{R_1}-\frac{1}{R_2}) = -\frac{1}{6}(\frac{1}{R_1}-\frac{1}{R_2})$.",
+    "difficulty": "Medium"
+  },
+  {
+    "question_number": 43,
+    "subject": "Physics",
+    "topic": "Waves (Optics, Interference)",
+    "question_text": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R).\nAssertion-(A) : If Young's double slit experiment is performed in an optically denser medium than air, then the consecutive fringes come closer.\nReason-(R) : The speed of light reduces in an optically denser medium than air while its frequency does not change.\nIn the light of the above statements, choose the most appropriate answer from the options given below :",
+    "options": {
+      "a": "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+      "b": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+      "c": "(A) is true but (R) is false",
+      "d": "(A) is false but (R) is true"
+    },
+    "correct_answer": "b",
+    "explanation": "Assertion (A): Fringe width $\\beta = \\frac{\\lambda D}{d}$. In a denser medium (refractive index $\\mu > 1$), the wavelength becomes $\\lambda' = \\lambda_{air} / \\mu$. So the new fringe width $\\beta' = \\frac{\\lambda' D}{d} = \\frac{\\lambda_{air} D}{\\mu d} = \\beta_{air} / \\mu$. Since $\\mu > 1$, $\\beta' < \\beta_{air}$. The fringes come closer. Assertion (A) is true. Reason (R): When light enters a denser medium, its speed reduces ($v = c/\\mu$) and its wavelength changes ($\\lambda' = \lambda / \\mu$), but its frequency remains unchanged. Reason (R) is true. Furthermore, the change in wavelength described in (R) directly leads to the change in fringe width described in (A). Thus, (R) is the correct explanation for (A).",
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 44,
+    "subject": "Physics",
+    "topic": "Electrostatics (Capacitors)",
+    "question_text": "A parallel-plate capacitor of capacitance $40\\mu F$ is connected to a 100 V power supply. Now the intermediate space between the plates is filled with a dielectric material of dielectric constant K = 2. Due to the introduction of dielectric material, the extra charge and the change in the electrostatic energy in the capacitor, respectively, are",
+    "options": {
+      "a": "4 mC and 0.2 J",
+      "b": "8 mC and 2.0 J",
+      "c": "2 mC and 0.4 J",
+      "d": "2 mC and 0.2 J"
+    },
+    "correct_answer": "a",
+    "explanation": "Initial state (air): $C_1 = 40\\mu F$, $V_1 = 100V$. Charge $Q_1 = C_1 V_1 = (40 \\times 10^{-6})(100) = 4 \\times 10^{-3} C = 4$ mC. Energy $U_1 = \frac{1}{2} C_1 V_1^2 = \frac{1}{2} (40 \\times 10^{-6})(100)^2 = 20 \times 10^{-6} \times 10000 = 0.2$ J. Final state (dielectric K=2, connected to supply): $C_2 = K C_1 = 2 \times 40\\mu F = 80\\mu F$. Voltage remains $V_2 = V_1 = 100V$. Charge $Q_2 = C_2 V_2 = (80 \times 10^{-6})(100) = 8 \times 10^{-3} C = 8$ mC. Energy $U_2 = \frac{1}{2} C_2 V_2^2 = \frac{1}{2} (80 \times 10^{-6})(100)^2 = 40 \times 10^{-6} \times 10000 = 0.4$ J. Extra charge $\\Delta Q = Q_2 - Q_1 = 8 mC - 4 mC = 4$ mC. Change in energy $\\Delta U = U_2 - U_1 = 0.4 J - 0.2 J = 0.2$ J. So, extra charge is 4 mC and change in energy is 0.2 J.",
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 45,
+    "subject": "Physics",
+    "topic": "Current Electricity (Resistivity)",
+    "question_text": "Which of the following resistivity ($\\rho$) v/s temperature (T) curves is most suitable to be used in wire bound standard resistors?",
+    "options": {
+      "a": "Curve (1) - Increasing rho with T, non-linear",
+      "b": "Curve (2) - Decreasing rho with T, linear",
+      "c": "Curve (3) - Nearly constant rho with T",
+      "d": "Curve (4) - Increasing rho with T, linear"
+    },
+    "correct_answer": "c",
+    "explanation": "Standard resistors require resistance to be as constant as possible over a range of temperatures. This means the resistivity $\\rho$ of the material should have a very low temperature coefficient. Curve (3) shows resistivity that is almost independent of temperature, which is the desired characteristic for materials like Manganin or Constantan used in wire-wound standard resistors.",
+    "difficulty": "Easy"
+   },
+  {
+    "question_number": 51,
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "question_text": "Radius of the first excited state of Helium ion is given as : $a_0$ -> radius of first stationary state of hydrogen atom.",
+    "options": {
+      "a": "r = 4a_0",
+      "b": "r = 2a_0",
+      "c": "r = a_0 / 2",
+      "d": "r = a_0 / 4"
+    },
+    "correct_answer": "b",
+    "explanation": "Bohr radius $r_n = a_0 \frac{n^2}{Z}$. For Helium ion He$^+$, $Z=2$. First excited state corresponds to $n=2$. Radius $r_2 = a_0 \frac{2^2}{2} = a_0 \frac{4}{2} = 2a_0$."
+  },
+  {
+    "question_number": 52,
+    "subject": "Chemistry",
+    "topic": "Isomerism (Organic)",
+    "question_text": "The incorrect statements regarding geometrical isomerism are : \n(A) Propene shows geometrical isomerism. \n(B) Trans isomer has identical atoms/groups on the opposite sides of the double bond. \n(C) Cis-but-2-ene has higher dipole moment than trans-but-2-ene. \n(D) 2-methylbut-2-ene shows two geometrical isomers. \n(E) Trans-isomer has lower melting point than cis isomer. \nChoose the correct answer from the options given below :",
+    "options": {
+      "a": "(A) and (E) Only",
+      "b": "(A), (D) and (E) Only",
+      "c": "(B) and (C) Only",
+      "d": "(C), (D) and (E) Only"
+    },
+    "correct_answer": "b",
+    "explanation": "(A) Incorrect. Propene (CH3-CH=CH2) has two identical H atoms on one of the double bonded carbons, so it cannot show geometrical isomerism. (B) Correct. This is the definition of trans isomerism. (C) Correct. In cis-but-2-ene, the methyl group dipoles add up partially, giving a net dipole moment. In trans-but-2-ene, the dipoles cancel out due to symmetry, resulting in zero or very small dipole moment. (D) Incorrect. 2-methylbut-2-ene ((CH3)2C=CHCH3) has two identical methyl groups on one of the double bonded carbons, so it cannot show geometrical isomerism. (E) Incorrect. Generally, trans isomers have higher melting points than cis isomers due to better packing in the crystal lattice because of their higher symmetry. Incorrect statements are (A), (D), and (E)."
+  },
+  {
+    "question_number": 53,
+    "subject": "Chemistry",
+    "topic": "Thermodynamics",
+    "question_text": "A liquid when kept inside a thermally insulated closed vessel at 25°C was mechanically stirred from outside. What will be the correct option for the following thermodynamic parameters ?",
+    "options": {
+      "a": "$\\Delta U < 0, q = 0, w > 0$",
+      "b": "$\\Delta U = 0, q = 0, w = 0$",
+      "c": "$\\Delta U > 0, q = 0, w > 0$",
+      "d": "$\\Delta U = 0, q < 0, w > 0$"
+    },
+    "correct_answer": "c",
+    "explanation": "Thermally insulated vessel means $q=0$ (adiabatic process). Mechanical stirring does work ON the system, so $w > 0$ by convention (work done on the system is positive). According to the first law of thermodynamics, $\\Delta U = q + w$. Since $q=0$ and $w>0$, $\\Delta U = w > 0$. The internal energy increases (manifested as a temperature rise).",
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 54,
+    "subject": "Chemistry",
+    "topic": "Periodic Properties (Electronegativity)",
+    "question_text": "Which of the following electronegativity order is incorrect?",
+    "options": {
+      "a": "Mg < Be < B < N",
+      "b": "S < Cl < O < F",
+      "c": "Al < Si < C < N",
+      "d": "Al < Mg < B < N"
+    },
+    "correct_answer": "d",
+    "explanation": "Check trends: Electronegativity generally increases across a period and decreases down a group. (a) Correct. Across period 2 (Be, B, N) EN increases. Mg is below Be, so less EN. Order: Mg < Be < B < N. (b) Correct. F > O, Cl > S (general trend). F is most EN. O > Cl > S. Order S < Cl < O < F. (c) Correct. C > Si > Al. N > C. Across period 3: Al < Si. Period 2: C < N. Order Al < Si < C < N. (d) Incorrect. Comparing Mg and Al (Period 3): Al > Mg. Comparing Mg and B: B is Period 2, right of Be. Mg is Period 3 below Be. Generally B > Mg. Comparing Al and B: B > Al. Order should be Mg < Al < B < N. Option (d) puts Mg > Al.",
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 55,
+    "subject": "Chemistry",
+    "topic": "f-Block Elements (Electronic Configuration)",
+    "question_text": "Lanthanoid ions with 4f$^7$ configuration are : (A) Eu$^{2+}$ (B) Gd$^{3+}$ (C) Eu$^{3+}$ (D) Tb$^{3+}$ (E) Sm$^{2+}$ Choose the correct answer from the options given below :",
+    "options": {
+      "a": "(A) and (D) only",
+      "b": "(B) and (C) only",
+      "c": "(A) and (B) only",
+      "d": "(B) and (E) only"
+    },
+    "correct_answer": "c",
+    "explanation": "Check electronic configurations: (A) Eu (Z=63): [Xe] 4f$^7$ 6s$^2$. Eu$^{2+}$: [Xe] 4f$^7$. (Correct) (B) Gd (Z=64): [Xe] 4f$^7$ 5d$^1$ 6s$^2$. Gd$^{3+}$: [Xe] 4f$^7$. (Correct) (C) Eu (Z=63): [Xe] 4f$^7$ 6s$^2$. Eu$^{3+}$: [Xe] 4f$^6$. (Incorrect) (D) Tb (Z=65): [Xe] 4f$^9$ 6s$^2$. Tb$^{3+}$: [Xe] 4f$^8$. (Incorrect) (E) Sm (Z=62): [Xe] 4f$^6$ 6s$^2$. Sm$^{2+}$: [Xe] 4f$^6$. (Incorrect). Ions with 4f$^7$ configuration are Eu$^{2+}$ and Gd$^{3+}$.",
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 56,
+    "subject": "Chemistry",
+    "topic": "Hydrocarbons (Acidity)",
+    "question_text": "Given below are two statements : \nStatement I : One mole of propyne reacts with excess of sodium to liberate half a mole of H$_2$ gas. \nStatement II : Four g of propyne reacts with NaNH$_2$ to liberate NH$_3$ gas which occupies 224 mL at STP. \nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+    "options": {
+      "a": "Statement I is incorrect but Statement II is correct",
+      "b": "Both Statement I and Statement II are correct",
+      "c": "Statement I is correct but Statement II is incorrect",
+      "d": "Both Statement I and Statement II are incorrect"
+    },
+    "correct_answer": "c",
+    "explanation": "Statement I: Correct. Propyne (CH$_3$-C≡CH) has one acidic hydrogen. Reaction with excess Na: CH$_3$-C≡CH + Na → CH$_3$-C≡C$^-$Na$^+$ + 1/2 H$_2$. One mole of propyne gives half a mole of H$_2$. Statement II: Incorrect. Propyne reacts with NaNH$_2$ (a strong base) in an acid-base reaction: CH$_3$-C≡CH + NaNH$_2$ → CH$_3$-C≡C$^-$Na$^+$ + NH$_3$. Molar mass of propyne (C$_3$H$_4$) = 3*12 + 4*1 = 40 g/mol. 4 g of propyne is 4/40 = 0.1 mole. According to stoichiometry, 0.1 mole of propyne produces 0.1 mole of NH$_3$. Volume of 0.1 mole NH$_3$ at STP = 0.1 * 22.4 L = 2.24 L = 2240 mL. Statement II says 224 mL is produced, which corresponds to 0.01 mole NH$_3$. This is incorrect based on 4g propyne.",
+    "difficulty": "Medium"
+  },
+  {
+    "question_number": 57,
+    "subject": "Chemistry",
+    "topic": "Aldehydes & Ketones (Tests)",
+    "question_text": "The compounds which give positive Fehling's test are : \n(A) Benzaldehyde ![Benzaldehyde](JEE_Main/assets/jee_main_2025_01_22_s1_q57_a.png) \n(B) Acetophenone ![Acetophenone](JEE_Main/assets/jee_main_2025_01_22_s1_q57_b.png) \n(C) Fructose (HOCH$_2$ – CO – (CHOH)$_3$ – CH$_2$OH) \n(D) Acetaldehyde (CH$_3$CHO) ![Acetaldehyde structure implied](JEE_Main/assets/...) \n(E) A compound containing an alpha-hydroxy ketone group. ![Structure E: alpha-hydroxy ketone](JEE_Main/assets/jee_main_2025_01_22_s1_q57_e.png)\nChoose the correct answer from the options given below :",
+    "options": {
+      "a": "(A), (D) and (E) Only",
+      "b": "(C), (D) and (E) Only",
+      "c": "(A), (C) and (D) Only",
+      "d": "(A), (B) and (C) Only"
+    },
+    "correct_answer": "b",
+    "explanation": "Fehling's test is given by aliphatic aldehydes and alpha-hydroxy ketones. (A) Benzaldehyde is an aromatic aldehyde and does not give a positive Fehling's test. (B) Acetophenone is a ketone and does not give the test. (C) Fructose is a ketose, but it contains an alpha-hydroxy ketone group and isomerizes to glucose (an aldose) in the basic medium of Fehling's reagent, thus giving a positive test. (D) Acetaldehyde is an aliphatic aldehyde and gives a positive test. (E) Alpha-hydroxy ketones give a positive Fehling's test. Therefore, C, D, and E give positive tests.",
+    "difficulty": "Medium"
+  },
+  {
+    "question_number": 58,
+    "subject": "Chemistry",
+    "topic": "Electrochemistry (Electrolysis)",
+    "question_text": "Which of the following electrolyte can be used to obtain H$_2$S$_2$O$_8$ by the process of electrolysis?",
+    "options": {
+      "a": "Dilute solution of sodium sulphate.",
+      "b": "Acidified dilute solution of sodium sulphate.",
+      "c": "Dilute solution of sulphuric acid",
+      "d": "Concentrated solution of sulphuric acid"
+    },
+    "correct_answer": "d",
+    "explanation": "Peroxodisulfuric acid (H$_2$S$_2$O$_8$) is prepared by the electrolysis of a concentrated solution of sulfuric acid (or ammonium sulfate solution in sulfuric acid) at high current density. At the anode, sulfate ions (or bisulfate ions) are oxidized and couple: 2HSO$_4^-$ → H$_2$S$_2$O$_8$ + 2e$^-$.",
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 59,
+    "subject": "Chemistry",
+    "topic": "Reaction Mechanisms (Organic)",
+    "question_text": "Given below are two statements : \nStatement I : CH$_3$ – O – CH$_2$ – Cl will undergo S$_N$1 reaction though it is a primary halide. \nStatement II : ![Structure: (CH3)3C-CH2-Cl](JEE_Main/assets/...) (Neopentyl chloride) will not undergo S$_N$2 reaction very easily though it is a primary halide. \nIn the light of the above statements, choose the most appropriate answer from the options given below :",
+    "options": {
+      "a": "Both Statement I and Statement II are incorrect",
+      "b": "Both Statement I and Statement II are correct",
+      "c": "Statement I is incorrect but Statement II is correct",
+      "d": "Statement I is correct but Statement II is incorrect"
+    },
+    "correct_answer": "b",
+    "explanation": "Statement I: Correct. CH$_3$–O–CH$_2$–Cl is chloromethyl methyl ether. Although it's a primary halide, the adjacent oxygen atom can stabilize the carbocation formed during S$_N$1 via resonance (CH$_3$–O$^+$=CH$_2$ <-> CH$_3$–O–CH$_2^+$). This stabilization favors the S$_N$1 pathway. Statement II: Correct. Neopentyl chloride ((CH$_3$)$_3$C-CH$_2$-Cl) is a primary halide, but the bulky tertiary carbon atom adjacent to the primary carbon causes significant steric hindrance for the backside attack required in the S$_N$2 mechanism. Therefore, S$_N$2 reaction is very slow or does not occur easily.",
+    "difficulty": "Medium"
+  },
+  {
+    "question_number": 60,
+    "subject": "Chemistry",
+    "topic": "Biomolecules / Organic Chemistry",
+    "question_text": "Which of the following acids is a vitamin?",
+    "options": {
+      "a": "Adipic acid",
+      "b": "Ascorbic acid",
+      "c": "Saccharic acid",
+      "d": "Aspartic acid"
+    },
+    "correct_answer": "b",
+    "explanation": "Ascorbic acid is Vitamin C. Adipic acid is used in nylon production. Saccharic acid is an oxidation product of glucose. Aspartic acid is an amino acid.",
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 61,
+    "subject": "Chemistry",
+    "topic": "Periodic Properties",
+    "question_text": "Match List-I with List-II.\nList - I\n(A) Al$^{3+}$ < Mg$^{2+}$ < Na$^+$ < F$^-$ \n(B) B < C < O < N \n(C) B < Al < Mg < K \n(D) Si < P < S < Cl\nList - II\n(I) Ionisation Enthalpy \n(II) Metallic character \n(III) Electronegativity \n(IV) Ionic radii\nChoose the correct answer from the options given below :",
+    "options": {
+      "a": "(A)-(IV), (B)-(I), (C)-(II), (D)-(III)",
+      "b": "(A)-(IV), (B)-(I), (C)- (III), (D)-(II)",
+      "c": "(A)-(III), (B)-(IV), (C)- (II), (D)-(I)",
+      "d": "(A)-(II), (B)-(III), (C)-(IV), (D)-(I)"
+    },
+    "correct_answer": "a",
+    "explanation": "(A) Al$^{3+}$, Mg$^{2+}$, Na$^+$, F$^-$ are isoelectronic species. For isoelectronic species, radius decreases as nuclear charge increases. F (Z=9), Na (Z=11), Mg (Z=12), Al (Z=13). Order of increasing Z: F < Na < Mg < Al. Order of decreasing ionic radii: F$^-$ > Na$^+$ > Mg$^{2+}$ > Al$^{3+}$. So, (A) matches (IV) Ionic radii. (B) B, C, N, O are in Period 2. Ionization Enthalpy generally increases across a period, but N has higher IE than O due to stable half-filled p-subshell. Order: B < C < O < N. So, (B) matches (I) Ionisation Enthalpy. (C) B, Al, Mg, K. Metallic character increases down a group and decreases across a period. K (Group 1, Period 4) > Mg (Group 2, Period 3) > Al (Group 13, Period 3) > B (Group 13, Period 2). Order of increasing metallic character: B < Al < Mg < K. So, (C) matches (II) Metallic character. (D) Si, P, S, Cl are in Period 3. Electronegativity increases across a period. Order: Si < P < S < Cl. So, (D) matches (III) Electronegativity. Correct match: (A)-(IV), (B)-(I), (C)-(II), (D)-(III).",
+    "difficulty": "Medium"
+  },
+  {
+    "question_number": 62,
+    "subject": "Chemistry",
+    "topic": "Nuclear Chemistry / Radioactivity",
+    "question_text": "Which of the following statement is not true for radioactive decay?",
+    "options": {
+      "a": "Decay constant increases with increase in temperature.",
+      "b": "Amount of radioactive substance remained after three half lives is 1/8 th of original amount.",
+      "c": "Decay constant does not depend upon temperature.",
+      "d": "Half life is ln 2 times of 1 / rate constant"
+    },
+    "correct_answer": "a",
+    "explanation": "(a) Not True. Radioactive decay is a nuclear phenomenon and is independent of external factors like temperature and pressure. The decay constant (rate constant) does not change with temperature. (b) True. After n half-lives, the remaining amount is $(1/2)^n$ times the original amount. For n=3, remaining amount = $(1/2)^3 = 1/8$ of original. (c) True. As explained in (a). (d) True. Half-life $t_{1/2} = \frac{\ln 2}{k}$, where k is the rate constant (decay constant). So, $t_{1/2} = (\ln 2) \times (1/k)$.",
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 63,
+    "subject": "Chemistry",
+    "topic": "Organic Reactions",
+    "question_text": "The products formed in the following reaction sequence are :\n![Reaction sequence starting with phenol, reacting with various reagents to form A+B](JEE_Main/assets/jee_main_2025_01_22_s1_q63.png)\nReagents: (i) Br$_2$, AcOH (ii) Sn, HCl (iii) NaNO$_2$, HCl, 273 K (iv) C$_2$H$_5$OH",
+    "options": {
+      "a": "Structure 1 (Phenol)",
+      "b": "Structure 2 (Ethoxybenzene)",
+      "c": "Structure 3 (p-Bromophenol)",
+      "d": "Structure 4 (Mixture of p-Bromophenol and Benzene?)"
+    },
+    "correct_answer": "c",
+    "explanation": "Starting material is likely Benzene (based on products like p-bromophenol/ethoxybenzene) or Phenol. Let's assume Benzene + NO2 group attached initially -> Nitrobenzene. (i) Br2, AcOH doesn't react readily. If starts with Phenol: (i) Br2, AcOH -> monobromination, likely p-Bromophenol (and some o-). Let's assume starting material is Aniline (based on Sn/HCl step). (i) Br2, AcOH -> Tribromination (2,4,6-tribromoaniline). Step (ii) Sn/HCl is reduction (relevant for nitro group). Step (iii) NaNO2/HCl 273K is diazotization (for primary amine). Step (iv) C2H5OH + diazonium salt leads to reduction (deamination, removal of N2+) forming Benzene derivative, or ether formation. Let's re-examine Q63 image properly. The reactant IS shown: Nitrobenzene. (i) Br2, AcOH with nitrobenzene -> requires FeBr3 catalyst for bromination, usually gives m-bromonitrobenzene. Assuming Br2/AcOH works -> m-Bromonitrobenzene. (ii) Sn, HCl -> Reduction of NO2 to NH2 -> m-Bromoaniline. (iii) NaNO2, HCl, 273K -> Diazotization -> m-Bromobenzenediazonium chloride. (iv) C2H5OH -> Reduction of diazonium group -> Bromobenzene. If step (i) was Br2/FeBr3, the product is m-bromobenzene. Let's reconsider the reactant image, it looks like Aniline with OH? No, it looks like reactant is Phenol (image 1). Sequence on Phenol: (i) Br2, AcOH -> p-Bromophenol + o-Bromophenol. (ii) Sn, HCl -> No reaction? (iii) NaNO2/HCl -> No reaction? (iv) C2H5OH -> No reaction? This sequence seems mismatched for Phenol. Let's assume reactant is Aniline. (i) Br2, AcOH -> Tribromination -> 2,4,6-tribromoaniline. (ii) Sn/HCl -> No effect. (iii) NaNO2/HCl -> Diazotization -> diazonium salt. (iv) C2H5OH -> Reduction -> 1,3,5-Tribromobenzene. Look at options. (1) Phenol, (2) Ethoxybenzene, (3) p-Bromophenol + CH3CHO? No, (3) p-Bromophenol + p-Bromoethoxybenzene? The options shown in the image are complex structures, not just names. Option (1) looks like Phenol and Ethoxybenzene. Option (2) Ethoxybenzene. Option (3) p-Bromophenol and Acetaldehyde? Option (4) p-Bromophenol and p-Bromoethoxybenzene. The answer key says 63 -> (3). Let's assume the starting material leads to p-Bromophenol. Phenol -> (i) p-Bromophenol. If the sequence somehow produces acetaldehyde too... Maybe the structure in option 3 second part is wrong OCR. It seems to be CH3-CHO, maybe oxidation side reaction? Let's assume the primary product is p-Bromophenol. This implies starting with Phenol and step (i) giving p-Bromophenol. Steps ii, iii, iv might be irrelevant or act differently. Given the answer points to option (3), p-Bromophenol is likely one product. The second product is unclear from OCR / image snippets.",
+    "difficulty": "Hard"
+  },
+  {
+    "question_number": 64,
+    "subject": "Chemistry",
+    "topic": "Stereoisomerism",
+    "question_text": "How many different stereoisomers are possible for the given molecule?\nCH$_3$–CH(OH)–CH=CH–CH$_3$",
+    "options": {
+      "a": "2",
+      "b": "1",
+      "c": "4",
+      "d": "3"
+    },
+    "correct_answer": "c",
+    "explanation": "The molecule is Pent-3-en-2-ol. It has one chiral center (C2, bonded to H, OH, CH3, -CH=CH-CH3) and one double bond (C3=C4) that can exhibit geometrical isomerism (cis/trans). The groups on C3 are H and -CH(OH)CH3. Groups on C4 are H and CH3. Since groups on both C3 and C4 are different, geometrical isomerism is possible (E/Z). Number of stereoisomers = $2^n$, where n is the number of stereogenic centers (chiral centers + centers of geometrical isomerism). Here n = 1 (chiral center) + 1 (double bond) = 2. Total stereoisomers = $2^2 = 4$. These are (R, E), (S, E), (R, Z), (S, Z)."
+  },
+  {
+    "question_number": 65,
+    "subject": "Chemistry",
+    "topic": "Chemical Equilibrium",
+    "question_text": "A vessel at 1000 K contains CO$_2$ with a pressure of 0.5 atm . Some of CO$_2$ is converted into CO on addition of graphite. If total pressure at equilibrium is 0.8 atm, then Kp is :",
+    "options": {
+      "a": "1.8 atm",
+      "b": "0.3 atm",
+      "c": "3 atm",
+      "d": "0.18 atm"
+    },
+    "correct_answer": "a",
+    "explanation": "Reaction: CO$_2$(g) + C(s) <=> 2CO(g). Initial: P(CO2)=0.5, P(CO)=0. Equilibrium: Let partial pressure decrease of CO2 be x. Then P(CO2)=0.5-x, P(CO)=2x. Total pressure $P_{total} = P(CO2) + P(CO) = (0.5-x) + 2x = 0.5+x$. Given $P_{total}=0.8$ atm. So, $0.5+x = 0.8 \implies x = 0.3$ atm. Equilibrium pressures: P(CO2) = 0.5 - 0.3 = 0.2 atm. P(CO) = 2 * 0.3 = 0.6 atm. Equilibrium constant $K_p = \frac{(P_{CO})^2}{P_{CO2}} = \frac{(0.6)^2}{0.2} = \frac{0.36}{0.2} = 1.8$ atm.",
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 66,
+    "subject": "Chemistry",
+    "topic": "Electrochemistry (Faraday's Laws)",
+    "question_text": "A solution of aluminium chloride is electrolysed for 30 minutes using a current of 2 A . The amount of the aluminium deposited at the cathode is [Given : molar mass of aluminium and chlorine are 27 g mol$^{-1}$ and 35.5 g mol$^{-1}$ respectively. Faraday constant = 96500 C mol$^{-1}$]",
+    "options": {
+      "a": "1.660 g",
+      "b": "0.336 g",
+      "c": "0.441 g",
+      "d": "1.007 g"
+    },
+    "correct_answer": "b",
+    "explanation": "Reaction at cathode: Al$^{3+}$ + 3e$^-$ → Al(s). Total charge passed $Q = I \times t = 2 A \times (30 \times 60 s) = 3600$ C. Moles of electrons passed = $Q / F = 3600 / 96500$ mol. From stoichiometry, 3 moles of electrons deposit 1 mole of Al (27 g). Moles of Al deposited = $\frac{1}{3} \times (\text{moles of electrons}) = \frac{1}{3} \times \frac{3600}{96500}$. Mass of Al deposited = (Moles of Al) * (Molar mass of Al) = $\left( \\frac{1}{3} \times \\frac{3600}{96500} \\right) \times 27 = \\frac{1200 \times 27}{96500} = \\frac{32400}{96500} \approx 0.33575$ g.",
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 67,
+    "subject": "Chemistry",
+    "topic": "Nomenclature (Organic)",
+    "question_text": "The IUPAC name of the following compound is : \n ![Compound: CH3-CH(COOCH3)-CH2-CH2-CH(COOH)-CH3](JEE_Main/assets/jee_main_2025_01_22_s1_q67.png)",
+    "options": {
+      "a": "Methyl-6-carboxy-2,5-dimethylhexanoate.",
+      "b": "2-Carboxy-5-methoxycarbonylhexane.",
+      "c": "6-Methoxycarbonyl-2,5-dimethylhexanoic acid.",
+      "d": "Methyl-5-carboxy-2-methylhexanoate."
+    },
+    "correct_answer": "c",
+    "explanation": "The compound has two functional groups: carboxylic acid (-COOH) and ester (-COOCH3). Carboxylic acid has higher priority, so it determines the principal chain and suffix (-oic acid). Numbering starts from the -COOH carbon. Longest chain containing -COOH is 6 carbons (hexanoic acid). CH3-CH(COOH)-CH2-CH2-CH(COOCH3)-CH3. Numbering from right: 1-COOH, 2-CH(CH3), 3-CH2, 4-CH2, 5-CH(COOCH3), 6-CH3. Main chain is 6 carbons. Acid is at C1. Substituents: methyl at C2, and [methoxycarbonyl group + methyl group] at C5? No, the chain must be selected correctly. Let's identify the principal functional group: -COOH. The chain must include this carbon. Longest chain including C1(-COOH): HOOC-CH(CH3)-CH2-CH2-CH(COOCH3)-CH3. Chain length = 6. So, Hexanoic acid. Substituents: Methyl at C2. At C5, there is a methyl group and a methoxycarbonyl (-COOCH3) group. This numbering seems wrong based on image. Let's look at the image structure: Seems like C1(leftmost CH3)-C2(CH with COOCH3)-C3(CH2)-C4(CH2)-C5(CH with COOH)-C6(rightmost CH3). Prioritize COOH. Number from right: C1(CH3)-C2(CH with COOH)-C3(CH2)-C4(CH2)-C5(CH with COOCH3)-C6(CH3). Chain is 6 carbons long. It's a hexanoic acid derivative. -COOH is at C2. Substituents: Methyl at C2, Methoxycarbonyl at C5, Methyl at C5. Wait, the image has structure C1(HOOC)-C2(CH-CH3)-C3(CH2)-C4(CH2)-C5(CH-COOCH3)-C6(CH3). Principal chain is 6 carbons. Acid at C1. Name: ...hexanoic acid. Substituents: Methyl at C2. Methoxycarbonyl at C5. Methyl at C5. Wait, structure is C1(CH3)-C2(CH(COOH))-C3(CH2)-C4(CH2)-C5(CH(COOCH3))-C6(CH3)? Let's re-draw based on Q67 image more carefully. It's HOOC-CH(CH3)-CH2-CH2-CH(COOCH3)-CH3. Priority to COOH. C1 is COOH carbon. Numbering C1(COOH)-C2(CH-CH3)-C3(CH2)-C4(CH2)-C5(CH-COOCH3)-C6(CH3). This is a heptanoic acid derivative. C1=COOH. Substituents: 2-methyl, 5-methoxycarbonyl, 5-methyl. Name: 5-Methoxycarbonyl-2,5-dimethylheptanoic acid. This doesn't match options. Let's assume the structure given in the text representation is correct: CH3-CH(COOCH3)-CH2-CH2-CH(COOH)-CH3. Priority COOH. Numbering: C1(CH3)-C2(CH(COOH))-C3(CH2)-C4(CH2)-C5(CH(COOCH3))-C6(CH3). It's a hexanoic acid. C1 is CH3, C2 has COOH. No, COOH must be C1 if possible. Let's number containing the COOH carbon in the main chain. HOOC-CH(CH3)-CH2-CH2-CH(COOCH3)-CH3. Main chain is 6 C atoms starting from COOH. 1(COOH), 2(CH-CH3), 3(CH2), 4(CH2), 5(CH-COOCH3), 6(CH3). It is 2-Methyl-5-methoxycarbonylhexanoic acid. Option (c) is 6-Methoxycarbonyl-2,5-dimethylhexanoic acid. This implies a 7 carbon chain? Rechecking the image drawing of Q67 structure carefully: Left end: COOH group. Right end: COOCH3 group. Chain: CH3-CH(group1)-CH2-CH2-CH(group2)-CH3. One group is COOH, other is COOCH3. Structure seems to be: CH3-CH(COOH)-CH2-CH2-CH(COOCH3)-CH3. Priority COOH. Chain numbered from left: 1(CH3)-2(CH-COOH)-3(CH2)-4(CH2)-5(CH-COOCH3)-6(CH3). Main chain is 6 carbons containing COOH at C2. Ester at C5. Substituents: methyl at C2, methoxycarbonyl at C5, methyl at C5. Hmm. Let's assume COOH is principal group. Chain containing it is 6 carbons. Number from the end closer to COOH: 1(CH3)-2(CH(COOCH3))-3(CH2)-4(CH2)-5(CH(COOH))-6(CH3). Name: ...hexanoic acid. Position 5. Substituents: methyl at 5, methoxycarbonyl at 2, methyl at 2. Name: 2-Methoxycarbonyl-2,5-dimethylhexanoic acid. Still not matching. Let's assume Ester is principal group (-oate suffix). Chain associated with O is methyl. Chain associated with C=O contains the COOH. Structure: CH3-CH(COOH)-CH2-CH2-CH(COOCH3)-CH3. Ester group COOCH3 at C5. Name: Methyl ...ester... Main chain containing C=O of ester: 5 carbons + C=O. CH3-CH(COOH)-CH2-CH2-CH-. Name: Methyl 5-carboxy-2-methylhexanoate. Matches option (d). Let's check priority rules again. COOH > Ester. So it MUST be an acid. Name must end in -oic acid. The only options ending in acid are (c). Option (c): 6-Methoxycarbonyl-2,5-dimethylhexanoic acid. Implies a 6 carbon acid chain, COOH is C1. Substituents at C2(methyl), C5(methyl), C6(methoxycarbonyl). Is the structure C1(COOH)-C2(CH-CH3)-C3(CH2)-C4(CH2)-C5(CH-CH3)-C6(COOCH3)? This structure fits name (c). Comparing with the image, it seems possible this is the intended structure (left COOH, right COOCH3).",
+    "difficulty": "Medium"
+  },
+  {
+    "question_number": 68,
+    "subject": "Chemistry",
+    "topic": "Coordination Compounds (CFT)",
+    "question_text": "In which of the following complexes the CFSE, $\\Delta_o$ will be equal to zero?",
+    "options": {
+      "a": "[Fe(en)$_3$]Cl$_3$",
+      "b": "K$_4$[Fe(CN)$_6$]",
+      "c": "[Fe(NH$_3$)$_6$]Br$_2$",
+      "d": "K$_3$[Fe(SCN)$_6$]"
+    },
+    "correct_answer": "d",
+    "explanation": "CFSE depends on the d-electron configuration and the ligand field strength. We need a configuration where CFSE sums to zero. $\\Delta_o = 0$ specifically implies either $d^0$, $d^{10}$ configuration, or high-spin $d^5$. (a) [Fe(en)$_3$]$^{3+}$. Fe is +3. $d^5$. en is strong field ligand -> low spin. Config: $t_{2g}^5 e_g^0$. CFSE = $-0.4 \times 5 \Delta_o = -2.0 \Delta_o$. Not zero. (b) [Fe(CN)$_6$]$^{4-}$. Fe is +2. $d^6$. CN$^-$ is strong field ligand -> low spin. Config: $t_{2g}^6 e_g^0$. CFSE = $-0.4 \times 6 \Delta_o = -2.4 \Delta_o$. Not zero. (c) [Fe(NH$_3$)$_6$]$^{2+}$. Fe is +2. $d^6$. NH$_3$ is moderate/strong field, assume low spin possible? Or high spin? Fe$^{2+}$ usually high spin with NH3. Config(HS): $t_{2g}^4 e_g^2$. CFSE = $(-0.4 \times 4 + 0.6 \times 2) \Delta_o = (-1.6+1.2)\Delta_o = -0.4 \Delta_o$. Not zero. (d) [Fe(SCN)$_6$]$^{3-}$. Fe is +3. $d^5$. SCN$^-$ is weak field ligand -> high spin. Config(HS): $t_{2g}^3 e_g^2$. CFSE = $(-0.4 \times 3 + 0.6 \times 2) \Delta_o = (-1.2 + 1.2) \Delta_o = 0$. CFSE is zero.",
+    "difficulty": "Medium"
+  },
+  {
+    "question_number": 69,
+    "subject": "Chemistry",
+    "topic": "Solutions (Colligative Properties)",
+    "question_text": "Arrange the following solutions in order of their increasing boiling points. \n(i) 10$^{-4}$M NaCl (ii) 10$^{-4}$M Urea (iii) 10$^{-3}$M NaCl (iv) 10$^{-2}$M NaCl",
+    "options": {
+      "a": "(i) < (ii) < (iii) < (iv)",
+      "b": "(iv) < (iii) < (i) < (ii)",
+      "c": "(ii) < (i) < (iii) < (iv)",
+      "d": "(ii) < (i) < (iii) < (iv)"
+    },
+    "correct_answer": "c",
+    "explanation": "Boiling point elevation $\\Delta T_b = i K_b m$. Higher effective molality ($i \times m$) leads to higher boiling point. Assume molarity $\approx$ molality for dilute solutions. Urea is non-electrolyte, $i=1$. NaCl is strong electrolyte, $i=2$ (Na$^+$ + Cl$^-$). Effective concentrations: (i) $i \times m = 2 \times 10^{-4} = 0.0002$. (ii) $i \times m = 1 \times 10^{-4} = 0.0001$. (iii) $i \times m = 2 \times 10^{-3} = 0.002$. (iv) $i \times m = 2 \times 10^{-2} = 0.02$. Order of increasing effective concentration: (ii) < (i) < (iii) < (iv). This corresponds to the order of increasing boiling points.",
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 70,
+    "subject": "Chemistry",
+    "topic": "Coordination Compounds (Properties)",
+    "question_text": "From the magnetic behaviour of [NiCl$_4$]$^{2-}$ (paramagnetic) and [Ni(CO)$_4$] (diamagnetic), choose the correct geometry and oxidation state.",
+    "options": {
+      "a": "[NiCl$_4$]$^{2-}$ : Ni$^{II}$, tetrahedral ; [Ni(CO)$_4$] : Ni$^0$, square planar",
+      "b": "[NiCl$_4$]$^{2-}$ : Ni$^{II}$, square planar ; [Ni(CO)$_4$] : Ni$^0$, square planar",
+      "c": "[NiCl$_4$]$^{2-}$ : Ni$^{II}$, tetrahedral ; [Ni(CO)$_4$] : Ni$^0$, tetrahedral",
+      "d": "[NiCl$_4$]$^{2-}$ : Ni$^0$, tetrahedral ; [Ni(CO)$_4$] : Ni$^0$, square planar"
+    },
+    "correct_answer": "c",
+    "explanation": "[NiCl$_4$]$^{2-}$: Ni oxidation state is +2 (Cl is -1). Ni$^{2+}$ is $d^8$. Cl$^-$ is a weak field ligand. In tetrahedral geometry, the configuration is $e^4 t_2^4$. This has 2 unpaired electrons ($t_2$ level has 3 orbitals, $e$ level has 2). Thus, it's paramagnetic. Geometry is tetrahedral (common for 4-coordinate with weak field). [Ni(CO)$_4$]: CO is neutral ligand. Ni oxidation state is 0. Ni$^0$ is $d^8 s^2$, effectively $d^{10}$ in bonding context. CO is a strong field ligand. With 4 ligands and $d^{10}$ configuration, the geometry is tetrahedral ($sp^3$ hybridization). All electrons are paired (d orbitals full), so it's diamagnetic. Correct combination: [NiCl$_4$]$^{2-}$: Ni(II), tetrahedral, paramagnetic. [Ni(CO)$_4$]: Ni(0), tetrahedral, diamagnetic. Option (c) matches this.",
+    "difficulty": "Easy"
+   },
+  {
+    "question_number": 73,
+    "subject": "Chemistry",
+    "topic": "Organic Reactions",
+    "question_text": "Consider the following sequence of reactions:\n![Reaction starting with Nitrobenzene -> Product A](JEE_Main/assets/jee_main_2025_01_22_s1_q73.png)\nReagents: (i) Sn + HCl (ii) NaNO$_2$, HCl, 0°C (iii) Cu$_2$Cl$_2$ (iv) Na, Ether\nMolar mass of the product formed (A) is ______ gmol$^{-1}$.",
+    "options": {},
+    "correct_answer": "154",
+    "explanation": "Reactant: Nitrobenzene (C$_6$H$_5$NO$_2$). (i) Sn + HCl: Reduction of nitro group to amino group -> Aniline (C$_6$H$_5$NH$_2$). (ii) NaNO$_2$, HCl, 0°C: Diazotization -> Benzenediazonium chloride (C$_6$H$_5$N$_2^+$Cl$^-$). (iii) Cu$_2$Cl$_2$: Sandmeyer reaction -> Chlorobenzene (C$_6$H$_5$Cl). (iv) Na, Ether: Wurtz-Fittig reaction. Two molecules of Chlorobenzene react -> Biphenyl (C$_6$H$_5$–C$_6$H$_5$). Product A is Biphenyl. Molar mass of Biphenyl (C$_{12}$H$_{10}$) = (12 * 12) + (10 * 1) = 144 + 10 = 154 g/mol. Note: Answer key shows 154.",
+    "difficulty": "Medium"
+   },
+  {
+    "question_number": 75,
+    "subject": "Chemistry",
+    "topic": "Quantitative Analysis (Organic)",
+    "question_text": "In Carius method for estimation of halogens, 180 mg of an organic compound produced 143.5 mg of AgCl. The percentage composition of chlorine in the compound is ______%. (Given : molar mass in gmol$^{-1}$ of Ag : 108, Cl : 35.5)",
+    "options": {},
+    "correct_answer": "20",
+    "explanation": "Molar mass of AgCl = 108 + 35.5 = 143.5 g/mol. Mass of organic compound = 180 mg = 0.180 g. Mass of AgCl produced = 143.5 mg = 0.1435 g. Moles of AgCl = Mass / Molar mass = 0.1435 g / 143.5 g/mol = 0.001 mol. 1 mole of AgCl contains 1 mole of Cl. Moles of Cl in the sample = 0.001 mol. Mass of Cl = Moles * Molar mass = 0.001 mol * 35.5 g/mol = 0.0355 g = 35.5 mg. Percentage of Cl in the compound = (Mass of Cl / Mass of compound) * 100 = (35.5 mg / 180 mg) * 100 = (35.5 / 1.8) % \\approx 19.72%. Rounded to nearest integer if needed, but question seems to expect exact match. Let's recheck calculation. Mass Cl = 35.5mg. Mass compound = 180mg. %Cl = (35.5/180) * 100 = 3550 / 180 = 355 / 18 = 19.72... % Perhaps there's a typo in numbers. If AgCl was 143.5 mg from 177.5 mg compound? Or 143.5mg from 180mg -> 19.7%. Let's check answer key: 75 -> (20). This suggests the answer should be exactly 20%. Let's see if slight changes give 20%. If mass of compound was 177.5 mg: (35.5/177.5)*100 = 20%. It is likely the mass of the compound was intended to be 177.5 mg or the AgCl mass adjusted to give exactly 20%. Given the values, 19.72% is the calculated value. Assuming the answer is exactly 20%.",
+    "difficulty": "Easy"
+   }
+]
