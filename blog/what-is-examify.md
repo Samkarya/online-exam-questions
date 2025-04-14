@@ -44,4 +44,4 @@ Go beyond just a score:
 
 Ready to take your preparation to the next level?
 
-[Start Practicing Now](/select-exam)
+[Start Practicing Now](https://examify.web.app/select-exam)
