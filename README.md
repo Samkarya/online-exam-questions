@@ -1,8 +1,8 @@
-# Online Exam Questions for Examify Platform
+# 📚 Online Exam Questions for Examify Platform
 
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Visit Examify: [https://examify.web.app/](https://examify.web.app/)
+**Visit Examify:** [https://examify.web.app/](https://examify.web.app/)
 
 **License:** MIT
 
@@ -16,280 +16,324 @@ The goal of this repository is to:
 *   **Enable Collaboration:** Allow students, educators, and enthusiasts to contribute new question sets, improve existing ones, and add valuable explanations.
 *   **Provide Transparency:** Offer clarity on the source and format of the practice questions used within Examify.
 
-## JSON Question Format
+## How Examify Uses This Repository
 
-Each `.json` file within the category directories represents a single exam paper or question set. The file **must** contain a valid JSON array (`[]`) where each element is an object representing a single question.
+Examify relies on **two key components** from this repository:
 
-### Mandatory Fields per Question Object:
+1.  **`config.json` (Root Level):** This file acts as the **master index**. Examify reads this file *first* to understand which official exams are available, how they are categorized, and where to find their specific question files. It drives the multi-step selection UI (Category -> Year -> Session -> Paper).
+2.  **Question JSON Files (Category Directories):** These files contain the actual questions, options, answers, and explanations for each specific exam paper instance, following a defined format.
 
-*   `question_number` (Number): A unique integer identifying the question within the set (e.g., 1, 2, ...). Must be sequential and start from 1.
-*   `question_text` (String): The main text/body of the question. Can include plain text, LaTeX for math, Markdown for images/code. See [Handling Complex Content](#handling-complex-content).
-*   `options` (Object): An object where keys are the option identifiers (e.g., `"a"`, `"b"`, `"c"`, `"d"`) and values are the corresponding option text (String). Option values can also include LaTeX, Markdown images/code.
-*   `correct_answer` (String): The key (e.g., `"a"`, `"b"`) from the `options` object that represents the correct answer. Must exactly match one of the keys in `options`.
+---
 
-### Optional Fields per Question Object:
+## ⚙️ `config.json` - The Master Exam Index
 
-*   `subject` (String): The subject area the question belongs to (e.g., "Mathematics", "Physics", "Chemistry", "Computer Science").
-*   `topic` (String): A more specific topic within the subject (e.g., "Calculus", "Optics", "Organic Chemistry", "Data Structures").
-*   `explanation` (String): A detailed explanation for the correct answer. **Highly encouraged** for learning! Can include LaTeX, Markdown images/code.
-*   `difficulty` (String): Suggested difficulty level (e.g., "Easy", "Medium", "Hard").
-*   `section_id` (String): Identifier if the question belongs to a specific section within the exam (useful for exams with distinct sections like "Section A", "Section B").
+This file, located at the **root** of the repository, defines every official exam paper instance available in the Examify platform's "Official Mock Tests" section.
 
-### Example Question Object:
-
-```json
-{
-  "question_number": 1,
-  "subject": "Mathematics",
-  "topic": "Algebra",
-  "question_text": "If $x + 5 = 12$, what is the value of $x$?",
-  "options": {
-    "a": "5",
-    "b": "7",
-    "c": "12",
-    "d": "17"
-  },
-  "correct_answer": "b",
-  "explanation": "To find the value of $x$, subtract 5 from both sides of the equation: $x + 5 - 5 = 12 - 5$. This simplifies to $x = 7$.",
-  "difficulty": "Easy"
-}
-```
-
-### Example `.json` File Structure:
-
-```json
-[
-  {
-    "question_number": 1,
-    "question_text": "First question text, potentially with $math$.",
-    "options": { "a": "Option A1", "b": "Option B1", "c": "Option C1", "d": "Option D1" },
-    "correct_answer": "b"
-  },
-  {
-    "question_number": 2,
-    "subject": "Physics",
-    "question_text": "Second question text, maybe with an image:\n\n![Circuit Diagram](NIMCET/assets/nimcet_2023_q2_circuit.png)\n\nWhat is the equivalent resistance?",
-    "options": { "a": "Option A2 with $$\\frac{1}{R}$$ formula", "b": "Option B2", "c": "Option C2", "d": "Option D2" },
-    "correct_answer": "a",
-    "explanation": "Detailed explanation for Q2, maybe including `code` or formulas like $\\Delta V = IR$."
-  },
-  {
-    "question_number": 3,
-    "subject": "Computer Science",
-    "topic": "Programming",
-    "question_text": "Analyze the following code snippet:\n\n```c++\n#include <iostream>\n\nint main() {\n  int x = 5;\n  std::cout << ++x << std::endl;\n  return 0;\n}\n```\n\nWhat will be the output?",
-    "options": { "a": "5", "b": "6", "c": "Compilation Error", "d": "Undefined behavior" },
-    "correct_answer": "b",
-    "explanation": "The pre-increment operator `++x` increments `x` to 6 *before* its value is used in the `std::cout` statement. Therefore, 6 is printed."
-  }
-  // ... more question objects
-]
-```
-
-## Handling Complex Content
-
-To represent mathematical formulas, images, chemical equations, and code correctly, please use the following formats within the string values of `question_text`, `options`, and `explanation`:
-
-### 1. Mathematical Notation (LaTeX via KaTeX)
-
-*   Examify uses **KaTeX** for rendering mathematical expressions.
-*   Use standard LaTeX syntax.
-*   **Inline Math:** Enclose LaTeX expressions within single dollar signs (`$...$`).
-    *   Example: `"The formula is $E = mc^2$."`
-*   **Display Math:** Enclose LaTeX expressions within double dollar signs (`$$...$$`) for centered, block-level equations.
-    *   Example: `"Solve the integral: $$\\int_0^\\infty e^{-x^2} dx = \\frac{\\sqrt{\\pi}}{2}$$"`
-*   **JSON Escaping:** Remember that backslashes (`\`) are special characters in JSON strings. **You MUST escape backslashes by doubling them up (`\\`)**.
-    *   Correct: `"$\\frac{1}{2}$"` becomes `"$\\frac{1}{2}$"` in the JSON file.
-    *   Correct: `"$\\sin(x)$"` becomes `"$\\sin(x)$"` in the JSON file.
-
-### 2. Images (URL via Markdown)
-
-*   Use standard **Markdown image syntax**: `![Alt Text](Image URL)` to embed images within `question_text`, `options` values, or `explanation`.
-*   **Supported URL Types:**
-    *   **Absolute HTTPS URLs (Recommended):** This is the most flexible and recommended method, especially for user-generated or pasted content. Images can be hosted on any publicly accessible server supporting HTTPS.
-        *   Example: `![Diagram](https://some-image-hosting.com/path/to/your/image.png)`
-        *   Example using a placeholder service: `![Placeholder](https://picsum.photos/200/150)`
-    *   **Relative Paths (For Repo-Hosted Images):** If contributing official questions or assets *directly to this repository*, you can use relative paths. These paths **must** be relative *from the root of this repository*. Examify will automatically prepend the base URL of this repository's raw content (`https://raw.githubusercontent.com/Samkarya/online-exam-questions/main/`) to resolve the link.
-        *   Place images in an `assets` sub-directory within the corresponding `ExamCategory/` directory (e.g., `NIMCET/assets/`).
-        *   Example: `![Circuit Diagram](NIMCET/assets/nimcet_2023_q2_diagram.png)` - *Use this format only if the image file exists at that location within this repository.*
-*   **Blocked URLs:**
-    *   Absolute `http://` URLs are **not recommended** and may be blocked by browsers or the application due to security (mixed content) policies. Please use `https://`.
-    *   Local file paths (e.g., `C:\Users\...`, `file:///...`) will **not** work.
-*   **Alt Text:** Provide meaningful alternative text (`Alt Text`) for accessibility and for cases where the image might fail to load.
-*   **Use Case:** Ideal for diagrams, graphs, figures, complex chemical structures, scanned question parts, etc.
-
-### 3. Chemical Content
-
-*   **Complex Structures/Reactions:** Use **Images** (Markdown Links as described above).
-*   **Simple Formulas/Equations:** Use **LaTeX** with `mhchem` syntax (rendered via KaTeX). Enclose expressions in `$...$` or `$$...$$` as needed.
-    *   Example: `"Balance the reaction: $$\\ce{2H2 + O2 -> 2H2O}$$"`
-    *   Example: `"The formula for water is $\\ce{H2O}$."` (Remember `\\` escaping!)
-
-### 4. Code Snippets (Markdown Fenced Code Blocks)
-
-*   Use standard **Markdown fenced code blocks** with triple backticks (```).
-*   Optionally, specify the language after the opening backticks for syntax highlighting in Examify.
-    *   Example:
-        ```python
-        def hello():
-          print("Hello")
-        ```
-
-*   **JSON Escaping:** Newlines within the code block **must** be escaped as `\n` in the JSON string.
-    *   Example in JSON:
-        ```json
-        "question_text": "What is the output?\n\n```python\ndef greet(name):\n  print(f\"Hello, {name}!\")\n\ngreet(\"Examify\")\n```"
-        ```
-
-## Using AI to Generate Question JSON
-
-AI language models can be helpful in generating question sets, but they require specific prompting to produce the correct JSON format and adhere to the content guidelines (LaTeX, Markdown Images/Code).
-
-**Key Principles for AI Prompts:**
-
-1.  **Be Explicit:** Clearly state the *exact* required JSON structure, including all mandatory fields (`question_number`, `question_text`, `options`, `correct_answer`) and optional fields you want (`subject`, `topic`, `explanation`, etc.).
-2.  **Specify Formatting:** Instruct the AI on *how* to format complex content:
-    *   Mention **LaTeX** for math using `$` and `$$` delimiters. Crucially, tell it to **escape backslashes** (e.g., use `\\frac` instead of `\frac`).
-    *   Explain **Markdown** for code blocks (```language ... ```) and instruct it to use `\n` for newlines within the JSON string value.
-    *   Explain **Markdown** for images (`![Alt Text](Relative Path)`). *Note: AI cannot create the actual image file or determine the correct relative path. You will need to add the image file to the repo and update the path manually after generation.*
-3.  **Provide Examples:** Include a complete example of a single question object in the prompt, demonstrating the structure and formatting.
-4.  **Specify Quantity:** Tell the AI how many questions to generate.
-5.  **Request Validation:** Ask the AI to ensure the output is a valid JSON array of objects.
-6.  **Iterate and Refine:** You might need to refine your prompt or correct the AI's output. Start with a small number of questions (e.g., 2-3) to test the prompt before asking for a large set.
-7.  **Review Carefully:** **ALWAYS** manually review the AI-generated output for:
-    *   **Correctness:** Are the questions, options, and correct answers accurate?
-    *   **JSON Validity:** Is the overall structure a valid JSON array?
-    *   **Formatting:** Are LaTeX backslashes escaped (`\\`)? Are code block newlines escaped (`\n`)? Are image paths placeholders requiring manual update?
-    *   **Sequential `question_number`:** Ensure the numbers are correct and sequential starting from 1.
-
-**Example AI Prompt:**
-
-```text
-Generate a valid JSON array containing [Number] practice questions for the [Exam Name/Subject] exam, targeting [Difficulty Level/Topic] if applicable.
-
-Each question object in the array must strictly follow this structure:
-{
-  "question_number": Number, // Unique, sequential integer starting from 1
-  "question_text": String, // The question itself
-  "options": Object, // Key-value pairs, e.g., {"a": "Option A", "b": "Option B"}
-  "correct_answer": String, // The key corresponding to the correct option (e.g., "b")
-  "subject": String, // Optional: e.g., "Physics"
-  "topic": String, // Optional: e.g., "Kinematics"
-  "explanation": String // Optional but preferred: Detailed explanation
-}
-
-Formatting Rules for String Values (question_text, options values, explanation):
-1.  LaTeX for Math: Use single dollar signs ($...$) for inline math and double dollar signs ($$...$$) for display math. IMPORTANT: Escape all LaTeX backslashes within the JSON string (e.g., use "\\frac", "\\sin", "\\sqrt").
-2.  Code Blocks: Use Markdown fenced code blocks (```language ... ```). IMPORTANT: Use "\n" for newline characters within the code block inside the JSON string.
-3.  Images: Use Markdown image syntax `![Alt Text](PLACEHOLDER_PATH)`. I will replace PLACEHOLDER_PATH manually later.
-
-Here is an example of ONE question object:
-{
-  "question_number": 1,
-  "subject": "Mathematics",
-  "topic": "Algebra",
-  "question_text": "If $x + 5 = 12$, what is the value of $x$?",
-  "options": {
-    "a": "5",
-    "b": "7",
-    "c": "12",
-    "d": "17"
-  },
-  "correct_answer": "b",
-  "explanation": "Subtract 5 from both sides: $x + 5 - 5 = 12 - 5 \\implies x = 7$."
-}
-
-Please generate [Number] question objects in a single valid JSON array, ensuring all formatting rules, especially backslash and newline escaping, are correctly applied.
-```
-
-**Manual Steps After AI Generation:**
-
-*   **Validate JSON:** Use an online JSON validator.
-*   **Verify Correctness:** Check questions, answers, and explanations.
-*   **Check Escaping:** Ensure `\\` for LaTeX and `\n` for code newlines are correct.
-*   **Add Images & Update Paths:** If you prompted for image placeholders, add the actual image files to the correct `assets` directory and update the `PLACEHOLDER_PATH` in the JSON with the correct relative path from the repository root.
-*   **Review `question_number`:** Make sure they are sequential and unique.
-
-Using AI effectively requires careful prompting and diligent review, but it can significantly speed up the process of creating initial drafts of question sets.
-
-## Repository Structure
-
-Questions are organized into directories based on the examination category. Image assets should be placed within these directories.
-
-```
-/
-├── ExamCategoryA/             # e.g., NIMCET/
-│   ├── assets/                # Directory for images related to ExamCategoryA
-│   │   └── exam_year_qN_image.png # e.g., nimcet_2023_q2_diagram.png
-│   └── exam_year_paper.json   # e.g., nimcet_2023.json
-│
-├── ExamCategoryB/             # e.g., JEE_Main/
-│   ├── assets/
-│   └── exam_year_paper.json   # e.g., jee_main_2023_p1.json
-│
-├── ExamCategoryC/             # e.g., GATE_CS/
-│   ├── assets/
-│   └── exam_year_paper.json   # e.g., gate_cs_2023.json
-│
-├── config.json                # <--- IMPORTANT: Index of all exams
-└── README.md
-└── LICENSE
-```
-
-## `config.json` - The Exam Index
-
-The `config.json` file in the root of this repository acts as the master index for the Examify application. It lists all available **official** exams and points to their respective JSON files. Examify reads this file to populate the "Official Mock Tests" section.
-
-**When adding a new official exam JSON file, you MUST also add a corresponding entry to this `config.json` file.**
+**➡️ IMPORTANT:** When adding a new official exam JSON file, you **MUST** add a corresponding entry to this `config.json` file for it to appear in the app.
 
 ### `config.json` Format:
 
-An array of objects, where each object describes one exam paper.
+An array `[]` of objects, where each object describes **one specific exam paper instance** (e.g., a particular year, session, shift, or subject paper).
 
 ```json
 [
   {
-    "id": "nimcet_2023", // Unique identifier string (lowercase, underscore-separated) used internally by the app.
-    "title": "NIMCET 2023", // User-friendly display name shown in the app.
-    "description": "National Institute of Technology MCA Common Entrance Test 2023", // Optional: Short description shown in the app.
-    "category": "NIMCET", // Required: The main category for grouping/filtering in the app (e.g., "NIMCET", "JEE Main", "GATE CS"). Should match the directory name.
-    "path": "NIMCET/nimcet_2023.json" // Required: Relative path from the repository root to the exam's JSON file.
-  },
-  {
-    "id": "jee_main_2023_p1",
-    "title": "JEE Main 2023 (Paper 1)",
-    "description": "Joint Entrance Examination (Main) 2023 - Physics, Chemistry, Maths",
-    "category": "JEE Main",
-    "path": "JEE_Main/jee_main_2023_p1.json"
+    "id": "string",         // REQUIRED: Unique identifier for this specific paper instance (e.g., "nimcet_2023", "jeeMain_2024_jan_s1_d22_sh1"). Lowercase, underscore-separated is recommended.
+    "category": "string",     // REQUIRED: Top-level exam group (e.g., "NIMCET", "JEE Main", "CUET-UG"). Used for the first selection step. Should ideally match the directory name.
+    "year": number,           // REQUIRED: The numerical year the exam paper pertains to (e.g., 2023).
+    "session": "string|null", // Optional: The specific session if applicable (e.g., "January", "April", 1, 2). Use `null` if not applicable or only one session exists for the year.
+    "date": "string|null",    // Optional: The specific date (ISO format "YYYY-MM-DD") if relevant (e.g., "2024-01-22"). Use `null` if not date-specific.
+    "shift": "string|number|null", // Optional: The specific shift if applicable (e.g., 1, 2, "Morning", "Afternoon"). Use `null` if not shift-specific.
+    "paperType": "string|null",// Optional: Describes the paper type if multiple exist within a session/date/shift (e.g., "Paper 1 (PCM)", "B.Arch", "Physics", "General Test"). Use `null` if only one paper type exists for the combination.
+    "title": "string",        // REQUIRED: Concise display title for this specific paper instance (e.g., "NIMCET 2023", "JEE Main 2024 (Jan 22nd, Shift 1)"). Derived from other fields.
+    "description": "string",  // Optional: A short description shown in the app (e.g., "National Institute of Technology MCA Common Entrance Test 2023").
+    "path": "string"          // REQUIRED: Relative path from the repository root to the corresponding question JSON file (e.g., "NIMCET/nimcet_2023.json", "JEEMains/2024/jeeMain_2024_jan_s1_d22_sh1.json").
   }
   // ... more exam configurations
 ]
 ```
 
-## Contribution Guidelines
+### `config.json` Examples:
 
-Contributions are highly welcome! Help us grow this resource for everyone.
+**Simple Exam (NIMCET):**
 
-**How to Contribute:**
+```json
+ {
+    "id": "nimcet_2023",
+    "category": "NIMCET",
+    "year": 2023,
+    "session": null,
+    "date": null,
+    "shift": null,
+    "paperType": null,
+    "title": "NIMCET 2023",
+    "description": "National Institute of Technology MCA Common Entrance Test 2023",
+    "path": "NIMCET/nimcet_2023.json"
+  }
+```
 
-1.  **Fork:** Fork this repository to your GitHub account.
-2.  **Branch:** Create a new, descriptive branch for your changes (e.g., `git checkout -b feat/add-gate-cs-2022` or `git checkout -b fix/nimcet-2023-q15-typo`).
+**Complex Exam (JEE Main):**
+
+```json
+{
+    "id": "jeeMain_2024_jan_s1_d22_sh1",
+    "category": "JEE Main",
+    "year": 2024,
+    "session": "January",
+    "date": "2024-01-22",
+    "shift": 1,
+    "paperType": "Paper 1 (PCM)",
+    "title": "JEE Main 2024 (Jan 22nd, Shift 1)",
+    "description": "Joint Entrance Examination Main 2024 - January Session",
+    "path": "JEEMains/2024/jeeMain_2024_jan_s1_d22_sh1.json"
+}
+```
+
+**Subject-Specific Exam (CUET-UG):**
+
+```json
+{
+    "id": "cuet_ug_2024_phy_d15_sh2",
+    "category": "CUET-UG",
+    "year": 2024,
+    "session": null,
+    "date": "2024-05-15",
+    "shift": 2,
+    "paperType": "Physics",
+    "title": "CUET-UG 2024 Physics (May 15, Shift 2)",
+    "description": "Common University Entrance Test (UG) 2024 - Physics Paper",
+    "path": "CUET/UG/2024/cuet_ug_2024_phy_d15_sh2.json"
+}
+```
+
+---
+
+## 📝 Question JSON File Format
+
+Each `.json` file (e.g., `NIMCET/nimcet_2023.json`) contains the actual question data for a single paper instance listed in `config.json`.
+
+*   **Structure:** The file MUST contain a single valid JSON array `[]`.
+*   **Elements:** Each element within the array is an object `{}` representing a single question.
+
+### Question Object Fields:
+
+**Mandatory Fields:**
+
+*   `question_number` (Number): Unique integer identifying the question (e.g., 1, 2,...). Must be sequential starting from 1 within the file.
+*   `question_text` (String): The main question text. Supports complex content (see below).
+*   `options` (Object): Key-value pairs where keys are option identifiers (e.g., `"a"`, `"b"`) and values are the option text (String). Option values also support complex content.
+*   `correct_answer` (String): The key from the `options` object that is the correct answer (e.g., `"b"`). Must exactly match an options key.
+
+**Optional Fields:**
+
+*   `subject` (String): Subject area (e.g., "Mathematics", "Physics").
+*   `topic` (String): Specific topic (e.g., "Calculus", "Optics").
+*   `explanation` (String): Detailed explanation (highly encouraged!). Supports complex content.
+*   `difficulty` (String): Difficulty level (e.g., "Easy", "Medium", "Hard").
+*   `section_id` (String): Identifier for exams with sections (e.g., "Section A").
+
+### Example Question Object (in JSON file):
+
+```json
+{
+  "question_number": 1,
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "question_text": "If $x + 5 = 12$, what is the value of $x$?",
+  "options": {
+    "a": "5",
+    "b": "7",
+    "c": "12",
+    "d": "17"
+  },
+  "correct_answer": "b",
+  "explanation": "Subtract 5 from both sides: $x + 5 - 5 = 12 - 5 \\implies x = 7$.",
+  "difficulty": "Easy"
+}
+```
+
+### Example Complete `.json` File Structure:
+
+```json
+[
+  {
+    "question_number": 1,
+    "question_text": "First question... $math$.",
+    "options": { "a": "Opt A1", "b": "Opt B1" },
+    "correct_answer": "b"
+  },
+  {
+    "question_number": 2,
+    "subject": "Physics",
+    "question_text": "Second question... ![Diagram](ExamCategory/assets/image.png)",
+    "options": { "a": "Opt A2", "b": "Opt B2" },
+    "correct_answer": "a",
+    "explanation": "Explanation with `code` or formulas like $$\\Delta V = IR$$."
+  },
+  {
+    "question_number": 3,
+    // ... more fields ...
+    "question_text": "Analyze code:\n\n```c++\n#include <iostream>\nint main() {\n  std::cout << 1;\n  return 0;\n}\n```\n\nOutput?"
+    // ... options, answer, explanation ...
+  }
+  // ... more question objects ...
+]
+```
+
+---
+
+## ✨ Handling Complex Content (LaTeX, Images, Code)
+
+Use these formats within `question_text`, `options` values, and `explanation` strings:
+
+### 1. Mathematical Notation (LaTeX via KaTeX)
+
+*   **Syntax:** Standard LaTeX.
+*   **Inline Math:** Use single dollar signs: `$ E = mc^2 $`
+*   **Display Math:** Use double dollar signs: `$$ \int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2} $$`
+*   **⚠️ JSON ESCAPING:** You **MUST** escape LaTeX backslashes (`\`) with another backslash (`\\`) within the JSON string.
+    *   LaTeX `\frac{1}{2}` becomes `"$\\frac{1}{2}$"` in JSON.
+    *   LaTeX `\sin(x)` becomes `"$\\sin(x)$"` in JSON.
+
+### 2. Images (URL via Markdown)
+
+*   **Syntax:** `![Alt Text](Image URL)`
+*   **Supported URLs:**
+    *   ✅ **Absolute HTTPS URLs (Recommended):** Publicly accessible image hosts. Most flexible.
+        *   Example: `![Diagram](https://some-image-hosting.com/path/image.png)`
+    *   ✅ **Relative Paths (For Repo Assets ONLY):** Use if adding images *to this repository*. Path must be relative *from the repo root*. Examify prepends the base URL automatically.
+        *   Example: `![Circuit](NIMCET/assets/nimcet_2023_q2_circuit.png)` (Requires the file to exist at this path in the repo).
+        *   **Convention:** Place assets in `ExamCategory/assets/`.
+    *   ❌ **Blocked URLs:** `http://` (insecure), `file:///` (local paths) will **not** work.
+*   **Alt Text:** Provide meaningful description.
+
+### 3. Chemical Content
+
+*   **Complex Structures:** Use **Images** (Markdown links).
+*   **Simple Formulas:** Use **LaTeX** with `mhchem` package syntax (`$\ce{H2O}$`, `$$\ce{2H2 + O2 -> 2H2O}$$`). Remember `\\` escaping!
+
+### 4. Code Snippets (Markdown Fenced Code Blocks)
+
+*   **Syntax:** Triple backticks (``` ```) with optional language identifier (e.g., ```python```).
+*   **⚠️ JSON ESCAPING:** Newlines within code **must** be escaped as `\n`.
+*   **Example in JSON:**
+    ```json
+    "question_text": "What is the output?\n\n```python\ndef greet(name):\n  print(f\"Hello, {name}!\")\n\ngreet(\"Examify\")\n```"
+    ```
+
+---
+
+## 🤖 Using AI to Generate Question JSON
+
+AI models can assist, but require precise prompting and careful review.
+
+**Key Principles for AI Prompts:**
+
+1.  **Be Explicit:** Clearly state the required JSON structure (array of objects, mandatory/optional fields from above).
+2.  **Specify Formatting:**
+    *   Tell it to use **LaTeX** (`$`, `$$`) and **escape backslashes** (`\\`).
+    *   Tell it to use **Markdown code fences** (```) and **escape newlines** (`\n`).
+    *   Tell it to use **Markdown image syntax** (`![Alt Text](PLACEHOLDER_PATH)`) and mention you'll replace the placeholder path.
+3.  **Provide Examples:** Include a full example of a question object demonstrating structure *and escaping*.
+4.  **Specify Quantity & Context:** Ask for `[Number]` questions for `[Exam/Subject]`.
+5.  **Request Validation:** Ask the AI to ensure the output is a valid JSON array.
+6.  **Iterate:** Start small (2-3 questions) to test your prompt.
+7.  **⚠️ Review Diligently:** **ALWAYS** manually review AI output for:
+    *   **Correctness:** Questions, options, answers, explanations.
+    *   **JSON Validity:** Use a validator.
+    *   **Escaping:** Check for `\\` in LaTeX and `\n` in code blocks.
+    *   **Image Placeholders:** Ensure `PLACEHOLDER_PATH` is used where expected.
+    *   **Sequential `question_number`**.
+
+**Example AI Prompt:**
+
+```text
+Generate a valid JSON array containing [Number] practice questions for the [Exam Name/Subject] exam.
+
+Each question object in the array must strictly follow this structure:
+{
+  "question_number": Number, // REQUIRED: Unique, sequential integer starting from 1
+  "question_text": String,   // REQUIRED: Question text
+  "options": Object,         // REQUIRED: e.g., {"a": "Option A", "b": "Option B"}
+  "correct_answer": String,  // REQUIRED: Key matching the correct option (e.g., "b")
+  "subject": String | null,    // Optional: e.g., "Physics" or null
+  "topic": String | null,      // Optional: e.g., "Kinematics" or null
+  "explanation": String | null // Optional but preferred: Detailed explanation or null
+}
+
+Formatting Rules for ALL String Values:
+1.  Use LaTeX for Math: Inline `$ ... $`, Display `$$ ... $$`. IMPORTANT: Escape all LaTeX backslashes as `\\` (e.g., use "\\frac", "\\sin").
+2.  Use Markdown Code Blocks: Fenced ```language ... ```. IMPORTANT: Escape all newlines within code as `\\n`.
+3.  Use Markdown Images: `![Alt Text](PLACEHOLDER_PATH)`. I will replace the placeholder later.
+
+Here is ONE example object:
+{
+  "question_number": 1,
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "question_text": "If $x + 5 = 12$, what is the value of $x$?",
+  "options": { "a": "5", "b": "7", "c": "12", "d": "17" },
+  "correct_answer": "b",
+  "explanation": "Subtract 5 from both sides: $x + 5 - 5 = 12 - 5 \\\\implies x = 7$."
+}
+
+Generate [Number] question objects in a single valid JSON array, applying all rules, especially escaping.
+```
+
+**Manual Steps After AI:**
+
+*   **Validate JSON**.
+*   **Verify Correctness**.
+*   **Check Escaping (`\\`, `\n`)**.
+*   **Add Images:** Place image files in the correct `ExamCategory/assets/` folder.
+*   **Update Image Paths:** Replace `PLACEHOLDER_PATH` with the correct relative path (e.g., `ExamCategory/assets/image.png`).
+*   **Review `question_number`**.
+
+---
+
+## 📂 Repository Structure
+
+Organize files by examination category.
+
+```
+/
+├── ExamCategoryA/             # e.g., NIMCET/
+│   ├── assets/                # Images specific to ExamCategoryA
+│   │   └── image_name.png
+│   └── paper_instance_1.json  # e.g., nimcet_2023.json
+│   └── paper_instance_2.json
+│
+├── ExamCategoryB/             # e.g., JEEMains/
+│   ├── 2024/                  # Optional sub-folder for year
+│   │    └── paper_instance_3.json # e.g., jeeMain_2024_jan_s1_d22_sh1.json
+│   └── assets/
+│
+├── config.json                # <--- Master index file (REQUIRED)
+└── README.md
+└── LICENSE
+```
+
+---
+
+## 🙌 Contribution Guidelines
+
+Contributions are welcome!
+
+1.  **Fork:** Fork this repository.
+2.  **Branch:** Create a descriptive branch (e.g., `feat/add-cat-2022` or `fix/nimcet-2023-q5-explanation`).
 3.  **Add/Edit Files:**
-    *   Create or modify exam `.json` files within the appropriate `ExamCategory/` directory. Use a consistent naming convention (e.g., `examname_year_papernumber.json`).
-    *   If adding images, place them in the corresponding `ExamCategory/assets/` directory and use relative paths in your JSON as described above.
-    *   **Strictly adhere** to the JSON format and complex content guidelines (LaTeX, Markdown Images/Code).
-    *   **Validate your JSON** before committing (use an online validator or editor plugin). Invalid JSON will break processing in Examify.
-    *   Double-check the correctness of questions, options, and especially the `correct_answer`.
-    *   Adding explanations via the `explanation` field is **strongly encouraged** and greatly increases the learning value.
-4.  **Update `config.json`:** **Crucially**, if you add a new exam file, add a corresponding entry to the root `config.json` following the specified format.
-5.  **Commit:** Commit your changes with clear, conventional commit messages (e.g., `feat: Add GATE CS 2022 Question Paper`, `fix: Correct answer for NIMCET 2023 Q45`, `docs: Add explanation for JEE Main 2023 Q10`).
-6.  **Pull Request (PR):** Push your branch to your fork and create a Pull Request back to the `main` branch of this repository.
-    *   Clearly describe the changes made in the PR description.
-    *   Mention the source of the questions if applicable (e.g., "Official paper from exam website").
-7.  **Review:** Your PR will be reviewed for correctness, formatting, and adherence to guidelines. Feedback may be provided before merging.
+    *   Create/modify exam `.json` files in the appropriate `ExamCategory/` directory.
+    *   Follow the detailed **Question JSON File Format** and **Handling Complex Content** rules strictly.
+    *   If adding images, place them in `ExamCategory/assets/` and use correct **relative paths** in the JSON.
+    *   **✅ Validate your JSON!** Invalid JSON breaks the app.
+    *   Add/improve `explanation` fields whenever possible.
+4.  **Update `config.json`:** **➡️ If adding a new paper instance, add a corresponding entry to the root `config.json` file.** Ensure the `id` is unique and the `path` is correct.
+5.  **Commit:** Use clear messages (e.g., `feat: Add CAT 2022 Question Paper`, `fix: Correct answer for NIMCET 2023 Q10`).
+6.  **Pull Request (PR):** Create a PR to the `main` branch of *this* repository. Describe your changes clearly.
+7.  **Review:** Your PR will be reviewed for correctness, formatting, and adherence to guidelines.
 
-**Thank you for helping make the Examify platform a better resource for students!**
+---
 
 ## License
 
-This repository and its contents (question files, configuration, etc.) are licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This repository and its contents are licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
