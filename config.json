@@ -1,30 +1,50 @@
 [
   {
     "id": "nimcet_2022",
+    "category": "NIMCET",
+    "year": 2022,
+    "session": null,
+    "date": null,
+    "shift": null,
+    "paperType": null,
     "title": "NIMCET 2022",
     "description": "National Institute of Technology MCA Common Entrance Test 2022",
-    "category": "NIMCET",
     "path": "NIMCET/nimcet_2022.json"
   },
   {
     "id": "nimcet_2023",
+    "category": "NIMCET",
+    "year": 2023,
+    "session": null,
+    "date": null,
+    "shift": null,
+    "paperType": null,
     "title": "NIMCET 2023",
     "description": "National Institute of Technology MCA Common Entrance Test 2023",
-    "category": "NIMCET",
     "path": "NIMCET/nimcet_2023.json"
   },
   {
     "id": "nimcet_2024",
+    "category": "NIMCET",
+    "year": 2024,
+    "session": null,
+    "date": null,
+    "shift": null,
+    "paperType": null,
     "title": "NIMCET 2024",
     "description": "National Institute of Technology MCA Common Entrance Test 2024",
-    "category": "NIMCET",
     "path": "NIMCET/nimcet_2024.json"
   },
   {
-    "id": "jeeMain_2025_22Jan_shift1",
-    "title": "JEE Main 2025",
-    "description": "Joint Entrance Examination (Mains) Test 2025",
-    "category": "JEEMains",
-    "path": "JEEMains/jeeMain_2025_22Jan_shift1.json"
+    "id": "jeeMain_2025_22Jan_shift1", 
+    "category": "JEE Main",           
+    "year": 2025,
+    "session": "January",             
+    "date": "2025-01-22",             
+    "shift": 1,                       
+    "paperType": "Paper 1 (PCM)",     
+    "title": "JEE Main 2025 (Jan 22nd, Shift 1)", 
+    "description": "Joint Entrance Examination (Mains) Test 2025", 
+    "path": "JEEMains/jeeMain_2025_22Jan_shift1.json" 
   }
 ]
