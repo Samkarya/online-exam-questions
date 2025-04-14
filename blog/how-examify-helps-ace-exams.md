@@ -1,5 +1,3 @@
-# How Examify Helps You Ace Your Competitive Exams
-
 Competitive entrance exams are tough. It's not just about knowing the syllabus; it's about performing under pressure, managing your time effectively, and navigating the specific format of the test. This is where practicing smartly becomes essential. Examify ([https://examify.web.app/](https://examify.web.app/)) is designed precisely to bridge the gap between preparation and performance.
 
 So, how exactly does Examify help you tackle common exam challenges and move closer to acing your target test?
