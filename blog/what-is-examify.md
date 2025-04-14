@@ -1,12 +1,3 @@
----
-slug: "what-is-examify"
-title: "What is Examify? Features and Benefits Explained"
-date: "2023-10-27"
-author: "Examify Team"
-excerpt: "Discover Examify, an online practice platform designed to help you excel in competitive exams with realistic simulations, custom tests, and detailed analysis."
-tags: ["Examify", "Features", "Introduction"]
----
-
 ## What is Examify?
 
 Examify ([https://examify.web.app/](https://examify.web.app/)) is a modern, web-based platform built to help students like you prepare for challenging competitive entrance exams. We understand that success requires more than just knowing the material – it demands familiarity with the exam format, effective time management, and the ability to learn from your performance.
