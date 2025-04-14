@@ -1,28 +1,29 @@
 [
   {
-    "slug": "what-is-examify",
+    "slug": "what-is-examify-features-benefits",
     "title": "What is Examify? Features and Benefits Explained",
-    "date": "2023-10-27",
+    "date": "2025-04-14", 
     "author": "Examify Team",
-    "excerpt": "Discover Examify, an online practice platform designed to help you excel in competitive exams with realistic simulations, custom tests, and detailed analysis.",
-    "tags": ["Examify", "Features", "Introduction"],
-    "mdFilePath": "/blog/what-is-examify.md"
+    "excerpt": "Discover Examify, your go-to online platform for realistic competitive exam practice. Explore features like mock tests, custom uploads, performance analysis, and more.",
+    "tags": ["Examify", "Features", "Introduction", "Exam Preparation", "Mock Test", "Online Exam Simulator"],
+    "mdFilePath": "/blog/what-is-examify-features-benefits.md"
   },
   {
-    "slug": "how-to-use-examify",
-    "title": "How to Use Examify Effectively for Exam Prep",
-    "date": "2023-10-26",
+    "slug": "how-examify-helps-ace-exams",
+    "title": "How Examify Helps You Ace Your Competitive Exams",
+    "date": "2024-05-17", // Update date
     "author": "Examify Team",
-    "excerpt": "Learn the best ways to leverage Examify's features, from selecting tests and simulating exam conditions to analyzing your results for maximum improvement.",
-    "tags": ["Examify", "Guide", "How-To", "Tips"],
-    "mdFilePath": "/blog/how-to-use-examify.md"
+    "excerpt": "Learn how Examify's realistic simulations, custom practice options, and detailed feedback mechanisms address common exam challenges like time pressure and identifying weaknesses.",
+    "tags": ["Examify", "Exam Strategy", "Time Management", "Performance Improvement", "Study Tips", "Mock Test Benefits", "Competitive Exams"],
+    "mdFilePath": "/blog/how-examify-helps-ace-exams.md"
   },
   {
-    "slug": "understanding-nimcet",
-    "title": "Understanding the NIMCET Pattern: Tips & Strategies",
-    "date": "2023-10-25",
-    "excerpt": "A breakdown of the NIMCET exam structure, syllabus highlights, and effective strategies you can practice using Examify.",
-    "tags": ["NIMCET", "Exam Prep", "Strategy", "Competitive Exams"],
-    "mdFilePath": "/blog/understanding-nimcet.md"
+    "slug": "how-to-use-examify-guide",
+    "title": "How to Use Examify: A Step-by-Step Guide",
+    "date": "2024-05-18", // Update date
+    "author": "Examify Team",
+    "excerpt": "A practical guide to getting started with Examify. Learn how to select exams, configure settings, take tests, and review your results effectively.",
+    "tags": ["Examify", "User Guide", "Tutorial", "Getting Started", "How To", "Exam Simulator", "Online Practice Test"],
+    "mdFilePath": "/blog/how-to-use-examify-guide.md"
   }
 ]
