@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <!-- Optional License Badge -->
 
-This repository hosts the JSON formatted question sets used by the [Examify Online Practice Platform](link-to-your-deployed-app-or-main-repo).
+This repository hosts the JSON formatted question sets used by the [Examify Online Practice Platform](https://examify.web.app/).
 
 The goal of this repository is to:
 
