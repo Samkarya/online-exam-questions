@@ -46,5 +46,17 @@
     "title": "JEE Main 2025 (Jan 22nd, Shift 1)", 
     "description": "Joint Entrance Examination (Mains) Test 2025", 
     "path": "JEEMains/jeeMain_2025_22Jan_shift1.json" 
+  },
+  {
+    "id": "demo_exam_examify",
+    "category": "Demo",
+    "year": 2025,
+    "session": null,
+    "date": null,
+    "shift": null,
+    "paperType": "Multi-Subject (Mixed)",
+    "title": "Examify Demo Exam 2025",
+    "description": "Demo exam created to showcase Examify’s features including multi-subject support, visual content, and detailed explanations.",
+    "path": "Demo/demo_exam_examify.json"
   }
 ]
