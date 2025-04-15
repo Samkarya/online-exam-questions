@@ -210,7 +210,12 @@ Use these formats within `question_text`, `options` values, and `explanation` st
 ### 3. Chemical Content
 
 *   **Complex Structures:** Use **Images** (Markdown links).
-*   **Simple Formulas:** Use **LaTeX** with `mhchem` package syntax (`$\ce{H2O}$`, `$$\ce{2H2 + O2 -> 2H2O}$$`). Remember `\\` escaping!
+*  **Simple Chemical Equations:**  
+Prefer using standard **LaTeX math mode** with properly escaped symbols, like this:
+
+```latex
+$$CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O$$
+```
 
 ### 4. Code Snippets (Markdown Fenced Code Blocks)
 
