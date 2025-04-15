@@ -1,0 +1,152 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Mathematics",
+    "topic": "Algebra - Quadratic Equations",
+    "question_text": "The solutions to the quadratic equation $ax^2 + bx + c = 0$ (where $a \\neq 0$) are given by the quadratic formula. Which of the following represents the correct formula?",
+    "options": {
+      "a": "$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2c}$",
+      "b": "$x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}$",
+      "c": "$x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{2a}$",
+      "d": "$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$"
+    },
+    "correct_answer": "d",
+    "explanation": "The standard quadratic formula is derived by completing the square and is correctly stated as:\n\n$$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$$\n\nKey components are the numerator starting with -b, the discriminant $\\sqrt{b^2 - 4ac}$, and the denominator $2a$. Option (d) matches this formula exactly.",
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 2,
+    "subject": "Chemistry",
+    "topic": "Chemical Equations & Stoichiometry",
+    "question_text": "Balance the following chemical equation representing the combustion of methane (CH₄):\n\n$$CH_4 + O_2 \\rightarrow CO_2 + H_2O$$",
+    "options": {
+      "a": "$CH_4 + O_2 \\rightarrow CO_2 + H_2O$",
+      "b": "$CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O$",
+      "c": "$2CH_4 + 3O_2 \\rightarrow 2CO_2 + 4H_2O$",
+      "d": "$CH_4 + O_2 \\rightarrow CO_2 + 2H_2O$"
+    },
+    "correct_answer": "b",
+    "explanation": "To balance the equation for the combustion of methane ($CH_4$):\n1. **Carbon (C):** 1 atom in $CH_4$ and 1 in $CO_2$.\n2. **Hydrogen (H):** 4 atoms in $CH_4$ require 2 molecules of $H_2O$ (each has 2 H atoms).\n3. **Oxygen (O):** 2 oxygen atoms in $O_2$ must supply 2 in $CO_2$ plus 2 (from 2 molecules of $H_2O$), so place a coefficient of 2 in front of $O_2$.\n\nThe final balanced equation is:\n\n$$CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O$$",
+    "difficulty": "Medium"
+  },
+  {
+    "question_number": 3,
+    "subject": "Physics",
+    "topic": "Kinematics",
+    "question_text": "The diagram below shows a velocity-time graph for an object in motion.\n\n![Velocity-Time Graph](https://upload.wikimedia.org/wikipedia/commons/2/2d/Velocity_vs_time_graph.PNG)\n\nWhat physical quantity is represented by the shaded area under the curve between $t=0$ and $t=t_1$?",
+    "options": {
+      "a": "Average acceleration",
+      "b": "Total displacement",
+      "c": "Instantaneous velocity at $t_1$",
+      "d": "Total distance travelled"
+    },
+    "correct_answer": "b",
+    "explanation": "The area under a velocity-time graph represents the displacement of the object during that time interval. For constant velocity $v$, the displacement is given by $\\Delta x = v \\times \\Delta t$. For varying velocity, the area represents the integral $\\int v(t)\\,dt$, which calculates the total displacement.",
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 4,
+    "subject": "Biology",
+    "topic": "Cell Structure",
+    "question_text": "Which of the following images best represents a typical animal cell?",
+    "options": {
+      "a": "Option A ![Diagram of a Plant Cell](https://upload.wikimedia.org/wikipedia/commons/0/08/Plant_cell_structure.png)",
+      "b": "Option B ![Diagram of an Animal Cell](https://upload.wikimedia.org/wikipedia/commons/b/b1/Animal_cell_diagram.png)",
+      "c": "Option C ![Diagram of a Bacterial Cell](https://upload.wikimedia.org/wikipedia/commons/6/6c/Bacterial_cell_structure.png)",
+      "d": "Option D ![Diagram of a Neuron](https://upload.wikimedia.org/wikipedia/commons/9/94/Example_of_a_neuron.png)"
+    },
+    "correct_answer": "b",
+    "explanation": "Option B correctly depicts a typical animal cell, which includes a cell membrane, nucleus, cytoplasm, and organelles like mitochondria. It does not show a cell wall or a large central vacuole, which are features of plant cells (as seen in Option A). Option C illustrates a prokaryotic bacterial cell, and Option D shows a specialized nerve cell (neuron).",
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 5,
+    "subject": "Computer Science",
+    "topic": "Programming Basics (Python)",
+    "question_text": "What will be the output of the following Python code snippet?\n\n```python\ndef modify_list(data):\n    data.append(4)\n    return len(data)\n\nmy_list = [1, 2, 3]\nlength = modify_list(my_list)\n\nprint(length)\nprint(my_list)\n```",
+    "options": {
+      "a": "3\n[1, 2, 3]",
+      "b": "4\n[1, 2, 3, 4]",
+      "c": "4\n[1, 2, 3]",
+      "d": "3\n[1, 2, 3, 4]"
+    },
+    "correct_answer": "b",
+    "explanation": "Python lists are mutable objects. The list `my_list` is passed by reference to the function `modify_list`, which appends the number 4 to it. Consequently, the list is modified to `[1, 2, 3, 4]`, and the function returns the new length of 4. The output is first the length `4` and then the modified list `[1, 2, 3, 4]`.",
+    "difficulty": "Medium"
+  },
+  {
+    "question_number": 6,
+    "subject": "Physics",
+    "topic": "Optics",
+    "question_text": "The diagram shows the path of a light ray passing through a glass prism.\n\n![Light passing through a prism](https://upload.wikimedia.org/wikipedia/commons/0/06/Prism_rainbow_schema.png)\n\nWhat phenomenon is primarily responsible for the separation of white light into different colors (dispersion) as shown?",
+    "options": {
+      "a": "Reflection",
+      "b": "Diffraction",
+      "c": "Refraction at different angles for different wavelengths",
+      "d": "Total Internal Reflection"
+    },
+    "correct_answer": "c",
+    "explanation": "Dispersion occurs because the refractive index of a material varies with the wavelength of light. In a prism, shorter wavelengths (blue/violet) are refracted more than longer wavelengths (red) due to this variation. According to Snell's Law ($n_1\\sin\\theta_1 = n_2\\sin\\theta_2$), the light bends at different angles, causing separation into a spectrum. An additional diagram illustrating Snell's Law is provided below:\n\n![Snell's Law Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Snells_law2.svg/300px-Snells_law2.svg.png)",
+    "difficulty": "Medium"
+  },
+  {
+    "question_number": 7,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry - Functional Groups",
+    "question_text": "Identify the functional group present in the molecule shown below:",
+    "options": {
+      "a": "An Ether ![Image showing Ethanol (Alcohol)](https://upload.wikimedia.org/wikipedia/commons/e/e8/Ethanol-structure.svg)",
+      "b": "An Ester ![Image showing Ethyl Acetate (Ester)](https://upload.wikimedia.org/wikipedia/commons/c/c9/Ethyl-acetate-2D-skeletal.svg)",
+      "c": "A Carboxylic Acid ![Image showing Acetic Acid (Carboxylic Acid)](https://upload.wikimedia.org/wikipedia/commons/e/e9/Acetic_acid_200.svg)",
+      "d": "An Amine ![Image showing Ethylamine (Amine)](https://upload.wikimedia.org/wikipedia/commons/3/3e/Ethylamine-2D-skeletal.png)"
+    },
+    "correct_answer": "c",
+    "explanation": "The image in option (c) represents acetic acid ($CH_3COOH$), which contains the carboxylic acid functional group. This group is characterized by a carbonyl group (C=O) bonded to a hydroxyl group (-OH). The other options represent different functional groups: option (a) depicts an alcohol, option (b) an ester, and option (d) an amine.",
+    "difficulty": "Easy"
+  },
+  {
+    "question_number": 8,
+    "subject": "Computer Science",
+    "topic": "Programming - Loops & Output",
+    "question_text": "What is the output of the following C++ code?\n\n```cpp\n#include <iostream>\n#include <vector>\n\nint main() {\n    std::vector<int> vec = {10, 20, 30};\n    int sum = 0;\n    for (int val : vec) {\n        sum += val / 10;\n        std::cout << sum << \" \";\n    }\n    std::cout << std::endl;\n    return 0;\n}\n```",
+    "options": {
+      "a": "10 20 30 ",
+      "b": "1 2 3 ",
+      "c": "1 3 6 ",
+      "d": "10 30 60 "
+    },
+    "correct_answer": "c",
+    "explanation": "The code iterates through the vector and performs integer division by 10 on each element, accumulating the sum. For 10, 20, and 30, the operations are:\n- 10 / 10 = 1 → sum becomes 1,\n- 20 / 10 = 2 → sum becomes 1 + 2 = 3,\n- 30 / 10 = 3 → sum becomes 3 + 3 = 6.\nThus, the printed output is: 1 3 6 ",
+    "difficulty": "Medium"
+  },
+  {
+    "question_number": 9,
+    "subject": "Mathematics",
+    "topic": "Calculus - Integration",
+    "question_text": "Evaluate the definite integral: $$ \\int_{0}^{\\pi/2} \\sin(x) \\, dx $$",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "-1",
+      "d": "$\\pi/2$"
+    },
+    "correct_answer": "b",
+    "explanation": "To solve the integral, first find the antiderivative of sin(x), which is -cos(x). Evaluating from 0 to $\\pi/2$ gives:\n\n$$[-\\cos(x)]_{0}^{\\pi/2} = (-\\cos(\\pi/2)) - (-\\cos(0)) = 0 - (-1) = 1.$$",
+    "difficulty": "Medium"
+  },
+  {
+    "question_number": 10,
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question_text": "Which type of bond involves the sharing of electron pairs between atoms?",
+    "options": {
+      "a": "Ionic Bond",
+      "b": "Covalent Bond",
+      "c": "Metallic Bond",
+      "d": "Hydrogen Bond"
+    },
+    "correct_answer": "b",
+    "explanation": "A covalent bond is formed when two atoms share one or more pairs of electrons. In contrast, an ionic bond involves the transfer of electrons, a metallic bond features delocalized electrons forming a 'sea' around metal ions, and a hydrogen bond is an intermolecular attraction rather than a true chemical bond.",
+    "difficulty": "Easy"
+  }
+]
