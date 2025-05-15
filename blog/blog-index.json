@@ -1,29 +1,47 @@
 [
   {
-    "slug": "what-is-examify-features-benefits",
-    "title": "What is Examify? Features and Benefits Explained",
-    "date": "2025-04-14", 
-    "author": "Examify Team",
-    "excerpt": "Discover Examify, your go-to online platform for realistic competitive exam practice. Explore features like mock tests, custom uploads, performance analysis, and more.",
-    "tags": ["Examify", "Features", "Introduction", "Exam Preparation", "Mock Test", "Online Exam Simulator"],
-    "mdFilePath": "/blog/what-is-examify-features-benefits.md"
+"slug": "what-is-examify-features-benefits",
+"title": "What is Examify? Features and Benefits Explained",
+"date": "2025-05-15" ,
+"author": "The Examify Team",
+"excerpt": "Explore Examify, your comprehensive online platform for realistic competitive exam practice, now with Group Sessions, Session Integrity Tools, AI help, and more!",
+"tags": ["Examify", "Features", "Introduction", "Exam Preparation", "Mock Test", "Online Exam Simulator", "Group Exams", "Anti-Cheating", "AI Learning"],
+"mdFilePath": "/blog/what-is-examify-features-benefits.md"
   },
   {
     "slug": "how-examify-helps-ace-exams",
-    "title": "How Examify Helps You Ace Your Competitive Exams",
-    "date": "2025-04-14",
-    "author": "Examify Team",
-    "excerpt": "Learn how Examify's realistic simulations, custom practice options, and detailed feedback mechanisms address common exam challenges like time pressure and identifying weaknesses.",
-    "tags": ["Examify", "Exam Strategy", "Time Management", "Performance Improvement", "Study Tips", "Mock Test Benefits", "Competitive Exams"],
-    "mdFilePath": "/blog/how-examify-helps-ace-exams.md"
+"title": "How Examify Empowers You to Ace Competitive Exams (Enhanced!)",
+"date": "2025-05-15",
+"author": "The Examify Team",
+"excerpt": "Discover how Examify's realistic simulations, flexible practice (individual & group!), session integrity tools, AI assistance, and detailed feedback help you conquer exam challenges and boost your scores.",
+"tags": ["Examify", "Exam Strategy", "Time Management", "Performance Improvement", "Study Tips", "Mock Test Benefits", "Competitive Exams", "Group Study", "AI Learning"],
+"mdFilePath": "/blog/how-examify-helps-ace-exams.md"
   },
   {
     "slug": "how-to-use-examify-guide",
-    "title": "How to Use Examify: A Step-by-Step Guide",
-    "date": "2025-04-14", 
-    "author": "Examify Team",
-    "excerpt": "A practical guide to getting started with Examify. Learn how to select exams, configure settings, take tests, and review your results effectively.",
-    "tags": ["Examify", "User Guide", "Tutorial", "Getting Started", "How To", "Exam Simulator", "Online Practice Test"],
-    "mdFilePath": "/blog/how-to-use-examify-guide.md"
+"title": "The Ultimate Guide to Using Examify (Updated for All Features!)",
+"date": "2025-05-15",
+"author": "The Examify Team",
+"excerpt": "Your comprehensive step-by-step guide to mastering Examify: From selecting/uploading exams and configuring sessions (individual & group!) to reviewing results with AI assistance.",
+"tags": ["Examify", "User Guide", "Tutorial", "Getting Started", "How To", "Exam Simulator", "Online Practice Test", "Group Exams", "AI Learning", "Host Guide", "Participant Guide"],
+"mdFilePath": "/blog/how-to-use-examify-guide.md"
+  },
+  {
+  "slug": "guide-group-exams-examify",
+  "title": "Mastering Group Exams in Examify: A Guide for Hosts & Participants",
+  "date": "2025-05-18",
+  "author": "The Examify Team",
+  "excerpt": "Unlock collaborative learning and effective assessment with Examify's Group Exam Sessions. Learn how to host, manage, join, and leverage group practice for exam success.",
+  "tags": ["Examify", "Group Exams", "Host Guide", "Participant Guide", "Collaborative Learning", "Online Assessment", "Study Groups", "Educational Technology"],
+  "mdFilePath": "/blog/guide-group-exams-examify.md"
+},
+  {
+  "slug": "session-integrity-tools-explained",
+"title": "Ensuring Fair Practice: A Deep Dive into Examify's Session Integrity Tools",
+"date": "2025-05-15" ,
+"author": "The Examify Team",
+"excerpt": "Learn about Examify's host-configurable Session Integrity Tools like Focus Tracking, Copy/Paste Prevention, and Geolocation Restriction, designed to enhance the fairness and validity of group practice sessions.",
+"tags": ["Examify", "Anti-Cheating", "Session Integrity", "Focus Tracking", "Online Proctoring", "Group Exams", "Host Features", "Student Privacy"],
+"mdFilePath": "/blog/session-integrity-tools-explained.md"
   }
 ]
