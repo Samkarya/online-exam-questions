@@ -30,7 +30,7 @@
     "session": null,
     "date": null,
     "shift": null,
-    "paperType": null,
+    "paperType": null, 
     "title": "NIMCET 2024",
     "description": "National Institute of Technology MCA Common Entrance Test 2024",
     "path": "NIMCET/nimcet_2024.json"
