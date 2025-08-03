@@ -67,4 +67,4 @@ Examify offers a free tier with core functionality. Advanced features, higher us
 
 Ready to elevate your competitive exam preparation? Examify provides the tools and environment you need to practice smarter, gain confidence, and perform better.
 
-[**➡️ Start Your Practice Session Now!**](https://examify.web.app/select-exam)
+[**➡ Start Your Practice Session Now!**](https://examify.web.app/select-exam)
