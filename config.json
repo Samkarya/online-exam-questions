@@ -48,6 +48,18 @@
     "path": "JEEMains/jeeMain_2025_22Jan_shift1.json" 
   },
   {
+    "id": "jeeMain_2025_22Jan_shift2", 
+    "category": "JEE Main",           
+    "year": 2025,
+    "session": "January",             
+    "date": "2025-01-22",             
+    "shift": 2,                       
+    "paperType": "Paper 1 (PCM)",     
+    "title": "JEE Main 2025 (Jan 22nd, Shift 1)", 
+    "description": "Joint Entrance Examination (Mains) Test 2025", 
+    "path": "JEEMains/jeeMain_2025_22Jan_shift2.json" 
+  },
+  {
     "id": "demo_exam_examify",
     "category": "Demo",
     "year": 2025,
