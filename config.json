@@ -70,5 +70,17 @@
     "title": "Examify Demo Exam 2025",
     "description": "Demo exam created to showcase Examify’s features including multi-subject support, visual content, and detailed explanations.",
     "path": "Demo/demo_exam_examify.json"
+  },
+  {
+    "id": "rrb-ntpc_2025",
+    "category": "RRB-NTPC",
+    "year": 2025,
+    "session": "June",
+    "date": "2025-06-05",
+    "shift": 1,
+    "paperType": null,
+    "title": "RRB-NTPC 2025",
+    "description": "Railway Recruitment Board Non-Technical Popular Categories 2025 Examination for various non-gazetted posts in Indian Railways.",
+    "path": "RRB-NTPC/RRB-NTPC_2025_05June_shift1.json"
   }
 ]
