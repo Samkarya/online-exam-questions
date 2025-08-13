@@ -82,5 +82,18 @@
     "title": "RRB-NTPC 2025",
     "description": "Railway Recruitment Board Non-Technical Popular Categories 2025 Examination for various non-gazetted posts in Indian Railways.",
     "path": "RRB_NTPC/RRB-NTPC_2025_05June_shift1.json"
+  },
+  {
+    "id": "mtel_physical_ed_22_practice",
+    "category": "MTEL",
+    "year": null,
+    "session": null,
+    "date": null,
+    "shift": null,
+    "paperType": "Physical Education (Field 22) Practice Test",
+    "title": "MTEL Physical Education (22) Practice Test",
+    "description": "Official MTEL Physical Education (Field 22) Practice Test provided by the Massachusetts Department of Elementary and Secondary Education, containing 100 multiple-choice questions",
+    "path": "MTEL/mtel_physical_ed_22_practice.json"
   }
+  
 ]
