@@ -130,5 +130,17 @@
     "title": "CAT 2024 Question Paper (Slot 2, QA)",
     "description": "Common Admission Test 2024 Question Paper for the Quantitative Aptitude section from Slot 2.",
     "path": "CAT/cat_2024_slot2_quant.json"
-  }   
+  },
+  {
+    "id": "cat_2024_slot3_quant",
+    "category": "CAT",
+    "year": 2024,
+    "session": null,
+    "date": null,
+    "shift": 3,
+    "paperType": "Quantitative Aptitude (QA)",
+    "title": "CAT 2024 Question Paper (Slot 3, QA)",
+    "description": "Common Admission Test 2024 Question Paper for the Quantitative Aptitude section from Slot 3.",
+    "path": "CAT/cat_2024_slot3_quant.json"
+  }
 ]
