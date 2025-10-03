@@ -106,5 +106,17 @@
     "title": "MTEL Physical Education (22) Unofficial Practice Test by Examify",
     "description": "Unofficial MTEL Physical Education (Field 22) practice test created by Examify team and evaluated with AI for accuracy and alignment to MTEL standards.",
     "path": "MTEL/mtel_physical_ed_22_unofficial_examify.json"
+  },
+  {
+    "id": "cat_2024_slot1_quant",
+    "category": "CAT",
+    "year": 2024,
+    "session": null,
+    "date": null,
+    "shift": 1,
+    "paperType": "Quantitative Aptitude (QA)",
+    "title": "CAT 2024 Question Paper (Slot 1, QA)",
+    "description": "Common Admission Test 2024 Question Paper for the Quantitative Aptitude section from Slot 1.",
+    "path": "CAT/cat_2024_slot1_quant.json"
   }  
 ]
