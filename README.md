@@ -1,10 +1,7 @@
 # 📚 Online Exam Questions for Examify Platform
+Visit Examify: https://examify.web.app/
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
-**Visit Examify:** [https://examify.web.app/](https://examify.web.app/)
-
-**License:** MIT
+License: MIT
 
 This repository hosts the JSON formatted question sets used by the [Examify Online Practice Platform](https://examify.web.app/).
 
@@ -20,36 +17,33 @@ The goal of this repository is to:
 
 Examify relies on **two key components** from this repository:
 
-1.  **`config.json` (Root Level):** This file acts as the **master index**. Examify reads this file *first* to understand which official exams are available, how they are categorized, and where to find their specific question files. It drives the multi-step selection UI (Category -> Year -> Session -> Paper).
-2.  **Question JSON Files (Category Directories):** These files contain the actual questions, options, answers, and explanations for each specific exam paper instance, following a defined format.
-
----
+1.  **`config.json` (Root Level):** This file acts as the master index. The `useExamConfig` hook in Examify fetches this file first to understand which official exams are available, how they are categorized, and where to find their specific question files. It drives the multi-step selection UI (Category -> Year -> Session -> Paper) seen in the `OfficialExamSelector` component.
+2.  **Question JSON Files (Category Directories):** These files contain the actual questions, options, answers, and explanations for each specific exam paper. The `ExamContext` fetches a specific file using its path from `config.json` when an exam is selected.
 
 ## ⚙️ `config.json` - The Master Exam Index
 
-This file, located at the **root** of the repository, defines every official exam paper instance available in the Examify platform's "Official Mock Tests" section.
+This file, located at the root of the repository, defines every official exam paper instance available in the Examify platform's "Official Mock Tests" section.
 
-**➡️ IMPORTANT:** When adding a new official exam JSON file, you **MUST** add a corresponding entry to this `config.json` file for it to appear in the app.
+➡️ **IMPORTANT:** When adding a new official exam JSON file, you **MUST** add a corresponding entry to this `config.json` file for it to appear in the app.
 
 ### `config.json` Format:
 
-An array `[]` of objects, where each object describes **one specific exam paper instance** (e.g., a particular year, session, shift, or subject paper).
+An array `[]` of objects, where each object describes one specific exam paper instance (e.g., a particular year, session, shift, or subject paper).
 
 ```json
 [
   {
-    "id": "string",         // REQUIRED: Unique identifier for this specific paper instance (e.g., "nimcet_2023", "jeeMain_2024_jan_s1_d22_sh1"). Lowercase, underscore-separated is recommended.
-    "category": "string",     // REQUIRED: Top-level exam group (e.g., "NIMCET", "JEE Main", "CUET-UG"). Used for the first selection step. Should ideally match the directory name.
+    "id": "string",         // REQUIRED: Unique identifier (e.g., "nimcet_2023"). Lowercase, underscore-separated is recommended.
+    "category": "string",     // REQUIRED: Top-level exam group (e.g., "NIMCET", "JEE Main"). Used for the first selection step.
     "year": number,           // REQUIRED: The numerical year the exam paper pertains to (e.g., 2023).
-    "session": "string|null", // Optional: The specific session if applicable (e.g., "January", "April", 1, 2). Use `null` if not applicable or only one session exists for the year.
+    "title": "string",        // REQUIRED: Concise display title for this specific paper instance (e.g., "NIMCET 2023").
+    "path": "string",         // REQUIRED: Relative path from the repository root to the corresponding question JSON file (e.g., "NIMCET/nimcet_2023.json").
+    "session": "string|null", // Optional: The specific session if applicable (e.g., "January", "April", 1, 2). Use `null` if not applicable.
     "date": "string|null",    // Optional: The specific date (ISO format "YYYY-MM-DD") if relevant (e.g., "2024-01-22"). Use `null` if not date-specific.
-    "shift": "string|number|null", // Optional: The specific shift if applicable (e.g., 1, 2, "Morning", "Afternoon"). Use `null` if not shift-specific.
-    "paperType": "string|null",// Optional: Describes the paper type if multiple exist within a session/date/shift (e.g., "Paper 1 (PCM)", "B.Arch", "Physics", "General Test"). Use `null` if only one paper type exists for the combination.
-    "title": "string",        // REQUIRED: Concise display title for this specific paper instance (e.g., "NIMCET 2023", "JEE Main 2024 (Jan 22nd, Shift 1)"). Derived from other fields.
-    "description": "string",  // Optional: A short description shown in the app (e.g., "National Institute of Technology MCA Common Entrance Test 2023").
-    "path": "string"          // REQUIRED: Relative path from the repository root to the corresponding question JSON file (e.g., "NIMCET/nimcet_2023.json", "JEEMains/2024/jeeMain_2024_jan_s1_d22_sh1.json").
+    "shift": "string|number|null", // Optional: The specific shift if applicable (e.g., 1, 2, "Morning"). Use `null` if not shift-specific.
+    "paperType": "string|null",// Optional: Describes the paper type if multiple exist (e.g., "Paper 1 (PCM)", "Physics"). Use `null` if only one paper type exists for the combination.
+    "description": "string"  // Optional: A short description shown in the app.
   }
-  // ... more exam configurations
 ]
 ```
 
@@ -106,8 +100,6 @@ An array `[]` of objects, where each object describes **one specific exam paper 
 }
 ```
 
----
-
 ## 📝 Question JSON File Format
 
 Each `.json` file (e.g., `NIMCET/nimcet_2023.json`) contains the actual question data for a single paper instance listed in `config.json`.
@@ -119,15 +111,15 @@ Each `.json` file (e.g., `NIMCET/nimcet_2023.json`) contains the actual question
 
 **Mandatory Fields:**
 
-*   `question_number` (Number): Unique integer identifying the question (e.g., 1, 2,...). Must be sequential starting from 1 within the file.
+*   `question_number` (Number): Unique integer identifying the question (e.g., 1, 2,...). Must be sequential starting from 1.
 *   `question_text` (String): The main question text. Supports complex content (see below).
 *   `options` (Object): Key-value pairs where keys are option identifiers (e.g., `"a"`, `"b"`) and values are the option text (String). Option values also support complex content.
-*   `correct_answer` (String): The key from the `options` object that is the correct answer (e.g., `"b"`). Must exactly match an options key.
+*   `correct_answer` (String): The key from the `options` object that is the correct answer (e.g., `"b"`). Must exactly match an `options` key.
 
 **Optional Fields:**
 
-*   `subject` (String): Subject area (e.g., "Mathematics", "Physics").
-*   `topic` (String): Specific topic (e.g., "Calculus", "Optics").
+*   `subject` (String): Subject area (e.g., "Mathematics", "Physics"). Displayed in the question header.
+*   `topic` (String): Specific topic (e.g., "Calculus", "Optics"). Displayed in the question header.
 *   `explanation` (String): Detailed explanation (highly encouraged!). Supports complex content.
 *   `difficulty` (String): Difficulty level (e.g., "Easy", "Medium", "Hard").
 *   `section_id` (String): Identifier for exams with sections (e.g., "Section A").
@@ -152,107 +144,74 @@ Each `.json` file (e.g., `NIMCET/nimcet_2023.json`) contains the actual question
 }
 ```
 
-### Example Complete `.json` File Structure:
-
-```json
-[
-  {
-    "question_number": 1,
-    "question_text": "First question... $math$.",
-    "options": { "a": "Opt A1", "b": "Opt B1" },
-    "correct_answer": "b"
-  },
-  {
-    "question_number": 2,
-    "subject": "Physics",
-    "question_text": "Second question... ![Diagram](ExamCategory/assets/image.png)",
-    "options": { "a": "Opt A2", "b": "Opt B2" },
-    "correct_answer": "a",
-    "explanation": "Explanation with `code` or formulas like $$\\Delta V = IR$$."
-  },
-  {
-    "question_number": 3,
-    // ... more fields ...
-    "question_text": "Analyze code:\n\n```c++\n#include <iostream>\nint main() {\n  std::cout << 1;\n  return 0;\n}\n```\n\nOutput?"
-    // ... options, answer, explanation ...
-  }
-  // ... more question objects ...
-]
-```
-
----
-
 ## ✨ Handling Complex Content (LaTeX, Images, Code)
 
-Use these formats within `question_text`, `options` values, and `explanation` strings:
+The `MarkdownRenderer` component in Examify supports rich content within `question_text`, `options` values, and `explanation` strings.
 
 ### 1. Mathematical Notation (LaTeX via KaTeX)
 
 *   **Syntax:** Standard LaTeX.
 *   **Inline Math:** Use single dollar signs: `$ E = mc^2 $`
 *   **Display Math:** Use double dollar signs: `$$ \int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2} $$`
-*   **⚠️ JSON ESCAPING:** You **MUST** escape LaTeX backslashes (`\`) with another backslash (`\\`) within the JSON string.
+*   ⚠️ **JSON ESCAPING:** You **MUST** escape LaTeX backslashes (`\`) with another backslash (`\\`) within the JSON string.
     *   LaTeX `\frac{1}{2}` becomes `"$\\frac{1}{2}$"` in JSON.
     *   LaTeX `\sin(x)` becomes `"$\\sin(x)$"` in JSON.
 
 ### 2. Images (URL via Markdown)
 
 *   **Syntax:** `![Alt Text](Image URL)`
-*   **Supported URLs:**
-    *   ✅ **Absolute HTTPS URLs (Recommended):** Publicly accessible image hosts. Most flexible.
+*   **Supported URLs:** The `transformImageUri` function processes URLs as follows:
+    *   ✅ **Absolute HTTPS URLs:** Publicly accessible `https://` URLs are the most flexible and recommended approach.
         *   Example: `![Diagram](https://some-image-hosting.com/path/image.png)`
-    *   ✅ **Relative Paths (For Repo Assets ONLY):** Use if adding images *to this repository*. Path must be relative *from the repo root*. Examify prepends the base URL automatically.
+    *   ✅ **Relative Paths (For Repo Assets ONLY):** Use this for images stored within this repository. The path must be relative from the repo root. Examify automatically prepends the base URL (`https://raw.githubusercontent.com/Samkarya/online-exam-questions/main/`).
         *   Example: `![Circuit](NIMCET/assets/nimcet_2023_q2_circuit.png)` (Requires the file to exist at this path in the repo).
-        *   **Convention:** Place assets in `ExamCategory/assets/`.
-    *   ❌ **Blocked URLs:** `http://` (insecure), `file:///` (local paths) will **not** work.
-*   **Alt Text:** Provide meaningful description.
+        *   Convention: Place assets in `ExamCategory/assets/`.
+    *   ❌ **Blocked URLs:** `http://` (insecure), `file:///` (local paths), and other schemes will not work and will show a fallback.
+*   **Alt Text:** Provide a meaningful description for accessibility.
 
-### 3. Chemical Content
+### 3. Code Snippets (Markdown Fenced Code Blocks)
 
-*   **Complex Structures:** Use **Images** (Markdown links).
-*  **Simple Chemical Equations:**  
-Prefer using standard **LaTeX math mode** with properly escaped symbols, like this:
-
-```latex
-$$CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O$$
-```
-
-### 4. Code Snippets (Markdown Fenced Code Blocks)
-
-*   **Syntax:** Triple backticks (``` ```) with optional language identifier (e.g., ```python```).
-*   **⚠️ JSON ESCAPING:** Newlines within code **must** be escaped as `\n`.
+*   **Syntax:** Triple backticks (``````) with an optional language identifier (e.g., `python`, `c++`).
+*   ⚠️ **JSON ESCAPING:** Newlines within the code block **MUST** be escaped as `\n` in the JSON string.
 *   **Example in JSON:**
     ```json
-    "question_text": "What is the output?\n\n```python\ndef greet(name):\n  print(f\"Hello, {name}!\")\n\ngreet(\"Examify\")\n```"
+    "question_text": "What is the output of the following C++ code?\n\n```c++\n#include <iostream>\n\nint main() {\n  std::cout << \"Hello, Examify!\";\n  return 0;\n}\n```"
     ```
 
----
+### 4. Tables (Markdown)
+
+*   **Syntax:** Standard Markdown table syntax. The renderer component includes custom styling for tables.
+*   **Example in JSON:**
+    ```json
+    "question_text": "Match the following columns:\n\n| Column A | Column B |\n| :--- | :--- |\n| Speed | Scalar |\n| Velocity | Vector |"
+    ```
 
 ## 🤖 Using AI to Generate Question JSON
 
 AI models can assist, but require precise prompting and careful review.
 
-**Key Principles for AI Prompts:**
+### Key Principles for AI Prompts:
 
-1.  **Be Explicit:** Clearly state the required JSON structure (array of objects, mandatory/optional fields from above).
-2.  **Specify Formatting:**
-    *   Tell it to use **LaTeX** (`$`, `$$`) and **escape backslashes** (`\\`).
-    *   Tell it to use **Markdown code fences** (```) and **escape newlines** (`\n`).
-    *   Tell it to use **Markdown image syntax** (`![Alt Text](PLACEHOLDER_PATH)`) and mention you'll replace the placeholder path.
-3.  **Provide Examples:** Include a full example of a question object demonstrating structure *and escaping*.
-4.  **Specify Quantity & Context:** Ask for `[Number]` questions for `[Exam/Subject]`.
-5.  **Request Validation:** Ask the AI to ensure the output is a valid JSON array.
-6.  **Iterate:** Start small (2-3 questions) to test your prompt.
-7.  **⚠️ Review Diligently:** **ALWAYS** manually review AI output for:
-    *   **Correctness:** Questions, options, answers, explanations.
-    *   **JSON Validity:** Use a validator.
-    *   **Escaping:** Check for `\\` in LaTeX and `\n` in code blocks.
-    *   **Image Placeholders:** Ensure `PLACEHOLDER_PATH` is used where expected.
-    *   **Sequential `question_number`**.
+*   **Be Explicit:** Clearly state the required JSON structure (array of objects, mandatory/optional fields from above).
+*   **Specify Formatting:**
+    *   Tell it to use LaTeX (`$`, `$$`) and **escape all backslashes** (`\\`).
+    *   Tell it to use Markdown code fences (``````) and **escape all newlines as `\n`**.
+    *   Tell it to use Markdown image syntax (`![Alt Text](PLACEHOLDER_PATH)`) and mention you'll replace the placeholder.
+*   **Provide Examples:** Include a full example of a question object demonstrating structure and escaping.
+*   **Specify Quantity & Context:** Ask for `[Number]` questions for `[Exam/Subject]`.
+*   **Request Validation:** Ask the AI to ensure the output is a valid JSON array.
+*   **Iterate:** Start small (2-3 questions) to test your prompt.
 
-**Example AI Prompt:**
+⚠️ **Review Diligently:** ALWAYS manually review AI output for:
+*   **Correctness:** Questions, options, answers, explanations.
+*   **JSON Validity:** Use a validator.
+*   **Escaping:** Check for `\\` in LaTeX and `\n` in code blocks.
+*   **Image Placeholders:** Ensure `PLACEHOLDER_PATH` is used where expected.
+*   **Sequential `question_number`**.
 
-```text
+### Example AI Prompt:
+
+````
 Generate a valid JSON array containing [Number] practice questions for the [Exam Name/Subject] exam.
 
 Each question object in the array must strictly follow this structure:
@@ -268,7 +227,7 @@ Each question object in the array must strictly follow this structure:
 
 Formatting Rules for ALL String Values:
 1.  Use LaTeX for Math: Inline `$ ... $`, Display `$$ ... $$`. IMPORTANT: Escape all LaTeX backslashes as `\\` (e.g., use "\\frac", "\\sin").
-2.  Use Markdown Code Blocks: Fenced ```language ... ```. IMPORTANT: Escape all newlines within code as `\\n`.
+2.  Use Markdown Code Blocks: Fenced ```language ... ```. IMPORTANT: Escape all newlines within code as `\n`.
 3.  Use Markdown Images: `![Alt Text](PLACEHOLDER_PATH)`. I will replace the placeholder later.
 
 Here is ONE example object:
@@ -283,18 +242,7 @@ Here is ONE example object:
 }
 
 Generate [Number] question objects in a single valid JSON array, applying all rules, especially escaping.
-```
-
-**Manual Steps After AI:**
-
-*   **Validate JSON**.
-*   **Verify Correctness**.
-*   **Check Escaping (`\\`, `\n`)**.
-*   **Add Images:** Place image files in the correct `ExamCategory/assets/` folder.
-*   **Update Image Paths:** Replace `PLACEHOLDER_PATH` with the correct relative path (e.g., `ExamCategory/assets/image.png`).
-*   **Review `question_number`**.
-
----
+````
 
 ## 📂 Repository Structure
 
@@ -306,7 +254,6 @@ Organize files by examination category.
 │   ├── assets/                # Images specific to ExamCategoryA
 │   │   └── image_name.png
 │   └── paper_instance_1.json  # e.g., nimcet_2023.json
-│   └── paper_instance_2.json
 │
 ├── ExamCategoryB/             # e.g., JEEMains/
 │   ├── 2024/                  # Optional sub-folder for year
@@ -318,8 +265,6 @@ Organize files by examination category.
 └── LICENSE
 ```
 
----
-
 ## 🙌 Contribution Guidelines
 
 Contributions are welcome!
@@ -329,16 +274,14 @@ Contributions are welcome!
 3.  **Add/Edit Files:**
     *   Create/modify exam `.json` files in the appropriate `ExamCategory/` directory.
     *   Follow the detailed **Question JSON File Format** and **Handling Complex Content** rules strictly.
-    *   If adding images, place them in `ExamCategory/assets/` and use correct **relative paths** in the JSON.
-    *   **✅ Validate your JSON!** Invalid JSON breaks the app.
+    *   If adding images, place them in `ExamCategory/assets/` and use correct relative paths in the JSON.
+    *   ✅ **Validate your JSON!** Invalid JSON breaks the app.
     *   Add/improve `explanation` fields whenever possible.
-4.  **Update `config.json`:** **➡️ If adding a new paper instance, add a corresponding entry to the root `config.json` file.** Ensure the `id` is unique and the `path` is correct.
+4.  **Update `config.json`:** ➡️ If adding a new paper instance, add a corresponding entry to the root `config.json` file. Ensure the `id` is unique and the `path` is correct.
 5.  **Commit:** Use clear messages (e.g., `feat: Add CAT 2022 Question Paper`, `fix: Correct answer for NIMCET 2023 Q10`).
-6.  **Pull Request (PR):** Create a PR to the `main` branch of *this* repository. Describe your changes clearly.
+6.  **Pull Request (PR):** Create a PR to the `main` branch of this repository. Describe your changes clearly.
 7.  **Review:** Your PR will be reviewed for correctness, formatting, and adherence to guidelines.
-
----
 
 ## License
 
-This repository and its contents are licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This repository and its contents are licensed under the MIT License. See the `LICENSE` file for details.
