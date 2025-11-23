@@ -1,47 +1,140 @@
 [
   {
-"slug": "what-is-examify-features-benefits",
-"title": "What is Examify? Features and Benefits Explained",
-"date": "2025-05-15" ,
-"author": "The Examify Team",
-"excerpt": "Explore Examify, your comprehensive online platform for realistic competitive exam practice, now with Group Sessions, Session Integrity Tools, AI help, and more!",
-"tags": ["Examify", "Features", "Introduction", "Exam Preparation", "Mock Test", "Online Exam Simulator", "Group Exams", "Anti-Cheating", "AI Learning"],
-"mdFilePath": "/blog/what-is-examify-features-benefits.md"
+    "slug": "how-to-create-upload-custom-questions",
+    "title": "Tutorial: How to Create and Upload Your Own Question Papers",
+    "date": "2025-06-20",
+    "author": "The Examify Team",
+    "excerpt": "Want to practice with your own questions? Learn how to create custom JSON question papers and upload them to Examify for a personalized exam experience.",
+    "tags": [
+      "Tutorial",
+      "Custom Exams",
+      "JSON Format",
+      "Teachers",
+      "Self Study",
+      "Examify Features"
+    ],
+    "mdFilePath": "/blog/how-to-create-upload-custom-questions.md"
+  },
+  {
+    "slug": "nimcet-cuet-mca-2025-roadmap",
+    "title": "NIMCET & CUET MCA 2025: A Complete Preparation Roadmap",
+    "date": "2025-06-15",
+    "author": "The Examify Team",
+    "excerpt": "Targeting top MCAs like NITs or JNU? Here is your complete roadmap for NIMCET and CUET MCA 2025, including syllabus breakdown and preparation strategy.",
+    "tags": [
+      "NIMCET",
+      "CUET MCA",
+      "MCA Entrance",
+      "Syllabus",
+      "Preparation Strategy",
+      "NIT",
+      "JNU"
+    ],
+    "mdFilePath": "/blog/nimcet-cuet-mca-2025-roadmap.md"
+  },
+  {
+    "slug": "ultimate-guide-online-mock-tests",
+    "title": "The Ultimate Guide to Online Mock Tests for Any Exam",
+    "date": "2025-06-10",
+    "author": "The Examify Team",
+    "excerpt": "Whether you're preparing for NIMCET, CUET, SSC, or Banking exams, online mock tests are your secret weapon. Learn how to use them effectively to boost your score.",
+    "tags": [
+      "Exam Preparation",
+      "Mock Tests",
+      "Study Tips",
+      "Competitive Exams",
+      "NIMCET",
+      "CUET",
+      "SSC",
+      "Banking"
+    ],
+    "mdFilePath": "/blog/ultimate-guide-online-mock-tests.md"
+  },
+  {
+    "slug": "mastering-your-exams-strategies",
+    "title": "Mastering Your Exams: 5 Strategies for Success with Examify",
+    "date": "2025-06-01",
+    "author": "The Examify Team",
+    "excerpt": "Success in JEE, NEET, or NIMCET requires more than just studying. Learn 5 proven strategies to use mock tests effectively and boost your score.",
+    "tags": [
+      "Exam Strategy",
+      "JEE",
+      "NEET",
+      "NIMCET",
+      "Study Tips",
+      "Time Management",
+      "Mock Tests"
+    ],
+    "mdFilePath": "/blog/mastering-your-exams-strategies.md"
+  },
+  {
+    "slug": "what-is-examify-features-benefits",
+    "title": "What is Examify? Features and Benefits Explained",
+    "date": "2025-05-15",
+    "author": "The Examify Team",
+    "excerpt": "Explore Examify, your comprehensive open-source platform for realistic competitive exam practice. Discover how our Offline Mode, Privacy-First architecture, and Flexible Question Sources help you prepare better.",
+    "tags": [
+      "Examify",
+      "Features",
+      "Introduction",
+      "Exam Preparation",
+      "Mock Test",
+      "Online Exam Simulator",
+      "Open Source",
+      "Offline Mode",
+      "Privacy"
+    ],
+    "mdFilePath": "/blog/what-is-examify-features-benefits.md"
   },
   {
     "slug": "how-examify-helps-ace-exams",
-"title": "How Examify Empowers You to Ace Competitive Exams (Enhanced!)",
-"date": "2025-05-15",
-"author": "The Examify Team",
-"excerpt": "Discover how Examify's realistic simulations, flexible practice (individual & group!), session integrity tools, AI assistance, and detailed feedback help you conquer exam challenges and boost your scores.",
-"tags": ["Examify", "Exam Strategy", "Time Management", "Performance Improvement", "Study Tips", "Mock Test Benefits", "Competitive Exams", "Group Study", "AI Learning"],
-"mdFilePath": "/blog/how-examify-helps-ace-exams.md"
+    "title": "How Examify Empowers You to Ace Competitive Exams",
+    "date": "2025-05-15",
+    "author": "The Examify Team",
+    "excerpt": "Discover how Examify's realistic simulations, flexible practice, and detailed feedback help you conquer exam challenges and boost your scores.",
+    "tags": [
+      "Examify",
+      "Exam Strategy",
+      "Time Management",
+      "Performance Improvement",
+      "Study Tips",
+      "Mock Test Benefits",
+      "Competitive Exams"
+    ],
+    "mdFilePath": "/blog/how-examify-helps-ace-exams.md"
   },
   {
     "slug": "how-to-use-examify-guide",
-"title": "The Ultimate Guide to Using Examify (Updated for All Features!)",
-"date": "2025-05-15",
-"author": "The Examify Team",
-"excerpt": "Your comprehensive step-by-step guide to mastering Examify: From selecting/uploading exams and configuring sessions (individual & group!) to reviewing results with AI assistance.",
-"tags": ["Examify", "User Guide", "Tutorial", "Getting Started", "How To", "Exam Simulator", "Online Practice Test", "Group Exams", "AI Learning", "Host Guide", "Participant Guide"],
-"mdFilePath": "/blog/how-to-use-examify-guide.md"
+    "title": "The Ultimate Guide to Using Examify",
+    "date": "2025-05-15",
+    "author": "The Examify Team",
+    "excerpt": "Your comprehensive step-by-step guide to mastering Examify: From selecting/uploading exams to reviewing results and tracking your progress.",
+    "tags": [
+      "Examify",
+      "User Guide",
+      "Tutorial",
+      "Getting Started",
+      "How To",
+      "Exam Simulator",
+      "Online Practice Test"
+    ],
+    "mdFilePath": "/blog/how-to-use-examify-guide.md"
   },
   {
-  "slug": "guide-group-exams-examify",
-  "title": "Mastering Group Exams in Examify: A Guide for Hosts & Participants",
-  "date": "2025-05-18",
-  "author": "The Examify Team",
-  "excerpt": "Unlock collaborative learning and effective assessment with Examify's Group Exam Sessions. Learn how to host, manage, join, and leverage group practice for exam success.",
-  "tags": ["Examify", "Group Exams", "Host Guide", "Participant Guide", "Collaborative Learning", "Online Assessment", "Study Groups", "Educational Technology"],
-  "mdFilePath": "/blog/guide-group-exams-examify.md"
-},
-  {
-  "slug": "session-integrity-tools-explained",
-"title": "Ensuring Fair Practice: A Deep Dive into Examify's Session Integrity Tools",
-"date": "2025-05-15" ,
-"author": "The Examify Team",
-"excerpt": "Learn about Examify's host-configurable Session Integrity Tools like Focus Tracking, Copy/Paste Prevention, and Geolocation Restriction, designed to enhance the fairness and validity of group practice sessions.",
-"tags": ["Examify", "Anti-Cheating", "Session Integrity", "Focus Tracking", "Online Proctoring", "Group Exams", "Host Features", "Student Privacy"],
-"mdFilePath": "/blog/session-integrity-tools-explained.md"
+    "slug": "self-proctoring-integrity-tools",
+    "title": "Build Exam Discipline: Self-Proctoring with Examify's Sandbox Mode",
+    "date": "2025-05-15",
+    "author": "The Examify Team",
+    "excerpt": "Learn how to use Examify's Sandbox Mode and Focus Shield to simulate strict exam conditions at home, tracking your focus and building the discipline needed for success.",
+    "tags": [
+      "Examify",
+      "Self-Proctoring",
+      "Exam Discipline",
+      "Focus Tracking",
+      "Sandbox Mode",
+      "Study Tips",
+      "Student Privacy"
+    ],
+    "mdFilePath": "/blog/self-proctoring-integrity-tools.md"
   }
 ]
