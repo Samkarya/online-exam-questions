@@ -1,0 +1,17 @@
+[
+    {
+        "id": "gk_ai_demo",
+        "category": "AI-Generated",
+        "year": 2024,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "General Knowledge",
+        "title": "General Knowledge Practice (AI)",
+        "description": "A sample AI-generated exam covering basic general knowledge questions.",
+        "path": "Demo/gk_ai_demo.json",
+        "model": "gemini-1.5-pro",
+        "defaultQuestionCount": 10,
+        "generationPrompt": "Generate 10 general knowledge multiple-choice questions."
+    }
+]
