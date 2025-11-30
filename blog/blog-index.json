@@ -1,5 +1,21 @@
 [
   {
+    "slug": "how-to-use-ai-to-prepare-for-exams",
+    "title": "How to Use AI to Prepare for Exams Using Examify",
+    "date": "2025-11-30",
+    "author": "The Examify Team",
+    "excerpt": "We have added new features to Examify to help you prepare for exams using AI. Learn how to generate personalized exam papers using AI models like ChatGPT, Claude, and Gemini.",
+    "tags": [
+      "AI",
+      "Exam Preparation",
+      "Examify Features",
+      "Personalized Learning",
+      "LLM",
+      "Custom Exams"
+    ],
+    "mdFilePath": "/blog/how-to-use-ai-to-prepare-for-exams.md"
+  },
+  {
     "slug": "how-to-create-upload-custom-questions",
     "title": "Tutorial: How to Create and Upload Your Own Question Papers",
     "date": "2025-06-20",
