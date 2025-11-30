@@ -25,7 +25,7 @@ We realized that static, pre-generated AI papers aren't personalized enough. Tru
 To make this easy, we have provided a specialized **Prompt** that you can use with any LLM (Large Language Model) to generate compatible exam JSONs.
 
 > **Where to find the prompt:**
-> Go to the `/exam-not-found` page by clicking **"Can't find exam"** in the header or footer of the website.
+> Go to the [`/exam-not-found`](https://examify.web.app/exam-not-found) page by clicking **"Can't find exam"** in the header or footer of the website.
 
 ![Screenshot of the Examify footer highlighting the 'Can't find exam' link and the subsequent page displaying the AI prompt.](blog/assets/find-ai-prompt.png)
 
