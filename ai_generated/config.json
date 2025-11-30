@@ -28,5 +28,20 @@
         "model": "gemini-3-pro",
         "defaultQuestionCount": 40,
         "generationPrompt": "Generate 40 IELTS grammar multiple-choice questions."
+    },
+    {
+        "id": "ielts_vocabulary_0",
+        "category": "AI-Generated",
+        "year": 2025,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "IELTS Vocabulary",
+        "title": "IELTS Vocabulary Practice (AI)",
+        "description": "An AI-generated exam covering IELTS vocabulary questions.",
+        "path": "IELTS/ielts_vocabulary_0.json",
+        "model": "gemini-3-pro",
+        "defaultQuestionCount": 40,
+        "generationPrompt": "Generate 40 IELTS vocabulary multiple-choice questions."
     }
 ]
