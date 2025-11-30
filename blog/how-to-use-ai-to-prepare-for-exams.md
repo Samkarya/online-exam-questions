@@ -12,8 +12,7 @@ We have added exciting new features to Examify to help you prepare for exams usi
 
 To bridge this gap, we've introduced **AI-generated exam papers**. These live in a dedicated AI section, clearly separated from official exams, giving you unlimited practice material.
 
-![A split screen showing an official exam paper on the left and an AI-generated exam interface on the right, highlighting the 'AI' label.](/assets/ai-vs-official-exam.png)
-*Image Description: A visual comparison showing the clear distinction between official exam papers and the new AI-generated section in the Examify interface.*
+![A split screen showing an official exam paper on the left and an AI-generated exam interface on the right, highlighting the 'AI' label.](blog/assets/ai-vs-official-exam.png)
 
 ## Empowering You to Create Your Own Exams
 
@@ -28,8 +27,7 @@ To make this easy, we have provided a specialized **Prompt** that you can use wi
 > **Where to find the prompt:**
 > Go to the `/exam-not-found` page by clicking **"Can't find exam"** in the header or footer of the website.
 
-![Screenshot of the Examify footer highlighting the 'Can't find exam' link and the subsequent page displaying the AI prompt.](/assets/find-ai-prompt.png)
-*Image Description: A guide showing users where to click in the footer to access the 'Exam Not Found' page and copy the system prompt.*
+![Screenshot of the Examify footer highlighting the 'Can't find exam' link and the subsequent page displaying the AI prompt.](blog/assets/find-ai-prompt.png)
 
 ## Your New Superpower: Choose Your Source Material
 
