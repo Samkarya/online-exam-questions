@@ -43,5 +43,20 @@
         "model": "gemini-3-pro",
         "defaultQuestionCount": 40,
         "generationPrompt": "Generate 40 IELTS vocabulary multiple-choice questions."
+    },
+    {
+        "id": "ietls_listening_0",
+        "category": "AI-Generated",
+        "year": 2025,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "IELTS Listening",
+        "title": "IELTS Listening Practice (AI)",
+        "description": "An AI-generated exam covering IELTS listening questions.",
+        "path": "IELTS/ielts_listening_0.json",
+        "model": "gemini-3-pro",
+        "defaultQuestionCount": 40,
+        "generationPrompt": "Generate 40 IELTS listening multiple-choice questions."
     }
 ]
