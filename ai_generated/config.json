@@ -2,7 +2,7 @@
     {
         "id": "gk_ai_demo",
         "category": "AI-Generated",
-        "year": 2024,
+        "year": 2025,
         "session": null,
         "date": null,
         "shift": null,
@@ -17,7 +17,7 @@
     {
         "id": "ielts_reading_0",
         "category": "AI-Generated",
-        "year": 2024,
+        "year": 2025,
         "session": null,
         "date": null,
         "shift": null,
@@ -28,5 +28,20 @@
         "model": "gemini-3-pro",
         "defaultQuestionCount": 40,
         "generationPrompt": "Generate 40 IELTS reading multiple-choice questions."
+    },
+    {
+        "id": "ielts_grammar_0",
+        "category": "AI-Generated",
+        "year": 2025,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "IELTS Grammar",
+        "title": "IELTS Grammar Practice (AI)",
+        "description": "An AI-generated exam covering IELTS grammar questions.",
+        "path": "IELTS/ielts_grammar_0.json",
+        "model": "gemini-3-pro",
+        "defaultQuestionCount": 40,
+        "generationPrompt": "Generate 40 IELTS grammar multiple-choice questions."
     }
 ]
