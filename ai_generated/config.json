@@ -13,5 +13,20 @@
         "model": "gemini-1.5-pro",
         "defaultQuestionCount": 10,
         "generationPrompt": "Generate 10 general knowledge multiple-choice questions."
+    },
+    {
+        "id": "ielts_reading_0",
+        "category": "AI-Generated",
+        "year": 2024,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "IELTS Reading",
+        "title": "IELTS Reading Practice (AI)",
+        "description": "An AI-generated exam covering IELTS reading questions.",
+        "path": "IELTS/ielts_reading_0.json",
+        "model": "gemini-3-pro",
+        "defaultQuestionCount": 40,
+        "generationPrompt": "Generate 40 IELTS reading multiple-choice questions."
     }
 ]
