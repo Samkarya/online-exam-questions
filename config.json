@@ -30,34 +30,34 @@
     "session": null,
     "date": null,
     "shift": null,
-    "paperType": null, 
+    "paperType": null,
     "title": "NIMCET 2024",
     "description": "National Institute of Technology MCA Common Entrance Test 2024",
     "path": "NIMCET/nimcet_2024.json"
   },
   {
-    "id": "jeeMain_2025_22Jan_shift1", 
-    "category": "JEE Main",           
+    "id": "jeeMain_2025_22Jan_shift1",
+    "category": "JEE Main",
     "year": 2025,
-    "session": "January",             
-    "date": "2025-01-22",             
-    "shift": 1,                       
-    "paperType": "Paper 1 (PCM)",     
-    "title": "JEE Main 2025 (Jan 22nd, Shift 1)", 
-    "description": "Joint Entrance Examination (Mains) Test 2025", 
-    "path": "JEEMains/jeeMain_2025_22Jan_shift1.json" 
+    "session": "January",
+    "date": "2025-01-22",
+    "shift": 1,
+    "paperType": "Paper 1 (PCM)",
+    "title": "JEE Main 2025 (Jan 22nd, Shift 1)",
+    "description": "Joint Entrance Examination (Mains) Test 2025",
+    "path": "JEEMains/jeeMain_2025_22Jan_shift1.json"
   },
   {
-    "id": "jeeMain_2025_22Jan_shift2", 
-    "category": "JEE Main",           
+    "id": "jeeMain_2025_22Jan_shift2",
+    "category": "JEE Main",
     "year": 2025,
-    "session": "January",             
-    "date": "2025-01-22",             
-    "shift": 2,                       
-    "paperType": "Paper 1 (PCM)",     
-    "title": "JEE Main 2025 (Jan 22nd, Shift 1)", 
-    "description": "Joint Entrance Examination (Mains) Test 2025", 
-    "path": "JEEMains/jeeMain_2025_22Jan_shift2.json" 
+    "session": "January",
+    "date": "2025-01-22",
+    "shift": 2,
+    "paperType": "Paper 1 (PCM)",
+    "title": "JEE Main 2025 (Jan 22nd, Shift 1)",
+    "description": "Joint Entrance Examination (Mains) Test 2025",
+    "path": "JEEMains/jeeMain_2025_22Jan_shift2.json"
   },
   {
     "id": "demo_exam_examify",
@@ -142,5 +142,41 @@
     "title": "CAT 2024 Question Paper (Slot 3, QA)",
     "description": "Common Admission Test 2024 Question Paper for the Quantitative Aptitude section from Slot 3.",
     "path": "CAT/cat_2024_slot3_quant.json"
+  },
+  {
+    "id": "chem101_Introduction.json",
+    "category": "Chemistry 101",
+    "year": 2025,
+    "title": "Unit 1: Introduction to Chemistry",
+    "path": "Chemistry101/chem101_Introduction.json",
+    "description": "Covers the scientific method, branches of chemistry, significant figures, dimensional analysis, and laboratory safety protocols.",
+    "paperType": "Practice Unit"
+  },
+  {
+    "id": "chem101_Atomic_Theory.json",
+    "category": "Chemistry 101",
+    "year": 2025,
+    "title": "Unit 2: Atomic Theory and Structure",
+    "path": "Chemistry101/chem101_Atomic_Theory.json",
+    "description": "Includes early atomic models (Dalton, Rutherford), subatomic particles, isotopes, atomic mass calculations, and the Bohr model.",
+    "paperType": "Practice Unit"
+  },
+  {
+    "id": "chem101_Electronic_Structure.json",
+    "category": "Chemistry 101",
+    "year": 2025,
+    "title": "Unit 3: Electronic Structure of Atoms",
+    "path": "Chemistry101/chem101_Electronic_Structure.json",
+    "description": "Focuses on quantum numbers, electron configurations, orbital diagrams, the Aufbau principle, Pauli exclusion, and Hund's rule.",
+    "paperType": "Practice Unit"
+  },
+  {
+    "id": "chem101_Periodic_Table.json",
+    "category": "Chemistry 101",
+    "year": 2025,
+    "title": "Unit 4: Periodic Table and Properties",
+    "path": "Chemistry101/chem101_Periodic_Table.json",
+    "description": "Covers periodic trends including atomic radii, ionization energy, electron affinity, electronegativity, and block classifications.",
+    "paperType": "Practice Unit"
   }
 ]
