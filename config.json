@@ -232,5 +232,50 @@
     "path": "Chemistry101/chem101_Equilibrium.json",
     "description": "Covers Le Châtelier’s principle, equilibrium constants (Kc, Kp), reaction quotients, and law of mass action.",
     "paperType": "Chemical Equilibrium"
+  },
+  {
+    "id": "chem101_Acids_Bases.json",
+    "category": "Chemistry 101",
+    "year": 2025,
+    "title": "Acids, Bases, and Salts",
+    "path": "Chemistry101/chem101_Acids_Bases.json",
+    "description": "Includes pH/pOH calculations, Arrhenius and Brønsted–Lowry theories, salt hydrolysis, and acid strength.",
+    "paperType": "Acids, Bases, and Salts"
+  },
+  {
+    "id": "chem101_Buffers_Titrations.json",
+    "category": "Chemistry 101",
+    "year": 2025,
+    "title": "Buffer Solutions and Titrations",
+    "path": "Chemistry101/chem101_Buffers_Titrations.json",
+    "description": "Focuses on buffer mechanisms, the Henderson–Hasselbalch equation, titration curves, and indicators.",
+    "paperType": "Buffer Solutions and Titrations"
+  },
+  {
+    "id": "chem101_Kinetics.json",
+    "category": "Chemistry 101",
+    "year": 2025,
+    "title": "Chemical Kinetics",
+    "path": "Chemistry101/chem101_Kinetics.json",
+    "description": "Covers reaction rates, rate laws, order of reaction, activation energy, and catalysis.",
+    "paperType": "Chemical Kinetics"
+  },
+  {
+    "id": "chem101_Redox_Electrochemistry.json",
+    "category": "Chemistry 101",
+    "year": 2025,
+    "title": "Redox and Electrochemistry",
+    "path": "Chemistry101/chem101_Redox_Electrochemistry.json",
+    "description": "Includes balancing redox reactions, oxidation numbers, electrochemical cells, and standard electrode potentials.",
+    "paperType": "Redox and Electrochemistry"
+  },
+  {
+    "id": "chem101_Lab_Chemistry.json",
+    "category": "Chemistry 101",
+    "year": 2025,
+    "title": "Introduction to Laboratory Chemistry",
+    "path": "Chemistry101/chem101_Lab_Chemistry.json",
+    "description": "Covers laboratory apparatus, experimental errors, solution preparation, qualitative analysis, and data reporting.",
+    "paperType": "Introduction to Laboratory Chemistry"
   }
 ]
