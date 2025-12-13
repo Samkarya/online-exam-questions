@@ -178,5 +178,59 @@
     "path": "Chemistry101/chem101_Periodic_Table.json",
     "description": "Covers periodic trends including atomic radii, ionization energy, electron affinity, electronegativity, and block classifications.",
     "paperType": "Periodic Table and Properties"
+  },
+  {
+    "id": "chem101_Bonding_Ionic_Covalent.json",
+    "category": "Chemistry 101",
+    "year": 2025,
+    "title": "Chemical Bonding I (Ionic & Covalent)",
+    "path": "Chemistry101/chem101_Bonding_Ionic_Covalent.json",
+    "description": "Covers Lewis structures, lattice energy, formal charges, covalent bonding, and bond polarity.",
+    "paperType": "Chemical Bonding I (Ionic & Covalent)"
+  },
+  {
+    "id": "chem101_Bonding_Geometry.json",
+    "category": "Chemistry 101",
+    "year": 2025,
+    "title": "Chemical Bonding II (Geometry)",
+    "path": "Chemistry101/chem101_Bonding_Geometry.json",
+    "description": "Focuses on VSEPR theory, molecular shapes, hybridization (sp, sp², sp³), molecular orbitals, and intermolecular forces.",
+    "paperType": "Chemical Bonding II (Geometry)"
+  },
+  {
+    "id": "chem101_Stoichiometry.json",
+    "category": "Chemistry 101",
+    "year": 2025,
+    "title": "Stoichiometry and Reactions",
+    "path": "Chemistry101/chem101_Stoichiometry.json",
+    "description": "Includes the mole concept, balancing equations, limiting reagents, percent yield, and reaction types.",
+    "paperType": "Stoichiometry and Reactions"
+  },
+  {
+    "id": "chem101_Gas_Laws.json",
+    "category": "Chemistry 101",
+    "year": 2025,
+    "title": "States of Matter and Gas Laws",
+    "path": "Chemistry101/chem101_Gas_Laws.json",
+    "description": "Covers Ideal Gas Law, partial pressures (Dalton's Law), real gases, and properties of solids and liquids.",
+    "paperType": "States of Matter and Gas Laws"
+  },
+  {
+    "id": "chem101_Thermochemistry.json",
+    "category": "Chemistry 101",
+    "year": 2025,
+    "title": "Thermochemistry",
+    "path": "Chemistry101/chem101_Thermochemistry.json",
+    "description": "Focuses on enthalpy changes, calorimetry, Hess's Law, standard enthalpies of formation, and heat transfer.",
+    "paperType": "Thermochemistry"
+  },
+  {
+    "id": "chem101_Equilibrium.json",
+    "category": "Chemistry 101",
+    "year": 2025,
+    "title": "Chemical Equilibrium",
+    "path": "Chemistry101/chem101_Equilibrium.json",
+    "description": "Covers Le Châtelier’s principle, equilibrium constants (Kc, Kp), reaction quotients, and law of mass action.",
+    "paperType": "Chemical Equilibrium"
   }
 ]

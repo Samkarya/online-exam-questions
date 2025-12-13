@@ -37,10 +37,10 @@
         "topic": "Orbitals & Quantum Numbers",
         "question_text": "Which of the following sets of quantum numbers is **impossible** (invalid)?",
         "options": {
-            "a": "$n=4, l=3, m_l=-3, m_s=+\\\\frac{1}{2}$",
-            "b": "$n=2, l=2, m_l=0, m_s=-\\\\frac{1}{2}$",
-            "c": "$n=3, l=2, m_l=1, m_s=+\\\\frac{1}{2}$",
-            "d": "$n=5, l=0, m_l=0, m_s=-\\\\frac{1}{2}$"
+            "a": "$n=4, l=3, m_l=-3, m_s=+\\frac{1}{2}$",
+            "b": "$n=2, l=2, m_l=0, m_s=-\\frac{1}{2}$",
+            "c": "$n=3, l=2, m_l=1, m_s=+\\frac{1}{2}$",
+            "d": "$n=5, l=0, m_l=0, m_s=-\\frac{1}{2}$"
         },
         "correct_answer": "b",
         "difficulty": "Medium",
@@ -407,8 +407,8 @@
         "options": {
             "a": "$2s: (\\uparrow\\downarrow) \\quad 2p: (\\uparrow\\downarrow)(\\uparrow)( )$",
             "b": "$2s: (\\uparrow\\downarrow) \\quad 2p: (\\uparrow)(\\uparrow)(\\uparrow)$",
-            "c": "$2s: (\\uparrow\\uparrow) \\quad 2p: (\\uparrow)(\\uparrow)(\\\\downarrow)$",
-            "d": "$2s: (\\uparrow\\downarrow) \\quad 2p: (\\uparrow)(\\\\downarrow)(\\uparrow)$"
+            "c": "$2s: (\\uparrow\\uparrow) \\quad 2p: (\\uparrow)(\\uparrow)(\\downarrow)$",
+            "d": "$2s: (\\uparrow\\downarrow) \\quad 2p: (\\uparrow)(\\downarrow)(\\uparrow)$"
         },
         "correct_answer": "b",
         "difficulty": "Medium",
