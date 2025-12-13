@@ -147,36 +147,36 @@
     "id": "chem101_Introduction.json",
     "category": "Chemistry 101",
     "year": 2025,
-    "title": "Unit 1: Introduction to Chemistry",
+    "title": "Introduction to Chemistry",
     "path": "Chemistry101/chem101_Introduction.json",
     "description": "Covers the scientific method, branches of chemistry, significant figures, dimensional analysis, and laboratory safety protocols.",
-    "paperType": "Practice Unit"
+    "paperType": "Introduction to Chemistry"
   },
   {
     "id": "chem101_Atomic_Theory.json",
     "category": "Chemistry 101",
     "year": 2025,
-    "title": "Unit 2: Atomic Theory and Structure",
+    "title": "Atomic Theory and Structure",
     "path": "Chemistry101/chem101_Atomic_Theory.json",
     "description": "Includes early atomic models (Dalton, Rutherford), subatomic particles, isotopes, atomic mass calculations, and the Bohr model.",
-    "paperType": "Practice Unit"
+    "paperType": "Atomic Theory and Structure"
   },
   {
     "id": "chem101_Electronic_Structure.json",
     "category": "Chemistry 101",
     "year": 2025,
-    "title": "Unit 3: Electronic Structure of Atoms",
+    "title": "Electronic Structure of Atoms",
     "path": "Chemistry101/chem101_Electronic_Structure.json",
     "description": "Focuses on quantum numbers, electron configurations, orbital diagrams, the Aufbau principle, Pauli exclusion, and Hund's rule.",
-    "paperType": "Practice Unit"
+    "paperType": "Electronic Structure of Atoms"
   },
   {
     "id": "chem101_Periodic_Table.json",
     "category": "Chemistry 101",
     "year": 2025,
-    "title": "Unit 4: Periodic Table and Properties",
+    "title": "Periodic Table and Properties",
     "path": "Chemistry101/chem101_Periodic_Table.json",
     "description": "Covers periodic trends including atomic radii, ionization energy, electron affinity, electronegativity, and block classifications.",
-    "paperType": "Practice Unit"
+    "paperType": "Periodic Table and Properties"
   }
 ]
