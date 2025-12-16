@@ -277,5 +277,17 @@
     "path": "Chemistry101/chem101_Lab_Chemistry.json",
     "description": "Covers laboratory apparatus, experimental errors, solution preparation, qualitative analysis, and data reporting.",
     "paperType": "Introduction to Laboratory Chemistry"
+  },
+  {
+    "id": "topic_algebra_01",
+    "category": "Topic Wise",
+    "year": "2024-25",
+    "session": null,
+    "date": null,
+    "shift": null,
+    "paperType": "Algebra & Calculus",
+    "title": "Advanced Algebra Practice",
+    "description": "Focused practice on algebraic structures and calculus problems.",
+    "path": "TopicWise/algebra_01.json"
   }
 ]
