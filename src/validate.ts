@@ -86,13 +86,17 @@ async function validate() {
     }
 
     // 4. Validate all exam files (Main + AI)
-    const allExams = [...config, ...aiConfig];
+    // Map entries to include their resolved absolute path
+    const mainExams = config.map(e => ({ entry: e, absolutePath: path.join(__dirname, '..', e.path) }));
+    const aiExams = aiConfig.map(e => ({ entry: e, absolutePath: path.join(__dirname, '../ai_generated', e.path) }));
 
-    for (const entry of allExams) {
-        const examPath = path.join(__dirname, '..', entry.path);
+    const allExams = [...mainExams, ...aiExams];
+
+    for (const { entry, absolutePath } of allExams) {
+        const examPath = absolutePath;
 
         if (!fs.existsSync(examPath)) {
-            console.error(`❌ Exam file not found for ID ${entry.id}: ${entry.path}`);
+            console.error(`❌ Exam file not found for ID ${entry.id}: ${entry.path} (Resolved: ${examPath})`);
             hasError = true;
             continue;
         }
