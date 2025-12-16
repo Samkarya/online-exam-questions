@@ -150,7 +150,10 @@
     "title": "Introduction to Chemistry",
     "path": "Chemistry101/chem101_Introduction.json",
     "description": "Covers the scientific method, branches of chemistry, significant figures, dimensional analysis, and laboratory safety protocols.",
-    "paperType": "Introduction to Chemistry"
+    "paperType": "Introduction to Chemistry",
+    "session": null,
+    "date": null,
+    "shift": null
   },
   {
     "id": "chem101_Atomic_Theory.json",
@@ -159,7 +162,10 @@
     "title": "Atomic Theory and Structure",
     "path": "Chemistry101/chem101_Atomic_Theory.json",
     "description": "Includes early atomic models (Dalton, Rutherford), subatomic particles, isotopes, atomic mass calculations, and the Bohr model.",
-    "paperType": "Atomic Theory and Structure"
+    "paperType": "Atomic Theory and Structure",
+    "session": null,
+    "date": null,
+    "shift": null
   },
   {
     "id": "chem101_Electronic_Structure.json",
@@ -168,7 +174,10 @@
     "title": "Electronic Structure of Atoms",
     "path": "Chemistry101/chem101_Electronic_Structure.json",
     "description": "Focuses on quantum numbers, electron configurations, orbital diagrams, the Aufbau principle, Pauli exclusion, and Hund's rule.",
-    "paperType": "Electronic Structure of Atoms"
+    "paperType": "Electronic Structure of Atoms",
+    "session": null,
+    "date": null,
+    "shift": null
   },
   {
     "id": "chem101_Periodic_Table.json",
@@ -177,7 +186,10 @@
     "title": "Periodic Table and Properties",
     "path": "Chemistry101/chem101_Periodic_Table.json",
     "description": "Covers periodic trends including atomic radii, ionization energy, electron affinity, electronegativity, and block classifications.",
-    "paperType": "Periodic Table and Properties"
+    "paperType": "Periodic Table and Properties",
+    "session": null,
+    "date": null,
+    "shift": null
   },
   {
     "id": "chem101_Bonding_Ionic_Covalent.json",
@@ -186,7 +198,10 @@
     "title": "Chemical Bonding I (Ionic & Covalent)",
     "path": "Chemistry101/chem101_Bonding_Ionic_Covalent.json",
     "description": "Covers Lewis structures, lattice energy, formal charges, covalent bonding, and bond polarity.",
-    "paperType": "Chemical Bonding I (Ionic & Covalent)"
+    "paperType": "Chemical Bonding I (Ionic & Covalent)",
+    "session": null,
+    "date": null,
+    "shift": null
   },
   {
     "id": "chem101_Bonding_Geometry.json",
@@ -195,7 +210,10 @@
     "title": "Chemical Bonding II (Geometry)",
     "path": "Chemistry101/chem101_Bonding_Geometry.json",
     "description": "Focuses on VSEPR theory, molecular shapes, hybridization (sp, sp², sp³), molecular orbitals, and intermolecular forces.",
-    "paperType": "Chemical Bonding II (Geometry)"
+    "paperType": "Chemical Bonding II (Geometry)",
+    "session": null,
+    "date": null,
+    "shift": null
   },
   {
     "id": "chem101_Stoichiometry.json",
@@ -204,7 +222,10 @@
     "title": "Stoichiometry and Reactions",
     "path": "Chemistry101/chem101_Stoichiometry.json",
     "description": "Includes the mole concept, balancing equations, limiting reagents, percent yield, and reaction types.",
-    "paperType": "Stoichiometry and Reactions"
+    "paperType": "Stoichiometry and Reactions",
+    "session": null,
+    "date": null,
+    "shift": null
   },
   {
     "id": "chem101_Gas_Laws.json",
@@ -213,7 +234,10 @@
     "title": "States of Matter and Gas Laws",
     "path": "Chemistry101/chem101_Gas_Laws.json",
     "description": "Covers Ideal Gas Law, partial pressures (Dalton's Law), real gases, and properties of solids and liquids.",
-    "paperType": "States of Matter and Gas Laws"
+    "paperType": "States of Matter and Gas Laws",
+    "session": null,
+    "date": null,
+    "shift": null
   },
   {
     "id": "chem101_Thermochemistry.json",
@@ -222,7 +246,10 @@
     "title": "Thermochemistry",
     "path": "Chemistry101/chem101_Thermochemistry.json",
     "description": "Focuses on enthalpy changes, calorimetry, Hess's Law, standard enthalpies of formation, and heat transfer.",
-    "paperType": "Thermochemistry"
+    "paperType": "Thermochemistry",
+    "session": null,
+    "date": null,
+    "shift": null
   },
   {
     "id": "chem101_Equilibrium.json",
@@ -231,7 +258,10 @@
     "title": "Chemical Equilibrium",
     "path": "Chemistry101/chem101_Equilibrium.json",
     "description": "Covers Le Châtelier’s principle, equilibrium constants (Kc, Kp), reaction quotients, and law of mass action.",
-    "paperType": "Chemical Equilibrium"
+    "paperType": "Chemical Equilibrium",
+    "session": null,
+    "date": null,
+    "shift": null
   },
   {
     "id": "chem101_Acids_Bases.json",
@@ -240,7 +270,10 @@
     "title": "Acids, Bases, and Salts",
     "path": "Chemistry101/chem101_Acids_Bases.json",
     "description": "Includes pH/pOH calculations, Arrhenius and Brønsted–Lowry theories, salt hydrolysis, and acid strength.",
-    "paperType": "Acids, Bases, and Salts"
+    "paperType": "Acids, Bases, and Salts",
+    "session": null,
+    "date": null,
+    "shift": null
   },
   {
     "id": "chem101_Buffers_Titrations.json",
@@ -249,7 +282,10 @@
     "title": "Buffer Solutions and Titrations",
     "path": "Chemistry101/chem101_Buffers_Titrations.json",
     "description": "Focuses on buffer mechanisms, the Henderson–Hasselbalch equation, titration curves, and indicators.",
-    "paperType": "Buffer Solutions and Titrations"
+    "paperType": "Buffer Solutions and Titrations",
+    "session": null,
+    "date": null,
+    "shift": null
   },
   {
     "id": "chem101_Kinetics.json",
@@ -258,7 +294,10 @@
     "title": "Chemical Kinetics",
     "path": "Chemistry101/chem101_Kinetics.json",
     "description": "Covers reaction rates, rate laws, order of reaction, activation energy, and catalysis.",
-    "paperType": "Chemical Kinetics"
+    "paperType": "Chemical Kinetics",
+    "session": null,
+    "date": null,
+    "shift": null
   },
   {
     "id": "chem101_Redox_Electrochemistry.json",
@@ -267,7 +306,10 @@
     "title": "Redox and Electrochemistry",
     "path": "Chemistry101/chem101_Redox_Electrochemistry.json",
     "description": "Includes balancing redox reactions, oxidation numbers, electrochemical cells, and standard electrode potentials.",
-    "paperType": "Redox and Electrochemistry"
+    "paperType": "Redox and Electrochemistry",
+    "session": null,
+    "date": null,
+    "shift": null
   },
   {
     "id": "chem101_Lab_Chemistry.json",
@@ -276,6 +318,9 @@
     "title": "Introduction to Laboratory Chemistry",
     "path": "Chemistry101/chem101_Lab_Chemistry.json",
     "description": "Covers laboratory apparatus, experimental errors, solution preparation, qualitative analysis, and data reporting.",
-    "paperType": "Introduction to Laboratory Chemistry"
+    "paperType": "Introduction to Laboratory Chemistry",
+    "session": null,
+    "date": null,
+    "shift": null
   }
 ]

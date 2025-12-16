@@ -12,7 +12,7 @@
     "explanation": "Let the number of apples be $5k$ and mangoes be $2k$. Oranges = $187 - 7k$. After selling, unsold apples are $5k-75$ and unsold oranges are $(187-7k)/2$. Given the ratio: $(5k-75) / ((187-7k)/2) = 3/2$. Solving this gives $2(5k-75) = 3(187-7k)/2 \\Rightarrow 20k-300 = 561-21k \\Rightarrow 41k = 861 \\Rightarrow k=21$. Apples=105, Mangoes=42, Oranges=40. Unsold fruits = $(105-75) + (42-26) + (40/2) = 30+16+20=66$.",
     "topic": "Ratios Mixtures Averages",
     "difficulty": "Medium",
-    "subject": null,
+    "subject": "Quant",
     "section_id": null
   },
   {
@@ -28,7 +28,7 @@
     "explanation": "We need to find $\\sqrt{29 - 12\\sqrt{5}}$. We can write this as $\\sqrt{29 - 2\\sqrt{180}}$. We look for two numbers whose sum is 29 and product is 180. The numbers are 20 and 9. So, the square root is $\\sqrt{20} - \\sqrt{9} = 2\\sqrt{5} - 3$. To match the form $a+b\\sqrt{n}$, we can write this as $-3 + 2\\sqrt{5}$. This gives $a=-3, b=2, n=5$. Then $a+b+n = 4$. Alternatively, we can write $2\\sqrt{5}$ as $\\sqrt{20}$. This gives $-3+\\sqrt{20}$, so $a=-3, b=1, n=20$. Then $a+b+n = -3+1+20 = 18$. The maximum value is 18.",
     "topic": "Linear Quadratic",
     "difficulty": "Hard",
-    "subject": null,
+    "subject": "Quant",
     "section_id": null
   },
   {
@@ -44,7 +44,7 @@
     "explanation": "The equation can be written in terms of powers of 2. Since $8=2^3$ and $32768=2^{15}$, the equation is $(2^{-3})^k \\times (2^{-15})^{1/3} = 2^{-3} \\times (2^{-15})^{1/k}$. This simplifies to $2^{-3k} \\times 2^{-5} = 2^{-3} \\times 2^{-15/k}$, so $2^{-3k-5} = 2^{-3-15/k}$. Equating exponents gives $-3k-5 = -3-15/k$. Multiplying by ${k}$ yields the quadratic equation $3k^2+2k-15=0$. For a quadratic equation $ax^2+bx+c=0$, the sum of the roots is $-b/a$. Here, the sum of values for ${k}$ is $-2/3$.",
     "topic": "Logarithms Exponents",
     "difficulty": "Medium",
-    "subject": null,
+    "subject": "Quant",
     "section_id": null
   },
   {
@@ -60,7 +60,7 @@
     "explanation": "The second inequality can be rewritten by completing the square for x and y: $4 \\leq (x+2)^2 + (y-2)^2 \\leq 8$. This represents the area between two concentric circles centered at $(-2, 2)$, with inner radius $r_1=2$ and outer radius $r_2=\\sqrt{8}$. The line $y = x+4$ passes through the center of these circles $(-2, 2)$. The inequality $y \\geq x+4$ represents the half-plane above this line. Therefore, the required area is exactly half the area of the annulus, which is $\\frac{1}{2} \\pi (r_2^2 - r_1^2) = \\frac{1}{2} \\pi (8 - 4) = 2\\pi$.",
     "topic": "Functions",
     "difficulty": "Hard",
-    "subject": null,
+    "subject": "Quant",
     "section_id": null
   },
   {
@@ -76,7 +76,7 @@
     "explanation": "Total work for Renu is $15 \\times 4 = 60$ hours. Total work for Seema is $8 \\times 5 = 40$ hours. Let the total work be 120 units. Renu's rate is 2 units/hr, Seema's is 3 units/hr. Renu works 2 hrs/day ($h_R=2$). Seema works double, so $h_S=4$ hrs/day. Renu works double the days of Seema ($d_R = 2d_S$). Total work: $(2 \\text{ units/hr} \\times 2 \\text{ hr/day} \\times 2d_S \\text{ days}) + (3 \\text{ units/hr} \\times 4 \\text{ hr/day} \\times d_S \\text{ days}) = 120$. $8d_S + 12d_S = 120 \\Rightarrow 20d_S=120 \\Rightarrow d_S=6$.",
     "topic": "Pipes Cisterns Work Time",
     "difficulty": "Medium",
-    "subject": null,
+    "subject": "Quant",
     "section_id": null
   },
   {
@@ -92,7 +92,7 @@
     "explanation": "Let incomes in September be 800, 600, 500. Total rent = $0.15(800) + 0.12(600) + 0.18(500) = 120 + 72 + 90 = 282$. New incomes in October are $800(1.1)=880$, $600(1.12)=672$, and $500(1.15)=575$. New total income = $880+672+575 = 2127$. Rent is still 282. Percentage is $(282/2127) \\times 100 \\approx 13.26\\%$.",
     "topic": "Percents Profits SICI",
     "difficulty": "Easy",
-    "subject": null,
+    "subject": "Quant",
     "section_id": null
   },
   {
@@ -108,7 +108,7 @@
     "explanation": "This is the number of surjective (onto) functions from a set with $|A|=6$ elements to a set with $|B|=3$ elements. Using the Principle of Inclusion-Exclusion, the number is $\\sum_{k=0}^{3} (-1)^k \\binom{3}{k} (3-k)^6 = \\binom{3}{0}3^6 - \\binom{3}{1}2^6 + \\binom{3}{2}1^6 = 1(729) - 3(64) + 3(1) = 729 - 192 + 3 = 540$.",
     "topic": "Functions",
     "difficulty": "Hard",
-    "subject": null,
+    "subject": "Quant",
     "section_id": null
   },
   {
@@ -124,7 +124,7 @@
     "explanation": "Substitute ${a}$ from the second equation into the first: $4(x^2+y^2+z^2) = 4(x-y-z)-3$. Rearrange this into $4x^2-4x+4y^2+4y+4z^2+4z+3=0$. Completing the square gives $(2x-1)^2 + (2y+1)^2 + (2z+1)^2 = 0$. Since $x, y, z$ are real, each squared term must be zero. This gives $x=1/2, y=-1/2, z=-1/2$. Substituting these back into the first equation gives $a = 4((1/2)^2 + (-1/2)^2 + (-1/2)^2) = 4(1/4+1/4+1/4) = 3$.",
     "topic": "Linear Quadratic",
     "difficulty": "Hard",
-    "subject": null,
+    "subject": "Quant",
     "section_id": null
   },
   {
@@ -140,7 +140,7 @@
     "explanation": "The sum of all numbers formed by ${n}$ distinct digits is $(n-1)! \\times (\\text{sum of digits}) \\times (111...1 \\text{ n times})$. Here, $n=4$. The sum is $(4-1)! \\times (a+b+c+d) \\times 1111 = 6 \\times (a+b+c+d) \\times 1111 = 6666(a+b+c+d)$. Let $S=a+b+c+d$. Then $6666S = 153310+n$. Dividing gives $S = (153310+n)/6666$. $153310/6666 \\approx 23$. So we test $S=23$. $6666 \\times 23 = 153318$. This means $153318=153310+n$, which gives $n=8$. The required value is $S+n = 23+8=31$.",
     "topic": "Combinatorics",
     "difficulty": "Hard",
-    "subject": null,
+    "subject": "Quant",
     "section_id": null
   },
   {
@@ -156,7 +156,7 @@
     "explanation": "We need to find $10^{100} \\pmod 7$. Since $10 \\equiv 3 \\pmod 7$, this is equivalent to finding $3^{100} \\pmod 7$. By Fermat's Little Theorem, $3^6 \\equiv 1 \\pmod 7$. We write $100$ as $100 = 6 \\times 16 + 4$. So, $3^{100} = (3^6)^{16} \\times 3^4 \\equiv 1^{16} \\times 3^4 \\equiv 81 \\pmod 7$. Since $81 = 11 \\times 7 + 4$, the remainder is 4.",
     "topic": "Remainders",
     "difficulty": "Easy",
-    "subject": null,
+    "subject": "Quant",
     "section_id": null
   },
   {
@@ -172,7 +172,7 @@
     "explanation": "Let numbers be $n_1, n_2, n_3, n_4$. $(n_1+n_2)/2 = n_1+1 \\Rightarrow n_2=n_1+2$. $(n_1+n_2+n_3)/3 = (n_1+n_2)/2+2 \\Rightarrow (n_1+n_2+n_3)/3 = n_1+1+2 = n_1+3 \\Rightarrow n_3 = n_1+7$. $(n_1+n_2+n_3+n_4)/4 = (n_1+n_2+n_3)/3+3 \\Rightarrow (n_1+n_2+n_3+n_4)/4 = n_1+3+3=n_1+6 \\Rightarrow n_4=n_1+15$. The numbers are $n_1, n_1+2, n_1+7, n_1+15$. Largest-Smallest = $(n_1+15) - n_1 = 15$.",
     "topic": "Ratios Mixtures Averages",
     "difficulty": "Medium",
-    "subject": null,
+    "subject": "Quant",
     "section_id": null
   },
   {
@@ -188,7 +188,7 @@
     "explanation": "Let period in A be `t` years. Interest from A: $I_A = 10000 \\times 0.05 \\times t = 500t$. Amount from A is $10000+500t$. This is the principal for bank B. Interest from B: $I_B = (10000+500t) \\times 0.06 \\times 5 = 3000 + 150t$. Given $I_A/I_B = 10/13$, so $13(500t) = 10(3000+150t) \\Rightarrow 6500t = 30000 + 1500t \\Rightarrow 5000t = 30000 \\Rightarrow t=6$.",
     "topic": "Percents Profits SICI",
     "difficulty": "Easy",
-    "subject": null,
+    "subject": "Quant",
     "section_id": null
   },
   {
@@ -204,7 +204,7 @@
     "explanation": "Work backwards. Let $x_3$ be the amount before the 3rd customer. He buys $x_3/2 + 3$, leaving 0. So $x_3 - (x_3/2 + 3) = 0 \\Rightarrow x_3=6$. Let $x_2$ be amount before 2nd customer. $x_2 - (x_2/2+3) = x_3 = 6 \\Rightarrow x_2=18$. Let $x_1$ be the initial amount. $x_1 - (x_1/2+3)=x_2=18 \\Rightarrow x_1=42$. The initial quantity was 42 kg.",
     "topic": "Linear Quadratic",
     "difficulty": "Easy",
-    "subject": null,
+    "subject": "Quant",
     "section_id": null
   },
   {
@@ -220,7 +220,7 @@
     "explanation": "Let the first term be ${a}$ and common difference be ${d}$. $x_n = a+(n-1)d$. $x_5 = a+4d=-4$. The second condition is $2(a+5d)+2(a+8d) = (a+10d)+(a+12d)$, which simplifies to $4a+26d=2a+22d$, giving $2a=-4d$ or $a=-2d$. Substitute this into the first condition: $(-2d)+4d=-4 \\Rightarrow 2d=-4 \\Rightarrow d=-2$. Then $a=4$. We want $x_{100} = a+99d = 4+99(-2)=4-198=-194$.",
     "topic": "Progressions",
     "difficulty": "Easy",
-    "subject": null,
+    "subject": "Quant",
     "section_id": null
   },
   {
@@ -236,7 +236,7 @@
     "explanation": "Let speeds of Anil and Sunil be $v_A$ and $v_S$. They meet in 1.5 hours. So, $1.5(v_A+v_S)=45 \\Rightarrow v_A+v_S=30$. Time taken for Anil is $T_A=45/v_A$ and for Sunil is $T_S=45/v_S$. We are given $T_A = T_S + 1.25$. Substituting $v_S=30-v_A$ leads to a quadratic equation. A quicker way is to test the options. If $v_A=12$, then $v_S=18$. $T_A=45/12 = 3.75$ hr. $T_S=45/18=2.5$ hr. The difference is $3.75-2.5 = 1.25$ hr, which matches the condition.",
     "topic": "Speed Time Distance Races",
     "difficulty": "Medium",
-    "subject": null,
+    "subject": "Quant",
     "section_id": null
   },
   {
@@ -252,7 +252,7 @@
     "explanation": "Let box dimensions be $l, w, h$. Given $2(lw+wh+hl)=846$ and $4(l+w+h)=144 \\Rightarrow l+w+h=36$. The sphere's diameter ${D}$ is the box's main diagonal, so $D^2 = l^2+w^2+h^2$. We know $(l+w+h)^2 = l^2+w^2+h^2 + 2(lw+wh+hl)$, so $36^2 = D^2 + 846$. $1296 = D^2+846 \\Rightarrow D^2 = 450$. Sphere radius $R^2 = D^2/4 = 225/2$. $R=15/\\sqrt{2}$. Volume $V = \\frac{4}{3}\\pi R^3 = \\frac{4}{3}\\pi (15/\\sqrt{2})^3 = \\frac{4}{3}\\pi \\frac{3375}{2\\sqrt{2}} = 1125\\pi\\sqrt{2}$.",
     "topic": "Mensuration",
     "difficulty": "Hard",
-    "subject": null,
+    "subject": "Quant",
     "section_id": null
   },
   {
@@ -268,7 +268,7 @@
     "explanation": "Let the initial quantity of milk be 1 unit. When 2/3 is removed, 1/3 of the milk remains. The process is done a total of 4 times (once, then three more times). The final fraction of milk is $(1/3)^4 = 1/81$. This means that in a total volume of 81 parts, 1 part is milk. The rest must be water. So, water = $81 - 1 = 80$ parts. The ratio of milk to water is 1:80.",
     "topic": "Ratios Mixtures Averages",
     "difficulty": "Medium",
-    "subject": null,
+    "subject": "Quant",
     "section_id": null
   },
   {
@@ -284,7 +284,7 @@
     "explanation": "We sum the values of $\\lfloor\\sqrt{n}\\rfloor$. $a_n=1$ for $n=1..3$ (3 terms, sum=3). $a_n=2$ for $n=4..8$ (5 terms, sum=10). $a_n=3$ for $n=9..15$ (7 terms, sum=21). $a_n=4$ for $n=16..24$ (9 terms, sum=36). $a_n=5$ for $n=25..35$ (11 terms, sum=55). $a_n=6$ for $n=36..48$ (13 terms, sum=78). $a_n=7$ for $n=49..50$ (2 terms, sum=14). Total sum = $3+10+21+36+55+78+14 = 217$.",
     "topic": "Functions",
     "difficulty": "Medium",
-    "subject": null,
+    "subject": "Quant",
     "section_id": null
   },
   {
@@ -300,7 +300,7 @@
     "explanation": "Triangle ADE is a right-angled triangle with angle D being $90^{\\circ}$. The sides are AD = 45 cm and DE = CD/2 = 56/2 = 28 cm. The hypotenuse is $AE = \\sqrt{45^2 + 28^2} = \\sqrt{2025+784} = \\sqrt{2809} = 53$ cm. The inradius ${r}$ of a right-angled triangle is given by $r = (a+b-c)/2$, where $a, b$ are the legs and ${c}$ is the hypotenuse. So, $r = (45+28-53)/2 = 20/2 = 10$ cm.",
     "topic": "Geometry",
     "difficulty": "Medium",
-    "subject": null,
+    "subject": "Quant",
     "section_id": null
   },
   {
@@ -316,7 +316,7 @@
     "explanation": "Let the common root be $\\alpha$. Adding the first two equations gives $2\\alpha^2 + (m+n)\\alpha + 26=0$. Also from the third equation we have $\\alpha^2+(m+n)\\alpha+35=0$. Subtracting this from the doubled third equation gives $(2\\alpha^2+2(m+n)\\alpha+70) - (2\\alpha^2+(m+n)\\alpha+26) = 0$, leading to $(m+n)\\alpha = -44$. Substituting this into the third eq: $\\alpha^2 - 44 + 35 = 0 \\implies \\alpha^2=9$. Since the root is negative, $\\alpha=-3$. Plugging $\\alpha=-3$ into the first eq gives $m=6$. Plugging into the second eq gives $n=26/3$. So $2m+3n = 2(6)+3(26/3)=12+26=38$.",
     "topic": "Linear Quadratic",
     "difficulty": "Hard",
-    "subject": null,
+    "subject": "Quant",
     "section_id": null
   },
   {
@@ -332,7 +332,7 @@
     "explanation": "Let original CP = C. Then original SP = 1.4C. New CP = 0.6C. New SP = SP-5 = 1.4C-5. The new profit is 50%, so New SP = 1.5 * (New CP). This gives $1.4C-5 = 1.5(0.6C) = 0.9C$. Solving for C: $0.5C=5 \\implies C=10$. The original selling price is $1.4C = 1.4(10)=14$.",
     "topic": "Percents Profits SICI",
     "difficulty": "Easy",
-    "subject": null,
+    "subject": "Quant",
     "section_id": null
   },
   {
@@ -348,7 +348,7 @@
     "explanation": "Using the change of base formula, $\\log_{100} x = (\\log_{10} x)/2$ and $\\log_{1000} x = (\\log_{10} x)/3$. The equation becomes $4\\log_{10} x + 4(\\frac{\\log_{10} x}{2}) + 8(\\frac{\\log_{10} x}{3}) = 13$. Let $L=\\log_{10}x$. Then $4L+2L+(8/3)L=13 \\Rightarrow 6L+(8/3)L = 13 \\Rightarrow (26/3)L=13 \\Rightarrow L=1.5$. So $x=10^{1.5} = 10\\sqrt{10} = \\sqrt{1000}$. Since $31^2 = 961$ and $32^2 = 1024$, the value of ${x}$ is between 31 and 32. The greatest integer not exceeding ${x}$ is 31.",
     "topic": "Logarithms Exponents",
     "difficulty": "Medium",
-    "subject": null,
+    "subject": "Quant",
     "section_id": null
   }
 ]
