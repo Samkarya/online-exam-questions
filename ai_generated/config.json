@@ -9,7 +9,7 @@
         "paperType": "IELTS Reading",
         "title": "IELTS Reading Practice (AI)",
         "description": "An AI-generated exam covering IELTS reading questions.",
-        "path": "ai_generated/IELTS/ielts_reading_0.json",
+        "path": "IELTS/ielts_reading_0.json",
         "model": "gemini-3-pro",
         "defaultQuestionCount": 40,
         "generationPrompt": "Generate 40 IELTS reading multiple-choice questions."
@@ -24,7 +24,7 @@
         "paperType": "IELTS Grammar",
         "title": "IELTS Grammar Practice (AI)",
         "description": "An AI-generated exam covering IELTS grammar questions.",
-        "path": "ai_generated/IELTS/ielts_grammar_0.json",
+        "path": "IELTS/ielts_grammar_0.json",
         "model": "gemini-3-pro",
         "defaultQuestionCount": 40,
         "generationPrompt": "Generate 40 IELTS grammar multiple-choice questions."
@@ -39,7 +39,7 @@
         "paperType": "IELTS Vocabulary",
         "title": "IELTS Vocabulary Practice (AI)",
         "description": "An AI-generated exam covering IELTS vocabulary questions.",
-        "path": "ai_generated/IELTS/ielts_vocabulary_0.json",
+        "path": "IELTS/ielts_vocabulary_0.json",
         "model": "gemini-3-pro",
         "defaultQuestionCount": 40,
         "generationPrompt": "Generate 40 IELTS vocabulary multiple-choice questions."
@@ -54,7 +54,7 @@
         "paperType": "IELTS Listening",
         "title": "IELTS Listening Practice (AI)",
         "description": "An AI-generated exam covering IELTS listening questions.",
-        "path": "ai_generated/IELTS/ielts_listening_0.json",
+        "path": "IELTS/ielts_listening_0.json",
         "model": "gemini-3-pro",
         "defaultQuestionCount": 40,
         "generationPrompt": "Generate 40 IELTS listening multiple-choice questions."
