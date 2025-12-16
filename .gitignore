@@ -1,0 +1,6 @@
+node_modules
+validation_output.txt
+.DS_Store
+Thumbs.db
+.env
+*.log

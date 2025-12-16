@@ -176,6 +176,7 @@ We welcome contributions! Whether it's adding a new year's paper or fixing a typ
     *   Place assets in a `assets/` subfolder.
 3.  **Update Config:** Add your new exam to `config.json`.
 4.  **Validate:**
+    *   **Run the validation script:** `npm run validate`
     *   Check JSON syntax (use a linter).
     *   Verify LaTeX rendering (look for unescaped backslashes).
 5.  **Pull Request:** Submit your PR to the `main` branch.
@@ -188,3 +189,33 @@ We welcome contributions! Whether it's adding a new year's paper or fixing a typ
 *   [ ] Does `correct_answer` match an option key exactly?
 *   [ ] Are image paths correct?
 *   [ ] Did you add an entry to `config.json`?
+
+---
+
+## 💻 API Usage Example
+
+You can use the provided API to access data programmatically. See `src/example.ts` for a runnable demo.
+
+```typescript
+import { getAllExams, getExamById, getAIExams, getBlogPosts } from './src';
+
+async function main() {
+    // 1. Get all main exams
+    const exams = getAllExams();
+    console.log(`Found ${exams.length} exams.`);
+
+    // 2. Get a specific exam by ID
+    const exam = await getExamById('nimcet_2023');
+    if (exam) {
+        console.log(`Loaded exam with ${exam.length} questions.`);
+    }
+
+    // 3. Get AI-generated exams
+    const aiExams = getAIExams();
+    console.log(`Found ${aiExams.length} AI exams.`);
+
+    // 4. Get Blog posts
+    const blogs = getBlogPosts();
+    console.log(`Found ${blogs.length} blog posts.`);
+}
+```

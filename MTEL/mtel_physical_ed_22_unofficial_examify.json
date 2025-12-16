@@ -11,7 +11,8 @@
     "correct_answer": "c",
     "explanation": "In a bicep curl, the effort (bicep insertion) is between the fulcrum (elbow) and the resistance (weight in hand). This arrangement defines a **third-class lever**.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 2,
@@ -25,7 +26,8 @@
     "correct_answer": "b",
     "explanation": "Rapid growth of limbs during adolescence causes the body's **center of gravity to shift**. The brain needs time to adapt to these changes, leading to a temporary decrease in coordination.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 3,
@@ -39,7 +41,8 @@
     "correct_answer": "c",
     "explanation": "Anaerobic training focuses on short, intense bursts of effort. This stimulates **hypertrophy (an increase in size) of fast-twitch muscle fibers**, which are responsible for powerful, explosive movements.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 4,
@@ -53,7 +56,8 @@
     "correct_answer": "b",
     "explanation": "The **talk test** (being able to talk but not sing) and a **Rate of Perceived Exertion (RPE) scale** are simple, subjective ways for students to gauge cardiovascular intensity without equipment.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 5,
@@ -67,7 +71,8 @@
     "correct_answer": "a",
     "explanation": "The principle of **specificity** states that training should be relevant and appropriate to the desired outcome. To improve in an endurance activity like the mile run, the training should focus on endurance (long-distance running).",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 6,
@@ -81,7 +86,8 @@
     "correct_answer": "b",
     "explanation": "The principle of **reversibility**, or \"use it or lose it,\" means that fitness gains are lost when training stops. The rate of loss is comparable to the rate of gain.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 7,
@@ -95,7 +101,8 @@
     "correct_answer": "d",
     "explanation": "Joining a **recreational soccer league** effectively meets both criteria: it is a team-based, social activity and provides an excellent cardiovascular workout.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 8,
@@ -109,7 +116,8 @@
     "correct_answer": "b",
     "explanation": "A cool-down helps gradually slow the heart rate and allows blood to circulate back to the heart from the working muscles, **preventing blood pooling** and reducing dizziness or fainting.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 9,
@@ -123,7 +131,8 @@
     "correct_answer": "c",
     "explanation": "**Inertia** is an object's resistance to a change in its state of motion. Mass is a measure of inertia, so a more massive object has greater inertia.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 10,
@@ -137,7 +146,8 @@
     "correct_answer": "a",
     "explanation": "In a lever system, the pivot point is the **fulcrum**. In the human body, bones act as the levers, and the joints where they articulate act as the fulcrums.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 11,
@@ -151,7 +161,8 @@
     "correct_answer": "c",
     "explanation": "When calorie intake is greater than calorie expenditure, the body is in a state of **positive energy balance**. This surplus energy is typically stored as fat, leading to weight gain.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 12,
@@ -165,7 +176,8 @@
     "correct_answer": "b",
     "explanation": "Protein is made of amino acids, which are the building blocks of tissue. Its primary function is to **repair micro-tears in muscle fibers** caused by exercise and to build new muscle tissue.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 13,
@@ -179,7 +191,8 @@
     "correct_answer": "c",
     "explanation": "An **isometric** contraction occurs when a muscle produces tension but does not change its length, resulting in no joint movement, such as in a plank or a wall sit.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 14,
@@ -193,7 +206,8 @@
     "correct_answer": "b",
     "explanation": "The body first uses easily accessible carbohydrates (glycogen) for energy. As these stores are depleted during prolonged exercise, it increasingly relies on its more abundant **fat stores** for fuel.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 15,
@@ -207,7 +221,8 @@
     "correct_answer": "b",
     "explanation": "Unlike infancy and adolescence, which are periods of rapid growth, middle childhood is characterized by **slow, steady, and consistent growth** in both height and weight.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 16,
@@ -221,7 +236,8 @@
     "correct_answer": "b",
     "explanation": "Once a long jumper leaves the ground, their body becomes a projectile. The distance traveled is governed by the principles of **projectile motion**, which involve takeoff velocity, angle, and height.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 17,
@@ -235,7 +251,8 @@
     "correct_answer": "b",
     "explanation": "Stability is increased by creating a wider base of support (e.g., spreading the feet apart) and by lowering the center of gravity, making it harder to be knocked off balance.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 18,
@@ -249,7 +266,8 @@
     "correct_answer": "a",
     "explanation": "The principle of **progressive overload** states that to improve fitness, one must gradually increase the demands placed on the body. Increasing jogging time from 20 to 25 minutes is a clear example of this.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 19,
@@ -263,7 +281,8 @@
     "correct_answer": "b",
     "explanation": "Weight-bearing exercises (like walking, jogging, and resistance training) place stress on bones, which stimulates bone cells to build more bone mass, thereby helping to prevent or slow **osteoporosis**.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 20,
@@ -277,7 +296,8 @@
     "correct_answer": "c",
     "explanation": "The player pushes down on the floor (action), and the floor pushes the player up into the air (reaction). This is a perfect example of Newton's **Third Law of Action-Reaction**.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 21,
@@ -291,7 +311,8 @@
     "correct_answer": "a",
     "explanation": "The **sagittal plane** is a vertical plane that runs from front to back, dividing the body into left and right portions. Movements like flexion and extension (e.g., a bicep curl) occur in this plane.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Hard"
+    "difficulty": "Hard",
+    "subject": "MTEL"
   },
   {
     "question_number": 22,
@@ -305,7 +326,8 @@
     "correct_answer": "b",
     "explanation": "Saturated and trans fats contribute to elevated levels of LDL (\"bad\") cholesterol, which can lead to plaque buildup in the arteries (atherosclerosis) and increase the risk of **cardiovascular disease**.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 23,
@@ -319,7 +341,8 @@
     "correct_answer": "c",
     "explanation": "A combination of factors, including a wider pelvic girdle designed for childbirth and hormones like estrogen, contribute to females typically having greater flexibility, particularly in the hips.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 24,
@@ -333,7 +356,8 @@
     "correct_answer": "c",
     "explanation": "To absorb force safely, one must increase the time and area over which the force is applied. **Flexing the joints** upon landing (eccentric contraction) lengthens the impact time, reducing the peak force on the joints and preventing injury.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 25,
@@ -347,7 +371,8 @@
     "correct_answer": "a",
     "explanation": "While adolescence has a significant growth spurt, the most rapid rate of growth in a person's entire life occurs during **infancy**, where a baby can triple its birth weight in the first year.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 26,
@@ -361,7 +386,8 @@
     "correct_answer": "d",
     "explanation": "**Dynamic stretching** uses movement and momentum to take joints and muscles through their full range of motion. It is ideal for warm-ups as it increases blood flow and prepares the body for activity. Examples include leg swings and torso twists.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 27,
@@ -375,7 +401,8 @@
     "correct_answer": "a",
     "explanation": "The **ATP-PC system** provides immediate energy for very short-duration (0-10 seconds), high-intensity activities by using stored adenosine triphosphate (ATP) and phosphocreatine (PC).",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Hard"
+    "difficulty": "Hard",
+    "subject": "MTEL"
   },
   {
     "question_number": 28,
@@ -389,7 +416,8 @@
     "correct_answer": "b",
     "explanation": "**Abduction** is the movement of a limb away from the midline of the body. Lifting the arm out to the side is a clear example of shoulder abduction.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 29,
@@ -403,7 +431,8 @@
     "correct_answer": "b",
     "explanation": "Complex carbohydrates (like those in whole grains and vegetables) take longer to break down, leading to a **slower, more sustained release of glucose** into the bloodstream and providing longer-lasting energy.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 30,
@@ -417,7 +446,8 @@
     "correct_answer": "c",
     "explanation": "**Interval training** is characterized by its structured periods of high-intensity work followed by periods of recovery. This method is very effective for improving both anaerobic and aerobic fitness.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 31,
@@ -431,7 +461,8 @@
     "correct_answer": "a",
     "explanation": "The **kinetic chain** is the concept that body parts act as a system of chain links. For a powerful throw, force is generated in the legs, transferred and amplified through the core, and finally released through the arm and hand.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Hard"
+    "difficulty": "Hard",
+    "subject": "MTEL"
   },
   {
     "question_number": 32,
@@ -445,7 +476,8 @@
     "correct_answer": "b",
     "explanation": "Sweating is the body's primary cooling mechanism. As sweat evaporates from the skin, it takes heat with it, which helps to **maintain a stable core body temperature** during physical exertion.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 33,
@@ -459,7 +491,8 @@
     "correct_answer": "b",
     "explanation": "**Calcium** is essential for building and maintaining strong bones. **Potassium** is a key electrolyte that plays a vital role in nerve transmission and muscle contraction.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 34,
@@ -473,7 +506,8 @@
     "correct_answer": "b",
     "explanation": "Basal metabolic rate (BMR) is highly influenced by lean body mass. As people **age, they tend to lose muscle mass (sarcopenia)**, which leads to a natural decline in their BMR.",
     "topic": "Physical Activity and Fitness",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 35,
@@ -487,7 +521,8 @@
     "correct_answer": "b",
     "explanation": "**Aerobic exercise** (e.g., running, swimming, cycling) strengthens the heart and lungs and improves the body's ability to use oxygen, which is the definition of cardiorespiratory endurance.",
     "topic": "Health-Related Physical Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 36,
@@ -501,7 +536,8 @@
     "correct_answer": "c",
     "explanation": "**FITNESSGRAM®** uses criterion-referenced standards called \"Healthy Fitness Zones\" to assess student fitness levels against standards known to indicate good health, rather than comparing students to each other.",
     "topic": "Health-Related Physical Fitness",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 37,
@@ -515,7 +551,8 @@
     "correct_answer": "b",
     "explanation": "This test measures the ability of the abdominal muscles to perform repeated contractions over a period of time, which is the definition of **muscular endurance**.",
     "topic": "Health-Related Physical Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 38,
@@ -529,7 +566,8 @@
     "correct_answer": "c",
     "explanation": "The sit-and-reach test is a common measure of flexibility, and it specifically assesses the elasticity of the **hamstring muscles and the muscles of the lower back**.",
     "topic": "Health-Related Physical Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 39,
@@ -543,7 +581,8 @@
     "correct_answer": "a",
     "explanation": "**Body composition** breaks down the total body weight into its component parts, primarily fat mass and lean body mass (muscle, bone, water, and organs).",
     "topic": "Health-Related Physical Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 40,
@@ -557,7 +596,8 @@
     "correct_answer": "b",
     "explanation": "A push-up test assesses upper body strength and endurance. While a 1-repetition maximum (1RM) is a pure strength test, a max-repetition test is a practical and common way to assess strength in a school setting.",
     "topic": "Health-Related Physical Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 41,
@@ -571,7 +611,8 @@
     "correct_answer": "b",
     "explanation": "The target heart rate zone is a range that guides exercise intensity. It is calculated using a percentage of the individual's **maximum heart rate** (often estimated as 220 minus age).",
     "topic": "Health-Related Physical Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 42,
@@ -585,7 +626,8 @@
     "correct_answer": "c",
     "explanation": "BMI is calculated from height and weight only. Its main drawback is that it **cannot distinguish between fat mass and lean mass**. A very muscular person could have a high BMI and be incorrectly classified as overweight.",
     "topic": "Health-Related Physical Fitness",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 43,
@@ -599,7 +641,8 @@
     "correct_answer": "b",
     "explanation": "**Static stretching**, which involves holding a stretch for a period (e.g., 30 seconds), is a highly effective method for increasing flexibility by lengthening muscles and connective tissues.",
     "topic": "Health-Related Physical Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 44,
@@ -613,7 +656,8 @@
     "correct_answer": "b",
     "explanation": "The five components of health-related fitness (cardiorespiratory endurance, muscular strength, muscular endurance, flexibility, and body composition) are those that **directly impact a person's overall health and well-being**.",
     "topic": "Health-Related Physical Fitness",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 45,
@@ -627,7 +671,8 @@
     "correct_answer": "c",
     "explanation": "The PACER test is a multistage shuttle run designed to measure **aerobic capacity**, which is a key component of cardiorespiratory fitness.",
     "topic": "Health-Related Physical Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 46,
@@ -641,7 +686,8 @@
     "correct_answer": "b",
     "explanation": "To improve **muscular endurance**, the training stimulus should match the goal. This involves using lighter weights or less resistance to allow for a higher number of repetitions (typically 12-20 or more).",
     "topic": "Health-Related Physical Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 47,
@@ -655,7 +701,8 @@
     "correct_answer": "b",
     "explanation": "Assessing all five components (cardiorespiratory endurance, muscular strength, muscular endurance, flexibility, body composition) provides a **holistic view of a student's health status**, helping them to understand their strengths and weaknesses.",
     "topic": "Health-Related Physical Fitness",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 48,
@@ -669,7 +716,8 @@
     "correct_answer": "c",
     "explanation": "The **cognitive stage** is the first stage of learning, where the learner is trying to understand the basic mechanics of the skill. It requires a great deal of thought, and performance is inconsistent and marked by frequent errors.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 49,
@@ -683,7 +731,8 @@
     "correct_answer": "b",
     "explanation": "An **open motor skill** is performed in an unpredictable, changing environment. Hitting a pitched baseball requires the batter to constantly adapt to the pitch's speed, location, and spin.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 50,
@@ -697,7 +746,8 @@
     "correct_answer": "a",
     "explanation": "**Transfer of learning** occurs when experience with one skill affects the learning of a new skill. The mechanics of an underhand throw are very similar to bowling, so mastering the first skill positively transfers to the second.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 51,
@@ -711,7 +761,8 @@
     "correct_answer": "a",
     "explanation": "Changing the equipment used to perform a skill is a modification of a **task constraint**. The rules of the task (catch the ball) remain the same, but the equipment is altered to facilitate success.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Hard"
+    "difficulty": "Hard",
+    "subject": "MTEL"
   },
   {
     "question_number": 52,
@@ -725,7 +776,8 @@
     "correct_answer": "c",
     "explanation": "Skipping is a compound locomotor skill that involves an uneven rhythm of a **step followed by a hop** on the same foot, then repeated on the other foot.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 53,
@@ -739,7 +791,8 @@
     "correct_answer": "c",
     "explanation": "An **analogical** cue uses an analogy or image to help a learner understand a complex movement. Comparing the volley to a \"punch\" creates a mental picture that simplifies the action.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 54,
@@ -753,7 +806,8 @@
     "correct_answer": "b",
     "explanation": "Children typically develop locomotor skills in a predictable sequence based on complexity. They learn to **walk** first, then develop the coordination for **running**, and later master the more complex skill of **skipping**.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 55,
@@ -767,7 +821,8 @@
     "correct_answer": "b",
     "explanation": "The \"allemande left\" call instructs a dancer to turn to their **corner** (the person to their left), join **left hands**, and walk around them to return to their starting position.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Hard"
+    "difficulty": "Hard",
+    "subject": "MTEL"
   },
   {
     "question_number": 56,
@@ -781,7 +836,8 @@
     "correct_answer": "c",
     "explanation": "Keeping the eyes up allows the player to scan the entire court, enabling them to **see open teammates, the position of defenders, and opportunities to score**. This is crucial for game awareness.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 57,
@@ -795,7 +851,8 @@
     "correct_answer": "b",
     "explanation": "A mature throw generates power from the kinetic chain. This involves **rotating the hips and trunk sequentially** before the arm comes forward, transferring energy from the lower body to the upper body.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 58,
@@ -809,7 +866,8 @@
     "correct_answer": "b",
     "explanation": "The defining characteristic is the **environment**. Closed skills (like a free throw) occur in a stable, predictable environment, while open skills (like hitting a hockey puck) occur in a dynamic, unpredictable environment.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 59,
@@ -823,7 +881,8 @@
     "correct_answer": "b",
     "explanation": "In the **associative (or practice) stage**, the learner has moved beyond the basics and is now refining the skill. A key characteristic is the developing ability to feel the movement and start making self-corrections.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 60,
@@ -837,7 +896,8 @@
     "correct_answer": "c",
     "explanation": "Proper technique requires creating a flat platform with the **forearms**. The arms are kept straight, and the player uses their legs to direct the ball, not a swing of the arms.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 61,
@@ -851,7 +911,8 @@
     "correct_answer": "b",
     "explanation": "**Twisting** is a non-locomotor skill defined by the rotation of the torso or body parts around the central (longitudinal) axis of the body.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 62,
@@ -865,7 +926,8 @@
     "correct_answer": "d",
     "explanation": "Effective feedback acts as **reinforcement**. By being specific and positive, it reinforces what the student is doing correctly. By being corrective, it reinforces the desired change in behavior or technique.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 63,
@@ -879,7 +941,8 @@
     "correct_answer": "c",
     "explanation": "A **contra** dance formation is characterized by two long lines of dancers facing each other, with partners standing opposite one another in the line.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Hard"
+    "difficulty": "Hard",
+    "subject": "MTEL"
   },
   {
     "question_number": 64,
@@ -893,7 +956,8 @@
     "correct_answer": "c",
     "explanation": "A **clear** is a defensive shot used to create time. It is hit with a high arc to travel deep into the opponent's court, forcing them to move back from the net.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 65,
@@ -907,7 +971,8 @@
     "correct_answer": "c",
     "explanation": "This cue directly addresses the error. Telling the student to **turn their foot sideways and lock their ankle** prompts them to use the correct striking surface (the instep) instead of the toe.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 66,
@@ -921,7 +986,8 @@
     "correct_answer": "b",
     "explanation": "In **grades 3-5**, most children have matured past the initial learning of fundamental skills and are ready to combine them in more complex sequences and apply them in modified game settings.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 67,
@@ -935,7 +1001,8 @@
     "correct_answer": "c",
     "explanation": "Object manipulation involves controlling an object. **Dribbling a soccer ball** is a clear example of manipulating an object (the ball) using the feet.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 68,
@@ -949,7 +1016,8 @@
     "correct_answer": "b",
     "explanation": "The **part-whole method** breaks a complex skill or sequence into smaller, manageable parts. Each part is practiced individually before being chained together to perform the whole sequence.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 69,
@@ -963,7 +1031,8 @@
     "correct_answer": "c",
     "explanation": "Maximum force is generated by using the kinetic chain. For a powerful swing, the large muscles of the lower body and core activate first, with **hip and trunk rotation preceding the arm and hand movements**.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 70,
@@ -977,7 +1046,8 @@
     "correct_answer": "b",
     "explanation": "The movement concept of **level** describes the body's position in space relative to the ground. It is often simplified into three levels: high (e.g., jumping), medium (e.g., standing), and low (e.g., crouching).",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Hard"
+    "difficulty": "Hard",
+    "subject": "MTEL"
   },
   {
     "question_number": 71,
@@ -991,7 +1061,8 @@
     "correct_answer": "a",
     "explanation": "Since a player with the disc cannot run, they must establish a pivot foot and use **pivoting** to turn and create throwing lanes without traveling.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 72,
@@ -1005,7 +1076,8 @@
     "correct_answer": "b",
     "explanation": "The term for pulling the bowstring back to the anchor point on the face (such as the corner of the mouth) is **drawing** the bow.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 73,
@@ -1019,7 +1091,8 @@
     "correct_answer": "c",
     "explanation": "In the **autonomous stage**, the skill has been mastered to the point where it can be performed automatically, with very little conscious thought. Performance is consistent and the learner can focus on external factors, like game strategy.",
     "topic": "Movement and Motor Skills",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 74,
@@ -1033,7 +1106,8 @@
     "correct_answer": "c",
     "explanation": "**Universal Design for Learning (UDL)** is an educational framework focused on proactively creating flexible learning environments and lessons that accommodate all learners from the start, making it ideal for inclusive instruction.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 75,
@@ -1047,7 +1121,8 @@
     "correct_answer": "b",
     "explanation": "**Title IX** is a federal law that prohibits sex-based discrimination in any school or education program that receives federal funding. This means programs must provide equitable opportunities for all genders.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 76,
@@ -1061,7 +1136,8 @@
     "correct_answer": "c",
     "explanation": "While documentation is important, the most crucial *preventative* measures are proactive. **Proper supervision and providing safe, effective instruction** are the primary duties of a teacher to ensure student safety.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 77,
@@ -1075,7 +1151,8 @@
     "correct_answer": "c",
     "explanation": "**Authentic assessment** measures a student's ability to perform a real-world task. Using a rubric to evaluate the actual performance of a sport skill is a classic example of this.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 78,
@@ -1089,7 +1166,8 @@
     "correct_answer": "b",
     "explanation": "The goal of **formative assessment** is to monitor student learning *during* the instructional process. It gives the teacher real-time information to guide and modify their teaching to better meet student needs.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 79,
@@ -1103,7 +1181,8 @@
     "correct_answer": "b",
     "explanation": "Publicly picking teams can be socially damaging. The most effective strategy is for the **teacher to create balanced teams**, which prevents embarrassment and ensures more equitable competition.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 80,
@@ -1117,7 +1196,8 @@
     "correct_answer": "b",
     "explanation": "**Negligence** in a professional context occurs when a teacher fails to act with the same level of care and prudence that another reasonable professional would have in a similar situation, and this failure results in an injury.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Hard"
+    "difficulty": "Hard",
+    "subject": "MTEL"
   },
   {
     "question_number": 81,
@@ -1131,7 +1211,8 @@
     "correct_answer": "a",
     "explanation": "Weather is a major, unpredictable risk factor in outdoor activities. **Checking the forecast and having a backup plan** for bad weather is the most critical step to ensure the safety of all students.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 82,
@@ -1145,7 +1226,8 @@
     "correct_answer": "b",
     "explanation": "The SHAPE America National Standards provide a framework that focuses on the long-term goal of developing **physically literate individuals**—those with the knowledge, skills, and confidence to enjoy a lifetime of healthful activity.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 83,
@@ -1159,7 +1241,8 @@
     "correct_answer": "a",
     "explanation": "The **Individualized Education Program (IEP)** is a legally binding document. A teacher is required by law to provide all modifications, accommodations, and services specified in the IEP to ensure the student can access and benefit from the curriculum.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 84,
@@ -1173,7 +1256,8 @@
     "correct_answer": "c",
     "explanation": "The **affective domain** deals with emotions, attitudes, values, and feelings. Journaling is an excellent way to assess this domain by allowing students to reflect on their personal experiences and emotional responses to physical activity.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 85,
@@ -1187,7 +1271,8 @@
     "correct_answer": "c",
     "explanation": "An appropriate objective for first grade must be observable, measurable, and developmentally appropriate. **\"I can toss a beanbag underhand and hit a large target\"** fits these criteria perfectly for this age group.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 86,
@@ -1201,7 +1286,8 @@
     "correct_answer": "a",
     "explanation": "This statement is an **anticipatory set** (or introduction). It clearly states the lesson's objective (what) and its purpose (why), engaging students and making the upcoming activity relevant to them.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 87,
@@ -1215,7 +1301,8 @@
     "correct_answer": "b",
     "explanation": "Advocacy is most effective when it is data-driven. **Presenting concrete data** that connects the physical education program to positive outcomes in student wellness, social-emotional learning, and even academic achievement is the most professional and persuasive approach.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 88,
@@ -1229,7 +1316,8 @@
     "correct_answer": "a",
     "explanation": "In cases of cardiac arrest (no breathing, no pulse), the immediate priority after ensuring emergency services have been called is to **begin CPR**. Immediate CPR can dramatically increase the chances of survival.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 89,
@@ -1243,7 +1331,8 @@
     "correct_answer": "b",
     "explanation": "Effective class management minimizes downtime. **Well-established routines** for common tasks like entering the gym, getting equipment, and changing activities allow lessons to run smoothly and maximize the time students are physically active.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 90,
@@ -1257,7 +1346,8 @@
     "correct_answer": "b",
     "explanation": "The focus of elementary PE should be on **building a strong foundation of fundamental motor skills** (like running, jumping, throwing, catching) and movement concepts. These skills are the building blocks for all future physical activities.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 91,
@@ -1271,7 +1361,8 @@
     "correct_answer": "b",
     "explanation": "**Leave No Trace** is a set of ethics and best practices aimed at minimizing human impact on the natural environment. It is a core component of environmental stewardship in outdoor education.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 92,
@@ -1285,7 +1376,8 @@
     "correct_answer": "c",
     "explanation": "**Video analysis apps** allow a teacher to record a student's performance and provide immediate visual feedback. They can slow down the video, draw angles, and compare it to a model, offering a powerful tool for skill refinement.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 93,
@@ -1299,7 +1391,8 @@
     "correct_answer": "c",
     "explanation": "**Validity** is the most important characteristic of an assessment. It refers to the degree to which the assessment accurately **measures the specific concept or skill it is designed to measure**.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 94,
@@ -1313,7 +1406,8 @@
     "correct_answer": "c",
     "explanation": "The acronym **RICE (Rest, Ice, Compression, Elevation)** outlines the standard and most effective immediate first aid treatment for sprains and strains to reduce swelling and pain.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 95,
@@ -1327,7 +1421,8 @@
     "correct_answer": "c",
     "explanation": "Part of a teacher's legal duty of care involves foresight and warning students about the **inherent risks** of an activity that they might not be aware of. This ensures students can make informed choices about their participation.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 96,
@@ -1341,7 +1436,8 @@
     "correct_answer": "c",
     "explanation": "By offering choices and focusing on lifetime activities, the program empowers students to find activities they genuinely enjoy. This increases **self-efficacy and makes it more likely they will continue to be physically active** after graduation.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 97,
@@ -1355,7 +1451,8 @@
     "correct_answer": "a",
     "explanation": "For peer assessment to be effective and fair, students cannot simply offer opinions. The teacher must provide them with a **clear, objective rubric or checklist** so they know exactly what criteria to use when observing their peers.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 98,
@@ -1369,7 +1466,8 @@
     "correct_answer": "c",
     "explanation": "Regularly inspecting equipment and documenting it is a key component of **risk management**. It helps prevent injuries from faulty equipment and provides a legal record that the teacher has fulfilled their duty of care, which is crucial for liability protection.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   },
   {
     "question_number": 99,
@@ -1383,7 +1481,8 @@
     "correct_answer": "c",
     "explanation": "During any emergency signal like a fire alarm, the absolute first priority is student safety. The teacher must immediately stop all activity and **lead students to safety** following established school procedures.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Easy"
+    "difficulty": "Easy",
+    "subject": "MTEL"
   },
   {
     "question_number": 100,
@@ -1397,6 +1496,7 @@
     "correct_answer": "b",
     "explanation": "SHAPE America guidelines identify several components of a high-quality program, but a foundational requirement is that instruction must be provided by a **qualified and certified physical education teacher**.",
     "topic": "Physical Education Program Development",
-    "difficulty": "Medium"
+    "difficulty": "Medium",
+    "subject": "MTEL"
   }
 ]

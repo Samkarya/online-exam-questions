@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Examify API Test</title>
+    <style>
+        body { font-family: sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        button { margin: 5px; padding: 10px; cursor: pointer; }
+        #output { background: #f4f4f4; padding: 15px; border-radius: 5px; white-space: pre-wrap; margin-top: 20px; max-height: 500px; overflow-y: auto; }
+        .card { border: 1px solid #ddd; padding: 10px; margin-bottom: 10px; border-radius: 4px; }
+        .exam-item { cursor: pointer; color: blue; text-decoration: underline; }
+        .exam-item:hover { color: darkblue; }
+    </style>
+</head>
+<body>
+    <h1>Examify API Tester</h1>
+    <div>
+        <button onclick="fetchExams()">Get All Exams</button>
+        <button onclick="fetchAIExams()">Get AI Exams</button>
+        <button onclick="fetchBlogPosts()">Get Blog Posts</button>
+        <button onclick="clearOutput()">Clear</button>
+    </div>
+    <div id="output">Click a button to fetch data...</div>
+
+    <script>
+        const API_URL = 'http://localhost:3000/api';
+        const output = document.getElementById('output');
+
+        function displayJSON(data) {
+            output.textContent = JSON.stringify(data, null, 2);
+        }
+
+        function displayList(items, title, onClick) {
+            output.innerHTML = `<h3>${title} (${items.length})</h3>`;
+            items.forEach(item => {
+                const div = document.createElement('div');
+                div.className = 'card';
+                div.innerHTML = `<strong>${item.title || item.id}</strong><br><small>${item.id}</small>`;
+                if (onClick) {
+                    div.classList.add('exam-item');
+                    div.onclick = () => onClick(item.id);
+                }
+                output.appendChild(div);
+            });
+        }
+
+        async function fetchExams() {
+            output.textContent = 'Loading...';
+            try {
+                const res = await fetch(`${API_URL}/exams`);
+                const data = await res.json();
+                displayList(data, 'All Exams', fetchExamDetails);
+            } catch (err) {
+                output.textContent = 'Error: ' + err.message;
+            }
+        }
+
+        async function fetchExamDetails(id) {
+            output.textContent = `Loading exam ${id}...`;
+            try {
+                const res = await fetch(`${API_URL}/exams/${id}`);
+                const data = await res.json();
+                displayJSON(data);
+            } catch (err) {
+                output.textContent = 'Error: ' + err.message;
+            }
+        }
+
+        async function fetchAIExams() {
+            output.textContent = 'Loading...';
+            try {
+                const res = await fetch(`${API_URL}/ai-exams`);
+                const data = await res.json();
+                displayList(data, 'AI Exams', (id) => alert('AI Exam details fetching not implemented in this demo for ID: ' + id));
+            } catch (err) {
+                output.textContent = 'Error: ' + err.message;
+            }
+        }
+
+        async function fetchBlogPosts() {
+            output.textContent = 'Loading...';
+            try {
+                const res = await fetch(`${API_URL}/blog-posts`);
+                const data = await res.json();
+                displayList(data, 'Blog Posts');
+            } catch (err) {
+                output.textContent = 'Error: ' + err.message;
+            }
+        }
+
+        function clearOutput() {
+            output.textContent = 'Click a button to fetch data...';
+        }
+    </script>
+</body>
+</html>
