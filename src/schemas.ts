@@ -36,7 +36,7 @@ export const ConfigSchema = z.array(ConfigEntrySchema);
 export const AIConfigEntrySchema = ConfigEntrySchema.extend({
     model: z.string(),
     defaultQuestionCount: z.number(),
-    generationPrompt: z.string(),
+    generationPrompt: z.string().optional(),
 });
 
 export const AIConfigSchema = z.array(AIConfigEntrySchema);
