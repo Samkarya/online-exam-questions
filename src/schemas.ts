@@ -25,6 +25,7 @@ export const ConfigEntrySchema = z.object({
     paperType: z.string().nullable(),
     title: z.string(),
     description: z.string(),
+    short_description: z.string(),
     path: z.string(),
     tags: z.array(z.string()).optional(),
 });
