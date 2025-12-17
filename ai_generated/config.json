@@ -68,10 +68,40 @@
         "shift": null,
         "paperType": "Sectional: Biotechnology Skills",
         "title": "BACE: Biotechnology Skills (Practical)",
-        "short_description": "30-question practical section focusing on aseptic techniques, micropipetting, and solution preparation.",
+        "short_description": "60-question practical section focusing on aseptic techniques, micropipetting, and solution preparation.",
         "description": "### Badge: Biotechnology Skills\n\n**Type:** Practical | **Weight:** 23% of Exam\n\nThis module tests the foundational hands-on skills required in a laboratory setting. Questions often involve procedural ordering and image analysis.\n\n**Key Topics:**\n*   **Aseptic Technique:** Sterility maintenance and contamination avoidance.\n*   **Micropipetting:** Correct usage of micro/macro pipettes.\n*   **Solution Prep:** pH adjustments, buffers, and serial dilutions.\n*   **Cell Culture:** Streaking plates and maintaining cell lines.\n\n> *Recommended Resource: Bio-Rad Lab Skills Course*",
         "path": "BACE/bace_biotech_skills.json",
         "model": "gemini-3-pro",
         "defaultQuestionCount": 60
+  },
+  {
+        "id": "bace_tech_skills_knowledge",
+        "category": "BACE",
+        "year": 2025,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Sectional: Technical Skills",
+        "title": "BACE: Technical Skills & Applications",
+        "short_description": "50-question knowledge section covering PCR, Electrophoresis, Immunoassays, and Chromatography.",
+        "description": "### Badge: Technical Skills & Applications\n\n**Type:** Knowledge | **Weight:** 19% of Exam\n\nFocuses on the theoretical understanding of common molecular biology assays and the ability to select the correct assay for a given scenario.\n\n**Key Topics:**\n*   **PCR:** qPCR vs. Conventional methods.\n*   **Electrophoresis:** Agarose gel and PAGE.\n*   **Immunoassays:** ELISA workflows.\n*   **Recombinant DNA:** Cloning vectors and transformation.\n*   **Analytical Methods:** Spectroscopy and Chromatography.",
+        "path": "BACE/bace_tech_skills.json",
+        "model": "gemini-3-pro",
+        "defaultQuestionCount": 50
+  },
+  {
+        "id": "bace_applied_math",
+        "category": "BACE",
+        "year": 2025,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Sectional: Applied Mathematics",
+        "title": "BACE: Applied Mathematics",
+        "short_description": "30-question calculation section on dilutions, molarity, unit conversions, and standard curves.",
+        "description": "### Badge: Applied Mathematics\n\n**Type:** Practical | **Weight:** 11.5% of Exam\n\nTests the ability to perform essential laboratory calculations and interpret graphical data. Requires numeric entry and graph analysis.\n\n**Formulas & Concepts:**\n*   **Dilutions:** $C_1V_1 = C_2V_2$ calculations.\n*   **Solutions:** Molarity (M) and Percent solutions (w/v, v/v).\n*   **Data Handling:** Significant figures and Scientific Notation.\n*   **Conversions:** $\\mu L \\leftrightarrow mL$ and other metric conversions.\n*   **Analysis:** Standard curve interpretation from linear plots.",
+        "path": "BACE/bace_applied_math.json",
+        "model": "gemini-3-pro",
+        "defaultQuestionCount": 30
   }
 ]
