@@ -16,7 +16,7 @@
     },
     {
         "id": "ielts_grammar_0",
-        "category": "AI-Generated",
+        "category": "IELTS",
         "year": 2025,
         "session": null,
         "date": null,
@@ -31,7 +31,7 @@
     },
     {
         "id": "ielts_vocabulary_0",
-        "category": "AI-Generated",
+        "category": "IELTS",
         "year": 2025,
         "session": null,
         "date": null,
@@ -46,7 +46,7 @@
     },
     {
         "id": "ielts_listening_0",
-        "category": "AI-Generated",
+        "category": "IELTS",
         "year": 2025,
         "session": null,
         "date": null,
