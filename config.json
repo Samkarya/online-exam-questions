@@ -156,7 +156,7 @@
     "path": "CAT/cat_2024_slot3_quant.json"
   },
   {
-    "id": "chem101_Introduction.json",
+    "id": "chem101_Introduction",
     "category": "Chemistry 101",
     "year": "Practice Questions",
     "title": "Introduction to Chemistry",
@@ -169,7 +169,7 @@
     "shift": null
   },
   {
-    "id": "chem101_Atomic_Theory.json",
+    "id": "chem101_Atomic_Theory",
     "category": "Chemistry 101",
     "year": "Practice Questions",
     "title": "Atomic Theory and Structure",
@@ -182,7 +182,7 @@
     "shift": null
   },
   {
-    "id": "chem101_Electronic_Structure.json",
+    "id": "chem101_Electronic_Structure",
     "category": "Chemistry 101",
     "year": "Practice Questions",
     "title": "Electronic Structure of Atoms",
@@ -195,7 +195,7 @@
     "shift": null
   },
   {
-    "id": "chem101_Periodic_Table.json",
+    "id": "chem101_Periodic_Table",
     "category": "Chemistry 101",
     "year": "Practice Questions",
     "title": "Periodic Table and Properties",
@@ -208,7 +208,7 @@
     "shift": null
   },
   {
-    "id": "chem101_Bonding_Ionic_Covalent.json",
+    "id": "chem101_Bonding_Ionic_Covalent",
     "category": "Chemistry 101",
     "year": "Practice Questions",
     "title": "Chemical Bonding I (Ionic & Covalent)",
@@ -221,7 +221,7 @@
     "shift": null
   },
   {
-    "id": "chem101_Bonding_Geometry.json",
+    "id": "chem101_Bonding_Geometry",
     "category": "Chemistry 101",
     "year": "Practice Questions",
     "title": "Chemical Bonding II (Geometry)",
@@ -234,7 +234,7 @@
     "shift": null
   },
   {
-    "id": "chem101_Stoichiometry.json",
+    "id": "chem101_Stoichiometry",
     "category": "Chemistry 101",
     "year": "Practice Questions",
     "title": "Stoichiometry and Reactions",
@@ -247,7 +247,7 @@
     "shift": null
   },
   {
-    "id": "chem101_Gas_Laws.json",
+    "id": "chem101_Gas_Laws",
     "category": "Chemistry 101",
     "year": "Practice Questions",
     "title": "States of Matter and Gas Laws",
@@ -260,7 +260,7 @@
     "shift": null
   },
   {
-    "id": "chem101_Thermochemistry.json",
+    "id": "chem101_Thermochemistry",
     "category": "Chemistry 101",
     "year": "Practice Questions",
     "title": "Thermochemistry",
@@ -273,7 +273,7 @@
     "shift": null
   },
   {
-    "id": "chem101_Equilibrium.json",
+    "id": "chem101_Equilibrium",
     "category": "Chemistry 101",
     "year": "Practice Questions",
     "title": "Chemical Equilibrium",
@@ -286,7 +286,7 @@
     "shift": null
   },
   {
-    "id": "chem101_Acids_Bases.json",
+    "id": "chem101_Acids_Bases",
     "category": "Chemistry 101",
     "year": "Practice Questions",
     "title": "Acids, Bases, and Salts",
@@ -299,7 +299,7 @@
     "shift": null
   },
   {
-    "id": "chem101_Buffers_Titrations.json",
+    "id": "chem101_Buffers_Titrations",
     "category": "Chemistry 101",
     "year": "Practice Questions",
     "title": "Buffer Solutions and Titrations",
@@ -312,7 +312,7 @@
     "shift": null
   },
   {
-    "id": "chem101_Kinetics.json",
+    "id": "chem101_Kinetics",
     "category": "Chemistry 101",
     "year": "Practice Questions",
     "title": "Chemical Kinetics",
@@ -325,7 +325,7 @@
     "shift": null
   },
   {
-    "id": "chem101_Redox_Electrochemistry.json",
+    "id": "chem101_Redox_Electrochemistry",
     "category": "Chemistry 101",
     "year": "Practice Questions",
     "title": "Redox and Electrochemistry",
@@ -338,7 +338,7 @@
     "shift": null
   },
   {
-    "id": "chem101_Lab_Chemistry.json",
+    "id": "chem101_Lab_Chemistry",
     "category": "Chemistry 101",
     "year": "Practice Questions",
     "title": "Introduction to Laboratory Chemistry",
