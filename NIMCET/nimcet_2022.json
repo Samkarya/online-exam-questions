@@ -9,7 +9,7 @@
       "c": "1/2log10(2x-1)",
       "d": "1/2log10 ((2x)/(2-x))"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 2,
@@ -21,7 +21,7 @@
       "c": "The Harmonic Mean of a and b",
       "d": "Equal to zero"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 3,
@@ -33,7 +33,7 @@
       "c": "π + cos−1 x",
       "d": "π/2 + cos-1 x"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 4,
@@ -45,7 +45,7 @@
       "c": "0",
       "d": "25"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 5,
@@ -57,7 +57,7 @@
       "c": "23, 33",
       "d": "22, 31"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 6,
@@ -69,7 +69,7 @@
       "c": "1:2",
       "d": "2:3"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 7,
@@ -81,7 +81,7 @@
       "c": "64",
       "d": "49"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 8,
@@ -93,7 +93,7 @@
       "c": "2",
       "d": "None of these"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 9,
@@ -105,7 +105,7 @@
       "c": "(a³-b³) / 2",
       "d": "(b − a)²"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 10,
@@ -117,7 +117,7 @@
       "c": "[-1,1)",
       "d": "None of the above"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 11,
@@ -129,7 +129,7 @@
       "c": "9/2",
       "d": "0"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 12,
@@ -141,7 +141,7 @@
       "c": "11√2b = 40a",
       "d": "11√2a = 40b"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 13,
@@ -153,7 +153,7 @@
       "c": "4/5",
       "d": "5/4"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 14,
@@ -165,7 +165,7 @@
       "c": "x = nπ ± π/2",
       "d": "x = nπ ± 2π/3"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 15,
@@ -177,7 +177,7 @@
       "c": "Discontinuous at x = 0",
       "d": "Not differentiable at x = 0"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 16,
@@ -189,7 +189,7 @@
       "c": "10",
       "d": "9"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 17,
@@ -201,7 +201,7 @@
       "c": "5î + ĵ – 2k",
       "d": "3î + ĵ + 4k"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 18,
@@ -213,7 +213,7 @@
       "c": "(3,15)",
       "d": "(1,16)"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 19,
@@ -225,7 +225,7 @@
       "c": "n m = 32",
       "d": "n + m = 92"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 20,
@@ -237,7 +237,7 @@
       "c": "4/17",
       "d": "5/17"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 21,
@@ -249,7 +249,7 @@
       "c": "P(A∪B)ᶜ = P(Aᶜ)P(Bᶜ)",
       "d": "P(A|B) = P(A) – P(B)"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 22,
@@ -261,7 +261,7 @@
       "c": "lim (sin x / (1+2x)) = 0 as x→0+",
       "d": "lim (cos x / (1+2x)) = 0 as x→0+"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 23,
@@ -273,7 +273,7 @@
       "c": "only x > 0",
       "d": "No value of x"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 24,
@@ -285,7 +285,7 @@
       "c": "Σ(ai²) ≥ (Σai)² from i=1 to n",
       "d": "None of the above"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 25,
@@ -297,7 +297,7 @@
       "c": "Divisible by (1 + x) and (1 + y)",
       "d": "Divisible by (1 + x) but not (1 + y)"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 26,
@@ -309,7 +309,7 @@
       "c": "1/5",
       "d": "1/10"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 27,
@@ -321,7 +321,7 @@
       "c": "1/5",
       "d": "1/6"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 28,
@@ -333,7 +333,7 @@
       "c": "-15/2",
       "d": "-17/2"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 29,
@@ -345,7 +345,7 @@
       "c": "5, -2",
       "d": "-4,2"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 30,
@@ -357,7 +357,7 @@
       "c": "a periodic function",
       "d": "neither an even nor an odd function"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 31,
@@ -369,7 +369,7 @@
       "c": "38",
       "d": "42"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 32,
@@ -381,7 +381,7 @@
       "c": "32 sq.unit",
       "d": "8 sq.unit"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 33,
@@ -393,7 +393,7 @@
       "c": "a² – b² = 2c²",
       "d": "a² – b² = c²"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 34,
@@ -405,7 +405,7 @@
       "c": "2An + 2",
       "d": "none of the above"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 35,
@@ -417,7 +417,7 @@
       "c": "cosec a₁ - cosec an",
       "d": "a₁ - an"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 36,
@@ -429,7 +429,7 @@
       "c": "0, 1",
       "d": "0, -2"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 37,
@@ -441,7 +441,7 @@
       "c": "pq",
       "d": "pq(p+q)"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 38,
@@ -453,7 +453,7 @@
       "c": "1",
       "d": "2"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 39,
@@ -465,7 +465,7 @@
       "c": "5x - 4y = 40",
       "d": "5x + 4y = 40"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 40,
@@ -477,7 +477,7 @@
       "c": "(1/2)√(2 - 1/x² - 1/x⁴) + C",
       "d": "None of the above"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 41,
@@ -489,7 +489,7 @@
       "c": "(-17/4, -5/2)",
       "d": "(17/4, 5/2)"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 42,
@@ -501,7 +501,7 @@
       "c": "1/2",
       "d": "1/4"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 43,
@@ -513,7 +513,7 @@
       "c": "3:1",
       "d": "1:1"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 44,
@@ -525,7 +525,7 @@
       "c": "y/x",
       "d": "x/y"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 45,
@@ -537,7 +537,7 @@
       "c": "36 cos²φ",
       "d": "36"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 46,
@@ -549,7 +549,7 @@
       "c": "5/27",
       "d": "5/9"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 47,
@@ -561,7 +561,7 @@
       "c": "2m - n = 1",
       "d": "3n - m = 5"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 48,
@@ -573,7 +573,7 @@
       "c": "8x² + 7y² = 56",
       "d": "7x² + 8y² = 56"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 49,
@@ -585,7 +585,7 @@
       "c": "1/2 * c tan α sin C",
       "d": "1/2 * a tan α cosec A"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 50,
@@ -597,7 +597,7 @@
       "c": "a and ĉ are collinear",
       "d": "ả and ĉ are perpendicular"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 51,
@@ -609,7 +609,7 @@
       "c": "Sunday",
       "d": "Saturday"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 52,
@@ -621,7 +621,7 @@
       "c": "345",
       "d": "310"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 53,
@@ -633,7 +633,7 @@
       "c": "Sailing",
       "d": "Diving"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 54,
@@ -645,7 +645,7 @@
       "c": "HGF",
       "d": "KMP"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 55,
@@ -657,7 +657,7 @@
       "c": "Intensify",
       "d": "Abate"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 56,
@@ -669,7 +669,7 @@
       "c": "JWW",
       "d": "IWW"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 57,
@@ -681,7 +681,7 @@
       "c": "Chicken : Rooster",
       "d": "Frog : Water"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 58,
@@ -693,7 +693,7 @@
       "c": "Teacher : Philanthropist",
       "d": "Criticise : Advocate"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 59,
@@ -705,7 +705,7 @@
       "c": "36",
       "d": "20"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 60,
@@ -717,7 +717,7 @@
       "c": "Statement I alone is sufficient, but statement II alone is not sufficient",
       "d": "Data in both the statements together are not sufficient"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 61,
@@ -729,7 +729,7 @@
       "c": "Option C image (Three separate circles)",
       "d": "Option D image (Two concentric circles, one separate circle)"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 62,
@@ -741,7 +741,7 @@
       "c": "Image A (Paint can)",
       "d": "Image B (Comb)"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 63,
@@ -753,7 +753,7 @@
       "c": "OEP",
       "d": "MEN"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 64,
@@ -765,7 +765,7 @@
       "c": "Catastrophe",
       "d": "Opulence"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 65,
@@ -777,7 +777,7 @@
       "c": "NUNBCH",
       "d": "OVNBBH"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 66,
@@ -789,7 +789,7 @@
       "c": "ICE",
       "d": "CONDENSE"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 67,
@@ -801,7 +801,7 @@
       "c": "His nephew",
       "d": "His daughter"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 68,
@@ -813,7 +813,7 @@
       "c": "81",
       "d": "82"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 69,
@@ -825,7 +825,7 @@
       "c": "Between U and W",
       "d": "Between X and W"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 70,
@@ -837,7 +837,7 @@
       "c": "Either I or II follows",
       "d": "Only conclusion I follows"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 71,
@@ -849,7 +849,7 @@
       "c": "Only conclusion II follows",
       "d": "Neither I nor II follows"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 72,
@@ -861,7 +861,7 @@
       "c": "Neither I nor II follows",
       "d": "Either I or II follows"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 73,
@@ -873,7 +873,7 @@
       "c": "E and F",
       "d": "C and F"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 74,
@@ -885,7 +885,7 @@
       "c": "26",
       "d": "38"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 75,
@@ -897,7 +897,7 @@
       "c": "-195",
       "d": "-5"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 76,
@@ -909,7 +909,7 @@
       "c": "1126",
       "d": "1026"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 77,
@@ -921,7 +921,7 @@
       "c": "1018",
       "d": "1180"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 78,
@@ -933,7 +933,7 @@
       "c": "19:28",
       "d": "27:14"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 79,
@@ -945,7 +945,7 @@
       "c": "II and III follow",
       "d": "All I, II and III follows"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 80,
@@ -957,7 +957,7 @@
       "c": "Only III follow",
       "d": "I and III follow"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 81,
@@ -969,7 +969,7 @@
       "c": "4th",
       "d": "3rd"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 82,
@@ -981,7 +981,7 @@
       "c": "D",
       "d": "A"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 83,
@@ -993,7 +993,7 @@
       "c": "A",
       "d": "B"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 84,
@@ -1005,7 +1005,7 @@
       "c": "B",
       "d": "None of these"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 85,
@@ -1017,7 +1017,7 @@
       "c": "None of these",
       "d": "F"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 86,
@@ -1029,7 +1029,7 @@
       "c": "1800",
       "d": "2700"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 87,
@@ -1041,7 +1041,7 @@
       "c": "13 4/11",
       "d": "16 4/11"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 88,
@@ -1053,7 +1053,7 @@
       "c": "B",
       "d": "C"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 89,
@@ -1065,7 +1065,7 @@
       "c": "60",
       "d": "50"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 90,
@@ -1077,7 +1077,7 @@
       "c": "123",
       "d": "305"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 91,
@@ -1089,7 +1089,7 @@
       "c": "0 and 65535",
       "d": "-32768 and 32767"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 92,
@@ -1101,7 +1101,7 @@
       "c": "2",
       "d": "3"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 93,
@@ -1113,7 +1113,7 @@
       "c": "XY'",
       "d": "X'Y'"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 94,
@@ -1125,7 +1125,7 @@
       "c": "d < n log₁₀ 2",
       "d": "d > n log₁₀ 2"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 95,
@@ -1137,7 +1137,7 @@
       "c": "1.00 × 10⁻¹⁰ sec",
       "d": "None of the above"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 96,
@@ -1149,7 +1149,7 @@
       "c": "A + D",
       "d": "A + C"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 97,
@@ -1161,7 +1161,7 @@
       "c": "32k",
       "d": "16k"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 98,
@@ -1173,7 +1173,7 @@
       "c": "Real Numbers",
       "d": "Boolean Values"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 99,
@@ -1185,7 +1185,7 @@
       "c": "C",
       "d": "B"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 100,
@@ -1197,7 +1197,7 @@
       "c": "OR",
       "d": "NAND"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 101,
@@ -1209,7 +1209,7 @@
       "c": "Bohemian",
       "d": "Cynic"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 102,
@@ -1221,7 +1221,7 @@
       "c": "to become mad",
       "d": "to accept something that is difficult or unpleasant"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 103,
@@ -1233,7 +1233,7 @@
       "c": "Figurative",
       "d": "Factual"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 104,
@@ -1245,7 +1245,7 @@
       "c": "a, the",
       "d": "an, the"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 105,
@@ -1257,7 +1257,7 @@
       "c": "has been guiding",
       "d": "guided"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 106,
@@ -1269,7 +1269,7 @@
       "c": "attend",
       "d": "are attending"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 107,
@@ -1281,7 +1281,7 @@
       "c": "path before paving",
       "d": "path paved"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 108,
@@ -1293,7 +1293,7 @@
       "c": "Future AI will allow us to share our experiences with realistic virtual characters",
       "d": "VR applications takes control of the user's senses"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 109,
@@ -1305,7 +1305,7 @@
       "c": "To fall down",
       "d": "To meet with an accident"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 110,
@@ -1317,7 +1317,7 @@
       "c": "Curtail",
       "d": "Inflate"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 111,
@@ -1329,7 +1329,7 @@
       "c": "Perverse",
       "d": "Persiflage"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 112,
@@ -1341,7 +1341,7 @@
       "c": "of",
       "d": "on"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 113,
@@ -1353,7 +1353,7 @@
       "c": "Timid",
       "d": "Nervous"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 114,
@@ -1365,7 +1365,7 @@
       "c": "He asked he is glad to be here this evening",
       "d": "He said that he was glad to be there that evening"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 115,
@@ -1377,7 +1377,7 @@
       "c": "Slanderous",
       "d": "Derogatory"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 116,
@@ -1389,7 +1389,7 @@
       "c": "addict of smoking",
       "d": "addicted to smoking"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 117,
@@ -1401,7 +1401,7 @@
       "c": "At",
       "d": "Out"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 118,
@@ -1413,7 +1413,7 @@
       "c": "him a lesson",
       "d": "No error"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 119,
@@ -1425,7 +1425,7 @@
       "c": "Reactionary",
       "d": "Affectionate"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 120,
@@ -1437,6 +1437,6 @@
       "c": "am",
       "d": "are"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   }
 ]

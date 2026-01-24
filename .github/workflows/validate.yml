@@ -1,26 +1,33 @@
-name: Validate Data
+name: Data Integrity & Validation
 
+# Trigger the workflow on push or pull request to main
 on:
   push:
-    branches: [ main ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ main ]
+    branches: [ "main" ]
 
 jobs:
-  validate:
+  validate-json-database:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    # 1. Check out the code from the repository
+    - name: Checkout code
+      uses: actions/checkout@v4
 
-    - name: Use Node.js
-      uses: actions/setup-node@v3
+    # 2. Install Node.js environment
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
       with:
-        node-version: '18.x'
+        node-version: '20'
         cache: 'npm'
 
-    - name: Install dependencies
-      run: npm ci
+    # 3. Install TypeScript and dependencies
+    - name: Install Dependencies
+      run: npm install
 
-    - name: Run Validation
+    # 4. Run the Validation Script
+    # If validate.ts triggers process.exit(1), this step fails
+    - name: Run Validation Script
       run: npm run validate

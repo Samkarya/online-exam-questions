@@ -1,102 +1,131 @@
 import fs from 'fs';
 import path from 'path';
 import { ConfigSchema, ExamSchema, AIConfigSchema, BlogIndexSchema } from './schemas';
-import { AIConfig } from './types';
+import { AIConfig, Config, Question, BlogIndex } from './types';
 
 const CONFIG_PATH = path.join(__dirname, '../config.json');
+const AI_CONFIG_PATH = path.join(__dirname, '../ai_generated/config.json');
+const BLOG_INDEX_PATH = path.join(__dirname, '../blog/blog-index.json');
+
+// Helper: Check file existence with case sensitivity (Critical for GitHub Pages/Linux)
+function fileExistsCaseSensitive(filepath: string): boolean {
+    const dir = path.dirname(filepath);
+    const basename = path.basename(filepath);
+    try {
+        const files = fs.readdirSync(dir);
+        return files.includes(basename);
+    } catch (e) {
+        return false;
+    }
+}
 
 async function validate() {
-    console.log('🔍 Starting validation...');
+    console.log('🛡️  Starting System Integrity Check...');
+    let hasError = false;
+    const allExamIds = new Set<string>();
 
-    // 1. Validate config.json
+    // =========================================
+    // 1. Validate Main Config
+    // =========================================
     if (!fs.existsSync(CONFIG_PATH)) {
-        console.error('❌ config.json not found!');
+        console.error('❌ CRITICAL: config.json not found!');
         process.exit(1);
     }
 
-    let configData;
+    let config: Config = [];
     try {
         const rawConfig = fs.readFileSync(CONFIG_PATH, 'utf-8');
-        configData = JSON.parse(rawConfig);
-    } catch (error) {
-        console.error('❌ Failed to parse config.json:', error);
-        process.exit(1);
+        const parsed = JSON.parse(rawConfig);
+        const result = ConfigSchema.safeParse(parsed);
+        if (!result.success) {
+            console.error('❌ config.json Schema Error:', JSON.stringify(result.error.format(), null, 2));
+            hasError = true;
+        } else {
+            config = result.data;
+            console.log(`✅ config.json passed (${config.length} exams).`);
+        }
+    } catch (e) {
+        console.error('❌ config.json Syntax Error:', e);
+        hasError = true;
     }
 
-    const configResult = ConfigSchema.safeParse(configData);
-    if (!configResult.success) {
-        console.error('❌ config.json validation failed:');
-        console.error(JSON.stringify(configResult.error.format(), null, 2));
-        process.exit(1);
-    }
-
-    console.log('✅ config.json is valid.');
-    const config = configResult.data;
-
-    let hasError = false;
-
-    // 2. Validate ai_generated/config.json
-    const AI_CONFIG_PATH = path.join(__dirname, '../ai_generated/config.json');
+    // =========================================
+    // 2. Validate AI Config
+    // =========================================
     let aiConfig: AIConfig = [];
     if (fs.existsSync(AI_CONFIG_PATH)) {
         try {
-            const rawAIConfig = fs.readFileSync(AI_CONFIG_PATH, 'utf-8');
-            const aiConfigData = JSON.parse(rawAIConfig);
-            const aiConfigResult = AIConfigSchema.safeParse(aiConfigData);
-            if (!aiConfigResult.success) {
-                console.error('❌ ai_generated/config.json validation failed:');
-                console.error(JSON.stringify(aiConfigResult.error.format(), null, 2));
+            const rawAI = fs.readFileSync(AI_CONFIG_PATH, 'utf-8');
+            const parsed = JSON.parse(rawAI);
+            const result = AIConfigSchema.safeParse(parsed);
+            if (!result.success) {
+                console.error('❌ ai_generated/config.json Schema Error');
+                // console.error(result.error); // Uncomment for details
                 hasError = true;
             } else {
-                console.log('✅ ai_generated/config.json is valid.');
-                aiConfig = aiConfigResult.data;
+                aiConfig = result.data;
+                console.log(`✅ ai_generated/config.json passed (${aiConfig.length} exams).`);
             }
-        } catch (error) {
-            console.error('❌ Failed to parse ai_generated/config.json:', error);
+        } catch (e) {
+            console.error('❌ ai_generated/config.json Syntax Error');
             hasError = true;
         }
     }
 
-    // 3. Validate blog/blog-index.json
-    const BLOG_INDEX_PATH = path.join(__dirname, '../blog/blog-index.json');
+    // =========================================
+    // 3. Validate Blog Index
+    // =========================================
     if (fs.existsSync(BLOG_INDEX_PATH)) {
         try {
-            const rawBlogIndex = fs.readFileSync(BLOG_INDEX_PATH, 'utf-8');
-            const blogIndexData = JSON.parse(rawBlogIndex);
-            const blogIndexResult = BlogIndexSchema.safeParse(blogIndexData);
-            if (!blogIndexResult.success) {
-                console.error('❌ blog/blog-index.json validation failed:');
-                console.error(JSON.stringify(blogIndexResult.error.format(), null, 2));
+            const rawBlog = fs.readFileSync(BLOG_INDEX_PATH, 'utf-8');
+            const parsed = JSON.parse(rawBlog);
+            const result = BlogIndexSchema.safeParse(parsed);
+            
+            if (!result.success) {
+                console.error('❌ blog-index.json Schema Error');
                 hasError = true;
             } else {
-                console.log('✅ blog/blog-index.json is valid.');
-                const blogIndex = blogIndexResult.data;
+                const blogIndex: BlogIndex = result.data;
+                console.log(`✅ blog-index.json passed (${blogIndex.length} posts).`);
+
+                // Check if linked Markdown files actually exist
                 for (const post of blogIndex) {
-                    const mdPath = path.join(__dirname, '..', post.mdFilePath);
-                    if (!fs.existsSync(mdPath)) {
-                        console.error(`❌ Blog post markdown not found: ${post.mdFilePath}`);
-                        hasError = true;
+                    // Resolve path relative to root
+                    const mdPath = path.join(__dirname, '..', post.mdFilePath); 
+                    if (!fs.existsSync(mdPath) || !fileExistsCaseSensitive(mdPath)) {
+                         console.error(`❌ MISSING BLOG FILE: "${post.mdFilePath}" listed in index but not found.`);
+                         hasError = true;
                     }
                 }
             }
-        } catch (error) {
-            console.error('❌ Failed to parse blog/blog-index.json:', error);
+        } catch (e) {
+            console.error('❌ blog-index.json Syntax Error', e);
             hasError = true;
         }
     }
 
-    // 4. Validate all exam files (Main + AI)
-    // Map entries to include their resolved absolute path
-    const mainExams = config.map(e => ({ entry: e, absolutePath: path.join(__dirname, '..', e.path) }));
-    const aiExams = aiConfig.map(e => ({ entry: e, absolutePath: path.join(__dirname, '../ai_generated', e.path) }));
+    // =========================================
+    // 4. Validate IDs & Exam Files
+    // =========================================
+    const combinedConfigs = [...config.map(c => ({...c, isAI: false})), ...aiConfig.map(c => ({...c, isAI: true}))];
+    
+    // 4.1 Check Duplicate IDs
+    for (const entry of combinedConfigs) {
+        if (allExamIds.has(entry.id)) {
+            console.error(`❌ DUPLICATE ID FOUND: "${entry.id}" is used more than once.`);
+            hasError = true;
+        }
+        allExamIds.add(entry.id);
+    }
 
-    const allExams = [...mainExams, ...aiExams];
+    // 4.2 Deep Exam Content Validation
+    for (const entry of combinedConfigs) {
+        const basePath = entry.isAI ? path.join(__dirname, '../ai_generated') : path.join(__dirname, '..');
+        const examPath = path.join(basePath, entry.path);
 
-    for (const { entry, absolutePath } of allExams) {
-        const examPath = absolutePath;
-
-        if (!fs.existsSync(examPath)) {
-            console.error(`❌ Exam file not found for ID ${entry.id}: ${entry.path} (Resolved: ${examPath})`);
+        // Check File Existence & Case Sensitivity
+        if (!fs.existsSync(examPath) || !fileExistsCaseSensitive(examPath)) {
+            console.error(`❌ FILE ERROR: "${entry.path}" not found or casing mismatch for ID ${entry.id}`);
             hasError = true;
             continue;
         }
@@ -104,37 +133,67 @@ async function validate() {
         try {
             const rawExam = fs.readFileSync(examPath, 'utf-8');
             const examData = JSON.parse(rawExam);
+            const result = ExamSchema.safeParse(examData);
 
-            const examResult = ExamSchema.safeParse(examData);
-            if (!examResult.success) {
-                console.error(`❌ Validation failed for ${entry.path}:`);
-                // Log first 3 errors to avoid spam
-                console.error(JSON.stringify(examResult.error.issues.slice(0, 3), null, 2));
+            if (!result.success) {
+                console.error(`❌ SCHEMA ERROR in ${entry.path}:`);
+                console.error(JSON.stringify(result.error.issues.slice(0, 2), null, 2)); 
                 hasError = true;
-            } else {
-                // Additional Logic: Check if correct_answer exists in options
-                const exam = examResult.data;
-                for (const q of exam) {
-                    if (!q.options[q.correct_answer.toLowerCase()] && !q.options[q.correct_answer.toUpperCase()] && !q.options[q.correct_answer]) {
-                        console.error(`❌ Logic Error in ${entry.path}, Q${q.question_number}: correct_answer "${q.correct_answer}" not found in options keys [${Object.keys(q.options).join(', ')}]`);
-                        hasError = true;
-                    }
-                }
-                if (!hasError) {
-                    console.log(`✅ ${entry.path} is valid.`);
-                }
+                continue;
             }
-        } catch (error) {
-            console.error(`❌ Failed to parse/read ${entry.path}:`, error);
+
+            // Explicitly use the Question type here
+            const questions: Question[] = result.data;
+            
+            // Check Question Number Sequencing
+            const qNumbers = questions.map(q => q.question_number).sort((a, b) => a - b);
+            const isSequential = qNumbers.every((num, index) => num === index + 1);
+            if (!isSequential) {
+                console.error(`❌ SEQUENCE ERROR: Question numbers in ${entry.path} are not sequential 1..N`);
+                hasError = true;
+            }
+
+            // Check Logic & Assets
+            for (const q of questions) {
+                // Answer Key Logic
+                // Normalize keys to lowercase for comparison
+                const validOptions = Object.keys(q.options).map(k => k.toLowerCase());
+                if (!validOptions.includes(q.correct_answer.toLowerCase())) {
+                    console.error(`❌ LOGIC ERROR (${entry.path}): Q${q.question_number} answer "${q.correct_answer}" not in options [${Object.keys(q.options).join(', ')}]`);
+                    hasError = true;
+                }
+
+                // Image Asset Validation (Regex to find markdown images)
+                const markdownImageRegex = /!\[.*?\]\((.*?)\)/g;
+                const textFields = [q.question_text, q.explanation, ...Object.values(q.options)];
+                
+                textFields.forEach(text => {
+                    if (!text) return;
+                    let match;
+                    while ((match = markdownImageRegex.exec(text)) !== null) {
+                        const imagePath = match[1];
+                        if (imagePath.startsWith('http')) continue; // Skip external URLs
+
+                        const absoluteImagePath = path.join(__dirname, '..', imagePath);
+                        if (!fs.existsSync(absoluteImagePath)) {
+                            console.error(`❌ MISSING ASSET (${entry.path}): Q${q.question_number} references "${imagePath}" which does not exist.`);
+                            hasError = true;
+                        }
+                    }
+                });
+            }
+
+        } catch (e) {
+            console.error(`❌ JSON PARSE ERROR in ${entry.path}:`, e);
             hasError = true;
         }
     }
 
     if (hasError) {
-        console.error('🚨 Validation failed with errors.');
+        console.error('\n💥 VALIDATION FAILED. Fix errors before pushing.');
         process.exit(1);
     } else {
-        console.log('🎉 All validations passed!');
+        console.log('\n✨ All Systems Operational. Ready for Deployment.');
     }
 }
 

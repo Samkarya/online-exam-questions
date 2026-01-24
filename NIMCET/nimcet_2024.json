@@ -9,7 +9,7 @@
       "c": "4",
       "d": "infinite"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 2,
@@ -21,7 +21,7 @@
       "c": "f(x) has a local maximum at x = π, but it is not the global maximum.",
       "d": "f(x) has a global maximum at x = 0."
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 3,
@@ -33,7 +33,7 @@
       "c": "c < 2(a – b)",
       "d": "c < 2/(a-c)"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 4,
@@ -45,7 +45,7 @@
       "c": "3",
       "d": "4"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 5,
@@ -57,7 +57,7 @@
       "c": "1/2",
       "d": "1/3"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 6,
@@ -69,7 +69,7 @@
       "c": "f(x) is differentiable at x = 0 and f'(0) = -π/2",
       "d": "None of these"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 7,
@@ -81,7 +81,7 @@
       "c": "f has a point of inflection at x = 0",
       "d": "f has a point of inflection at x = 6"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 8,
@@ -93,7 +93,7 @@
       "c": "source field",
       "d": "None of these"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 9,
@@ -105,7 +105,7 @@
       "c": "|AA^-1| = 1",
       "d": "|A adj(A)| ≠ 1"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 10,
@@ -117,7 +117,7 @@
       "c": "(3!)^(1/4)",
       "d": "(4!)^(1/4)"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 11,
@@ -129,7 +129,7 @@
       "c": "2",
       "d": "4"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 12,
@@ -141,7 +141,7 @@
       "c": "1",
       "d": "-1"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 13,
@@ -153,7 +153,7 @@
       "c": "λ = 2, μ = 5",
       "d": "μ ≠ 5"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 14,
@@ -165,7 +165,7 @@
       "c": "0",
       "d": "-1"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 15,
@@ -177,7 +177,7 @@
       "c": "a > 0",
       "d": "-1 < a < 1"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 16,
@@ -189,7 +189,7 @@
       "c": "1/8",
       "d": "3/8"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 17,
@@ -201,7 +201,7 @@
       "c": "0.321",
       "d": "0.234"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 18,
@@ -213,7 +213,7 @@
       "c": "3",
       "d": "4"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 19,
@@ -225,7 +225,7 @@
       "c": "2",
       "d": "infinite"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 20,
@@ -237,7 +237,7 @@
       "c": "1",
       "d": "2"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 21,
@@ -249,7 +249,7 @@
       "c": "nπ",
       "d": "2nπ"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 22,
@@ -261,7 +261,7 @@
       "c": "26",
       "d": "27"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 23,
@@ -273,7 +273,7 @@
       "c": "-3 and 3",
       "d": "-1 and 1"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 24,
@@ -285,7 +285,7 @@
       "c": "10",
       "d": "9"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 25,
@@ -297,7 +297,7 @@
       "c": "p + q",
       "d": "(p + q + a) / a"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 26,
@@ -309,7 +309,7 @@
       "c": "175",
       "d": "85"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 27,
@@ -321,7 +321,7 @@
       "c": "3,9",
       "d": "9,8"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 28,
@@ -333,7 +333,7 @@
       "c": "(1/√2)(î-7ĵ)",
       "d": "(1/√2)(-î+7ĵ)"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 29,
@@ -345,7 +345,7 @@
       "c": "on the same side of the line 2x + 3y = -6",
       "d": "on the opposite side of the line 2x + 3y = -6"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 30,
@@ -357,7 +357,7 @@
       "c": "√17 / 18",
       "d": "√17 / 9"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 31,
@@ -369,7 +369,7 @@
       "c": "e^(-1)",
       "d": "2e^(-1)"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 32,
@@ -381,7 +381,7 @@
       "c": "25 * C(9, 5)",
       "d": "4 * C(9, 5)"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 33,
@@ -393,7 +393,7 @@
       "c": "2/3",
       "d": "4/9"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 34,
@@ -405,7 +405,7 @@
       "c": "16",
       "d": "24"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 35,
@@ -417,7 +417,7 @@
       "c": "-6 and -35",
       "d": "-6 and 1"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 36,
@@ -429,7 +429,7 @@
       "c": "60√2 J",
       "d": "60 J"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 37,
@@ -441,7 +441,7 @@
       "c": "4/1155",
       "d": "4/25"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 38,
@@ -453,7 +453,7 @@
       "c": "-1",
       "d": "1"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 39,
@@ -465,7 +465,7 @@
       "c": "f'(x) is not continuous at x = 0",
       "d": "f'(x) is continuous at x = 0"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 40,
@@ -477,7 +477,7 @@
       "c": "If f is continuous on [a, b], then d/dx(∫[a to x] f(t)dt) = f(x)",
       "d": "Both (a) and (b)"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 41,
@@ -489,7 +489,7 @@
       "c": "at least 1",
       "d": "at least 2"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 42,
@@ -501,7 +501,7 @@
       "c": "2^n - 1",
       "d": "2^(2n) - 1"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 43,
@@ -513,7 +513,7 @@
       "c": "243",
       "d": "None of the above"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 44,
@@ -525,7 +525,7 @@
       "c": "36",
       "d": "12"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 45,
@@ -537,7 +537,7 @@
       "c": "3.4341 × 10^3 J",
       "d": "3.4341 × 10^4 J"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 46,
@@ -549,7 +549,7 @@
       "c": "(c-d)(3e+2) / (c^2-d^2)",
       "d": "(c-d)(2e+1) / (c^2-d^2)"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 47,
@@ -561,7 +561,7 @@
       "c": "a hyperbola",
       "d": "a parabola"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 48,
@@ -573,7 +573,7 @@
       "c": "P(A) + P(B) + 2P(A ∩ B)",
       "d": "P(A) + P(B) – 2P(A ∩ B)"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 49,
@@ -585,7 +585,7 @@
       "c": "3",
       "d": "6"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 50,
@@ -597,7 +597,7 @@
       "c": "1/3",
       "d": "0"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 51,
@@ -609,7 +609,7 @@
       "c": "(1,5), (10,8)",
       "d": "(4,2), (7,8)"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 52,
@@ -621,7 +621,7 @@
       "c": "If Rakesh's dog barks three times, then Rajesh will not go to the concert",
       "d": "If Rajesh doesn't go to the concert, then Rakesh will go"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 53,
@@ -633,7 +633,7 @@
       "c": "Highest education",
       "d": "Age"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 54,
@@ -645,7 +645,7 @@
       "c": "His uncle",
       "d": "Himself"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 55,
@@ -657,7 +657,7 @@
       "c": "R",
       "d": "S"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 56,
@@ -669,7 +669,7 @@
       "c": "G",
       "d": "F"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 57,
@@ -681,7 +681,7 @@
       "c": "72: 24",
       "d": "45: 5"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 58,
@@ -693,7 +693,7 @@
       "c": "Milk : Butter",
       "d": "Water : Glass"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 59,
@@ -705,7 +705,7 @@
       "c": "19 min",
       "d": "20 min"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 60,
@@ -717,7 +717,7 @@
       "c": "3,1,2,5,4",
       "d": "3,1,2,4,5"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 61,
@@ -729,7 +729,7 @@
       "c": "BDF",
       "d": "FDA"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 62,
@@ -741,7 +741,7 @@
       "c": "OLT",
       "d": "NKS"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 63,
@@ -753,7 +753,7 @@
       "c": "35 km",
       "d": "30 km"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 64,
@@ -765,7 +765,7 @@
       "c": "30.33%",
       "d": "28%"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 65,
@@ -777,7 +777,7 @@
       "c": "Only conclusion 1 follows",
       "d": "Only conclusions 1 and 2 follows"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 66,
@@ -789,7 +789,7 @@
       "c": "1944",
       "d": "1954"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 67,
@@ -801,7 +801,7 @@
       "c": "C only",
       "d": "B only"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 68,
@@ -813,7 +813,7 @@
       "c": "65",
       "d": "55"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 69,
@@ -825,7 +825,7 @@
       "c": "4",
       "d": "9"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 70,
@@ -837,7 +837,7 @@
       "c": "(n+1)/2",
       "d": "(n-1)/2"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 71,
@@ -849,7 +849,7 @@
       "c": "Only people on teams can have reversible t-shirts.",
       "d": "Teams that have 13 players have reversible t-shirts."
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 72,
@@ -861,7 +861,7 @@
       "c": "B, T",
       "d": "N, B"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 73,
@@ -873,7 +873,7 @@
       "c": "Choose this option if the question can be answered by using either statement alone.",
       "d": "Choose this option if the question cannot be answered even by using both the statement together."
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 74,
@@ -885,7 +885,7 @@
       "c": "Aditi, orange juice",
       "d": "Chandan, lemonade"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 75,
@@ -897,7 +897,7 @@
       "c": "ABC",
       "d": "BCA"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 76,
@@ -909,7 +909,7 @@
       "c": "72%",
       "d": "65%"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 77,
@@ -921,7 +921,7 @@
       "c": "Speed",
       "d": "Direction"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 78,
@@ -933,7 +933,7 @@
       "c": "compliment",
       "d": "complete"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 79,
@@ -945,7 +945,7 @@
       "c": "5.69%",
       "d": "6.1%"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 80,
@@ -957,7 +957,7 @@
       "c": "60",
       "d": "65"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 81,
@@ -969,7 +969,7 @@
       "c": "Saturday",
       "d": "Sunday"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 82,
@@ -981,7 +981,7 @@
       "c": "50",
       "d": "99"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 83,
@@ -993,7 +993,7 @@
       "c": "2:43 7/11 PM",
       "d": "2:43 9/11 PM"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 84,
@@ -1005,7 +1005,7 @@
       "c": "Teacher",
       "d": "Engineer"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 85,
@@ -1017,7 +1017,7 @@
       "c": "Nexon",
       "d": "Data inadequate"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 86,
@@ -1029,7 +1029,7 @@
       "c": "GEF",
       "d": "GBF"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 87,
@@ -1041,7 +1041,7 @@
       "c": "None of these",
       "d": "-17"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 88,
@@ -1053,7 +1053,7 @@
       "c": "None of these",
       "d": "-20"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 89,
@@ -1065,7 +1065,7 @@
       "c": "15",
       "d": "17"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 90,
@@ -1077,7 +1077,7 @@
       "c": "-8",
       "d": "-6"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 91,
@@ -1089,7 +1089,7 @@
       "c": "111001",
       "d": "101011"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 92,
@@ -1101,7 +1101,7 @@
       "c": "a sum of product Boolean expression",
       "d": "all of the options"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 93,
@@ -1113,7 +1113,7 @@
       "c": "branch interface",
       "d": "DDA"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 94,
@@ -1125,7 +1125,7 @@
       "c": "CPU and RAM",
       "d": "RAM and ROM"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 95,
@@ -1137,7 +1137,7 @@
       "c": "13 bit",
       "d": "15 bit"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 96,
@@ -1149,7 +1149,7 @@
       "c": "PQ + QR",
       "d": "(P+Q)R"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 97,
@@ -1161,7 +1161,7 @@
       "c": "to provide additional storage space when the main memory is full.",
       "d": "to manage input and output operations between the CPU and peripherals."
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 98,
@@ -1173,7 +1173,7 @@
       "c": "5",
       "d": "3"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 99,
@@ -1185,7 +1185,7 @@
       "c": "KB",
       "d": "Nibble"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 100,
@@ -1197,7 +1197,7 @@
       "c": "0001 and an overflow",
       "d": "1001 and no overflow"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 101,
@@ -1209,7 +1209,7 @@
       "c": "64",
       "d": "8"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 102,
@@ -1221,7 +1221,7 @@
       "c": "11111110",
       "d": "00000000"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 103,
@@ -1233,7 +1233,7 @@
       "c": "F = x'yz' + xy'z + xyz",
       "d": "None of these"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 104,
@@ -1245,7 +1245,7 @@
       "c": "12",
       "d": "9"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 105,
@@ -1257,7 +1257,7 @@
       "c": "Source operand",
       "d": "Destination operand"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 106,
@@ -1269,7 +1269,7 @@
       "c": "−1022 ≤ E ≤ 1023",
       "d": "−1023 ≤ E ≤ 1023"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 107,
@@ -1281,7 +1281,7 @@
       "c": "memory data register",
       "d": "instruction registers"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 108,
@@ -1293,7 +1293,7 @@
       "c": "11",
       "d": "1"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 109,
@@ -1305,7 +1305,7 @@
       "c": "Amount of RAM",
       "d": "Clock speed"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 110,
@@ -1317,7 +1317,7 @@
       "c": "-25, -9 and -57 respectively",
       "d": "25, 9 and 57, respectively"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 111,
@@ -1329,7 +1329,7 @@
       "c": "Continue",
       "d": "Rescue"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 112,
@@ -1341,7 +1341,7 @@
       "c": "Modest",
       "d": "Unassuming"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 113,
@@ -1353,7 +1353,7 @@
       "c": "comprehensible",
       "d": "Opaque"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 114,
@@ -1365,7 +1365,7 @@
       "c": "on, from",
       "d": "off, in"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   },
   {
     "question_number": 115,
@@ -1377,7 +1377,7 @@
       "c": "She arrived to the party at 8 pm.",
       "d": "They were surprised of the sudden announcement"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 116,
@@ -1389,7 +1389,7 @@
       "c": "Merciful",
       "d": "Gentle"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 117,
@@ -1401,7 +1401,7 @@
       "c": "Did you invited by Alice?",
       "d": "Were you invited by Alice?"
     },
-    "correct_answer": "D"
+    "correct_answer": "d"
   },
   {
     "question_number": 118,
@@ -1413,7 +1413,7 @@
       "c": "Exponential",
       "d": "Stagnant"
     },
-    "correct_answer": "C"
+    "correct_answer": "c"
   },
   {
     "question_number": 119,
@@ -1425,7 +1425,7 @@
       "c": "To criticize something unfairly",
       "d": "To join a popular trend or activity"
     },
-    "correct_answer": "A"
+    "correct_answer": "a"
   },
   {
     "question_number": 120,
@@ -1437,6 +1437,6 @@
       "c": "Anecdotes and personal opinions",
       "d": "Emotional appeals"
     },
-    "correct_answer": "B"
+    "correct_answer": "b"
   }
 ]
