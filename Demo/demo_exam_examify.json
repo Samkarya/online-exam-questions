@@ -1,152 +1,152 @@
 [
   {
     "question_number": 1,
-    "subject": "Mathematics",
-    "topic": "Algebra - Quadratic Equations",
-    "question_text": "The solutions to the quadratic equation $ax^2 + bx + c = 0$ (where $a \\neq 0$) are given by the quadratic formula. Which of the following represents the correct formula?",
+    "subject": "Intro",
+    "topic": "Welcome to Examify",
+    "question_text": "Welcome to the **Examify Demo Exam**! \n\nThis exam is designed to demonstrate the capabilities of the Examify platform, including:\n*   Rich Markdown Rendering\n*   Performance Tracking\n*   Custom Exam Creation\n\nAre you ready to explore these features?",
     "options": {
-      "a": "$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2c}$",
-      "b": "$x = \\frac{b \\pm \\sqrt{b^2 - 4ac}}{2a}$",
-      "c": "$x = \\frac{-b \\pm \\sqrt{b^2 + 4ac}}{2a}$",
-      "d": "$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$"
+      "a": "Yes, let's start!",
+      "b": "No, take me back.",
+      "c": "Maybe later.",
+      "d": "I'm just browsing."
     },
-    "correct_answer": "d",
-    "explanation": "The standard quadratic formula is derived by completing the square and is correctly stated as:\n\n$$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$$\n\nKey components are the numerator starting with -b, the discriminant $\\sqrt{b^2 - 4ac}$, and the denominator $2a$. Option (d) matches this formula exactly.",
+    "correct_answer": "a",
+    "explanation": "Great! Let's dive in. This exam will walk you through the core features of Examify. Note how typical questions look and feel.",
     "difficulty": "Easy"
   },
   {
     "question_number": 2,
-    "subject": "Chemistry",
-    "topic": "Chemical Equations & Stoichiometry",
-    "question_text": "Balance the following chemical equation representing the combustion of methane (CH₄):\n\n$$CH_4 + O_2 \\rightarrow CO_2 + H_2O$$",
+    "subject": "Mathematics",
+    "topic": "Calculus - Integration (MathJax)",
+    "question_text": "Examify supports **MathJax** for rendering complex mathematical equations. \n\nEvaluate the following integral:\n\n$$ \\int_{0}^{\\pi} \\sin(x) \\, dx $$",
     "options": {
-      "a": "$CH_4 + O_2 \\rightarrow CO_2 + H_2O$",
-      "b": "$CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O$",
-      "c": "$2CH_4 + 3O_2 \\rightarrow 2CO_2 + 4H_2O$",
-      "d": "$CH_4 + O_2 \\rightarrow CO_2 + 2H_2O$"
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "$\\pi$"
     },
-    "correct_answer": "b",
-    "explanation": "To balance the equation for the combustion of methane ($CH_4$):\n1. **Carbon (C):** 1 atom in $CH_4$ and 1 in $CO_2$.\n2. **Hydrogen (H):** 4 atoms in $CH_4$ require 2 molecules of $H_2O$ (each has 2 H atoms).\n3. **Oxygen (O):** 2 oxygen atoms in $O_2$ must supply 2 in $CO_2$ plus 2 (from 2 molecules of $H_2O$), so place a coefficient of 2 in front of $O_2$.\n\nThe final balanced equation is:\n\n$$CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O$$",
+    "correct_answer": "c",
+    "explanation": "The integral of $\\sin(x)$ is $-\\cos(x)$.\n\nEvaluating from $0$ to $\\pi$:\n$$ [-\\cos(x)]_{0}^{\\pi} = (-\\cos(\\pi)) - (-\\cos(0)) $$\n$$ = (-(-1)) - (-1) = 1 + 1 = 2 $$",
     "difficulty": "Medium"
   },
   {
     "question_number": 3,
-    "subject": "Physics",
-    "topic": "Kinematics",
-    "question_text": "The diagram below shows a velocity-time graph for an object in motion.\n\n![Velocity-Time Graph](https://upload.wikimedia.org/wikipedia/commons/2/2d/Velocity_vs_time_graph.PNG)\n\nWhat physical quantity is represented by the shaded area under the curve between $t=0$ and $t=t_1$?",
+    "subject": "CS - Python",
+    "topic": "Code Syntax Highlighting",
+    "question_text": "We also support **Syntax Highlighting** for code blocks. \n\nWhat is the output of this Python snippets?\n\n```python\ndef greet(name):\n    return f\"Hello, {name}!\"\n\nprint(greet(\"Examify\"))\n```",
     "options": {
-      "a": "Average acceleration",
-      "b": "Total displacement",
-      "c": "Instantaneous velocity at $t_1$",
-      "d": "Total distance travelled"
+      "a": "Hello, Examify!",
+      "b": "Hello, name!",
+      "c": "Error: undefined function",
+      "d": "greet(\"Examify\")"
     },
-    "correct_answer": "b",
-    "explanation": "The area under a velocity-time graph represents the displacement of the object during that time interval. For constant velocity $v$, the displacement is given by $\\Delta x = v \\times \\Delta t$. For varying velocity, the area represents the integral $\\int v(t)\\,dt$, which calculates the total displacement.",
+    "correct_answer": "a",
+    "explanation": "The code defines a function `greet` that takes a name and returns a formatted string. Calling `greet(\"Examify\")` returns `\"Hello, Examify!\"`, which is then printed.",
     "difficulty": "Easy"
   },
   {
     "question_number": 4,
-    "subject": "Biology",
-    "topic": "Cell Structure",
-    "question_text": "Which of the following images best represents a typical animal cell?",
+    "subject": "General",
+    "topic": "Rich Text - Tables",
+    "question_text": "Markdown tables are perfect for structured data. \n\nBased on the table below, which Fruit has the color 'Red'?\n\n| Fruit  | Color  | Taste |\n|:-------|:-------|:------|\n| Apple  | Red    | Sweet |\n| Banana | Yellow | Sweet |\n| Lemon  | Yellow | Sour  |",
     "options": {
-      "a": "Option A ![Diagram of a Plant Cell](https://upload.wikimedia.org/wikipedia/commons/0/08/Plant_cell_structure.png)",
-      "b": "Option B ![Diagram of an Animal Cell](https://upload.wikimedia.org/wikipedia/commons/b/b1/Animal_cell_diagram.png)",
-      "c": "Option C ![Diagram of a Bacterial Cell](https://upload.wikimedia.org/wikipedia/commons/6/6c/Bacterial_cell_structure.png)",
-      "d": "Option D ![Diagram of a Neuron](https://upload.wikimedia.org/wikipedia/commons/9/94/Example_of_a_neuron.png)"
+      "a": "Banana",
+      "b": "Lemon",
+      "c": "Apple",
+      "d": "None"
     },
-    "correct_answer": "b",
-    "explanation": "Option B correctly depicts a typical animal cell, which includes a cell membrane, nucleus, cytoplasm, and organelles like mitochondria. It does not show a cell wall or a large central vacuole, which are features of plant cells (as seen in Option A). Option C illustrates a prokaryotic bacterial cell, and Option D shows a specialized nerve cell (neuron).",
+    "correct_answer": "c",
+    "explanation": "Looking at the table row for **Apple**, the Color column clearly states **Red**.",
     "difficulty": "Easy"
   },
   {
     "question_number": 5,
-    "subject": "Computer Science",
-    "topic": "Programming Basics (Python)",
-    "question_text": "What will be the output of the following Python code snippet?\n\n```python\ndef modify_list(data):\n    data.append(4)\n    return len(data)\n\nmy_list = [1, 2, 3]\nlength = modify_list(my_list)\n\nprint(length)\nprint(my_list)\n```",
+    "subject": "Examify Features",
+    "topic": "Performance Tracking - Scoring",
+    "question_text": "**How is your score calculated?**\n\nExamify tracks your performance in real-time. In this specific demo exam, the settings are:\n*   **Correct Answer**: +4 marks\n*   **Incorrect Answer**: -1 mark\n\nIf you answer this question correctly, what happens?",
     "options": {
-      "a": "3\n[1, 2, 3]",
-      "b": "4\n[1, 2, 3, 4]",
-      "c": "4\n[1, 2, 3]",
-      "d": "3\n[1, 2, 3, 4]"
+      "a": "I get 1 point.",
+      "b": "I get 4 marks added to my score.",
+      "c": "I lose 1 mark.",
+      "d": "Nothing happens."
     },
     "correct_answer": "b",
-    "explanation": "Python lists are mutable objects. The list `my_list` is passed by reference to the function `modify_list`, which appends the number 4 to it. Consequently, the list is modified to `[1, 2, 3, 4]`, and the function returns the new length of 4. The output is first the length `4` and then the modified list `[1, 2, 3, 4]`.",
-    "difficulty": "Medium"
+    "explanation": "Correct! In this positive marking scheme, a correct answer awards you full marks (+4). Watch out for negative marking on incorrect guesses!",
+    "difficulty": "Easy"
   },
   {
     "question_number": 6,
-    "subject": "Physics",
-    "topic": "Optics",
-    "question_text": "The diagram shows the path of a light ray passing through a glass prism.\n\n![Light passing through a prism](https://upload.wikimedia.org/wikipedia/commons/0/06/Prism_rainbow_schema.png)\n\nWhat phenomenon is primarily responsible for the separation of white light into different colors (dispersion) as shown?",
+    "subject": "Examify Features",
+    "topic": "Performance Tracking - Unattempted",
+    "question_text": "**What about skipped questions?**\n\nIf you choose not to answer a question (leave it 'Unattempted'), how does it affect your score?",
     "options": {
-      "a": "Reflection",
-      "b": "Diffraction",
-      "c": "Refraction at different angles for different wavelengths",
-      "d": "Total Internal Reflection"
+      "a": "It counts as incorrect (-1).",
+      "b": "It awards partial points (+1).",
+      "c": "No marks are added or deducted (0 change).",
+      "d": "The exam cannot be submitted."
     },
     "correct_answer": "c",
-    "explanation": "Dispersion occurs because the refractive index of a material varies with the wavelength of light. In a prism, shorter wavelengths (blue/violet) are refracted more than longer wavelengths (red) due to this variation. According to Snell's Law ($n_1\\sin\\theta_1 = n_2\\sin\\theta_2$), the light bends at different angles, causing separation into a spectrum. An additional diagram illustrating Snell's Law is provided below:\n\n![Snell's Law Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Snells_law2.svg/300px-Snells_law2.svg.png)",
+    "explanation": "Unattempted questions typically result in **0** marks. It is often a strategic choice to skip a question if you are unsure, to avoid the penalty of negative marking.",
     "difficulty": "Medium"
   },
   {
     "question_number": 7,
-    "subject": "Chemistry",
-    "topic": "Organic Chemistry - Functional Groups",
-    "question_text": "Identify the functional group present in the molecule shown below:",
+    "subject": "Examify Features",
+    "topic": "Custom Exams - Format",
+    "question_text": "**Create Your Own Exams!**\n\nExamify allows you to upload your own exams. What file format must your custom exam be in?",
     "options": {
-      "a": "An Ether ![Image showing Ethanol (Alcohol)](https://upload.wikimedia.org/wikipedia/commons/e/e8/Ethanol-structure.svg)",
-      "b": "An Ester ![Image showing Ethyl Acetate (Ester)](https://upload.wikimedia.org/wikipedia/commons/c/c9/Ethyl-acetate-2D-skeletal.svg)",
-      "c": "A Carboxylic Acid ![Image showing Acetic Acid (Carboxylic Acid)](https://upload.wikimedia.org/wikipedia/commons/e/e9/Acetic_acid_200.svg)",
-      "d": "An Amine ![Image showing Ethylamine (Amine)](https://upload.wikimedia.org/wikipedia/commons/3/3e/Ethylamine-2D-skeletal.png)"
+      "a": ".docx (Word Document)",
+      "b": ".pdf (PDF Document)",
+      "c": ".json (JavaScript Object Notation)",
+      "d": ".txt (Text File)"
     },
     "correct_answer": "c",
-    "explanation": "The image in option (c) represents acetic acid ($CH_3COOH$), which contains the carboxylic acid functional group. This group is characterized by a carbonyl group (C=O) bonded to a hydroxyl group (-OH). The other options represent different functional groups: option (a) depicts an alcohol, option (b) an ester, and option (d) an amine.",
-    "difficulty": "Easy"
+    "explanation": "Examify uses **JSON** files to structure questions. This allows for rich metadata, flexible options, and consistent parsing.",
+    "difficulty": "Medium"
   },
   {
     "question_number": 8,
-    "subject": "Computer Science",
-    "topic": "Programming - Loops & Output",
-    "question_text": "What is the output of the following C++ code?\n\n```cpp\n#include <iostream>\n#include <vector>\n\nint main() {\n    std::vector<int> vec = {10, 20, 30};\n    int sum = 0;\n    for (int val : vec) {\n        sum += val / 10;\n        std::cout << sum << \" \";\n    }\n    std::cout << std::endl;\n    return 0;\n}\n```",
+    "subject": "Examify Features",
+    "topic": "Custom Exams - Schema",
+    "question_text": "When creating a custom JSON exam, which of the following fields is **MANDATORY** for every question object?",
     "options": {
-      "a": "10 20 30 ",
-      "b": "1 2 3 ",
-      "c": "1 3 6 ",
-      "d": "10 30 60 "
+      "a": "difficulty",
+      "b": "explanation",
+      "c": "topic",
+      "d": "question_text"
     },
-    "correct_answer": "c",
-    "explanation": "The code iterates through the vector and performs integer division by 10 on each element, accumulating the sum. For 10, 20, and 30, the operations are:\n- 10 / 10 = 1 → sum becomes 1,\n- 20 / 10 = 2 → sum becomes 1 + 2 = 3,\n- 30 / 10 = 3 → sum becomes 3 + 3 = 6.\nThus, the printed output is: 1 3 6 ",
-    "difficulty": "Medium"
+    "correct_answer": "d",
+    "explanation": "Every question MUST have a `question_text`, `options`, and a `correct_answer`. Fields like `difficulty`, `topic`, and `explanation` are optional but highly recommended for a better experience.",
+    "difficulty": "Hard"
   },
   {
     "question_number": 9,
-    "subject": "Mathematics",
-    "topic": "Calculus - Integration",
-    "question_text": "Evaluate the definite integral: $$ \\int_{0}^{\\pi/2} \\sin(x) \\, dx $$",
+    "subject": "Physics",
+    "topic": "Visual Learning (Images)",
+    "question_text": "Images can be seamlessly integrated into questions. \n\nWhat phenomenon is shown in this image?\n\n![Prism Light Refraction](https://upload.wikimedia.org/wikipedia/commons/0/06/Prism_rainbow_schema.png)",
     "options": {
-      "a": "0",
-      "b": "1",
-      "c": "-1",
-      "d": "$\\pi/2$"
+      "a": "Reflection",
+      "b": "Dispersion",
+      "c": "Diffraction",
+      "d": "Interference"
     },
     "correct_answer": "b",
-    "explanation": "To solve the integral, first find the antiderivative of sin(x), which is -cos(x). Evaluating from 0 to $\\pi/2$ gives:\n\n$$[-\\cos(x)]_{0}^{\\pi/2} = (-\\cos(\\pi/2)) - (-\\cos(0)) = 0 - (-1) = 1.$$",
-    "difficulty": "Medium"
+    "explanation": "This is **Dispersion**. White light separates into its constituent colors (spectrum) when passing through a prism because different wavelengths refract by different amounts.",
+    "difficulty": "Easy"
   },
   {
     "question_number": 10,
-    "subject": "Chemistry",
-    "topic": "Chemical Bonding",
-    "question_text": "Which type of bond involves the sharing of electron pairs between atoms?",
+    "subject": "Physics",
+    "topic": "Complex Explanations",
+    "question_text": "A projectile is fired with an initial velocity $v_0$ at an angle $\\theta$ to the horizontal. Neglecting air resistance, what is the formula for the **maximum height** ($H$) reached?\n\n*Hint: Think about vertical velocity component.*",
     "options": {
-      "a": "Ionic Bond",
-      "b": "Covalent Bond",
-      "c": "Metallic Bond",
-      "d": "Hydrogen Bond"
+      "a": "$H = \\frac{v_0^2 \\sin(2\\theta)}{g}$",
+      "b": "$H = \\frac{v_0 \\sin(\\theta)}{g}$",
+      "c": "$H = \\frac{v_0^2 \\sin^2(\\theta)}{2g}$",
+      "d": "$H = v_0 t + \\frac{1}{2}at^2$"
     },
-    "correct_answer": "b",
-    "explanation": "A covalent bond is formed when two atoms share one or more pairs of electrons. In contrast, an ionic bond involves the transfer of electrons, a metallic bond features delocalized electrons forming a 'sea' around metal ions, and a hydrogen bond is an intermolecular attraction rather than a true chemical bond.",
-    "difficulty": "Easy"
+    "correct_answer": "c",
+    "explanation": "To derive the maximum height:\n\n1.  **Vertical Velocity**: $v_y = v_0 \\sin(\\theta)$\n2.  At max height, final vertical velocity $v_f = 0$.\n3.  Using the kinematic equation $v_f^2 = v_i^2 + 2a d$:\n    *   $0 = (v_0 \\sin(\\theta))^2 - 2gH$\n    *   $2gH = v_0^2 \\sin^2(\\theta)$\n    *   $$H = \\frac{v_0^2 \\sin^2(\\theta)}{2g}$$\n\nOption (a) is the Range, and (b) is the Time of Flight (half).",
+    "difficulty": "Hard"
   }
 ]
