@@ -1,11 +1,169 @@
-[
-  "configs/demo.json",
-  "configs/chemistry.json",
-  "configs/nimcet.json",
-  "configs/ielts.json",
-  "configs/jee.json",
-  "configs/bace.json",
-  "configs/mtel.json",
-  "configs/cat.json",
-  "configs/rrb.json"
-]
+{
+  "demo": {
+    "meta": {
+      "examId": "DEMO",
+      "fullName": "Demo / Playground Exam",
+      "shortName": "Demo",
+      "category": "Demo",
+      "conductingBody": "Examify",
+      "country": "Global",
+      "examType": [
+        "Practice",
+        "Demo"
+      ],
+      "description": "A lightweight example exam used for testing flows, UI, and integrations. Not a real certification.",
+      "officialWebsite": null,
+      "isOfficial": false,
+      "lastUpdated": "2026-02-09"
+    },
+    "path": "configs/demo.json"
+  },
+  "chemistry": {
+    "meta": {
+      "examId": "CHEM_SUBJ",
+      "fullName": "Chemistry — Subject Practice & Board Prep",
+      "shortName": "Chemistry",
+      "category": "Subject",
+      "conductingBody": "Various / Local Boards",
+      "country": "Global",
+      "examType": [
+        "Board Prep",
+        "Subject Practice",
+        "Olympiad Prep"
+      ],
+      "description": "Collection of chemistry practice papers: inorganic, organic, physical chemistry, and board-level questions.",
+      "officialWebsite": null,
+      "isOfficial": false,
+      "lastUpdated": "2026-02-09"
+    },
+    "path": "configs/chemistry.json"
+  },
+  "nimcet": {
+    "meta": {
+      "examId": "NIMCET",
+      "fullName": "NIMCET — NIT MCA Common Entrance Test",
+      "shortName": "NIMCET",
+      "category": "Postgrad Entrance",
+      "conductingBody": "NITs Consortium (various NITs)",
+      "country": "India",
+      "examType": [
+        "Postgraduate Entrance"
+      ],
+      "description": "Entrance exam for MCA programs at participating NITs. Includes mathematics, analytical ability and computer awareness.",
+      "officialWebsite": "https://nimcet.admissions.nic.in/",
+      "isOfficial": false,
+      "lastUpdated": "2026-02-09"
+    },
+    "path": "configs/nimcet.json"
+  },
+  "ielts": {
+    "meta": {
+      "examId": "IELTS",
+      "fullName": "IELTS — International English Language Testing System",
+      "shortName": "IELTS",
+      "category": "Language",
+      "conductingBody": "British Council / IDP / Cambridge",
+      "country": "Global",
+      "examType": [
+        "Language Proficiency"
+      ],
+      "description": "English language proficiency test for academic and immigration purposes. Four modules: Listening, Reading, Writing, Speaking.",
+      "officialWebsite": "https://www.ielts.org",
+      "isOfficial": true,
+      "lastUpdated": "2026-02-09"
+    },
+    "path": "configs/ielts.json"
+  },
+  "jee": {
+    "meta": {
+      "examId": "JEE",
+      "fullName": "JEE — Joint Entrance Examination",
+      "shortName": "JEE",
+      "category": "Undergraduate Entrance",
+      "conductingBody": "NTA / Relevant Authorities",
+      "country": "India",
+      "examType": [
+        "Undergraduate Engineering Entrance"
+      ],
+      "description": "Entrance exam for undergraduate engineering admissions (multiple papers/levels). Covers Physics, Chemistry, Mathematics.",
+      "officialWebsite": "https://jeemain.nta.nic.in/",
+      "isOfficial": true,
+      "lastUpdated": "2026-02-09"
+    },
+    "path": "configs/jee.json"
+  },
+  "bace": {
+    "meta": {
+      "examId": "BACE",
+      "fullName": "Biotechnology Aptitude & Competency Exam",
+      "shortName": "BACE",
+      "category": "Biotechnology",
+      "conductingBody": "Biotility (University of Florida)",
+      "country": "USA",
+      "examType": [
+        "Certification",
+        "Competency-Based",
+        "Industry-Recognized"
+      ],
+      "description": "An industry-recognized credential that assesses core theoretical knowledge and practical laboratory skills for entry-level biotechnology roles.",
+      "officialWebsite": "https://biotility.research.ufl.edu",
+      "isOfficial": false,
+      "lastUpdated": "2024-05-22"
+    },
+    "path": "configs/bace.json"
+  },
+  "mtel": {
+    "meta": {
+      "examId": "MTEL",
+      "fullName": "MTEL — Massachusetts Tests for Educator Licensure",
+      "shortName": "MTEL",
+      "category": "Certification",
+      "conductingBody": "Massachusetts Department of Elementary and Secondary Education",
+      "country": "United States",
+      "examType": [
+        "Teacher Licensure"
+      ],
+      "description": "Licensure tests for prospective teachers in Massachusetts. Covers subject knowledge and pedagogy.",
+      "officialWebsite": "https://www.doe.mass.edu/mtel/",
+      "isOfficial": true,
+      "lastUpdated": "2026-02-09"
+    },
+    "path": "configs/mtel.json"
+  },
+  "cat": {
+    "meta": {
+      "examId": "CAT",
+      "fullName": "CAT — Common Admission Test",
+      "shortName": "CAT",
+      "category": "Management Entrance",
+      "conductingBody": "IIMs (rotating)",
+      "country": "India",
+      "examType": [
+        "Postgraduate Management Entrance"
+      ],
+      "description": "National-level management entrance exam for admission to IIMs and other management programs. Sections commonly include VARC, DILR, and QA.",
+      "officialWebsite": "https://iimcat.ac.in/",
+      "isOfficial": true,
+      "lastUpdated": "2026-02-09"
+    },
+    "path": "configs/cat.json"
+  },
+  "rrb": {
+    "meta": {
+      "examId": "RRB",
+      "fullName": "RRB — Railway Recruitment Board Exams",
+      "shortName": "RRB",
+      "category": "Government Recruitment",
+      "conductingBody": "Railway Recruitment Boards (Regional)",
+      "country": "India",
+      "examType": [
+        "Recruitment"
+      ],
+      "description": "Recruitment exams for technical and non-technical posts in Indian Railways. Multiple streams and regional notifications.",
+      "officialWebsite": null,
+      "isOfficial": true,
+      "lastUpdated": "2026-02-09"
+    },
+    "path": "configs/rrb.json"
+  }
+}
