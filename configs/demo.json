@@ -1,0 +1,16 @@
+[
+    {
+        "id": "demo_exam_examify",
+        "category": "Demo",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Multi-Subject (Mixed)",
+        "title": "Examify Demo Exam 2026",
+        "short_description": "A feature-rich demo exam showcasing Examify's capabilities including multi-subject support and visual content.",
+        "description": "### Welcome to Examify Demo 2026\n\nThis is a curated **demonstration exam** designed to showcase the full capabilities of the Examify platform. \n\n**Features Demonstrated:**\n*   **Rich Media:** Questions containing images, diagrams, and graphs.\n*   **Multi-Subject Support:** A mix of Physics, Coding, and General Knowledge.\n*   **Latex Rendering:** Complex mathematical equations rendered in real-time.\n*   **Detailed Solutions:** Step-by-step explanations for every question.\n\n*Use this to test the UI/UX and answer submission flow.*",
+        "path": "Demo/demo_exam_examify.json",
+        "isOfficial": false
+    }
+]

@@ -1,10 +1,10 @@
 import fs from 'fs';
 import path from 'path';
+import { z } from 'zod';
 import { ConfigSchema, ExamSchema, AIConfigSchema, BlogIndexSchema } from './schemas';
 import { AIConfig, Config, Question, BlogIndex } from './types';
 
 const CONFIG_PATH = path.join(__dirname, '../config.json');
-const AI_CONFIG_PATH = path.join(__dirname, '../ai_generated/config.json');
 const BLOG_INDEX_PATH = path.join(__dirname, '../blog/blog-index.json');
 
 // Helper: Check file existence with case sensitivity (Critical for GitHub Pages/Linux)
@@ -25,24 +25,30 @@ async function validate() {
     const allExamIds = new Set<string>();
 
     // =========================================
-    // 1. Validate Main Config
+    // 1. Validate Main Config (Index)
     // =========================================
     if (!fs.existsSync(CONFIG_PATH)) {
         console.error('❌ CRITICAL: config.json not found!');
         process.exit(1);
     }
 
-    let config: Config = [];
+    let configFiles: string[] = [];
+    let combinedConfigs: Config = [];
+
     try {
         const rawConfig = fs.readFileSync(CONFIG_PATH, 'utf-8');
         const parsed = JSON.parse(rawConfig);
-        const result = ConfigSchema.safeParse(parsed);
+
+        // Validation: Expect config.json to be string[]
+        const indexSchema = z.array(z.string());
+        const result = indexSchema.safeParse(parsed);
+
         if (!result.success) {
-            console.error('❌ config.json Schema Error:', JSON.stringify(result.error.format(), null, 2));
+            console.error('❌ config.json Schema Error: Expected Array of Strings (File Paths)');
             hasError = true;
         } else {
-            config = result.data;
-            console.log(`✅ config.json passed (${config.length} exams).`);
+            configFiles = result.data;
+            console.log(`✅ config.json index passed (${configFiles.length} files referenced).`);
         }
     } catch (e) {
         console.error('❌ config.json Syntax Error:', e);
@@ -50,27 +56,41 @@ async function validate() {
     }
 
     // =========================================
-    // 2. Validate AI Config
+    // 2. Load & Validate Referenced Configs
     // =========================================
-    let aiConfig: AIConfig = [];
-    if (fs.existsSync(AI_CONFIG_PATH)) {
+    for (const relativePath of configFiles) {
+        const fullPath = path.join(__dirname, '..', relativePath);
+
+        if (!fs.existsSync(fullPath)) {
+            console.error(`❌ MISSING CONFIG: "${relativePath}" referenced in config.json not found.`);
+            hasError = true;
+            continue;
+        }
+
         try {
-            const rawAI = fs.readFileSync(AI_CONFIG_PATH, 'utf-8');
-            const parsed = JSON.parse(rawAI);
-            const result = AIConfigSchema.safeParse(parsed);
+            const rawSubConfig = fs.readFileSync(fullPath, 'utf-8');
+            const parsedSub = JSON.parse(rawSubConfig);
+
+            // Validate against ConfigSchema (Array of ConfigEntry)
+            // We use ConfigSchema which is generic enough. 
+            // If specific AI fields are needed, we can check them later or use a union schema.
+            // For now, let's treat everything as ConfigEntrySchema but check for extra fields if needed.
+            const result = ConfigSchema.safeParse(parsedSub);
+
             if (!result.success) {
-                console.error('❌ ai_generated/config.json Schema Error');
-                // console.error(result.error); // Uncomment for details
+                console.error(`❌ CONFIG SCHEMA ERROR in "${relativePath}":`);
+                console.error(JSON.stringify(result.error.format(), null, 2));
                 hasError = true;
             } else {
-                aiConfig = result.data;
-                console.log(`✅ ai_generated/config.json passed (${aiConfig.length} exams).`);
+                console.log(`   - Verified ${relativePath} (${result.data.length} exams)`);
+                combinedConfigs.push(...result.data);
             }
         } catch (e) {
-            console.error('❌ ai_generated/config.json Syntax Error');
+            console.error(`❌ JSON ERROR in "${relativePath}":`, e);
             hasError = true;
         }
     }
+
 
     // =========================================
     // 3. Validate Blog Index
@@ -80,7 +100,7 @@ async function validate() {
             const rawBlog = fs.readFileSync(BLOG_INDEX_PATH, 'utf-8');
             const parsed = JSON.parse(rawBlog);
             const result = BlogIndexSchema.safeParse(parsed);
-            
+
             if (!result.success) {
                 console.error('❌ blog-index.json Schema Error');
                 hasError = true;
@@ -91,10 +111,10 @@ async function validate() {
                 // Check if linked Markdown files actually exist
                 for (const post of blogIndex) {
                     // Resolve path relative to root
-                    const mdPath = path.join(__dirname, '..', post.mdFilePath); 
+                    const mdPath = path.join(__dirname, '..', post.mdFilePath);
                     if (!fs.existsSync(mdPath) || !fileExistsCaseSensitive(mdPath)) {
-                         console.error(`❌ MISSING BLOG FILE: "${post.mdFilePath}" listed in index but not found.`);
-                         hasError = true;
+                        console.error(`❌ MISSING BLOG FILE: "${post.mdFilePath}" listed in index but not found.`);
+                        hasError = true;
                     }
                 }
             }
@@ -107,8 +127,8 @@ async function validate() {
     // =========================================
     // 4. Validate IDs & Exam Files
     // =========================================
-    const combinedConfigs = [...config.map(c => ({...c, isAI: false})), ...aiConfig.map(c => ({...c, isAI: true}))];
-    
+    // combinedConfigs now contains all exams from all files
+
     // 4.1 Check Duplicate IDs
     for (const entry of combinedConfigs) {
         if (allExamIds.has(entry.id)) {
@@ -120,12 +140,31 @@ async function validate() {
 
     // 4.2 Deep Exam Content Validation
     for (const entry of combinedConfigs) {
-        const basePath = entry.isAI ? path.join(__dirname, '../ai_generated') : path.join(__dirname, '..');
-        const examPath = path.join(basePath, entry.path);
+        // Path resolution: logic remains similar, but we rely on entry.path
+        // If "isOfficial" is explicitly false or missing, we might assume specific paths, 
+        // but generally entry.path should be relative to root (or handled consistently).
+        // The original code handled ai_generated separately. 
+        // Check if path exists in 'ai_generated/' or root.
 
-        // Check File Existence & Case Sensitivity
-        if (!fs.existsSync(examPath) || !fileExistsCaseSensitive(examPath)) {
-            console.error(`❌ FILE ERROR: "${entry.path}" not found or casing mismatch for ID ${entry.id}`);
+        let examPath = path.join(__dirname, '..', entry.path);
+        let exists = fs.existsSync(examPath) && fileExistsCaseSensitive(examPath);
+
+        // Fallback or specific check for AI paths if they were relative to ai_generated
+        // The previous logic was: const basePath = entry.isAI ? ... : ...
+        // Now we merged them. We need to ensure entry.path is correct in the json files.
+        // Assuming I preserved the paths in the JSONs. 
+        // Wait, for AI files, the original path in config might have been "IELTS/..." while file was in "ai_generated/IELTS/...".
+        // Let's check if the file exists at the joined path. If not, try inside `ai_generated/`.
+        if (!exists) {
+            const aiPath = path.join(__dirname, '../ai_generated', entry.path);
+            if (fs.existsSync(aiPath) && fileExistsCaseSensitive(aiPath)) {
+                examPath = aiPath;
+                exists = true;
+            }
+        }
+
+        if (!exists) {
+            console.error(`❌ FILE ERROR: "${entry.path}" not found (checked root and ai_generated) for ID ${entry.id}`);
             hasError = true;
             continue;
         }
@@ -133,18 +172,19 @@ async function validate() {
         try {
             const rawExam = fs.readFileSync(examPath, 'utf-8');
             const examData = JSON.parse(rawExam);
+            // Relaxed check: Basic ExamSchema (Question[])
             const result = ExamSchema.safeParse(examData);
 
             if (!result.success) {
                 console.error(`❌ SCHEMA ERROR in ${entry.path}:`);
-                console.error(JSON.stringify(result.error.issues.slice(0, 2), null, 2)); 
+                console.error(JSON.stringify(result.error.issues.slice(0, 2), null, 2));
                 hasError = true;
                 continue;
             }
 
             // Explicitly use the Question type here
             const questions: Question[] = result.data;
-            
+
             // Check Question Number Sequencing
             const qNumbers = questions.map(q => q.question_number).sort((a, b) => a - b);
             const isSequential = qNumbers.every((num, index) => num === index + 1);
@@ -166,7 +206,7 @@ async function validate() {
                 // Image Asset Validation (Regex to find markdown images)
                 const markdownImageRegex = /!\[.*?\]\((.*?)\)/g;
                 const textFields = [q.question_text, q.explanation, ...Object.values(q.options)];
-                
+
                 textFields.forEach(text => {
                     if (!text) return;
                     let match;

@@ -1,0 +1,30 @@
+[
+    {
+        "id": "jeeMain_2025_22Jan_shift1",
+        "category": "JEE Main",
+        "year": 2025,
+        "session": "January",
+        "date": "2025-01-22",
+        "shift": 1,
+        "paperType": "Paper 1 (PCM)",
+        "title": "JEE Main 2025 (Jan 22nd, Shift 1)",
+        "short_description": "JEE Main 2025 Session 1 Morning Shift paper for B.E./B.Tech aspirants, covering Physics, Chemistry, and Math.",
+        "description": "### JEE Main 2025 - Session 1 (Morning Shift)\n\n**Date:** January 22, 2025 | **Shift:** 09:00 AM - 12:00 PM\n**Conducted By:** National Testing Agency (NTA)\n\nThis is the official **Paper 1 (B.E./B.Tech)** question paper containing 90 questions (30 per subject).\n\n**Subject Breakdown:**\n1.  **Physics:** Mechanics, Electrodynamics, Thermodynamics.\n2.  **Chemistry:** Organic, Inorganic, and Physical Chemistry.\n3.  **Mathematics:** Calculus, Coordinate Geometry, Algebra.\n\n> Contains both MCQ and Numerical Value Type questions.",
+        "path": "JEEMains/jeeMain_2025_22Jan_shift1.json",
+        "isOfficial": true
+    },
+    {
+        "id": "jeeMain_2025_22Jan_shift2",
+        "category": "JEE Main",
+        "year": 2025,
+        "session": "January",
+        "date": "2025-01-22",
+        "shift": 2,
+        "paperType": "Paper 1 (PCM)",
+        "title": "JEE Main 2025 (Jan 22nd, Shift 2)",
+        "short_description": "JEE Main 2025 Session 1 Evening Shift paper with MCQs and numerical value questions for engineering entrance.",
+        "description": "### JEE Main 2025 - Session 1 (Evening Shift)\n\n**Date:** January 22, 2025 | **Shift:** 03:00 PM - 06:00 PM\n**Conducted By:** National Testing Agency (NTA)\n\nOfficial question paper for the afternoon session. This paper is crucial for students analyzing shift-wise difficulty variations and normalization trends.\n\n**Paper Structure:**\n*   **Section A:** 20 MCQs per subject.\n*   **Section B:** 10 Numerical Value questions (Attempt any 5).\n\n**Focus Areas:** High-weightage topics including Rotational Motion, Chemical Bonding, and Integral Calculus.",
+        "path": "JEEMains/jeeMain_2025_22Jan_shift2.json",
+        "isOfficial": true
+    }
+]

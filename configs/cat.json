@@ -1,0 +1,44 @@
+[
+    {
+        "id": "cat_2024_slot1_quant",
+        "category": "CAT",
+        "year": 2024,
+        "session": null,
+        "date": null,
+        "shift": 1,
+        "paperType": "Quantitative Aptitude (QA)",
+        "title": "CAT 2024 Question Paper (Slot 1, QA)",
+        "short_description": "CAT 2024 Slot 1 Quantitative Aptitude paper with a focus on Arithmetic and Algebra.",
+        "description": "### CAT 2024 - Slot 1 (Quantitative Aptitude)\n\n**Conducting IIM:** IIM Calcutta\n\nThis module contains the Quantitative Aptitude section from the morning slot of the Common Admission Test 2024. \n\n**Analysis:**\n- **Difficulty Level:** Moderate to Difficult.\n- **Topic Weightage:** High focus on **Arithmetic** (Time & Work, TSD) and **Algebra** (Quadratic equations, Inequalities). \n- Includes both MCQ and TITA (Type In The Answer) questions.",
+        "path": "CAT/cat_2024_slot1_quant.json",
+        "isOfficial": true
+    },
+    {
+        "id": "cat_2024_slot2_quant",
+        "category": "CAT",
+        "year": 2024,
+        "session": null,
+        "date": null,
+        "shift": 2,
+        "paperType": "Quantitative Aptitude (QA)",
+        "title": "CAT 2024 Question Paper (Slot 2, QA)",
+        "short_description": "CAT 2024 Slot 2 Quantitative Aptitude paper emphasizing Geometry, Number Systems, and Modern Math.",
+        "description": "### CAT 2024 - Slot 2 (Quantitative Aptitude)\n\n**Conducting IIM:** IIM Calcutta\n\nThe afternoon slot paper for CAT 2024. This section is known for testing conceptual clarity over calculation speed.\n\n**Key Areas:**\n*   **Geometry & Mensuration:** Triangles, Circles, and Coordinate Geometry.\n*   **Number Systems:** Remainders and factors.\n*   **Modern Math:** Permutations, Combinations, and Probability.\n\n> Perfect for aspirants aiming to practice section-specific time management strategies.",
+        "path": "CAT/cat_2024_slot2_quant.json",
+        "isOfficial": true
+    },
+    {
+        "id": "cat_2024_slot3_quant",
+        "category": "CAT",
+        "year": 2024,
+        "session": null,
+        "date": null,
+        "shift": 3,
+        "paperType": "Quantitative Aptitude (QA)",
+        "title": "CAT 2024 Question Paper (Slot 3, QA)",
+        "short_description": "CAT 2024 Slot 3 Quantitative Aptitude paper featuring complex Arithmetic and Sequence & Series questions.",
+        "description": "### CAT 2024 - Slot 3 (Quantitative Aptitude)\n\n**Conducting IIM:** IIM Calcutta\n\nThe evening slot paper, often considered the 'decider' slot. This dataset allows for a comprehensive review of the hardest questions asked in 2024.\n\n**Highlights:**\n- Tricky wording in **Arithmetic** problems.\n- Complex **Logarithms** and **Sequence & Series** questions.\n- Comparative analysis with Slot 1 and Slot 2 papers.",
+        "path": "CAT/cat_2024_slot3_quant.json",
+        "isOfficial": true
+    }
+]

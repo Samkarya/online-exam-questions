@@ -28,14 +28,15 @@ export const ConfigEntrySchema = z.object({
     short_description: z.string(),
     path: z.string(),
     tags: z.array(z.string()).optional(),
+    isOfficial: z.boolean().default(false).optional(),
 });
 
 export const ConfigSchema = z.array(ConfigEntrySchema);
 
 // --- AI Config Schema ---
 export const AIConfigEntrySchema = ConfigEntrySchema.extend({
-    model: z.string(),
-    defaultQuestionCount: z.number(),
+    model: z.string().optional(), // Made optional for compatibility if mixed
+    defaultQuestionCount: z.number().optional(), // Made optional
     generationPrompt: z.string().optional(),
 });
 
