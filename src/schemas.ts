@@ -54,3 +54,21 @@ export const BlogEntrySchema = z.object({
 });
 
 export const BlogIndexSchema = z.array(BlogEntrySchema);
+
+// --- Root config.json Schema (Registry) ---
+export const RootConfigSchema = z.record(z.string(), z.object({
+    meta: z.object({
+        examId: z.string(),
+        fullName: z.string(),
+        shortName: z.string(),
+        category: z.string(),
+        conductingBody: z.string(),
+        country: z.string(),
+        examType: z.array(z.string()),
+        description: z.string().nullable(),
+        officialWebsite: z.string().nullable(),
+        isOfficial: z.boolean(),
+        lastUpdated: z.string().nullable()
+    }),
+    path: z.string()
+}));

@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { z } from 'zod';
-import { ConfigSchema, ExamSchema, AIConfigSchema, BlogIndexSchema } from './schemas';
+import { ConfigSchema, ExamSchema, AIConfigSchema, BlogIndexSchema, RootConfigSchema } from './schemas';
 import { AIConfig, Config, Question, BlogIndex } from './types';
 
 const CONFIG_PATH = path.join(__dirname, '../config.json');
@@ -39,16 +39,17 @@ async function validate() {
         const rawConfig = fs.readFileSync(CONFIG_PATH, 'utf-8');
         const parsed = JSON.parse(rawConfig);
 
-        // Validation: Expect config.json to be string[]
-        const indexSchema = z.array(z.string());
-        const result = indexSchema.safeParse(parsed);
+        const result = RootConfigSchema.safeParse(parsed);
 
         if (!result.success) {
-            console.error('❌ config.json Schema Error: Expected Array of Strings (File Paths)');
+            console.error('❌ config.json Schema Error: Expected Registry Object (ZodRecord)');
+            console.error(JSON.stringify(result.error.format(), null, 2));
             hasError = true;
         } else {
-            configFiles = result.data;
-            console.log(`✅ config.json index passed (${configFiles.length} files referenced).`);
+            // Extract paths from the registry
+            const registry = result.data;
+            configFiles = Object.values(registry).map(entry => entry.path);
+            console.log(`✅ config.json registry passed (${configFiles.length} category configs referenced).`);
         }
     } catch (e) {
         console.error('❌ config.json Syntax Error:', e);
@@ -71,10 +72,6 @@ async function validate() {
             const rawSubConfig = fs.readFileSync(fullPath, 'utf-8');
             const parsedSub = JSON.parse(rawSubConfig);
 
-            // Validate against ConfigSchema (Array of ConfigEntry)
-            // We use ConfigSchema which is generic enough. 
-            // If specific AI fields are needed, we can check them later or use a union schema.
-            // For now, let's treat everything as ConfigEntrySchema but check for extra fields if needed.
             const result = ConfigSchema.safeParse(parsedSub);
 
             if (!result.success) {
@@ -140,31 +137,12 @@ async function validate() {
 
     // 4.2 Deep Exam Content Validation
     for (const entry of combinedConfigs) {
-        // Path resolution: logic remains similar, but we rely on entry.path
-        // If "isOfficial" is explicitly false or missing, we might assume specific paths, 
-        // but generally entry.path should be relative to root (or handled consistently).
-        // The original code handled ai_generated separately. 
-        // Check if path exists in 'ai_generated/' or root.
 
         let examPath = path.join(__dirname, '..', entry.path);
         let exists = fs.existsSync(examPath) && fileExistsCaseSensitive(examPath);
 
-        // Fallback or specific check for AI paths if they were relative to ai_generated
-        // The previous logic was: const basePath = entry.isAI ? ... : ...
-        // Now we merged them. We need to ensure entry.path is correct in the json files.
-        // Assuming I preserved the paths in the JSONs. 
-        // Wait, for AI files, the original path in config might have been "IELTS/..." while file was in "ai_generated/IELTS/...".
-        // Let's check if the file exists at the joined path. If not, try inside `ai_generated/`.
         if (!exists) {
-            const aiPath = path.join(__dirname, '../ai_generated', entry.path);
-            if (fs.existsSync(aiPath) && fileExistsCaseSensitive(aiPath)) {
-                examPath = aiPath;
-                exists = true;
-            }
-        }
-
-        if (!exists) {
-            console.error(`❌ FILE ERROR: "${entry.path}" not found (checked root and ai_generated) for ID ${entry.id}`);
+            console.error(`❌ FILE ERROR: "${entry.path}" not found for ID ${entry.id}`);
             hasError = true;
             continue;
         }
