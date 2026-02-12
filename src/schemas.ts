@@ -28,14 +28,15 @@ export const ConfigEntrySchema = z.object({
     short_description: z.string(),
     path: z.string(),
     tags: z.array(z.string()).optional(),
+    isOfficial: z.boolean().default(false).optional(),
 });
 
 export const ConfigSchema = z.array(ConfigEntrySchema);
 
 // --- AI Config Schema ---
 export const AIConfigEntrySchema = ConfigEntrySchema.extend({
-    model: z.string(),
-    defaultQuestionCount: z.number(),
+    model: z.string().optional(), // Made optional for compatibility if mixed
+    defaultQuestionCount: z.number().optional(), // Made optional
     generationPrompt: z.string().optional(),
 });
 
@@ -53,3 +54,21 @@ export const BlogEntrySchema = z.object({
 });
 
 export const BlogIndexSchema = z.array(BlogEntrySchema);
+
+// --- Root config.json Schema (Registry) ---
+export const RootConfigSchema = z.record(z.string(), z.object({
+    meta: z.object({
+        examId: z.string(),
+        fullName: z.string(),
+        shortName: z.string(),
+        category: z.string(),
+        conductingBody: z.string(),
+        country: z.string(),
+        examType: z.array(z.string()),
+        description: z.string().nullable(),
+        officialWebsite: z.string().nullable(),
+        isOfficial: z.boolean(),
+        lastUpdated: z.string().nullable()
+    }),
+    path: z.string()
+}));

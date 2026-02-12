@@ -18,12 +18,32 @@ This repository serves as the **Open Source Question Bank** for the [Examify Onl
 
 ---
 
-## 🛠 How It Works
+## � Directory Structure
+
+The repository is organized by Region, Category, and Exam to ensure scalability as the question bank grows.
+
+```text
+├── India/
+│   ├── government/
+│   ├── management/             # e.g., CAT
+│   ├── postgraduate/           # e.g., NIMCET
+│   └── undergraduate/          # e.g., JEE Mains
+├── global/
+│   ├── language/               # e.g., IELTS
+│   └── subject/                # e.g., Chemistry 101
+└── usa/
+    ├── biotechnology/          # e.g., BACE
+    └── certification/          # e.g., MTEL
+```
+
+---
+
+## �🛠 How It Works
 
 The Examify application consumes this repository directly:
 
 1.  **Discovery:** On startup, Examify fetches the **`config.json`** file from the root of this repository. This file acts as a registry, telling the app which exams are available (e.g., "NIMCET 2023", "JEE Main 2024").
-2.  **Loading:** When a user selects an exam, Examify reads the corresponding **Question JSON file** (e.g., `NIMCET/nimcet_2023.json`) specified in the config.
+2.  **Loading:** When a user selects an exam, Examify reads the corresponding **Question JSON file** (e.g., `India/postgraduate/NIMCET/nimcet_2023.json`) specified in the config.
 3.  **Rendering:** The app parses the JSON and renders questions using a custom Markdown engine that supports LaTeX, syntax highlighting, and even sanitized HTML/SVG.
 
 ---
@@ -42,7 +62,7 @@ It is an array of objects, where each object represents a single exam paper.
 | `category` | `string` | **Yes** | Top-level grouping (e.g., `NIMCET`, `JEE Main`). |
 | `year` | `number` | **Yes** | The year of the exam (e.g., `2023`). |
 | `title` | `string` | **Yes** | Display title (e.g., `NIMCET 2023`). |
-| `path` | `string` | **Yes** | Relative path to the question file (e.g., `NIMCET/nimcet_2023.json`). |
+| `path` | `string` | **Yes** | Path to the question file relative to the repo root (e.g., `India/postgraduate/NIMCET/nimcet_2023.json`). |
 | `description` | `string` | No | Brief description of the exam. |
 | `session` | `string` | No | E.g., `January`, `April`. |
 | `shift` | `number` | No | E.g., `1`, `2`. |
@@ -57,7 +77,7 @@ It is an array of objects, where each object represents a single exam paper.
   "category": "JEE Main",
   "year": 2024,
   "title": "JEE Main 2024 (Jan 22, Shift 1)",
-  "path": "JEEMains/2024/jeeMain_2024_jan_s1.json",
+  "path": "India/undergraduate/JEEMains/2024/jeeMain_2024_jan_s1.json",
   "session": "January",
   "shift": 1,
   "paperType": "Paper 1"
@@ -68,7 +88,7 @@ It is an array of objects, where each object represents a single exam paper.
 
 ## 📝 Question JSON File Format
 
-Each exam file (e.g., `NIMCET/nimcet_2023.json`) contains the actual questions.
+Each exam file (e.g., `India/postgraduate/NIMCET/nimcet_2023.json`) contains the actual questions.
 
 ### Schema
 
@@ -125,7 +145,7 @@ Uses **KaTeX**.
 ### 2. Images
 *   **Syntax:** `![Alt Text](URL)`
 *   **Relative Paths:** You can link to images inside this repo!
-    *   Use: `![Diagram](NIMCET/assets/q1_diagram.png)`
+    *   Use: `![Diagram](India/postgraduate/NIMCET/assets/q1_diagram.png)`
     *   The app automatically resolves this to the raw GitHub URL.
 *   **Absolute URLs:** `![Diagram](https://example.com/image.png)` works too.
 
@@ -172,9 +192,10 @@ We welcome contributions! Whether it's adding a new year's paper or fixing a typ
 
 1.  **Fork & Branch:** Create a branch like `feat/add-jee-2025`.
 2.  **Add Content:**
-    *   Place new JSON files in the appropriate Category folder.
-    *   Place assets in a `assets/` subfolder.
-3.  **Update Config:** Add your new exam to `config.json`.
+    *   Organize files using the hierarchical structure: `[Region]/[Category]/[ExamFolder]/`.
+    *   Example: `India/undergraduate/JEEMains/jee_2025.json`.
+    *   Place assets in an `assets/` subfolder within the exam folder.
+3.  **Update Config:** Add your new exam to the relevant JSON file in the `configs/` directory. (Note: The root `config.json` acts as a master index pointing to these category-specific configs).
 4.  **Validate:**
     *   **Run the validation script:** `npm run validate`
     *   Check JSON syntax (use a linter).

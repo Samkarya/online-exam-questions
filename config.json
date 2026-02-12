@@ -1,353 +1,169 @@
-[
-  {
-    "id": "nimcet_2022",
-    "category": "NIMCET",
-    "year": 2022,
-    "session": null,
-    "date": null,
-    "shift": null,
-    "paperType": null,
-    "title": "NIMCET 2022",
-    "short_description": "Official NIMCET 2022 question paper for MCA admissions in NITs, conducted by NIT Jamshedpur.",
-    "description": "### National Institute of Technology MCA Common Entrance Test (2022)\n\n**Conducting Body:** NIT Jamshedpur\n\nThis exam serves as the gateway for admission into the **Master of Computer Applications (MCA)** program at participating NITs. \n\n**Paper Pattern:**\n- **Mathematics:** 50 Questions (Highest Weightage)\n- **Analytical Ability & Logical Reasoning:** 40 Questions\n- **Computer Awareness:** 10 Questions\n- **General English:** 20 Questions\n\n> *Note: This paper follows the standard marking scheme of +4 for correct answers and -1 for incorrect answers.*",
-    "path": "NIMCET/nimcet_2022.json"
+{
+  "demo": {
+    "meta": {
+      "examId": "DEMO",
+      "fullName": "Demo / Playground Exam",
+      "shortName": "Demo",
+      "category": "Demo",
+      "conductingBody": "Examify",
+      "country": "Global",
+      "examType": [
+        "Practice",
+        "Demo"
+      ],
+      "description": "A lightweight example exam used for testing flows, UI, and integrations. Not a real certification.",
+      "officialWebsite": null,
+      "isOfficial": false,
+      "lastUpdated": "2026-02-09"
+    },
+    "path": "configs/demo.json"
   },
-  {
-    "id": "nimcet_2023",
-    "category": "NIMCET",
-    "year": 2023,
-    "session": null,
-    "date": null,
-    "shift": null,
-    "paperType": null,
-    "title": "NIMCET 2023",
-    "short_description": "Official NIMCET 2023 entrance exam paper covering Math, Analytical Ability, Computer Awareness, and English.",
-    "description": "### NIMCET 2023 Examination\n\n**Conducting Body:** NIT Jamshedpur\n\nThe official 2023 entrance paper for MCA admissions across National Institutes of Technology (NITs) in India. This paper tests the candidate's aptitude in higher mathematics and logical reasoning.\n\n**Key Syllabus Coverage:**\n*   **Math:** Calculus, Vectors, Probability, and Algebra.\n*   **Computer:** Binary arithmetic, Data representation, and Boolean algebra.\n*   **Reasoning:** Puzzles, Blood relations, and Series completion.",
-    "path": "NIMCET/nimcet_2023.json"
+  "chemistry": {
+    "meta": {
+      "examId": "CHEM_SUBJ",
+      "fullName": "Chemistry — Subject Practice & Board Prep",
+      "shortName": "Chemistry",
+      "category": "Subject",
+      "conductingBody": "Various / Local Boards",
+      "country": "Global",
+      "examType": [
+        "Board Prep",
+        "Subject Practice",
+        "Olympiad Prep"
+      ],
+      "description": "Collection of chemistry practice papers: inorganic, organic, physical chemistry, and board-level questions.",
+      "officialWebsite": null,
+      "isOfficial": false,
+      "lastUpdated": "2026-02-09"
+    },
+    "path": "configs/chemistry.json"
   },
-  {
-    "id": "nimcet_2024",
-    "category": "NIMCET",
-    "year": 2024,
-    "session": null,
-    "date": null,
-    "shift": null,
-    "paperType": null,
-    "title": "NIMCET 2024",
-    "short_description": "Latest NIMCET 2024 question paper focusing on Vector Algebra, Trigonometry, and logical reasoning for MCA aspirants.",
-    "description": "### NIMCET 2024 Examination\n\n**Conducting Body:** NIT Jamshedpur\n\nThe most recent iteration of the NIT MCA Common Entrance Test. This resource is essential for aspirants looking to understand the latest trends in question difficulty and topic distribution.\n\n**Highlights:**\n- Updated question patterns for 2024.\n- Focus on **Vector Algebra** and **Trigonometry** in the Math section.\n- Assessment of logical deduction and verbal ability.",
-    "path": "NIMCET/nimcet_2024.json"
+  "nimcet": {
+    "meta": {
+      "examId": "NIMCET",
+      "fullName": "NIMCET — NIT MCA Common Entrance Test",
+      "shortName": "NIMCET",
+      "category": "Postgrad Entrance",
+      "conductingBody": "NITs Consortium (various NITs)",
+      "country": "India",
+      "examType": [
+        "Postgraduate Entrance"
+      ],
+      "description": "Entrance exam for MCA programs at participating NITs. Includes mathematics, analytical ability and computer awareness.",
+      "officialWebsite": "https://nimcet.admissions.nic.in/",
+      "isOfficial": false,
+      "lastUpdated": "2026-02-09"
+    },
+    "path": "configs/nimcet.json"
   },
-  {
-    "id": "jeeMain_2025_22Jan_shift1",
-    "category": "JEE Main",
-    "year": 2025,
-    "session": "January",
-    "date": "2025-01-22",
-    "shift": 1,
-    "paperType": "Paper 1 (PCM)",
-    "title": "JEE Main 2025 (Jan 22nd, Shift 1)",
-    "short_description": "JEE Main 2025 Session 1 Morning Shift paper for B.E./B.Tech aspirants, covering Physics, Chemistry, and Math.",
-    "description": "### JEE Main 2025 - Session 1 (Morning Shift)\n\n**Date:** January 22, 2025 | **Shift:** 09:00 AM - 12:00 PM\n**Conducted By:** National Testing Agency (NTA)\n\nThis is the official **Paper 1 (B.E./B.Tech)** question paper containing 90 questions (30 per subject).\n\n**Subject Breakdown:**\n1.  **Physics:** Mechanics, Electrodynamics, Thermodynamics.\n2.  **Chemistry:** Organic, Inorganic, and Physical Chemistry.\n3.  **Mathematics:** Calculus, Coordinate Geometry, Algebra.\n\n> Contains both MCQ and Numerical Value Type questions.",
-    "path": "JEEMains/jeeMain_2025_22Jan_shift1.json"
+  "ielts": {
+    "meta": {
+      "examId": "IELTS",
+      "fullName": "IELTS — International English Language Testing System",
+      "shortName": "IELTS",
+      "category": "Language",
+      "conductingBody": "British Council / IDP / Cambridge",
+      "country": "Global",
+      "examType": [
+        "Language Proficiency"
+      ],
+      "description": "English language proficiency test for academic and immigration purposes. Four modules: Listening, Reading, Writing, Speaking.",
+      "officialWebsite": "https://www.ielts.org",
+      "isOfficial": true,
+      "lastUpdated": "2026-02-09"
+    },
+    "path": "configs/ielts.json"
   },
-  {
-    "id": "jeeMain_2025_22Jan_shift2",
-    "category": "JEE Main",
-    "year": 2025,
-    "session": "January",
-    "date": "2025-01-22",
-    "shift": 2,
-    "paperType": "Paper 1 (PCM)",
-    "title": "JEE Main 2025 (Jan 22nd, Shift 2)",
-    "short_description": "JEE Main 2025 Session 1 Evening Shift paper with MCQs and numerical value questions for engineering entrance.",
-    "description": "### JEE Main 2025 - Session 1 (Evening Shift)\n\n**Date:** January 22, 2025 | **Shift:** 03:00 PM - 06:00 PM\n**Conducted By:** National Testing Agency (NTA)\n\nOfficial question paper for the afternoon session. This paper is crucial for students analyzing shift-wise difficulty variations and normalization trends.\n\n**Paper Structure:**\n*   **Section A:** 20 MCQs per subject.\n*   **Section B:** 10 Numerical Value questions (Attempt any 5).\n\n**Focus Areas:** High-weightage topics including Rotational Motion, Chemical Bonding, and Integral Calculus.",
-    "path": "JEEMains/jeeMain_2025_22Jan_shift2.json"
+  "jee": {
+    "meta": {
+      "examId": "JEE",
+      "fullName": "JEE — Joint Entrance Examination",
+      "shortName": "JEE",
+      "category": "Undergraduate Entrance",
+      "conductingBody": "NTA / Relevant Authorities",
+      "country": "India",
+      "examType": [
+        "Undergraduate Engineering Entrance"
+      ],
+      "description": "Entrance exam for undergraduate engineering admissions (multiple papers/levels). Covers Physics, Chemistry, Mathematics.",
+      "officialWebsite": "https://jeemain.nta.nic.in/",
+      "isOfficial": true,
+      "lastUpdated": "2026-02-09"
+    },
+    "path": "configs/jee.json"
   },
-  {
-    "id": "demo_exam_examify",
-    "category": "Demo",
-    "year": 2026,
-    "session": null,
-    "date": null,
-    "shift": null,
-    "paperType": "Multi-Subject (Mixed)",
-    "title": "Examify Demo Exam 2026",
-    "short_description": "A feature-rich demo exam showcasing Examify's capabilities including multi-subject support and visual content.",
-    "description": "### Welcome to Examify Demo 2026\n\nThis is a curated **demonstration exam** designed to showcase the full capabilities of the Examify platform. \n\n**Features Demonstrated:**\n*   **Rich Media:** Questions containing images, diagrams, and graphs.\n*   **Multi-Subject Support:** A mix of Physics, Coding, and General Knowledge.\n*   **Latex Rendering:** Complex mathematical equations rendered in real-time.\n*   **Detailed Solutions:** Step-by-step explanations for every question.\n\n*Use this to test the UI/UX and answer submission flow.*",
-    "path": "Demo/demo_exam_examify.json"
+  "bace": {
+    "meta": {
+      "examId": "BACE",
+      "fullName": "Biotechnology Aptitude & Competency Exam",
+      "shortName": "BACE",
+      "category": "Biotechnology",
+      "conductingBody": "Biotility (University of Florida)",
+      "country": "USA",
+      "examType": [
+        "Certification",
+        "Competency-Based",
+        "Industry-Recognized"
+      ],
+      "description": "An industry-recognized credential that assesses core theoretical knowledge and practical laboratory skills for entry-level biotechnology roles.",
+      "officialWebsite": "https://biotility.research.ufl.edu",
+      "isOfficial": false,
+      "lastUpdated": "2024-05-22"
+    },
+    "path": "configs/bace.json"
   },
-  {
-    "id": "rrb-ntpc_2025",
-    "category": "RRB-NTPC",
-    "year": 2025,
-    "session": "June",
-    "date": "2025-06-05",
-    "shift": 1,
-    "paperType": null,
-    "title": "RRB-NTPC 2025",
-    "short_description": "RRB NTPC 2025 CBT paper for non-technical posts, covering General Awareness, Math, and Reasoning.",
-    "description": "### Railway Recruitment Board - NTPC 2025\n\n**Post:** Non-Technical Popular Categories (Undergraduate & Graduate)\n\nThis paper covers the syllabus for the **Computer Based Test (CBT)** for posts such as Junior Clerk, Accounts Clerk, and Station Master.\n\n**Sections:**\n1.  **General Awareness (40 Marks):** Current Affairs, History, Geography, Polity.\n2.  **Mathematics (30 Marks):** Arithmetic, Number Systems, Data Interpretation.\n3.  **General Intelligence & Reasoning (30 Marks):** Analogies, Coding-Decoding, Puzzles.",
-    "path": "RRB_NTPC/RRB-NTPC_2025_05June_shift1.json"
+  "mtel": {
+    "meta": {
+      "examId": "MTEL",
+      "fullName": "MTEL — Massachusetts Tests for Educator Licensure",
+      "shortName": "MTEL",
+      "category": "Certification",
+      "conductingBody": "Massachusetts Department of Elementary and Secondary Education",
+      "country": "United States",
+      "examType": [
+        "Teacher Licensure"
+      ],
+      "description": "Licensure tests for prospective teachers in Massachusetts. Covers subject knowledge and pedagogy.",
+      "officialWebsite": "https://www.doe.mass.edu/mtel/",
+      "isOfficial": true,
+      "lastUpdated": "2026-02-09"
+    },
+    "path": "configs/mtel.json"
   },
-  {
-    "id": "mtel_physical_ed_22_practice",
-    "category": "MTEL",
-    "year": 2025,
-    "session": null,
-    "date": null,
-    "shift": null,
-    "paperType": "Physical Education (Field 22) Practice Test",
-    "title": "MTEL Physical Education (22) Practice Test",
-    "short_description": "Official practice test for MTEL Physical Education (Field 22) from the Massachusetts Department of Education.",
-    "description": "### Official MTEL Physical Education (Field 22)\n\n**Source:** Massachusetts Department of Elementary and Secondary Education\n\nThis practice test allows candidates to evaluate their readiness for the Massachusetts Tests for Educator Licensure (MTEL) in Physical Education.\n\n**Domains Covered:**\n*   **Physical Development & Motor Learning:** Anatomy, physiology, and biomechanics.\n*   **Movement Activities:** Sports rules, tactics, and dance.\n*   **Principles of Physical Fitness:** Health-related fitness and training principles.\n*   **The PE Program:** Curriculum design, legal issues, and inclusion.",
-    "path": "MTEL/mtel_physical_ed_22_practice.json"
+  "cat": {
+    "meta": {
+      "examId": "CAT",
+      "fullName": "CAT — Common Admission Test",
+      "shortName": "CAT",
+      "category": "Management Entrance",
+      "conductingBody": "IIMs (rotating)",
+      "country": "India",
+      "examType": [
+        "Postgraduate Management Entrance"
+      ],
+      "description": "National-level management entrance exam for admission to IIMs and other management programs. Sections commonly include VARC, DILR, and QA.",
+      "officialWebsite": "https://iimcat.ac.in/",
+      "isOfficial": true,
+      "lastUpdated": "2026-02-09"
+    },
+    "path": "configs/cat.json"
   },
-  {
-    "id": "mtel_physical_ed_22_unofficial_examify",
-    "category": "MTEL",
-    "year": 2025,
-    "session": null,
-    "date": null,
-    "shift": null,
-    "paperType": "Physical Education (Field 22) Unofficial Practice Test",
-    "title": "MTEL Physical Education (22) Unofficial Practice Test by Examify",
-    "short_description": "High-yield unofficial practice test for MTEL PE (Field 22) created by Examify experts.",
-    "description": "### Examify Prep: MTEL PE (Field 22)\n\n**Type:** Unofficial High-Yield Practice Set\n\nCreated by the Examify subject matter experts and verified by AI, this test focuses on high-probability topics and difficult concepts often missed by students.\n\n**Key Features:**\n- **100 Multiple Choice Questions** simulating the actual exam environment.\n- **Deep-Dive Explanations:** detailed rationale for why distractors are incorrect.\n- Aligned with the latest Massachusetts state curriculum frameworks.",
-    "path": "MTEL/mtel_physical_ed_22_unofficial_examify.json"
-  },
-  {
-    "id": "cat_2024_slot1_quant",
-    "category": "CAT",
-    "year": 2024,
-    "session": null,
-    "date": null,
-    "shift": 1,
-    "paperType": "Quantitative Aptitude (QA)",
-    "title": "CAT 2024 Question Paper (Slot 1, QA)",
-    "short_description": "CAT 2024 Slot 1 Quantitative Aptitude paper with a focus on Arithmetic and Algebra.",
-    "description": "### CAT 2024 - Slot 1 (Quantitative Aptitude)\n\n**Conducting IIM:** IIM Calcutta\n\nThis module contains the Quantitative Aptitude section from the morning slot of the Common Admission Test 2024. \n\n**Analysis:**\n- **Difficulty Level:** Moderate to Difficult.\n- **Topic Weightage:** High focus on **Arithmetic** (Time & Work, TSD) and **Algebra** (Quadratic equations, Inequalities). \n- Includes both MCQ and TITA (Type In The Answer) questions.",
-    "path": "CAT/cat_2024_slot1_quant.json"
-  },
-  {
-    "id": "cat_2024_slot2_quant",
-    "category": "CAT",
-    "year": 2024,
-    "session": null,
-    "date": null,
-    "shift": 2,
-    "paperType": "Quantitative Aptitude (QA)",
-    "title": "CAT 2024 Question Paper (Slot 2, QA)",
-    "short_description": "CAT 2024 Slot 2 Quantitative Aptitude paper emphasizing Geometry, Number Systems, and Modern Math.",
-    "description": "### CAT 2024 - Slot 2 (Quantitative Aptitude)\n\n**Conducting IIM:** IIM Calcutta\n\nThe afternoon slot paper for CAT 2024. This section is known for testing conceptual clarity over calculation speed.\n\n**Key Areas:**\n*   **Geometry & Mensuration:** Triangles, Circles, and Coordinate Geometry.\n*   **Number Systems:** Remainders and factors.\n*   **Modern Math:** Permutations, Combinations, and Probability.\n\n> Perfect for aspirants aiming to practice section-specific time management strategies.",
-    "path": "CAT/cat_2024_slot2_quant.json"
-  },
-  {
-    "id": "cat_2024_slot3_quant",
-    "category": "CAT",
-    "year": 2024,
-    "session": null,
-    "date": null,
-    "shift": 3,
-    "paperType": "Quantitative Aptitude (QA)",
-    "title": "CAT 2024 Question Paper (Slot 3, QA)",
-    "short_description": "CAT 2024 Slot 3 Quantitative Aptitude paper featuring complex Arithmetic and Sequence & Series questions.",
-    "description": "### CAT 2024 - Slot 3 (Quantitative Aptitude)\n\n**Conducting IIM:** IIM Calcutta\n\nThe evening slot paper, often considered the 'decider' slot. This dataset allows for a comprehensive review of the hardest questions asked in 2024.\n\n**Highlights:**\n- Tricky wording in **Arithmetic** problems.\n- Complex **Logarithms** and **Sequence & Series** questions.\n- Comparative analysis with Slot 1 and Slot 2 papers.",
-    "path": "CAT/cat_2024_slot3_quant.json"
-  },
-  {
-    "id": "chem101_Introduction",
-    "category": "Chemistry 101",
-    "year": "Practice Questions",
-    "title": "Introduction to Chemistry",
-    "short_description": "Covers scientific method, significant figures, dimensional analysis, and lab safety basics.",
-    "path": "Chemistry101/chem101_Introduction.json",
-    "description": "### Module 1: Introduction to Chemistry\n\nFoundational concepts necessary for laboratory success and scientific calculation.\n\n**Topics Included:**\n*   **The Scientific Method:** Hypothesis, theory, and law.\n*   **Measurement:** Significant figures, SI units, and scientific notation.\n*   **Dimensional Analysis:** Converting between units using factor-label method.\n*   **Lab Safety:** MSDS, PPE, and emergency protocols.",
-    "paperType": "Introduction to Chemistry",
-    "session": null,
-    "date": null,
-    "shift": null
-  },
-  {
-    "id": "chem101_Atomic_Theory",
-    "category": "Chemistry 101",
-    "year": "Practice Questions",
-    "title": "Atomic Theory and Structure",
-    "short_description": "Explores atomic models, subatomic particles, isotopes, and nuclear structure.",
-    "path": "Chemistry101/chem101_Atomic_Theory.json",
-    "description": "### Module 2: Atomic Theory\n\nA deep dive into the building blocks of matter and the history of atomic discovery.\n\n**Key Concepts:**\n- **History:** Dalton, Thompson (Plum Pudding), Rutherford (Gold Foil), and Bohr models.\n- **Subatomic Particles:** Protons, Neutrons, and Electrons.\n- **Isotopes:** Calculation of average atomic mass.\n- **The Nucleus:** Nuclear stability and radioactivity basics.",
-    "paperType": "Atomic Theory and Structure",
-    "session": null,
-    "date": null,
-    "shift": null
-  },
-  {
-    "id": "chem101_Electronic_Structure",
-    "category": "Chemistry 101",
-    "year": "Practice Questions",
-    "title": "Electronic Structure of Atoms",
-    "short_description": "Focuses on electron configurations, quantum numbers, and orbital diagrams.",
-    "path": "Chemistry101/chem101_Electronic_Structure.json",
-    "description": "### Module 3: Electronic Structure\n\nUnderstanding how electrons are arranged in atoms, forming the basis for chemical bonding.\n\n**Syllabus:**\n*   **Quantum Mechanics:** Principal, Angular, Magnetic, and Spin quantum numbers.\n*   **Electron Configuration:** Writing configurations (e.g., *1s² 2s²*).\n*   **Rules:** Aufbau Principle, Pauli Exclusion Principle, and Hund's Rule.\n*   **Orbital Diagrams:** Visualizing electron spin and placement.",
-    "paperType": "Electronic Structure of Atoms",
-    "session": null,
-    "date": null,
-    "shift": null
-  },
-  {
-    "id": "chem101_Periodic_Table",
-    "category": "Chemistry 101",
-    "year": "Practice Questions",
-    "title": "Periodic Table and Properties",
-    "short_description": "Examines periodic trends like atomic radius, ionization energy, and electronegativity.",
-    "path": "Chemistry101/chem101_Periodic_Table.json",
-    "description": "### Module 4: Periodic Trends\n\nAnalysis of the Periodic Table's organization and the predictive power of periodic trends.\n\n**Trends Covered:**\n- **Atomic & Ionic Radii:** Size variations across periods and groups.\n- **Ionization Energy:** Energy required to remove electrons.\n- **Electron Affinity & Electronegativity:** Attraction for electrons.\n- **Classifications:** Metals, Non-metals, Metalloids, and s/p/d/f blocks.",
-    "paperType": "Periodic Table and Properties",
-    "session": null,
-    "date": null,
-    "shift": null
-  },
-  {
-    "id": "chem101_Bonding_Ionic_Covalent",
-    "category": "Chemistry 101",
-    "year": "Practice Questions",
-    "title": "Chemical Bonding I (Ionic & Covalent)",
-    "short_description": "Covers Lewis structures, lattice energy, covalent bonding, and polarity.",
-    "path": "Chemistry101/chem101_Bonding_Ionic_Covalent.json",
-    "description": "### Module 5: Chemical Bonding - Part I\n\nIntroduction to how atoms combine to form molecules and compounds.\n\n**Core Topics:**\n*   **Lewis Dot Structures:** Drawing molecules and resonance structures.\n*   **Ionic Bonding:** Electrostatic attraction and Lattice Energy (Born-Haber cycle).\n*   **Covalent Bonding:** Sharing electrons, bond length, and bond energy.\n*   **Polarity:** Dipole moments and non-polar vs polar bonds.",
-    "paperType": "Chemical Bonding I (Ionic & Covalent)",
-    "session": null,
-    "date": null,
-    "shift": null
-  },
-  {
-    "id": "chem101_Bonding_Geometry",
-    "category": "Chemistry 101",
-    "year": "Practice Questions",
-    "title": "Chemical Bonding II (Geometry)",
-    "short_description": "Focuses on VSEPR theory, molecular shapes, hybridization, and intermolecular forces.",
-    "path": "Chemistry101/chem101_Bonding_Geometry.json",
-    "description": "### Module 6: Molecular Geometry\n\nAdvanced bonding concepts focusing on the 3D shape of molecules.\n\n**Key Concepts:**\n- **VSEPR Theory:** Predicting shapes (Linear, Tetrahedral, Octahedral, etc.).\n- **Hybridization:** sp, sp², sp³, sp³d, sp³d² mixing.\n- **Molecular Orbital Theory:** Sigma (σ) and Pi (π) bonds.\n- **Intermolecular Forces:** Hydrogen bonding, dipole-dipole, and London dispersion forces.",
-    "paperType": "Chemical Bonding II (Geometry)",
-    "session": null,
-    "date": null,
-    "shift": null
-  },
-  {
-    "id": "chem101_Stoichiometry",
-    "category": "Chemistry 101",
-    "year": "Practice Questions",
-    "title": "Stoichiometry and Reactions",
-    "short_description": "Involves mole calculations, balancing equations, limiting reagents, and reaction types.",
-    "path": "Chemistry101/chem101_Stoichiometry.json",
-    "description": "### Module 7: Stoichiometry\n\nThe mathematics of chemistry. This section focuses on quantitative relationships in chemical reactions.\n\n**Topics:**\n*   **The Mole Concept:** Avogadro's number.\n*   **Balancing Equations:** Conservation of mass.\n*   **Calculations:** Limiting reagents, theoretical yield, and percent yield.\n*   **Reaction Types:** Synthesis, Decomposition, Combustion, Single/Double Replacement.",
-    "paperType": "Stoichiometry and Reactions",
-    "session": null,
-    "date": null,
-    "shift": null
-  },
-  {
-    "id": "chem101_Gas_Laws",
-    "category": "Chemistry 101",
-    "year": "Practice Questions",
-    "title": "States of Matter and Gas Laws",
-    "short_description": "Covers Ideal Gas Law, partial pressures, kinetic molecular theory, and phase diagrams.",
-    "path": "Chemistry101/chem101_Gas_Laws.json",
-    "description": "### Module 8: Gases & States of Matter\n\nStudy of the behavior of matter in different phases, with a heavy focus on gaseous systems.\n\n**Formulas & Laws:**\n- **Ideal Gas Law:** PV = nRT.\n- **Combined Gas Laws:** Boyle’s, Charles’s, and Avogadro’s Laws.\n- **Dalton’s Law:** Partial pressures.\n- **KMT:** Kinetic Molecular Theory and root-mean-square speed.\n- **Phase Diagrams:** Triple point and critical point.",
-    "paperType": "States of Matter and Gas Laws",
-    "session": null,
-    "date": null,
-    "shift": null
-  },
-  {
-    "id": "chem101_Thermochemistry",
-    "category": "Chemistry 101",
-    "year": "Practice Questions",
-    "title": "Thermochemistry",
-    "short_description": "Focuses on enthalpy, calorimetry, Hess's Law, and heat transfer calculations.",
-    "path": "Chemistry101/chem101_Thermochemistry.json",
-    "description": "### Module 9: Thermochemistry\n\nThe study of heat energy associated with chemical reactions and physical transformations.\n\n**Key Concepts:**\n*   **Enthalpy (ΔH):** Exothermic vs. Endothermic processes.\n*   **Calorimetry:** Specific heat capacity and q = mcΔT.\n*   **Hess’s Law:** Calculating reaction enthalpies indirectly.\n*   **Standard Enthalpies:** Formation (ΔHf°) and bond enthalpies.",
-    "paperType": "Thermochemistry",
-    "session": null,
-    "date": null,
-    "shift": null
-  },
-  {
-    "id": "chem101_Equilibrium",
-    "category": "Chemistry 101",
-    "year": "Practice Questions",
-    "title": "Chemical Equilibrium",
-    "short_description": "Covers equilibrium constants, Le Chatelier's principle, and reaction quotients.",
-    "path": "Chemistry101/chem101_Equilibrium.json",
-    "description": "### Module 10: Chemical Equilibrium\n\nUnderstanding reversible reactions and dynamic equilibrium states.\n\n**Topics:**\n- **Equilibrium Constants:** Kc (concentration) and Kp (pressure).\n- **Reaction Quotient (Q):** Predicting the direction of a reaction.\n- **Le Châtelier’s Principle:** Effect of concentration, pressure, and temperature changes.\n- **ICE Tables:** Calculating equilibrium concentrations.",
-    "paperType": "Chemical Equilibrium",
-    "session": null,
-    "date": null,
-    "shift": null
-  },
-  {
-    "id": "chem101_Acids_Bases",
-    "category": "Chemistry 101",
-    "year": "Practice Questions",
-    "title": "Acids, Bases, and Salts",
-    "short_description": "Includes pH calculations, acid-base theories, salt hydrolysis, and strength definitions.",
-    "path": "Chemistry101/chem101_Acids_Bases.json",
-    "description": "### Module 11: Acids & Bases\n\nComprehensive review of proton transfer reactions and pH calculations.\n\n**Syllabus:**\n*   **Definitions:** Arrhenius, Brønsted–Lowry, and Lewis acids/bases.\n*   **pH Scale:** Calculating pH, pOH, [H+], and [OH-].\n*   **Strength:** Strong vs. Weak acids/bases and Ka/Kb constants.\n*   **Salt Hydrolysis:** Determining if a salt solution is acidic, basic, or neutral.",
-    "paperType": "Acids, Bases, and Salts",
-    "session": null,
-    "date": null,
-    "shift": null
-  },
-  {
-    "id": "chem101_Buffers_Titrations",
-    "category": "Chemistry 101",
-    "year": "Practice Questions",
-    "title": "Buffer Solutions and Titrations",
-    "short_description": "Focuses on buffer solutions, Henderson-Hasselbalch equation, and titration curves.",
-    "path": "Chemistry101/chem101_Buffers_Titrations.json",
-    "description": "### Module 12: Aqueous Equilibria\n\nAdvanced acid-base chemistry focusing on resistance to pH change and analytical techniques.\n\n**Key Concepts:**\n- **Buffers:** Common ion effect and preparation of buffers.\n- **Henderson–Hasselbalch Equation:** Calculating buffer pH.\n- **Titrations:** Strong Acid-Strong Base, Weak-Strong curves.\n- **Indicators:** Choosing the correct indicator for endpoints.",
-    "paperType": "Buffer Solutions and Titrations",
-    "session": null,
-    "date": null,
-    "shift": null
-  },
-  {
-    "id": "chem101_Kinetics",
-    "category": "Chemistry 101",
-    "year": "Practice Questions",
-    "title": "Chemical Kinetics",
-    "short_description": "Covers reaction rates, rate laws, order of reactions, and activation energy.",
-    "path": "Chemistry101/chem101_Kinetics.json",
-    "description": "### Module 13: Chemical Kinetics\n\nThe study of the speed (rate) of chemical reactions and reaction mechanisms.\n\n**Topics:**\n*   **Reaction Rates:** Average vs. Instantaneous rates.\n*   **Rate Laws:** Determining differential rate laws and rate constants (k).\n*   **Integrated Rate Laws:** Zero, First, and Second-order reactions.\n*   **Arrhenius Equation:** Activation energy and temperature dependence.",
-    "paperType": "Chemical Kinetics",
-    "session": null,
-    "date": null,
-    "shift": null
-  },
-  {
-    "id": "chem101_Redox_Electrochemistry",
-    "category": "Chemistry 101",
-    "year": "Practice Questions",
-    "title": "Redox and Electrochemistry",
-    "short_description": "Includes redox balancing, electrochemical cells, standard potentials, and Nernst equation.",
-    "path": "Chemistry101/chem101_Redox_Electrochemistry.json",
-    "description": "### Module 14: Electrochemistry\n\nInterconversion of chemical energy and electrical energy through redox reactions.\n\n**Core Topics:**\n- **Redox Basics:** Assigning oxidation numbers and balancing half-reactions.\n- **Galvanic/Voltaic Cells:** Anode, Cathode, and Salt Bridge.\n- **Cell Potential:** Calculating E°cell using standard reduction potentials.\n- **Nernst Equation:** Cell potential under non-standard conditions.",
-    "paperType": "Redox and Electrochemistry",
-    "session": null,
-    "date": null,
-    "shift": null
-  },
-  {
-    "id": "chem101_Lab_Chemistry",
-    "category": "Chemistry 101",
-    "year": "Practice Questions",
-    "title": "Introduction to Laboratory Chemistry",
-    "short_description": "Covers laboratory techniques, glassware usage, titrations, and error analysis.",
-    "path": "Chemistry101/chem101_Lab_Chemistry.json",
-    "description": "### Module 15: Laboratory Techniques\n\nPractical application of chemistry concepts in a lab setting.\n\n**Focus Areas:**\n*   **Glassware:** Proper use of burettes, pipettes, and volumetric flasks.\n*   **Techniques:** Titration, Filtration, Distillation, and Chromatography.\n*   **Data Analysis:** Calculating percent error and standard deviation.\n*   **Qualitative Analysis:** Identifying ions (flame tests, precipitation).",
-    "paperType": "Introduction to Laboratory Chemistry",
-    "session": null,
-    "date": null,
-    "shift": null
+  "rrb": {
+    "meta": {
+      "examId": "RRB",
+      "fullName": "RRB — Railway Recruitment Board Exams",
+      "shortName": "RRB",
+      "category": "Government Recruitment",
+      "conductingBody": "Railway Recruitment Boards (Regional)",
+      "country": "India",
+      "examType": [
+        "Recruitment"
+      ],
+      "description": "Recruitment exams for technical and non-technical posts in Indian Railways. Multiple streams and regional notifications.",
+      "officialWebsite": null,
+      "isOfficial": true,
+      "lastUpdated": "2026-02-09"
+    },
+    "path": "configs/rrb.json"
   }
-]
+}
