@@ -165,5 +165,24 @@
       "lastUpdated": "2026-02-09"
     },
     "path": "configs/rrb.json"
+  },
+  "bece": {
+    "meta": {
+      "examId": "BECE",
+      "fullName": "BECE — Basic Education Certificate Examination",
+      "shortName": "BECE",
+      "category": "Junior Secondary School Certification",
+      "conductingBody": "National Examinations Council (NECO)",
+      "country": "Nigeria",
+      "examType": [
+        "Certification",
+        "Junior Secondary Exit Examination"
+      ],
+      "description": "The Basic Education Certificate Examination (BECE) is a Junior Secondary School (JSS3) exit examination in Nigeria conducted by NECO. It certifies completion of the 9-year Basic Education programme and qualifies students for admission into Senior Secondary School (SS1). Subjects include English Studies, Mathematics, Basic Science and Technology, National Values Education, Pre-Vocational Studies, Cultural and Creative Arts, and others.",
+      "officialWebsite": "https://neco.gov.ng",
+      "isOfficial": false,
+      "lastUpdated": "2026-02-13"
+    },
+    "path": "configs/bece.json"
   }
 }

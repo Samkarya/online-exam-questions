@@ -1,0 +1,58 @@
+[
+    {
+        "id": "bece_numericalLiteracy",
+        "category": "BECE",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "BECE Mathematics Numerical Literacy",
+        "short_description": "Contains 66 Questions",
+        "description": "BECE Mathematics Numerical Literacy Practice Paper Covers Whole Nubmers, Basic Operations & Financial Math, Number & Numeration",
+        "path": "nigeria/BECE/mathematics/numericalLiteracy.json",
+        "isOfficial": false
+    },
+    {
+        "id": "bece_statistics&probability",
+        "category": "BECE",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "BECE Mathematics Statistics & Probability",
+        "short_description": "Contains 48 Questions",
+        "description": "BECE Mathematics Statistics & Probability Practice Paper Covers Data Presentation, Statistics, Probability",
+        "path": "nigeria/BECE/mathematics/statistics&probability.json",
+        "isOfficial": false
+    },
+    {
+        "id": "bece_algebraicProcesses",
+        "category": "BECE",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "BECE Mathematics Algebraic Processes",
+        "short_description": "Contains 54 Questions",
+        "description": "BECE Mathematics Algebraic Processes Practice Paper Covers Algebraic Processes",
+        "path": "nigeria/BECE/mathematics/algebraicProcesses.json",
+        "isOfficial": false
+    },
+    {
+        "id": "bece_geometry&measurement",
+        "category": "BECE",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "BECE Mathematics Geometry & Measurement",
+        "short_description": "Contains 72 Questions",
+        "description": "BECE Mathematics Geometry & Measurement Practice Paper Covers Geometry & Measurement",
+        "path": "nigeria/BECE/mathematics/geometry&measurement.json",
+        "isOfficial": false
+    }
+]
