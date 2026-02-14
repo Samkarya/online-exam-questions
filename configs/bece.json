@@ -54,5 +54,47 @@
         "description": "BECE Mathematics Geometry & Measurement Practice Paper Covers Geometry & Measurement",
         "path": "nigeria/BECE/mathematics/geometry&measurement.json",
         "isOfficial": false
+    },
+    {
+        "id": "bece_basicScience",
+        "category": "BECE",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "BECE Basic Science",
+        "short_description": "Contains 60 Questions",
+        "description": "BECE Basic Science Practice Paper Covers Basic Science",
+        "path": "nigeria/BECE/basicScience/basicScience.json",
+        "isOfficial": false
+    },
+    {
+        "id": "bece_Technology&ComputerScience",
+        "category": "BECE",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "BECE Basic Technology & Computer Science",
+        "short_description": "Contains 100 Questions",
+        "description": "BECE Basic Technology & Computer Science Practice Paper Covers Basic Technology & Computer Science",
+        "path": "nigeria/BECE/basicTechnology&ComputerScience/basicTechnology&ComputerScience.json",
+        "isOfficial": false
+    },
+    {
+        "id": "bece_physicalEducation",
+        "category": "BECE",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "BECE Physical Education",
+        "short_description": "Contains 60 Questions",
+        "description": "BECE Physical Education Practice Paper Covers Physical Education",
+        "path": "nigeria/BECE/physicalEducation/physicalEducation.json",
+        "isOfficial": false
     }
 ]
