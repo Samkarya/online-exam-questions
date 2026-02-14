@@ -184,5 +184,24 @@
       "lastUpdated": "2026-02-13"
     },
     "path": "configs/bece.json"
+  },
+  "pjok-kelas-5": {
+    "meta": {
+      "examId": "PJOK_K5",
+      "fullName": "PJOK Kelas 5 — Penjasorkes (Kesehatan & Olahraga)",
+      "shortName": "PJOK Kelas 5",
+      "category": "Pendidikan Dasar",
+      "conductingBody": "Kementerian Pendidikan dan Kebudayaan",
+      "country": "Indonesia",
+      "examType": [
+        "School Exam",
+        "Subject Practice"
+      ],
+      "description": "Latihan soal PJOK (Pendidikan Jasmani, Olahraga, dan Kesehatan) untuk siswa kelas 5 SD. Mencakup materi olahraga, kesehatan, dan pola hidup sehat. Referensi buku yang digunakan adalah https://static.sc.cloudapp.web.id/content/pdf/bukuteks/kurikulum21/PJOK_BS_KLS_V.pdf",
+      "officialWebsite": null,
+      "isOfficial": false,
+      "lastUpdated": "2026-02-14"
+    },
+    "path": "configs/pjok-kelas-5.json"
   }
 }

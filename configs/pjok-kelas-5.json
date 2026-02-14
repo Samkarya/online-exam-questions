@@ -1,0 +1,30 @@
+[
+    {
+        "id": "pjok_k5_bab1",
+        "category": "Unit 1",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "Bab 1: Eksplorasi Gerak",
+        "short_description": "Latihan soal mengenai penyesuaian dan modifikasi keterampilan gerak dasar (jalan, lari, lompat, loncat) serta koordinasi mata, tangan, dan kaki.",
+        "description": "### Bab 1: Eksplorasi Gerak\n\nModul latihan ini mencakup materi dari Kurikulum Merdeka PJOK Kelas 5 SD. \n\n**Materi Utama:**\n*   **Aktivitas Jalan dan Lari:** Permainan Jalan Lompat Ceria, Lari Kompas, dan Selip Rintangan.\n*   **Aktivitas Lompat dan Loncat:** Lari Loncat Rintangan dan Zona Petualangan.\n*   **Melempar dan Menangkap:** Bola besar dan kecil dengan berbagai variasi jarak.\n*   **Menendang dan Menghentikan:** Teknik dasar sepak bola mini dan bola tangan.\n*   **Aktivitas Air:** Keselamatan di air dan estafet bola di kolam.\n\n*Gunakan latihan ini untuk memperdalam pemahaman strategi dan teknik gerak dasar.*",
+        "path": "indonesia/Sekolah/kelas5/Penjasorkes/eksplorasiGerak.json",
+        "isOfficial": false
+    },
+    {
+        "id": "pjok_k5_bab2",
+        "category": "Unit 2",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "Bab 2: Berpikir Cerdas Bergerak Taktis",
+        "short_description": "Latihan soal mengenai konsep kesadaran ruang, usaha (tenaga/waktu), dan hubungan dalam aktivitas jasmani.",
+        "description": "### Bab 2: Berpikir Cerdas Bergerak Taktis\n\nModul ini berfokus pada pemahaman kognitif dalam bergerak (movement concepts).\n\n**Konsep yang Dipelajari:**\n*   **Kesadaran Ruang:** Lokasi, arah, tingkatan, jalur, dan jarak.\n*   **Kesadaran Usaha:** Pengaturan tenaga (kuat/lemah) dan waktu (cepat/lambat).\n*   **Kesadaran Hubungan:** Interaksi tubuh dengan objek (alat) dan orang lain.\n*   **Strategi Gerak:** Perencanaan dan adaptasi dalam permainan invasi, lapangan, dan net.\n\n*Latihan ini membantu siswa memahami mengapa dan bagaimana mereka harus bergerak secara taktis.*",
+        "path": "indonesia/Sekolah/kelas5/Penjasorkes/berpikirCerdasBergerakTaktis.json",
+        "isOfficial": false
+    }
+]
