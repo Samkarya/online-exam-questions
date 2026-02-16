@@ -203,5 +203,24 @@
       "lastUpdated": "2026-02-14"
     },
     "path": "configs/pjok-kelas-5.json"
+  },
+  "hosa-nutrition": {
+    "meta": {
+      "examId": "HOSA_NUTRITION",
+      "fullName": "HOSA Nutrition — Academic Competitive Event",
+      "shortName": "HOSA Nutrition",
+      "category": "Health Science",
+      "conductingBody": "HOSA–Future Health Professionals",
+      "country": "USA / International",
+      "examType": [
+        "Academic Competition",
+        "Written Test"
+      ],
+      "description": "A competitive event focusing on nutrition knowledge, including medical nutrition therapy, macronutrients, and cultural food patterns. Part of the Health Science events category in HOSA.",
+      "officialWebsite": "https://hosa.org/competitive-events/",
+      "isOfficial": false,
+      "lastUpdated": "2026-02-15"
+    },
+    "path": "configs/hosa-nutrition.json"
   }
 }
