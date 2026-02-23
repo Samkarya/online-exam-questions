@@ -222,5 +222,25 @@
       "lastUpdated": "2026-02-15"
     },
     "path": "configs/hosa-nutrition.json"
+  },
+  "fbla-intro-marketing": {
+    "meta": {
+      "examId": "FBLA_INTRO_MARKETING",
+      "fullName": "FBLA Introduction to Marketing Concepts — Competitive Event",
+      "shortName": "FBLA Intro to Marketing",
+      "category": "Business / Marketing",
+      "conductingBody": "Future Business Leaders of America (FBLA)",
+      "country": "USA / International",
+      "examType": [
+        "Academic Competition",
+        "Objective Test",
+        "Multiple Choice"
+      ],
+      "description": "An FBLA competitive event that evaluates foundational knowledge of marketing principles, including the marketing mix, consumer behavior, market research, pricing strategies, promotion, branding, and marketing ethics. Designed primarily for introductory-level high school students.",
+      "officialWebsite": "https://www.fbla.org/competitive-events/introduction-to-marketing-concepts/",
+      "isOfficial": false,
+      "lastUpdated": "2026-02-23"
+    },
+    "path": "configs/fbla-intro-marketing.json"
   }
 }
