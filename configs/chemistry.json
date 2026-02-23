@@ -11,7 +11,7 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": true
+        "isOfficial": false
     },
     {
         "id": "chem101_Atomic_Theory",
@@ -25,7 +25,7 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": true
+        "isOfficial": false
     },
     {
         "id": "chem101_Electronic_Structure",
@@ -39,7 +39,7 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": true
+        "isOfficial": false
     },
     {
         "id": "chem101_Periodic_Table",
@@ -53,7 +53,7 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": true
+        "isOfficial": false
     },
     {
         "id": "chem101_Bonding_Ionic_Covalent",
@@ -67,7 +67,7 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": true
+        "isOfficial": false
     },
     {
         "id": "chem101_Bonding_Geometry",
@@ -81,7 +81,7 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": true
+        "isOfficial": false
     },
     {
         "id": "chem101_Stoichiometry",
@@ -95,7 +95,7 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": true
+        "isOfficial": false
     },
     {
         "id": "chem101_Gas_Laws",
@@ -109,7 +109,7 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": true
+        "isOfficial": false
     },
     {
         "id": "chem101_Thermochemistry",
@@ -123,7 +123,7 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": true
+        "isOfficial": false
     },
     {
         "id": "chem101_Equilibrium",
@@ -137,7 +137,7 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": true
+        "isOfficial": false
     },
     {
         "id": "chem101_Acids_Bases",
@@ -151,7 +151,7 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": true
+        "isOfficial": false
     },
     {
         "id": "chem101_Buffers_Titrations",
@@ -165,7 +165,7 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": true
+        "isOfficial": false
     },
     {
         "id": "chem101_Kinetics",
@@ -179,7 +179,7 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": true
+        "isOfficial": false
     },
     {
         "id": "chem101_Redox_Electrochemistry",
@@ -193,7 +193,7 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": true
+        "isOfficial": false
     },
     {
         "id": "chem101_Lab_Chemistry",
@@ -207,6 +207,6 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": true
+        "isOfficial": false
     }
 ]
