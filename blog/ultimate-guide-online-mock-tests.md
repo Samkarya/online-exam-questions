@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Online Mock Tests for Any Exam"
+title: "The Ultimate Guide to Online Mock Tests"
 date: "2025-06-10"
 author: "The Examify Team"
-excerpt: "Whether you're preparing for NIMCET, CUET, SSC, or Banking exams, online mock tests are your secret weapon. Learn how to use them effectively to boost your score."
+excerpt: "Explore the benefits of taking online mock tests and discover exactly how practice tests can dramatically improve your exam scores."
 tags: ["Exam Preparation", "Mock Tests", "Study Tips", "Competitive Exams", "NIMCET", "CUET", "SSC", "Banking"]
 ---
 

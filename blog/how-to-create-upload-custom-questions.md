@@ -1,8 +1,8 @@
 ---
-title: "Tutorial: How to Create and Upload Your Own Question Papers"
+title: "Create & Upload Custom Exam Questions (JSON Format Guide)"
 date: "2025-06-20"
 author: "The Examify Team"
-excerpt: "Want to practice with your own questions? Learn how to create custom JSON question papers and upload them to Examify for a personalized exam experience."
+excerpt: "Learn how to easily create, format, and bulk upload custom exam questions using JSON. A complete tutorial on using our JSON quiz builder."
 tags: ["Tutorial", "Custom Exams", "JSON Format", "Teachers", "Self Study", "Examify Features"]
 ---
 

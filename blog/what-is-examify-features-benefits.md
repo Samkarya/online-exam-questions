@@ -1,13 +1,13 @@
 ---
-title: "What is Examify? Features and Benefits Explained"
+title: "What is Examify? Features & Benefits of the Free Platform"
 date: "2025-05-15"
 author: "The Examify Team"
-excerpt: "Explore Examify, your comprehensive open-source platform for realistic competitive exam practice. Discover how our Offline Mode, Privacy-First architecture, and Flexible Question Sources help you prepare better."
+excerpt: "Learn about Examify: The 100% free, privacy-first online exam simulator. Discover our features, benefits, and how we revolutionize mock test practice."
 tags: ["Examify", "Features", "Introduction", "Exam Preparation", "Mock Test", "Online Exam Simulator", "Open Source", "Offline Mode", "Privacy"]
 ---
 
 ## What is Examify?
-Examify is more than just a collection of questions; it's a dedicated, **open-source** practice platform built to help students prepare effectively for high-stakes exams like NIMCET and CUET MCA. We believe that success hinges not only on subject knowledge but also on familiarity with the exam interface, smart time management, and the crucial capability to analyze and learn from your performance.
+Examify is more than just a collection of questions; it's a dedicated, practice platform built to help students prepare effectively for high-stakes exams competitive exams. We believe that success hinges not only on subject knowledge but also on familiarity with the exam interface, smart time management, and the crucial capability to analyze and learn from your performance.
 
 Our core mission is to provide an accessible, high-quality, and transparent tool that simulates the real exam experience and empowers you with actionable insights for improvement.
 
@@ -23,7 +23,7 @@ Get accustomed to the actual test conditions *before* exam day:
 
 ### 2. Flexible Question Sources
 Practice with the material that matters most to *you*:
-*   **Official Mock Tests:** Access official past papers for exams like NIMCET, sourced transparently from our public [GitHub repository](https://github.com/Samkarya/online-exam-questions). Understand real exam patterns and difficulty levels.
+*   **Mock Tests:** Access official past papers for competitive exams, sourced transparently from our public [GitHub repository](https://github.com/Samkarya/online-exam-questions). Understand real exam patterns and difficulty levels.
 *   **Upload or Paste Your Own (Custom JSON):** Have question sets from coaching classes, specific topics you need extra practice on, or AI-generated quizzes? Easily upload them as a simple JSON file or paste the JSON code directly. We provide a [clear format example](/select-exam#json-format-example) to guide you.
 
 ### 3. In-Depth Performance Analysis
@@ -39,7 +39,6 @@ We respect your data and your need for focus:
 
 ### 5. Open Source & Community Driven
 Examify is built by the community, for the community.
-*   **Transparent Code:** Our entire codebase is open source. You can see exactly how the platform works.
 *   **Community Content:** The question bank is also open. Anyone can contribute new tests or fix errors in existing ones via GitHub.
 
 ## Why Choose Examify for Your Exam Prep?

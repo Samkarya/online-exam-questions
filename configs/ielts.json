@@ -13,7 +13,9 @@
         "path": "global/language/IELTS/ielts_reading_0.json",
         "model": "gemini-3-pro",
         "defaultQuestionCount": 40,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "Free IELTS Reading Practice Test | Academic & General",
+        "seo_description": "Take a free online IELTS Reading practice test. Prepare for both Academic and General Training modules to improve your reading band score."
     },
     {
         "id": "ielts_grammar_0",
@@ -29,7 +31,9 @@
         "path": "global/language/IELTS/ielts_grammar_0.json",
         "model": "gemini-3-pro",
         "defaultQuestionCount": 40,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "IELTS Grammar Practice Test | Improve Writing & Speaking",
+        "seo_description": "Master IELTS grammar with our free practice test. Targeted drills on tenses, sentence structure, and punctuation to help you achieve a Band 7+ score."
     },
     {
         "id": "ielts_vocabulary_0",
@@ -45,7 +49,9 @@
         "path": "global/language/IELTS/ielts_vocabulary_0.json",
         "model": "gemini-3-pro",
         "defaultQuestionCount": 40,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "IELTS Vocabulary Practice Test | Boost Lexical Resource",
+        "seo_description": "Enhance your IELTS vocabulary with our free online practice test. Master academic synonyms, collocations, and idioms to improve your Band score."
     },
     {
         "id": "ielts_listening_0",
@@ -61,6 +67,8 @@
         "path": "global/language/IELTS/ielts_listening_0.json",
         "model": "gemini-3-pro",
         "defaultQuestionCount": 40,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "Free IELTS Listening Mock Test & Online Practice",
+        "seo_description": "Simulate the real exam with our free IELTS Listening mock test. Practice answering questions while listening to audio clips online."
     }
 ]

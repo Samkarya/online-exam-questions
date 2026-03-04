@@ -1,8 +1,8 @@
 ---
-title: "NIMCET & CUET MCA 2025: A Complete Preparation Roadmap"
+title: "The Ultimate NIMCET & CUET MCA Preparation Roadmap"
 date: "2025-06-15"
 author: "The Examify Team"
-excerpt: "Targeting top MCAs like NITs or JNU? Here is your complete roadmap for NIMCET and CUET MCA 2025, including syllabus breakdown and preparation strategy."
+excerpt: "A step-by-step roadmap for cracking NIMCET and CUET MCA. Get expert strategies, study plans, and syllabus insights for MCA entrance exams."
 tags: ["NIMCET", "CUET MCA", "MCA Entrance", "Syllabus", "Preparation Strategy", "NIT", "JNU"]
 ---
 

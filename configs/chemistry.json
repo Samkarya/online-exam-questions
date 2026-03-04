@@ -11,7 +11,9 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "Introduction to Chemistry Practice Test | Chemistry 101",
+        "seo_description": "Test your knowledge with our free Introduction to Chemistry practice test. Answer multiple-choice questions on scientific method, measurement, and lab safety."
     },
     {
         "id": "chem101_Atomic_Theory",
@@ -25,7 +27,9 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "Atomic Theory Practice Test & Quiz | Chemistry 101",
+        "seo_description": "Free online practice test on atomic theory. Test your knowledge of atomic structure, subatomic particles, isotopes, and historical models."
     },
     {
         "id": "chem101_Electronic_Structure",
@@ -39,7 +43,9 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "Electronic Structure of Atoms Practice Quiz | Chemistry 101",
+        "seo_description": "Master electronic structure with our free quiz. Practice quantum numbers, orbital diagrams, and electron configurations online."
     },
     {
         "id": "chem101_Periodic_Table",
@@ -53,7 +59,9 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "Periodic Table Trends Practice Test | Chemistry 101",
+        "seo_description": "Free online practice test on periodic trends. Test your knowledge of atomic radius, ionization energy, and electronegativity."
     },
     {
         "id": "chem101_Bonding_Ionic_Covalent",
@@ -67,7 +75,9 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "Ionic & Covalent Bonding Practice Quiz | Chemistry 101",
+        "seo_description": "Test your knowledge of ionic and covalent bonding. Free practice quiz covering Lewis structures, lattice energy, and bond polarity."
     },
     {
         "id": "chem101_Bonding_Geometry",
@@ -81,7 +91,9 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "Molecular Geometry & VSEPR Practice Test | Chemistry 101",
+        "seo_description": "Master molecular shapes and VSEPR theory with our free practice test. Covers hybridization, molecular geometry, and intermolecular forces."
     },
     {
         "id": "chem101_Stoichiometry",
@@ -95,7 +107,9 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "Stoichiometry & Reactions Practice Quiz | Chemistry 101",
+        "seo_description": "Practice stoichiometry and chemical reactions. Free online quiz covering mole calculations, limiting reagents, and reaction yield."
     },
     {
         "id": "chem101_Gas_Laws",
@@ -109,7 +123,9 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "Gas Laws & States of Matter Practice Test | Chemistry 101",
+        "seo_description": "Free practice test on gas laws and states of matter. Solve problems involving Ideal Gas Law, partial pressures, and phase diagrams."
     },
     {
         "id": "chem101_Thermochemistry",
@@ -123,7 +139,9 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "Thermochemistry Practice Quiz | Enthalpy & Hess's Law",
+        "seo_description": "Test your knowledge of thermochemistry. Free online quiz covering enthalpy, calorimetry, Hess's Law, and heat transfer calculations."
     },
     {
         "id": "chem101_Equilibrium",
@@ -137,7 +155,9 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "Chemical Equilibrium Practice Test | Chemistry 101 Quiz",
+        "seo_description": "Master chemical equilibrium with our free practice test. Covers equilibrium constants, Le Chatelier's principle, and ICE tables."
     },
     {
         "id": "chem101_Acids_Bases",
@@ -151,7 +171,9 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "Acids, Bases & Salts Practice Quiz | pH Calculations",
+        "seo_description": "Free online quiz on acids, bases, and salts. Test your understanding of pH calculations, strength definitions, and acid-base theories."
     },
     {
         "id": "chem101_Buffers_Titrations",
@@ -165,7 +187,9 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "Buffer Solutions & Titrations Practice Test | Chemistry 101",
+        "seo_description": "Master buffer solutions and titrations. Free practice test covering Henderson-Hasselbalch equation and titration curve analysis."
     },
     {
         "id": "chem101_Kinetics",
@@ -179,7 +203,9 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "Chemical Kinetics Practice Quiz | Reaction Rates & Laws",
+        "seo_description": "Test your knowledge of chemical kinetics. Free online quiz on reaction rates, rate laws, orders of reaction, and activation energy."
     },
     {
         "id": "chem101_Redox_Electrochemistry",
@@ -193,7 +219,9 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "Redox & Electrochemistry Practice Test | Chemistry 101",
+        "seo_description": "Free practice test on redox reactions and electrochemistry. Covers redox balancing, electrochemical cells, and Nernst equation."
     },
     {
         "id": "chem101_Lab_Chemistry",
@@ -207,6 +235,8 @@
         "session": null,
         "date": null,
         "shift": null,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "Laboratory Chemistry Practice quiz | Lab Techniques",
+        "seo_description": "Test your knowledge of laboratory techniques. Free online quiz covering glassware usage, titrations, and error analysis in chemistry."
     }
 ]
