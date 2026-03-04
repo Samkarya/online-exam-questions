@@ -13,7 +13,9 @@
         "path": "usa/biotechnology/BACE/bace_biotech_skills.json",
         "model": "gemini-3-pro",
         "defaultQuestionCount": 60,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "BACE Biotechnology Skills Practice Test | Biotech Practical Prep",
+        "seo_description": "Prepare for the BACE Biotechnology Skills practical section. Free online practice test covering aseptic techniques, micropipetting, and lab safety."
     },
     {
         "id": "bace_tech_skills_knowledge",
@@ -29,7 +31,9 @@
         "path": "usa/biotechnology/BACE/bace_tech_skills.json",
         "model": "gemini-3-pro",
         "defaultQuestionCount": 50,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "BACE Technical Skills & Applications Mock Test | Biotech Exam",
+        "seo_description": "Practice BACE Technical Skills and Applications. Free mock test on PCR, electrophoresis, immunoassays, and chromatography for biotech certification."
     },
     {
         "id": "bace_applied_math",
@@ -45,7 +49,9 @@
         "path": "usa/biotechnology/BACE/bace_applied_math.json",
         "model": "gemini-3-pro",
         "defaultQuestionCount": 30,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "BACE Applied Mathematics Practice Test | Biotech Lab Math",
+        "seo_description": "Master BACE applied mathematics with our free practice test. Solve lab calculations involving dilutions, molarity, and unit conversions."
     },
     {
         "id": "bace_safety_culture",
@@ -61,7 +67,9 @@
         "path": "usa/biotechnology/BACE/bace_safety.json",
         "model": "gemini-3-pro",
         "defaultQuestionCount": 30,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "BACE Safety & Workplace Culture Mock Test | Lab Safety Prep",
+        "seo_description": "Prepare for the BACE Safety and Workplace Culture section. Free practice test on PPE, biohazard disposal, and OSHA lab safety standards."
     },
     {
         "id": "bace_biochem_molecular",
@@ -77,7 +85,9 @@
         "path": "usa/biotechnology/BACE/bace_biochem.json",
         "model": "gemini-3-pro",
         "defaultQuestionCount": 30,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "BACE Biochemistry & Molecular Biology Practice Quiz",
+        "seo_description": "Test your knowledge of the Central Dogma, enzyme kinetics, and protein structure with our free BACE Biochemistry and Molecular Biology practice quiz."
     },
     {
         "id": "bace_regulation_quality",
@@ -93,7 +103,9 @@
         "path": "usa/biotechnology/BACE/bace_regulation.json",
         "model": "gemini-3-pro",
         "defaultQuestionCount": 20,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "BACE Regulation & Quality Control Mock Test | Biotech QA/QC",
+        "seo_description": "Practice BACE Regulation and Quality Control. Free online test covering cGMP, GLP, QA/QC roles, and data integrity principles for biotechnology."
     },
     {
         "id": "bace_equipment_design",
@@ -109,6 +121,8 @@
         "path": "usa/biotechnology/BACE/bace_equipment_design.json",
         "model": "gemini-3-pro",
         "defaultQuestionCount": 40,
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "BACE Equipment & Experimental Design Practice Test",
+        "seo_description": "Master BACE equipment operation and experimental design. Free practice test on centrifuge use, autoclave cycles, and experimental error analysis."
     }
 ]

@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Guide to Using Examify"
+title: "The Complete Guide on How to Use Examify Online Simulator"
 date: "2025-05-15"
 author: "The Examify Team"
-excerpt: "Your comprehensive step-by-step guide to mastering Examify: From selecting/uploading exams to reviewing results and tracking your progress."
+excerpt: "A complete beginner's guide to using Examify. Master navigating mock tests, tracking progress, and uploading custom questionnaires in minutes."
 tags: ["Examify", "User Guide", "Tutorial", "Getting Started", "How To", "Exam Simulator", "Online Practice Test"]
 ---
 

@@ -11,7 +11,9 @@
         "short_description": "JEE Main 2025 Session 1 Morning Shift paper for B.E./B.Tech aspirants, covering Physics, Chemistry, and Math.",
         "description": "### JEE Main 2025 - Session 1 (Morning Shift)\n\n**Date:** January 22, 2025 | **Shift:** 09:00 AM - 12:00 PM\n**Conducted By:** National Testing Agency (NTA)\n\nThis is the official **Paper 1 (B.E./B.Tech)** question paper containing 90 questions (30 per subject).\n\n**Subject Breakdown:**\n1.  **Physics:** Mechanics, Electrodynamics, Thermodynamics.\n2.  **Chemistry:** Organic, Inorganic, and Physical Chemistry.\n3.  **Mathematics:** Calculus, Coordinate Geometry, Algebra.\n\n> Contains both MCQ and Numerical Value Type questions.",
         "path": "India/undergraduate/JEEMains/jeeMain_2025_22Jan_shift1.json",
-        "isOfficial": true
+        "isOfficial": true,
+        "seo_title": "JEE Main 22 Jan Shift 1 Mock Test (Official Paper Practice)",
+        "seo_description": "Take the official JEE Main 22 January Shift 1 question paper as an online mock test. Analyze your performance and practice NTA exam patterns."
     },
     {
         "id": "jeeMain_2025_22Jan_shift2",
@@ -25,6 +27,8 @@
         "short_description": "JEE Main 2025 Session 1 Evening Shift paper with MCQs and numerical value questions for engineering entrance.",
         "description": "### JEE Main 2025 - Session 1 (Evening Shift)\n\n**Date:** January 22, 2025 | **Shift:** 03:00 PM - 06:00 PM\n**Conducted By:** National Testing Agency (NTA)\n\nOfficial question paper for the afternoon session. This paper is crucial for students analyzing shift-wise difficulty variations and normalization trends.\n\n**Paper Structure:**\n*   **Section A:** 20 MCQs per subject.\n*   **Section B:** 10 Numerical Value questions (Attempt any 5).\n\n**Focus Areas:** High-weightage topics including Rotational Motion, Chemical Bonding, and Integral Calculus.",
         "path": "India/undergraduate/JEEMains/jeeMain_2025_22Jan_shift2.json",
-        "isOfficial": true
+        "isOfficial": true,
+        "seo_title": "JEE Main 22 Jan Shift 2 Mock Test (Official Paper Practice)",
+        "seo_description": "Practice the official JEE Main 22 January Shift 2 question paper online. Timed mock test for engineering aspirants to improve speed and accuracy."
     }
 ]

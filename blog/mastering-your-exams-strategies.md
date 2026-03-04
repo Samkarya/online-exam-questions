@@ -1,3 +1,10 @@
+---
+title: "Master Your Exams: Proven Study Strategies & Tips"
+date: "2025-06-01"
+author: "The Examify Team"
+excerpt: "Mastering exam preparation requires more than hard work; it requires smart strategies. Discover top study methods like Active Recall & Pomodoro."
+tags: ["Exam Strategy", "JEE", "NEET", "NIMCET", "Study Tips", "Time Management", "Mock Tests"]
+---
 
 Success in competitive exams like JEE, NEET, UPSC, NIMCET, or CUET isn't just about how much you know—it's about how well you can apply that knowledge under pressure.
 

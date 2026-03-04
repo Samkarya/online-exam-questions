@@ -1,8 +1,8 @@
 ---
-title: "How to Use AI to Prepare for Exams Using Examify"
+title: "How to Use AI for Exam Preparation | Study Smarter"
 date: "2025-11-30"
 author: "The Examify Team"
-excerpt: "We have added new features to Examify to help you prepare for exams using AI. Learn how to generate personalized exam papers using AI models like ChatGPT, Claude, and Gemini."
+excerpt: "Discover how to leverage AI for studying. Learn to generate custom practice tests, use AI study guides, and improve your exam prep efficiency."
 tags: ["AI", "Exam Preparation", "Examify Features", "Personalized Learning", "LLM", "Custom Exams"]
 ---
 

@@ -14,7 +14,9 @@
       "description": "A lightweight example exam used for testing flows, UI, and integrations. Not a real certification.",
       "officialWebsite": null,
       "isOfficial": false,
-      "lastUpdated": "2026-02-09"
+      "lastUpdated": "2026-02-09",
+      "seoTitle": "Examify Demo: Free Online Mock Test & Exam Simulator",
+      "seoDescription": "Try the Examify mock test simulator for free. Experience a realistic, timed exam environment with sample questions to test your preparation and our platform."
     },
     "path": "configs/demo.json"
   },
@@ -34,7 +36,9 @@
       "description": "Collection of chemistry practice papers: inorganic, organic, physical chemistry, and board-level questions.",
       "officialWebsite": null,
       "isOfficial": false,
-      "lastUpdated": "2026-02-09"
+      "lastUpdated": "2026-02-09",
+      "seoTitle": "Free Chemistry Mock Tests & Practice Exams Online | Examify",
+      "seoDescription": "Master chemistry with free, comprehensive mock tests. Practice topics from atomic structure to thermochemistry with realistic, timed exams for better grades."
     },
     "path": "configs/chemistry.json"
   },
@@ -52,7 +56,9 @@
       "description": "Entrance exam for MCA programs at participating NITs. Includes mathematics, analytical ability and computer awareness.",
       "officialWebsite": "https://nimcet.admissions.nic.in/",
       "isOfficial": false,
-      "lastUpdated": "2026-02-09"
+      "lastUpdated": "2026-02-09",
+      "seoTitle": "NIMCET Free Mock Tests & Previous Year Papers | MCA Prep",
+      "seoDescription": "Prepare for the NIMCET MCA entrance exam with free online mock tests. Access previous year question papers in a timed format to boost your entrance score."
     },
     "path": "configs/nimcet.json"
   },
@@ -70,7 +76,9 @@
       "description": "English language proficiency test for academic and immigration purposes. Four modules: Listening, Reading, Writing, Speaking.",
       "officialWebsite": "https://www.ielts.org",
       "isOfficial": true,
-      "lastUpdated": "2026-02-09"
+      "lastUpdated": "2026-02-09",
+      "seoTitle": "Free IELTS Practice Tests & Mock Exams (Reading & Listening)",
+      "seoDescription": "Boost your IELTS band score with free online practice tests. Simulate the real exam with timed mock tests for IELTS Reading, Listening, and Grammar."
     },
     "path": "configs/ielts.json"
   },
@@ -88,7 +96,9 @@
       "description": "Entrance exam for undergraduate engineering admissions (multiple papers/levels). Covers Physics, Chemistry, Mathematics.",
       "officialWebsite": "https://jeemain.nta.nic.in/",
       "isOfficial": true,
-      "lastUpdated": "2026-02-09"
+      "lastUpdated": "2026-02-09",
+      "seoTitle": "JEE Main Free Mock Tests & Shift-wise Practice Papers",
+      "seoDescription": "Dominate the NTA JEE Main with free online mock tests. Test your speed and accuracy with official shift-wise practice papers and expert-level simulations."
     },
     "path": "configs/jee.json"
   },
@@ -108,7 +118,9 @@
       "description": "An industry-recognized credential that assesses core theoretical knowledge and practical laboratory skills for entry-level biotechnology roles.",
       "officialWebsite": "https://biotility.research.ufl.edu",
       "isOfficial": false,
-      "lastUpdated": "2024-05-22"
+      "lastUpdated": "2024-05-22",
+      "seoTitle": "BACE Certification Practice Tests & Online Mock Exams",
+      "seoDescription": "Prepare for the Biotechnician Assistant Credentialing Exam (BACE) with targeted mock tests. Master biotech skills, applied math, and lab techniques online."
     },
     "path": "configs/bace.json"
   },
@@ -126,7 +138,9 @@
       "description": "Licensure tests for prospective teachers in Massachusetts. Covers subject knowledge and pedagogy.",
       "officialWebsite": "https://www.doe.mass.edu/mtel/",
       "isOfficial": true,
-      "lastUpdated": "2026-02-09"
+      "lastUpdated": "2026-02-09",
+      "seoTitle": "Free MTEL Practice Tests | Teacher Licensure Exam Prep",
+      "seoDescription": "Prepare for the Massachusetts Tests for Educator Licensure (MTEL) with free online mock tests. Focus on Physical Education and subject-specific exam practice."
     },
     "path": "configs/mtel.json"
   },
@@ -144,7 +158,9 @@
       "description": "National-level management entrance exam for admission to IIMs and other management programs. Sections commonly include VARC, DILR, and QA.",
       "officialWebsite": "https://iimcat.ac.in/",
       "isOfficial": true,
-      "lastUpdated": "2026-02-09"
+      "lastUpdated": "2026-02-09",
+      "seoTitle": "Free CAT Mock Tests & IIM Entrance Online Practice",
+      "seoDescription": "Crack the CAT with free online mock tests. Practice slot-wise quantitative aptitude and logical reasoning with timed simulations designed for IIM aspirants."
     },
     "path": "configs/cat.json"
   },
@@ -162,7 +178,9 @@
       "description": "Recruitment exams for technical and non-technical posts in Indian Railways. Multiple streams and regional notifications.",
       "officialWebsite": null,
       "isOfficial": true,
-      "lastUpdated": "2026-02-09"
+      "lastUpdated": "2026-02-09",
+      "seoTitle": "Free RRB NTPC Mock Tests | Railway Recruitment CBT Prep",
+      "seoDescription": "Level up your railway exam prep with free RRB NTPC online mock tests. Simulate the CBT environment with practice papers for better speed and accuracy."
     },
     "path": "configs/rrb.json"
   },
@@ -181,7 +199,9 @@
       "description": "The Basic Education Certificate Examination (BECE) is a Junior Secondary School (JSS3) exit examination in Nigeria conducted by NECO. It certifies completion of the 9-year Basic Education programme and qualifies students for admission into Senior Secondary School (SS1). Subjects include English Studies, Mathematics, Basic Science and Technology, National Values Education, Pre-Vocational Studies, Cultural and Creative Arts, and others.",
       "officialWebsite": "https://neco.gov.ng",
       "isOfficial": false,
-      "lastUpdated": "2026-02-13"
+      "lastUpdated": "2026-02-13",
+      "seoTitle": "BECE Practice Tests & Past Questions Online | Junior WAEC",
+      "seoDescription": "Access free online practice tests for the Basic Education Certificate Examination (BECE). Review Math, Science, and Technology with past question simulations."
     },
     "path": "configs/bece.json"
   },
@@ -200,7 +220,9 @@
       "description": "Latihan soal PJOK (Pendidikan Jasmani, Olahraga, dan Kesehatan) untuk siswa kelas 5 SD. Mencakup materi olahraga, kesehatan, dan pola hidup sehat. Referensi buku yang digunakan adalah https://static.sc.cloudapp.web.id/content/pdf/bukuteks/kurikulum21/PJOK_BS_KLS_V.pdf",
       "officialWebsite": null,
       "isOfficial": false,
-      "lastUpdated": "2026-02-14"
+      "lastUpdated": "2026-02-14",
+      "seoTitle": "Latihan Soal PJOK Kelas 5 SD Online | Examify Mock Tests",
+      "seoDescription": "Latihan interaktif soal-soal Pendidikan Jasmani, Olahraga, dan Kesehatan (PJOK) untuk siswa Kelas 5 SD. Persiapan ujian sekolah yang mudah dan gratis."
     },
     "path": "configs/pjok-kelas-5.json"
   },
@@ -219,7 +241,9 @@
       "description": "A competitive event focusing on nutrition knowledge, including medical nutrition therapy, macronutrients, and cultural food patterns. Part of the Health Science events category in HOSA.",
       "officialWebsite": "https://hosa.org/competitive-events/",
       "isOfficial": false,
-      "lastUpdated": "2026-02-15"
+      "lastUpdated": "2026-02-15",
+      "seoTitle": "HOSA Nutrition Practice Tests & Competitive Event Prep",
+      "seoDescription": "Master your HOSA Nutrition competitive event with free online practice tests. Cover macronutrients, clinical nutrition, and dietary guidelines effectively."
     },
     "path": "configs/hosa-nutrition.json"
   },
@@ -239,7 +263,9 @@
       "description": "An FBLA competitive event that evaluates foundational knowledge of marketing principles, including the marketing mix, consumer behavior, market research, pricing strategies, promotion, branding, and marketing ethics. Designed primarily for introductory-level high school students.",
       "officialWebsite": "https://www.fbla.org/competitive-events/introduction-to-marketing-concepts/",
       "isOfficial": false,
-      "lastUpdated": "2026-02-23"
+      "lastUpdated": "2026-02-23",
+      "seoTitle": "FBLA Intro to Marketing Mock Tests & Practice Exams",
+      "seoDescription": "Prepare for the FBLA Introduction to Marketing Concepts competitive event. Take free online practice tests covering the marketing mix, consumer behavior, and more."
     },
     "path": "configs/fbla-intro-marketing.json"
   }

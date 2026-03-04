@@ -11,7 +11,9 @@
         "short_description": "Contains 66 Questions",
         "description": "BECE Mathematics Numerical Literacy Practice Paper Covers Whole Nubmers, Basic Operations & Financial Math, Number & Numeration",
         "path": "nigeria/BECE/mathematics/numericalLiteracy.json",
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "BECE Mathematics Numerical Literacy Practice Test",
+        "seo_description": "Practice BECE Mathematics Numerical Literacy online. Free practice paper covering whole numbers, basic operations, and financial math for Junior WAEC."
     },
     {
         "id": "bece_statistics&probability",
@@ -25,7 +27,9 @@
         "short_description": "Contains 48 Questions",
         "description": "BECE Mathematics Statistics & Probability Practice Paper Covers Data Presentation, Statistics, Probability",
         "path": "nigeria/BECE/mathematics/statistics&probability.json",
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "BECE Mathematics Statistics & Probability Practice Test",
+        "seo_description": "Free BECE Statistics and Probability practice test. Master data presentation and probability concepts for the Nigeria Basic Education Certificate Examination."
     },
     {
         "id": "bece_algebraicProcesses",
@@ -39,7 +43,9 @@
         "short_description": "Contains 54 Questions",
         "description": "BECE Mathematics Algebraic Processes Practice Paper Covers Algebraic Processes",
         "path": "nigeria/BECE/mathematics/algebraicProcesses.json",
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "BECE Mathematics Algebraic Processes Practice Test",
+        "seo_description": "Practice BECE algebraic processes with our free online test. Improve your Junior WAEC math score with targeted algebra questions and solutions."
     },
     {
         "id": "bece_geometry&measurement",
@@ -53,7 +59,9 @@
         "short_description": "Contains 72 Questions",
         "description": "BECE Mathematics Geometry & Measurement Practice Paper Covers Geometry & Measurement",
         "path": "nigeria/BECE/mathematics/geometry&measurement.json",
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "BECE Mathematics Geometry & Measurement Practice Test",
+        "seo_description": "Take a free BECE Geometry and Measurement practice test online. Comprehensive math prep for JSS3 students in Nigeria."
     },
     {
         "id": "bece_basicScience",
@@ -67,7 +75,9 @@
         "short_description": "Contains 60 Questions",
         "description": "BECE Basic Science Practice Paper Covers Basic Science",
         "path": "nigeria/BECE/basicScience/basicScience.json",
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "BECE Basic Science Online Practice Test | Junior WAEC",
+        "seo_description": "Prepare for the BECE Basic Science exam with our free online practice test. Test your knowledge of biology, physics, and chemistry concepts."
     },
     {
         "id": "bece_Technology&ComputerScience",
@@ -81,7 +91,9 @@
         "short_description": "Contains 100 Questions",
         "description": "BECE Basic Technology & Computer Science Practice Paper Covers Basic Technology & Computer Science",
         "path": "nigeria/BECE/basicTechnology&ComputerScience/basicTechnology&ComputerScience.json",
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "BECE Basic Technology & Computer Science Practice Test",
+        "seo_description": "Master Basic Technology and Computer Science for BECE. 100-question practice paper designed to help JSS3 students excel in their exit exams."
     },
     {
         "id": "bece_physicalEducation",
@@ -95,6 +107,8 @@
         "short_description": "Contains 60 Questions",
         "description": "BECE Physical Education Practice Paper Covers Physical Education",
         "path": "nigeria/BECE/physicalEducation/physicalEducation.json",
-        "isOfficial": false
+        "isOfficial": false,
+        "seo_title": "BECE Physical Education (PHE) Practice Test Online",
+        "seo_description": "Free BECE Physical Health Education practice test. Review core PHE topics and prepare for your Nigeria Junior Secondary School certificate."
     }
 ]
