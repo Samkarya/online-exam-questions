@@ -268,5 +268,27 @@
       "seoDescription": "Prepare for the FBLA Introduction to Marketing Concepts competitive event. Take free online practice tests covering the marketing mix, consumer behavior, and more."
     },
     "path": "configs/fbla-intro-marketing.json"
+  },
+  "cppb-exam": {
+    "meta": {
+      "examId": "CPPB",
+      "fullName": "Certified Professional Public Buyer",
+      "shortName": "CPPB",
+      "category": "Public Procurement / Supply Chain",
+      "conductingBody": "Universal Public Procurement Certification Council (UPPCC)",
+      "country": "USA / Canada / International",
+      "examType":[
+        "Professional Certification",
+        "Objective Test",
+        "Multiple Choice"
+      ],
+      "description": "A premier professional certification validating the competency of public-sector purchasing agents in non-managerial roles. The exam assesses knowledge across six domains based on the UPPCC Body of Knowledge and Competency (BoK-C), including regulatory compliance, the procurement life cycle, leadership, and business principles.",
+      "officialWebsite": "https://uppcc.org",
+      "isOfficial": false,
+      "lastUpdated": "2026-03-10",
+      "seoTitle": "CPPB Certification Mock Tests & Practice Exams",
+      "seoDescription": "Prepare for the UPPCC Certified Professional Public Buyer (CPPB) certification. Take online practice tests covering public procurement planning, sourcing, contract administration, and public purchasing law."
+    },
+    "path": "configs/cppb.json"
   }
 }

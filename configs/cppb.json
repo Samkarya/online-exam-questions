@@ -1,0 +1,50 @@
+[
+    {
+        "id": "cppb_domain_1_regulatory_compliance",
+        "category": "Certified Professional Public Buyer",
+        "year": "Practice",
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Domain I: Regulatory & Compliance",
+        "title": "Domain I: Regulatory & Compliance",
+        "short_description": "Contains 120 Questions",
+        "description": "### Domain I: Regulatory & Compliance\n\nFocuses on the legal and ethical framework of public procurement, including the Uniform Commercial Code (UCC), Law of Agency, and anti-competitive practices.\n\n**Topics Included:**\n*   **UCC Foundations:** Warranties (Express/Implied), Shipping Terms (FOB), and Rights of Buyer/Seller.\n*   **Law of Agency:** Types of Authority (Actual Express/Implied, Apparent) and Fiduciary Duties.\n*   **Contract Law Basics:** Essential elements (Offer, Acceptance, Consideration) and enforceability.\n*   **Legal Frameworks:** Common Law vs. Statutory Law and the Statute of Frauds.\n*   **Ethics & Compliance:** Identifying Collusion, Bid-rigging, and Conflicts of Interest.",
+        "path": "usa/certification/CPPB/RegulatoryAndCompliance.json",
+        "isOfficial": false,
+        "seo_title": "CPPB Domain I Practice Test: Regulatory & Compliance Concepts",
+        "seo_description": "Master CPPB Domain I with this practice test. Review UCC, Law of Agency, and procurement ethics for the Certified Professional Public Buyer exam."
+    },
+    {
+        "id": "cppb_domain_2_pre_solicitation_planning",
+        "category": "Certified Professional Public Buyer",
+        "year": "Practice",
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Domain II: Pre-Solicitation Planning",
+        "title": "Domain II: Pre-Solicitation Planning",
+        "short_description": "Contains 160+ Questions",
+        "description": "### Domain II: Pre-Solicitation Planning\n\nCovers the critical first steps of the procurement lifecycle, focusing on strategic integration, needs analysis, and market research.\n\n**Topics Included:**\n*   **Strategic Integration:** Aligning procurement with organizational goals and stakeholder management.\n*   **Needs Analysis:** Spend analysis, Lease-vs-Buy (NPV), and Total Cost of Ownership (TCO).\n*   **Market Research:** Supply positioning (Kraljic Matrix), demand forecasting, and value analysis/engineering.\n*   **Procurement Strategy:** Standardization, demand aggregation, and unbundling.\n*   **Information Gathering:** Using RFIs, Sources Sought notices, and Draft RFPs effectively.",
+        "path": "usa/certification/CPPB/PreSolicitationPlanning.json",
+        "isOfficial": false,
+        "seo_title": "CPPB Domain II Practice Test: Pre-Solicitation Planning Sourcing",
+        "seo_description": "Prepare for the CPPB exam with Domain II practice questions. Focus on spend analysis, market research, and strategic procurement planning."
+    },
+    {
+        "id": "cppb_domain_3_sourcing_supplier_selection",
+        "category": "Certified Professional Public Buyer",
+        "year": "Practice",
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Domain III: Sourcing & Supplier Selection",
+        "title": "Domain III: Sourcing & Supplier Selection",
+        "short_description": "Contains 160 Questions",
+        "description": "### Domain III: Sourcing & Supplier Selection\n\nEvaluates the methods and processes used to select the right supplier, from formal bidding to alternative sourcing methods.\n\n**Topics Included:**\n*   **Competitive Methods:** Detailed knowledge of IFB/ITB, RFP, and Multi-step bidding processes.\n*   **Professional Services:** Qualification-Based Selection (QBS) and the Brooks Act.\n*   **Alternative Sourcing:** Justifying Sole Source, Single Source, and Emergency Purchases.\n*   **Evaluation Techniques:** Best Value determination, weighted scoring matrices, and responsiveness/responsibility.\n*   **Informal Sourcing:** Efficient use of Request for Quotations (RFQ) for small-dollar purchases.",
+        "path": "usa/certification/CPPB/SourcingAndSupplierSelection.json",
+        "isOfficial": false,
+        "seo_title": "CPPB Domain III Practice Test: Sourcing & Supplier selection",
+        "seo_description": "Review CPPB Domain III concepts including competitive bidding (IFB, RFP), QBS, and sole source justifications with our free practice test."
+    }
+]
