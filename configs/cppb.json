@@ -46,5 +46,53 @@
         "isOfficial": false,
         "seo_title": "CPPB Domain III Practice Test: Sourcing & Supplier selection",
         "seo_description": "Review CPPB Domain III concepts including competitive bidding (IFB, RFP), QBS, and sole source justifications with our free practice test."
+    },
+    {
+        "id": "cppb_domain_4_procurement_business_principles",
+        "category": "Certified Professional Public Buyer",
+        "year": "Practice",
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Domain IV: Procurement Business Principles",
+        "title": "Domain IV: Procurement Business Principles",
+        "short_description": "Contains 120 Questions",
+        "description": "### Domain IV: Procurement Business Principles\n\nEmphasizes transparency, integrity, and leveraging data for efficient procurement activities within the regulatory and legal framework.\n\n**Topics Included:**\n*   **Fair Competition:** Promoting open competition, avoiding restrictive specifications, and identifying anti-competitive practices.\n*   **Strategic Sourcing:** Using spend analysis to identify opportunities for contract consolidation and volume discounts.\n*   **Emerging Trends:** Implementing RPA, Agile procurement, and Predictive Analytics in public sector sourcing.\n*   **Specialty Programs:** Managing MWBE/DBE programs, Disparity Studies, and sustainable 'Green' purchasing initiatives.\n*   **Roles & Authority:** Understanding the Law of Agency, express vs. implied authority, and segregation of duties.",
+        "path": "usa/certification/CPPB/ProcurementBusinessPrinciples.json",
+        "isOfficial": false,
+        "seo_title": "CPPB Domain IV Practice Test: Procurement Business Principles",
+        "seo_description": "Master CPPB Domain IV with our practice test. Focus on fair competition, strategic sourcing, emerging trends, and specialty procurement programs."
+    },
+    {
+        "id": "cppb_domain_5_leadership_influence",
+        "category": "Certified Professional Public Buyer",
+        "year": "Practice",
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Domain V: Leadership & Influence",
+        "title": "Domain V: Leadership & Influence",
+        "short_description": "Contains 130 Questions",
+        "description": "### Domain V: Leadership & Influence\n\nFocuses on advocating the value of procurement, professional ethics, and effective communication with stakeholders.\n\n**Topics Included:**\n*   **Advocating Value:** Shifting procurement from administrative to strategic, tracking ROI, and stakeholder alignment.\n*   **Ethics & Values:** Managing conflicts of interest, NIGP Code of Ethics, transparency, and accountability.\n*   **Targeted Communication:** Active listening techniques, managing 'bad news', and non-verbal communication in negotiations.\n*   **Professional Development:** Continuous learning, leadership training, and maintaining professional certifications.\n*   **Influencing Stakeholders:** Building trust with elected officials and internal department heads to achieve strategic goals.",
+        "path": "usa/certification/CPPB/LeadershipAndInfluence.json",
+        "isOfficial": false,
+        "seo_title": "CPPB Domain V Practice Test: Leadership & Influence",
+        "seo_description": "Prepare for CPPB Domain V with practice questions on procurement leadership, professional ethics, and strategic communication."
+    },
+    {
+        "id": "cppb_domain_6_contract_development_administration",
+        "category": "Certified Professional Public Buyer",
+        "year": "Practice",
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Domain VI: Contract Development & Administration",
+        "title": "Domain VI: Contract Development & Administration",
+        "short_description": "Contains 150 Questions",
+        "description": "### Domain VI: Contract Development & Administration\n\nCovers the oversight of supplier performance and guiding a contract from execution to successful completion and closeout.\n\n**Topics Included:**\n*   **Legal Foundations:** Key contract elements, UCC foundations, and Order of Precedence.\n*   **Administration:** Managing the approval process, encumbering funds, and using Contract Management Plans (CMP).\n*   **Modifications:** Handling unilateral vs. bilateral modifications, change orders, and avoiding constructive changes.\n*   **Performance Monitoring:** Post-award meetings, tracking milestones, and handling delays (Force Majeure).\n*   **Close-out & Renewals:** Managing transition-in/out, exercising renewal options, and lessons-learned reviews.",
+        "path": "usa/certification/CPPB/ContractDevelopmentAndAdministration.json",
+        "isOfficial": false,
+        "seo_title": "CPPB Domain VI Practice Test: Contract Development & Administration",
+        "seo_description": "Review CPPB Domain VI concepts including contract formation, performance monitoring, modifications, and close-out procedures."
     }
 ]
