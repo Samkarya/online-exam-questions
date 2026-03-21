@@ -290,5 +290,27 @@
       "seoDescription": "Prepare for the UPPCC Certified Professional Public Buyer (CPPB) certification. Take online practice tests covering public procurement planning, sourcing, contract administration, and public purchasing law."
     },
     "path": "configs/cppb.json"
+  },
+  "hosa-forensic-science": {
+    "meta": {
+      "examId": "HOSA-FS",
+      "fullName": "HOSA Forensic Science Competitive Event",
+      "shortName": "HOSA Forensic Science",
+      "category": "Healthcare & Science Competitions / CTSO",
+      "conductingBody": "HOSA-Future Health Professionals",
+      "country": "International (Primary: USA / Canada)",
+      "examType":[
+        "Competitive Event",
+        "Objective Test",
+        "Written Case Study"
+      ],
+      "description": "A premier competitive event by HOSA that evaluates a two-person team's ability to apply forensic and medical knowledge to solve a simulated problem. The event consists of a Round 1 50-question multiple-choice objective test and a Round 2 written case study analysis based on autopsy data and crime scene evidence.",
+      "officialWebsite": "https://hosa.org",
+      "isOfficial": false,
+      "lastUpdated": "2026-03-21",
+      "seoTitle": "HOSA Forensic Science Mock Tests, Practice Exams",
+      "seoDescription": "Prepare for the HOSA Forensic Science competitive event. Take online practice tests covering crime scene investigation, toxicology, forensic anthropology, entomology, and DNA analysis to ace Round 1 Mcqs."
+    },
+    "path": "configs/hosa-forensic-science.json"
   }
 }
