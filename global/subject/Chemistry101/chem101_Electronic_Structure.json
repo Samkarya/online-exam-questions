@@ -252,7 +252,7 @@
         },
         "correct_answer": "d",
         "difficulty": "Medium",
-        "explanation": "Iron has 26 electrons. Order: $1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^6$. Note that while $4s$ fills before $3d$, standard writing convention often groups shells by principal quantum number, but option (a) and (d) are chemically equivalent in content. Examify standard often accepts the filling order or the principal shell order. $1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^6$ correctly accounts for all electrons.",
+        "explanation": "Iron has 26 electrons. Order: $1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^6$. Note that while $4s$ fills before $3d$, standard writing convention often groups shells by principal quantum number, but option (a) and (d) are chemically equivalent in content. ExamOven standard often accepts the filling order or the principal shell order. $1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^6$ correctly accounts for all electrons.",
         "section_id": null
     },
     {

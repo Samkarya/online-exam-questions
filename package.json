@@ -1,7 +1,7 @@
 {
   "name": "online-exam-questions",
   "version": "1.0.0",
-  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\r [![Examify](https://img.shields.io/badge/Used%20By-Examify-blue)](https://examify.web.app/)",
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\r [![Examify](https://img.shields.io/badge/Used%20By-Examify-blue)](https://examoven.com/)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

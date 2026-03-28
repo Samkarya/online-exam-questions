@@ -5,7 +5,7 @@
       "fullName": "Demo / Playground Exam",
       "shortName": "Demo",
       "category": "Demo",
-      "conductingBody": "Examify",
+      "conductingBody": "ExamOven",
       "country": "Global",
       "examType": [
         "Practice",
@@ -15,8 +15,8 @@
       "officialWebsite": null,
       "isOfficial": false,
       "lastUpdated": "2026-02-09",
-      "seoTitle": "Examify Demo: Free Online Mock Test & Exam Simulator",
-      "seoDescription": "Try the Examify mock test simulator for free. Experience a realistic, timed exam environment with sample questions to test your preparation and our platform."
+      "seoTitle": "ExamOven Demo: Free Online Mock Test & Exam Simulator",
+      "seoDescription": "Try the ExamOven mock test simulator for free. Experience a realistic, timed exam environment with sample questions to test your preparation and our platform."
     },
     "path": "configs/demo.json"
   },
@@ -37,7 +37,7 @@
       "officialWebsite": null,
       "isOfficial": false,
       "lastUpdated": "2026-02-09",
-      "seoTitle": "Free Chemistry Mock Tests & Practice Exams Online | Examify",
+      "seoTitle": "Free Chemistry Mock Tests & Practice Exams Online | ExamOven",
       "seoDescription": "Master chemistry with free, comprehensive mock tests. Practice topics from atomic structure to thermochemistry with realistic, timed exams for better grades."
     },
     "path": "configs/chemistry.json"
@@ -221,7 +221,7 @@
       "officialWebsite": null,
       "isOfficial": false,
       "lastUpdated": "2026-02-14",
-      "seoTitle": "Latihan Soal PJOK Kelas 5 SD Online | Examify Mock Tests",
+      "seoTitle": "Latihan Soal PJOK Kelas 5 SD Online | ExamOven Mock Tests",
       "seoDescription": "Latihan interaktif soal-soal Pendidikan Jasmani, Olahraga, dan Kesehatan (PJOK) untuk siswa Kelas 5 SD. Persiapan ujian sekolah yang mudah dan gratis."
     },
     "path": "configs/pjok-kelas-5.json"

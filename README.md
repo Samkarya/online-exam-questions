@@ -1,9 +1,9 @@
 # 📚 Online Exam Questions for Examify Platform
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Examify](https://img.shields.io/badge/Used%20By-Examify-blue)](https://examify.web.app/)
+[![Examify](https://img.shields.io/badge/Used%20By-Examify-blue)](https://examoven.com/)
 
-This repository serves as the **Open Source Question Bank** for the [Examify Online Practice Platform](https://examify.web.app/). It decouples content from code, allowing for community-driven updates, transparent sourcing, and easy management of exam papers.
+This repository serves as the **Open Source Question Bank** for the [Examify Online Practice Platform](https://examoven.com/). It decouples content from code, allowing for community-driven updates, transparent sourcing, and easy management of exam papers.
 
 ---
 
@@ -38,12 +38,12 @@ The repository is organized by Region, Category, and Exam to ensure scalability 
 
 ---
 
-## �🛠 How It Works
+## 🛠 How It Works
 
-The Examify application consumes this repository directly:
+The ExamOven application consumes this repository directly:
 
-1.  **Discovery:** On startup, Examify fetches the **`config.json`** file from the root of this repository. This file acts as a registry, telling the app which exams are available (e.g., "NIMCET 2023", "JEE Main 2024").
-2.  **Loading:** When a user selects an exam, Examify reads the corresponding **Question JSON file** (e.g., `India/postgraduate/NIMCET/nimcet_2023.json`) specified in the config.
+1.  **Discovery:** On startup, ExamOven fetches the **`config.json`** file from the root of this repository. This file acts as a registry, telling the app which exams are available (e.g., "NIMCET 2023", "JEE Main 2024").
+2.  **Loading:** When a user selects an exam, ExamOven reads the corresponding **Question JSON file** (e.g., `India/postgraduate/NIMCET/nimcet_2023.json`) specified in the config.
 3.  **Rendering:** The app parses the JSON and renders questions using a custom Markdown engine that supports LaTeX, syntax highlighting, and even sanitized HTML/SVG.
 
 ---
@@ -108,7 +108,7 @@ The file must be a **JSON Array** of question objects.
 ### 💡 Best Practice: Case Sensitivity
 *   **Option Keys:** Always use lowercase (`"a"`, `"b"`, `"c"`, `"d"`).
 *   **Correct Answer:** Ensure the `correct_answer` value matches the option key exactly (e.g., `"b"`).
-*   *Note: The Examify app is robust and handles case-insensitive matching, but maintaining strict consistency is recommended for data quality.*
+*   *Note: The ExamOven app is robust and handles case-insensitive matching, but maintaining strict consistency is recommended for data quality.*
 
 ### Example Question
 
@@ -132,7 +132,7 @@ The file must be a **JSON Array** of question objects.
 
 ## ✨ Rich Content Guide
 
-Examify's `MarkdownRenderer` is powerful. You can use the following features in `question_text`, `options`, and `explanation`.
+ExamOven's `MarkdownRenderer` is powerful. You can use the following features in `question_text`, `options`, and `explanation`.
 
 ### 1. Mathematical Notation (LaTeX)
 Uses **KaTeX**.
