@@ -43,5 +43,14 @@
   "excerpt": "Kuasai materi PJOK Kelas 5 SD Kurikulum Merdeka. Panduan mendalam mengenai teknik bola besar, atletik, senam irama, hingga persiapan ujian praktik dan teori untuk nilai rapor sempurna.",
   "tags": ["PJOK", "Kelas 5 SD", "Kurikulum Merdeka", "Pendidikan Jasmani", "Ujian Sekolah"],
   "mdFilePath": "/blog/panduan-lengkap-materi-ujian-pjok-kelas-5-kurikulum-merdeka-2026.md"
-  }
+  },
+  {
+  "slug": "cppb-exam-guide-2026",
+  "title": "Mastering the CPPB Exam: The 2026 Guide",
+  "date": "2026-03-31",
+  "author": "The ExamOven Team",
+  "excerpt": "Preparing for the Certified Professional Public Buyer (CPPB) exam? Discover 2026 test dates, eligibility rules, the updated BoK-C syllabus, and study strategies to pass on your first try.",
+  "tags":["CPPB", "Public Procurement", "Certification", "Study Guide"],
+  "mdFilePath": "/blog/cppb-exam-guide-2026.md"
+}
 ]

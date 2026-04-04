@@ -33,7 +33,7 @@ Materi ini menguji ketangkasan dalam olahraga populer. Fokus ujian biasanya pada
 *   **Bola Voli:** Passing bawah dan servis bawah dengan posisi tangan yang benar.
 *   **Bulu Tangkis/Kasti:** Cara memegang raket/tongkat pemukul dan koordinasi mata-tangan saat memukul bola/shuttlecock.
 
-> **Practice Tip:** Prepare for the Bola Besar & Bola Kecil by reviewing questions in our [PJOK Exam Library](/exam-library?q=pjok).    
+> [!TIP] Prepare for the Bola Besar & Bola Kecil by reviewing questions in our [PJOK Exam Library](/exam-library?q=pjok).    
 
 ### 3. Cabang Atletik: Dasar-Dasar Kekuatan
 Atletik adalah "ibu dari semua olahraga." Di kelas 5, materi yang sering muncul adalah:
