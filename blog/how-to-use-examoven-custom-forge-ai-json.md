@@ -107,26 +107,7 @@ Our renderer is built to handle professional-grade technical content. Below is t
 ### Visualizing the Forge Process
 Our local-first architecture ensures your data moves in a closed loop:
 
-<svg viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto; margin: 20px 0;">
-  <rect x="50" y="50" width="120" height="60" rx="8" fill="#e3f2fd" stroke="#2196f3" stroke-width="2"/>
-  <text x="110" y="85" text-anchor="middle" font-family="sans-serif" font-size="12">Raw AI JSON</text>
-  
-  <line x1="170" y1="80" x2="220" y2="80" stroke="#2196f3" stroke-width="2" marker-end="url(#arrowhead)"/>
-  
-  <rect x="230" y="50" width="120" height="60" rx="8" fill="#fff3e0" stroke="#ff9800" stroke-width="2"/>
-  <text x="290" y="85" text-anchor="middle" font-family="sans-serif" font-size="12">Forge Validation</text>
-
-  <line x1="350" y1="80" x2="400" y2="80" stroke="#ff9800" stroke-width="2" marker-end="url(#arrowhead)"/>
-
-  <rect x="410" y="50" width="120" height="60" rx="8" fill="#e8f5e9" stroke="#4caf50" stroke-width="2"/>
-  <text x="470" y="85" text-anchor="middle" font-family="sans-serif" font-size="12">Local Session</text>
-  
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#2196f3" />
-    </marker>
-  </defs>
-</svg>
+<svg viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto; margin: 20px 0;"><rect x="50" y="50" width="120" height="60" rx="8" fill="#e3f2fd" stroke="#2196f3" stroke-width="2"/><text x="110" y="85" text-anchor="middle" font-family="sans-serif" font-size="12">Raw AI JSON</text><line x1="170" y1="80" x2="220" y2="80" stroke="#2196f3" stroke-width="2" marker-end="url(#arrowhead)"/><rect x="230" y="50" width="120" height="60" rx="8" fill="#fff3e0" stroke="#ff9800" stroke-width="2"/><text x="290" y="85" text-anchor="middle" font-family="sans-serif" font-size="12">Forge Validation</text><line x1="350" y1="80" x2="400" y2="80" stroke="#ff9800" stroke-width="2" marker-end="url(#arrowhead)"/><rect x="410" y="50" width="120" height="60" rx="8" fill="#e8f5e9" stroke="#4caf50" stroke-width="2"/><text x="470" y="85" text-anchor="middle" font-family="sans-serif" font-size="12">Local Session</text><defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#2196f3" /></marker></defs></svg>
 
 </section>
 
@@ -138,6 +119,8 @@ Our local-first architecture ensures your data moves in a closed loop:
   <strong>🔥 Pro-Tip for Educators:</strong>
   <p>If you are managing a large bank of questions, use our <strong>Bulk sequence fixer</strong>. If your JSON questions are numbered 101, 102, 103, but you want them to start from 1, the Forge's local pre-processor handles this the moment you click 'Start,' ensuring your question palette is always intuitive.</p>
 </div>
+
+</section>
 
 ### Take Control of Your Practice
 Stop relying on generic study sets. With ExamOven, you are the architect of your own growth. By combining the power of AI with our privacy-first local engine, you can simulate any test, anywhere, anytime.

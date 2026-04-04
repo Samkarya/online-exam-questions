@@ -104,28 +104,7 @@ By supporting inline and block LaTeX, we ensure that physics, chemistry, and eng
 
 ExamOven uses a "Local-First" flow. This means that while the app is hosted on the web, the **logic** happens in your browser.
 
-<svg viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto; margin: 20px 0;">
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#4A90E2" />
-    </marker>
-  </defs>
-  <!-- User Browser -->
-  <rect x="10" y="50" width="150" height="100" rx="10" fill="#f0f4f8" stroke="#4A90E2" stroke-width="2" />
-  <text x="85" y="105" text-anchor="middle" font-family="Arial" font-size="14">User Browser</text>
-  
-  <!-- Data Flow -->
-  <line x1="170" y1="100" x2="250" y2="100" stroke="#4A90E2" stroke-width="2" marker-end="url(#arrowhead)" />
-  
-  <!-- Local Storage -->
-  <rect x="270" y="50" width="150" height="100" rx="10" fill="#e1f5fe" stroke="#0288d1" stroke-width="2" />
-  <text x="345" y="95" text-anchor="middle" font-family="Arial" font-size="14">IndexedDB</text>
-  <text x="345" y="115" text-anchor="middle" font-family="Arial" font-size="12" fill="#555">(Local Storage)</text>
-
-  <!-- Cloud (Grayed out/Disconnected) -->
-  <path d="M480,100 Q500,70 530,80 T560,100 T530,120 T480,100" fill="none" stroke="#ccc" stroke-dasharray="5,5" stroke-width="2" />
-  <text x="520" y="105" text-anchor="middle" font-family="Arial" font-size="12" fill="#999">Optional Google Drive Sync</text>
-</svg>
+<svg viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto; margin: 20px 0;"><defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#4A90E2" /></marker></defs><rect x="10" y="50" width="150" height="100" rx="10" fill="#f0f4f8" stroke="#4A90E2" stroke-width="2" /><text x="85" y="105" text-anchor="middle" font-family="Arial" font-size="14">User Browser</text><line x1="170" y1="100" x2="250" y2="100" stroke="#4A90E2" stroke-width="2" marker-end="url(#arrowhead)" /><!-- Local Storage --><rect x="270" y="50" width="150" height="100" rx="10" fill="#e1f5fe" stroke="#0288d1" stroke-width="2" /><text x="345" y="95" text-anchor="middle" font-family="Arial" font-size="14">IndexedDB</text><text x="345" y="115" text-anchor="middle" font-family="Arial" font-size="12" fill="#555">(Local Storage)</text><!-- Cloud (Grayed out/Disconnected) --><path d="M480,100 Q500,70 530,80 T560,100 T530,120 T480,100" fill="none" stroke="#ccc" stroke-dasharray="5,5" stroke-width="2" /><text x="520" y="105" text-anchor="middle" font-family="Arial" font-size="12" fill="#999">Optional Google Drive Sync</text></svg>
 
 Your performance metrics, time-stamps, and answer keys are saved to your browser's **IndexedDB**. If you want to sync your progress to another laptop, you can *optionally* connect your Google Drive. We never see your files; the connection is between you and Google.
 

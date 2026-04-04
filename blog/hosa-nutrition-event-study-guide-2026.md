@@ -40,7 +40,7 @@ To win, you must study according to the weight of the exam. Don't spend three we
 
 ---
 
-> **Practice Tip:** Prepare for the Nutrition event by reviewing questions in our [HOSA Exam Library](/exam-library?q=hosa).
+> [!TIP] Prepare for the Nutrition event by reviewing questions in our [HOSA Exam Library](/exam-library?q=hosa).
 
 ## The "Holy Grail" Study Resources
 HOSA test writers do not pull questions from Wikipedia. They pull them directly from two specific textbooks. To score in the 90th percentile, you need access to:

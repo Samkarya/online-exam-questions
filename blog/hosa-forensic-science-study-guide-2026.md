@@ -42,7 +42,7 @@ You and your partner will take a 50-question, multiple-choice exam. Your scores 
 | DNA Analysis | 10% | 5 |
 | Fingerprints | 10% | 5 |
 
-> **Practice Tip:** Prepare for the Round 1 by reviewing questions in our [HOSA Exam Library](/exam-library?q=hosa).
+> [!TIP] Prepare for the Round 1 by reviewing questions in our [HOSA Exam Library](/exam-library?q=hosa).
 
 
 ### Round 2: The Case Study
