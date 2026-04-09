@@ -1,9 +1,9 @@
 # 📚 Online Exam Questions for Examify Platform
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Examify](https://img.shields.io/badge/Used%20By-Examify-blue)](https://examoven.com/)
+[![License: Custom](https://img.shields.io/badge/License-Non--Commercial-orange.svg)](LICENSE)
+[![Examify](https://img.shields.io/badge/Used%20By-Examify_Now_ExamOven-blue)](https://examoven.com/)
 
-This repository serves as the **Open Source Question Bank** for the [Examify Online Practice Platform](https://examoven.com/). It decouples content from code, allowing for community-driven updates, transparent sourcing, and easy management of exam papers.
+This repository serves as the **Open Source Question Bank** for the [Examify Now ExamOven Online Practice Platform](https://examoven.com/). It decouples content from code, allowing for community-driven updates, transparent sourcing, and easy management of exam papers.
 
 ---
 
@@ -212,3 +212,13 @@ We welcome contributions! Whether it's adding a new year's paper or fixing a typ
 *   [ ] Did you add an entry to `config.json`?
 
 ---
+
+## 📜 License
+
+This repository is licensed under the **ExamOven Non-Commercial Open Source License**.
+
+- **Non-Commercial Use:** Free for personal, educational, and non-commercial purposes.
+- **Commercial Use:** Strictly reserved for [ExamOven](https://examoven.com). Use by other commercial entities is prohibited.
+- **Contributions:** Contributions are welcome! By contributing, you agree to license your work under these same terms.
+
+See the [LICENSE](LICENSE) file for full details.
