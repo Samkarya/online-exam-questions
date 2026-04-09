@@ -11,7 +11,7 @@ mdFilePath: "blog/ielts-2026-complete-guide.md"
 
 Millions of people take IELTS every year. Most who fall short of their target score don't fail because their English isn't good enough — they fail because they walked in underprepared for the *format*, or because they based their preparation on outdated information.
 
-This guide fixes that. Every fact here has been verified against official 2026 sources from the British Council, IDP, and IELTS.org — including a format-breaking change that most blogs haven't caught up with yet.
+This guide fixes that. Every fact here has been verified against official 2026 sources from the British Council, IDP, and IELTS.org — including a format-breaking change that most blogs haven't caught up with yet. For hands-on experience with the new digital format, we recommend practicing with the **[ExamOven IELTS Computer-Delivered Simulator](/exam-library?q=ielts)**.
 
 ---
 
@@ -76,7 +76,7 @@ The IELTS calendar is one of the most flexible among major English proficiency t
 
 ### Computer-Delivered IELTS (The Primary Format From Mid-2026)
 
-Computer-delivered tests are available **up to 7 days a week**, with multiple time slots per day in major cities. Results are typically delivered **within 1–5 days**. ([British Council](https://takeielts.britishcouncil.org/take-ielts/book))
+Computer-delivered tests are available **up to 7 days a week**, with multiple time slots per day in major cities. Results are typically delivered **within 1–5 days**. You can familiarize yourself with the interface using the **[ExamOven IELTS Practice Environment](/exam-library?q=ielts)**, which provides a timed practice experience. ([British Council](https://takeielts.britishcouncil.org/take-ielts/book))
 
 ### Paper-Based IELTS (Available Until ~June 27, 2026)
 
@@ -116,7 +116,7 @@ The total test duration is **approximately 2 hours and 45 minutes**, with Listen
 - Answers are written as you listen — no second playback
 
 > [!CAUTION]
-> Candidates often mishear answers in Part 3 (group discussions) due to overlapping speech. Practice with official recordings, not generic listening exercises.
+> Candidates often mishear answers in Part 3 (group discussions) due to overlapping speech. Practice with official recordings or the **[ExamOven IELTS Library](/exam-library?q=ielts)**, not generic listening exercises.
 
 ### Reading — 60 Minutes | 40 Questions
 
@@ -246,7 +246,7 @@ Use this checklist to track your prep:
 
 - **Step 1 — Diagnose:** Take a full-length official mock test under timed conditions to get a realistic baseline score
 - **Step 2 — Study the band descriptors:** Read the public 9-band descriptors. Understand what separates a Band 6 from a Band 7 in Writing — it's coherence, vocabulary range, and grammatical accuracy, not word volume
-- **Step 3 — Get the right materials:** Cambridge IELTS Practice Tests (Volumes 18–20) are the gold standard. For computer-delivered practice, use the official IDP and British Council online platforms, which replicate the actual test interface
+- **Step 3 — Get the right materials:** Cambridge IELTS Practice Tests (Volumes 18–20) are the gold standard. For computer-delivered practice, use the **[ExamOven IELTS Simulator](/exam-library?q=ielts)** for a text-based, timed exam experience alongside official IDP and British Council platforms.
 - **Step 4 — Target Writing Task 2 strategically:** The most tested genres in 2026 are Opinion, Discussion, Problem/Solution, and Advantages/Disadvantages essays. High-frequency themes: technology, education, environment, urbanisation, health, globalisation
 - **Step 5 — Prepare for computer delivery:** Aim for a minimum typing speed of 40–50 WPM before your test date. Note that the Listening section gives you only **2 minutes** (not 10 like paper) to transfer answers — practice writing responses directly as you listen
 
@@ -256,6 +256,7 @@ Use this checklist to track your prep:
 Free official resources:
 - [British Council IELTS Ready Premium](https://www.britishcouncil.org/exam/ielts/preparation) (free with registration)
 - [IDP Practice Tests](https://ielts.idp.com/prepare)
+- [ExamOven IELTS Full-Length Mocks](/exam-library?q=ielts)
 
 ---
 
@@ -312,6 +313,7 @@ A separate IELTS variant specifically for UK visa and immigration applications. 
 
 All facts in this guide have been verified against official and authoritative 2026 sources:
 
+- [ExamOven IELTS Simulator & Practice Library](/exam-library?q=ielts)
 - [IELTS.org — Official Update on Test Delivery Changes (March 2026)](https://ielts.org/news-and-insights/updates-to-ielts-test-delivery)
 - [British Council — Updates to IELTS Test Delivery](https://takeielts.britishcouncil.org/take-ielts/book/paper-computer/ielts-test-update)
 - [British Council — IELTS in the USA](https://takeielts.britishcouncil.org/united-states-america)
