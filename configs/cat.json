@@ -78,5 +78,37 @@
         "isOfficial": true,
         "seo_title": "CAT 2023 Slot 1 Complete Question Paper | Free Mock Test",
         "seo_description": "Practice the official CAT 2023 Slot 1 previous year paper online. Includes VARC, DILR, and QA sections with solutions and analysis."
+    },
+    {
+        "id": "cat_2022_slot1_previousYearPaper",
+        "category": "CAT",
+        "year": 2022,
+        "session": null,
+        "date": null,
+        "shift": 1,
+        "paperType": "PYQ",
+        "title": "CAT 2022 Question Paper (Slot 1, PYQ)",
+        "short_description": "Complete CAT 2022 Slot 1 paper including VARC, DILR, and QA sections.",
+        "description": "### CAT 2022 - Slot 1 (Previous Year Question Paper)\n\n**Conducting IIM:** IIM Bangalore\n\n Previous year question paper for the slot 1 of CAT 2022, including all three sections: Verbal Ability & Reading Comprehension (VARC), Data Interpretation & Logical Reasoning (DILR), and Quantitative Aptitude (QA).\n\n**Section-wise Breakdown:**\n- **VARC:** Focus on Reading Comprehension passages and Verbal Ability questions.\n- **DILR:** Mixed sets of Data Interpretation and Logical Reasoning challenges.\n- **QA:** Arithmetic, Algebra, Geometry, and Modern Math problems.",
+        "path": "India/management/CAT/cat_2022_slot1_completePaper.json",
+        "isOfficial": true,
+        "seo_title": "CAT 2022 Slot 1 Previous Year Question Paper | Free Mock Test",
+        "seo_description": "Practice the official CAT 2022 Slot 1 previous year paper online. Includes VARC, DILR, and QA sections with solutions and analysis."
+    },
+    {
+        "id": "cat_2021_slot1_previousYearPaper",
+        "category": "CAT",
+        "year": 2021,
+        "session": null,
+        "date": null,
+        "shift": 1,
+        "paperType": "PYQ",
+        "title": "CAT 2021 Question Paper (Slot 1, PYQ)",
+        "short_description": "Previous year question paper for the slot 1 of CAT 2021, including all three sections: Verbal Ability & Reading Comprehension (VARC), Data Interpretation & Logical Reasoning (DILR), and Quantitative Aptitude (QA).",
+        "description": "### CAT 2021 - Slot 1 (Previous Year Question Paper)\n\n**Conducting IIM:** IIM Ahmedabad\n\n Previous year question paper for the slot 1 of CAT 2021, including all three sections: Verbal Ability & Reading Comprehension (VARC), Data Interpretation & Logical Reasoning (DILR), and Quantitative Aptitude (QA).\n\n**Section-wise Breakdown:**\n- **VARC:** Focus on Reading Comprehension passages and Verbal Ability questions.\n- **DILR:** Mixed sets of Data Interpretation and Logical Reasoning challenges.\n- **QA:** Arithmetic, Algebra, Geometry, and Modern Math problems.",
+        "path": "India/management/CAT/cat_2021_slot1_completePaper.json",
+        "isOfficial": true,
+        "seo_title": "CAT 2021 Slot 1 Previous Year Question Paper | Free Mock Test",
+        "seo_description": "Practice the official CAT 2021 Slot 1 previous year paper online. Includes VARC, DILR, and QA sections with solutions and analysis."
     }
 ]
