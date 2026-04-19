@@ -312,5 +312,26 @@
       "seoDescription": "Prepare for the HOSA Forensic Science competitive event. Take online practice tests covering crime scene investigation, toxicology, forensic anthropology, entomology, and DNA analysis to ace Round 1 Mcqs."
     },
     "path": "configs/hosa-forensic-science.json"
+  },
+  "act": {
+    "meta": {
+      "examId": "ACT",
+      "fullName": "ACT — American College Testing",
+      "shortName": "ACT",
+      "category": "Undergraduate Entrance",
+      "conductingBody": "ACT, Inc.",
+      "country": "USA",
+      "examType": [
+        "Standardized Test",
+        "Undergraduate Entrance"
+      ],
+      "description": "The ACT is a standardized test used for college admissions in the United States. It covers four academic skill areas: English, mathematics, reading, and scientific reasoning.",
+      "officialWebsite": "https://www.act.org",
+      "isOfficial": true,
+      "lastUpdated": "2026-04-19",
+      "seoTitle": "ACT Free Mock Tests & Practice Exams Online | ExamOven",
+      "seoDescription": "Prepare for the ACT with free online practice tests. Master English, Math, and more with realistic, timed mock exams to boost your college admission scores."
+    },
+    "path": "configs/act.json"
   }
 }
