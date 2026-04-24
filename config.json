@@ -333,5 +333,27 @@
       "seoDescription": "Prepare for the ACT with free online practice tests. Master English, Math, and more with realistic, timed mock exams to boost your college admission scores."
     },
     "path": "configs/act.json"
+  },
+  "examen_médical_et_dentaire": {
+    "meta": {
+      "examId": "concours_médical_et_dentaire_belgique",
+      "fullName": "Concours d'entrée et d'accès aux études de premier cycle en sciences médicales et dentaires",
+      "shortName": "Concours MD Belgique",
+      "category": "Médecine et Dentisterie",
+      "conductingBody": "ARES - Académie de Recherche et d'Enseignement Supérieur",
+      "country": "Belgique",
+      "examType": [
+        "Concours d'entrée",
+        "Sciences Médicales",
+        "Sciences Dentaires"
+      ],
+      "description": "Concours annuel centralisé en Fédération Wallonie-Bruxelles évaluant les connaissances scientifiques (Bio, Chim, Phys, Math) et les capacités de communication et d'analyse critique.",
+      "officialWebsite": "https://www.concoursmd.be",
+      "isOfficial": true,
+      "lastUpdated": "2026-04-23",
+      "seoTitle": "Concours d'entrée Médecine et Dentisterie Belgique 2026 - Syllabus et Infos",
+      "seoDescription": "Préparez le concours d'entrée en médecine et dentisterie de Belgique. Retrouvez le programme officiel détaillé 2026, les dates clés et les modalités d'inscription."
+    },
+    "path": "configs/examen_médical_et_dentaire.json"
   }
 }
