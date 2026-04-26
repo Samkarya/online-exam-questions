@@ -14,5 +14,37 @@
         "isOfficial": true,
         "seo_title": "Examen d'entrée Sciences Médicales et Dentaires 2017 - Questionnaire Bleu",
         "seo_description": "Accédez gratuitement aux questions et corrigés complets du questionnaire bleu de l'examen d'entrée en sciences médicales et dentaires de Belgique, session 2017."
+    },
+    {
+        "id": "examen_médical_et_dentaire_2019",
+        "category": "examen_médical_et_dentaire",
+        "year": "2019",
+        "session": "juillet",
+        "date": "2019-07-10",
+        "shift": "après-midi",
+        "paperType": "questionnairebleu",
+        "title": "Examen d'entrée et d'accès en sciences médicales et en sciences dentaires - Questionnaire bleu 2019",
+        "short_description": "Questions et corrigés du questionnaire bleu de l'examen d'entrée du 10 juillet 2019: Connaissance et compréhension des matières scientifiques empathie et communication",
+        "description": "### Examen d'entrée et d'accès en sciences médicales et en sciences dentaires\n\nQuestions et corrigés du questionnaire bleu de l'examen d'entrée du 10 juillet 2019\n\n**Partie 1 - Connaissance et compréhension des matières scientifiques**",
+        "path": "Europe/Belgium/examen_médical_et_dentaire/questionnairebleu2019.json",
+        "isOfficial": true,
+        "seo_title": "Examen d'entrée Sciences Médicales et Dentaires 2019 - Questionnaire Bleu",
+        "seo_description": "Accédez gratuitement aux questions et corrigés complets du questionnaire bleu de l'examen d'entrée en sciences médicales et dentaires de Belgique, session 2019."
+    },
+    {
+        "id": "examen_médical_et_dentaire_2022",
+        "category": "examen_médical_et_dentaire",
+        "year": "2022",
+        "session": "août",
+        "date": "2022-08-27",
+        "shift": null,
+        "paperType": "questionnairebleu",
+        "title": "Examen d'entrée et d'accès en sciences médicales et en sciences dentaires - Questionnaire bleu 2022",
+        "short_description": "Questions et corrigés du questionnaire bleu de l'examen d'entrée du 27 août 2022  Connaissance et compréhension des matières scientifiques empathie et communication",
+        "description": "### Examen d'entrée et d'accès en sciences médicales et en sciences dentaires\n\nQuestions et corrigés du questionnaire bleu de l'examen d'entrée du 27 août 2022\n\n**Partie 1 - Connaissance et compréhension des matières scientifiques**",
+        "path": "Europe/Belgium/examen_médical_et_dentaire/questionnairebleu2022.json",
+        "isOfficial": true,
+        "seo_title": "Examen d'entrée Sciences Médicales et Dentaires 2022 - Questionnaire Bleu",
+        "seo_description": "Accédez gratuitement aux questions et corrigés complets du questionnaire bleu de l'examen d'entrée en sciences médicales et dentaires de Belgique, session 2022."
     }
 ]
