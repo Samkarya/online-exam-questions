@@ -1,0 +1,842 @@
+[
+  {
+    "id": "demo_exam_examOven",
+    "title": "ExamOven Demo Exam 2026",
+    "description": "### Welcome to ExamOven Demo 2026\n\nThis is a curated **demonstration exam** designed to showcase the full capabilities of the ExamOven platform. \n\n**Features Demonstrated:**\n*   **Rich Media:** Questions containing images, diagrams, and graphs.\n*   **Multi-Subject Support:** A mix of Physics, Coding, and General Knowledge.\n*   **Latex Rendering:** Complex mathematical equations rendered in real-time.\n*   **Detailed Solutions:** Step-by-step explanations for every question.\n\n*Use this to test the UI/UX and answer submission flow.*",
+    "short_description": "A feature-rich demo exam showcasing ExamOven's capabilities including multi-subject support and visual content.",
+    "path": "Demo/demo_exam_examify.json",
+    "suitePath": "configs/demo.json",
+    "category": "Demo",
+    "year": 2026
+  },
+  {
+    "id": "chem101_Introduction",
+    "title": "Introduction to Chemistry",
+    "description": "### Module 1: Introduction to Chemistry\n\nFoundational concepts necessary for laboratory success and scientific calculation.\n\n**Topics Included:**\n*   **The Scientific Method:** Hypothesis, theory, and law.\n*   **Measurement:** Significant figures, SI units, and scientific notation.\n*   **Dimensional Analysis:** Converting between units using factor-label method.\n*   **Lab Safety:** MSDS, PPE, and emergency protocols.",
+    "short_description": "Covers scientific method, significant figures, dimensional analysis, and lab safety basics.",
+    "path": "global/subject/Chemistry101/chem101_Introduction.json",
+    "suitePath": "configs/chemistry.json",
+    "category": "Chemistry 101",
+    "year": "Practice Questions"
+  },
+  {
+    "id": "chem101_Atomic_Theory",
+    "title": "Atomic Theory and Structure",
+    "description": "### Module 2: Atomic Theory\n\nA deep dive into the building blocks of matter and the history of atomic discovery.\n\n**Key Concepts:**\n- **History:** Dalton, Thompson (Plum Pudding), Rutherford (Gold Foil), and Bohr models.\n- **Subatomic Particles:** Protons, Neutrons, and Electrons.\n- **Isotopes:** Calculation of average atomic mass.\n- **The Nucleus:** Nuclear stability and radioactivity basics.",
+    "short_description": "Explores atomic models, subatomic particles, isotopes, and nuclear structure.",
+    "path": "global/subject/Chemistry101/chem101_Atomic_Theory.json",
+    "suitePath": "configs/chemistry.json",
+    "category": "Chemistry 101",
+    "year": "Practice Questions"
+  },
+  {
+    "id": "chem101_Electronic_Structure",
+    "title": "Electronic Structure of Atoms",
+    "description": "### Module 3: Electronic Structure\n\nUnderstanding how electrons are arranged in atoms, forming the basis for chemical bonding.\n\n**Syllabus:**\n*   **Quantum Mechanics:** Principal, Angular, Magnetic, and Spin quantum numbers.\n*   **Electron Configuration:** Writing configurations (e.g., *1s² 2s²*).\n*   **Rules:** Aufbau Principle, Pauli Exclusion Principle, and Hund's Rule.\n*   **Orbital Diagrams:** Visualizing electron spin and placement.",
+    "short_description": "Focuses on electron configurations, quantum numbers, and orbital diagrams.",
+    "path": "global/subject/Chemistry101/chem101_Electronic_Structure.json",
+    "suitePath": "configs/chemistry.json",
+    "category": "Chemistry 101",
+    "year": "Practice Questions"
+  },
+  {
+    "id": "chem101_Periodic_Table",
+    "title": "Periodic Table and Properties",
+    "description": "### Module 4: Periodic Trends\n\nAnalysis of the Periodic Table's organization and the predictive power of periodic trends.\n\n**Trends Covered:**\n- **Atomic & Ionic Radii:** Size variations across periods and groups.\n- **Ionization Energy:** Energy required to remove electrons.\n- **Electron Affinity & Electronegativity:** Attraction for electrons.\n- **Classifications:** Metals, Non-metals, Metalloids, and s/p/d/f blocks.",
+    "short_description": "Examines periodic trends like atomic radius, ionization energy, and electronegativity.",
+    "path": "global/subject/Chemistry101/chem101_Periodic_Table.json",
+    "suitePath": "configs/chemistry.json",
+    "category": "Chemistry 101",
+    "year": "Practice Questions"
+  },
+  {
+    "id": "chem101_Bonding_Ionic_Covalent",
+    "title": "Chemical Bonding I (Ionic & Covalent)",
+    "description": "### Module 5: Chemical Bonding - Part I\n\nIntroduction to how atoms combine to form molecules and compounds.\n\n**Core Topics:**\n*   **Lewis Dot Structures:** Drawing molecules and resonance structures.\n*   **Ionic Bonding:** Electrostatic attraction and Lattice Energy (Born-Haber cycle).\n*   **Covalent Bonding:** Sharing electrons, bond length, and bond energy.\n*   **Polarity:** Dipole moments and non-polar vs polar bonds.",
+    "short_description": "Covers Lewis structures, lattice energy, covalent bonding, and polarity.",
+    "path": "global/subject/Chemistry101/chem101_Bonding_Ionic_Covalent.json",
+    "suitePath": "configs/chemistry.json",
+    "category": "Chemistry 101",
+    "year": "Practice Questions"
+  },
+  {
+    "id": "chem101_Bonding_Geometry",
+    "title": "Chemical Bonding II (Geometry)",
+    "description": "### Module 6: Molecular Geometry\n\nAdvanced bonding concepts focusing on the 3D shape of molecules.\n\n**Key Concepts:**\n- **VSEPR Theory:** Predicting shapes (Linear, Tetrahedral, Octahedral, etc.).\n- **Hybridization:** sp, sp², sp³, sp³d, sp³d² mixing.\n- **Molecular Orbital Theory:** Sigma (σ) and Pi (π) bonds.\n- **Intermolecular Forces:** Hydrogen bonding, dipole-dipole, and London dispersion forces.",
+    "short_description": "Focuses on VSEPR theory, molecular shapes, hybridization, and intermolecular forces.",
+    "path": "global/subject/Chemistry101/chem101_Bonding_Geometry.json",
+    "suitePath": "configs/chemistry.json",
+    "category": "Chemistry 101",
+    "year": "Practice Questions"
+  },
+  {
+    "id": "chem101_Stoichiometry",
+    "title": "Stoichiometry and Reactions",
+    "description": "### Module 7: Stoichiometry\n\nThe mathematics of chemistry. This section focuses on quantitative relationships in chemical reactions.\n\n**Topics:**\n*   **The Mole Concept:** Avogadro's number.\n*   **Balancing Equations:** Conservation of mass.\n*   **Calculations:** Limiting reagents, theoretical yield, and percent yield.\n*   **Reaction Types:** Synthesis, Decomposition, Combustion, Single/Double Replacement.",
+    "short_description": "Involves mole calculations, balancing equations, limiting reagents, and reaction types.",
+    "path": "global/subject/Chemistry101/chem101_Stoichiometry.json",
+    "suitePath": "configs/chemistry.json",
+    "category": "Chemistry 101",
+    "year": "Practice Questions"
+  },
+  {
+    "id": "chem101_Gas_Laws",
+    "title": "States of Matter and Gas Laws",
+    "description": "### Module 8: Gases & States of Matter\n\nStudy of the behavior of matter in different phases, with a heavy focus on gaseous systems.\n\n**Formulas & Laws:**\n- **Ideal Gas Law:** PV = nRT.\n- **Combined Gas Laws:** Boyle’s, Charles’s, and Avogadro’s Laws.\n- **Dalton’s Law:** Partial pressures.\n- **KMT:** Kinetic Molecular Theory and root-mean-square speed.\n- **Phase Diagrams:** Triple point and critical point.",
+    "short_description": "Covers Ideal Gas Law, partial pressures, kinetic molecular theory, and phase diagrams.",
+    "path": "global/subject/Chemistry101/chem101_Gas_Laws.json",
+    "suitePath": "configs/chemistry.json",
+    "category": "Chemistry 101",
+    "year": "Practice Questions"
+  },
+  {
+    "id": "chem101_Thermochemistry",
+    "title": "Thermochemistry",
+    "description": "### Module 9: Thermochemistry\n\nThe study of heat energy associated with chemical reactions and physical transformations.\n\n**Key Concepts:**\n*   **Enthalpy (ΔH):** Exothermic vs. Endothermic processes.\n*   **Calorimetry:** Specific heat capacity and q = mcΔT.\n*   **Hess’s Law:** Calculating reaction enthalpies indirectly.\n*   **Standard Enthalpies:** Formation (ΔHf°) and bond enthalpies.",
+    "short_description": "Focuses on enthalpy, calorimetry, Hess's Law, and heat transfer calculations.",
+    "path": "global/subject/Chemistry101/chem101_Thermochemistry.json",
+    "suitePath": "configs/chemistry.json",
+    "category": "Chemistry 101",
+    "year": "Practice Questions"
+  },
+  {
+    "id": "chem101_Equilibrium",
+    "title": "Chemical Equilibrium",
+    "description": "### Module 10: Chemical Equilibrium\n\nUnderstanding reversible reactions and dynamic equilibrium states.\n\n**Topics:**\n- **Equilibrium Constants:** Kc (concentration) and Kp (pressure).\n- **Reaction Quotient (Q):** Predicting the direction of a reaction.\n- **Le Châtelier’s Principle:** Effect of concentration, pressure, and temperature changes.\n- **ICE Tables:** Calculating equilibrium concentrations.",
+    "short_description": "Covers equilibrium constants, Le Chatelier's principle, and reaction quotients.",
+    "path": "global/subject/Chemistry101/chem101_Equilibrium.json",
+    "suitePath": "configs/chemistry.json",
+    "category": "Chemistry 101",
+    "year": "Practice Questions"
+  },
+  {
+    "id": "chem101_Acids_Bases",
+    "title": "Acids, Bases, and Salts",
+    "description": "### Module 11: Acids & Bases\n\nComprehensive review of proton transfer reactions and pH calculations.\n\n**Syllabus:**\n*   **Definitions:** Arrhenius, Brønsted–Lowry, and Lewis acids/bases.\n*   **pH Scale:** Calculating pH, pOH, [H+], and [OH-].\n*   **Strength:** Strong vs. Weak acids/bases and Ka/Kb constants.\n*   **Salt Hydrolysis:** Determining if a salt solution is acidic, basic, or neutral.",
+    "short_description": "Includes pH calculations, acid-base theories, salt hydrolysis, and strength definitions.",
+    "path": "global/subject/Chemistry101/chem101_Acids_Bases.json",
+    "suitePath": "configs/chemistry.json",
+    "category": "Chemistry 101",
+    "year": "Practice Questions"
+  },
+  {
+    "id": "chem101_Buffers_Titrations",
+    "title": "Buffer Solutions and Titrations",
+    "description": "### Module 12: Aqueous Equilibria\n\nAdvanced acid-base chemistry focusing on resistance to pH change and analytical techniques.\n\n**Key Concepts:**\n- **Buffers:** Common ion effect and preparation of buffers.\n- **Henderson–Hasselbalch Equation:** Calculating buffer pH.\n- **Titrations:** Strong Acid-Strong Base, Weak-Strong curves.\n- **Indicators:** Choosing the correct indicator for endpoints.",
+    "short_description": "Focuses on buffer solutions, Henderson-Hasselbalch equation, and titration curves.",
+    "path": "global/subject/Chemistry101/chem101_Buffers_Titrations.json",
+    "suitePath": "configs/chemistry.json",
+    "category": "Chemistry 101",
+    "year": "Practice Questions"
+  },
+  {
+    "id": "chem101_Kinetics",
+    "title": "Chemical Kinetics",
+    "description": "### Module 13: Chemical Kinetics\n\nThe study of the speed (rate) of chemical reactions and reaction mechanisms.\n\n**Topics:**\n*   **Reaction Rates:** Average vs. Instantaneous rates.\n*   **Rate Laws:** Determining differential rate laws and rate constants (k).\n*   **Integrated Rate Laws:** Zero, First, and Second-order reactions.\n*   **Arrhenius Equation:** Activation energy and temperature dependence.",
+    "short_description": "Covers reaction rates, rate laws, order of reactions, and activation energy.",
+    "path": "global/subject/Chemistry101/chem101_Kinetics.json",
+    "suitePath": "configs/chemistry.json",
+    "category": "Chemistry 101",
+    "year": "Practice Questions"
+  },
+  {
+    "id": "chem101_Redox_Electrochemistry",
+    "title": "Redox and Electrochemistry",
+    "description": "### Module 14: Electrochemistry\n\nInterconversion of chemical energy and electrical energy through redox reactions.\n\n**Core Topics:**\n- **Redox Basics:** Assigning oxidation numbers and balancing half-reactions.\n- **Galvanic/Voltaic Cells:** Anode, Cathode, and Salt Bridge.\n- **Cell Potential:** Calculating E°cell using standard reduction potentials.\n- **Nernst Equation:** Cell potential under non-standard conditions.",
+    "short_description": "Includes redox balancing, electrochemical cells, standard potentials, and Nernst equation.",
+    "path": "global/subject/Chemistry101/chem101_Redox_Electrochemistry.json",
+    "suitePath": "configs/chemistry.json",
+    "category": "Chemistry 101",
+    "year": "Practice Questions"
+  },
+  {
+    "id": "chem101_Lab_Chemistry",
+    "title": "Introduction to Laboratory Chemistry",
+    "description": "### Module 15: Laboratory Techniques\n\nPractical application of chemistry concepts in a lab setting.\n\n**Focus Areas:**\n*   **Glassware:** Proper use of burettes, pipettes, and volumetric flasks.\n*   **Techniques:** Titration, Filtration, Distillation, and Chromatography.\n*   **Data Analysis:** Calculating percent error and standard deviation.\n*   **Qualitative Analysis:** Identifying ions (flame tests, precipitation).",
+    "short_description": "Covers laboratory techniques, glassware usage, titrations, and error analysis.",
+    "path": "global/subject/Chemistry101/chem101_Lab_Chemistry.json",
+    "suitePath": "configs/chemistry.json",
+    "category": "Chemistry 101",
+    "year": "Practice Questions"
+  },
+  {
+    "id": "nimcet_2022",
+    "title": "NIMCET 2022",
+    "description": "### National Institute of Technology MCA Common Entrance Test (2022)\n\n**Conducting Body:** NIT Jamshedpur\n\nThis exam serves as the gateway for admission into the **Master of Computer Applications (MCA)** program at participating NITs. \n\n**Paper Pattern:**\n- **Mathematics:** 50 Questions (Highest Weightage)\n- **Analytical Ability & Logical Reasoning:** 40 Questions\n- **Computer Awareness:** 10 Questions\n- **General English:** 20 Questions\n\n> *Note: This paper follows the standard marking scheme of +4 for correct answers and -1 for incorrect answers.*",
+    "short_description": "Official NIMCET 2022 question paper for MCA admissions in NITs, conducted by NIT Jamshedpur.",
+    "path": "India/postgraduate/NIMCET/nimcet_2022.json",
+    "suitePath": "configs/nimcet.json",
+    "category": "NIMCET",
+    "year": 2022
+  },
+  {
+    "id": "nimcet_2023",
+    "title": "NIMCET 2023",
+    "description": "### NIMCET 2023 Examination\n\n**Conducting Body:** NIT Jamshedpur\n\nThe official 2023 entrance paper for MCA admissions across National Institutes of Technology (NITs) in India. This paper tests the candidate's aptitude in higher mathematics and logical reasoning.\n\n**Key Syllabus Coverage:**\n*   **Math:** Calculus, Vectors, Probability, and Algebra.\n*   **Computer:** Binary arithmetic, Data representation, and Boolean algebra.\n*   **Reasoning:** Puzzles, Blood relations, and Series completion.",
+    "short_description": "Official NIMCET 2023 entrance exam paper covering Math, Analytical Ability, Computer Awareness, and English.",
+    "path": "India/postgraduate/NIMCET/nimcet_2023.json",
+    "suitePath": "configs/nimcet.json",
+    "category": "NIMCET",
+    "year": 2023
+  },
+  {
+    "id": "nimcet_2024",
+    "title": "NIMCET 2024",
+    "description": "### NIMCET 2024 Examination\n\n**Conducting Body:** NIT Jamshedpur\n\nThe most recent iteration of the NIT MCA Common Entrance Test. This resource is essential for aspirants looking to understand the latest trends in question difficulty and topic distribution.\n\n**Highlights:**\n- Updated question patterns for 2024.\n- Focus on **Vector Algebra** and **Trigonometry** in the Math section.\n- Assessment of logical deduction and verbal ability.",
+    "short_description": "Latest NIMCET 2024 question paper focusing on Vector Algebra, Trigonometry, and logical reasoning for MCA aspirants.",
+    "path": "India/postgraduate/NIMCET/nimcet_2024.json",
+    "suitePath": "configs/nimcet.json",
+    "category": "NIMCET",
+    "year": 2024
+  },
+  {
+    "id": "ielts_reading_0",
+    "title": "IELTS Reading Practice",
+    "description": "### IELTS Reading Simulation (AI-Powered)\n\n**Engine:** Gemini-3-Pro | **Format:** Academic/General Training Hybrid\n\nThis exam is dynamically generated to mimic the complexity of the official IELTS Reading section. It tests your ability to process information quickly and accurately.\n\n**Key Skills Evaluated:**\n*   **Skimming & Scanning:** Locating specific facts within dense text.\n*   **Logical Argument:** Identifying the writer's views and claims (True/False/Not Given).\n*   **Comprehension:** Matching headings and completing summaries.\n\n> *Designed to improve time management and accuracy under pressure.*",
+    "short_description": "AI-generated 40-question reading test focusing on comprehension, skimming, scanning, and logical deduction.",
+    "path": "global/language/IELTS/ielts_reading_0.json",
+    "suitePath": "configs/ielts.json",
+    "category": "IELTS",
+    "year": 2025
+  },
+  {
+    "id": "ielts_grammar_0",
+    "title": "IELTS Grammar Practice",
+    "description": "### Advanced Grammar Proficiency\n\n**Target:** Band 7.0 - 9.0\n\nWhile IELTS does not have a standalone grammar section, grammatical range and accuracy are crucial for the Writing and Speaking modules. This AI-generated set isolates specific grammatical pitfalls.\n\n**Focus Areas:**\n- **Complex Sentences:** Subordinate clauses and relative pronouns.\n- **Tense Consistency:** Perfect, continuous, and future forms.\n- **Structural Accuracy:** Subject-verb agreement, articles, and prepositions.\n- **Error Identification:** Spotting common mistakes in academic writing.",
+    "short_description": "Comprehensive grammar drill targeting sentence structures, tenses, and punctuation required for Band 7+ scores.",
+    "path": "global/language/IELTS/ielts_grammar_0.json",
+    "suitePath": "configs/ielts.json",
+    "category": "IELTS",
+    "year": 2025
+  },
+  {
+    "id": "ielts_vocabulary_0",
+    "title": "IELTS Vocabulary Practice",
+    "description": "### Lexical Resource Builder\n\n**Objective:** Enhance Vocabulary Range\n\nA robust vocabulary is the backbone of a high IELTS score. This exam focuses on synonyms, antonyms, and contextual usage to help you avoid repetition in Writing and Speaking.\n\n**Topic Coverage:**\n*   **Academic Vocabulary:** Formal words used in higher education contexts.\n*   **Collocations:** Words that naturally go together (e.g., 'heavy rain' vs 'strong rain').\n*   **Idiomatic Language:** Common English idioms and phrasal verbs.\n*   **Paraphrasing:** The ability to express the same idea using different words.",
+    "short_description": "Intensive vocabulary test covering academic synonyms, collocations, and idiomatic language to boost Lexical Resource.",
+    "path": "global/language/IELTS/ielts_vocabulary_0.json",
+    "suitePath": "configs/ielts.json",
+    "category": "IELTS",
+    "year": 2025
+  },
+  {
+    "id": "ielts_listening_0",
+    "title": "IELTS Listening Practice",
+    "description": "### IELTS Listening Simulation\n\n**Format:** 4 Sections | 40 Questions\n\nThis AI-generated practice test simulates the progression of difficulty found in the actual listening exam, moving from everyday social contexts to complex academic discourse.\n\n**Section Breakdown:**\n1.  **Social Conversation:** A dialogue between two speakers in a daily context.\n2.  **Social Monologue:** A speech about local facilities or everyday arrangements.\n3.  **Academic Discussion:** A conversation between up to four people in an educational setting.\n4.  **Academic Monologue:** A lecture on a university-level subject.",
+    "short_description": "Simulated listening test with 4 sections covering social conversations, monologues, and academic discussions.",
+    "path": "global/language/IELTS/ielts_listening_0.json",
+    "suitePath": "configs/ielts.json",
+    "category": "IELTS",
+    "year": 2025
+  },
+  {
+    "id": "jeeMain_2025_22Jan_shift1",
+    "title": "JEE Main 2025 (Jan 22nd, Shift 1)",
+    "description": "### JEE Main 2025 - Session 1 (Morning Shift)\n\n**Date:** January 22, 2025 | **Shift:** 09:00 AM - 12:00 PM\n**Conducted By:** National Testing Agency (NTA)\n\nThis is the official **Paper 1 (B.E./B.Tech)** question paper containing 90 questions (30 per subject).\n\n**Subject Breakdown:**\n1.  **Physics:** Mechanics, Electrodynamics, Thermodynamics.\n2.  **Chemistry:** Organic, Inorganic, and Physical Chemistry.\n3.  **Mathematics:** Calculus, Coordinate Geometry, Algebra.\n\n> Contains both MCQ and Numerical Value Type questions.",
+    "short_description": "JEE Main 2025 Session 1 Morning Shift paper for B.E./B.Tech aspirants, covering Physics, Chemistry, and Math.",
+    "path": "India/undergraduate/JEEMains/jeeMain_2025_22Jan_shift1.json",
+    "suitePath": "configs/jee.json",
+    "category": "JEE Main",
+    "year": 2025
+  },
+  {
+    "id": "jeeMain_2025_22Jan_shift2",
+    "title": "JEE Main 2025 (Jan 22nd, Shift 2)",
+    "description": "### JEE Main 2025 - Session 1 (Evening Shift)\n\n**Date:** January 22, 2025 | **Shift:** 03:00 PM - 06:00 PM\n**Conducted By:** National Testing Agency (NTA)\n\nOfficial question paper for the afternoon session. This paper is crucial for students analyzing shift-wise difficulty variations and normalization trends.\n\n**Paper Structure:**\n*   **Section A:** 20 MCQs per subject.\n*   **Section B:** 10 Numerical Value questions (Attempt any 5).\n\n**Focus Areas:** High-weightage topics including Rotational Motion, Chemical Bonding, and Integral Calculus.",
+    "short_description": "JEE Main 2025 Session 1 Evening Shift paper with MCQs and numerical value questions for engineering entrance.",
+    "path": "India/undergraduate/JEEMains/jeeMain_2025_22Jan_shift2.json",
+    "suitePath": "configs/jee.json",
+    "category": "JEE Main",
+    "year": 2025
+  },
+  {
+    "id": "bace_biotech_skills_practical",
+    "title": "BACE: Biotechnology Skills (Practical)",
+    "description": "### Badge: Biotechnology Skills\n\n**Type:** Practical | **Weight:** 23% of Exam\n\nThis module tests the foundational hands-on skills required in a laboratory setting. Questions often involve procedural ordering and image analysis.\n\n**Key Topics:**\n*   **Aseptic Technique:** Sterility maintenance and contamination avoidance.\n*   **Micropipetting:** Correct usage of micro/macro pipettes.\n*   **Solution Prep:** pH adjustments, buffers, and serial dilutions.\n*   **Cell Culture:** Streaking plates and maintaining cell lines.\n\n> *Recommended Resource: Bio-Rad Lab Skills Course*",
+    "short_description": "60-question practical section focusing on aseptic techniques, micropipetting, and solution preparation.",
+    "path": "usa/biotechnology/BACE/bace_biotech_skills.json",
+    "suitePath": "configs/bace.json",
+    "category": "BACE",
+    "year": 2025
+  },
+  {
+    "id": "bace_tech_skills_knowledge",
+    "title": "BACE: Technical Skills & Applications",
+    "description": "### Badge: Technical Skills & Applications\n\n**Type:** Knowledge | **Weight:** 19% of Exam\n\nFocuses on the theoretical understanding of common molecular biology assays and the ability to select the correct assay for a given scenario.\n\n**Key Topics:**\n*   **PCR:** qPCR vs. Conventional methods.\n*   **Electrophoresis:** Agarose gel and PAGE.\n*   **Immunoassays:** ELISA workflows.\n*   **Recombinant DNA:** Cloning vectors and transformation.\n*   **Analytical Methods:** Spectroscopy and Chromatography.",
+    "short_description": "50-question knowledge section covering PCR, Electrophoresis, Immunoassays, and Chromatography.",
+    "path": "usa/biotechnology/BACE/bace_tech_skills.json",
+    "suitePath": "configs/bace.json",
+    "category": "BACE",
+    "year": 2025
+  },
+  {
+    "id": "bace_applied_math",
+    "title": "BACE: Applied Mathematics",
+    "description": "### Badge: Applied Mathematics\n\n**Type:** Practical | **Weight:** 11.5% of Exam\n\nTests the ability to perform essential laboratory calculations and interpret graphical data. Requires numeric entry and graph analysis.\n\n**Formulas & Concepts:**\n*   **Dilutions:** $C_1V_1 = C_2V_2$ calculations.\n*   **Solutions:** Molarity (M) and Percent solutions (w/v, v/v).\n*   **Data Handling:** Significant figures and Scientific Notation.\n*   **Conversions:** $\\mu L \\leftrightarrow mL$ and other metric conversions.\n*   **Analysis:** Standard curve interpretation from linear plots.",
+    "short_description": "30-question calculation section on dilutions, molarity, unit conversions, and standard curves.",
+    "path": "usa/biotechnology/BACE/bace_applied_math.json",
+    "suitePath": "configs/bace.json",
+    "category": "BACE",
+    "year": 2025
+  },
+  {
+    "id": "bace_safety_culture",
+    "title": "BACE: Safety & Workplace Culture",
+    "description": "### Badge: Safety & Workplace Culture\n\n**Type:** Knowledge | **Weight:** 11.5% of Exam\n\nEnsures candidates understand the regulatory and safety frameworks necessary to work safely in a biolab environment.\n\n**Key Topics:**\n*   **PPE:** Hierarchy of controls and selection.\n*   **Documentation:** Reading Safety Data Sheets (SDS).\n*   **Waste Management:** Chemical vs. Biohazard disposal.\n*   **Emergency:** Spill containment and Fire safety.\n*   **Standards:** OSHA regulations and BSL Levels.",
+    "short_description": "30-question section on PPE, MSDS/SDS reading, biohazard disposal, and emergency response.",
+    "path": "usa/biotechnology/BACE/bace_safety.json",
+    "suitePath": "configs/bace.json",
+    "category": "BACE",
+    "year": 2025
+  },
+  {
+    "id": "bace_biochem_molecular",
+    "title": "BACE: Biochemistry & Molecular Biology",
+    "description": "### Badge: Biochemistry & Molecular Biology\n\n**Type:** Knowledge | **Weight:** 10% of Exam\n\nTests conceptual understanding of biological processes at the molecular level.\n\n**Key Topics:**\n*   **Central Dogma:** DNA $\\rightarrow$ RNA $\\rightarrow$ Protein flow.\n*   **Proteins:** Structure (primary to quaternary) and folding.\n*   **Kinetics:** Enzyme activity ($K_m$, $V_{max}$).\n*   **Therapeutics:** Monoclonal antibodies (mAb).\n*   **Genetics:** DNA replication mechanisms.",
+    "short_description": "30-question theory section on the Central Dogma, protein folding, enzyme kinetics, and DNA replication.",
+    "path": "usa/biotechnology/BACE/bace_biochem.json",
+    "suitePath": "configs/bace.json",
+    "category": "BACE",
+    "year": 2025
+  },
+  {
+    "id": "bace_regulation_quality",
+    "title": "BACE: Regulation & Quality Control",
+    "description": "### Badge: Regulation & Quality\n\n**Type:** Knowledge | **Weight:** 9% of Exam\n\nFocuses on the strict quality standards required in biomanufacturing and research industries.\n\n**Key Topics:**\n*   **Guidelines:** cGMP (Good Manufacturing Practice) & GLP.\n*   **Roles:** Quality Assurance (QA) vs. Quality Control (QC).\n*   **Documentation:** SOPs, Batch Records, and GDP.\n*   **Data Integrity:** ALCOA principles.\n*   **Agencies:** FDA and ISO 9001 standards.",
+    "short_description": "20-question section covering cGMP, GLP, QA/QC roles, ALCOA principles, and documentation.",
+    "path": "usa/biotechnology/BACE/bace_regulation.json",
+    "suitePath": "configs/bace.json",
+    "category": "BACE",
+    "year": 2025
+  },
+  {
+    "id": "bace_equipment_design",
+    "title": "BACE: Equipment & Experimental Design",
+    "description": "### Badge: Standard Equipment & Experimental Design\n\n**Type:** Practical | **Weight:** 15% of Exam\n\nCombines equipment operational knowledge with the logic required to design valid experiments.\n\n**Equipment Topics:**\n*   Centrifuge balancing and Rotor types.\n*   Spectrophotometer operation.\n*   Autoclave cycles and Microscope care.\n\n**Design Topics:**\n*   Experimental controls (+/-) and Replicates.\n*   Lab Notebook legal standards.\n*   Error Analysis & PCA (Principal Component Analysis).",
+    "short_description": "Combined practice for equipment troubleshooting (Centrifuge, Autoclave) and experimental error analysis.",
+    "path": "usa/biotechnology/BACE/bace_equipment_design.json",
+    "suitePath": "configs/bace.json",
+    "category": "BACE",
+    "year": 2025
+  },
+  {
+    "id": "mtel_physical_ed_22_practice",
+    "title": "MTEL Physical Education (22) Practice Test",
+    "description": "### Official MTEL Physical Education (Field 22)\n\n**Source:** Massachusetts Department of Elementary and Secondary Education\n\nThis practice test allows candidates to evaluate their readiness for the Massachusetts Tests for Educator Licensure (MTEL) in Physical Education.\n\n**Domains Covered:**\n*   **Physical Development & Motor Learning:** Anatomy, physiology, and biomechanics.\n*   **Movement Activities:** Sports rules, tactics, and dance.\n*   **Principles of Physical Fitness:** Health-related fitness and training principles.\n*   **The PE Program:** Curriculum design, legal issues, and inclusion.",
+    "short_description": "Official practice test for MTEL Physical Education (Field 22) from the Massachusetts Department of Education.",
+    "path": "usa/certification/MTEL/mtel_physical_ed_22_practice.json",
+    "suitePath": "configs/mtel.json",
+    "category": "MTEL",
+    "year": 2025
+  },
+  {
+    "id": "mtel_physical_ed_22_unofficial_examify",
+    "title": "MTEL Physical Education (22) Unofficial Practice Test by ExamOven",
+    "description": "### ExamOven Prep: MTEL PE (Field 22)\n\n**Type:** Unofficial High-Yield Practice Set\n\nCreated by the ExamOven subject matter experts and verified by AI, this test focuses on high-probability topics and difficult concepts often missed by students.\n\n**Key Features:**\n- **100 Multiple Choice Questions** simulating the actual exam environment.\n- **Deep-Dive Explanations:** detailed rationale for why distractors are incorrect.\n- Aligned with the latest Massachusetts state curriculum frameworks.",
+    "short_description": "High-yield unofficial practice test for MTEL PE (Field 22) created by ExamOven experts.",
+    "path": "usa/certification/MTEL/mtel_physical_ed_22_unofficial_examify.json",
+    "suitePath": "configs/mtel.json",
+    "category": "MTEL",
+    "year": 2025
+  },
+  {
+    "id": "cat_2024_slot1_quant",
+    "title": "CAT 2024 Question Paper (Slot 1, QA)",
+    "description": "### CAT 2024 - Slot 1 (Quantitative Aptitude)\n\n**Conducting IIM:** IIM Calcutta\n\nThis module contains the Quantitative Aptitude section from the morning slot of the Common Admission Test 2024. \n\n**Analysis:**\n- **Difficulty Level:** Moderate to Difficult.\n- **Topic Weightage:** High focus on **Arithmetic** (Time & Work, TSD) and **Algebra** (Quadratic equations, Inequalities). \n- Includes both MCQ and TITA (Type In The Answer) questions.",
+    "short_description": "CAT 2024 Slot 1 Quantitative Aptitude paper with a focus on Arithmetic and Algebra.",
+    "path": "India/management/CAT/cat_2024_slot1_quant.json",
+    "suitePath": "configs/cat.json",
+    "category": "CAT",
+    "year": 2024
+  },
+  {
+    "id": "cat_2024_slot2_quant",
+    "title": "CAT 2024 Question Paper (Slot 2, QA)",
+    "description": "### CAT 2024 - Slot 2 (Quantitative Aptitude)\n\n**Conducting IIM:** IIM Calcutta\n\nThe afternoon slot paper for CAT 2024. This section is known for testing conceptual clarity over calculation speed.\n\n**Key Areas:**\n*   **Geometry & Mensuration:** Triangles, Circles, and Coordinate Geometry.\n*   **Number Systems:** Remainders and factors.\n*   **Modern Math:** Permutations, Combinations, and Probability.\n\n> Perfect for aspirants aiming to practice section-specific time management strategies.",
+    "short_description": "CAT 2024 Slot 2 Quantitative Aptitude paper emphasizing Geometry, Number Systems, and Modern Math.",
+    "path": "India/management/CAT/cat_2024_slot2_quant.json",
+    "suitePath": "configs/cat.json",
+    "category": "CAT",
+    "year": 2024
+  },
+  {
+    "id": "cat_2024_slot3_quant",
+    "title": "CAT 2024 Question Paper (Slot 3, QA)",
+    "description": "### CAT 2024 - Slot 3 (Quantitative Aptitude)\n\n**Conducting IIM:** IIM Calcutta\n\nThe evening slot paper, often considered the 'decider' slot. This dataset allows for a comprehensive review of the hardest questions asked in 2024.\n\n**Highlights:**\n- Tricky wording in **Arithmetic** problems.\n- Complex **Logarithms** and **Sequence & Series** questions.\n- Comparative analysis with Slot 1 and Slot 2 papers.",
+    "short_description": "CAT 2024 Slot 3 Quantitative Aptitude paper featuring complex Arithmetic and Sequence & Series questions.",
+    "path": "India/management/CAT/cat_2024_slot3_quant.json",
+    "suitePath": "configs/cat.json",
+    "category": "CAT",
+    "year": 2024
+  },
+  {
+    "id": "cat_2024_slot1_completePaper",
+    "title": "CAT 2024 Question Paper (Slot 1, PYQ)",
+    "description": "### CAT 2024 - Slot 1 (Previous Year Question Paper)\n\n**Conducting IIM:** IIM Calcutta\n\nThis file contains the complete question paper for the morning slot of CAT 2024, including all three sections: Verbal Ability & Reading Comprehension (VARC), Data Interpretation & Logical Reasoning (DILR), and Quantitative Aptitude (QA).\n\n**Section-wise Breakdown:**\n- **VARC:** Focus on Reading Comprehension passages and Verbal Ability questions.\n- **DILR:** Mixed sets of Data Interpretation and Logical Reasoning challenges.\n- **QA:** Arithmetic, Algebra, Geometry, and Modern Math problems.",
+    "short_description": "Complete CAT 2024 Slot 1 paper including VARC, DILR, and QA sections.",
+    "path": "India/management/CAT/cat_2024_slot1_completePaper.json",
+    "suitePath": "configs/cat.json",
+    "category": "CAT",
+    "year": 2024
+  },
+  {
+    "id": "cat_2023_slot1_completePaper",
+    "title": "CAT 2023 Question Paper (Slot 1, PYQ)",
+    "description": "### CAT 2023 - Slot 1 (Previous Year Question Paper)\n\n**Conducting IIM:** IIM Lucknow\n\n Previous year question paper for the slot 1 of CAT 2023, including all three sections: Verbal Ability & Reading Comprehension (VARC), Data Interpretation & Logical Reasoning (DILR), and Quantitative Aptitude (QA).\n\n**Section-wise Breakdown:**\n- **VARC:** Focus on Reading Comprehension passages and Verbal Ability questions.\n- **DILR:** Mixed sets of Data Interpretation and Logical Reasoning challenges.\n- **QA:** Arithmetic, Algebra, Geometry, and Modern Math problems.",
+    "short_description": "Complete CAT 2023 Slot 1 paper including VARC, DILR, and QA sections.",
+    "path": "India/management/CAT/cat_2023_slot1_completePaper.json",
+    "suitePath": "configs/cat.json",
+    "category": "CAT",
+    "year": 2023
+  },
+  {
+    "id": "cat_2022_slot1_previousYearPaper",
+    "title": "CAT 2022 Question Paper (Slot 1, PYQ)",
+    "description": "### CAT 2022 - Slot 1 (Previous Year Question Paper)\n\n**Conducting IIM:** IIM Bangalore\n\n Previous year question paper for the slot 1 of CAT 2022, including all three sections: Verbal Ability & Reading Comprehension (VARC), Data Interpretation & Logical Reasoning (DILR), and Quantitative Aptitude (QA).\n\n**Section-wise Breakdown:**\n- **VARC:** Focus on Reading Comprehension passages and Verbal Ability questions.\n- **DILR:** Mixed sets of Data Interpretation and Logical Reasoning challenges.\n- **QA:** Arithmetic, Algebra, Geometry, and Modern Math problems.",
+    "short_description": "Complete CAT 2022 Slot 1 paper including VARC, DILR, and QA sections.",
+    "path": "India/management/CAT/cat_2022_slot1_completePaper.json",
+    "suitePath": "configs/cat.json",
+    "category": "CAT",
+    "year": 2022
+  },
+  {
+    "id": "cat_2021_slot1_previousYearPaper",
+    "title": "CAT 2021 Question Paper (Slot 1, PYQ)",
+    "description": "### CAT 2021 - Slot 1 (Previous Year Question Paper)\n\n**Conducting IIM:** IIM Ahmedabad\n\n Previous year question paper for the slot 1 of CAT 2021, including all three sections: Verbal Ability & Reading Comprehension (VARC), Data Interpretation & Logical Reasoning (DILR), and Quantitative Aptitude (QA).\n\n**Section-wise Breakdown:**\n- **VARC:** Focus on Reading Comprehension passages and Verbal Ability questions.\n- **DILR:** Mixed sets of Data Interpretation and Logical Reasoning challenges.\n- **QA:** Arithmetic, Algebra, Geometry, and Modern Math problems.",
+    "short_description": "Previous year question paper for the slot 1 of CAT 2021, including all three sections: Verbal Ability & Reading Comprehension (VARC), Data Interpretation & Logical Reasoning (DILR), and Quantitative Aptitude (QA).",
+    "path": "India/management/CAT/cat_2021_slot1_completePaper.json",
+    "suitePath": "configs/cat.json",
+    "category": "CAT",
+    "year": 2021
+  },
+  {
+    "id": "rrb-ntpc_2025",
+    "title": "RRB-NTPC 2025",
+    "description": "### Railway Recruitment Board - NTPC 2025\n\n**Post:** Non-Technical Popular Categories (Undergraduate & Graduate)\n\nThis paper covers the syllabus for the **Computer Based Test (CBT)** for posts such as Junior Clerk, Accounts Clerk, and Station Master.\n\n**Sections:**\n1.  **General Awareness (40 Marks):** Current Affairs, History, Geography, Polity.\n2.  **Mathematics (30 Marks):** Arithmetic, Number Systems, Data Interpretation.\n3.  **General Intelligence & Reasoning (30 Marks):** Analogies, Coding-Decoding, Puzzles.",
+    "short_description": "RRB NTPC 2025 CBT paper for non-technical posts, covering General Awareness, Math, and Reasoning.",
+    "path": "India/government/RRB_NTPC/RRB-NTPC_2025_05June_shift1.json",
+    "suitePath": "configs/rrb.json",
+    "category": "RRB-NTPC",
+    "year": 2025
+  },
+  {
+    "id": "bece_numericalLiteracy",
+    "title": "BECE Mathematics Numerical Literacy",
+    "description": "### Module: Numerical Literacy\n\n**Focus:** Foundational Mathematics | **Level:** Junior Secondary (JSS3)\n\nComprehensive practice for the arithmetic and numeration section of the BECE Mathematics exam.\n\n**Key Topics:**\n* **Number & Numeration:** Indices, fractions, decimals, and percentages.\n* **Whole Numbers:** Calculation involving large numbers and factors.\n* **Basic Operations:** Order of operations (BODMAS) and estimation.\n* **Financial Math:** Simple interest, profit and loss, and discount calculations.",
+    "short_description": "Comprehensive practice for the arithmetic and numeration section, covering indices, fractions, and financial math.",
+    "path": "nigeria/BECE/mathematics/numericalLiteracy.json",
+    "suitePath": "configs/bece.json",
+    "category": "BECE",
+    "year": 2026
+  },
+  {
+    "id": "bece_statistics&probability",
+    "title": "BECE Mathematics Statistics & Probability",
+    "description": "### Module: Statistics & Probability\n\n**Focus:** Data Analysis | **Level:** Junior Secondary (JSS3)\n\nPractice interpreting data and understanding likelihood, essential for the BECE Mathematics paper.\n\n**Key Topics:**\n* **Data Presentation:** Frequency tables, pie charts, and bar graphs.\n* **Measures of Average:** Calculating Mean, Median, and Mode.\n* **Probability:** Foundations of chance and outcomes involving dice, cards, and coins.",
+    "short_description": "Practice interpreting data and understanding likelihood, including frequency tables and probability outcomes.",
+    "path": "nigeria/BECE/mathematics/statistics&probability.json",
+    "suitePath": "configs/bece.json",
+    "category": "BECE",
+    "year": 2026
+  },
+  {
+    "id": "bece_algebraicProcesses",
+    "title": "BECE Mathematics Algebraic Processes",
+    "description": "### Module: Algebraic Processes\n\n**Focus:** Equations & Expressions | **Level:** Junior Secondary (JSS3)\n\nMaster the algebraic components of the BECE curriculum, from basic expressions to solving linear equations.\n\n**Key Topics:**\n* **Algebraic Expressions:** Expansion, simplification, and substitution.\n* **Factorization:** Basic grouping and common factors.\n* **Equations:** Solving linear equations and word problems.\n* **Inequalities:** Solving and graphing linear inequalities on a number line.",
+    "short_description": "Master algebraic components from basic expressions to expansion, factorization, and linear equations.",
+    "path": "nigeria/BECE/mathematics/algebraicProcesses.json",
+    "suitePath": "configs/bece.json",
+    "category": "BECE",
+    "year": 2026
+  },
+  {
+    "id": "bece_geometry&measurement",
+    "title": "BECE Mathematics Geometry & Measurement",
+    "description": "### Module: Geometry & Measurement\n\n**Focus:** Shapes & Dimensions | **Level:** Junior Secondary (JSS3)\n\nComprehensive review of geometric properties and measurement calculations for JSS3 students.\n\n**Key Topics:**\n* **Plane Shapes:** Properties of triangles, quadrilaterals, and circles.\n* **Solid Shapes:** Volumes and surface areas of prisms, cylinders, and pyramids.\n* **Measurement:** Length, perimeter, area, and weight conversions.\n* **Trigonometry:** Basic ratios and angle properties.",
+    "short_description": "Review geometric properties and measurement calculations for JSS3 students, including plane and solid shapes.",
+    "path": "nigeria/BECE/mathematics/geometry&measurement.json",
+    "suitePath": "configs/bece.json",
+    "category": "BECE",
+    "year": 2026
+  },
+  {
+    "id": "bece_basicScience",
+    "title": "BECE Basic Science",
+    "description": "### Module: Basic Science\n\n**Focus:** Scientific Foundations | **Level:** Junior Secondary (JSS3)\n\nIntegrated practice covering biology, physics, and chemistry concepts as required for the Junior WAEC.\n\n**Key Areas:**\n* **Biological Systems:** Living things, environment, and human health.\n* **Energy & Matter:** Force, work, energy, and properties of matter.\n* **Chemistry Basics:** Elements, compounds, mixtures, and basic chemical changes.\n* **Earth & Space:** The solar system and environmental protection.",
+    "short_description": "Integrated practice covering biology, physics, and chemistry concepts as required for the Junior WAEC.",
+    "path": "nigeria/BECE/basicScience/basicScience.json",
+    "suitePath": "configs/bece.json",
+    "category": "BECE",
+    "year": 2026
+  },
+  {
+    "id": "bece_Technology&ComputerScience",
+    "title": "BECE Basic Technology & Computer Science",
+    "description": "### Module: Basic Tech & Computer Science\n\n**Focus:** Applied Science & IT | **Level:** Junior Secondary (JSS3)\n\nCombined practice for Basic Technology and ICT, focusing on tools, hardware, and digital concepts.\n\n**Key Topics:**\n* **Basic Technology:** Tools, materials (wood/metal), and technical drawing basics.\n* **Computer Hardware:** CPU, input/output devices, and storage units.\n* **Software & Digital:** Operating systems, word processing, and internet safety.\n* **Electronics:** Basic circuits and component recognition.",
+    "short_description": "Combined practice for Basic Technology and ICT, focusing on tools, hardware, and digital literacy.",
+    "path": "nigeria/BECE/basicTechnology&ComputerScience/basicTechnology&ComputerScience.json",
+    "suitePath": "configs/bece.json",
+    "category": "BECE",
+    "year": 2026
+  },
+  {
+    "id": "bece_physicalEducation",
+    "title": "BECE Physical Education",
+    "description": "### Module: Physical & Health Education\n\n**Focus:** Sports & Wellness | **Level:** Junior Secondary (JSS3)\n\nReview of sports rules, safety, and health topics for the BECE Physical Education exam.\n\n**Key Areas:**\n* **Sports & Games:** Rules and techniques for athletics, football, and volleyball.\n* **Health Education:** Nutrition, personal hygiene, and disease prevention.\n* **First Aid:** Emergency response and injury management.\n* **Physical Fitness:** Components of fitness and training principles.",
+    "short_description": "Review of sports rules, safety, and health topics for the BECE Physical Education exam.",
+    "path": "nigeria/BECE/physicalEducation/physicalEducation.json",
+    "suitePath": "configs/bece.json",
+    "category": "BECE",
+    "year": 2026
+  },
+  {
+    "id": "pjok_k5_bab1",
+    "title": "Bab 1: Eksplorasi Gerak",
+    "description": "### Bab 1: Eksplorasi Gerak\n\nModul latihan ini mencakup materi dari Kurikulum Merdeka PJOK Kelas 5 SD. \n\n**Materi Utama:**\n*   **Aktivitas Jalan dan Lari:** Permainan Jalan Lompat Ceria, Lari Kompas, dan Selip Rintangan.\n*   **Aktivitas Lompat dan Loncat:** Lari Loncat Rintangan dan Zona Petualangan.\n*   **Melempar dan Menangkap:** Bola besar dan kecil dengan berbagai variasi jarak.\n*   **Menendang dan Menghentikan:** Teknik dasar sepak bola mini dan bola tangan.\n*   **Aktivitas Air:** Keselamatan di air dan estafet bola di kolam.\n\n*Gunakan latihan ini untuk memperdalam pemahaman strategi dan teknik gerak dasar.*",
+    "short_description": "Latihan soal mengenai penyesuaian dan modifikasi keterampilan gerak dasar (jalan, lari, lompat, loncat) serta koordinasi mata, tangan, dan kaki.",
+    "path": "indonesia/Sekolah/kelas5/Penjasorkes/eksplorasiGerak.json",
+    "suitePath": "configs/pjok-kelas-5.json",
+    "category": "Unit 1",
+    "year": 2026
+  },
+  {
+    "id": "pjok_k5_bab2",
+    "title": "Bab 2: Berpikir Cerdas Bergerak Taktis",
+    "description": "### Bab 2: Berpikir Cerdas Bergerak Taktis\n\nModul ini berfokus pada pemahaman kognitif dalam bergerak (movement concepts).\n\n**Konsep yang Dipelajari:**\n*   **Kesadaran Ruang:** Lokasi, arah, tingkatan, jalur, dan jarak.\n*   **Kesadaran Usaha:** Pengaturan tenaga (kuat/lemah) dan waktu (cepat/lambat).\n*   **Kesadaran Hubungan:** Interaksi tubuh dengan objek (alat) dan orang lain.\n*   **Strategi Gerak:** Perencanaan dan adaptasi dalam permainan invasi, lapangan, dan net.\n\n*Latihan ini membantu siswa memahami mengapa dan bagaimana mereka harus bergerak secara taktis.*",
+    "short_description": "Latihan soal mengenai konsep kesadaran ruang, usaha (tenaga/waktu), dan hubungan dalam aktivitas jasmani.",
+    "path": "indonesia/Sekolah/kelas5/Penjasorkes/berpikirCerdasBergerakTaktis.json",
+    "suitePath": "configs/pjok-kelas-5.json",
+    "category": "Unit 2",
+    "year": 2026
+  },
+  {
+    "id": "pjok_k5_bab3",
+    "title": "Bab 3: Aturan Baru, Permainan Seru",
+    "description": "### Bab 3: Aturan Baru, Permainan Seru\n\nModul ini membahas tentang pentingnya aturan dalam bermain dan bagaimana memodifikasinya.\n\n**Materi Utama:**\n*   **Konsep Bermain vs Permainan:** Perbedaan spontanitas dan struktur.\n*   **Faktor Pemengaruh:** Kesehatan, lingkungan, dan alat.\n*   **Prinsip Modifikasi:** Keadilan, keamanan, dan keterlibatan aktif.\n*   **Permainan Inklusif:** Menghargai perbedaan dan empati.\n*   **Aktivitas Praktik:** Bola target, bowling sederhana, dan lempar tangkap inklusi.\n\n*Pelajari cara menciptakan lingkungan bermain yang adil bagi semua orang.*",
+    "short_description": "Latihan soal mengenai pengembangan dan modifikasi peraturan permainan untuk inklusi dan keadilan.",
+    "path": "indonesia/Sekolah/kelas5/Penjasorkes/aturanBaru.json",
+    "suitePath": "configs/pjok-kelas-5.json",
+    "category": "Unit 3",
+    "year": 2026
+  },
+  {
+    "id": "pjok_k5_bab4",
+    "title": "Bab 4: Belajar Bersama di Komunitas Kesehatan",
+    "description": "### Bab 4: Belajar Bersama di Komunitas Kesehatan\n\nModul ini mengeksplorasi peran komunitas dalam mendukung gaya hidup aktif.\n\n**Materi Utama:**\n*   **Komunitas Kesehatan:** Faktor individu, sosial, dan eksternal dalam partisipasi.\n*   **Aktivitas Komunitas:** Lari, renang, bersepeda, senam (*pound fit*), dan sepak bola.\n*   **Permainan Tradisional:** Gobak sodor dan lempar boy (boy-boyan).\n*   **Kesehatan Kardiovaskular:** Jantung, pembuluh darah, dan pengukuran denyut nadi (palpasi).\n*   **Kesehatan Mental:** Hormon endorfin, ekspresi emosi, dan motivasi.\n\n*Temukan bagaimana komunitas dapat menginspirasi kita untuk hidup lebih sehat.*",
+    "short_description": "Latihan soal mengenai partisipasi dalam komunitas kesehatan, aktivitas fisik bersama, and kesehatan kardiovaskular.",
+    "path": "indonesia/Sekolah/kelas5/Penjasorkes/eksplorasiGerak4.json",
+    "suitePath": "configs/pjok-kelas-5.json",
+    "category": "Unit 4",
+    "year": 2026
+  },
+  {
+    "id": "pjok_k5_bab5",
+    "title": "Bab 5: Menjadi Sehat and Aktif",
+    "description": "### Bab 5: Menjadi Sehat and Aktif\n\nModul ini berfokus pada nutrisi dan menghindari gaya hidup tidak aktif.\n\n**Materi Utama:**\n*   **Gaya Hidup Digital:** Mengatasi perilaku sedenter dan dampak *game online*.\n*   **Label Gizi:** Memahami takaran saji, AKG (Angka Kecukupan Gizi), dan label BPOM.\n*   **Zat Gizi Utama:** Karbohidrat, protein, lemak (tak jenuh), vitamin, mineral, dan air.\n*   **Pencegahan Penyakit:** Diabetes tipe 1 dan obesitas melalui pola makan.\n*   **Menu Sehat:** Sarapan, camilan, dan tip makan di luar/pesta.\n\n*Tingkatkan kesadaran nutrisi untuk mendukung pertumbuhan dan kebugaran tubuh.*",
+    "short_description": "Latihan soal mengenai perilaku sedenter, label gizi, AKG, dan upaya pemenuhan gizi seimbang.",
+    "path": "indonesia/Sekolah/kelas5/Penjasorkes/menjadiSehatdanAktif.json",
+    "suitePath": "configs/pjok-kelas-5.json",
+    "category": "Unit 5",
+    "year": 2026
+  },
+  {
+    "id": "hosa_nutrition_physiology",
+    "title": "HOSA Nutrition: Nutritional Physiology",
+    "description": "### Advanced Nutritional Physiology\n\nFocuses on the biological processes of the digestive system and metabolic pathways.\n\n**Key Topics:**\n*   **Digestion & Absorption:** Enzymes, transport mechanisms, and GI tract structures.\n*   **Metabolism:** Glycolysis, gluconeogenesis, and beta-oxidation logic.\n*   **Fluid Balance:** Intracellular vs. Extracellular compartments and ADH/Aldosterone regulation.\n*   **Acid-Base Balance:** Bicarbonate buffer system and respiratory compensation.",
+    "short_description": "Contains 48 Questions",
+    "path": "usa/hosa/hosa_nutrition/nutritionalPhysiology.json",
+    "suitePath": "configs/hosa-nutrition.json",
+    "category": "HOSA Nutrition",
+    "year": "Practice"
+  },
+  {
+    "id": "hosa_nutrition_macronutrients",
+    "title": "HOSA Nutrition: Carbohydrates, Proteins, and Fats",
+    "description": "### Macronutrients: Carbohydrates, Proteins & Fats\n\nA deep dive into the chemical structure, energy density, and dietary importance of primary nutrients.\n\n**Focus Areas:**\n*   **Carbohydrates:** Glycemic index, fiber benefits, and glycogen storage.\n*   **Proteins:** Essential amino acids, nitrogen balance, and protein quality (complementary proteins).\n*   **Fats:** Saturated vs. Unsaturated fatty acids, lipoproteins (HDL/LDL), and Omega-3/6.\n*   **Calculations:** Caloric density (4/4/9) and metabolic rate logic.",
+    "short_description": "Contains 36 Questions",
+    "path": "usa/hosa/hosa_nutrition/carbohydratesProteinsFats.json",
+    "suitePath": "configs/hosa-nutrition.json",
+    "category": "HOSA Nutrition",
+    "year": "Practice"
+  },
+  {
+    "id": "hosa_nutrition_vitamins_minerals",
+    "title": "HOSA Nutrition: Vitamins and Minerals",
+    "description": "### Micronutrients: Vitamins and Minerals\n\nComprehensive review of vitamins and minerals essential for human health and disease prevention.\n\n**Key Concepts:**\n*   **Fat-Soluble Vitamins:** A, D, E, and K — functions, toxicity, and storage.\n*   **Water-Soluble Vitamins:** B-complex (Thiamine, Niacin, B12, Folate) and Vitamin C.\n*   **Major Minerals:** Calcium, Potassium, Sodium, and Magnesium balance.\n*   **Trace Minerals:** Iron, Zinc, Copper, Iodine, and Fluoride clinical significance.",
+    "short_description": "Contains 36 Questions",
+    "path": "usa/hosa/hosa_nutrition/vitamins&Minerals.json",
+    "suitePath": "configs/hosa-nutrition.json",
+    "category": "HOSA Nutrition",
+    "year": "Practice"
+  },
+  {
+    "id": "hosa_nutrition_mnt",
+    "title": "HOSA Nutrition: Medical Nutrition Therapy",
+    "description": "### Medical Nutrition Therapy (MNT)\n\nClinical application of nutrition for the management of diseases and medical conditions.\n\n**Syllabus:**\n*   **Metabolic Disorders:** Type 1 & Type 2 Diabetes management and carb counting.\n*   **Organ Systems:** Renal (ESRD/Dialysis), Cardiac (CHF/DASH), and Hepatic MNT.\n*   **GI Conditions:** Celiac disease, GERD, and IBD/IBS (FODMAP) diets.\n*   **Specialized Care:** Oncology nutrition, wound healing, and enteral/parenteral nutrition (TPN).",
+    "short_description": "Contains 48 Questions",
+    "path": "usa/hosa/hosa_nutrition/medicalNutritionTherapy.json",
+    "suitePath": "configs/hosa-nutrition.json",
+    "category": "HOSA Nutrition",
+    "year": "Practice"
+  },
+  {
+    "id": "hosa_nutrition_lifespan",
+    "title": "HOSA Nutrition: Nutrition Through the Life Span",
+    "description": "### Nutrition Through the Life Span\n\nExplores the changing nutritional requirements from conception through old age.\n\n**Focus Areas:**\n*   **Maternal Nutrition:** Weight gain guidelines, Folate importance, and breastfeeding hormones.\n*   **Infant & Child:** Breastfeeding vs. Formula, introduction of solids, and growth chart analysis.\n*   **Adolescence:** Bone mass development, iron needs, and the Female Athlete Triad.\n*   **Elderly Nutrition:** Sarcopenia prevention, Vitamin B12 malabsorption, and dehydration risks.",
+    "short_description": "Contains 36 Questions",
+    "path": "usa/hosa/hosa_nutrition/nutritionThroughtheLifeSpan.json",
+    "suitePath": "configs/hosa-nutrition.json",
+    "category": "HOSA Nutrition",
+    "year": "Practice"
+  },
+  {
+    "id": "hosa_nutrition_epidemiology_safety",
+    "title": "HOSA Nutrition: Dietary Epidemiology & Food Safety",
+    "description": "### Dietary Epidemiology, Culture & Food Safety\n\nAnalysis of foodborne pathogens, safety protocols, and the impact of culture on dietary choices.\n\n**Key Topics:**\n*   **Food Safety:** Pathogens (Salmonella, Listeria, Botulism), the 'Danger Zone', and internal temperatures.\n*   **Allergies & Intolerances:** Mechanism of food allergies (IgE) vs. enzymatic intolerances.\n*   **Cultural Food Patterns:** Kosher, Halal, Hindu, and Seventh-day Adventist dietary laws.\n*   **Epidemiology:** Acculturation impact and food desert definitions.",
+    "short_description": "Contains 36 Questions",
+    "path": "usa/hosa/hosa_nutrition/dietaryEpidemiology.json",
+    "suitePath": "configs/hosa-nutrition.json",
+    "category": "HOSA Nutrition",
+    "year": "Practice"
+  },
+  {
+    "id": "fbla_intro_marketing_fundamentals",
+    "title": "Marketing Fundamentals",
+    "description": "### Marketing Fundamentals\n\nFoundational knowledge of marketing principles as defined by the FBLA competitive events.\n\n**Topics Included:**\n*   **Marketing Concepts:** The seven core functions and the marketing concept.\n*   **Target Markets:** Segmentation (demographic, geographic, psychographic, behavioral).\n*   **Marketing Mix:** The traditional 4 Ps of marketing.\n*   **Consumer Behavior:** Buying motives, decision-making processes, and Maslow's hierarchy.\n*   **Strategic Planning:** SWOT analysis and the marketing plan structure.\n*   **Market Research:** Data analysis and career opportunities.",
+    "short_description": "Contains 40 Questions",
+    "path": "usa/certification/FBLA/introToMarketing/marketingFundamentals.json",
+    "suitePath": "configs/fbla-intro-marketing.json",
+    "category": "FBLA Introduction to Marketing",
+    "year": "Practice"
+  },
+  {
+    "id": "fbla_intro_marketing_product_service_management",
+    "title": "Product/Service Management",
+    "description": "### Product/Service Management\n\nAdvanced concepts in managing the lifecycle and identity of products and services.\n\n**Topics Included:**\n*   **Product Life Cycle (PLC):** Introduction, Growth, Maturity, and Decline stages.\n*   **Product Mix Strategies:** Analyzing mix width, depth, and consistency.\n*   **Branding & Identity:** Brand names, marks, trademarks, and brand equity.\n*   **Product Positioning:** Developing a unique image relative to competitors.\n*   **Grades and Standards:** Quality specifications and international standards (ISO).\n*   **Warranties and Guarantees:** Express vs. implied warranties and consumer protection laws.",
+    "short_description": "Contains 40 Questions",
+    "path": "usa/certification/FBLA/introToMarketing/productServiceManagement.json",
+    "suitePath": "configs/fbla-intro-marketing.json",
+    "category": "FBLA Introduction to Marketing",
+    "year": "Practice"
+  },
+  {
+    "id": "fbla_intro_marketing_selling_promotion",
+    "title": "Selling and Promotion",
+    "description": "### Selling and Promotion\n\nCommunication strategies used to influence purchase decisions and build brand awareness.\n\n**Topics Included:**\n*   **The Selling Process:** From prospecting and pre-approach to closing and follow-up.\n*   **Features and Benefits:** Translating product attributes into customer value.\n*   **Company Selling Policies:** Pricing, territory, and return policies.\n*   **Promotional Mix:** Advertising, Public Relations, Sales Promotion, and Personal Selling.\n*   **Advertising Media:** Analyzing print, broadcast, digital, and out-of-home media.\n*   **AIDA Model:** Understanding the stages of the consumer's journey.",
+    "short_description": "Contains 60 Questions",
+    "path": "usa/certification/FBLA/introToMarketing/sellingPromotion.json",
+    "suitePath": "configs/fbla-intro-marketing.json",
+    "category": "FBLA Introduction to Marketing",
+    "year": "Practice"
+  },
+  {
+    "id": "fbla_intro_marketing_channel_info_pricing",
+    "title": "Distribution, Research, and Pricing",
+    "description": "### Distribution, Research, and Pricing\n\nThe systems and strategies behind product placement, market intelligence, and value assignment.\n\n**Topics Included:**\n*   **Channel Management:** Direct vs. indirect distribution and logistics technology (RFID, EDI).\n*   **Marketing-Information Management:** Primary vs. secondary research and data analysis methods.\n*   **Marketing Research:** Focus groups, observation, and experimental research (A/B testing).\n*   **Pricing Strategies:** Price skimming, penetration pricing, and cost-plus methods.\n*   **Economics of Pricing:** Supply and demand, and price elasticity.\n*   **Legal/Ethical Issues:** Price fixing, price discrimination, and loss leaders.",
+    "short_description": "Contains 60 Questions",
+    "path": "usa/certification/FBLA/introToMarketing/channelMarketingInformationPricing.json",
+    "suitePath": "configs/fbla-intro-marketing.json",
+    "category": "FBLA Introduction to Marketing",
+    "year": "Practice"
+  },
+  {
+    "id": "cppb_domain_1_regulatory_compliance",
+    "title": "Domain I: Regulatory & Compliance",
+    "description": "### Domain I: Regulatory & Compliance\n\nFocuses on the legal and ethical framework of public procurement, including the Uniform Commercial Code (UCC), Law of Agency, and anti-competitive practices.\n\n**Topics Included:**\n*   **UCC Foundations:** Warranties (Express/Implied), Shipping Terms (FOB), and Rights of Buyer/Seller.\n*   **Law of Agency:** Types of Authority (Actual Express/Implied, Apparent) and Fiduciary Duties.\n*   **Contract Law Basics:** Essential elements (Offer, Acceptance, Consideration) and enforceability.\n*   **Legal Frameworks:** Common Law vs. Statutory Law and the Statute of Frauds.\n*   **Ethics & Compliance:** Identifying Collusion, Bid-rigging, and Conflicts of Interest.",
+    "short_description": "Contains 120 Questions",
+    "path": "usa/certification/CPPB/RegulatoryAndCompliance.json",
+    "suitePath": "configs/cppb.json",
+    "category": "Certified Professional Public Buyer",
+    "year": "Practice"
+  },
+  {
+    "id": "cppb_domain_2_pre_solicitation_planning",
+    "title": "Domain II: Pre-Solicitation Planning",
+    "description": "### Domain II: Pre-Solicitation Planning\n\nCovers the critical first steps of the procurement lifecycle, focusing on strategic integration, needs analysis, and market research.\n\n**Topics Included:**\n*   **Strategic Integration:** Aligning procurement with organizational goals and stakeholder management.\n*   **Needs Analysis:** Spend analysis, Lease-vs-Buy (NPV), and Total Cost of Ownership (TCO).\n*   **Market Research:** Supply positioning (Kraljic Matrix), demand forecasting, and value analysis/engineering.\n*   **Procurement Strategy:** Standardization, demand aggregation, and unbundling.\n*   **Information Gathering:** Using RFIs, Sources Sought notices, and Draft RFPs effectively.",
+    "short_description": "Contains 160+ Questions",
+    "path": "usa/certification/CPPB/PreSolicitationPlanning.json",
+    "suitePath": "configs/cppb.json",
+    "category": "Certified Professional Public Buyer",
+    "year": "Practice"
+  },
+  {
+    "id": "cppb_domain_3_sourcing_supplier_selection",
+    "title": "Domain III: Sourcing & Supplier Selection",
+    "description": "### Domain III: Sourcing & Supplier Selection\n\nEvaluates the methods and processes used to select the right supplier, from formal bidding to alternative sourcing methods.\n\n**Topics Included:**\n*   **Competitive Methods:** Detailed knowledge of IFB/ITB, RFP, and Multi-step bidding processes.\n*   **Professional Services:** Qualification-Based Selection (QBS) and the Brooks Act.\n*   **Alternative Sourcing:** Justifying Sole Source, Single Source, and Emergency Purchases.\n*   **Evaluation Techniques:** Best Value determination, weighted scoring matrices, and responsiveness/responsibility.\n*   **Informal Sourcing:** Efficient use of Request for Quotations (RFQ) for small-dollar purchases.",
+    "short_description": "Contains 160 Questions",
+    "path": "usa/certification/CPPB/SourcingAndSupplierSelection.json",
+    "suitePath": "configs/cppb.json",
+    "category": "Certified Professional Public Buyer",
+    "year": "Practice"
+  },
+  {
+    "id": "cppb_domain_4_procurement_business_principles",
+    "title": "Domain IV: Procurement Business Principles",
+    "description": "### Domain IV: Procurement Business Principles\n\nEmphasizes transparency, integrity, and leveraging data for efficient procurement activities within the regulatory and legal framework.\n\n**Topics Included:**\n*   **Fair Competition:** Promoting open competition, avoiding restrictive specifications, and identifying anti-competitive practices.\n*   **Strategic Sourcing:** Using spend analysis to identify opportunities for contract consolidation and volume discounts.\n*   **Emerging Trends:** Implementing RPA, Agile procurement, and Predictive Analytics in public sector sourcing.\n*   **Specialty Programs:** Managing MWBE/DBE programs, Disparity Studies, and sustainable 'Green' purchasing initiatives.\n*   **Roles & Authority:** Understanding the Law of Agency, express vs. implied authority, and segregation of duties.",
+    "short_description": "Contains 120 Questions",
+    "path": "usa/certification/CPPB/ProcurementBusinessPrinciples.json",
+    "suitePath": "configs/cppb.json",
+    "category": "Certified Professional Public Buyer",
+    "year": "Practice"
+  },
+  {
+    "id": "cppb_domain_5_leadership_influence",
+    "title": "Domain V: Leadership & Influence",
+    "description": "### Domain V: Leadership & Influence\n\nFocuses on advocating the value of procurement, professional ethics, and effective communication with stakeholders.\n\n**Topics Included:**\n*   **Advocating Value:** Shifting procurement from administrative to strategic, tracking ROI, and stakeholder alignment.\n*   **Ethics & Values:** Managing conflicts of interest, NIGP Code of Ethics, transparency, and accountability.\n*   **Targeted Communication:** Active listening techniques, managing 'bad news', and non-verbal communication in negotiations.\n*   **Professional Development:** Continuous learning, leadership training, and maintaining professional certifications.\n*   **Influencing Stakeholders:** Building trust with elected officials and internal department heads to achieve strategic goals.",
+    "short_description": "Contains 130 Questions",
+    "path": "usa/certification/CPPB/LeadershipAndInfluence.json",
+    "suitePath": "configs/cppb.json",
+    "category": "Certified Professional Public Buyer",
+    "year": "Practice"
+  },
+  {
+    "id": "cppb_domain_6_contract_development_administration",
+    "title": "Domain VI: Contract Development & Administration",
+    "description": "### Domain VI: Contract Development & Administration\n\nCovers the oversight of supplier performance and guiding a contract from execution to successful completion and closeout.\n\n**Topics Included:**\n*   **Legal Foundations:** Key contract elements, UCC foundations, and Order of Precedence.\n*   **Administration:** Managing the approval process, encumbering funds, and using Contract Management Plans (CMP).\n*   **Modifications:** Handling unilateral vs. bilateral modifications, change orders, and avoiding constructive changes.\n*   **Performance Monitoring:** Post-award meetings, tracking milestones, and handling delays (Force Majeure).\n*   **Close-out & Renewals:** Managing transition-in/out, exercising renewal options, and lessons-learned reviews.",
+    "short_description": "Contains 150 Questions",
+    "path": "usa/certification/CPPB/ContractDevelopmentAndAdministration.json",
+    "suitePath": "configs/cppb.json",
+    "category": "Certified Professional Public Buyer",
+    "year": "Practice"
+  },
+  {
+    "id": "hosa_forensic_anthropology",
+    "title": "HOSA Forensic Science: Forensic Anthropology",
+    "description": "### Forensic Anthropology\n\nFocuses on the identification of human skeletal remains and determining the biological profile.\n\n**Key Topics:**\n*   **Osteology:** Bone anatomy and identification.\n*   **Biological Profile:** Estimating age, sex, stature, and ancestry from bones.\n*   **Trauma Analysis:** Distinguishing between ante-mortem, peri-mortem, and post-mortem trauma.\n*   **Recovery Methods:** Forensic archaeology techniques.",
+    "short_description": "Contains 30 Questions",
+    "path": "usa/hosa/hosa_forensic/forensicAnthropology.json",
+    "suitePath": "configs/hosa-forensic-science.json",
+    "category": "HOSA Forensic Science",
+    "year": "Practice"
+  },
+  {
+    "id": "hosa_forensic_crime_scene",
+    "title": "HOSA Forensic Science: Crime Scene & Death Investigation",
+    "description": "### Crime Scene & Death Investigation\n\nComprehensive review of crime scene processing and the medical-legal investigation of death.\n\n**Key Topics:**\n*   **Crime Scene Management:** Documentation, evidence collection, and chain of custody.\n*   **Death Investigation:** Post-mortem changes (rigor, algor, livor mortis).\n*   **Manner of Death:** Homicide, suicide, accidental, natural, and undetermined.\n*   **Evidence Types:** Biological, trace, and digital evidence.",
+    "short_description": "Contains 50 Questions",
+    "path": "usa/hosa/hosa_forensic/crimeSceneAndDeathInvestigation.json",
+    "suitePath": "configs/hosa-forensic-science.json",
+    "category": "HOSA Forensic Science",
+    "year": "Practice"
+  },
+  {
+    "id": "hosa_forensic_entomology",
+    "title": "HOSA Forensic Science: Forensic Entomology",
+    "description": "### Forensic Entomology\n\nExplores the use of insects and other arthropods in legal investigations, primarily for estimating the time since death.\n\n**Key Topics:**\n*   **Insect Colonization:** Primary and secondary colonizers (blowflies, beetles).\n*   **Developmental Stages:** Life cycles and calculating Accumulated Degree Hours (ADH).\n*   **Succession:** The predictable sequence of insect arrival during decomposition.\n*   **Variables:** Impact of drugs, weather, and burial on insect growth.",
+    "short_description": "Contains 40 Questions",
+    "path": "usa/hosa/hosa_forensic/forensicEntomology.json",
+    "suitePath": "configs/hosa-forensic-science.json",
+    "category": "HOSA Forensic Science",
+    "year": "Practice"
+  },
+  {
+    "id": "hosa_forensic_history_careers",
+    "title": "HOSA Forensic Science: Forensic History & Careers",
+    "description": "### Forensic History & Careers\n\nOverview of the evolution of forensic science and the various professional roles within the field.\n\n**Key Topics:**\n*   **Historical Milestones:** Pioneers like Orfila, Bertillon, Galton, and Locard.\n*   **Legal Precedents:** Frye and Daubert standards for evidence admissibility.\n*   **Forensic Careers:** Roles of pathologists, toxicologists, odontologists, and more.\n*   **Laboratory Organization:** Structure and functions of modern crime labs.",
+    "short_description": "Contains 30 Questions",
+    "path": "usa/hosa/hosa_forensic/forensicHistoryAndCareers.json",
+    "suitePath": "configs/hosa-forensic-science.json",
+    "category": "HOSA Forensic Science",
+    "year": "Practice"
+  },
+  {
+    "id": "hosa_forensic_toxicology",
+    "title": "HOSA Forensic Science: Forensic Toxicology & Pharmacology",
+    "description": "### Forensic Toxicology & Pharmacology\n\nDeep dive into the detection and effects of drugs, poisons, and alcohol on the human body.\n\n**Key Topics:**\n*   **Drug Classifications:** Schedules, stimulants, depressants, and narcotics.\n*   **Alcohol Metabolism:** Absorption, distribution, and elimination (Widmark formula).\n*   **Poisons & Toxins:** Heavy metals (Lead, Arsenic) and biological agents (Ricin, Anthrax).\n*   **Laboratory Methods:** Presumptive vs. confirmatory testing (GC-MS).",
+    "short_description": "Contains 50 Questions",
+    "path": "usa/hosa/hosa_forensic/forensicToxicologyAndPharmacology.json",
+    "suitePath": "configs/hosa-forensic-science.json",
+    "category": "HOSA Forensic Science",
+    "year": "Practice"
+  },
+  {
+    "id": "hosa_forensic_serology",
+    "title": "HOSA Forensic Science: Serology and Biological Fluids",
+    "description": "### Identification of Biological Fluids (Serology)\n\nFocuses on the detection and analysis of blood, semen, and other biological materials.\n\n**Key Topics:**\n*   **Presumptive Testing:** Kastle-Meyer, Luminol, and Hemastix.\n*   **Confirmatory Testing:** Hematrace and microcrystalline tests (Teichmann/Takayama).\n*   **Bloodstain Pattern Analysis:** Velocity types, directionality, and area of origin.\n*   **Blood Typing:** ABO and Rh blood group systems.",
+    "short_description": "Contains 40 Questions",
+    "path": "usa/hosa/hosa_forensic/identificationOfBloodAndBiologicalFluids.json",
+    "suitePath": "configs/hosa-forensic-science.json",
+    "category": "HOSA Forensic Science",
+    "year": "Practice"
+  },
+  {
+    "id": "hosa_forensic_dna",
+    "title": "HOSA Forensic Science: Techniques of DNA Analysis",
+    "description": "### Techniques of DNA Analysis\n\nAdvanced review of modern DNA profiling and its application in forensic science.\n\n**Key Topics:**\n*   **DNA Structure:** Nucleotides, base-pairing, and nuclear vs. mitochondrial DNA.\n*   **PCR Amplification:** Denaturation, annealing, and extension steps.\n*   **STB Analysis:** Analyzing short tandem repeats and gel electrophoresis.\n*   **Databases:** CODIS, NDIS tiers, and random match probability calculations.",
+    "short_description": "Contains 40 Questions",
+    "path": "usa/hosa/hosa_forensic/techniquesOfDNAAnalysis.json",
+    "suitePath": "configs/hosa-forensic-science.json",
+    "category": "HOSA Forensic Science",
+    "year": "Practice"
+  },
+  {
+    "id": "hosa_forensic_psychology",
+    "title": "HOSA Forensic Science: Forensic Psychology & Psychiatry",
+    "description": "### Forensic Psychology & Psychiatry\n\nAnalysis of human behavior and mental health in the context of the legal system.\n\n**Key Topics:**\n*   **Legal Competence:** Competency to stand trial and the insanity defense standards (M'Naghten).\n*   **Disorders & Behavior:** Psychopathy (PCL-R), antisocial personality disorder, and serial offenders.\n*   **Profiling:** Organized vs. disorganized offenders, MO vs. Signature.\n*   **Deception:** Polygraphy, malingering, and interview techniques.",
+    "short_description": "Contains 40 Questions",
+    "path": "usa/hosa/hosa_forensic/forensicPsychologyAndPsychiatry.json",
+    "suitePath": "configs/hosa-forensic-science.json",
+    "category": "HOSA Forensic Science",
+    "year": "Practice"
+  },
+  {
+    "id": "act_english_p1",
+    "title": "English Practice Test 1",
+    "description": "### ACT English Practice Test\n\nComprehensive practice for the ACT English section, focusing on punctuation, grammar, and usage.\n\n**Topics Included:**\n* **Conventions of Standard English:** Punctuation, grammar, and usage.\n* **Production of Writing:** Topic development, organization, and cohesion.\n* **Knowledge of Language:** Word choice, style, and tone.",
+    "short_description": "Contains 50 Questions",
+    "path": "usa/act/english_practice_test1.json",
+    "suitePath": "configs/act.json",
+    "category": "ACT",
+    "year": "Practice"
+  },
+  {
+    "id": "act_maths_p1",
+    "title": "Mathematics Practice Test 1",
+    "description": "### ACT Mathematics Practice Test\n\nFull-length practice covering essential math topics for the ACT.\n\n**Topics Included:**\n* **Preparing for Higher Mathematics:** Number Theory, Algebra, Functions, Geometry, Statistics & Probability.\n* **Integrating Essential Skills:** Percentages, ratios, and unit conversions.\n* **Modeling:** Using mathematical concepts to solve real-world problems.",
+    "short_description": "Contains 45 Questions",
+    "path": "usa/act/maths_practice_test1.json",
+    "suitePath": "configs/act.json",
+    "category": "ACT",
+    "year": "Practice"
+  },
+  {
+    "id": "act_maths_p2",
+    "title": "Mathematics Practice Test 2",
+    "description": "### ACT Mathematics Practice Test\n\nFull-length practice covering essential math topics for the ACT.\n\n**Topics Included:**\n* **Preparing for Higher Mathematics:** Number Theory, Algebra, Functions, Geometry, Statistics & Probability.\n* **Integrating Essential Skills:** Percentages, ratios, and unit conversions.\n* **Modeling:** Using mathematical concepts to solve real-world problems.",
+    "short_description": "Contains 45 Questions",
+    "path": "usa/act/maths_practice_test2.json",
+    "suitePath": "configs/act.json",
+    "category": "ACT",
+    "year": "Practice"
+  },
+  {
+    "id": "examen_médical_et_dentaire_2017",
+    "title": "Examen d'entrée et d'accès en sciences médicales et en sciences dentaires - Questionnaire bleu 2017",
+    "description": "### Examen d'entrée et d'accès en sciences médicales et en sciences dentaires\n\nQuestions et corrigés du questionnaire bleu de l'examen d'entrée du 8 septembre 2017\n\n**Partie 1 - Connaissance et compréhension des matières scientifiques**",
+    "short_description": "Questions et corrigés du questionnaire bleu de l'examen d'entrée du 8 septembre 2017 - Partie 1 : Connaissance et compréhension des matières scientifiques",
+    "path": "Europe/Belgium/examen_médical_et_dentaire/questionnairebleu2017.json",
+    "suitePath": "configs/examen_médical_et_dentaire.json",
+    "category": "examen_médical_et_dentaire",
+    "year": "2017"
+  },
+  {
+    "id": "examen_médical_et_dentaire_2019",
+    "title": "Examen d'entrée et d'accès en sciences médicales et en sciences dentaires - Questionnaire bleu 2019",
+    "description": "### Examen d'entrée et d'accès en sciences médicales et en sciences dentaires\n\nQuestions et corrigés du questionnaire bleu de l'examen d'entrée du 10 juillet 2019\n\n**Partie 1 - Connaissance et compréhension des matières scientifiques**",
+    "short_description": "Questions et corrigés du questionnaire bleu de l'examen d'entrée du 10 juillet 2019: Connaissance et compréhension des matières scientifiques empathie et communication",
+    "path": "Europe/Belgium/examen_médical_et_dentaire/questionnairebleu2019.json",
+    "suitePath": "configs/examen_médical_et_dentaire.json",
+    "category": "examen_médical_et_dentaire",
+    "year": "2019"
+  },
+  {
+    "id": "examen_médical_et_dentaire_2022",
+    "title": "Examen d'entrée et d'accès en sciences médicales et en sciences dentaires - Questionnaire bleu 2022",
+    "description": "### Examen d'entrée et d'accès en sciences médicales et en sciences dentaires\n\nQuestions et corrigés du questionnaire bleu de l'examen d'entrée du 27 août 2022\n\n**Partie 1 - Connaissance et compréhension des matières scientifiques**",
+    "short_description": "Questions et corrigés du questionnaire bleu de l'examen d'entrée du 27 août 2022  Connaissance et compréhension des matières scientifiques empathie et communication",
+    "path": "Europe/Belgium/examen_médical_et_dentaire/questionnairebleu2022.json",
+    "suitePath": "configs/examen_médical_et_dentaire.json",
+    "category": "examen_médical_et_dentaire",
+    "year": "2022"
+  }
+]
