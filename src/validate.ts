@@ -1,8 +1,7 @@
 import fs from 'fs';
 import path from 'path';
-import { z } from 'zod';
-import { ConfigSchema, ExamSchema, AIConfigSchema, BlogIndexSchema, RootConfigSchema } from './schemas';
-import { AIConfig, Config, Question, BlogIndex } from './types';
+import { ConfigSchema, ExamSchema, BlogIndexSchema, RootConfigSchema } from './schemas';
+import { Config, Question, BlogIndex } from './types';
 
 const CONFIG_PATH = path.join(__dirname, '../config.json');
 const BLOG_INDEX_PATH = path.join(__dirname, '../blog/blog-index.json');
@@ -59,6 +58,9 @@ async function validate() {
     // =========================================
     // 2. Load & Validate Referenced Configs
     // =========================================
+    const examToSuiteMap: Record<string, string> = {};
+    const searchIndex: any[] = [];
+
     for (const relativePath of configFiles) {
         const fullPath = path.join(__dirname, '..', relativePath);
 
@@ -81,6 +83,22 @@ async function validate() {
             } else {
                 console.log(`   - Verified ${relativePath} (${result.data.length} exams)`);
                 combinedConfigs.push(...result.data);
+
+                // Add to index map and search index
+                for (const exam of result.data) {
+                    examToSuiteMap[exam.id] = relativePath;
+                    searchIndex.push({
+                        id: exam.id,
+                        title: exam.title,
+                        description: exam.description,
+                        short_description: exam.short_description,
+                        path: exam.path,
+                        suitePath: relativePath,
+                        category: exam.category,
+                        year: exam.year,
+                        tags: exam.tags
+                    });
+                }
             }
         } catch (e) {
             console.error(`❌ JSON ERROR in "${relativePath}":`, e);
@@ -211,6 +229,20 @@ async function validate() {
         console.error('\n💥 VALIDATION FAILED. Fix errors before pushing.');
         process.exit(1);
     } else {
+        // Generate exam-index.json
+        const globalDir = path.join(__dirname, '../global');
+        if (!fs.existsSync(globalDir)) {
+            fs.mkdirSync(globalDir, { recursive: true });
+        }
+
+        const indexPath = path.join(globalDir, 'exam-index.json');
+        fs.writeFileSync(indexPath, JSON.stringify(examToSuiteMap, null, 2));
+        console.log(`✅ Generated exam index at global/exam-index.json (${Object.keys(examToSuiteMap).length} exams).`);
+
+        const searchIndexPath = path.join(globalDir, 'search-index.json');
+        fs.writeFileSync(searchIndexPath, JSON.stringify(searchIndex, null, 2));
+        console.log(`✅ Generated search index at global/search-index.json (${searchIndex.length} entries).`);
+
         console.log('\n✨ All Systems Operational. Ready for Deployment.');
     }
 }

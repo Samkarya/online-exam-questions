@@ -14,7 +14,7 @@
       "description": "A lightweight example exam used for testing flows, UI, and integrations. Not a real certification.",
       "officialWebsite": null,
       "isOfficial": false,
-      "lastUpdated": "2026-02-09",
+      "lastUpdated": "2026-04-30",
       "seoTitle": "ExamOven Demo: Free Online Mock Test & Exam Simulator",
       "seoDescription": "Try the ExamOven mock test simulator for free. Experience a realistic, timed exam environment with sample questions to test your preparation and our platform."
     },
@@ -36,174 +36,11 @@
       "description": "Collection of chemistry practice papers: inorganic, organic, physical chemistry, and board-level questions.",
       "officialWebsite": null,
       "isOfficial": false,
-      "lastUpdated": "2026-02-09",
+      "lastUpdated": "2026-04-30",
       "seoTitle": "Free Chemistry Mock Tests & Practice Exams Online | ExamOven",
       "seoDescription": "Master chemistry with free, comprehensive mock tests. Practice topics from atomic structure to thermochemistry with realistic, timed exams for better grades."
     },
     "path": "configs/chemistry.json"
-  },
-  "nimcet": {
-    "meta": {
-      "examId": "NIMCET",
-      "fullName": "NIMCET — NIT MCA Common Entrance Test",
-      "shortName": "NIMCET",
-      "category": "Postgrad Entrance",
-      "conductingBody": "NITs Consortium (various NITs)",
-      "country": "India",
-      "examType": [
-        "Postgraduate Entrance"
-      ],
-      "description": "Entrance exam for MCA programs at participating NITs. Includes mathematics, analytical ability and computer awareness.",
-      "officialWebsite": "https://nimcet.admissions.nic.in/",
-      "isOfficial": false,
-      "lastUpdated": "2026-02-09",
-      "seoTitle": "NIMCET Free Mock Tests & Previous Year Papers | MCA Prep",
-      "seoDescription": "Prepare for the NIMCET MCA entrance exam with free online mock tests. Access previous year question papers in a timed format to boost your entrance score."
-    },
-    "path": "configs/nimcet.json"
-  },
-  "ielts": {
-    "meta": {
-      "examId": "IELTS",
-      "fullName": "IELTS — International English Language Testing System",
-      "shortName": "IELTS",
-      "category": "Language",
-      "conductingBody": "British Council / IDP / Cambridge",
-      "country": "Global",
-      "examType": [
-        "Language Proficiency"
-      ],
-      "description": "English language proficiency test for academic and immigration purposes. Four modules: Listening, Reading, Writing, Speaking.",
-      "officialWebsite": "https://www.ielts.org",
-      "isOfficial": true,
-      "lastUpdated": "2026-02-09",
-      "seoTitle": "Free IELTS Practice Tests & Mock Exams (Reading & Listening)",
-      "seoDescription": "Boost your IELTS band score with free online practice tests. Simulate the real exam with timed mock tests for IELTS Reading, Listening, and Grammar."
-    },
-    "path": "configs/ielts.json"
-  },
-  "jee": {
-    "meta": {
-      "examId": "JEE",
-      "fullName": "JEE — Joint Entrance Examination",
-      "shortName": "JEE",
-      "category": "Undergraduate Entrance",
-      "conductingBody": "NTA / Relevant Authorities",
-      "country": "India",
-      "examType": [
-        "Undergraduate Engineering Entrance"
-      ],
-      "description": "Entrance exam for undergraduate engineering admissions (multiple papers/levels). Covers Physics, Chemistry, Mathematics.",
-      "officialWebsite": "https://jeemain.nta.nic.in/",
-      "isOfficial": true,
-      "lastUpdated": "2026-02-09",
-      "seoTitle": "JEE Main Free Mock Tests & Shift-wise Practice Papers",
-      "seoDescription": "Dominate the NTA JEE Main with free online mock tests. Test your speed and accuracy with official shift-wise practice papers and expert-level simulations."
-    },
-    "path": "configs/jee.json"
-  },
-  "bace": {
-    "meta": {
-      "examId": "BACE",
-      "fullName": "Biotechnology Aptitude & Competency Exam",
-      "shortName": "BACE",
-      "category": "Biotechnology",
-      "conductingBody": "Biotility (University of Florida)",
-      "country": "USA",
-      "examType": [
-        "Certification",
-        "Competency-Based",
-        "Industry-Recognized"
-      ],
-      "description": "An industry-recognized credential that assesses core theoretical knowledge and practical laboratory skills for entry-level biotechnology roles.",
-      "officialWebsite": "https://biotility.research.ufl.edu",
-      "isOfficial": false,
-      "lastUpdated": "2024-05-22",
-      "seoTitle": "BACE Certification Practice Tests & Online Mock Exams",
-      "seoDescription": "Prepare for the Biotechnician Assistant Credentialing Exam (BACE) with targeted mock tests. Master biotech skills, applied math, and lab techniques online."
-    },
-    "path": "configs/bace.json"
-  },
-  "mtel": {
-    "meta": {
-      "examId": "MTEL",
-      "fullName": "MTEL — Massachusetts Tests for Educator Licensure",
-      "shortName": "MTEL",
-      "category": "Certification",
-      "conductingBody": "Massachusetts Department of Elementary and Secondary Education",
-      "country": "United States",
-      "examType": [
-        "Teacher Licensure"
-      ],
-      "description": "Licensure tests for prospective teachers in Massachusetts. Covers subject knowledge and pedagogy.",
-      "officialWebsite": "https://www.doe.mass.edu/mtel/",
-      "isOfficial": true,
-      "lastUpdated": "2026-02-09",
-      "seoTitle": "Free MTEL Practice Tests | Teacher Licensure Exam Prep",
-      "seoDescription": "Prepare for the Massachusetts Tests for Educator Licensure (MTEL) with free online mock tests. Focus on Physical Education and subject-specific exam practice."
-    },
-    "path": "configs/mtel.json"
-  },
-  "cat": {
-    "meta": {
-      "examId": "CAT",
-      "fullName": "CAT — Common Admission Test",
-      "shortName": "CAT",
-      "category": "Management Entrance",
-      "conductingBody": "IIMs (rotating)",
-      "country": "India",
-      "examType": [
-        "Postgraduate Management Entrance"
-      ],
-      "description": "National-level management entrance exam for admission to IIMs and other management programs. Sections commonly include VARC, DILR, and QA.",
-      "officialWebsite": "https://iimcat.ac.in/",
-      "isOfficial": true,
-      "lastUpdated": "2026-02-09",
-      "seoTitle": "Free CAT Mock Tests & IIM Entrance Online Practice",
-      "seoDescription": "Crack the CAT with free online mock tests. Practice slot-wise quantitative aptitude and logical reasoning with timed simulations designed for IIM aspirants."
-    },
-    "path": "configs/cat.json"
-  },
-  "rrb": {
-    "meta": {
-      "examId": "RRB",
-      "fullName": "RRB — Railway Recruitment Board Exams",
-      "shortName": "RRB",
-      "category": "Government Recruitment",
-      "conductingBody": "Railway Recruitment Boards (Regional)",
-      "country": "India",
-      "examType": [
-        "Recruitment"
-      ],
-      "description": "Recruitment exams for technical and non-technical posts in Indian Railways. Multiple streams and regional notifications.",
-      "officialWebsite": null,
-      "isOfficial": true,
-      "lastUpdated": "2026-02-09",
-      "seoTitle": "Free RRB NTPC Mock Tests | Railway Recruitment CBT Prep",
-      "seoDescription": "Level up your railway exam prep with free RRB NTPC online mock tests. Simulate the CBT environment with practice papers for better speed and accuracy."
-    },
-    "path": "configs/rrb.json"
-  },
-  "bece": {
-    "meta": {
-      "examId": "BECE",
-      "fullName": "BECE — Basic Education Certificate Examination",
-      "shortName": "BECE",
-      "category": "Junior Secondary School Certification",
-      "conductingBody": "National Examinations Council (NECO)",
-      "country": "Nigeria",
-      "examType": [
-        "Certification",
-        "Junior Secondary Exit Examination"
-      ],
-      "description": "The Basic Education Certificate Examination (BECE) is a Junior Secondary School (JSS3) exit examination in Nigeria conducted by NECO. It certifies completion of the 9-year Basic Education programme and qualifies students for admission into Senior Secondary School (SS1). Subjects include English Studies, Mathematics, Basic Science and Technology, National Values Education, Pre-Vocational Studies, Cultural and Creative Arts, and others.",
-      "officialWebsite": "https://neco.gov.ng",
-      "isOfficial": false,
-      "lastUpdated": "2026-02-13",
-      "seoTitle": "BECE Practice Tests & Past Questions Online | Junior WAEC",
-      "seoDescription": "Access free online practice tests for the Basic Education Certificate Examination (BECE). Review Math, Science, and Technology with past question simulations."
-    },
-    "path": "configs/bece.json"
   },
   "pjok-kelas-5": {
     "meta": {
@@ -217,42 +54,1077 @@
         "School Exam",
         "Subject Practice"
       ],
-      "description": "Latihan soal PJOK (Pendidikan Jasmani, Olahraga, dan Kesehatan) untuk siswa kelas 5 SD. Mencakup materi olahraga, kesehatan, dan pola hidup sehat. Referensi buku yang digunakan adalah https://static.sc.cloudapp.web.id/content/pdf/bukuteks/kurikulum21/PJOK_BS_KLS_V.pdf",
+      "description": "Latihan soal PJOK (Pendidikan Jasmani, Olahraga, dan Kesehatan) untuk siswa kelas 5 SD. Mencakup materi olahraga, kesehatan, dan pola hidup sehat.",
       "officialWebsite": null,
       "isOfficial": false,
-      "lastUpdated": "2026-02-14",
+      "lastUpdated": "2026-04-30",
       "seoTitle": "Latihan Soal PJOK Kelas 5 SD Online | ExamOven Mock Tests",
       "seoDescription": "Latihan interaktif soal-soal Pendidikan Jasmani, Olahraga, dan Kesehatan (PJOK) untuk siswa Kelas 5 SD. Persiapan ujian sekolah yang mudah dan gratis."
     },
     "path": "configs/pjok-kelas-5.json"
   },
+  "nimcet": {
+    "meta": {
+      "examId": "NIMCET",
+      "fullName": "NIT MCA Common Entrance Test",
+      "shortName": "NIMCET",
+      "category": "Postgraduate Entrance",
+      "conductingBody": "NITs Consortium (rotating NIT each year)",
+      "country": "India",
+      "examType": [
+        "Postgraduate Entrance",
+        "Computer Based Test"
+      ],
+      "description": "NIMCET is a national-level entrance exam conducted by a rotating NIT for admission to MCA (Master of Computer Applications) programs at participating NITs across India.",
+      "officialWebsite": "https://nimcet.admissions.nic.in/",
+      "isOfficial": true,
+      "lastUpdated": "2026-04-30",
+      "seoTitle": "NIMCET 2026: Free Mock Tests, Syllabus & MCA Prep Guide",
+      "seoDescription": "Crack NIMCET 2026 with free online mock tests & full syllabus guide. Practice Mathematics, Reasoning & Computer Awareness for NIT MCA admission. Start now!",
+      "relatedBlogTags": [
+        "NIMCET",
+        "MCA Entrance",
+        "NIT",
+        "Exam Prep"
+      ],
+      "keyFacts": [
+        {
+          "label": "Frequency",
+          "value": "Annual"
+        },
+        {
+          "label": "Mode",
+          "value": "Computer Based Test (CBT)"
+        },
+        {
+          "label": "Duration",
+          "value": "2 Hours"
+        },
+        {
+          "label": "Total Marks",
+          "value": "480"
+        },
+        {
+          "label": "Language",
+          "value": "English only"
+        }
+      ],
+      "eligibility": [
+        "Must hold a BCA / B.Sc. (CS/IT/Mathematics) / B.E. / B.Tech. degree, or be in the final year of such a program",
+        "Minimum 60% aggregate marks in the qualifying degree (55% for SC/ST/PwD candidates)",
+        "Mathematics must have been studied as a full subject at the 10+2 or graduation level",
+        "Candidates awaiting final results may apply provisionally, subject to fulfilling eligibility at the time of admission"
+      ],
+      "examPattern": [
+        {
+          "label": "Total Questions",
+          "value": "120"
+        },
+        {
+          "label": "Mathematics",
+          "value": "50 questions (200 marks)"
+        },
+        {
+          "label": "Analytical Ability & Logical Reasoning",
+          "value": "40 questions (160 marks)"
+        },
+        {
+          "label": "Computer Awareness",
+          "value": "20 questions (80 marks)"
+        },
+        {
+          "label": "English Language Comprehension",
+          "value": "10 questions (40 marks)"
+        },
+        {
+          "label": "Marking Scheme",
+          "value": "+4 for correct answer"
+        },
+        {
+          "label": "Negative Marking",
+          "value": "-1 for each wrong answer"
+        }
+      ],
+      "syllabusOverview": [
+        {
+          "subject": "Mathematics",
+          "topics": "Set Theory & Algebra, Probability & Statistics, Trigonometry, Coordinate Geometry (2D & 3D), Differential Calculus, Integral Calculus, Vectors & Matrices, Arithmetic & Number Systems, Linear Programming"
+        },
+        {
+          "subject": "Analytical Ability & Logical Reasoning",
+          "topics": "Number & Letter Series, Puzzles & Arrangements, Data Sufficiency, Clocks & Calendars, Venn Diagrams, Coding-Decoding, Logical Deductions, Blood Relations, Direction Sense"
+        },
+        {
+          "subject": "Computer Awareness",
+          "topics": "Computer Organisation & Architecture, Boolean Algebra, Operating System Concepts, Data Structures (Arrays, Stacks, Queues, Trees), C Programming Basics, DBMS Fundamentals, Networking (OSI Model, TCP/IP), Internet & Web Technologies"
+        },
+        {
+          "subject": "English Language Comprehension",
+          "topics": "Reading Comprehension, Synonyms & Antonyms, Vocabulary in Context, Grammar & Usage, Sentence Correction, Verbal Reasoning"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How many MCA seats are available through NIMCET?",
+          "answer": "NIMCET offers over 1,000 MCA seats across all participating NITs. The exact seat matrix varies each year based on the participating institutes and their intake capacity."
+        },
+        {
+          "question": "Is there any age limit to appear for NIMCET?",
+          "answer": "No, there is no upper age limit to appear for NIMCET. Any candidate fulfilling the educational eligibility criteria can apply."
+        },
+        {
+          "question": "Can a B.Tech. graduate apply for NIMCET?",
+          "answer": "Yes, B.E./B.Tech. graduates with Mathematics as a subject in their qualifying degree and a minimum of 60% aggregate marks (55% for SC/ST/PwD) are eligible to apply for NIMCET."
+        }
+      ]
+    },
+    "path": "configs/nimcet.json"
+  },
+  "ielts": {
+    "meta": {
+      "examId": "IELTS",
+      "fullName": "International English Language Testing System",
+      "shortName": "IELTS",
+      "category": "Language Proficiency",
+      "conductingBody": "British Council / IDP: IELTS Australia / Cambridge Assessment English",
+      "country": "Global",
+      "examType": [
+        "Language Proficiency",
+        "Academic",
+        "General Training"
+      ],
+      "description": "IELTS is the world's most widely recognised English language proficiency test, accepted by over 11,000 organisations globally. It assesses Listening, Reading, Writing, and Speaking skills across Academic and General Training formats.",
+      "officialWebsite": "https://www.ielts.org",
+      "isOfficial": true,
+      "lastUpdated": "2026-04-30",
+      "seoTitle": "IELTS 2026: Free Mock Tests, Syllabus & Band Score Guide",
+      "seoDescription": "Boost your IELTS band score with free mock tests & 2026 prep guide. Practice Listening, Reading, Writing & Speaking with timed simulations. Start today!",
+      "relatedBlogTags": [
+        "IELTS",
+        "English Proficiency",
+        "Study Abroad",
+        "Exam Prep"
+      ],
+      "keyFacts": [
+        {
+          "label": "Frequency",
+          "value": "Up to 4 times per month at test centres; IELTS Online available on-demand"
+        },
+        {
+          "label": "Mode",
+          "value": "Paper-based or Computer-delivered (Speaking: face-to-face with examiner)"
+        },
+        {
+          "label": "Duration",
+          "value": "2 hours 45 minutes (all 4 sections)"
+        },
+        {
+          "label": "Scoring",
+          "value": "Band scale 0–9 (half-band increments)"
+        },
+        {
+          "label": "Validity",
+          "value": "Results valid for 2 years"
+        }
+      ],
+      "eligibility": [
+        "No minimum educational qualification is required; IELTS is a language proficiency test open to all",
+        "Minimum recommended age is 16 years; IELTS is not recommended for candidates under 16",
+        "Choose IELTS Academic for university admission or professional registration; choose General Training for work experience, training programmes, or migration to English-speaking countries",
+        "Candidates can retake IELTS as many times as needed; there is no limit on attempts or waiting period"
+      ],
+      "examPattern": [
+        {
+          "label": "Listening",
+          "value": "40 questions across 4 sections (~30 min + 10 min transfer)"
+        },
+        {
+          "label": "Reading",
+          "value": "40 questions across 3 passages/sections (60 min)"
+        },
+        {
+          "label": "Writing",
+          "value": "2 tasks — Task 1 (min. 150 words) + Task 2 (min. 250 words) (60 min)"
+        },
+        {
+          "label": "Speaking",
+          "value": "3 parts with a certified examiner (11–14 min)"
+        },
+        {
+          "label": "Negative Marking",
+          "value": "None — incorrect answers do not lose marks"
+        },
+        {
+          "label": "Score Reporting",
+          "value": "Results available 13 days (paper) or 3–5 days (computer) after the test"
+        }
+      ],
+      "syllabusOverview": [
+        {
+          "subject": "Listening",
+          "topics": "Form/note/table/flowchart completion, Multiple choice, Sentence completion, Short-answer questions, Labelling maps or diagrams, Matching (4 sections: 2 social/everyday + 2 academic/training contexts)"
+        },
+        {
+          "subject": "Reading (Academic)",
+          "topics": "True/False/Not Given, Yes/No/Not Given, Matching headings, Matching information, Multiple choice, Sentence completion, Summary/note completion, Diagram labelling (3 long academic passages from books/journals/newspapers)"
+        },
+        {
+          "subject": "Reading (General Training)",
+          "topics": "Multiple choice, Identifying information, Identifying writer's views, Matching features, Matching sentence endings, Sentence completion, Short-answer questions (Sections 1 & 2: practical texts; Section 3: academic-style passage)"
+        },
+        {
+          "subject": "Writing (Academic)",
+          "topics": "Task 1: Describe and summarise visual data (graphs, charts, diagrams, maps, tables) in at least 150 words; Task 2: Argumentative or discursive essay responding to a point of view/problem in at least 250 words"
+        },
+        {
+          "subject": "Writing (General Training)",
+          "topics": "Task 1: Write a formal, semi-formal or informal letter (at least 150 words); Task 2: Argumentative or discursive essay on a topic of general interest (at least 250 words)"
+        },
+        {
+          "subject": "Speaking",
+          "topics": "Part 1: Introduction and interview (4–5 min); Part 2: Individual long turn — speak for 1–2 min on a cue card topic; Part 3: Two-way discussion with the examiner on abstract themes related to Part 2 (4–5 min)"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What IELTS band score is required for studying abroad?",
+          "answer": "Most universities require a minimum overall band score of 6.0–7.0. Top universities (e.g., Oxbridge, Ivy League equivalents) may require 7.0–7.5 or above. Requirements vary by institution and programme, so always check directly with the university."
+        },
+        {
+          "question": "What is the difference between IELTS Academic and IELTS General Training?",
+          "answer": "IELTS Academic is for students applying to undergraduate or postgraduate programmes, or for professional registration (e.g., doctors, nurses). IELTS General Training is for those seeking work experience, training programmes, or immigration to countries like Australia, Canada, New Zealand, and the UK."
+        },
+        {
+          "question": "How many times can I retake the IELTS test?",
+          "answer": "There is no limit on the number of times you can retake IELTS. You can book a new test as soon as you feel prepared, and most test centres allow bookings up to 3 months in advance."
+        },
+        {
+          "question": "How long are IELTS results valid?",
+          "answer": "IELTS Test Report Forms (TRF) are valid for 2 years from the date of the test. After 2 years, organisations may or may not accept them depending on their policy."
+        }
+      ]
+    },
+    "path": "configs/ielts.json"
+  },
+  "jee": {
+    "meta": {
+      "examId": "JEE",
+      "fullName": "Joint Entrance Examination — Main",
+      "shortName": "JEE",
+      "category": "Undergraduate Entrance",
+      "conductingBody": "National Testing Agency (NTA)",
+      "country": "India",
+      "examType": [
+        "Undergraduate Engineering Entrance",
+        "Computer Based Test"
+      ],
+      "description": "JEE Main is India's premier national-level engineering entrance exam conducted by NTA for admission to B.E./B.Tech., B.Arch., and B.Planning programmes at NITs, IIITs, CFTIs, and as the qualifying test for JEE Advanced (IIT admissions).",
+      "officialWebsite": "https://jeemain.nta.nic.in/",
+      "isOfficial": true,
+      "lastUpdated": "2026-04-30",
+      "seoTitle": "JEE Main 2026: Free Mock Tests, Syllabus & NTA Prep Guide",
+      "seoDescription": "Ace JEE Main 2026 with free mock tests, revised syllabus & shift-wise papers. Practice Physics, Chemistry & Maths with NTA-pattern simulations. Prep now!",
+      "relatedBlogTags": [
+        "JEE Main",
+        "NTA",
+        "Engineering Entrance",
+        "Exam Prep"
+      ],
+      "keyFacts": [
+        {
+          "label": "Frequency",
+          "value": "Twice a year (Session 1: January; Session 2: April)"
+        },
+        {
+          "label": "Mode",
+          "value": "Computer Based Test (CBT); Drawing section of Paper 2A is pen-and-paper"
+        },
+        {
+          "label": "Duration",
+          "value": "3 hours (3 hours 20 minutes for PwD candidates)"
+        },
+        {
+          "label": "Papers",
+          "value": "Paper 1: B.E./B.Tech. | Paper 2A: B.Arch. | Paper 2B: B.Planning"
+        },
+        {
+          "label": "Total Marks (Paper 1)",
+          "value": "300"
+        }
+      ],
+      "eligibility": [
+        "Must have passed Class 12 (or equivalent) with Physics and Mathematics as compulsory subjects; Chemistry/Biology/Biotechnology/Technical Vocational subject as the third subject",
+        "Candidates appearing in Class 12 board exams in the same academic year are also eligible to apply",
+        "Minimum 75% aggregate marks in Class 12 required for admission to NITs/IIITs/CFTIs (65% for SC/ST/PwD); no minimum marks required just to appear in JEE Main",
+        "No upper age limit for JEE Main as per 2024 NTA guidelines; NRI/OCI/PIO/Foreign nationals are also eligible"
+      ],
+      "examPattern": [
+        {
+          "label": "Total Questions (Paper 1)",
+          "value": "90 questions (75 to be attempted)"
+        },
+        {
+          "label": "Section A (each subject)",
+          "value": "20 MCQs — all compulsory"
+        },
+        {
+          "label": "Section B (each subject)",
+          "value": "10 Numerical Answer Type — attempt any 5"
+        },
+        {
+          "label": "Marking Scheme (MCQ)",
+          "value": "+4 for correct, -1 for incorrect, 0 for unattempted"
+        },
+        {
+          "label": "Marking Scheme (Numerical)",
+          "value": "+4 for correct, 0 for incorrect (no negative marking)"
+        },
+        {
+          "label": "Negative Marking",
+          "value": "-1 per wrong MCQ answer only"
+        }
+      ],
+      "syllabusOverview": [
+        {
+          "subject": "Physics",
+          "topics": "Kinematics, Laws of Motion, Work/Energy/Power, Rotational Motion, Gravitation, Properties of Solids & Liquids, Thermodynamics, Kinetic Theory of Gases, Oscillations & Waves, Electrostatics, Current Electricity, Magnetic Effects, Electromagnetic Induction, Electromagnetic Waves, Optics (Ray & Wave), Dual Nature of Matter, Atoms & Nuclei, Electronic Devices, Communication Systems"
+        },
+        {
+          "subject": "Chemistry",
+          "topics": "Atomic Structure, Chemical Bonding & Molecular Structure, States of Matter, Thermodynamics, Equilibrium, Redox Reactions, Electrochemistry, Chemical Kinetics, Surface Chemistry, Periodic Table & Properties, Hydrogen, s-block & p-block Elements, d & f-block Elements, Coordination Compounds, Organic Chemistry Basics, Hydrocarbons, Haloalkanes & Haloarenes, Alcohols/Phenols/Ethers, Aldehydes/Ketones/Carboxylic Acids, Amines, Biomolecules, Polymers, Chemistry in Everyday Life"
+        },
+        {
+          "subject": "Mathematics",
+          "topics": "Sets, Relations & Functions, Complex Numbers, Quadratic Equations, Sequences & Series, Permutations & Combinations, Binomial Theorem, Matrices & Determinants, Limits, Continuity & Differentiability, Integrals, Differential Equations, Coordinate Geometry (Straight Lines, Circles, Conics), 3D Geometry, Vectors, Statistics & Probability, Mathematical Reasoning, Trigonometry"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How many attempts are allowed for JEE Main?",
+          "answer": "Candidates can appear in JEE Main for a maximum of 6 attempts over 3 consecutive years (2 sessions per year). The best score across all attempts is considered for ranking."
+        },
+        {
+          "question": "Is JEE Main sufficient for IIT admission?",
+          "answer": "No. JEE Main qualifies candidates for JEE Advanced, which is the separate entrance exam for IITs. Admission to IITs requires qualifying JEE Advanced and securing an All India Rank (AIR) within the seat matrix."
+        },
+        {
+          "question": "What is the JEE Main percentile required for NIT admission?",
+          "answer": "For top NITs (like NIT Trichy, NIT Warangal, NIT Surathkal), a JEE Main percentile of 98.5+ is generally needed for competitive branches. For other NITs, a percentile of 90+ may suffice depending on the branch and category."
+        }
+      ]
+    },
+    "path": "configs/jee.json"
+  },
+  "bace": {
+    "meta": {
+      "examId": "BACE",
+      "fullName": "Biotechnician Assistant Credentialing Exam",
+      "shortName": "BACE",
+      "category": "Biotechnology Certification",
+      "conductingBody": "Biotility — University of Florida",
+      "country": "USA",
+      "examType": [
+        "Professional Certification",
+        "Industry-Recognized Credential",
+        "Multiple Choice"
+      ],
+      "description": "The BACE is a nationally recognised credential administered by Biotility (University of Florida) that validates the core theoretical and practical knowledge of entry-level biotechnology technicians for roles in pharma, agbio, and research labs.",
+      "officialWebsite": "https://biotility.research.ufl.edu",
+      "isOfficial": false,
+      "lastUpdated": "2026-04-30",
+      "seoTitle": "BACE Exam 2026: Free Mock Tests, Syllabus & Biotech Prep Guide",
+      "seoDescription": "Prepare for the BACE biotechnology certification with free mock tests & 2026 syllabus guide. Master lab safety, PCR, GMP & biotech principles. Start today!",
+      "relatedBlogTags": [
+        "BACE",
+        "Biotechnology",
+        "Lab Certification",
+        "Exam Prep"
+      ],
+      "keyFacts": [
+        {
+          "label": "Frequency",
+          "value": "Multiple scheduled sessions throughout the year (on-demand at approved sites)"
+        },
+        {
+          "label": "Mode",
+          "value": "Computer-based at authorised testing centres or proctored online"
+        },
+        {
+          "label": "Duration",
+          "value": "Approximately 3.5 hours"
+        },
+        {
+          "label": "Total Questions",
+          "value": "Approximately 150 multiple-choice questions"
+        },
+        {
+          "label": "Credential Validity",
+          "value": "3 years (renewable via continuing education or retesting)"
+        }
+      ],
+      "eligibility": [
+        "No formal prerequisites are mandated; the exam is open to high school graduates, community college students, and university-level candidates in biotechnology or life sciences",
+        "Completion of or current enrolment in a biotechnology, biology, chemistry, or allied science certificate/degree programme is strongly recommended",
+        "Early-career laboratory professionals seeking to validate their entry-level biotechnology competencies are encouraged to apply",
+        "Registration is done through the Biotility portal; candidates must agree to testing policies and pay the applicable exam fee"
+      ],
+      "examPattern": [
+        {
+          "label": "Total Questions",
+          "value": "~150 multiple-choice questions"
+        },
+        {
+          "label": "Question Format",
+          "value": "Single-best-answer MCQ"
+        },
+        {
+          "label": "Duration",
+          "value": "~3.5 hours"
+        },
+        {
+          "label": "Scoring",
+          "value": "Percentage of correct answers; passing threshold set by Biotility"
+        },
+        {
+          "label": "Negative Marking",
+          "value": "None"
+        }
+      ],
+      "syllabusOverview": [
+        {
+          "subject": "Laboratory Safety",
+          "topics": "OSHA standards, Chemical hygiene plan, Biohazard protocols (BSL levels), PPE selection and use, Hazardous waste disposal, Emergency procedures, SDS interpretation"
+        },
+        {
+          "subject": "Mathematics for Science",
+          "topics": "Metric system & SI units, Unit conversions, Scientific notation, Significant figures, Solution preparation & dilutions (molarity, percent solutions), Basic statistics (mean, median, standard deviation)"
+        },
+        {
+          "subject": "Biology & Chemistry Foundations",
+          "topics": "Cell structure & function, Central dogma (DNA→RNA→Protein), Basic genetics & heredity, Biochemistry of proteins, lipids & carbohydrates, Acid-base chemistry, Buffer preparation & pH calculations"
+        },
+        {
+          "subject": "Core Biotechnology Techniques",
+          "topics": "Recombinant DNA technology, PCR & qPCR, Gel electrophoresis (agarose & PAGE), Cell culture (aseptic technique, sterile technique), Fermentation & upstream bioprocessing, Downstream processing & purification (chromatography, filtration)"
+        },
+        {
+          "subject": "Instrumentation & Equipment",
+          "topics": "Spectrophotometry & UV-Vis, Centrifugation (types & applications), Microscopy (light, phase contrast, fluorescence), Autoclave & sterilisation methods, Pipetting techniques & calibration, ELISA instrumentation"
+        },
+        {
+          "subject": "Quality Systems & Regulatory Compliance",
+          "topics": "Good Manufacturing Practice (GMP), Good Laboratory Practice (GLP), Standard Operating Procedures (SOPs), Batch record documentation, FDA/EPA regulatory overview, Deviation reporting & CAPA"
+        },
+        {
+          "subject": "Bioinformatics",
+          "topics": "DNA & protein sequence databases (GenBank, UniProt), NCBI BLAST searches, Sequence alignment basics, Introduction to bioinformatics tools"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Who should take the BACE exam?",
+          "answer": "The BACE is ideal for students completing a biotechnology certificate or AS/BS degree programme, as well as entry-level lab technicians who want an industry-recognised credential to strengthen their CV when applying for positions in pharmaceutical, agricultural biotech, or research laboratory settings."
+        },
+        {
+          "question": "How long is the BACE credential valid?",
+          "answer": "The BACE credential is valid for 3 years from the date of passing. To maintain the credential, holders must either complete approved continuing education credits or retake the examination before the expiry date."
+        },
+        {
+          "question": "Is the BACE accepted nationally across the USA?",
+          "answer": "Yes, the BACE is recognised by biotech, pharmaceutical, and agriscience employers across the United States as a validated benchmark of entry-level biotechnician competency. It is particularly respected among Florida-based programmes, but its recognition is growing nationally."
+        }
+      ]
+    },
+    "path": "configs/bace.json"
+  },
+  "mtel": {
+    "meta": {
+      "examId": "MTEL",
+      "fullName": "Massachusetts Tests for Educator Licensure",
+      "shortName": "MTEL",
+      "category": "Teacher Licensure Certification",
+      "conductingBody": "Massachusetts Department of Elementary and Secondary Education (DESE), administered by Pearson",
+      "country": "United States",
+      "examType": [
+        "Teacher Licensure",
+        "Certification",
+        "Computer-Based Test"
+      ],
+      "description": "MTEL is a suite of computer-based licensure tests required for prospective educators seeking Initial teaching licences in Massachusetts. Tests cover the Communication & Literacy Skills requirement plus subject-specific content knowledge and pedagogy.",
+      "officialWebsite": "https://www.doe.mass.edu/mtel/",
+      "isOfficial": true,
+      "lastUpdated": "2026-04-30",
+      "seoTitle": "MTEL 2026: Free Practice Tests, Syllabus & Licensure Prep Guide",
+      "seoDescription": "Prepare for MTEL licensure tests with free mock tests & 2026 study guides. Practice Communication & Literacy Skills and subject-area tests for MA teachers.",
+      "relatedBlogTags": [
+        "MTEL",
+        "Teacher Licensure",
+        "Massachusetts Education",
+        "Exam Prep"
+      ],
+      "keyFacts": [
+        {
+          "label": "Frequency",
+          "value": "Multiple testing windows throughout the year (register via the MTEL portal)"
+        },
+        {
+          "label": "Mode",
+          "value": "Computer-based at Pearson VUE testing centres"
+        },
+        {
+          "label": "Duration",
+          "value": "Varies by subtest (typically 4 hours for most subtests; CLS has separate Reading and Writing sessions)"
+        },
+        {
+          "label": "Passing Score",
+          "value": "Scaled score of 240 (on a scale of 100–300)"
+        },
+        {
+          "label": "Score Reporting",
+          "value": "Unofficial scores available immediately; official scores within approximately 3–4 weeks"
+        }
+      ],
+      "eligibility": [
+        "Must be a candidate seeking an Initial educator licence in Massachusetts through a state-approved educator preparation programme or an alternative licensure route",
+        "The Communication & Literacy Skills (CLS) test is mandatory for all candidates seeking any Initial teaching licence, regardless of subject area",
+        "Subject-area tests must correspond to the endorsement sought; candidates may sit tests before, during, or after completing their preparation programme",
+        "Registration is conducted through the official MTEL website; no prior degree is required to register, though licensure itself requires degree completion"
+      ],
+      "examPattern": [
+        {
+          "label": "Communication & Literacy Skills (CLS) — Reading",
+          "value": "Multiple-choice questions assessing reading comprehension and analysis"
+        },
+        {
+          "label": "Communication & Literacy Skills (CLS) — Writing",
+          "value": "Multiple-choice + 2 open-response writing tasks (summary and composition)"
+        },
+        {
+          "label": "Subject-Area Tests (general format)",
+          "value": "Multiple-choice questions + 1–4 open-response items depending on the subtest"
+        },
+        {
+          "label": "Scoring",
+          "value": "Scaled score of 100–300; passing score is 240"
+        },
+        {
+          "label": "Negative Marking",
+          "value": "None — unanswered and incorrect questions are treated equally"
+        }
+      ],
+      "syllabusOverview": [
+        {
+          "subject": "Communication & Literacy Skills — Reading",
+          "topics": "Literal and inferential comprehension, Analysis of rhetorical strategies and text structure, Vocabulary in context, Evaluation of arguments and evidence, Synthesis of information across passages"
+        },
+        {
+          "subject": "Communication & Literacy Skills — Writing",
+          "topics": "Grammar, mechanics, and usage, Sentence revision and editing, Summary writing of a provided passage, Written composition (argumentative/analytical short essay)"
+        },
+        {
+          "subject": "Mathematics (Subject-Area)",
+          "topics": "Number sense & operations, Patterns, relations & algebra, Geometry & measurement, Data analysis, statistics & probability, Trigonometry & pre-calculus (for higher-level tests), Calculus (MTELMathematics 09)"
+        },
+        {
+          "subject": "English (Subject-Area)",
+          "topics": "Literature (American, British, World), Literary analysis and criticism, Writing and rhetoric, Language acquisition and linguistics, Reading instruction pedagogy"
+        },
+        {
+          "subject": "Science & Technology/Engineering (Subject-Area)",
+          "topics": "Life science, Physical science, Earth & space science, Technology & engineering design, Safety in laboratory settings, Science inquiry & experimental design"
+        },
+        {
+          "subject": "History (Subject-Area)",
+          "topics": "U.S. history, World history, Historical thinking skills, Geography & civics, Economics fundamentals, Massachusetts curriculum frameworks alignment"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Is the Communication & Literacy Skills (CLS) test mandatory for all Massachusetts teachers?",
+          "answer": "Yes, every candidate seeking an Initial educator licence in Massachusetts must pass both parts of the MTEL Communication & Literacy Skills test (Reading and Writing), regardless of the subject area they plan to teach."
+        },
+        {
+          "question": "What is the passing score for MTEL tests?",
+          "answer": "The passing scaled score for all MTEL tests is 240, on a scale of 100 to 300. Scores are reported as scaled scores, not raw percentages."
+        },
+        {
+          "question": "How many times can I retake an MTEL test?",
+          "answer": "There is no limit on the number of retakes. However, candidates must wait until the official score from their most recent attempt is released before registering for the same test again. A fee is charged for each attempt."
+        }
+      ]
+    },
+    "path": "configs/mtel.json"
+  },
+  "cat": {
+    "meta": {
+      "examId": "CAT",
+      "fullName": "Common Admission Test",
+      "shortName": "CAT",
+      "category": "Postgraduate Management Entrance",
+      "conductingBody": "Indian Institutes of Management (IIMs) — rotating convener each year",
+      "country": "India",
+      "examType": [
+        "Postgraduate Entrance",
+        "MBA Entrance",
+        "Computer Based Test"
+      ],
+      "description": "CAT is India's most prestigious national-level MBA entrance exam, conducted annually by a rotating IIM. Scores are used for admission to all 21 IIMs and over 1,200 other management institutes across India.",
+      "officialWebsite": "https://iimcat.ac.in/",
+      "isOfficial": true,
+      "lastUpdated": "2026-04-30",
+      "seoTitle": "CAT 2026: Free Mock Tests, Syllabus & IIM Prep Study Guide",
+      "seoDescription": "Crack CAT 2026 with free mock tests & complete syllabus guide. Practice VARC, DILR & QA with IIM-pattern simulations. Boost your MBA admission percentile!",
+      "relatedBlogTags": [
+        "CAT",
+        "MBA Entrance",
+        "IIM",
+        "Exam Prep"
+      ],
+      "keyFacts": [
+        {
+          "label": "Frequency",
+          "value": "Annual (typically last Sunday of November)"
+        },
+        {
+          "label": "Mode",
+          "value": "Computer Based Test (CBT) — 3 slots on exam day"
+        },
+        {
+          "label": "Duration",
+          "value": "2 hours (40 minutes per section, non-transferable)"
+        },
+        {
+          "label": "Total Questions",
+          "value": "66 questions (as per CAT 2024 pattern)"
+        },
+        {
+          "label": "Total Marks",
+          "value": "198 (as per CAT 2024 pattern)"
+        },
+        {
+          "label": "Score Reporting",
+          "value": "Percentile scores; results typically in January"
+        }
+      ],
+      "eligibility": [
+        "Must hold a Bachelor's degree with at least 50% aggregate marks (or equivalent CGPA); 45% for SC/ST/PwD candidates",
+        "Candidates in the final year of their qualifying degree programme are also eligible to apply",
+        "There is no age limit and no restriction on the number of times a candidate can appear for CAT",
+        "Graduates from any discipline (engineering, commerce, arts, science) are eligible"
+      ],
+      "examPattern": [
+        {
+          "label": "Total Questions",
+          "value": "66 (VARC: 24, DILR: 20, QA: 22) — as per CAT 2024"
+        },
+        {
+          "label": "Question Types",
+          "value": "MCQ (Multiple Choice) and TITA (Type In The Answer — non-MCQ)"
+        },
+        {
+          "label": "Marking Scheme (MCQ)",
+          "value": "+3 for correct, -1 for incorrect, 0 for unattempted"
+        },
+        {
+          "label": "Marking Scheme (TITA)",
+          "value": "+3 for correct, 0 for incorrect (no negative marking)"
+        },
+        {
+          "label": "Section Time Limit",
+          "value": "40 minutes per section — cannot switch between sections during the allotted time"
+        },
+        {
+          "label": "Negative Marking",
+          "value": "-1 per wrong MCQ answer only; TITA questions have no negative marking"
+        }
+      ],
+      "syllabusOverview": [
+        {
+          "subject": "Verbal Ability & Reading Comprehension (VARC)",
+          "topics": "Reading Comprehension (3–4 long passages, ~16 questions), Para-jumbles, Para-summary, Sentence Exclusion (Odd-sentence-out), Out-of-context sentence identification, Inference-based questions"
+        },
+        {
+          "subject": "Data Interpretation & Logical Reasoning (DILR)",
+          "topics": "Data Interpretation: Bar charts, Line graphs, Pie charts, Tables, Caselets, Mixed charts; Logical Reasoning: Arrangements & Scheduling, Puzzles, Venn diagrams, Games & Tournaments, Network/Route-based puzzles, Binary logic"
+        },
+        {
+          "subject": "Quantitative Aptitude (QA)",
+          "topics": "Number Systems & Number Theory, Arithmetic (Percentages, Ratio & Proportion, Profit & Loss, Time-Speed-Distance, Time & Work, Mixtures), Algebra (Equations, Inequalities, Functions, Logarithms), Geometry & Mensuration (Triangles, Circles, Coordinate Geometry, Solid Geometry), Modern Maths (Permutation & Combination, Probability, Progressions, Set Theory)"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How many IIMs accept CAT scores?",
+          "answer": "All 21 IIMs accept CAT scores. Additionally, over 1,200 other MBA colleges and management institutes across India use CAT scores for their admission processes."
+        },
+        {
+          "question": "What percentile is required to get IIM calls for interviews?",
+          "answer": "Top IIMs like IIM Ahmedabad, Bangalore, and Calcutta typically shortlist candidates with 99+ percentile for general category. Other IIMs may shortlist from 90–98 percentile range. However, IIMs also weigh academic profiles, work experience, and diversity, so the overall profile matters significantly."
+        },
+        {
+          "question": "Is there a restriction on the number of CAT attempts?",
+          "answer": "No. There is no upper limit on the number of times you can appear for CAT. Since CAT is held once a year, each calendar year counts as one attempt, and candidates can keep applying until they achieve their desired score."
+        },
+        {
+          "question": "What is the difference between MCQ and TITA questions in CAT?",
+          "answer": "MCQ questions have 4 answer options and carry a penalty of -1 for wrong answers. TITA (Type In The Answer) questions require candidates to type the answer directly — they carry no negative marking, making them relatively safer to attempt."
+        }
+      ]
+    },
+    "path": "configs/cat.json"
+  },
+  "rrb": {
+    "meta": {
+      "examId": "RRB",
+      "fullName": "Railway Recruitment Board Examinations",
+      "shortName": "RRB",
+      "category": "Government Recruitment",
+      "conductingBody": "Railway Recruitment Boards (21 regional boards) under Ministry of Railways, India",
+      "country": "India",
+      "examType": [
+        "Government Recruitment",
+        "Computer Based Test",
+        "CBT"
+      ],
+      "description": "RRB conducts nationwide recruitment for various technical and non-technical posts in Indian Railways, including NTPC (graduate & undergraduate), Group D (track maintenance), ALP (Assistant Loco Pilot), and Junior Engineer (JE) posts.",
+      "officialWebsite": "https://www.rrbcdg.gov.in/",
+      "isOfficial": true,
+      "lastUpdated": "2026-04-30",
+      "seoTitle": "RRB 2026: Free Mock Tests, Syllabus & Railway Exam Prep Guide",
+      "seoDescription": "Crack RRB NTPC & Group D 2026 with free online mock tests & CBT syllabus guide. Practice General Awareness, Maths & Reasoning for Indian Railways recruitment!",
+      "relatedBlogTags": [
+        "RRB",
+        "Railway Recruitment",
+        "Government Jobs India",
+        "Exam Prep"
+      ],
+      "keyFacts": [
+        {
+          "label": "Frequency",
+          "value": "As per official recruitment notification (typically annual or biennial cycles)"
+        },
+        {
+          "label": "Mode",
+          "value": "Computer Based Test (CBT) for all stages"
+        },
+        {
+          "label": "Duration",
+          "value": "90 minutes (CBT 1 & CBT 2); 60 minutes for Group D CBT"
+        },
+        {
+          "label": "Negative Marking",
+          "value": "1/3 mark deducted per wrong answer"
+        },
+        {
+          "label": "Language",
+          "value": "Available in 15 scheduled Indian languages + English"
+        }
+      ],
+      "eligibility": [
+        "RRB NTPC (Graduate Posts): Bachelor's degree in any discipline from a recognised university; age 18–33 years",
+        "RRB NTPC (Undergraduate Posts): 10+2 or equivalent; age 18–33 years",
+        "RRB Group D: Class 10 pass (or ITI from recognised institute); age 18–33 years",
+        "RRB ALP & Technician: Class 10 + ITI (for Technician) or Class 10 + ITI/Diploma (for ALP); age 18–28 years",
+        "Age relaxation: 5 years for SC/ST, 3 years for OBC (NCL), 10 years for PwD (General), with additional relaxation for Ex-Servicemen and other government-notified categories"
+      ],
+      "examPattern": [
+        {
+          "label": "CBT 1 — RRB NTPC (100 Questions, 90 min)",
+          "value": "General Awareness: 40Q | Mathematics: 30Q | General Intelligence & Reasoning: 30Q"
+        },
+        {
+          "label": "CBT 2 — RRB NTPC (120 Questions, 90 min)",
+          "value": "General Awareness: 50Q | Mathematics: 35Q | General Intelligence & Reasoning: 35Q"
+        },
+        {
+          "label": "RRB Group D CBT (100 Questions, 90 min)",
+          "value": "General Science: 25Q | Mathematics: 25Q | General Intelligence & Reasoning: 30Q | General Awareness & Current Affairs: 20Q"
+        },
+        {
+          "label": "Marking Scheme",
+          "value": "+1 for each correct answer"
+        },
+        {
+          "label": "Negative Marking",
+          "value": "1/3 mark deducted per wrong answer"
+        }
+      ],
+      "syllabusOverview": [
+        {
+          "subject": "General Awareness & Current Affairs",
+          "topics": "Current affairs (national & international), Indian History (Ancient, Medieval, Modern), Indian & World Geography, Indian Polity & Constitution, Indian Economy & Budget, Science & Technology developments, Sports, Awards & Honours, Important Government Schemes, Railway-specific GK"
+        },
+        {
+          "subject": "Mathematics",
+          "topics": "Number System, HCF & LCM, Simplification & Approximation, Decimal & Fractions, Ratio & Proportion, Percentage, Profit & Loss, Simple & Compound Interest, Time & Work, Time, Speed & Distance, Mensuration (2D & 3D), Algebra, Geometry, Trigonometry, Statistics & Data Interpretation"
+        },
+        {
+          "subject": "General Intelligence & Reasoning",
+          "topics": "Analogies, Alphanumeric Series, Coding-Decoding, Mathematical Operations, Syllogisms, Jumbling, Venn Diagrams, Data Sufficiency, Conclusions & Decision Making, Similarities & Differences, Relationships, Analytical Reasoning, Classification, Directions & Distances, Statement & Arguments"
+        },
+        {
+          "subject": "General Science (Group D)",
+          "topics": "Physics (Motion, Force, Work/Energy/Power, Sound, Light, Electricity, Magnetism), Chemistry (Matter, Atoms, Chemical Reactions, Metals & Non-metals, Carbon Compounds, Acids/Bases/Salts), Life Sciences (Cell Biology, Human Body Systems, Nutrition, Diseases, Plant Biology, Ecology)"
+        },
+        {
+          "subject": "Technical / Trade (ALP & JE posts)",
+          "topics": "Depends on trade: Electrical (Circuits, Machines, Power Systems), Mechanical (Thermodynamics, Machines, Materials), Civil (Structures, Surveying, Materials), Electronics, Computer Science — as per ITI/Diploma/Degree syllabus for the respective trade"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What is the age limit for RRB NTPC 2026?",
+          "answer": "For most RRB NTPC Graduate and Undergraduate posts, the age limit is 18–33 years as of the notified cut-off date. Standard relaxation applies: 5 years for SC/ST, 3 years for OBC (Non-Creamy Layer), and up to 10+ years for PwD candidates depending on category."
+        },
+        {
+          "question": "Is there negative marking in RRB exams?",
+          "answer": "Yes. For all RRB CBT (Computer Based Test) stages, 1/3 of the mark assigned to a question is deducted for each wrong answer. Unattempted questions carry no penalty."
+        },
+        {
+          "question": "What is the difference between RRB NTPC CBT 1 and CBT 2?",
+          "answer": "CBT 1 is a common screening test for all NTPC posts (100 questions, 90 min). Shortlisted candidates then appear for CBT 2, which is post-specific and slightly more detailed (120 questions, 90 min). CBT 2 scores are used for the final merit list."
+        }
+      ]
+    },
+    "path": "configs/rrb.json"
+  },
+  "bece": {
+    "meta": {
+      "examId": "BECE",
+      "fullName": "Basic Education Certificate Examination",
+      "shortName": "BECE",
+      "category": "Junior Secondary School Certification",
+      "conductingBody": "National Examinations Council (NECO), Nigeria",
+      "country": "Nigeria",
+      "examType": [
+        "Certification",
+        "Junior Secondary Exit Examination",
+        "Paper-Based"
+      ],
+      "description": "The BECE (also called Junior WAEC) is Nigeria's national exit exam for JSS3 (Grade 9) students, conducted by NECO. It certifies completion of the 9-year Basic Education programme and is the primary gateway to Senior Secondary School (SS1) admission.",
+      "officialWebsite": "https://neco.gov.ng",
+      "isOfficial": true,
+      "lastUpdated": "2026-04-30",
+      "seoTitle": "BECE 2026: Free Practice Tests, Syllabus & Junior WAEC Prep",
+      "seoDescription": "Ace BECE 2026 (Junior WAEC) with free practice tests & full syllabus. Cover English, Maths, Basic Science & more for JSS3 exit exam success. Prep now!",
+      "relatedBlogTags": [
+        "BECE",
+        "Junior WAEC",
+        "NECO",
+        "Nigerian Education"
+      ],
+      "keyFacts": [
+        {
+          "label": "Frequency",
+          "value": "Annual (typically June–July)"
+        },
+        {
+          "label": "Mode",
+          "value": "Paper-based (written examination at approved centres)"
+        },
+        {
+          "label": "Level",
+          "value": "JSS3 (Junior Secondary School 3, equivalent to Grade 9)"
+        },
+        {
+          "label": "Grading",
+          "value": "A1 (Excellent) through F9 (Fail); Grades A1–C6 are generally passing grades"
+        },
+        {
+          "label": "Language of Instruction",
+          "value": "English (primary); French available as an optional subject"
+        }
+      ],
+      "eligibility": [
+        "Must be a registered JSS3 student in an approved Nigerian secondary school or a recognised private candidate",
+        "School registration through an accredited NECO examination centre is mandatory; individual private candidates may register through approved state education boards",
+        "Must have completed the 3-year Junior Secondary School curriculum (Basic 7, 8, and 9 / JSS1, JSS2, JSS3)",
+        "Age is not a strict criterion, but candidates are typically 13–16 years old"
+      ],
+      "examPattern": [
+        {
+          "label": "Core Compulsory Subjects",
+          "value": "English Language, Mathematics, Basic Science & Technology, National Values Education, Cultural & Creative Arts, Pre-Vocational Studies"
+        },
+        {
+          "label": "Optional Subjects",
+          "value": "French, Arabic, Hausa, Igbo, Yoruba, Agricultural Science, Business Studies, Computer Studies"
+        },
+        {
+          "label": "Paper Format",
+          "value": "Each subject typically includes an Objective (multiple-choice) section and a Theory/Essay section"
+        },
+        {
+          "label": "Duration per Subject",
+          "value": "Typically 1.5–2.5 hours depending on the subject"
+        },
+        {
+          "label": "Negative Marking",
+          "value": "None"
+        }
+      ],
+      "syllabusOverview": [
+        {
+          "subject": "English Language",
+          "topics": "Reading Comprehension, Summary Writing, Essay/Narrative/Letter Writing, Vocabulary (Synonyms, Antonyms, Idioms), Grammar & Usage (Tenses, Parts of Speech, Sentence Structure), Oral English (Vowels, Consonants, Stress & Intonation)"
+        },
+        {
+          "subject": "Mathematics",
+          "topics": "Number & Numeration (Integers, Fractions, Decimals, Indices, Standard Form), Basic Operations (BODMAS, LCM, HCF), Percentages & Ratios, Mensuration (Perimeter, Area, Volume), Algebra (Equations, Inequalities, Graphs), Geometry (Angles, Triangles, Circles), Statistics (Data collection, Bar charts, Pie charts, Mean)"
+        },
+        {
+          "subject": "Basic Science & Technology",
+          "topics": "Physical Science: Matter, Motion, Energy (Kinetic & Potential), Electricity & Magnetism, Simple Machines; Chemistry: Mixtures & Compounds, Acids, Bases & Salts, Chemical Change; Biology: Living Things, Nutrition, Reproduction, Ecology; ICT: Computer components, Operating systems, Word processing, Internet safety"
+        },
+        {
+          "subject": "National Values Education",
+          "topics": "Civic Education (Democracy, Human Rights, Rule of Law), Security Education (Cybercrime, Substance Abuse, Trafficking), Financial Literacy, Social Studies (Family, Community, Culture), Christian Religious Studies / Islamic Studies (as applicable)"
+        },
+        {
+          "subject": "Cultural & Creative Arts",
+          "topics": "Visual Art (Drawing, Painting, Sculpture), Music (Theory, Notation, Indigenous music), Drama & Theatre Arts (stagecraft, playwriting), Crafts & Design"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Which class of students sit the BECE?",
+          "answer": "Students in JSS3 (Junior Secondary School 3, equivalent to Grade 9 or Basic 9) sit the BECE as their exit examination from the lower secondary/basic education tier. It is taken after completing three years of junior secondary education."
+        },
+        {
+          "question": "What grades are considered passing in BECE?",
+          "answer": "BECE grades run from A1 (Excellent, highest) to F9 (Fail, lowest). Grades A1 through C6 are generally considered passing grades required for Senior Secondary School (SS1) admission. Grades D7 and E8 are pass-level but may not meet specific school requirements, while F9 is a fail."
+        },
+        {
+          "question": "How does the BECE differ from WAEC's BECE in Ghana?",
+          "answer": "Nigeria's BECE is conducted by NECO (National Examinations Council) for JSS3 students. Ghana's BECE is a separate examination conducted by WAEC for JHS3 students under a different curriculum. They share the same name but are distinct exams administered by different bodies in different countries."
+        }
+      ]
+    },
+    "path": "configs/bece.json"
+  },
   "hosa-nutrition": {
     "meta": {
       "examId": "HOSA_NUTRITION",
-      "fullName": "HOSA Nutrition — Academic Competitive Event",
+      "fullName": "HOSA Nutrition — Health Science Competitive Event",
       "shortName": "HOSA Nutrition",
-      "category": "Health Science",
-      "conductingBody": "HOSA–Future Health Professionals",
+      "category": "Health Science Competition (CTSO)",
+      "conductingBody": "HOSA — Future Health Professionals",
       "country": "USA / International",
       "examType": [
         "Academic Competition",
-        "Written Test"
+        "Objective Written Test",
+        "Multiple Choice"
       ],
-      "description": "A competitive event focusing on nutrition knowledge, including medical nutrition therapy, macronutrients, and cultural food patterns. Part of the Health Science events category in HOSA.",
+      "description": "HOSA Nutrition is a written competitive event that evaluates in-depth knowledge of nutritional science, including macronutrients, clinical nutrition, dietary guidelines, food safety, and medical nutrition therapy — aligned with the annual HOSA Competitive Events Guidelines.",
       "officialWebsite": "https://hosa.org/competitive-events/",
       "isOfficial": false,
-      "lastUpdated": "2026-02-15",
-      "seoTitle": "HOSA Nutrition Practice Tests & Competitive Event Prep",
-      "seoDescription": "Master your HOSA Nutrition competitive event with free online practice tests. Cover macronutrients, clinical nutrition, and dietary guidelines effectively."
+      "lastUpdated": "2026-04-30",
+      "seoTitle": "HOSA Nutrition 2026: Free Mock Tests, Syllabus & Competitive Prep",
+      "seoDescription": "Ace HOSA Nutrition 2026 with free mock tests & full event syllabus. Master macronutrients, MNT, dietary guidelines & food safety for competitive success!",
+      "relatedBlogTags": [
+        "HOSA",
+        "Nutrition Science",
+        "Health Science Competition",
+        "Exam Prep"
+      ],
+      "keyFacts": [
+        {
+          "label": "Round 1",
+          "value": "50-question multiple-choice written test"
+        },
+        {
+          "label": "Time Limit",
+          "value": "60 minutes"
+        },
+        {
+          "label": "Participants",
+          "value": "Individual event (1 participant per entry)"
+        },
+        {
+          "label": "Reference",
+          "value": "Annual HOSA Competitive Events Guidelines (updated each year)"
+        },
+        {
+          "label": "Level",
+          "value": "Available at State Leadership Conference (SLC) and National Leadership Conference (NLC)"
+        }
+      ],
+      "eligibility": [
+        "Must be an active member of HOSA — Future Health Professionals at the secondary, post-secondary, or collegiate level",
+        "Must follow the current year's HOSA Competitive Events Guidelines for topic coverage and registration rules",
+        "Participants must be registered through their chapter advisor and comply with HOSA's academic integrity and dress code policies"
+      ],
+      "examPattern": [
+        {
+          "label": "Total Questions",
+          "value": "50 multiple-choice questions"
+        },
+        {
+          "label": "Duration",
+          "value": "60 minutes"
+        },
+        {
+          "label": "Scoring",
+          "value": "Percentage of correct answers; ties broken by time taken"
+        },
+        {
+          "label": "Format",
+          "value": "Single-best-answer MCQ; no partial credit"
+        },
+        {
+          "label": "Negative Marking",
+          "value": "None"
+        }
+      ],
+      "syllabusOverview": [
+        {
+          "subject": "Macronutrients & Micronutrients",
+          "topics": "Carbohydrates (types, digestion, glycaemic index), Proteins (amino acids, protein quality, RDA), Lipids (fatty acids, cholesterol, omega-3/6), Fat-soluble vitamins (A, D, E, K), Water-soluble vitamins (B-complex, C), Macro/trace minerals (Ca, Fe, Zn, Mg), Water balance & hydration"
+        },
+        {
+          "subject": "Dietary Guidelines & Food Planning",
+          "topics": "USDA 2020–2025 Dietary Guidelines for Americans, MyPlate food group model, Dietary Reference Intakes (DRI): RDA, AI, UL, EER, Nutrient density & empty calories, Reading & interpreting Nutrition Facts labels, Food portion sizes & serving equivalents"
+        },
+        {
+          "subject": "Nutrition Across the Lifespan",
+          "topics": "Pregnancy & lactation nutrition, Infant & toddler nutritional needs, Childhood & adolescent nutrition, Adult nutritional requirements, Geriatric nutrition & sarcopenia, Special needs populations"
+        },
+        {
+          "subject": "Medical Nutrition Therapy (MNT)",
+          "topics": "Nutrition in Type 1 & Type 2 Diabetes (carbohydrate counting, glycaemic management), Cardiovascular disease diet (DASH, TLC, sodium restriction), Renal diet (phosphorus, potassium, protein management), Cancer nutrition, Malnutrition & nutritional assessment (BMI, anthropometrics, biochemical markers), Eating disorders (anorexia, bulimia, binge eating)"
+        },
+        {
+          "subject": "Food Safety & Preparation",
+          "topics": "Foodborne illness pathogens (Salmonella, E. coli, Listeria, Norovirus), HACCP (Hazard Analysis Critical Control Points) principles, Safe food handling (temperature control, cross-contamination, storage), FDA Food Code, Food allergies vs. intolerances"
+        },
+        {
+          "subject": "Cultural & Global Nutrition",
+          "topics": "Cultural food practices and dietary patterns (Mediterranean, Asian, Latin American diets), Global hunger, food insecurity & malnutrition (stunting, wasting, micronutrient deficiencies), Sustainable food systems & environmental impact of food choices"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How is the HOSA Nutrition event scored?",
+          "answer": "Scoring is based on the percentage of correct answers on the 50-question multiple-choice test. In the event of a tie in score, the participant who completed the test in less time is ranked higher."
+        },
+        {
+          "question": "What study materials are recommended for HOSA Nutrition?",
+          "answer": "The official HOSA Competitive Events Guidelines specify the topic areas each year. Recommended references include the USDA Dietary Guidelines 2020-2025, standard college-level nutrition textbooks (such as 'Nutrition: Concepts and Controversies' by Whitney & Rolfes), and the Academy of Nutrition and Dietetics publications."
+        },
+        {
+          "question": "Is the HOSA Nutrition event available at all competition levels?",
+          "answer": "The Nutrition event is available at the State Leadership Conference (SLC) level. Top finishers at SLC may advance to the National Leadership Conference (NLC). Availability at area/regional competitions depends on the state chapter's event schedule."
+        }
+      ]
     },
     "path": "configs/hosa-nutrition.json"
   },
   "fbla-intro-marketing": {
     "meta": {
       "examId": "FBLA_INTRO_MARKETING",
-      "fullName": "FBLA Introduction to Marketing Concepts — Competitive Event",
-      "shortName": "FBLA Intro to Marketing",
-      "category": "Business / Marketing",
+      "fullName": "FBLA Introduction to Marketing Concepts — Competitive Objective Test",
+      "shortName": "FBLA Intro Marketing",
+      "category": "Business & Marketing Competition (CTSO)",
       "conductingBody": "Future Business Leaders of America (FBLA)",
       "country": "USA / International",
       "examType": [
@@ -260,12 +1132,111 @@
         "Objective Test",
         "Multiple Choice"
       ],
-      "description": "An FBLA competitive event that evaluates foundational knowledge of marketing principles, including the marketing mix, consumer behavior, market research, pricing strategies, promotion, branding, and marketing ethics. Designed primarily for introductory-level high school students.",
-      "officialWebsite": "https://www.fbla.org/competitive-events/introduction-to-marketing-concepts/",
+      "description": "An FBLA competitive event assessing foundational marketing knowledge for high school students. Topics span the full marketing mix (4Ps), consumer behavior, market research, branding, pricing strategies, digital marketing, and marketing ethics — as per the annual FBLA guidelines.",
+      "officialWebsite": "https://www.fbla.org/competitive-events/",
       "isOfficial": false,
-      "lastUpdated": "2026-02-23",
-      "seoTitle": "FBLA Intro to Marketing Mock Tests & Practice Exams",
-      "seoDescription": "Prepare for the FBLA Introduction to Marketing Concepts competitive event. Take free online practice tests covering the marketing mix, consumer behavior, and more."
+      "lastUpdated": "2026-04-30",
+      "seoTitle": "FBLA Intro Marketing 2026: Free Mock Tests, Syllabus & Prep Guide",
+      "seoDescription": "Ace the FBLA Introduction to Marketing Concepts event with free mock tests & 2026 study guide. Master the 4Ps, consumer behavior & market research. Prep now!",
+      "relatedBlogTags": [
+        "FBLA",
+        "Marketing Fundamentals",
+        "Business Competition",
+        "Exam Prep"
+      ],
+      "keyFacts": [
+        {
+          "label": "Format",
+          "value": "100-question multiple-choice objective test"
+        },
+        {
+          "label": "Duration",
+          "value": "75 minutes"
+        },
+        {
+          "label": "Level",
+          "value": "High school (FBLA); available at district, state (SLC), and national (NLC) competitions"
+        },
+        {
+          "label": "Scoring",
+          "value": "Number of correct answers (no negative marking)"
+        },
+        {
+          "label": "Reference",
+          "value": "Annual FBLA Competitive Events Guidelines + standard marketing textbooks"
+        }
+      ],
+      "eligibility": [
+        "Must be an active FBLA (Future Business Leaders of America) member at the high school level",
+        "Must be registered through the chapter advisor before the competition registration deadline",
+        "Must adhere to FBLA academic integrity, dress code, and event-specific guidelines as published in the annual Competitive Events Guide"
+      ],
+      "examPattern": [
+        {
+          "label": "Total Questions",
+          "value": "100 multiple-choice questions"
+        },
+        {
+          "label": "Duration",
+          "value": "75 minutes"
+        },
+        {
+          "label": "Scoring",
+          "value": "1 point per correct answer; highest score wins"
+        },
+        {
+          "label": "Negative Marking",
+          "value": "None"
+        },
+        {
+          "label": "Tie-breaking",
+          "value": "Ties broken by time taken or a separate tiebreaker round, per FBLA rules"
+        }
+      ],
+      "syllabusOverview": [
+        {
+          "subject": "Marketing Fundamentals",
+          "topics": "Definition and scope of marketing, Marketing concept and its evolution (production/sales/marketing/societal concepts), Role of marketing in the economy, Types of markets (B2C, B2B, C2C), Marketing environment (PESTEL analysis)"
+        },
+        {
+          "subject": "Marketing Mix — Product",
+          "topics": "Product classification (consumer vs. industrial goods), Product life cycle (PLC) stages, New product development (NPD) process, Branding (brand equity, brand loyalty, brand extensions), Packaging & labelling regulations, Product mix decisions (width, length, depth)"
+        },
+        {
+          "subject": "Marketing Mix — Price",
+          "topics": "Pricing objectives, Cost-based pricing (mark-up, break-even), Competition-based pricing, Value-based pricing, Psychological pricing strategies (odd-even, prestige, bundle), Price elasticity of demand, Discount & allowance strategies"
+        },
+        {
+          "subject": "Marketing Mix — Place (Distribution)",
+          "topics": "Distribution channel types (direct, indirect, multichannel), Channel members (wholesalers, retailers, distributors, agents), Logistics & supply chain management basics, Retailing types (brick-and-mortar vs. e-commerce), Channel conflict and management"
+        },
+        {
+          "subject": "Marketing Mix — Promotion",
+          "topics": "Integrated Marketing Communications (IMC), Advertising (types, media selection, AIDA model), Personal selling process, Sales promotion (coupons, contests, trade promotions), Public relations & publicity, Direct marketing, Social media & digital marketing fundamentals"
+        },
+        {
+          "subject": "Consumer Behavior & Market Research",
+          "topics": "Consumer decision-making process (5-stage model), Psychological influences (motivation, perception, learning, attitudes), Social influences (culture, family, reference groups), Market segmentation (demographic, psychographic, geographic, behavioral), Targeting and positioning (STP model), Primary vs. secondary research methods, Survey design & data analysis basics"
+        },
+        {
+          "subject": "Marketing Ethics & Legal Issues",
+          "topics": "FTC regulations on advertising and endorsements, Truth-in-advertising standards, Consumer protection laws, Privacy & data ethics in digital marketing, Social responsibility & cause marketing, Ethical decision-making in marketing"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How many questions are on the FBLA Introduction to Marketing Concepts test?",
+          "answer": "The event consists of 100 multiple-choice questions to be completed within 75 minutes. All questions are based on the topics listed in the current year's FBLA Competitive Events Guidelines."
+        },
+        {
+          "question": "What is the best way to prepare for the FBLA Intro to Marketing event?",
+          "answer": "Review the current FBLA Competitive Events Guidelines thoroughly, then study with an introductory marketing textbook (such as Kotler & Armstrong's 'Principles of Marketing'). Practice with previous FBLA tests and online mock exams, focusing on the 4Ps, consumer behavior, and market research topics."
+        },
+        {
+          "question": "Can students compete in Introduction to Marketing Concepts at the National Leadership Conference (NLC)?",
+          "answer": "Yes. Students who qualify at the State Leadership Conference (SLC) by finishing in a top position may advance to the National Leadership Conference (NLC) to compete nationally. The same objective-test format applies at all levels."
+        }
+      ]
     },
     "path": "configs/fbla-intro-marketing.json"
   },
@@ -274,42 +1245,254 @@
       "examId": "CPPB",
       "fullName": "Certified Professional Public Buyer",
       "shortName": "CPPB",
-      "category": "Public Procurement / Supply Chain",
+      "category": "Public Procurement Certification",
       "conductingBody": "Universal Public Procurement Certification Council (UPPCC)",
       "country": "USA / Canada / International",
-      "examType":[
+      "examType": [
         "Professional Certification",
-        "Objective Test",
+        "Computer-Based Test",
         "Multiple Choice"
       ],
-      "description": "A premier professional certification validating the competency of public-sector purchasing agents in non-managerial roles. The exam assesses knowledge across six domains based on the UPPCC Body of Knowledge and Competency (BoK-C), including regulatory compliance, the procurement life cycle, leadership, and business principles.",
+      "description": "The CPPB is a premier UPPCC certification validating the competency of public-sector purchasing professionals in non-managerial roles. It covers six domains: the procurement regulatory environment, procurement planning, the procurement process, contract administration, leadership, and business principles.",
       "officialWebsite": "https://uppcc.org",
       "isOfficial": false,
-      "lastUpdated": "2026-03-10",
-      "seoTitle": "CPPB Certification Mock Tests & Practice Exams",
-      "seoDescription": "Prepare for the UPPCC Certified Professional Public Buyer (CPPB) certification. Take online practice tests covering public procurement planning, sourcing, contract administration, and public purchasing law."
+      "lastUpdated": "2026-04-30",
+      "seoTitle": "CPPB Certification 2026: Free Mock Tests, Syllabus & UPPCC Prep",
+      "seoDescription": "Pass the CPPB exam with free mock tests & 2026 study guide. Master public procurement planning, sourcing, contract administration & UPPCC BoK-C. Start now!",
+      "relatedBlogTags": [
+        "CPPB",
+        "Public Procurement",
+        "UPPCC",
+        "Government Purchasing"
+      ],
+      "keyFacts": [
+        {
+          "label": "Frequency",
+          "value": "Year-round (computer-based testing at Pearson VUE/Prometric centres)"
+        },
+        {
+          "label": "Mode",
+          "value": "Computer-based at authorised testing centres"
+        },
+        {
+          "label": "Duration",
+          "value": "3 hours 30 minutes"
+        },
+        {
+          "label": "Total Questions",
+          "value": "150 multiple-choice questions"
+        },
+        {
+          "label": "Passing Score",
+          "value": "Scaled score of 70% or above"
+        },
+        {
+          "label": "Credential Renewal",
+          "value": "Every 5 years via continuing education units (CEUs)"
+        }
+      ],
+      "eligibility": [
+        "Must be an active member of NIGP: The Institute for Public Procurement",
+        "Must have a minimum of 2 years of public procurement-related work experience (1 year if holding a qualifying degree in procurement, public administration, or a related field)",
+        "All work experience must be in the public sector — government agencies, public institutions, or publicly funded organisations",
+        "Must agree to UPPCC's Code of Ethics and complete the formal application process before scheduling the exam"
+      ],
+      "examPattern": [
+        {
+          "label": "Total Questions",
+          "value": "150 multiple-choice questions"
+        },
+        {
+          "label": "Duration",
+          "value": "3 hours 30 minutes"
+        },
+        {
+          "label": "Domain 1 — Public Procurement Regulatory Environment",
+          "value": "~10% of exam (legal frameworks, ethics, compliance)"
+        },
+        {
+          "label": "Domain 2 — Procurement Planning",
+          "value": "~17% of exam (needs assessment, market research, method selection)"
+        },
+        {
+          "label": "Domain 3 — Procurement Process",
+          "value": "~26% of exam (solicitation, evaluation, award — largest domain)"
+        },
+        {
+          "label": "Domain 4 — Contract Administration",
+          "value": "~20% of exam (monitoring, amendments, disputes, closeout)"
+        },
+        {
+          "label": "Domain 5 — Leadership",
+          "value": "~14% of exam (team management, stakeholder relations, professional development)"
+        },
+        {
+          "label": "Domain 6 — Business Principles",
+          "value": "~13% of exam (finance, technology, sustainability, strategic sourcing)"
+        },
+        {
+          "label": "Negative Marking",
+          "value": "None"
+        }
+      ],
+      "syllabusOverview": [
+        {
+          "subject": "Public Procurement Regulatory Environment",
+          "topics": "Federal, state, and local procurement laws & regulations, Uniform Commercial Code (UCC) basics, Ethics in public procurement (NIGP Code of Ethics), Conflicts of interest & anti-corruption, Transparency and accountability requirements, Environmental & sustainability procurement mandates"
+        },
+        {
+          "subject": "Procurement Planning",
+          "topics": "Conducting needs assessments, Market research & industry analysis, Procurement method selection (IFB, RFP, RFQ, sole source), Make-or-buy decisions, Spend analysis, Risk identification & mitigation, Procurement calendar & timeline development"
+        },
+        {
+          "subject": "Procurement Process",
+          "topics": "Solicitation development (scope of work, specifications, T&Cs), Bid/proposal advertisement & distribution, Pre-bid conferences, Bid receipt & opening procedures, Evaluation criteria development (price, technical, best value), Scoring & award recommendation, Debriefing & protest handling, Emergency & cooperative purchasing"
+        },
+        {
+          "subject": "Contract Administration",
+          "topics": "Contract types (firm-fixed price, cost-reimbursable, IDIQ, BPA), Performance monitoring & KPI tracking, Invoicing, acceptance & payment processing, Contract modifications & change orders, Dispute resolution (negotiation, mediation, arbitration), Contractor default & remedies, Contract closeout & lessons learned, Records management"
+        },
+        {
+          "subject": "Leadership",
+          "topics": "Team building & motivational techniques, Cross-departmental stakeholder communication, Organizational change management, Coaching & mentoring procurement staff, Professional development & CPE requirements, Procurement policy development & communication"
+        },
+        {
+          "subject": "Business Principles",
+          "topics": "Government accounting & budgeting fundamentals, Total cost of ownership (TCO) analysis, E-procurement systems & automation (P2P systems), Strategic sourcing & category management, Supplier diversity programmes, Sustainability & green procurement, Data analytics in procurement, Value engineering"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What are the eligibility requirements for the CPPB exam?",
+          "answer": "Candidates must be active NIGP members with at least 2 years of public-sector procurement experience (or 1 year with a qualifying degree). All experience must be in a public agency or publicly funded organisation. Candidates must also agree to UPPCC's Code of Ethics and submit a formal application."
+        },
+        {
+          "question": "What is the passing score for the CPPB?",
+          "answer": "Candidates must achieve a scaled score equivalent to 70% or higher to pass the CPPB examination. Scores are reported as scaled scores, and UPPCC does not disclose raw score-to-scaled-score conversion tables."
+        },
+        {
+          "question": "How does the CPPB differ from the CPPO?",
+          "answer": "The CPPB (Certified Professional Public Buyer) is designed for non-managerial procurement professionals, focusing on operational buying activities. The CPPO (Certified Public Procurement Officer) is the higher-level certification targeting procurement managers and officers with more experience and leadership responsibilities. Both are awarded by UPPCC."
+        }
+      ]
     },
     "path": "configs/cppb.json"
   },
   "hosa-forensic-science": {
     "meta": {
-      "examId": "HOSA-FS",
-      "fullName": "HOSA Forensic Science Competitive Event",
-      "shortName": "HOSA Forensic Science",
-      "category": "Healthcare & Science Competitions / CTSO",
-      "conductingBody": "HOSA-Future Health Professionals",
-      "country": "International (Primary: USA / Canada)",
-      "examType":[
-        "Competitive Event",
+      "examId": "HOSA_FS",
+      "fullName": "HOSA Forensic Science — Health Science Competitive Event",
+      "shortName": "HOSA Forensic",
+      "category": "Health Science Competition (CTSO)",
+      "conductingBody": "HOSA — Future Health Professionals",
+      "country": "USA / International",
+      "examType": [
+        "Academic Competition",
         "Objective Test",
-        "Written Case Study"
+        "Written Case Study",
+        "Team Event"
       ],
-      "description": "A premier competitive event by HOSA that evaluates a two-person team's ability to apply forensic and medical knowledge to solve a simulated problem. The event consists of a Round 1 50-question multiple-choice objective test and a Round 2 written case study analysis based on autopsy data and crime scene evidence.",
-      "officialWebsite": "https://hosa.org",
+      "description": "HOSA Forensic Science is a two-person team competitive event that evaluates the ability to apply forensic and medical science knowledge to simulated investigations. Round 1 is a 50-question MCQ test; Round 2 requires written analysis of an autopsy or crime scene case study.",
+      "officialWebsite": "https://hosa.org/competitive-events/",
       "isOfficial": false,
-      "lastUpdated": "2026-03-21",
-      "seoTitle": "HOSA Forensic Science Mock Tests, Practice Exams",
-      "seoDescription": "Prepare for the HOSA Forensic Science competitive event. Take online practice tests covering crime scene investigation, toxicology, forensic anthropology, entomology, and DNA analysis to ace Round 1 Mcqs."
+      "lastUpdated": "2026-04-30",
+      "seoTitle": "HOSA Forensic Science 2026: Free Mock Tests, Syllabus & Event Prep",
+      "seoDescription": "Ace HOSA Forensic Science 2026 with free mock tests & full event syllabus. Master DNA analysis, toxicology, forensic pathology & crime scene investigation!",
+      "relatedBlogTags": [
+        "HOSA",
+        "Forensic Science",
+        "Health Science Competition",
+        "Exam Prep"
+      ],
+      "keyFacts": [
+        {
+          "label": "Round 1",
+          "value": "50-question multiple-choice test (60 minutes)"
+        },
+        {
+          "label": "Round 2",
+          "value": "Written case study analysis (team of 2 participants)"
+        },
+        {
+          "label": "Team Size",
+          "value": "2 participants per team"
+        },
+        {
+          "label": "Reference",
+          "value": "Annual HOSA Competitive Events Guidelines (updated each year)"
+        },
+        {
+          "label": "Level",
+          "value": "State Leadership Conference (SLC) and National Leadership Conference (NLC)"
+        }
+      ],
+      "eligibility": [
+        "Must be an active HOSA — Future Health Professionals member (secondary, post-secondary, or collegiate level)",
+        "Forensic Science is a team event: exactly 2 participants must register and compete together",
+        "Must comply with the current year's HOSA Competitive Events Guidelines and HOSA dress code and academic integrity policies"
+      ],
+      "examPattern": [
+        {
+          "label": "Round 1 — Objective Test",
+          "value": "50 multiple-choice questions, 60 minutes; individual scores may be averaged or combined per HOSA rules"
+        },
+        {
+          "label": "Round 2 — Case Study",
+          "value": "Team receives a simulated forensic case (autopsy report, crime scene data, or toxicology report); must produce a written analysis/report within the allotted time"
+        },
+        {
+          "label": "Scoring",
+          "value": "Combined score from Round 1 (objective) + Round 2 (case study quality, accuracy, completeness)"
+        },
+        {
+          "label": "Negative Marking",
+          "value": "None for Round 1"
+        }
+      ],
+      "syllabusOverview": [
+        {
+          "subject": "Forensic Pathology & Death Investigation",
+          "topics": "Cause vs. manner of death (natural, accidental, homicide, suicide, undetermined), Autopsy procedures & findings, Postmortem changes (livor mortis, rigor mortis, algor mortis, decomposition), Blunt force trauma, sharp force trauma & gunshot wounds, Asphyxia (strangulation, drowning, smothering), Sudden Infant Death Syndrome (SIDS)"
+        },
+        {
+          "subject": "Toxicology",
+          "topics": "Drug classification (stimulants, depressants, hallucinogens, opioids), Toxidromes (recognizing drug effect patterns), Blood, urine & vitreous humor analysis, Drug metabolism & pharmacokinetics, Alcohol metabolism (BAC, Widmark formula, retrograde extrapolation), Poisoning (carbon monoxide, cyanide, heavy metals), Toxicological report interpretation"
+        },
+        {
+          "subject": "DNA, Serology & Genetics",
+          "topics": "DNA structure & the Central Dogma, DNA profiling (STR analysis), CODIS database & DNA comparison, Blood typing (ABO & Rh system), Serology testing (Luminol, Kastle-Meyer, precipitin tests), Chain of custody in biological evidence handling, Touch DNA & low-copy-number analysis"
+        },
+        {
+          "subject": "Forensic Anthropology & Entomology",
+          "topics": "Skeletal analysis (sex, age, stature, ancestry determination), Antemortem vs. perimortem vs. postmortem bone trauma, Postmortem interval (PMI) estimation via insect succession (blow flies, beetles), Forensic botany basics (plant growth over remains), Taphonomy"
+        },
+        {
+          "subject": "Crime Scene Investigation & Trace Evidence",
+          "topics": "Crime scene documentation (photography, sketching, notes), Evidence collection & packaging protocols, Chain of custody documentation, Fingerprint analysis (latent, patent, plastic prints; AFIS), Locard's Exchange Principle, Fiber & hair microscopy, Glass fracture analysis, Tool mark examination, Tire & shoe tread impressions"
+        },
+        {
+          "subject": "Questioned Documents & Ballistics",
+          "topics": "Handwriting analysis (comparison, forgery detection), Ink & paper analysis (ESDA, chromatography), Firearm & ammunition identification, Gunshot residue (GSR) testing, Trajectory analysis, Firearms databases (NIBIN)"
+        },
+        {
+          "subject": "Forensic Psychology & Other Applications",
+          "topics": "Criminal profiling basics (organised vs. disorganised offenders), Victimology, Eyewitness testimony reliability & cognitive biases, Forensic interviewing techniques, Digital forensics overview (metadata, device logs), Fingerprint databases & biometric identification"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Is HOSA Forensic Science an individual or team event?",
+          "answer": "HOSA Forensic Science is strictly a team event with exactly two participants per team. Both members collaborate on the Round 2 written case study analysis. Round 1 objective test performance contributes to the overall team score."
+        },
+        {
+          "question": "What topics should I prioritise for the Round 1 objective test?",
+          "answer": "Focus heavily on forensic pathology (cause & manner of death, PMI), toxicology (drug metabolism, BAC calculations), DNA/serology analysis, and crime scene investigation procedures. These areas tend to have the highest question density in HOSA Forensic Science tests."
+        },
+        {
+          "question": "Where can I find official study materials for HOSA Forensic Science?",
+          "answer": "The official HOSA Competitive Events Guidelines (released annually at hosa.org) list the topic areas and recommended references. Common references include forensic science textbooks by Richard Saferstein ('Criminalistics: An Introduction to Forensic Science') and Henry Lee, as well as HOSA's own practice resources."
+        }
+      ]
     },
     "path": "configs/hosa-forensic-science.json"
   },
@@ -318,41 +1501,239 @@
       "examId": "ACT",
       "fullName": "ACT — American College Testing",
       "shortName": "ACT",
-      "category": "Undergraduate Entrance",
+      "category": "Undergraduate College Admissions",
       "conductingBody": "ACT, Inc.",
-      "country": "USA",
+      "country": "USA (accepted globally)",
       "examType": [
-        "Standardized Test",
-        "Undergraduate Entrance"
+        "Standardized Admissions Test",
+        "Undergraduate Entrance",
+        "Paper-Based / Computer-Based"
       ],
-      "description": "The ACT is a standardized test used for college admissions in the United States. It covers four academic skill areas: English, mathematics, reading, and scientific reasoning.",
+      "description": "The ACT is a standardised college admissions test widely accepted by all US universities and colleges. It measures academic readiness across English, Mathematics, Reading, and Science Reasoning, with an optional Writing section. Scored on a 1–36 composite scale.",
       "officialWebsite": "https://www.act.org",
       "isOfficial": true,
-      "lastUpdated": "2026-04-19",
-      "seoTitle": "ACT Free Mock Tests & Practice Exams Online | ExamOven",
-      "seoDescription": "Prepare for the ACT with free online practice tests. Master English, Math, and more with realistic, timed mock exams to boost your college admission scores."
+      "lastUpdated": "2026-04-30",
+      "seoTitle": "ACT 2026: Free Mock Tests, Syllabus & College Admissions Prep Guide",
+      "seoDescription": "Boost your ACT composite score with free mock tests & 2026 study guide. Practice English, Math, Reading & Science with timed simulations for college success!",
+      "relatedBlogTags": [
+        "ACT",
+        "College Admissions",
+        "Standardized Testing",
+        "Exam Prep"
+      ],
+      "keyFacts": [
+        {
+          "label": "Frequency",
+          "value": "7 national test dates per year (typically Sep, Oct, Dec, Feb, Apr, Jun, Jul)"
+        },
+        {
+          "label": "Mode",
+          "value": "Paper-based at test centres; computer-based option available at select sites"
+        },
+        {
+          "label": "Duration",
+          "value": "2 hours 55 minutes (without Writing); 3 hours 35 minutes (with optional Writing)"
+        },
+        {
+          "label": "Scoring",
+          "value": "Composite score 1–36 (average of 4 section scores, each 1–36)"
+        },
+        {
+          "label": "Score Reporting",
+          "value": "Scores available approximately 2–8 weeks after test date; can be sent to up to 4 colleges for free on test day"
+        }
+      ],
+      "eligibility": [
+        "No formal eligibility requirements — the ACT is open to any student regardless of grade level, age, or nationality",
+        "Primarily taken by US high school students in grades 10–12 applying to undergraduate programmes",
+        "International students may register and take the ACT at approved international test centres worldwide",
+        "There is no limit on the number of times a student may take the ACT; most students take it 2–3 times for score improvement"
+      ],
+      "examPattern": [
+        {
+          "label": "English",
+          "value": "75 questions | 45 minutes | Tests: Usage/Mechanics, Rhetorical Skills"
+        },
+        {
+          "label": "Mathematics",
+          "value": "60 questions | 60 minutes | Tests: Pre-Algebra through Trigonometry"
+        },
+        {
+          "label": "Reading",
+          "value": "40 questions | 35 minutes | 4 passages: Literary Narrative, Social Sciences, Humanities, Natural Sciences"
+        },
+        {
+          "label": "Science",
+          "value": "40 questions | 35 minutes | Tests: Data Representation, Research Summaries, Conflicting Viewpoints"
+        },
+        {
+          "label": "Writing (Optional)",
+          "value": "1 essay prompt | 40 minutes | Scored 2–12 (does not affect composite score)"
+        },
+        {
+          "label": "Negative Marking",
+          "value": "None — wrong answers do not penalise the score (guess freely)"
+        }
+      ],
+      "syllabusOverview": [
+        {
+          "subject": "English",
+          "topics": "Punctuation (commas, apostrophes, colons, semicolons), Grammar & Usage (subject-verb agreement, pronoun-antecedent, verb tense, modifiers), Sentence Structure (run-ons, fragments, parallelism), Rhetorical Skills: Strategy (relevance, purpose, audience), Organisation (transitions, intro/conclusion, paragraph order), Style (word choice, tone, conciseness, redundancy)"
+        },
+        {
+          "subject": "Mathematics",
+          "topics": "Pre-Algebra (fractions, decimals, percentages, ratios, integers, exponents), Elementary Algebra (substitution, properties of exponents, factoring, linear equations), Intermediate Algebra (quadratics, absolute value, sequences, radical expressions, complex numbers), Coordinate Geometry (slope, distance, midpoint, linear/quadratic graphs, conics), Plane Geometry (angles, triangles, quadrilaterals, circles, volume/area/perimeter, proofs), Trigonometry (SOHCAHTOA, unit circle, trig identities, equations)"
+        },
+        {
+          "subject": "Reading",
+          "topics": "Literary Narrative / Prose Fiction: Character, plot, tone, theme analysis; Social Sciences (history, economics, sociology, political science passages): Main idea, author's purpose, inference; Humanities (art, music, architecture, philosophy passages): Vocabulary in context, comparative analysis; Natural Sciences (biology, chemistry, physics, earth science passages): Detail, inference, generalisation"
+        },
+        {
+          "subject": "Science Reasoning",
+          "topics": "Data Representation: Interpreting graphs, tables, charts, and figures from scientific experiments; Research Summaries: Evaluating experimental design, hypotheses, procedures, and conclusions; Conflicting Viewpoints: Analysing two or more scientists' differing explanations of the same phenomenon (covers Biology, Chemistry, Physics, Earth/Space Science)"
+        },
+        {
+          "subject": "Writing (Optional)",
+          "topics": "Persuasive/analytical essay responding to a given societal/educational prompt with three provided perspectives; Evaluated on: Ideas & Analysis, Development & Support, Organisation, Language Use & Conventions; Score 2–12 (does not impact composite score)"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Is the ACT Writing (Essay) section required for college admission?",
+          "answer": "The Writing section is optional. However, some colleges and universities require or recommend it for admission or academic placement. Students should check each target school's specific requirements. When in doubt, it is generally advisable to complete the Writing section."
+        },
+        {
+          "question": "What is the average ACT score in the USA?",
+          "answer": "The national average ACT composite score is approximately 19–20 out of 36. Competitive universities typically look for scores of 28–34+. For the most selective schools (top Ivy League, MIT, Stanford), the middle 50% of admitted students often score 34–36."
+        },
+        {
+          "question": "How many times can I take the ACT, and which score will colleges see?",
+          "answer": "There is no official limit on ACT attempts. With ACT's Score Choice policy, students can choose which test dates' scores to send to colleges. Most colleges accept the Superscore (highest section scores across multiple test dates combined into one composite), making multiple attempts strategically advantageous."
+        },
+        {
+          "question": "What is the difference between the ACT and the SAT?",
+          "answer": "Both are college admissions tests accepted by all US universities. Key differences: the ACT has a dedicated Science section; the SAT has a stronger reading/evidence-based focus. The ACT allows calculators throughout Math; the SAT has a no-calculator math section. Neither penalises for wrong answers. Most students perform comparably on both — taking a practice test for each is recommended to find your best fit."
+        }
+      ]
     },
     "path": "configs/act.json"
   },
   "examen_médical_et_dentaire": {
     "meta": {
-      "examId": "concours_médical_et_dentaire_belgique",
+      "examId": "CONCOURS_MD_BE",
       "fullName": "Concours d'entrée et d'accès aux études de premier cycle en sciences médicales et dentaires",
       "shortName": "Concours MD Belgique",
-      "category": "Médecine et Dentisterie",
-      "conductingBody": "ARES - Académie de Recherche et d'Enseignement Supérieur",
+      "category": "Médecine et Dentisterie — Concours d'entrée",
+      "conductingBody": "ARES — Académie de Recherche et d'Enseignement Supérieur (Fédération Wallonie-Bruxelles)",
       "country": "Belgique",
       "examType": [
         "Concours d'entrée",
         "Sciences Médicales",
-        "Sciences Dentaires"
+        "Sciences Dentaires",
+        "Épreuve écrite"
       ],
-      "description": "Concours annuel centralisé en Fédération Wallonie-Bruxelles évaluant les connaissances scientifiques (Bio, Chim, Phys, Math) et les capacités de communication et d'analyse critique.",
+      "description": "Concours annuel centralisé organisé par l'ARES en Fédération Wallonie-Bruxelles pour l'accès aux études de médecine et de médecine dentaire. Il évalue les connaissances scientifiques (Biologie, Chimie, Physique, Mathématiques) et les compétences en communication et analyse critique.",
       "officialWebsite": "https://www.concoursmd.be",
       "isOfficial": true,
-      "lastUpdated": "2026-04-23",
-      "seoTitle": "Concours d'entrée Médecine et Dentisterie Belgique 2026 - Syllabus et Infos",
-      "seoDescription": "Préparez le concours d'entrée en médecine et dentisterie de Belgique. Retrouvez le programme officiel détaillé 2026, les dates clés et les modalités d'inscription."
+      "lastUpdated": "2026-04-30",
+      "seoTitle": "Concours Médecine Belgique 2026 : Tests Gratuits, Syllabus & Guide",
+      "seoDescription": "Préparez le concours d'entrée en médecine & dentisterie de Belgique (ARES) avec des tests gratuits & le syllabus 2026. Maîtrisez Bio, Chimie, Physique & Maths!",
+      "relatedBlogTags": [
+        "Concours Médecine Belgique",
+        "ARES FWB",
+        "Études de Médecine",
+        "Préparation Concours"
+      ],
+      "keyFacts": [
+        {
+          "label": "Fréquence",
+          "value": "Deux sessions par an : session d'été (juillet/août) et session de janvier"
+        },
+        {
+          "label": "Mode",
+          "value": "Épreuve écrite sur papier dans des salles d'examen officielles"
+        },
+        {
+          "label": "Durée totale",
+          "value": "Environ 4 à 5 heures (Partie 1 + Partie 2)"
+        },
+        {
+          "label": "Langue",
+          "value": "Français uniquement"
+        },
+        {
+          "label": "Validité du résultat",
+          "value": "Le classement est valable pour l'année académique suivant la session"
+        }
+      ],
+      "eligibility": [
+        "Être titulaire ou être en cours d'obtention du Certificat d'Enseignement Secondaire Supérieur (CESS) ou d'un diplôme équivalent reconnu",
+        "Les candidats titulaires d'un diplôme étranger doivent obtenir une équivalence de diplôme auprès de la Fédération Wallonie-Bruxelles avant le jour du concours",
+        "L'inscription au concours doit être effectuée avant la date limite fixée chaque année par l'ARES via le portail officiel concoursmd.be",
+        "Il n'y a pas de limite d'âge ni de limite au nombre de tentatives autorisées"
+      ],
+      "examPattern": [
+        {
+          "label": "Partie 1 — Épreuve de connaissances scientifiques",
+          "value": "100 questions QCM : Biologie (50Q) | Chimie (20Q) | Physique (20Q) | Mathématiques (10Q)"
+        },
+        {
+          "label": "Partie 2 — Communication et analyse critique",
+          "value": "Questions portant sur la compréhension de textes, la synthèse, l'argumentation et le raisonnement clinique/éthique"
+        },
+        {
+          "label": "Format des questions",
+          "value": "QCM (Partie 1) et questions ouvertes/réponses courtes (Partie 2)"
+        },
+        {
+          "label": "Notation",
+          "value": "Classement final basé sur le score combiné des deux parties ; pas de note minimale fixe"
+        },
+        {
+          "label": "Marquage négatif",
+          "value": "Variable selon l'année — toujours vérifier les instructions officielles de l'ARES"
+        }
+      ],
+      "syllabusOverview": [
+        {
+          "subject": "Biologie",
+          "topics": "Biologie cellulaire et moléculaire (structure cellulaire, membrane plasmique, organites), ADN, réplication, transcription et traduction (dogme central), Génétique mendélienne et moléculaire (mutations, hérédité, groupes sanguins), Mitose et méiose, Métabolisme (glycolyse, cycle de Krebs, chaîne respiratoire, photosynthèse), Physiologie humaine (systèmes cardiovasculaire, respiratoire, digestif, rénal, nerveux, endocrinien, immunitaire), Microbiologie & virologie de base, Histologie et embryologie de base"
+        },
+        {
+          "subject": "Chimie",
+          "topics": "Structure de la matière (atomes, ions, tableau périodique, liaisons chimiques), Stœchiométrie et équilibres chimiques, Thermodynamique chimique (enthalpie, entropie, énergie libre de Gibbs), Cinétique chimique (vitesse de réaction, catalyse), Équilibres acido-basiques (pH, pKa, tampons), Chimie organique : fonctions chimiques (alcools, aldéhydes, cétones, acides carboxyliques, amines, esters), Nomenclature IUPAC, Réactivité et mécanismes réactionnels de base, Biomolécules (glucides, lipides, acides aminés, protéines)"
+        },
+        {
+          "subject": "Physique",
+          "topics": "Mécanique : cinématique (MRU, MRUA), dynamique (lois de Newton, frottements), travail, énergie et puissance, Mécanique des fluides (pression, poussée d'Archimède, équation de Bernoulli), Thermodynamique : lois de la thermodynamique, transferts thermiques, Électricité et magnétisme : circuits électriques (loi d'Ohm, Kirchhoff), champ électrique et magnétique, induction, Optique géométrique (réflexion, réfraction, lentilles, œil), Ondes : acoustique, lumière, spectre électromagnétique, Physique moderne : radioactivité, rayonnements ionisants, applications médicales"
+        },
+        {
+          "subject": "Mathématiques",
+          "topics": "Algèbre : équations et inéquations (1er et 2nd degré), systèmes d'équations, polynômes, Fonctions et analyse : limites, continuité, dérivation (règles, applications), intégration (calcul d'aires), Trigonométrie : fonctions trigonométriques, identités, équations, Géométrie analytique : droites, coniques (cercle, ellipse, parabole), vecteurs dans le plan, Statistiques et probabilités : statistique descriptive, probabilités (loi binomiale, normale), espérance et variance"
+        },
+        {
+          "subject": "Communication et analyse critique",
+          "topics": "Compréhension et synthèse de textes scientifiques et médicaux, Analyse d'arguments et détection de raisonnements fallacieux, Résolution de situations éthiques dans un contexte médical, Communication empathique et professionnelle, Raisonnement clinique de base et prise de décision, Structuration d'une argumentation écrite claire et cohérente"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Combien de fois puis-je passer le concours par an ?",
+          "answer": "Le concours est organisé deux fois par an : une session en été (généralement en juillet-août) et une session en janvier. Les candidats peuvent se présenter aux deux sessions la même année académique, leur meilleur résultat étant retenu."
+        },
+        {
+          "question": "Y a-t-il une note de passage minimale au concours ?",
+          "answer": "Il n'existe pas de note de passage absolue fixe. Les candidats sont classés selon leur score total, et l'admission dépend du classement obtenu par rapport au nombre de places disponibles dans les facultés. Le classement varie donc d'une session à l'autre en fonction du niveau général des candidats."
+        },
+        {
+          "question": "Le concours est-il le même pour la médecine et la médecine dentaire ?",
+          "answer": "Oui, en Fédération Wallonie-Bruxelles, le même concours d'entrée (organisé par l'ARES) donne accès aux études de médecine et de médecine dentaire. Les candidats indiquent leur choix de filière lors de l'inscription, et le classement est établi séparément pour chaque filière."
+        },
+        {
+          "question": "Comment se préparer efficacement au concours ?",
+          "answer": "La préparation idéale combine une révision approfondie des mathématiques et sciences de la dernière année de l'enseignement secondaire (en particulier biologie, chimie et physique), des exercices sur les QCM de sessions antérieures disponibles sur concoursmd.be, et la pratique de textes d'analyse critique. Des cours préparatoires privés et les sessions de préparation organisées par certaines universités francophones belges sont également très utiles."
+        }
+      ]
     },
     "path": "configs/examen_médical_et_dentaire.json"
   }
