@@ -1736,5 +1736,146 @@
       ]
     },
     "path": "configs/examen_médical_et_dentaire.json"
+  },
+  "lso_paralegal": {
+    "meta": {
+      "examId": "LSO_P1",
+      "fullName": "LSO Paralegal Licensing Examination (P1)",
+      "shortName": "LSO P1 Exam",
+      "category": "Professional Licensing — Legal",
+      "conductingBody": "Law Society of Ontario (LSO)",
+      "country": "Canada (Ontario only)",
+      "examType": [
+        "Professional Licensing Examination",
+        "Competency-Based Assessment",
+        "Computer-Based (In-Person CBT)"
+      ],
+      "description": "The LSO Paralegal Licensing Examination (P1) is the mandatory competency-based assessment required to obtain a Class P1 licence to practise as an independent paralegal in Ontario, Canada. It tests the ability to apply law and professional judgment across ethics, civil litigation, criminal law, and practice management. The exam is open-book and conducted at designated Computer-Based Testing centres.",
+      "officialWebsite": "https://lso.ca",
+      "isOfficial": true,
+      "lastUpdated": "2026-05-02",
+      "seoTitle": "LSO Paralegal Licensing Exam 2026: Fees, Dates, Format & How to Pass",
+      "seoDescription": "Complete guide to the 2026 LSO P1 Paralegal Licensing Exam. Confirmed fees ($1,460 + HST), exam dates, format, permitted materials, and a proven study strategy.",
+      "relatedBlogTags": [
+        "LSO",
+        "Paralegal",
+        "P1 Exam",
+        "Law Society of Ontario",
+        "Ontario Licensing",
+        "Legal Exam Prep"
+      ],
+      "keyFacts": [
+        {
+          "label": "Frequency",
+          "value": "3 sittings per year (Summer: June, Autumn: October, Winter: January–February)"
+        },
+        {
+          "label": "Mode",
+          "value": "In-person Computer-Based Testing (CBT) at designated centres only — no remote or online proctoring"
+        },
+        {
+          "label": "Duration",
+          "value": "7 hours total: two 3.5-hour sessions separated by a 30-minute break"
+        },
+        {
+          "label": "Scoring",
+          "value": "No fixed pass percentage; pass mark set per sitting using the modified Angoff method"
+        },
+        {
+          "label": "Exam Fee (2026)",
+          "value": "$1,460 + HST (increased from $1,075 in the previous cycle); application fee $160 + HST additional"
+        },
+        {
+          "label": "Score Reporting",
+          "value": "Subject-area performance feedback provided via LSO Connects portal after results are released"
+        }
+      ],
+      "eligibility": [
+        "Must be at least 18 years of age",
+        "Must have graduated from an LSO-accredited paralegal diploma programme (typically 1–2 years at an Ontario college)",
+        "Must satisfy the Good Character requirement under the Law Society Act, including disclosure of any prior criminal charges or findings",
+        "Internationally trained legal professionals are not exempt and must follow the standard paralegal licensing process; bridging pathway options are available via the Office of the Fairness Commissioner on the LSO website",
+        "There is no stated limit on the number of times a candidate may attempt the exam; subject-area feedback is provided to support repeat writers"
+      ],
+      "examPattern": [
+        {
+          "label": "Professional Responsibility & Ethics",
+          "value": "High question volume | Tests: Paralegal Rules of Conduct, conflicts of interest, confidentiality, privilege, withdrawal from representation, client relations and retainers"
+        },
+        {
+          "label": "Practice Management & Trust Accounting",
+          "value": "High question volume | Tests: Trust account bookkeeping and calculations, client identification, file management, retainer administration, technology and data security"
+        },
+        {
+          "label": "Civil Litigation, Small Claims Court & Administrative Law",
+          "value": "Tests: Rules of the Small Claims Court, statutes of limitations, Statutory Powers Procedure Act (SPPA), tribunal practice at LTB, HRTO, and WSIB/WSIAT"
+        },
+        {
+          "label": "Criminal & Quasi-Criminal Law",
+          "value": "Tests: Provincial Offences Act (Parts I and III), Criminal Code summary conviction offences, Charter of Rights and Freedoms, sentencing principles and appeals"
+        },
+        {
+          "label": "Total Questions",
+          "value": "Approximately 160 multiple-choice questions (exact count not published in advance by the LSO)"
+        },
+        {
+          "label": "Negative Marking",
+          "value": "None — unanswered questions score zero; educated guessing is always advisable"
+        },
+        {
+          "label": "Permitted Materials",
+          "value": "Open-book: printed LSO-prepared study materials and a personal or third-party index (bound, e.g., in a 3-ring binder); no digital devices permitted"
+        }
+      ],
+      "syllabusOverview": [
+        {
+          "subject": "Professional Responsibility & Ethics",
+          "topics": "Paralegal Rules of Conduct and Guidelines in full; mandatory vs. discretionary obligations ('shall' vs. 'may'); professionalism, integrity, and civility; establishing and managing client retainers; identifying and resolving actual and potential conflicts of interest; solicitor-client privilege and confidentiality obligations; withdrawal from representation (mandatory and optional); duties to the tribunal and the public"
+        },
+        {
+          "subject": "Practice Management & Trust Accounting",
+          "topics": "Trust account rules and bookkeeping (including numerical calculations); general account vs. trust account distinctions; handling and recording client funds; client identification and verification requirements (FINTRAC obligations); file opening, management, and closing procedures; retainer agreements and billing practices; professional liability and errors-and-omissions obligations; technology use, data security, and cybersecurity obligations"
+        },
+        {
+          "subject": "Civil Litigation, Small Claims Court & Administrative Law",
+          "topics": "Small Claims Court Rules: pleadings (plaintiff's claim, defence, defendant's claim), motions, settlement conferences, trial procedure, and enforcement of orders; limitation periods under the Limitations Act 2002; Statutory Powers Procedure Act (SPPA): procedural fairness, notice, hearings, and tribunal decisions; Landlord and Tenant Board (LTB): Residential Tenancies Act, applications, hearings, and orders; Human Rights Tribunal of Ontario (HRTO): grounds of discrimination, application process; WSIB and WSIAT: appeals and benefit entitlements"
+        },
+        {
+          "subject": "Criminal & Quasi-Criminal Law",
+          "topics": "Provincial Offences Act — Part I (Certificate of Offence procedure), Part III (Information procedure), trials, appeals, and sentencing; Criminal Code of Canada: summary conviction offences within paralegal scope of practice, bail hearings, plea proceedings, sentencing submissions; Canadian Charter of Rights and Freedoms: ss. 7–14 rights (life, liberty, security; unreasonable search and seizure; arbitrary detention; right to counsel; right to silence; trial within reasonable time; right against self-incrimination); remedies under s. 24; sentencing principles and conditional discharges"
+        },
+        {
+          "subject": "Cross-Cutting Application Skills",
+          "topics": "Scenario-based application of law across all subject areas; identifying the legally correct course of action where multiple options appear plausible; reading exam questions strategically (question-first, then fact pattern); managing time across 160+ questions over a 7-hour sitting; navigating printed materials efficiently under time pressure"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How much does the LSO Paralegal Licensing Exam cost in 2026?",
+          "answer": "The exam fee for the 2026–2027 licensing year is $1,460 + HST, a significant increase from $1,075 in the previous cycle. An additional non-refundable application fee of $160 + HST applies. Always verify the current fee schedule on the LSO Connects portal before submitting payment."
+        },
+        {
+          "question": "Is the LSO P1 exam available online?",
+          "answer": "No. As of 2026, the exam is conducted exclusively in person at designated Computer-Based Testing (CBT) centres in Ontario. Remote and online proctoring options are not offered for this examination."
+        },
+        {
+          "question": "What is the passing score for the LSO P1 exam?",
+          "answer": "There is no fixed percentage pass mark. The LSO uses the modified Angoff method, where a standard-setting panel of practising paralegals reviews each sitting and sets the pass mark based on the assessed difficulty of that specific exam. This means a harder exam does not automatically produce a higher failure rate."
+        },
+        {
+          "question": "What materials can I bring into the P1 exam?",
+          "answer": "The exam is open-book. Candidates may bring printed copies of the official LSO-prepared 2026 Paralegal Licensing Study Materials and a personal or third-party index (e.g., from Emond Publishing or PPA Prep), all bound in a 3-ring binder. No digital devices, phones, tablets, or unauthorised notes are permitted."
+        },
+        {
+          "question": "How many times can I sit the LSO Paralegal Licensing Exam?",
+          "answer": "The LSO does not impose a stated limit on the number of attempts. After each unsuccessful attempt, candidates receive subject-area performance feedback through their LSO Connects portal to help target preparation for the next sitting."
+        },
+        {
+          "question": "Can internationally trained legal professionals apply for a paralegal licence in Ontario?",
+          "answer": "Yes. Internationally trained candidates are not exempt from the P1 exam and must follow the standard paralegal licensing process. Bridging pathway options specific to international backgrounds are available through the Office of the Fairness Commissioner section of the LSO website."
+        }
+      ]
+    },
+    "path": "configs/lso-paralegal.json"
   }
 }
