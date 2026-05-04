@@ -15,6 +15,11 @@
   "chem101_Kinetics": "configs/chemistry.json",
   "chem101_Redox_Electrochemistry": "configs/chemistry.json",
   "chem101_Lab_Chemistry": "configs/chemistry.json",
+  "pjok_k5_bab1": "configs/pjok-kelas-5.json",
+  "pjok_k5_bab2": "configs/pjok-kelas-5.json",
+  "pjok_k5_bab3": "configs/pjok-kelas-5.json",
+  "pjok_k5_bab4": "configs/pjok-kelas-5.json",
+  "pjok_k5_bab5": "configs/pjok-kelas-5.json",
   "nimcet_2022": "configs/nimcet.json",
   "nimcet_2023": "configs/nimcet.json",
   "nimcet_2024": "configs/nimcet.json",
@@ -48,11 +53,6 @@
   "bece_basicScience": "configs/bece.json",
   "bece_Technology&ComputerScience": "configs/bece.json",
   "bece_physicalEducation": "configs/bece.json",
-  "pjok_k5_bab1": "configs/pjok-kelas-5.json",
-  "pjok_k5_bab2": "configs/pjok-kelas-5.json",
-  "pjok_k5_bab3": "configs/pjok-kelas-5.json",
-  "pjok_k5_bab4": "configs/pjok-kelas-5.json",
-  "pjok_k5_bab5": "configs/pjok-kelas-5.json",
   "hosa_nutrition_physiology": "configs/hosa-nutrition.json",
   "hosa_nutrition_macronutrients": "configs/hosa-nutrition.json",
   "hosa_nutrition_vitamins_minerals": "configs/hosa-nutrition.json",
@@ -82,5 +82,6 @@
   "act_maths_p2": "configs/act.json",
   "examen_médical_et_dentaire_2017": "configs/examen_médical_et_dentaire.json",
   "examen_médical_et_dentaire_2019": "configs/examen_médical_et_dentaire.json",
-  "examen_médical_et_dentaire_2022": "configs/examen_médical_et_dentaire.json"
+  "examen_médical_et_dentaire_2022": "configs/examen_médical_et_dentaire.json",
+  "lso_paralegal_ethics_practice_1": "configs/lso-paralegal.json"
 }

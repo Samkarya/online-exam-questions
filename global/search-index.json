@@ -160,6 +160,56 @@
     "year": "Practice Questions"
   },
   {
+    "id": "pjok_k5_bab1",
+    "title": "Bab 1: Eksplorasi Gerak",
+    "description": "### Bab 1: Eksplorasi Gerak\n\nModul latihan ini mencakup materi dari Kurikulum Merdeka PJOK Kelas 5 SD. \n\n**Materi Utama:**\n*   **Aktivitas Jalan dan Lari:** Permainan Jalan Lompat Ceria, Lari Kompas, dan Selip Rintangan.\n*   **Aktivitas Lompat dan Loncat:** Lari Loncat Rintangan dan Zona Petualangan.\n*   **Melempar dan Menangkap:** Bola besar dan kecil dengan berbagai variasi jarak.\n*   **Menendang dan Menghentikan:** Teknik dasar sepak bola mini dan bola tangan.\n*   **Aktivitas Air:** Keselamatan di air dan estafet bola di kolam.\n\n*Gunakan latihan ini untuk memperdalam pemahaman strategi dan teknik gerak dasar.*",
+    "short_description": "Latihan soal mengenai penyesuaian dan modifikasi keterampilan gerak dasar (jalan, lari, lompat, loncat) serta koordinasi mata, tangan, dan kaki.",
+    "path": "indonesia/Sekolah/kelas5/Penjasorkes/eksplorasiGerak.json",
+    "suitePath": "configs/pjok-kelas-5.json",
+    "category": "Unit 1",
+    "year": 2026
+  },
+  {
+    "id": "pjok_k5_bab2",
+    "title": "Bab 2: Berpikir Cerdas Bergerak Taktis",
+    "description": "### Bab 2: Berpikir Cerdas Bergerak Taktis\n\nModul ini berfokus pada pemahaman kognitif dalam bergerak (movement concepts).\n\n**Konsep yang Dipelajari:**\n*   **Kesadaran Ruang:** Lokasi, arah, tingkatan, jalur, dan jarak.\n*   **Kesadaran Usaha:** Pengaturan tenaga (kuat/lemah) dan waktu (cepat/lambat).\n*   **Kesadaran Hubungan:** Interaksi tubuh dengan objek (alat) dan orang lain.\n*   **Strategi Gerak:** Perencanaan dan adaptasi dalam permainan invasi, lapangan, dan net.\n\n*Latihan ini membantu siswa memahami mengapa dan bagaimana mereka harus bergerak secara taktis.*",
+    "short_description": "Latihan soal mengenai konsep kesadaran ruang, usaha (tenaga/waktu), dan hubungan dalam aktivitas jasmani.",
+    "path": "indonesia/Sekolah/kelas5/Penjasorkes/berpikirCerdasBergerakTaktis.json",
+    "suitePath": "configs/pjok-kelas-5.json",
+    "category": "Unit 2",
+    "year": 2026
+  },
+  {
+    "id": "pjok_k5_bab3",
+    "title": "Bab 3: Aturan Baru, Permainan Seru",
+    "description": "### Bab 3: Aturan Baru, Permainan Seru\n\nModul ini membahas tentang pentingnya aturan dalam bermain dan bagaimana memodifikasinya.\n\n**Materi Utama:**\n*   **Konsep Bermain vs Permainan:** Perbedaan spontanitas dan struktur.\n*   **Faktor Pemengaruh:** Kesehatan, lingkungan, dan alat.\n*   **Prinsip Modifikasi:** Keadilan, keamanan, dan keterlibatan aktif.\n*   **Permainan Inklusif:** Menghargai perbedaan dan empati.\n*   **Aktivitas Praktik:** Bola target, bowling sederhana, dan lempar tangkap inklusi.\n\n*Pelajari cara menciptakan lingkungan bermain yang adil bagi semua orang.*",
+    "short_description": "Latihan soal mengenai pengembangan dan modifikasi peraturan permainan untuk inklusi dan keadilan.",
+    "path": "indonesia/Sekolah/kelas5/Penjasorkes/aturanBaru.json",
+    "suitePath": "configs/pjok-kelas-5.json",
+    "category": "Unit 3",
+    "year": 2026
+  },
+  {
+    "id": "pjok_k5_bab4",
+    "title": "Bab 4: Belajar Bersama di Komunitas Kesehatan",
+    "description": "### Bab 4: Belajar Bersama di Komunitas Kesehatan\n\nModul ini mengeksplorasi peran komunitas dalam mendukung gaya hidup aktif.\n\n**Materi Utama:**\n*   **Komunitas Kesehatan:** Faktor individu, sosial, dan eksternal dalam partisipasi.\n*   **Aktivitas Komunitas:** Lari, renang, bersepeda, senam (*pound fit*), dan sepak bola.\n*   **Permainan Tradisional:** Gobak sodor dan lempar boy (boy-boyan).\n*   **Kesehatan Kardiovaskular:** Jantung, pembuluh darah, dan pengukuran denyut nadi (palpasi).\n*   **Kesehatan Mental:** Hormon endorfin, ekspresi emosi, dan motivasi.\n\n*Temukan bagaimana komunitas dapat menginspirasi kita untuk hidup lebih sehat.*",
+    "short_description": "Latihan soal mengenai partisipasi dalam komunitas kesehatan, aktivitas fisik bersama, and kesehatan kardiovaskular.",
+    "path": "indonesia/Sekolah/kelas5/Penjasorkes/eksplorasiGerak4.json",
+    "suitePath": "configs/pjok-kelas-5.json",
+    "category": "Unit 4",
+    "year": 2026
+  },
+  {
+    "id": "pjok_k5_bab5",
+    "title": "Bab 5: Menjadi Sehat and Aktif",
+    "description": "### Bab 5: Menjadi Sehat and Aktif\n\nModul ini berfokus pada nutrisi dan menghindari gaya hidup tidak aktif.\n\n**Materi Utama:**\n*   **Gaya Hidup Digital:** Mengatasi perilaku sedenter dan dampak *game online*.\n*   **Label Gizi:** Memahami takaran saji, AKG (Angka Kecukupan Gizi), dan label BPOM.\n*   **Zat Gizi Utama:** Karbohidrat, protein, lemak (tak jenuh), vitamin, mineral, dan air.\n*   **Pencegahan Penyakit:** Diabetes tipe 1 dan obesitas melalui pola makan.\n*   **Menu Sehat:** Sarapan, camilan, dan tip makan di luar/pesta.\n\n*Tingkatkan kesadaran nutrisi untuk mendukung pertumbuhan dan kebugaran tubuh.*",
+    "short_description": "Latihan soal mengenai perilaku sedenter, label gizi, AKG, dan upaya pemenuhan gizi seimbang.",
+    "path": "indonesia/Sekolah/kelas5/Penjasorkes/menjadiSehatdanAktif.json",
+    "suitePath": "configs/pjok-kelas-5.json",
+    "category": "Unit 5",
+    "year": 2026
+  },
+  {
     "id": "nimcet_2022",
     "title": "NIMCET 2022",
     "description": "### National Institute of Technology MCA Common Entrance Test (2022)\n\n**Conducting Body:** NIT Jamshedpur\n\nThis exam serves as the gateway for admission into the **Master of Computer Applications (MCA)** program at participating NITs. \n\n**Paper Pattern:**\n- **Mathematics:** 50 Questions (Highest Weightage)\n- **Analytical Ability & Logical Reasoning:** 40 Questions\n- **Computer Awareness:** 10 Questions\n- **General English:** 20 Questions\n\n> *Note: This paper follows the standard marking scheme of +4 for correct answers and -1 for incorrect answers.*",
@@ -490,56 +540,6 @@
     "year": 2026
   },
   {
-    "id": "pjok_k5_bab1",
-    "title": "Bab 1: Eksplorasi Gerak",
-    "description": "### Bab 1: Eksplorasi Gerak\n\nModul latihan ini mencakup materi dari Kurikulum Merdeka PJOK Kelas 5 SD. \n\n**Materi Utama:**\n*   **Aktivitas Jalan dan Lari:** Permainan Jalan Lompat Ceria, Lari Kompas, dan Selip Rintangan.\n*   **Aktivitas Lompat dan Loncat:** Lari Loncat Rintangan dan Zona Petualangan.\n*   **Melempar dan Menangkap:** Bola besar dan kecil dengan berbagai variasi jarak.\n*   **Menendang dan Menghentikan:** Teknik dasar sepak bola mini dan bola tangan.\n*   **Aktivitas Air:** Keselamatan di air dan estafet bola di kolam.\n\n*Gunakan latihan ini untuk memperdalam pemahaman strategi dan teknik gerak dasar.*",
-    "short_description": "Latihan soal mengenai penyesuaian dan modifikasi keterampilan gerak dasar (jalan, lari, lompat, loncat) serta koordinasi mata, tangan, dan kaki.",
-    "path": "indonesia/Sekolah/kelas5/Penjasorkes/eksplorasiGerak.json",
-    "suitePath": "configs/pjok-kelas-5.json",
-    "category": "Unit 1",
-    "year": 2026
-  },
-  {
-    "id": "pjok_k5_bab2",
-    "title": "Bab 2: Berpikir Cerdas Bergerak Taktis",
-    "description": "### Bab 2: Berpikir Cerdas Bergerak Taktis\n\nModul ini berfokus pada pemahaman kognitif dalam bergerak (movement concepts).\n\n**Konsep yang Dipelajari:**\n*   **Kesadaran Ruang:** Lokasi, arah, tingkatan, jalur, dan jarak.\n*   **Kesadaran Usaha:** Pengaturan tenaga (kuat/lemah) dan waktu (cepat/lambat).\n*   **Kesadaran Hubungan:** Interaksi tubuh dengan objek (alat) dan orang lain.\n*   **Strategi Gerak:** Perencanaan dan adaptasi dalam permainan invasi, lapangan, dan net.\n\n*Latihan ini membantu siswa memahami mengapa dan bagaimana mereka harus bergerak secara taktis.*",
-    "short_description": "Latihan soal mengenai konsep kesadaran ruang, usaha (tenaga/waktu), dan hubungan dalam aktivitas jasmani.",
-    "path": "indonesia/Sekolah/kelas5/Penjasorkes/berpikirCerdasBergerakTaktis.json",
-    "suitePath": "configs/pjok-kelas-5.json",
-    "category": "Unit 2",
-    "year": 2026
-  },
-  {
-    "id": "pjok_k5_bab3",
-    "title": "Bab 3: Aturan Baru, Permainan Seru",
-    "description": "### Bab 3: Aturan Baru, Permainan Seru\n\nModul ini membahas tentang pentingnya aturan dalam bermain dan bagaimana memodifikasinya.\n\n**Materi Utama:**\n*   **Konsep Bermain vs Permainan:** Perbedaan spontanitas dan struktur.\n*   **Faktor Pemengaruh:** Kesehatan, lingkungan, dan alat.\n*   **Prinsip Modifikasi:** Keadilan, keamanan, dan keterlibatan aktif.\n*   **Permainan Inklusif:** Menghargai perbedaan dan empati.\n*   **Aktivitas Praktik:** Bola target, bowling sederhana, dan lempar tangkap inklusi.\n\n*Pelajari cara menciptakan lingkungan bermain yang adil bagi semua orang.*",
-    "short_description": "Latihan soal mengenai pengembangan dan modifikasi peraturan permainan untuk inklusi dan keadilan.",
-    "path": "indonesia/Sekolah/kelas5/Penjasorkes/aturanBaru.json",
-    "suitePath": "configs/pjok-kelas-5.json",
-    "category": "Unit 3",
-    "year": 2026
-  },
-  {
-    "id": "pjok_k5_bab4",
-    "title": "Bab 4: Belajar Bersama di Komunitas Kesehatan",
-    "description": "### Bab 4: Belajar Bersama di Komunitas Kesehatan\n\nModul ini mengeksplorasi peran komunitas dalam mendukung gaya hidup aktif.\n\n**Materi Utama:**\n*   **Komunitas Kesehatan:** Faktor individu, sosial, dan eksternal dalam partisipasi.\n*   **Aktivitas Komunitas:** Lari, renang, bersepeda, senam (*pound fit*), dan sepak bola.\n*   **Permainan Tradisional:** Gobak sodor dan lempar boy (boy-boyan).\n*   **Kesehatan Kardiovaskular:** Jantung, pembuluh darah, dan pengukuran denyut nadi (palpasi).\n*   **Kesehatan Mental:** Hormon endorfin, ekspresi emosi, dan motivasi.\n\n*Temukan bagaimana komunitas dapat menginspirasi kita untuk hidup lebih sehat.*",
-    "short_description": "Latihan soal mengenai partisipasi dalam komunitas kesehatan, aktivitas fisik bersama, and kesehatan kardiovaskular.",
-    "path": "indonesia/Sekolah/kelas5/Penjasorkes/eksplorasiGerak4.json",
-    "suitePath": "configs/pjok-kelas-5.json",
-    "category": "Unit 4",
-    "year": 2026
-  },
-  {
-    "id": "pjok_k5_bab5",
-    "title": "Bab 5: Menjadi Sehat and Aktif",
-    "description": "### Bab 5: Menjadi Sehat and Aktif\n\nModul ini berfokus pada nutrisi dan menghindari gaya hidup tidak aktif.\n\n**Materi Utama:**\n*   **Gaya Hidup Digital:** Mengatasi perilaku sedenter dan dampak *game online*.\n*   **Label Gizi:** Memahami takaran saji, AKG (Angka Kecukupan Gizi), dan label BPOM.\n*   **Zat Gizi Utama:** Karbohidrat, protein, lemak (tak jenuh), vitamin, mineral, dan air.\n*   **Pencegahan Penyakit:** Diabetes tipe 1 dan obesitas melalui pola makan.\n*   **Menu Sehat:** Sarapan, camilan, dan tip makan di luar/pesta.\n\n*Tingkatkan kesadaran nutrisi untuk mendukung pertumbuhan dan kebugaran tubuh.*",
-    "short_description": "Latihan soal mengenai perilaku sedenter, label gizi, AKG, dan upaya pemenuhan gizi seimbang.",
-    "path": "indonesia/Sekolah/kelas5/Penjasorkes/menjadiSehatdanAktif.json",
-    "suitePath": "configs/pjok-kelas-5.json",
-    "category": "Unit 5",
-    "year": 2026
-  },
-  {
     "id": "hosa_nutrition_physiology",
     "title": "HOSA Nutrition: Nutritional Physiology",
     "description": "### Advanced Nutritional Physiology\n\nFocuses on the biological processes of the digestive system and metabolic pathways.\n\n**Key Topics:**\n*   **Digestion & Absorption:** Enzymes, transport mechanisms, and GI tract structures.\n*   **Metabolism:** Glycolysis, gluconeogenesis, and beta-oxidation logic.\n*   **Fluid Balance:** Intracellular vs. Extracellular compartments and ADH/Aldosterone regulation.\n*   **Acid-Base Balance:** Bicarbonate buffer system and respiratory compensation.",
@@ -838,5 +838,15 @@
     "suitePath": "configs/examen_médical_et_dentaire.json",
     "category": "examen_médical_et_dentaire",
     "year": "2022"
+  },
+  {
+    "id": "lso_paralegal_ethics_practice_1",
+    "title": "LSO Paralegal Ethics & Professional Responsibilities Practice Test 1",
+    "description": "### LSO Paralegal Ethics Practice Test\n\nComprehensive practice for the Law Society of Ontario (LSO) Paralegal Licensing Exam, focusing on the Ethics & Professional Responsibilities module.\n\n**Topics Included:**\n* **Rules of Conduct:** Mandatory vs. permissive withdrawal, duty of candour, and handling false evidence.\n* **Client Relations:** Conflicts of interest, joint retainers, trust fund accounting, and clients under a disability.\n* **Professionalism:** Dealing with unrepresented persons, civility, advertising rules, and the duty to report.",
+    "short_description": "Contains 100 Questions",
+    "path": "canada/ontario/lso/paralegal_ethics_practice_test1.json",
+    "suitePath": "configs/lso-paralegal.json",
+    "category": "LSO Paralegal Licensing",
+    "year": "Practice"
   }
 ]
