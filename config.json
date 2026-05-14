@@ -1877,5 +1877,209 @@
       ]
     },
     "path": "configs/lso-paralegal.json"
+  },
+  "wassce": {
+    "meta": {
+      "examId": "WASSCE",
+      "fullName": "West African Senior School Certificate Examination",
+      "shortName": "WASSCE",
+      "category": "Senior Secondary School Certification",
+      "conductingBody": "West African Examinations Council (WAEC)",
+      "country": "Nigeria (also administered in Ghana, Sierra Leone, Liberia, The Gambia)",
+      "examType": [
+        "Certification",
+        "Senior Secondary Exit Examination",
+        "Paper-Based (with CBT in select centres)"
+      ],
+      "description": "The WASSCE is the regional exit examination for Senior Secondary School students (SS3 / Grade 12) in West Africa, conducted by the West African Examinations Council (WAEC). It certifies completion of the Senior Secondary education programme and serves as the primary gateway to tertiary institution admissions across the sub-region. In Nigeria, two categories sit the exam: school candidates (May/June series) and private candidates (GCE series). The 2026 cycle covers 37 subjects across 97 papers, with nearly two million candidates registered in Nigeria alone.",
+      "officialWebsite": "https://waeconline.org.ng",
+      "isOfficial": true,
+      "lastUpdated": "2026-05-11",
+      "seoTitle": "WASSCE 2026: Official Dates, CBT Updates, Fees & How to Pass",
+      "seoDescription": "Complete WASSCE 2026 guide — verified exam dates (Apr 21–Jun 19), CBT changes, registration fees, syllabus tips, and proven study strategies for Nigeria candidates.",
+      "relatedBlogTags": [
+        "WASSCE",
+        "WAEC",
+        "WAEC 2026",
+        "Senior Secondary",
+        "Nigerian Education",
+        "CB-WASSCE",
+        "WAEC GCE"
+      ],
+      "keyFacts": [
+        {
+          "label": "Frequency",
+          "value": "Annual — School Candidates: May/June; Private Candidates (GCE): 1st Series (Jan–Feb) and 2nd Series (Aug–Sep)"
+        },
+        {
+          "label": "2026 School Candidate Exam Window",
+          "value": "April 21, 2026 – June 19, 2026"
+        },
+        {
+          "label": "2026 Private Candidate 2nd Series Registration",
+          "value": "Opens May 4, 2026; Closes July 31, 2026"
+        },
+        {
+          "label": "Mode",
+          "value": "Paper-based for most school candidates; Computer-Based Examination (CBE) for private candidates (2nd Series) and ~450 CB-WASSCE pilot schools"
+        },
+        {
+          "label": "Level",
+          "value": "SS3 (Senior Secondary School 3, equivalent to Grade 12 / Year 13)"
+        },
+        {
+          "label": "Grading",
+          "value": "A1 (Excellent, 75–100%) through F9 (Fail, 0–39%); minimum credit is C6 (50–54%)"
+        },
+        {
+          "label": "Language of Instruction",
+          "value": "English (primary); Arabic and French available as subjects"
+        },
+        {
+          "label": "Total Registered Candidates (2026, Nigeria)",
+          "value": "1,959,636 across 24,207 schools"
+        },
+        {
+          "label": "Results Release",
+          "value": "Approximately 45 days after the last paper; digital certificates within 24 hours; physical certificates within 90 days"
+        }
+      ],
+      "eligibility": [
+        "Must be a registered SS3 student in an approved secondary school or a recognised private candidate",
+        "School registration is handled by the school through an accredited WAEC examination centre",
+        "Private candidates must register independently through WAEC's online portal within the published window",
+        "National Identification Number (NIN) is mandatory for all Nigerian candidates — registration cannot proceed without one",
+        "Biometric fingerprint capture at an authorised centre is required during registration",
+        "Must have completed or be completing the 3-year Senior Secondary School curriculum",
+        "Candidates are typically 16–20 years old, though age is not a strict criterion"
+      ],
+      "examPattern": [
+        {
+          "label": "Compulsory Subjects",
+          "value": "English Language, Mathematics"
+        },
+        {
+          "label": "Subject Range",
+          "value": "Minimum 7 subjects, maximum 9 subjects"
+        },
+        {
+          "label": "Total Subjects Available (2026)",
+          "value": "37 subjects across 97 papers"
+        },
+        {
+          "label": "Paper 1 — Objective",
+          "value": "Multiple-choice questions; no negative marking; guess confidently if unsure"
+        },
+        {
+          "label": "Paper 2 — Essay/Theory",
+          "value": "Written response; structured and free-form questions depending on subject"
+        },
+        {
+          "label": "Paper 3 — Practical/Oral/Alternative",
+          "value": "Subject-specific; includes laboratory practicals, oral tests, performance assessments, and alternative-to-practical papers"
+        },
+        {
+          "label": "Negative Marking",
+          "value": "None"
+        },
+        {
+          "label": "Duration per Subject",
+          "value": "Varies; typically 45 minutes to 3 hours per paper depending on subject and paper type"
+        },
+        {
+          "label": "CASS Contribution",
+          "value": "Continuous Assessment (CASS) scores contribute 30% of the final grade; the examination contributes the remaining 70%"
+        }
+      ],
+      "syllabusOverview": [
+        {
+          "subject": "English Language",
+          "topics": "Reading Comprehension, Summary Writing (word count strictly enforced), Essay Writing (Narrative, Descriptive, Argumentative, Formal Letter), Oral English (Vowels, Consonants, Stress, Intonation), Lexis and Structure (Collocations, Idioms, Sentence Patterns), Grammar and Usage"
+        },
+        {
+          "subject": "Mathematics",
+          "topics": "Number and Numeration (Integers, Fractions, Indices, Surds, Logarithms), Algebraic Processes (Equations, Inequalities, Functions, Graphs), Mensuration (Lengths, Areas, Volumes, Trigonometry), Geometry (Euclidean proofs, Circle theorems, Coordinate Geometry), Statistics and Probability (Data presentation, Measures of central tendency and dispersion)"
+        },
+        {
+          "subject": "Biology",
+          "topics": "Cell Biology, Classification of Living Things, Nutrition and Digestion, Respiratory System, Circulatory System, Excretion, Reproduction (Human, Plant, Animal), Genetics and Variation, Evolution, Ecology and the Environment"
+        },
+        {
+          "subject": "Chemistry",
+          "topics": "Atomic Structure and Bonding, States of Matter, Separation Techniques, Acids, Bases and Salts, Electrochemistry, Organic Chemistry (Hydrocarbons, Functional Groups), Mole Concept and Stoichiometry, Rates of Reaction, Chemical Equilibrium"
+        },
+        {
+          "subject": "Physics",
+          "topics": "Measurements and Units (SI units critical), Scalar and Vector Quantities, Motion (Kinematics, Newton's Laws), Energy (Work, Power, Kinetic and Potential), Waves and Sound, Light and Optics, Electricity and Magnetism, Modern Physics (Radioactivity, X-rays)"
+        },
+        {
+          "subject": "Economics",
+          "topics": "Basic Economic Concepts (Scarcity, Choice, Opportunity Cost), Theory of Demand and Supply, Market Structures, National Income Accounting, Money and Banking, International Trade, Government Finance (Taxation, Budgets), Economic Development"
+        },
+        {
+          "subject": "Government",
+          "topics": "Basic Concepts (State, Nation, Sovereignty), Political Systems (Democracy, Federalism, Constitutionalism), Nigerian Government (Colonial History, Constitutions, Federal/State/Local structures), International Organisations (AU, UN, ECOWAS)"
+        },
+        {
+          "subject": "Literature-in-English",
+          "topics": "Prose (Plot, Character, Theme, Style), Drama (Stagecraft, Conflict, Language), Poetry (Figures of Speech, Theme, Tone, Structure), Oral Literature; Note: a syllabus transition between the 2024–2026 and 2026–2030 cycles is currently unresolved — confirm prescribed texts at waeconline.org.ng using your Registration PIN"
+        },
+        {
+          "subject": "Geography",
+          "topics": "Physical Geography (Rocks, Weathering, Rivers, Coasts, Atmosphere, Climate), Human Geography (Population, Settlement, Agriculture, Industry), Map Reading and Interpretation, Regional Geography of Nigeria and West Africa, Practical/Fieldwork Skills"
+        },
+        {
+          "subject": "Further Mathematics",
+          "topics": "Sets and Functions, Polynomial and Rational Functions, Matrices and Determinants, Sequence and Series, Calculus (Differentiation and Integration), Coordinate Geometry, Trigonometry (Advanced), Statistics and Probability (Distributions, Permutations, Combinations)"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Is WASSCE 2026 going to be fully CBT for everyone?",
+          "answer": "No. Only approximately 450 of the 24,207 registered schools (~1.9%) are using the CB-WASSCE format. The vast majority of school candidates write by hand. Private candidates sitting the 2nd Series will use fully CBT for objective papers, with a hybrid approach for essay answers."
+        },
+        {
+          "question": "When exactly does WASSCE 2026 start and end?",
+          "answer": "The May/June examination for school candidates runs from April 21 to June 19, 2026. The first paper is Foods and Nutrition 3 (Practical) Planning Session. Some sites incorrectly state May 11 as the start date — this is wrong."
+        },
+        {
+          "question": "What is the registration fee for WAEC GCE 2nd Series 2026?",
+          "answer": "₦37,000 base fee plus ₦500 bank commission, totalling ₦37,500. All fees are non-refundable. The ₦21,500 figure cited on many older websites is outdated."
+        },
+        {
+          "question": "When does 2nd Series private candidate registration close?",
+          "answer": "July 31, 2026, per the official WAEC Nigeria poster. Some sources have listed August 2 — that date is unconfirmed by official WAEC materials. Treat July 31 as the hard deadline."
+        },
+        {
+          "question": "How many subjects must I register for?",
+          "answer": "A minimum of 7 and a maximum of 9 subjects. English Language and Mathematics are compulsory. Candidates should select electives based on intended tertiary course requirements."
+        },
+        {
+          "question": "When will WASSCE 2026 results be released?",
+          "answer": "Approximately 45 days after June 19, 2026 — around early August 2026. Digital certificates are available online within 24 hours of results release. Physical certificates are distributed to schools within 90 days of the exam's conclusion."
+        },
+        {
+          "question": "Is NIN mandatory for WAEC registration in Nigeria?",
+          "answer": "Yes. A National Identification Number (NIN) is mandatory for all Nigerian candidates and has been formally integrated into the registration process. Registration cannot proceed without one."
+        },
+        {
+          "question": "What is the minimum score to get a credit in WAEC?",
+          "answer": "A C6 grade (50–54%) is the minimum credit. For university admissions, most institutions in Nigeria and Ghana require at least five credits at C6 or above, including English Language and Mathematics."
+        },
+        {
+          "question": "How do I download the official WASSCE 2026 syllabus?",
+          "answer": "Visit waeconline.org.ng and use your Registration PIN to access and download the official e-Syllabus for any subject. It is free and more authoritative than any third-party PDF."
+        },
+        {
+          "question": "What if the duration on my question paper differs from the timetable?",
+          "answer": "Follow the duration printed on the question paper. This is an official WAEC rule stated in the footnotes of the 2026 final timetable."
+        },
+        {
+          "question": "How does WASSCE differ from NECO SSCE?",
+          "answer": "Both are Nigerian senior secondary exit examinations. WASSCE is conducted by the West African Examinations Council (WAEC) and is regionally recognised across five West African countries. NECO SSCE is conducted by the National Examinations Council (NECO) and is Nigeria-specific. Many students sit both to strengthen their admission portfolio."
+        }
+      ]
+    },
+    "path": "configs/wassce.json"
   }
 }

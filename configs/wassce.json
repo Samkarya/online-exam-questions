@@ -1,0 +1,34 @@
+[
+    {
+        "id": "wassce_gsm_introduction_to_mobile_phones_and_service_providers",
+        "category": "WASSCE",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "WASSCE Introduction to Mobile Phones and Service Providers",
+        "short_description": "Comprehensive practice for WASSCE candidates covering mobile phone basics, GSM terminologies, and service providers.",
+        "description": "### Unit: INTRODUCTION TO MOBILE PHONES AND SERVICE PROVIDERS\n\n**Subject:** Computer Hardware and GSM Repairs 1 | **Level:** Senior Secondary (WASSCE)\n\nThis module covers the foundational aspects of mobile communication, including hardware types, technical terminologies, and the telecommunications landscape in Nigeria.\n\n**Key Topics:**\n* **Acronyms & Terminologies:** GSM, SIM, PUK, IMEI, PIN, CDMA, SMS, MMS.\n* **Mobile Bands:** Understanding 900MHz, 1800MHz, and 1900MHz frequencies.\n* **Types of Phones:** Identification of Bar, slider, flip/clamshell, and modern smartphones (Android/iOS).\n* **Phone Accessories:** Chargers, power banks, earpieces, Bluetooth devices, and OTG cables.\n* **Service Providers:** Major Nigerian telecom providers (MTN, Airtel, Glo, 9Mobile) and essential USSD codes for balance and IMEI checking (*#06#).",
+        "path": "nigeria/WASSCE/gsm-repairs/introductionToGSM.json",
+        "isOfficial": false,
+        "seo_title": "WASSCE GSM Introduction to Mobile Phones and Service Providers",
+        "seo_description": "Practice WASSCE Computer Hardware and GSM Repairs online. Master mobile phone types, GSM terminologies, and USSD codes for Nigeria's major telecom providers."
+    },
+    {
+        "id": "wassce_gsm_basic_computer_and_internet_concepts",
+        "category": "WASSCE",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "WASSCE Basic Computer and Internet Concepts",
+        "short_description": "Comprehensive practice for WASSCE candidates covering basic computer and internet concepts.",
+        "description": "### Unit: BASIC COMPUTER AND INTERNET CONCEPTS\n\n**Subject:** Computer Hardware and GSM Repairs 1 | **Level:** Senior Secondary (WASSCE)\n\nThis module covers the foundational aspects of mobile communication, including hardware types, technical terminologies, and the telecommunications landscape in Nigeria.\n\n**Key Topics:**\n* **Acronyms & Terminologies:** GSM, SIM, PUK, IMEI, PIN, CDMA, SMS, MMS.\n* **Mobile Bands:** Understanding 900MHz, 1800MHz, and 1900MHz frequencies.\n* **Types of Phones:** Identification of Bar, slider, flip/clamshell, and modern smartphones (Android/iOS).\n* **Phone Accessories:** Chargers, power banks, earpieces, Bluetooth devices, and OTG cables.\n* **Service Providers:** Major Nigerian telecom providers (MTN, Airtel, Glo, 9Mobile) and essential USSD codes for balance and IMEI checking (*#06#).",
+        "path": "nigeria/WASSCE/gsm-repairs/internetConcepts.json",
+        "isOfficial": false,
+        "seo_title": "WASSCE Basic Computer and Internet Concepts",
+        "seo_description": "Practice WASSCE Computer Hardware and GSM Repairs online. Master basic computer and internet concepts for GSM repairs."
+    }
+]

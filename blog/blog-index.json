@@ -124,5 +124,23 @@
     "excerpt": "A fact-checked guide to the best exam simulator websites and mock exam apps in 2026 — covering free tools, login requirements, and which platform actually fits your exam type.",
     "tags": ["Exam Simulator", "Mock Exam", "Free Practice Tests", "Exam Prep", "2026"],
     "mdFilePath": "/blog/exam-simulator-mock-exam-2026.md"
-  }
+  },
+  {
+    "slug": "free-mini-mock-test-with-explanations",
+    "title": "Where to Find Free Mini Mock Tests That Automatically Mark and Explain Your Answers",
+    "date": "2026-05-13",
+    "author": "ExamOven Team",
+    "excerpt": "Looking for a free mock test that explains wrong answers — for any exam, no login needed? Here's an honest comparison and exactly how to build your own.",
+    "tags": ["Study Tools", "Mock Tests", "Free Resources", "Exam Prep"],
+    "mdFilePath": "/blog/free-mini-mock-test-with-explanations.md"
+  },
+  {
+  "slug": "wassce-2026-official-updates-cbt-dates-fees-guide",
+  "title": "WASSCE 2026: Official Dates, CBT Changes, Fees & How to Actually Pass",
+  "date": "2026-05-14",
+  "author": "ExamOven Team",
+  "excerpt": "Looking for the official WASSCE 2026 timetable? Get verified WAEC 2026 exam dates (April 21 – June 19), registration fees (₦37,500), and latest CBT updates. Learn how to pass your exams with tips from the Chief Examiners' Report.",
+  "tags": ["WASSCE 2026", "WAEC Nigeria", "WAEC Timetable", "WAEC Registration", "CB-WASSCE", "Exam Dates", "Study Tips", "GCE 2026"],
+  "mdFilePath": "/blog/wassce-2026-official-updates-cbt-dates-fees-guide.md"
+}
 ]

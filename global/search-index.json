@@ -848,5 +848,25 @@
     "suitePath": "configs/lso-paralegal.json",
     "category": "LSO Paralegal Licensing",
     "year": "Practice"
+  },
+  {
+    "id": "wassce_gsm_introduction_to_mobile_phones_and_service_providers",
+    "title": "WASSCE Introduction to Mobile Phones and Service Providers",
+    "description": "### Unit: INTRODUCTION TO MOBILE PHONES AND SERVICE PROVIDERS\n\n**Subject:** Computer Hardware and GSM Repairs 1 | **Level:** Senior Secondary (WASSCE)\n\nThis module covers the foundational aspects of mobile communication, including hardware types, technical terminologies, and the telecommunications landscape in Nigeria.\n\n**Key Topics:**\n* **Acronyms & Terminologies:** GSM, SIM, PUK, IMEI, PIN, CDMA, SMS, MMS.\n* **Mobile Bands:** Understanding 900MHz, 1800MHz, and 1900MHz frequencies.\n* **Types of Phones:** Identification of Bar, slider, flip/clamshell, and modern smartphones (Android/iOS).\n* **Phone Accessories:** Chargers, power banks, earpieces, Bluetooth devices, and OTG cables.\n* **Service Providers:** Major Nigerian telecom providers (MTN, Airtel, Glo, 9Mobile) and essential USSD codes for balance and IMEI checking (*#06#).",
+    "short_description": "Comprehensive practice for WASSCE candidates covering mobile phone basics, GSM terminologies, and service providers.",
+    "path": "nigeria/WASSCE/gsm-repairs/introductionToGSM.json",
+    "suitePath": "configs/wassce.json",
+    "category": "WASSCE",
+    "year": 2026
+  },
+  {
+    "id": "wassce_gsm_basic_computer_and_internet_concepts",
+    "title": "WASSCE Basic Computer and Internet Concepts",
+    "description": "### Unit: BASIC COMPUTER AND INTERNET CONCEPTS\n\n**Subject:** Computer Hardware and GSM Repairs 1 | **Level:** Senior Secondary (WASSCE)\n\nThis module covers the foundational aspects of mobile communication, including hardware types, technical terminologies, and the telecommunications landscape in Nigeria.\n\n**Key Topics:**\n* **Acronyms & Terminologies:** GSM, SIM, PUK, IMEI, PIN, CDMA, SMS, MMS.\n* **Mobile Bands:** Understanding 900MHz, 1800MHz, and 1900MHz frequencies.\n* **Types of Phones:** Identification of Bar, slider, flip/clamshell, and modern smartphones (Android/iOS).\n* **Phone Accessories:** Chargers, power banks, earpieces, Bluetooth devices, and OTG cables.\n* **Service Providers:** Major Nigerian telecom providers (MTN, Airtel, Glo, 9Mobile) and essential USSD codes for balance and IMEI checking (*#06#).",
+    "short_description": "Comprehensive practice for WASSCE candidates covering basic computer and internet concepts.",
+    "path": "nigeria/WASSCE/gsm-repairs/internetConcepts.json",
+    "suitePath": "configs/wassce.json",
+    "category": "WASSCE",
+    "year": 2026
   }
 ]
