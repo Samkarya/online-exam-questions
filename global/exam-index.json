@@ -85,5 +85,9 @@
   "examen_médical_et_dentaire_2022": "configs/examen_médical_et_dentaire.json",
   "lso_paralegal_ethics_practice_1": "configs/lso-paralegal.json",
   "wassce_gsm_introduction_to_mobile_phones_and_service_providers": "configs/wassce.json",
-  "wassce_gsm_basic_computer_and_internet_concepts": "configs/wassce.json"
+  "wassce_gsm_basic_computer_and_internet_concepts": "configs/wassce.json",
+  "wassce_gsm_components_of_mobile_phone": "configs/wassce.json",
+  "wassce_gsm_maintenance_and_repair": "configs/wassce.json",
+  "wassce_gsm_troubleshooting": "configs/wassce.json",
+  "wassce_gsm_setting_up_and_managing_mobile_phone_workshop": "configs/wassce.json"
 }
