@@ -89,5 +89,12 @@
   "wassce_gsm_components_of_mobile_phone": "configs/wassce.json",
   "wassce_gsm_maintenance_and_repair": "configs/wassce.json",
   "wassce_gsm_troubleshooting": "configs/wassce.json",
-  "wassce_gsm_setting_up_and_managing_mobile_phone_workshop": "configs/wassce.json"
+  "wassce_gsm_setting_up_and_managing_mobile_phone_workshop": "configs/wassce.json",
+  "wassce_further_maths_core_algebra_logic": "configs/wassce.json",
+  "wassce_further_maths_functions_polynomials_equations": "configs/wassce.json",
+  "wassce_further_maths_combinatorics_sequences_matrices": "configs/wassce.json",
+  "wassce_further_maths_geometry_trigonometry": "configs/wassce.json",
+  "wassce_further_maths_calculus": "configs/wassce.json",
+  "wassce_further_maths_statistics_probability": "configs/wassce.json",
+  "wassce_further_maths_vectors_mechanics": "configs/wassce.json"
 }

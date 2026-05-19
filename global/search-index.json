@@ -908,5 +908,75 @@
     "suitePath": "configs/wassce.json",
     "category": "WASSCE",
     "year": 2026
+  },
+  {
+    "id": "wassce_further_maths_core_algebra_logic",
+    "title": "WASSCE Further Maths: Core Algebra and Logic",
+    "description": "### Unit: PURE MATHEMATICS (Core Algebra & Logic)\n\n**Subject:** Further Mathematics | **Level:** Senior Secondary (WASSCE)\n\nThis module covers fundamental algebraic structures, logical reasoning, and basic properties of numbers that form the foundation of higher mathematics.\n\n**Key Topics:**\n* **Sets:** Venn diagrams (up to 3 sets), set notations, commutative/associative laws, disjoint sets, and universal sets.\n* **Surds:** Conjugates, rationalizing denominators, and solving equations involving surds.\n* **Binary Operations:** Proving closure, finding identity elements, determining inverses, and verifying commutativity and associativity.\n* **Logical Reasoning:** Truth tables, syntax rules, drawing valid conclusions from statements, implications, and deductions.\n* **Indices & Logarithmic Functions:** Laws of indices and logarithms, base changes, and solving exponential equations.",
+    "short_description": "Comprehensive practice for WASSCE Further Mathematics covering Sets, Surds, Binary Operations, and Logic.",
+    "path": "nigeria/WASSCE/further-maths/coreAlgebraLogic.json",
+    "suitePath": "configs/wassce.json",
+    "category": "WASSCE",
+    "year": 2026
+  },
+  {
+    "id": "wassce_further_maths_functions_polynomials_equations",
+    "title": "WASSCE Further Maths: Functions, Polynomials & Equations",
+    "description": "### Unit: FUNCTIONS, POLYNOMIALS & EQUATIONS\n\n**Subject:** Further Mathematics | **Level:** Senior Secondary (WASSCE)\n\nThis module delves into mappings, inverse functions, advanced polynomial factoring, and the resolution of complex algebraic fractions.\n\n**Key Topics:**\n* **Functions:** Domain and co-domain, one-to-one mapping, finding the inverse of a function, and composite functions.\n* **Polynomial Functions:** Linear, quadratic, and cubic functions/equations. Applying Factor and Remainder theorems.\n* **Rational Functions:** Resolution of rational functions into partial fractions (linear denominators, repeated roots, and irreducible quadratics).\n* **Inequalities:** Solving and graphing linear and quadratic inequalities.",
+    "short_description": "Comprehensive practice for WASSCE candidates covering mathematical functions, polynomials, partial fractions, and inequalities.",
+    "path": "nigeria/WASSCE/further-maths/functionsPolynomials.json",
+    "suitePath": "configs/wassce.json",
+    "category": "WASSCE",
+    "year": 2026
+  },
+  {
+    "id": "wassce_further_maths_combinatorics_sequences_matrices",
+    "title": "WASSCE Further Maths: Combinatorics, Sequences & Matrices",
+    "description": "### Unit: COMBINATORICS, SEQUENCES & MATRICES\n\n**Subject:** Further Mathematics | **Level:** Senior Secondary (WASSCE)\n\nThis module covers arrangements and selections, progression series, numerical expansions, and linear transformations using matrices.\n\n**Key Topics:**\n* **Permutation and Combinations:** Simple arrangements and selection of objects with restrictions.\n* **Binomial Theorem:** Expanding (a + b)^n and estimating rational powers (e.g., estimating decimals using the binomial expansion).\n* **Sequences and Series:** Linear (A.P.) and Exponential (G.P.) sequences, finite/infinite series, and recurrence series.\n* **Matrices:** Determinants and inverses of 2x2 matrices.\n* **Linear Transformation:** Using matrices to solve simultaneous equations and map geometric points.",
+    "short_description": "Comprehensive practice covering Permutations, Combinations, Sequences, Binomial Theorem, and Matrix Transformations.",
+    "path": "nigeria/WASSCE/further-maths/combinatoricsMatrices.json",
+    "suitePath": "configs/wassce.json",
+    "category": "WASSCE",
+    "year": 2026
+  },
+  {
+    "id": "wassce_further_maths_geometry_trigonometry",
+    "title": "WASSCE Further Maths: Geometry & Trigonometry",
+    "description": "### Unit: GEOMETRY & TRIGONOMETRY\n\n**Subject:** Further Mathematics | **Level:** Senior Secondary (WASSCE)\n\nThis module explores advanced trigonometry and analytic coordinate geometry, essential for solving high-level mathematical proofs.\n\n**Key Topics:**\n* **Trigonometry:** Trigonometric ratios and rules, proving identities, compound angles (addition formulas), multiple angles, and solving trigonometric equations.\n* **Coordinate Geometry:** Equations of straight lines, gradients, parallel and perpendicular lines, midpoints, and distance between points.\n* **Conic Sections:** Understanding the standard and general equations of a circle (finding center and radius) and basics of parabolas.",
+    "short_description": "Comprehensive practice covering trigonometric ratios, multiple angles, straight lines, and conic sections.",
+    "path": "nigeria/WASSCE/further-maths/geometryTrigonometry.json",
+    "suitePath": "configs/wassce.json",
+    "category": "WASSCE",
+    "year": 2026
+  },
+  {
+    "id": "wassce_further_maths_calculus",
+    "title": "WASSCE Further Maths: Calculus (Differentiation & Integration)",
+    "description": "### Unit: CALCULUS (Differentiation & Integration)\n\n**Subject:** Further Mathematics | **Level:** Senior Secondary (WASSCE)\n\nThis module focuses on the mathematics of continuous change. It is heavily tested in Paper 2 and requires mastery of limits, derivatives, and integrals.\n\n**Key Topics:**\n* **Differentiation:** Idea of limits, first principles, product and quotient rules, implicit differentiation, and differentiation of transcendental/trigonometric functions.\n* **Applications of Differentiation:** Second-order derivatives, rates of change, concept of Maxima and Minima (turning points), and small changes.\n* **Integration:** Solving Indefinite and Definite integrals.\n* **Applications of Integration:** Finding the area under a curve and volume of a solid of revolution.",
+    "short_description": "Comprehensive practice for WASSCE candidates covering all rules of differentiation and integration with their physical applications.",
+    "path": "nigeria/WASSCE/further-maths/calculus.json",
+    "suitePath": "configs/wassce.json",
+    "category": "WASSCE",
+    "year": 2026
+  },
+  {
+    "id": "wassce_further_maths_statistics_probability",
+    "title": "WASSCE Further Maths: Statistics and Probability",
+    "description": "### Unit: STATISTICS AND PROBABILITY\n\n**Subject:** Further Mathematics | **Level:** Senior Secondary (WASSCE)\n\nThis module covers the collection, analysis, interpretation, and presentation of numerical data, as well as the mathematical calculation of likelihood.\n\n**Key Topics:**\n* **Statistics Representation:** Tabulation, graphical representation (histograms, cumulative frequency/ogives).\n* **Measures:** Calculating measures of location (mean, median, mode) and Measures of Dispersion (variance, standard deviation) for grouped data.\n* **Correlation:** Calculating rank correlation and interpreting scatter diagrams.\n* **Probability:** Meaning of probability, addition/multiplication rules, independent/mutually exclusive events, simple sample spaces, and probability distributions (e.g., Binomial distribution).",
+    "short_description": "Comprehensive practice for WASSCE candidates covering statistical data representation, dispersion, correlation, and probability rules.",
+    "path": "nigeria/WASSCE/further-maths/statisticsProbability.json",
+    "suitePath": "configs/wassce.json",
+    "category": "WASSCE",
+    "year": 2026
+  },
+  {
+    "id": "wassce_further_maths_vectors_mechanics",
+    "title": "WASSCE Further Maths: Vectors and Mechanics",
+    "description": "### Unit: VECTORS AND MECHANICS\n\n**Subject:** Further Mathematics | **Level:** Senior Secondary (WASSCE)\n\nThis module applies pure mathematics to physical scenarios, analyzing forces, movement, and directional quantities.\n\n**Key Topics:**\n* **Vectors:** Scalar/vector quantities, representation, algebra of vectors, unit/position vectors, scalar (dot) product, and vector (cross) product.\n* **Statics:** Resolution of coplanar forces at a point and on rigid bodies, equilibrium, determining resultants, Lami's theorem, moments of force, and calculating friction.\n* **Dynamics:** Equations of motion, calculating impulse and momentum.\n* **Projectiles:** Calculating maximum height, time of flight, and horizontal range of projected objects.",
+    "short_description": "Comprehensive practice covering Vectors algebra, Statics (forces, equilibrium) and Dynamics (motion, projectiles).",
+    "path": "nigeria/WASSCE/further-maths/vectorsMechanics.json",
+    "suitePath": "configs/wassce.json",
+    "category": "WASSCE",
+    "year": 2026
   }
 ]
