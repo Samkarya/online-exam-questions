@@ -1,5 +1,37 @@
 [
     {
+        "id": "jeeMain_2026_02April_shift2",
+        "category": "JEE Main",
+        "year": 2026,
+        "session": "April",
+        "date": "2026-04-02",
+        "shift": 2,
+        "paperType": "Paper 1 (PCM)",
+        "title": "JEE Main 2026 (April 2nd, Shift 2)",
+        "short_description": "JEE Main 2026 Session 2 Evening Shift (April 2) official paper for B.E./B.Tech. Includes 75 questions across Physics, Chemistry, and Math with the latest NTA exam pattern.",
+        "description": "### JEE Main 2026 - Session 2 (April 2nd, Shift 2)\n\n**Date:** April 2, 2026 | **Shift:** Evening (03:00 PM - 06:00 PM)\n**Conducted By:** National Testing Agency (NTA)\n\nThis is the official **Paper 1 (B.E./B.Tech)** question paper containing 75 questions (25 per subject). Students are required to attempt 75 questions in total.\n\n**Exam Pattern Breakdown:**\n*   **Sections:** Physics, Chemistry, and Mathematics.\n*   **Questions per Subject:** 20 Multiple Choice Questions (MCQs) in Section A and 10 Numerical Value questions in Section B.\n\n> Practice this paper to evaluate your speed, accuracy, and readiness for the actual NTA JEE Main exam.",
+        "path": "India/undergraduate/JEEMains/jeeMain_2026_02April_shift2.json",
+        "isOfficial": true,
+        "seo_title": "JEE Main 2026 Question Paper (2 April Shift 2) - Free Online Mock Test with Solution and explanation",
+        "seo_description": "Practice JEE Main 2026 Session 2 (April 2 Shift 2) question paper with solutions and explanation. Take our free online mock test to analyze your performance and practice NTA JEE Main exam pattern."
+    },
+    {
+        "id": "jeeMain_2026_02April_shift1",
+        "category": "JEE Main",
+        "year": 2026,
+        "session": "April",
+        "date": "2026-04-02",
+        "shift": 1,
+        "paperType": "Paper 1 (PCM)",
+        "title": "JEE Main 2026 (April 2nd, Shift 1)",
+        "short_description": "JEE Main 2026 Session 2 Morning Shift (April 2) official paper for B.E./B.Tech. Includes 75 questions across Physics, Chemistry, and Math with the latest NTA exam pattern.",
+        "description": "### JEE Main 2026 - Session 2 (April 2nd, Shift 1)\n\n**Date:** April 2, 2026 | **Shift:** Morning (09:00 AM - 12:00 PM)\n**Conducted By:** National Testing Agency (NTA)\n\nThis is the official **Paper 1 (B.E./B.Tech)** question paper containing 75 questions (25 per subject). Students are required to attempt 75 questions in total.\n\n**Exam Pattern Breakdown:**\n*   **Sections:** Physics, Chemistry, and Mathematics.\n*   **Questions per Subject:** 20 Multiple Choice Questions (MCQs) in Section A and 10 Numerical Value questions in Section B.\n\n> Practice this paper to evaluate your speed, accuracy, and readiness for the actual NTA JEE Main exam.",
+        "path": "India/undergraduate/JEEMains/jeeMain_2026_02April_shift1.json",
+        "isOfficial": true,
+        "seo_title": "JEE Main 2026 Question Paper (2 April Shift 1) - Free Online Mock Test with Solution and explanation",
+        "seo_description": "Practice JEE Main 2026 Session 2 (April 2 Shift 1) question paper with solutions and explanation. Take our free online mock test to analyze your performance and practice NTA JEE Main exam pattern."
+    },
+    {
         "id": "jeeMain_2025_22Jan_shift1",
         "category": "JEE Main",
         "year": 2025,

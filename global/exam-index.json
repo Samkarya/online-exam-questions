@@ -27,6 +27,8 @@
   "ielts_grammar_0": "configs/ielts.json",
   "ielts_vocabulary_0": "configs/ielts.json",
   "ielts_listening_0": "configs/ielts.json",
+  "jeeMain_2026_02April_shift2": "configs/jee.json",
+  "jeeMain_2026_02April_shift1": "configs/jee.json",
   "jeeMain_2025_22Jan_shift1": "configs/jee.json",
   "jeeMain_2025_22Jan_shift2": "configs/jee.json",
   "bace_biotech_skills_practical": "configs/bace.json",
