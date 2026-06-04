@@ -280,6 +280,16 @@
     "year": 2025
   },
   {
+    "id": "jeeMain_2026_04April_shift1",
+    "title": "JEE Main 2026 (April 4th, Shift 1)",
+    "description": "### JEE Main 2026 - Session 2 (April 4th, Shift 1)\n\n**Date:** April 4, 2026 | **Shift:** Morning (09:00 AM - 12:00 PM)\n**Conducted By:** National Testing Agency (NTA)\n\nThis is the official **Paper 1 (B.E./B.Tech)** question paper containing 75 questions (25 per subject). Students are required to attempt 75 questions in total.\n\n**Exam Pattern Breakdown:**\n*   **Sections:** Physics, Chemistry, and Mathematics.\n*   **Questions per Subject:** 20 Multiple Choice Questions (MCQs) in Section A and 10 Numerical Value questions in Section B.\n\n> Practice this paper to evaluate your speed, accuracy, and readiness for the actual NTA JEE Main exam.",
+    "short_description": "JEE Main 2026 Session 2 Morning Shift (April 4) official paper for B.E./B.Tech. Includes 75 questions across Physics, Chemistry, and Math with the latest NTA exam pattern.",
+    "path": "India/undergraduate/JEEMains/jeeMain_2026_04April_shift1.json",
+    "suitePath": "configs/jee.json",
+    "category": "JEE Main",
+    "year": 2026
+  },
+  {
     "id": "jeeMain_2026_02April_shift2",
     "title": "JEE Main 2026 (April 2nd, Shift 2)",
     "description": "### JEE Main 2026 - Session 2 (April 2nd, Shift 2)\n\n**Date:** April 2, 2026 | **Shift:** Evening (03:00 PM - 06:00 PM)\n**Conducted By:** National Testing Agency (NTA)\n\nThis is the official **Paper 1 (B.E./B.Tech)** question paper containing 75 questions (25 per subject). Students are required to attempt 75 questions in total.\n\n**Exam Pattern Breakdown:**\n*   **Sections:** Physics, Chemistry, and Mathematics.\n*   **Questions per Subject:** 20 Multiple Choice Questions (MCQs) in Section A and 10 Numerical Value questions in Section B.\n\n> Practice this paper to evaluate your speed, accuracy, and readiness for the actual NTA JEE Main exam.",
