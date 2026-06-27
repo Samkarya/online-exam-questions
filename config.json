@@ -413,126 +413,181 @@
     "path": "configs/jee.json"
   },
   "bace": {
-    "meta": {
-      "examId": "BACE",
-      "fullName": "Biotechnician Assistant Credentialing Exam",
-      "shortName": "BACE",
-      "category": "Biotechnology Certification",
-      "conductingBody": "Biotility — University of Florida",
-      "country": "USA",
-      "examType": [
-        "Professional Certification",
-        "Industry-Recognized Credential",
-        "Multiple Choice"
-      ],
-      "description": "The BACE is a nationally recognised credential administered by Biotility (University of Florida) that validates the core theoretical and practical knowledge of entry-level biotechnology technicians for roles in pharma, agbio, and research labs.",
-      "officialWebsite": "https://biotility.research.ufl.edu",
-      "isOfficial": false,
-      "lastUpdated": "2026-04-30",
-      "seoTitle": "BACE Exam 2026: Free Mock Tests, Syllabus & Biotech Prep Guide",
-      "seoDescription": "Prepare for the BACE biotechnology certification with free mock tests & 2026 syllabus guide. Master lab safety, PCR, GMP & biotech principles. Start today!",
-      "relatedBlogTags": [
-        "BACE",
-        "Biotechnology",
-        "Lab Certification"
-      ],
-      "keyFacts": [
-        {
-          "label": "Frequency",
-          "value": "Multiple scheduled sessions throughout the year (on-demand at approved sites)"
-        },
-        {
-          "label": "Mode",
-          "value": "Computer-based at authorised testing centres or proctored online"
-        },
-        {
-          "label": "Duration",
-          "value": "Approximately 3.5 hours"
-        },
-        {
-          "label": "Total Questions",
-          "value": "Approximately 150 multiple-choice questions"
-        },
-        {
-          "label": "Credential Validity",
-          "value": "3 years (renewable via continuing education or retesting)"
-        }
-      ],
-      "eligibility": [
-        "No formal prerequisites are mandated; the exam is open to high school graduates, community college students, and university-level candidates in biotechnology or life sciences",
-        "Completion of or current enrolment in a biotechnology, biology, chemistry, or allied science certificate/degree programme is strongly recommended",
-        "Early-career laboratory professionals seeking to validate their entry-level biotechnology competencies are encouraged to apply",
-        "Registration is done through the Biotility portal; candidates must agree to testing policies and pay the applicable exam fee"
-      ],
-      "examPattern": [
-        {
-          "label": "Total Questions",
-          "value": "~150 multiple-choice questions"
-        },
-        {
-          "label": "Question Format",
-          "value": "Single-best-answer MCQ"
-        },
-        {
-          "label": "Duration",
-          "value": "~3.5 hours"
-        },
-        {
-          "label": "Scoring",
-          "value": "Percentage of correct answers; passing threshold set by Biotility"
-        },
-        {
-          "label": "Negative Marking",
-          "value": "None"
-        }
-      ],
-      "syllabusOverview": [
-        {
-          "subject": "Laboratory Safety",
-          "topics": "OSHA standards, Chemical hygiene plan, Biohazard protocols (BSL levels), PPE selection and use, Hazardous waste disposal, Emergency procedures, SDS interpretation"
-        },
-        {
-          "subject": "Mathematics for Science",
-          "topics": "Metric system & SI units, Unit conversions, Scientific notation, Significant figures, Solution preparation & dilutions (molarity, percent solutions), Basic statistics (mean, median, standard deviation)"
-        },
-        {
-          "subject": "Biology & Chemistry Foundations",
-          "topics": "Cell structure & function, Central dogma (DNA→RNA→Protein), Basic genetics & heredity, Biochemistry of proteins, lipids & carbohydrates, Acid-base chemistry, Buffer preparation & pH calculations"
-        },
-        {
-          "subject": "Core Biotechnology Techniques",
-          "topics": "Recombinant DNA technology, PCR & qPCR, Gel electrophoresis (agarose & PAGE), Cell culture (aseptic technique, sterile technique), Fermentation & upstream bioprocessing, Downstream processing & purification (chromatography, filtration)"
-        },
-        {
-          "subject": "Instrumentation & Equipment",
-          "topics": "Spectrophotometry & UV-Vis, Centrifugation (types & applications), Microscopy (light, phase contrast, fluorescence), Autoclave & sterilisation methods, Pipetting techniques & calibration, ELISA instrumentation"
-        },
-        {
-          "subject": "Quality Systems & Regulatory Compliance",
-          "topics": "Good Manufacturing Practice (GMP), Good Laboratory Practice (GLP), Standard Operating Procedures (SOPs), Batch record documentation, FDA/EPA regulatory overview, Deviation reporting & CAPA"
-        },
-        {
-          "subject": "Bioinformatics",
-          "topics": "DNA & protein sequence databases (GenBank, UniProt), NCBI BLAST searches, Sequence alignment basics, Introduction to bioinformatics tools"
-        }
-      ],
-      "faqs": [
-        {
-          "question": "Who should take the BACE exam?",
-          "answer": "The BACE is ideal for students completing a biotechnology certificate or AS/BS degree programme, as well as entry-level lab technicians who want an industry-recognised credential to strengthen their CV when applying for positions in pharmaceutical, agricultural biotech, or research laboratory settings."
-        },
-        {
-          "question": "How long is the BACE credential valid?",
-          "answer": "The BACE credential is valid for 3 years from the date of passing. To maintain the credential, holders must either complete approved continuing education credits or retake the examination before the expiry date."
-        },
-        {
-          "question": "Is the BACE accepted nationally across the USA?",
-          "answer": "Yes, the BACE is recognised by biotech, pharmaceutical, and agriscience employers across the United States as a validated benchmark of entry-level biotechnician competency. It is particularly respected among Florida-based programmes, but its recognition is growing nationally."
-        }
-      ]
-    },
-    "path": "configs/bace.json"
+  "meta": {
+    "examId": "BACE",
+    "fullName": "Biotechnology Aptitude and Competency Exam",
+    "shortName": "BACE",
+    "category": "Biotechnology Certification",
+    "conductingBody": "Biotility — University of Florida",
+    "country": "USA",
+    "examType": [
+      "Professional Certification",
+      "Industry-Recognized Credential",
+      "Multiple Choice",
+      "Scenario-Based"
+    ],
+    "description": "The BACE is a nationally recognised industry credential administered by Biotility at the University of Florida that validates the core theoretical knowledge and practical lab competencies of entry-level biotechnology technicians. It covers eight categories across a Knowledge and Practical portion, is developed to ISO/IEC 17024 standards, and is formally adopted in 17 U.S. states.",
+    "officialWebsite": "https://biotility.research.ufl.edu",
+    "isOfficial": false,
+    "lastUpdated": "2026-06-27",
+    "seoTitle": "BACE Exam 2026: Free Mock Tests, Syllabus & Biotech Prep Guide",
+    "seoDescription": "Prepare for the BACE biotechnology certification with free mock tests & 2026 syllabus guide. Master lab safety, PCR, GMP & biotech principles. Start today!",
+    "relatedBlogTags": [
+      "BACE",
+      "Biotechnology",
+      "Lab Certification",
+      "Biotech Careers"
+    ],
+    "keyFacts": [
+      {
+        "label": "Frequency",
+        "value": "Multiple sessions throughout the year — on-demand at approved Exam Sites or remotely via ProctorU"
+      },
+      {
+        "label": "Mode",
+        "value": "Computer-based only (as of AY 2025–2026) — certified Exam Site with live proctor, or remote via ProctorU"
+      },
+      {
+        "label": "Duration",
+        "value": "4 hours (Knowledge and Practical portions in one continuous session)"
+      },
+      {
+        "label": "Total Questions",
+        "value": "116 questions worth 175 points"
+      },
+      {
+        "label": "Passing Score",
+        "value": "80% overall (average of highest Knowledge and highest Practical portion scores)"
+      },
+      {
+        "label": "Attempts",
+        "value": "Up to 3 per academic year with a mandatory 20-day waiting period between attempts"
+      }
+    ],
+    "eligibility": [
+      "No formal prerequisites mandated — open to high school students, community college students, and university-level candidates",
+      "Completion of or enrolment in a biotechnology, biology, chemistry, or allied science certificate/degree programme is strongly recommended",
+      "A foundational lab background — experience with micropipettes, compound microscope, spectrophotometer, and gel electrophoresis — is advised before attempting",
+      "Early-career lab professionals seeking to validate entry-level biotechnology competencies are also eligible",
+      "Registration is via an authorised Exam Site (school or college) or individually through the UF Continuing Education portal for the Remote Testing Option"
+    ],
+    "examPattern": [
+      {
+        "label": "Total Questions",
+        "value": "116 (64 Knowledge Portion + 52 Practical Portion)"
+      },
+      {
+        "label": "Total Points",
+        "value": "175"
+      },
+      {
+        "label": "Question Format",
+        "value": "Scenario-based, single-best-answer MCQ"
+      },
+      {
+        "label": "Portions",
+        "value": "2 — Knowledge Portion and Practical Portion, completed in one continuous session"
+      },
+      {
+        "label": "Duration",
+        "value": "4 hours"
+      },
+      {
+        "label": "Passing Score",
+        "value": "80% overall (average of highest Knowledge and Practical scores)"
+      },
+      {
+        "label": "Negative Marking",
+        "value": "None"
+      }
+    ],
+    "syllabusOverview": [
+      {
+        "subject": "Biotechnology Skills",
+        "portion": "Practical",
+        "weightage": "23%",
+        "questions": 19,
+        "points": 40.25,
+        "topics": "Accurate pipetting technique, buffer and reagent preparation, aseptic transfers, biological safety cabinet and autoclave use, sterile technique, lab documentation (SOPs, batch records, lab notebooks)"
+      },
+      {
+        "subject": "Technical Skills & Applications",
+        "portion": "Knowledge",
+        "weightage": "19%",
+        "questions": 22,
+        "points": 33.25,
+        "topics": "Aseptic technique, cell culture and subculturing, DNA extraction, PCR and gel electrophoresis, protein isolation and quantification (SDS-PAGE, Bradford assay), microscopy, bioprocessing and fermentation fundamentals"
+      },
+      {
+        "subject": "Safety & Workplace Culture",
+        "portion": "Knowledge",
+        "weightage": "12%",
+        "questions": 15,
+        "points": 21,
+        "topics": "OSHA standards, SDS interpretation, PPE selection and use, biosafety levels (BSL-1 through BSL-4), biohazard and chemical waste disposal, emergency procedures, professional conduct and bioethics"
+      },
+      {
+        "subject": "Applied Mathematics",
+        "portion": "Practical",
+        "weightage": "12%",
+        "questions": 13,
+        "points": 21,
+        "topics": "Serial dilutions, molarity and C1V1=C2V2 calculations, percent concentration (w/v, v/v, w/w), metric/SI unit conversions, scientific notation, significant figures, basic data interpretation"
+      },
+      {
+        "subject": "Biochemistry & Molecular Biology",
+        "portion": "Knowledge",
+        "weightage": "10%",
+        "questions": 15,
+        "points": 17.5,
+        "topics": "Cell structure (prokaryotic vs eukaryotic), DNA structure and replication, transcription and translation, enzyme kinetics, macromolecule function (proteins, lipids, carbohydrates, nucleic acids), recombinant DNA basics"
+      },
+      {
+        "subject": "Regulation & Quality",
+        "portion": "Knowledge",
+        "weightage": "9%",
+        "questions": 12,
+        "points": 15.75,
+        "topics": "Current Good Manufacturing Practices (cGMP), Good Laboratory Practices (GLP), SOPs and batch records, Quality Assurance vs Quality Control, FDA/EPA/USDA regulatory roles, data integrity and deviation reporting"
+      },
+      {
+        "subject": "Standard Equipment",
+        "portion": "Practical",
+        "weightage": "8%",
+        "questions": 10,
+        "points": 14,
+        "topics": "Micropipettes (P20, P200, P1000), spectrophotometry and Beer-Lambert Law, centrifugation (RPM vs RCF), PCR thermal cycler operation, gel electrophoresis setup, pH meters and balances, microscope operation"
+      },
+      {
+        "subject": "Experimental Design & Data Analysis",
+        "portion": "Practical",
+        "weightage": "7%",
+        "questions": 10,
+        "points": 12.25,
+        "topics": "Controls (positive, negative), independent and dependent variables, replication, hypothesis formation, data recording and graphing, identifying sources of error, basic statistical interpretation"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who should take the BACE exam?",
+        "answer": "The BACE is designed for anyone entering the biotechnology workforce at the technician level — high school students in CTE or biomedical science programmes, community college students in biotech or life sciences, career changers with adjacent lab experience, and undergraduates seeking a verified credential. No specific degree is required."
+      },
+      {
+        "question": "How many questions are on the BACE and what is the passing score?",
+        "answer": "The BACE has 116 total questions worth 175 points, split across a Knowledge Portion (64 questions) and a Practical Portion (52 questions). To pass, candidates must score 80% or higher overall — calculated as the average of the highest Knowledge score and highest Practical score across attempts."
+      },
+      {
+        "question": "Is the BACE accepted nationally across the USA?",
+        "answer": "Yes. The BACE is formally adopted as an Industry-Recognised Credential in 17 U.S. states and is supported by national organisations including InnovATEBIO, NIIMBL, and BioFlorida. Over 84 biotechnology companies nationwide have hired BACE credential holders."
+      },
+      {
+        "question": "Can I take the BACE remotely?",
+        "answer": "Yes. Candidates not affiliated with a registered Exam Site can register individually through UF Continuing Education and sit the exam remotely from home, monitored in real time by ProctorU. As of AY 2025–2026, the exam is exclusively computer-based — the paper option has been retired."
+      }
+    ]
   },
+  "path": "configs/bace.json"
+},
   "mtel": {
     "meta": {
       "examId": "MTEL",

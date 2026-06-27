@@ -158,5 +158,15 @@
     "excerpt": "Looking for the official WASSCE 2026 timetable? Get verified WAEC 2026 exam dates (April 21 – June 19), registration fees (₦37,500), and latest CBT updates. Learn how to pass your exams with tips from the Chief Examiners' Report.",
     "tags": ["WAEC", "WASSCE", "NECO", "BECE", "Junior WAEC", "Senior Secondary", "Nigerian Education", "Exam Prep"],
     "mdFilePath": "/blog/wassce-2026-official-updates-cbt-dates-fees-guide.md"
-  }
+  },
+  {
+  "slug": "bace-exam-guide",
+  "title": "BACE Exam 2026: Complete Guide to the Biotechnology Aptitude & Competency Exam",
+  "type": "blog",
+  "date": "2026-06-27",
+  "author": "ExamOven Team",
+  "excerpt": "Everything you need to know about the BACE exam: 116 questions, 4-hour duration, 80% passing score, 8 topic categories, registration steps, study tips, and a free practice test.",
+  "tags": ["BACE", "Biotechnology", "Lab Certification", "Biotech Careers", "Exam Prep", "Study Guides"],
+  "mdFilePath": "/blog/bace-exam-guide.md"
+}
 ]
