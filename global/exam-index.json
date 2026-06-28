@@ -56,6 +56,7 @@
   "bece_basicScience": "configs/bece.json",
   "bece_Technology&ComputerScience": "configs/bece.json",
   "bece_physicalEducation": "configs/bece.json",
+  "bece_englishComprehension": "configs/bece.json",
   "hosa_nutrition_physiology": "configs/hosa-nutrition.json",
   "hosa_nutrition_macronutrients": "configs/hosa-nutrition.json",
   "hosa_nutrition_vitamins_minerals": "configs/hosa-nutrition.json",

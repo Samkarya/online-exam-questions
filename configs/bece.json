@@ -110,5 +110,21 @@
         "isOfficial": false,
         "seo_title": "BECE Physical Education (PHE) Practice Test Online",
         "seo_description": "Free BECE Physical Health Education practice test. Review core PHE topics and prepare for your Nigeria Junior Secondary School certificate."
+    },
+    {
+        "id": "bece_englishComprehension",
+        "category": "BECE",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "BECE English Studies: Reading Comprehension",
+        "short_description": "Master BECE English comprehension with 5 rich passages and 50 questions covering main ideas, inference, vocabulary in context, fact vs. opinion, author's purpose, and following directions.",
+        "description": "### Module: Reading Comprehension\n\n**Focus:** Critical Reading & Text Analysis | **Level:** Junior Secondary (JSS3)\n\nDevelop the essential reading and analytical skills needed to excel in the English Studies paper of the Basic Education Certificate Examination (BECE / Junior WAEC). This module features **5 carefully curated passages** with **10 questions each** (50 questions total), designed to mirror the style and difficulty of the official examination.\n\n---\n\n#### Comprehension 1 (Questions 1 – 10): Community & Environment\n**Passage:** *The Green Earth Initiative* — A community tree-planting drive in Greenhill Village, exploring themes of collective effort, soil conservation, and deforestation.\n\n#### Comprehension 2 (Questions 11 – 20): History & Technology\n**Passage:** *The Ancient Art of Polynesian Wayfinding* — How master navigators (*pwo*) crossed the Pacific Ocean using stars, ocean swells, and bird behaviour, validated by the 1976 *Hōkūleʻa* voyage.\n\n#### Comprehension 3 (Questions 21 – 30): African Heritage\n**Passage:** *The Nok Civilization of Central Nigeria* — Explores the paradoxical brilliance of an ancient culture that mastered both delicate terra-cotta art and advanced iron-smelting 3,500 years ago.\n\n#### Comprehension 4 (Questions 31 – 40): Agriculture & Sustainability\n**Passage:** *Terraced Farming in Achi Village* — How indigenous stepped-field farming preserves nutrient-rich topsoil on steep slopes, and the threat of youth outmigration to cities.\n\n#### Comprehension 5 (Questions 41 – 50): Science & Architecture\n**Passage:** *Traditional Hausa Tubali Architecture* — How ancient mud-brick (*Tubali*) dome structures use passive thermal buoyancy to naturally cool interiors, far outperforming modern corrugated iron roofs.\n\n---\n\n**Skills Tested Across All 5 Passages:**\n* **Main Idea & Supporting Details:** Identifying the central argument and distinguishing it from minor supporting facts.\n* **Inference & Interpretation:** Drawing logical conclusions beyond what is literally stated.\n* **Vocabulary in Context:** Deducing the meaning of challenging words (e.g., *assiduity, esoteric, ubiquity, atrophy, impervious*) from contextual clues alone.\n* **Fact vs. Opinion:** Recognising the critical difference between verifiable statements and subjective judgments.\n* **Author's Purpose & Tone:** Identifying the writer's intent—whether to inform, persuade, or entertain—and the mood conveyed.\n* **Following Directions & Spatial Reading:** Carefully sequencing and locating step-by-step instructional details within a passage.",
+        "path": "nigeria/BECE/englishStudies/englishComprehension.json",
+        "isOfficial": false,
+        "seo_title": "BECE English Comprehension Practice Test | 5 Passages, 50 Questions | Junior WAEC",
+        "seo_description": "Ace BECE English Studies Comprehension with our free online practice test. 5 rich passages (community, history, African heritage, agriculture & architecture) with 10 questions each. Master main ideas, inference, vocabulary in context, fact vs. opinion, and author's purpose for the Junior WAEC exam."
     }
 ]
