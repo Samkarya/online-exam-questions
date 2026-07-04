@@ -62,6 +62,8 @@
   "bece_spokenEnglishOral": "configs/bece.json",
   "bece_ccaArts0": "configs/bece.json",
   "bece_ccaArts1": "configs/bece.json",
+  "bece_ccaCrafts0": "configs/bece.json",
+  "bece_ccaCrafts1": "configs/bece.json",
   "hosa_nutrition_physiology": "configs/hosa-nutrition.json",
   "hosa_nutrition_macronutrients": "configs/hosa-nutrition.json",
   "hosa_nutrition_vitamins_minerals": "configs/hosa-nutrition.json",
