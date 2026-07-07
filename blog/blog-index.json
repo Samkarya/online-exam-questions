@@ -160,13 +160,23 @@
     "mdFilePath": "/blog/wassce-2026-official-updates-cbt-dates-fees-guide.md"
   },
   {
-  "slug": "bace-exam-guide",
-  "title": "BACE Exam 2026: Complete Guide to the Biotechnology Aptitude & Competency Exam",
-  "type": "blog",
-  "date": "2026-06-27",
-  "author": "ExamOven Team",
-  "excerpt": "Everything you need to know about the BACE exam: 116 questions, 4-hour duration, 80% passing score, 8 topic categories, registration steps, study tips, and a free practice test.",
-  "tags": ["BACE", "Biotechnology", "Lab Certification", "Biotech Careers", "Exam Prep", "Study Guides"],
-  "mdFilePath": "/blog/bace-exam-guide.md"
-}
+    "slug": "bace-exam-guide",
+    "title": "BACE Exam 2026: Complete Guide to the Biotechnology Aptitude & Competency Exam",
+    "type": "blog",
+    "date": "2026-06-27",
+    "author": "ExamOven Team",
+    "excerpt": "Everything you need to know about the BACE exam: 116 questions, 4-hour duration, 80% passing score, 8 topic categories, registration steps, study tips, and a free practice test.",
+    "tags": ["BACE", "Biotechnology", "Lab Certification", "Biotech Careers", "Exam Prep", "Study Guides"],
+    "mdFilePath": "/blog/bace-exam-guide.md"
+  },
+  {
+    "slug": "examen-medecine-dentisterie-belgique-2026",
+    "title": "Concours Médecine Belgique 2026 : le guide complet et vérifié du concours d'entrée en médecine et dentisterie",
+    "type": "blog",
+    "date": "2026-07-07",
+    "author": "ExamOven",
+    "excerpt": "Tout ce qu'il faut savoir sur le concours médecine Belgique (ARES) — date vérifiée, format réel des questions (80 QCM sur 160 pts), derniers résultats officiels 2025, cotation à points négatifs, quotas et stratégie de préparation, mis à jour pour août 2026.",
+    "tags": ["Concours Médecine Belgique", "ARES FWB", "Études de Médecine", "Préparation Concours", "Concours Entrée Médecine"],
+    "mdFilePath": "/blog/examen-medecine-dentisterie-belgique-2026.md"
+  }
 ]

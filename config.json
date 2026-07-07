@@ -1679,7 +1679,7 @@
       "description": "Concours annuel centralisé organisé par l'ARES en Fédération Wallonie-Bruxelles pour l'accès aux études de médecine et de médecine dentaire. Il évalue les connaissances scientifiques (Biologie, Chimie, Physique, Mathématiques) et les compétences en communication et analyse critique.",
       "officialWebsite": "https://www.concoursmd.be",
       "isOfficial": true,
-      "lastUpdated": "2026-04-30",
+      "lastUpdated": "2026-07-07",
       "seoTitle": "Concours Médecine Belgique 2026 : Tests Gratuits, Syllabus & Guide",
       "seoDescription": "Préparez le concours d'entrée en médecine & dentisterie de Belgique (ARES) avec des tests gratuits & le syllabus 2026. Maîtrisez Bio, Chimie, Physique & Maths!",
       "relatedBlogTags": [
@@ -1691,15 +1691,23 @@
       "keyFacts": [
         {
           "label": "Fréquence",
-          "value": "Deux sessions par an : session d'été (juillet/août) et session de janvier"
+          "value": "Une session unique par an : épreuve fixée entre le 16 et le 31 août (ex. jeudi 27 août 2026)"
         },
         {
           "label": "Mode",
-          "value": "Épreuve écrite sur papier dans des salles d'examen officielles"
+          "value": "Épreuve écrite entièrement QCM, sur papier, organisée de manière centralisée à Brussels Expo (Plateau du Heysel, Bruxelles)"
         },
         {
-          "label": "Durée totale",
-          "value": "Environ 4 à 5 heures (Partie 1 + Partie 2)"
+          "label": "Structure",
+          "value": "80 questions QCM réparties en deux séries de 40 questions (matin et après-midi)"
+        },
+        {
+          "label": "Score total",
+          "value": "Coté sur 160 points (4 matières scientifiques × 20 pts + Raisonnement 20 pts + Communication 60 pts)"
+        },
+        {
+          "label": "Marquage négatif",
+          "value": "Oui — pénalité de -1/3 par mauvaise réponse ; -1/3 si plusieurs réponses cochées pour une même question"
         },
         {
           "label": "Langue",
@@ -1707,75 +1715,108 @@
         },
         {
           "label": "Validité du résultat",
-          "value": "Le classement est valable pour l'année académique suivant la session"
+          "value": "L'attestation de réussite est valable uniquement pour l'année académique immédiatement suivante"
+        },
+        {
+          "label": "Quota non-résidents",
+          "value": "Maximum 15 % des admis par filière (résultats 2025 : 219/1 462 en médecine, 27/186 en dentisterie)"
         }
       ],
       "eligibility": [
         "Être titulaire ou être en cours d'obtention du Certificat d'Enseignement Secondaire Supérieur (CESS) ou d'un diplôme équivalent reconnu",
-        "Les candidats titulaires d'un diplôme étranger doivent obtenir une équivalence de diplôme auprès de la Fédération Wallonie-Bruxelles avant le jour du concours",
-        "L'inscription au concours doit être effectuée avant la date limite fixée chaque année par l'ARES via le portail officiel concoursmd.be",
-        "Il n'y a pas de limite d'âge ni de limite au nombre de tentatives autorisées"
+        "Les candidats non-résidents titulaires d'un diplôme étranger n'ont pas à fournir leur équivalence au moment de l'inscription — elle est requise uniquement en cas de réussite au concours ; le traitement peut prendre plusieurs mois, il est conseillé d'entamer la démarche tôt",
+        "L'inscription au concours se fait exclusivement en ligne sur concoursmd.be dans la fenêtre ouverte chaque année par l'ARES (frais d'inscription : 30 €)",
+        "Il n'y a pas de limite d'âge",
+        "Le concours peut être présenté au maximum deux fois sur une période de cinq années académiques consécutives ; s'inscrire sans se présenter (annulation dans les délais ou absence) ne consomme pas de tentative"
       ],
       "examPattern": [
         {
-          "label": "Partie 1 — Épreuve de connaissances scientifiques",
-          "value": "100 questions QCM : Biologie (50Q) | Chimie (20Q) | Physique (20Q) | Mathématiques (10Q)"
+          "label": "Format général",
+          "value": "80 questions à choix multiples (QCM), réparties en deux séries de 40 (matin et après-midi) — pas 120, contrairement à d'anciens guides"
         },
         {
-          "label": "Partie 2 — Communication et analyse critique",
-          "value": "Questions portant sur la compréhension de textes, la synthèse, l'argumentation et le raisonnement clinique/éthique"
+          "label": "Chimie",
+          "value": "20 pts sur 160 — structure atomique, stœchiométrie, thermodynamique, cinétique, acido-basique, chimie organique"
         },
         {
-          "label": "Format des questions",
-          "value": "QCM (Partie 1) et questions ouvertes/réponses courtes (Partie 2)"
+          "label": "Biologie",
+          "value": "20 pts sur 160 — biologie cellulaire, génétique, physiologie humaine, métabolisme, microbiologie"
+        },
+        {
+          "label": "Physique",
+          "value": "20 pts sur 160 — mécanique, fluides, thermodynamique, électricité, optique, ondes, radioactivité"
+        },
+        {
+          "label": "Mathématiques",
+          "value": "20 pts sur 160 — algèbre, analyse (dérivation, intégration), trigonométrie, géométrie analytique, probabilités"
+        },
+        {
+          "label": "Raisonnement et analyse critique de l'information",
+          "value": "20 pts sur 160 — lecture de textes complexes, inférence logique, extraction de données, raisonnement spatial"
+        },
+        {
+          "label": "Communication",
+          "value": "60 pts sur 160 (la matière la plus pondérée) — communication interpersonnelle, bioéthique, esprit critique, raisonnement clinique"
         },
         {
           "label": "Notation",
-          "value": "Classement final basé sur le score combiné des deux parties ; pas de note minimale fixe"
+          "value": "Classement national par ordre décroissant du score sur 160 ; pas de note éliminatoire ni de seuil minimal par matière depuis la réforme 2023"
         },
         {
           "label": "Marquage négatif",
-          "value": "Variable selon l'année — toujours vérifier les instructions officielles de l'ARES"
+          "value": "-1/3 par mauvaise réponse ; -1/3 supplémentaire si plusieurs réponses cochées pour une même question — ne jamais répondre au hasard sans éliminer au moins deux options"
         }
       ],
       "syllabusOverview": [
         {
-          "subject": "Biologie",
-          "topics": "Biologie cellulaire et moléculaire (structure cellulaire, membrane plasmique, organites), ADN, réplication, transcription et traduction (dogme central), Génétique mendélienne et moléculaire (mutations, hérédité, groupes sanguins), Mitose et méiose, Métabolisme (glycolyse, cycle de Krebs, chaîne respiratoire, photosynthèse), Physiologie humaine (systèmes cardiovasculaire, respiratoire, digestif, rénal, nerveux, endocrinien, immunitaire), Microbiologie & virologie de base, Histologie et embryologie de base"
+          "subject": "Chimie (20 pts)",
+          "topics": "Structure de la matière (atomes, ions, tableau périodique, liaisons chimiques), Stœchiométrie et équilibres chimiques, Thermodynamique chimique (enthalpie, entropie, énergie libre de Gibbs) — plus approfondie que dans beaucoup d'autres cursus, Oxydoréduction et électrochimie, Cinétique chimique (vitesse de réaction, catalyse), Équilibres acido-basiques (pH, pKa, tampons), Chimie organique : fonctions chimiques (alcools, aldéhydes, cétones, acides carboxyliques, amines, esters), Nomenclature IUPAC, Mécanismes réactionnels de base, Biomolécules (glucides, lipides, acides aminés, protéines)"
         },
         {
-          "subject": "Chimie",
-          "topics": "Structure de la matière (atomes, ions, tableau périodique, liaisons chimiques), Stœchiométrie et équilibres chimiques, Thermodynamique chimique (enthalpie, entropie, énergie libre de Gibbs), Cinétique chimique (vitesse de réaction, catalyse), Équilibres acido-basiques (pH, pKa, tampons), Chimie organique : fonctions chimiques (alcools, aldéhydes, cétones, acides carboxyliques, amines, esters), Nomenclature IUPAC, Réactivité et mécanismes réactionnels de base, Biomolécules (glucides, lipides, acides aminés, protéines)"
+          "subject": "Biologie (20 pts)",
+          "topics": "Biologie cellulaire et moléculaire (structure cellulaire, membrane plasmique, organites), ADN, réplication, transcription et traduction (dogme central), Génétique mendélienne et moléculaire (mutations, hérédité, groupes sanguins), Mitose et méiose, Métabolisme (glycolyse, cycle de Krebs, chaîne respiratoire, photosynthèse), Physiologie humaine (systèmes nerveux, endocrinien, cardiovasculaire, respiratoire, digestif, rénal, immunitaire), Microbiologie & virologie de base, Écologie et évolution, Histologie et embryologie de base"
         },
         {
-          "subject": "Physique",
-          "topics": "Mécanique : cinématique (MRU, MRUA), dynamique (lois de Newton, frottements), travail, énergie et puissance, Mécanique des fluides (pression, poussée d'Archimède, équation de Bernoulli), Thermodynamique : lois de la thermodynamique, transferts thermiques, Électricité et magnétisme : circuits électriques (loi d'Ohm, Kirchhoff), champ électrique et magnétique, induction, Optique géométrique (réflexion, réfraction, lentilles, œil), Ondes : acoustique, lumière, spectre électromagnétique, Physique moderne : radioactivité, rayonnements ionisants, applications médicales"
+          "subject": "Physique (20 pts)",
+          "topics": "Mécanique classique : cinématique (MRU, MRUA), dynamique (lois de Newton, frottements), travail, énergie et puissance, Mécanique des fluides (pression, poussée d'Archimède, équation de Bernoulli), Thermodynamique : lois de la thermodynamique, transferts thermiques, Électricité et magnétisme : circuits électriques (loi d'Ohm, Kirchhoff), champ électrique et magnétique, induction, Optique géométrique (réflexion, réfraction, lentilles, œil), Ondes et son, spectre électromagnétique, Physique moderne : radioactivité et physique nucléaire, rayonnements ionisants, applications médicales — des questions calculatoires sont attendues"
         },
         {
-          "subject": "Mathématiques",
-          "topics": "Algèbre : équations et inéquations (1er et 2nd degré), systèmes d'équations, polynômes, Fonctions et analyse : limites, continuité, dérivation (règles, applications), intégration (calcul d'aires), Trigonométrie : fonctions trigonométriques, identités, équations, Géométrie analytique : droites, coniques (cercle, ellipse, parabole), vecteurs dans le plan, Statistiques et probabilités : statistique descriptive, probabilités (loi binomiale, normale), espérance et variance"
+          "subject": "Mathématiques (20 pts)",
+          "topics": "Algèbre : équations et inéquations (1er et 2nd degré), systèmes d'équations, polynômes, Fonctions et analyse : limites, continuité, dérivation (règles, applications), intégration (calcul d'aires), Logarithmes et exponentielles, Trigonométrie : fonctions trigonométriques, identités, équations, Géométrie analytique : droites, coniques (cercle, ellipse, parabole), vecteurs dans le plan, Statistiques et probabilités : statistique descriptive, probabilités (loi binomiale, normale), espérance et variance — la vitesse de calcul est déterminante"
         },
         {
-          "subject": "Communication et analyse critique",
-          "topics": "Compréhension et synthèse de textes scientifiques et médicaux, Analyse d'arguments et détection de raisonnements fallacieux, Résolution de situations éthiques dans un contexte médical, Communication empathique et professionnelle, Raisonnement clinique de base et prise de décision, Structuration d'une argumentation écrite claire et cohérente"
+          "subject": "Raisonnement et analyse critique de l'information (20 pts)",
+          "topics": "Lecture de textes complexes et extraction de données pertinentes, Inférence logique et déduction, Raisonnement spatial, Identification de sophismes et biais argumentatifs, Évaluation de la validité de raisonnements scientifiques — exige une lecture rapide et une technique solide sous pression temporelle"
+        },
+        {
+          "subject": "Communication (60 pts — la plus pondérée)",
+          "topics": "Communication interpersonnelle et professionnelle dans un contexte médical, Écoute active et reconnaissance de conflits, Raisonnement éthique appliqué : les quatre principes de bioéthique (autonomie, bienfaisance, non-malfaisance, justice), Esprit critique face aux arguments et aux présupposés, Raisonnement clinique de base et prise de décision, Compréhension et synthèse de textes médicaux — représente 37,5 % du score total ; systématiquement sous-estimée par les candidats à profil scientifique fort"
         }
       ],
       "faqs": [
         {
-          "question": "Combien de fois puis-je passer le concours par an ?",
-          "answer": "Le concours est organisé deux fois par an : une session en été (généralement en juillet-août) et une session en janvier. Les candidats peuvent se présenter aux deux sessions la même année académique, leur meilleur résultat étant retenu."
+          "question": "Combien de fois puis-je passer le concours, et combien de sessions y a-t-il par an ?",
+          "answer": "Il n'y a qu'une seule session par an, organisée un jeudi entre le 16 et le 31 août à Brussels Expo. Le concours peut être présenté au maximum deux fois sur une période de cinq années académiques consécutives. S'inscrire sans se présenter (annulation dans les délais ou absence le jour J) ne consomme pas de tentative — seule la participation effective en compte une."
         },
         {
           "question": "Y a-t-il une note de passage minimale au concours ?",
-          "answer": "Il n'existe pas de note de passage absolue fixe. Les candidats sont classés selon leur score total, et l'admission dépend du classement obtenu par rapport au nombre de places disponibles dans les facultés. Le classement varie donc d'une session à l'autre en fonction du niveau général des candidats."
+          "answer": "Non. Depuis la réforme de 2023 (passage de l'examen EXMD à un concours de classement), il n'existe plus ni cote d'exclusion ni seuil minimal par matière. Les candidats sont classés par score décroissant sur 160 points, et l'admission se fait jusqu'au quota fixé chaque année par le gouvernement. En 2025, 1 648 candidats ont été admis sur 5 294 délibérés (environ 31 %)."
         },
         {
           "question": "Le concours est-il le même pour la médecine et la médecine dentaire ?",
-          "answer": "Oui, en Fédération Wallonie-Bruxelles, le même concours d'entrée (organisé par l'ARES) donne accès aux études de médecine et de médecine dentaire. Les candidats indiquent leur choix de filière lors de l'inscription, et le classement est établi séparément pour chaque filière."
+          "answer": "Oui, même épreuve pour les deux filières. Mais le choix de la filière (médecine ou dentisterie) et de l'université se fait de façon définitive à l'inscription — il n'est pas possible de tenter les deux avec une seule participation. L'ARES produit ensuite deux classements nationaux distincts à partir des mêmes résultats."
+        },
+        {
+          "question": "Combien de questions comporte réellement l'épreuve ?",
+          "answer": "80 questions à choix multiples au total, réparties en deux séries de 40 (matin et après-midi) — pas 100 ni 120 comme l'affirment certains guides plus anciens. L'épreuve porte sur six matières : Chimie, Biologie, Physique, Mathématiques (20 pts chacune), Raisonnement et analyse critique (20 pts) et Communication (60 pts)."
+        },
+        {
+          "question": "Y a-t-il une cotation à points négatifs ?",
+          "answer": "Oui. Le concours applique une pénalité de -1/3 par mauvaise réponse, et -1/3 supplémentaire si plusieurs réponses sont cochées pour une même question. Ne répondez jamais au hasard sans avoir éliminé au moins deux options. Un débat politique est en cours sur une éventuelle suppression future de cette règle, mais aucun changement n'est confirmé pour 2026."
         },
         {
           "question": "Comment se préparer efficacement au concours ?",
-          "answer": "La préparation idéale combine une révision approfondie des mathématiques et sciences de la dernière année de l'enseignement secondaire (en particulier biologie, chimie et physique), des exercices sur les QCM de sessions antérieures disponibles sur concoursmd.be, et la pratique de textes d'analyse critique. Des cours préparatoires privés et les sessions de préparation organisées par certaines universités francophones belges sont également très utiles."
+          "answer": "Commencez au moins six mois avant (idéalement dès février-mars pour une session d'août). Évaluez d'abord vos lacunes sur une annale récente disponible sur concoursmd.be. Travaillez le programme officiel de l'ARES matière par matière. Surtout, ne sous-estimez pas la Communication (60/160 pts = 37,5 % du score) : traitez-la comme une matière à part entière dès le premier jour. Dans les dernières semaines, passez à des simulations complètes chronométrées reproduisant les deux sessions du vrai jour."
         }
       ]
     },
