@@ -1838,7 +1838,7 @@
       "description": "The LSO Paralegal Licensing Examination (P1) is the mandatory competency-based assessment required to obtain a Class P1 licence to practise as an independent paralegal in Ontario, Canada. It tests the ability to apply law and professional judgment across ethics, civil litigation, criminal law, and practice management. The exam is open-book and conducted at designated Computer-Based Testing centres.",
       "officialWebsite": "https://lso.ca",
       "isOfficial": true,
-      "lastUpdated": "2026-05-02",
+      "lastUpdated": "2026-07-08",
       "seoTitle": "LSO Paralegal Licensing Exam 2026: Fees, Dates, Format & How to Pass",
       "seoDescription": "Complete guide to the 2026 LSO P1 Paralegal Licensing Exam. Confirmed fees ($1,460 + HST), exam dates, format, permitted materials, and a proven study strategy.",
       "relatedBlogTags": [
@@ -1859,15 +1859,19 @@
         },
         {
           "label": "Duration",
-          "value": "7 hours total: two 3.5-hour sessions separated by a 30-minute break"
+          "value": "7 hours total: two 3.5-hour sessions separated by a 30-minute break. Note: this was temporarily reduced to a 4-hour, 160-question format during the 2020-21 licensing year only (COVID-era); the standard 7-hour format has since been restored."
         },
         {
           "label": "Scoring",
           "value": "No fixed pass percentage; pass mark set per sitting using the modified Angoff method"
         },
         {
-          "label": "Exam Fee (2026)",
-          "value": "$1,460 + HST (increased from $1,075 in the previous cycle); application fee $160 + HST additional"
+          "label": "Exam Fee (2026-27)",
+          "value": "$1,460 + HST (increased from $1,075 the prior cycle, per the LSO's approved 2026 budget); application fee $160 + HST additional"
+        },
+        {
+          "label": "Annual Paralegal Licensing Fee (2026)",
+          "value": "$1,037 + HST, with a $30 Compensation Fund refund applied, bringing the net fee to approximately $1,007 — this applies once licensed, not to the exam itself"
         },
         {
           "label": "Score Reporting",
@@ -1936,11 +1940,11 @@
       "faqs": [
         {
           "question": "How much does the LSO Paralegal Licensing Exam cost in 2026?",
-          "answer": "The exam fee for the 2026–2027 licensing year is $1,460 + HST, a significant increase from $1,075 in the previous cycle. An additional non-refundable application fee of $160 + HST applies. Always verify the current fee schedule on the LSO Connects portal before submitting payment."
+          "answer": "The exam fee for the 2026–2027 licensing year is $1,460 + HST, a significant increase from $1,075 in the previous cycle — confirmed in the LSO's approved 2026 budget and independently reported by Law Times. An additional non-refundable application fee of $160 + HST applies. Always verify the current fee schedule on the LSO Connects portal before submitting payment."
         },
         {
           "question": "Is the LSO P1 exam available online?",
-          "answer": "No. As of 2026, the exam is conducted exclusively in person at designated Computer-Based Testing (CBT) centres in Ontario. Remote and online proctoring options are not offered for this examination."
+          "answer": "No. The exam is conducted exclusively in person at designated Computer-Based Testing (CBT) centres in Ontario — this is confirmed directly on the LSO's official examination dates page. Remote and online proctoring options are not offered for this examination."
         },
         {
           "question": "What is the passing score for the LSO P1 exam?",
