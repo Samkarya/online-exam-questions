@@ -970,6 +970,16 @@
     "year": "2022"
   },
   {
+    "id": "examen_medical_et_dentaire_2024",
+    "title": "Concours d'entrée et d'accès en sciences médicales et en sciences dentaires - Questionnaire jaune 2024",
+    "description": "### Concours d'entrée et d'accès en sciences médicales et en sciences dentaires\n\nQuestions et corrigés du questionnaire jaune du concours d'entrée du 28 août 2024\n\n**Partie 1 - Connaissance et compréhension des matières scientifiques**",
+    "short_description": "Questions et corrigés du questionnaire jaune du concours d'entrée du 28 août 2024 - Partie 1 : Connaissance et compréhension des matières scientifiques",
+    "path": "Europe/Belgium/examen_médical_et_dentaire/questionnaireJaune2024.json",
+    "suitePath": "configs/examen_médical_et_dentaire.json",
+    "category": "examen_médical_et_dentaire",
+    "year": "2024"
+  },
+  {
     "id": "lso_paralegal_ethics_practice_1",
     "title": "LSO Paralegal Ethics & Professional Responsibilities Practice Test 1",
     "description": "### LSO Paralegal Ethics Practice Test\n\nComprehensive practice for the Law Society of Ontario (LSO) Paralegal Licensing Exam, focusing on the Ethics & Professional Responsibilities module.\n\n**Topics Included:**\n* **Rules of Conduct:** Mandatory vs. permissive withdrawal, duty of candour, and handling false evidence.\n* **Client Relations:** Conflicts of interest, joint retainers, trust fund accounting, and clients under a disability.\n* **Professionalism:** Dealing with unrepresented persons, civility, advertising rules, and the duty to report.",

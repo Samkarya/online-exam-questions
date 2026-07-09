@@ -96,6 +96,7 @@
   "examen_médical_et_dentaire_2017": "configs/examen_médical_et_dentaire.json",
   "examen_médical_et_dentaire_2019": "configs/examen_médical_et_dentaire.json",
   "examen_médical_et_dentaire_2022": "configs/examen_médical_et_dentaire.json",
+  "examen_medical_et_dentaire_2024": "configs/examen_médical_et_dentaire.json",
   "lso_paralegal_ethics_practice_1": "configs/lso-paralegal.json",
   "wassce_gsm_introduction_to_mobile_phones_and_service_providers": "configs/wassce.json",
   "wassce_gsm_basic_computer_and_internet_concepts": "configs/wassce.json",

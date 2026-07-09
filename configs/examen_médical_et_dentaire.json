@@ -46,5 +46,21 @@
         "isOfficial": true,
         "seo_title": "Examen d'entrée Sciences Médicales et Dentaires 2022 - Questionnaire Bleu",
         "seo_description": "Accédez gratuitement aux questions et corrigés complets du questionnaire bleu de l'examen d'entrée en sciences médicales et dentaires de Belgique, session 2022."
-    }
+    },
+    {
+    "id": "examen_medical_et_dentaire_2024",
+    "category": "examen_médical_et_dentaire",
+    "year": "2024",
+    "session": "août",
+    "date": "2024-08-28",
+    "shift": null,
+    "paperType": "questionnairejaune",
+    "title": "Concours d'entrée et d'accès en sciences médicales et en sciences dentaires - Questionnaire jaune 2024",
+    "short_description": "Questions et corrigés du questionnaire jaune du concours d'entrée du 28 août 2024 - Partie 1 : Connaissance et compréhension des matières scientifiques",
+    "description": "### Concours d'entrée et d'accès en sciences médicales et en sciences dentaires\n\nQuestions et corrigés du questionnaire jaune du concours d'entrée du 28 août 2024\n\n**Partie 1 - Connaissance et compréhension des matières scientifiques**",
+    "path": "Europe/Belgium/examen_médical_et_dentaire/questionnaireJaune2024.json",
+    "isOfficial": true,
+    "seo_title": "Concours d'entrée Sciences Médicales et Dentaires 2024 - Questionnaire Jaune",
+    "seo_description": "Accédez gratuitement aux questions et corrigés complets du questionnaire jaune du concours d'entrée en sciences médicales et dentaires de Belgique, session 2024."
+  }
 ]
