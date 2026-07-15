@@ -942,17 +942,10 @@
       "fullName": "Basic Education Certificate Examination",
       "shortName": "BECE",
       "category": "Junior Secondary School Certification",
-      "conductingBody": "National Examinations Council (NECO), Nigeria",
+      "conductingBody": "NECO / WAEC",
       "country": "Nigeria",
-      "examType": [
-        "Certification",
-        "Junior Secondary Exit Examination",
-        "Paper-Based"
-      ],
-      "description": "The BECE (also called Junior WAEC) is Nigeria's national exit exam for JSS3 (Grade 9) students, conducted by NECO. It certifies completion of the 9-year Basic Education programme and is the primary gateway to Senior Secondary School (SS1) admission.",
       "officialWebsite": "https://neco.gov.ng",
-      "isOfficial": true,
-      "lastUpdated": "2026-04-30",
+      "description": "The BECE (commonly called Junior WAEC) is Nigeria's exit exam for JSS3 (Basic 9) students, certifying completion of the 9-year Basic Education programme and serving as the gateway to Senior Secondary School (SS1) admission. BECE uses its own 5-level grading scale (A/B/C/P/F) — distinct from the SSCE used for university admission.",
       "seoTitle": "BECE 2026: Free Practice Tests, Syllabus & Junior WAEC Prep",
       "seoDescription": "Ace BECE 2026 (Junior WAEC) with free practice tests & full syllabus. Cover English, Maths, Basic Science & more for JSS3 exit exam success. Prep now!",
       "relatedBlogTags": [
@@ -961,54 +954,117 @@
         "NECO",
         "Nigerian Education"
       ],
+      "heroStats": [
+        { "label": "Subjects", "value": "9–13" },
+        { "label": "Grade Level", "value": "JSS3" },
+        { "label": "Frequency", "value": "Annual" },
+        { "label": "Pass Mark", "value": "6 Subjects" }
+      ],
+      "importantDates": [
+        {
+          "event": "NECO BECE Registration Opens",
+          "date": "2026-03-01",
+          "note": "Registration is done through schools only.",
+          "status": "past"
+        },
+        {
+          "event": "Normal Registration Deadline",
+          "date": "2026-04-04",
+          "status": "past"
+        },
+        {
+          "event": "Late Registration Deadline",
+          "date": "2026-04-08",
+          "note": "Late fee: NGN 5,000 per candidate.",
+          "status": "past"
+        },
+        {
+          "event": "NECO BECE Exam Window",
+          "date": "2026-04-20 to 2026-04-30",
+          "note": "NECO-registered schools only. State/WAEC BECE follows a separate timetable.",
+          "status": "past"
+        },
+        {
+          "event": "Results Expected",
+          "date": "2026-07-01 (estimated)",
+          "note": "Typical turnaround is 6–8 weeks after the last paper.",
+          "status": "upcoming"
+        }
+      ],
+      "admitCard": {
+        "info": "Admit cards are issued by schools after registration. NECO-registered candidates can also access e-slip via the BECE portal.",
+        "url": "https://bece.neco.gov.ng"
+      },
+      "resultInfo": {
+        "info": "Results are published on the NECO website and delivered to schools. Candidates can check online using their examination number.",
+        "url": "https://results.neco.gov.ng"
+      },
+      "officialLinks": [
+        { "label": "NECO Official Website", "url": "https://neco.gov.ng" },
+        { "label": "BECE Registration Portal", "url": "https://bece.neco.gov.ng" },
+        { "label": "NECO Result Checker", "url": "https://results.neco.gov.ng" },
+        { "label": "WAEC Nigeria", "url": "https://waeconline.org.ng" }
+      ],
       "keyFacts": [
         {
           "label": "Frequency",
-          "value": "Annual (typically June–July)"
+          "value": "Annual (NECO: April/May; State/WAEC: varies)"
         },
         {
           "label": "Mode",
-          "value": "Paper-based (written examination at approved centres)"
+          "value": "Paper-based + Practicals"
         },
         {
           "label": "Level",
-          "value": "JSS3 (Junior Secondary School 3, equivalent to Grade 9)"
+          "value": "JSS3 (Basic 9 / ~Grade 9)"
         },
         {
           "label": "Grading",
-          "value": "A1 (Excellent) through F9 (Fail); Grades A1–C6 are generally passing grades"
+          "value": "A, B, C, P, F (5-level scale)"
         },
         {
-          "label": "Language of Instruction",
-          "value": "English (primary); French available as an optional subject"
+          "label": "Language",
+          "value": "English (primary)"
+        },
+        {
+          "label": "Typical Candidate Age",
+          "value": "13–15 years"
         }
       ],
       "eligibility": [
-        "Must be a registered JSS3 student in an approved Nigerian secondary school or a recognised private candidate",
-        "School registration through an accredited NECO examination centre is mandatory; individual private candidates may register through approved state education boards",
-        "Must have completed the 3-year Junior Secondary School curriculum (Basic 7, 8, and 9 / JSS1, JSS2, JSS3)",
-        "Age is not a strict criterion, but candidates are typically 13–16 years old"
+        "Must be a bona fide JSS3 student enrolled in a Federal, State, or approved private school",
+        "Registration is processed through the school only — no individual/private candidate registration is allowed",
+        "Must have completed the full 3-year JSS curriculum (JSS1–JSS3) with complete Continuous Assessment (CA) records",
+        "Incomplete CA scores may result in withheld results"
       ],
       "examPattern": [
         {
-          "label": "Core Compulsory Subjects",
-          "value": "English Language, Mathematics, Basic Science & Technology, National Values Education, Cultural & Creative Arts, Pre-Vocational Studies"
+          "label": "Subject Load (NECO)",
+          "value": "Minimum 9, maximum 10 subjects"
         },
         {
-          "label": "Optional Subjects",
-          "value": "French, Arabic, Hausa, Igbo, Yoruba, Agricultural Science, Business Studies, Computer Studies"
+          "label": "Subject Load (State/WAEC)",
+          "value": "Minimum 10–11, maximum 13 (state-specific)"
+        },
+        {
+          "label": "Compulsory Subjects",
+          "value": "English Studies and Mathematics"
         },
         {
           "label": "Paper Format",
-          "value": "Each subject typically includes an Objective (multiple-choice) section and a Theory/Essay section"
+          "value": "Objective (MCQ) + Theory/Essay; some subjects include Practicals"
         },
         {
-          "label": "Duration per Subject",
-          "value": "Typically 1.5–2.5 hours depending on the subject"
+          "label": "Pass Requirement",
+          "value": "Minimum 6 subjects passed, including English & Mathematics"
         },
         {
           "label": "Negative Marking",
           "value": "None"
+        },
+        {
+          "label": "Grading Scale",
+          "value": "A (70–100), B (60–69), C (50–59), P (40–49), F (0–39)"
         }
       ],
       "syllabusOverview": [
@@ -1018,33 +1074,49 @@
         },
         {
           "subject": "Mathematics",
-          "topics": "Number & Numeration (Integers, Fractions, Decimals, Indices, Standard Form), Basic Operations (BODMAS, LCM, HCF), Percentages & Ratios, Mensuration (Perimeter, Area, Volume), Algebra (Equations, Inequalities, Graphs), Geometry (Angles, Triangles, Circles), Statistics (Data collection, Bar charts, Pie charts, Mean)"
+          "topics": "Number & Numeration (Integers, Fractions, Decimals, Indices, Standard Form), Basic Operations (BODMAS, LCM, HCF), Percentages & Ratios, Mensuration (Perimeter, Area, Volume), Algebra (Equations, Inequalities, Graphs), Geometry (Angles, Triangles, Circles), Statistics (Mean, Charts)"
         },
         {
           "subject": "Basic Science & Technology",
-          "topics": "Physical Science: Matter, Motion, Energy (Kinetic & Potential), Electricity & Magnetism, Simple Machines; Chemistry: Mixtures & Compounds, Acids, Bases & Salts, Chemical Change; Biology: Living Things, Nutrition, Reproduction, Ecology; ICT: Computer components, Operating systems, Word processing, Internet safety"
+          "topics": "Physical Science: Matter, Motion, Energy, Electricity & Magnetism; Chemistry: Mixtures, Acids/Bases/Salts; Biology: Living Things, Nutrition, Reproduction, Ecology; ICT: Computer components, Word processing, Internet safety"
         },
         {
           "subject": "National Values Education",
-          "topics": "Civic Education (Democracy, Human Rights, Rule of Law), Security Education (Cybercrime, Substance Abuse, Trafficking), Financial Literacy, Social Studies (Family, Community, Culture), Christian Religious Studies / Islamic Studies (as applicable)"
+          "topics": "Civic Education (Democracy, Human Rights, Rule of Law), Security Education (Cybercrime, Substance Abuse), Financial Literacy, Social Studies (Family, Community, Culture)"
         },
         {
           "subject": "Cultural & Creative Arts",
-          "topics": "Visual Art (Drawing, Painting, Sculpture), Music (Theory, Notation, Indigenous music), Drama & Theatre Arts (stagecraft, playwriting), Crafts & Design"
+          "topics": "Visual Art (Drawing, Painting, Sculpture), Music (Theory, Notation, Indigenous music), Drama & Theatre Arts, Crafts & Design"
+        },
+        {
+          "subject": "Pre-Vocational Studies",
+          "topics": "Basic Technology (Technical Drawing, Workshop Practice), Home Economics (Food & Nutrition, Clothing, Home Management), Agricultural Science (Crop Production, Animal Husbandry)"
         }
       ],
       "faqs": [
         {
           "question": "Which class of students sit the BECE?",
-          "answer": "Students in JSS3 (Junior Secondary School 3, equivalent to Grade 9 or Basic 9) sit the BECE as their exit examination from the lower secondary/basic education tier. It is taken after completing three years of junior secondary education."
+          "answer": "Students in JSS3 (Junior Secondary School 3, equivalent to Basic 9) sit the BECE as their exit examination from junior secondary education, after completing three years of JSS."
         },
         {
           "question": "What grades are considered passing in BECE?",
-          "answer": "BECE grades run from A1 (Excellent, highest) to F9 (Fail, lowest). Grades A1 through C6 are generally considered passing grades required for Senior Secondary School (SS1) admission. Grades D7 and E8 are pass-level but may not meet specific school requirements, while F9 is a fail."
+          "answer": "BECE uses a 5-level scale: A (Distinction, 70–100), B (Upper Credit, 60–69), C (Lower Credit, 50–59), P (Pass, 40–49), and F (Fail, 0–39). A, B, C, and P are all passing grades. To gain SS1 admission, a candidate needs passes in at least 6 subjects including English and Mathematics."
         },
         {
-          "question": "How does the BECE differ from WAEC's BECE in Ghana?",
-          "answer": "Nigeria's BECE is conducted by NECO (National Examinations Council) for JSS3 students. Ghana's BECE is a separate examination conducted by WAEC for JHS3 students under a different curriculum. They share the same name but are distinct exams administered by different bodies in different countries."
+          "question": "Is BECE the same as NECO's SSCE?",
+          "answer": "No. BECE is the junior secondary (JSS3) exit exam. NECO's SSCE is a separate exam taken by SS3 students required for university admission. They are different exams with different grading scales (BECE: A/B/C/P/F; SSCE: A1–F9)."
+        },
+        {
+          "question": "Who conducts the BECE — NECO or WAEC?",
+          "answer": "Both, depending on the school. NECO conducts BECE for Federal Unity Colleges, Armed Forces Secondary Schools, and NECO-registered private schools. WAEC, in partnership with State Ministries of Education, conducts BECE (often called Junior WAEC) for public and state-approved private schools."
+        },
+        {
+          "question": "How does Nigeria's BECE differ from Ghana's BECE?",
+          "answer": "Nigeria's BECE is administered by NECO/WAEC-with-states for JSS3 students under the Nigerian curriculum. Ghana's BECE is a separate examination conducted by the Ghana Education Service (via WAEC Ghana) for JHS3 students under the Ghanaian curriculum. They share a name but are entirely distinct exams."
+        },
+        {
+          "question": "Can I register for BECE as a private/home-schooled candidate?",
+          "answer": "No. NECO BECE registration must be done through an approved school. There is no provision for individual or private candidate registration under the current NECO BECE framework."
         }
       ]
     },

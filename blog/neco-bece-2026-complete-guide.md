@@ -1,6 +1,6 @@
 ---
 title: "NECO BECE 2026: The Complete Guide for JSS3 Students and Parents"
-date: "2026-04-05"
+date: "2026-07-15"
 author: "ExamOven"
 excerpt: "Timetable, registration deadlines, subjects, grading, and results — everything verified for 2026."
 tags: ["BECE", "NECO", "JSS3", "Nigeria"]
@@ -24,9 +24,12 @@ In everyday language, this is what most Nigerians call **"Junior WAEC"** — tho
 | Exam Body | Conducts For | School Type |
 |---|---|---|
 | **NECO** (National Examinations Council) | NECO BECE | Federal Unity Colleges, private schools |
-| **State Ministry of Education** | State BECE | State-owned public schools |
+| **State Ministry of Education** (via WAEC) | State BECE | State-owned public schools |
 
 So if your child attends a Federal Government College, a Federal Science School, or a registered private secondary school, they sit the **NECO BECE**. If they attend a state public school, their exam is organised by the relevant State Ministry of Education — and the timetable, fees, and processes are different.
+
+> [!NOTE]
+> One more distinction worth being precise about: **BECE is not the same exam as NECO's SSCE.** SSCE (Senior Secondary Certificate Examination) is a separate exam sat years later by SS3 students, and it uses a different grading scale (A1–F9) from the one BECE uses. This guide is about BECE only — the JSS3 exam.
 
 > [!IMPORTANT]
 > No student can register for the BECE individually. All registrations must go through the school. This is a hard NECO rule, not a suggestion.
@@ -66,7 +69,7 @@ The school administrator logs into NECO's dedicated BECE registration portal at 
 Each candidate's personal information is entered into the offline registration application, along with a clear digital passport photograph. NECO specifies that the photograph must have a plain background.
 
 > [!CAUTION]
-> Any errors at this stage — a misspelled name, a wrong date of birth — cost **₦10,000 per candidate** to correct later. Double-check all entries before submission.
+> Any errors at this stage — a misspelled name, a wrong date of birth — attract a correction/non-validation penalty fee to fix later (NECO has charged figures in the ₦7,000–₦10,000 range per candidate across recent cycles; confirm the exact current fee in that year's official BECE registration guidelines PDF on neco.gov.ng before budgeting for it). Double-check all entries before submission.
 
 **Step 3 — Continuous Assessment (CA) scores uploaded**
 Schools are required to upload each candidate's CA scores for JSS1, JSS2, and JSS3.
@@ -93,15 +96,17 @@ The school prints and distributes photocards to candidates.
 
 ---
 
-## 2026 BECE Timetable: What We Know
+## 2026 BECE Timetable
 
-As of early April 2026, **NECO has not yet released the official 2026 BECE timetable.** This is not unusual. The council typically publishes the timetable a few weeks to a couple of months before the examination window opens.
+NECO released the official 2026 BECE timetable in early April 2026. The confirmed schedule was:
 
-Based on the 2025 pattern — where the BECE ran from **12 May to 23 May 2025** — the 2026 examination is expected to fall within the **May 2026** window.
+**Monday, 20 April 2026 to Thursday, 30 April 2026**
 
-> *Source: Unity Schools BECE Timetable Archive — [lasu-info.com](https://www.lasu-info.com/2018/03/neco-bece-examination-time-table.html)*
+This ran earlier in the year than the previous (2025) diet, which took place from 12 May to 23 May 2025 — a useful reminder that the exact window can shift from year to year, so always check the fresh timetable rather than assuming last year's dates will repeat.
 
-**Where to get the official timetable the moment it drops:**
+> *Source: MySchoolGist BECE Timetable 2026 — [myschoolgist.com](https://myschoolgist.com/neco/bece-timetable-185456/); official PDF — [neco.gov.ng/2026%20BECE%20Timetable.pdf](https://neco.gov.ng/2026%20BECE%20Timetable.pdf)*
+
+**Where to get the official timetable each year the moment it drops:**
 - The NECO official website: **neco.gov.ng**
 - Your school's notice board (schools receive official hard copies)
 - The BECE portal: **bece.neco.gov.ng**
@@ -109,13 +114,13 @@ Based on the 2025 pattern — where the BECE ran from **12 May to 23 May 2025** 
 > [!WARNING]
 > Do not trust third-party timetables circulating on WhatsApp. These are often recycled from previous years or fabricated entirely. Always verify against neco.gov.ng.
 
-The examination is conducted in **Paper I (Objective/Multiple-choice)** and **Paper II (Essay/Theory)** formats for most subjects.
+The examination is conducted in **Paper I (Objective/Multiple-choice)** and **Paper II (Essay/Theory)** formats for most subjects, with additional Practical or Drawing papers for subjects like Business Studies and Basic Science and Technology.
 
 ---
 
 ## Full BECE Subject Breakdown
 
-Candidates must register for a **minimum of 9 subjects** and a **maximum of 10 to 11 subjects** (schools advise based on their curriculum delivery). Two subjects form the non-negotiable core of the exam.
+Candidates must register for a **minimum of 9 subjects** and a **maximum of 10 subjects**, per current NECO registration guidelines. (Note: state-run/WAEC BECE tracks are sometimes cited with a different range — commonly minimum 10–11, maximum 13 — so confirm the applicable limit with your specific school if it isn't NECO-registered.) Two subjects form the non-negotiable core of the exam.
 
 ### Core Subjects (Compulsory for All Candidates)
 
@@ -164,7 +169,7 @@ PVS combines Agricultural Science and Home Economics. Topics range from crop pro
 
 ### Elective and Language Subjects
 
-Beyond the five composite and core areas, candidates choose from:
+Beyond the core and composite areas, candidates choose from:
 
 - **Cultural and Creative Arts (CCA)**
 - **Business Studies** (Book-keeping, Commerce, Shorthand, Typewriting)
@@ -194,16 +199,19 @@ To earn the **Basic Education Certificate** and gain admission into SS1, a candi
 
 The grading scale used:
 
-| Grade | Description |
-|---|---|
-| A | Distinction |
-| B | Upper Credit |
-| C | Lower Credit |
-| P | Pass |
-| F | Fail |
+| Grade | Score Range | Description |
+|---|---|---|
+| A | 70–100 | Distinction |
+| B | 60–69 | Upper Credit |
+| C | 50–59 | Lower Credit |
+| P | 40–49 | Pass |
+| F | 0–39 | Fail |
 
 > [!IMPORTANT]
 > Your performance in specific subjects — particularly Mathematics, Basic Science, and English — directly determines which **department** (Science, Commercial, or Arts) you are streamed into for SS1. A student who fails Basic Science and Technology will not easily access the science stream in senior secondary school, regardless of other preferences.
+
+> [!NOTE]
+> Don't confuse this scale with the **A1–F9** grading you'll see referenced for NECO's SSCE. That is a different exam, sat by SS3 students, with a different (9-level) scale. BECE always uses the A/B/C/P/F scale above.
 
 ---
 
@@ -253,14 +261,17 @@ If you are unsatisfied with a result, NECO allows candidates to apply for a **re
 
 ## Frequently Asked Questions
 
-**Is the 2026 BECE timetable out?**
-Not yet as of early April 2026. NECO has not published the official timetable for the 2026 BECE diet. Monitor **neco.gov.ng** directly for the announcement, which is expected ahead of the May exam window.
+**Was the 2026 BECE timetable released on time?**
+Yes. NECO released the official timetable in early April 2026, and the examination ran from Monday, 20 April to Thursday, 30 April 2026.
 
 **My child's school missed the April 8 registration deadline. What can we do?**
 Options are very limited once the NECO website has closed. Contact the school principal immediately and ask them to reach out directly to the NECO state office. There is no guarantee of a solution, which is why NECO repeatedly warns schools not to delay.
 
 **What is the difference between NECO BECE and State BECE?**
-NECO BECE is conducted by the National Examinations Council for Federal Unity Colleges and registered private schools. State BECE is organised by individual State Ministries of Education for state-owned public schools. The two exams are managed by separate bodies, with separate timetables, registration portals, and result systems.
+NECO BECE is conducted by the National Examinations Council for Federal Unity Colleges and registered private schools. State BECE is organised by individual State Ministries of Education (via WAEC) for state-owned public schools. The two exams are managed by separate bodies, with separate timetables, registration portals, and result systems.
+
+**Is BECE the same as NECO's SSCE?**
+No. BECE is the JSS3 exit exam covered in this guide. SSCE is a separate exam sat later by SS3 students, used for university admission, and graded on a different scale (A1–F9) from BECE's A/B/C/P/F.
 
 **Can BECE results be used to enter SS1?**
 Yes. The BECE is the official certification of basic education completion and is the required prerequisite for SS1 admission. Performance in core subjects is also used to determine departmental streaming into Science, Commercial, or Arts tracks.
@@ -289,11 +300,11 @@ NECO's policy is clear: candidates with incomplete CA records will have their re
 1. MySchoolGist — *NECO 2026 BECE and SSCE Registration Deadline* — [myschoolgist.com](https://myschoolgist.com/news/neco-2026-bece-ssce-registration-deadline/)
 2. National Examinations Council — *Official BECE Page* — [neco.gov.ng/exams/bece](https://neco.gov.ng/exams/bece)
 3. National Examinations Council — *FAQ* — [neco.gov.ng/faq](https://neco.gov.ng/faq)
-4. Unity Schools / LASU-Info — *2025 NECO BECE Timetable Archive* — [lasu-info.com](https://www.lasu-info.com/2018/03/neco-bece-examination-time-table.html)
-5. SpotForSchool — *When Will NECO Results Be Out?* — [spotforschool.com](https://www.spotforschool.com/when-will-neco-result-be-out/)
-6. JAET — *NECO Registration Deadline 2026* — [jaet.com.ng](https://www.jaet.com.ng/neco-registration-deadline)
-7. EduTimes Africa — *NECO Fixes May Deadline for 2026 SSCE Registration* — [edutimesafrica.com](https://edutimesafrica.com/neco-fixes-may-deadline-for-2026-ssce-registration-rules-out-extension/)
-8. Examsboard — *NECO 2026 Registration Guide* — [examsboard.com](https://examsboard.com/neco-registration/)
+4. MySchoolGist — *NECO BECE Timetable 2026* — [myschoolgist.com](https://myschoolgist.com/neco/bece-timetable-185456/)
+5. National Examinations Council — *2026 BECE Timetable (PDF)* — [neco.gov.ng](https://neco.gov.ng/2026%20BECE%20Timetable.pdf)
+6. SpotForSchool — *When Will NECO Results Be Out?* — [spotforschool.com](https://www.spotforschool.com/when-will-neco-result-be-out/)
+7. JAET — *NECO BECE Registration Form 2026* — [jaet.com.ng](https://www.jaet.com.ng/neco-bece-registration-form)
+8. MySchoolGist — *NECO BECE 2026 Registration Extension to 4 April* — [myschoolgist.com](https://myschoolgist.com/news/neco-bece-2026-registration-extension/)
 
 ---
 
