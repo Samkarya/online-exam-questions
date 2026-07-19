@@ -302,5 +302,37 @@
         "isOfficial": false,
         "seo_title": "BECE PVS Home Economics: Food Safety, Hygiene & Fashion Design Test",
         "seo_description": "Excel in the Junior WAEC PVS Home Economics paper. 130 practice questions covering food chemistry, preservation, safety management, and pattern drafting."
+    },
+    {
+        "id": "bece_nveCivicEducation",
+        "category": "BECE",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "BECE National Values Education: Civic Education",
+        "short_description": "Comprehensive practice for the BECE Civic Education section, covering national values, citizenship, democracy, human rights, and governance.",
+        "description": "### Module: Civic Education\n\n**Focus:** Values, Citizenship & Democracy | **Level:** Junior Secondary (JSS3)\n\nComplete your preparation for the Civic Education component of the BECE National Values Education (NVE) examination. This module comprehensively covers the essential concepts required for Paper 1.\n\n---\n\n#### Key Curriculum Topics Covered:\n* **Our Values:** National values including honesty, cooperation, self-reliance, integrity, contentment, discipline, courage, right attitude to work, and identifying negative behaviours.\n* **Citizenship:** Meaning and types of citizenship, rights and duties, and the supremacy of the constitution (Colonial and Post-1960).\n* **National Consciousness and Identity:** National symbols, anthem, pledge, and promoting national unity.\n* **Governance:** Understanding Nigeria as a federation and the relationship between federal, state, and local governments.\n* **Human Rights and the Rule of Law:** Protecting human rights, benefits of the rule of law, and consumer rights/responsibilities.\n* **Democracy:** Pillars of democracy, democratic institutions (INEC), elections, voter responsibilities, and electoral malpractices.",
+        "path": "nigeria/BECE/nationalValueEducation/NVE_civicEducation.json",
+        "isOfficial": false,
+        "seo_title": "BECE Civic Education Practice Test | National Values Education",
+        "seo_description": "Prepare for the BECE National Values Education exam with our free Civic Education practice test. Master national values, citizenship, human rights, and democracy to excel in Junior WAEC."
+    },
+    {
+        "id": "bece_nveSecurityEducation",
+        "category": "BECE",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "BECE National Values Education: Security Education",
+        "short_description": "Essential practice for the BECE Security Education section, covering common crimes, emergency management, and national security.",
+        "description": "### Module: Security Education\n\n**Focus:** Crime Prevention & National Security | **Level:** Junior Secondary (JSS3)\n\nAce the Security Education section of the BECE National Values Education (NVE) examination. This module focuses on safety consciousness, crime reporting, and emergency response.\n\n---\n\n#### Key Curriculum Topics Covered:\n* **Common Crimes & Effects:** Understanding theft, rape, advance fee fraud (419), murder, and fake drugs.\n* **Observing & Reporting:** Methods for identifying and appropriately reporting crimes to security agents.\n* **Punishments:** Associated punishments for common crimes (e.g., imprisonment for drug trafficking).\n* **Emergency Management:** Response to fire, accidents, building collapse, and food poisoning.\n* **Crimes Against National Security:** Pipeline vandalization, human trafficking, terrorism, illegal bunkering, and drug trafficking.",
+        "path": "nigeria/BECE/nationalValueEducation/NVE_securityEducation.json",
+        "isOfficial": false,
+        "seo_title": "BECE Security Education Practice Test | National Values Education",
+        "seo_description": "Boost your Junior WAEC scores with this BECE Security Education practice test. Review common crimes, national security, and emergency management for National Values Education."
     }
 ]

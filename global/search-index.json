@@ -690,6 +690,26 @@
     "year": 2026
   },
   {
+    "id": "bece_nveCivicEducation",
+    "title": "BECE National Values Education: Civic Education",
+    "description": "### Module: Civic Education\n\n**Focus:** Values, Citizenship & Democracy | **Level:** Junior Secondary (JSS3)\n\nComplete your preparation for the Civic Education component of the BECE National Values Education (NVE) examination. This module comprehensively covers the essential concepts required for Paper 1.\n\n---\n\n#### Key Curriculum Topics Covered:\n* **Our Values:** National values including honesty, cooperation, self-reliance, integrity, contentment, discipline, courage, right attitude to work, and identifying negative behaviours.\n* **Citizenship:** Meaning and types of citizenship, rights and duties, and the supremacy of the constitution (Colonial and Post-1960).\n* **National Consciousness and Identity:** National symbols, anthem, pledge, and promoting national unity.\n* **Governance:** Understanding Nigeria as a federation and the relationship between federal, state, and local governments.\n* **Human Rights and the Rule of Law:** Protecting human rights, benefits of the rule of law, and consumer rights/responsibilities.\n* **Democracy:** Pillars of democracy, democratic institutions (INEC), elections, voter responsibilities, and electoral malpractices.",
+    "short_description": "Comprehensive practice for the BECE Civic Education section, covering national values, citizenship, democracy, human rights, and governance.",
+    "path": "nigeria/BECE/nationalValueEducation/NVE_civicEducation.json",
+    "suitePath": "configs/bece.json",
+    "category": "BECE",
+    "year": 2026
+  },
+  {
+    "id": "bece_nveSecurityEducation",
+    "title": "BECE National Values Education: Security Education",
+    "description": "### Module: Security Education\n\n**Focus:** Crime Prevention & National Security | **Level:** Junior Secondary (JSS3)\n\nAce the Security Education section of the BECE National Values Education (NVE) examination. This module focuses on safety consciousness, crime reporting, and emergency response.\n\n---\n\n#### Key Curriculum Topics Covered:\n* **Common Crimes & Effects:** Understanding theft, rape, advance fee fraud (419), murder, and fake drugs.\n* **Observing & Reporting:** Methods for identifying and appropriately reporting crimes to security agents.\n* **Punishments:** Associated punishments for common crimes (e.g., imprisonment for drug trafficking).\n* **Emergency Management:** Response to fire, accidents, building collapse, and food poisoning.\n* **Crimes Against National Security:** Pipeline vandalization, human trafficking, terrorism, illegal bunkering, and drug trafficking.",
+    "short_description": "Essential practice for the BECE Security Education section, covering common crimes, emergency management, and national security.",
+    "path": "nigeria/BECE/nationalValueEducation/NVE_securityEducation.json",
+    "suitePath": "configs/bece.json",
+    "category": "BECE",
+    "year": 2026
+  },
+  {
     "id": "hosa_nutrition_physiology",
     "title": "HOSA Nutrition: Nutritional Physiology",
     "description": "### Advanced Nutritional Physiology\n\nFocuses on the biological processes of the digestive system and metabolic pathways.\n\n**Key Topics:**\n*   **Digestion & Absorption:** Enzymes, transport mechanisms, and GI tract structures.\n*   **Metabolism:** Glycolysis, gluconeogenesis, and beta-oxidation logic.\n*   **Fluid Balance:** Intracellular vs. Extracellular compartments and ADH/Aldosterone regulation.\n*   **Acid-Base Balance:** Bicarbonate buffer system and respiratory compensation.",
@@ -1138,5 +1158,25 @@
     "suitePath": "configs/wassce.json",
     "category": "WASSCE",
     "year": 2026
+  },
+  {
+    "id": "rrb-group-d_2025_nov27_shift1",
+    "title": "RRB Group D 27 Nov 2025 Shift 1",
+    "description": "### Railway Recruitment Board (RRB) Group D 2025\n\n**Post:** Level-1 Posts (Track Maintainer, Pointsman, various Assistants)\n\nThis comprehensive mock test replicates the official **Computer Based Test (CBT)** for the Indian Railways Level-1 recruitment. Practicing this paper will help you understand the exam pattern, time management, and difficulty level of actual RRB Group D exams.\n\n#### Exam Pattern & Sections:\n1.  **General Science (25 Marks):** Physics, Chemistry, and Life Sciences (10th standard CBSE syllabus).\n2.  **Mathematics (25 Marks):** Number System, Algebra, Geometry, Trigonometry, Mensuration, and Statistics.\n3.  **General Intelligence & Reasoning (30 Marks):** Analogies, Coding-Decoding, Syllogism, Venn Diagrams, and Analytical Reasoning.\n4.  **General Awareness & Current Affairs (20 Marks):** Science & Technology, Sports, Culture, Personalities, Economics, and Politics.\n\n",
+    "short_description": "RRB Group D 2025 CBT paper, covering General Science, Math, and Reasoning.",
+    "path": "India/government/RRB_Group_D/27Nov2025shift1paper.json",
+    "suitePath": "configs/rrb-group-d.json",
+    "category": "RRB-Group-D",
+    "year": 2025
+  },
+  {
+    "id": "rrb-group-d_2025_nov28_shift1",
+    "title": "RRB Group D 28 Nov 2025 Shift 1",
+    "description": "### Railway Recruitment Board (RRB) Group D 2025\n\n**Post:** Level-1 Posts (Track Maintainer, Pointsman, various Assistants)\n\nThis comprehensive mock test replicates the official **Computer Based Test (CBT)** for the Indian Railways Level-1 recruitment. Practicing this paper will help you understand the exam pattern, time management, and difficulty level of actual RRB Group D exams.\n\n#### Exam Pattern & Sections:\n1.  **General Science (25 Marks):** Physics, Chemistry, and Life Sciences (10th standard CBSE syllabus).\n2.  **Mathematics (25 Marks):** Number System, Algebra, Geometry, Trigonometry, Mensuration, and Statistics.\n3.  **General Intelligence & Reasoning (30 Marks):** Analogies, Coding-Decoding, Syllogism, Venn Diagrams, and Analytical Reasoning.\n4.  **General Awareness & Current Affairs (20 Marks):** Science & Technology, Sports, Culture, Personalities, Economics, and Politics.\n\n",
+    "short_description": "RRB Group D 2025 CBT paper, covering General Science, Math, and Reasoning.",
+    "path": "India/government/RRB_Group_D/28Nov2025shift1paper.json",
+    "suitePath": "configs/rrb-group-d.json",
+    "category": "RRB-Group-D",
+    "year": 2025
   }
 ]

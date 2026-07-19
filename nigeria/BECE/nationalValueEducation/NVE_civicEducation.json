@@ -1,0 +1,3202 @@
+[
+  {
+    "question_number": 1,
+    "subject": "National Value Education",
+    "topic": "National Values: Honesty, Cooperation and Self Reliance",
+    "question_text": "Which of the following best defines **Values** in the context of civic education?",
+    "options": {
+      "a": "Only the things we strictly dislike or avoid",
+      "b": "The accepted principles, standards, and beliefs that guide an individual's likes and dislikes",
+      "c": "The amount of financial wealth a person possesses in a society",
+      "d": "Strict laws enacted by the federal government to control behavior"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Values** refer to the accepted principles, beliefs, and standards that guide the behavior of individuals in a society. They help in determining a person's likes, dislikes, and moral judgments in everyday life.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "National Value Education",
+    "topic": "National Values: Honesty, Cooperation and Self Reliance",
+    "question_text": "Values generally manifest at which two primary levels in human existence?",
+    "options": {
+      "a": "Individual and Society",
+      "b": "State and Federal",
+      "c": "Economic and Political",
+      "d": "Physical and Spiritual"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Values are generally manifested at two main levels: the **individual** level (personal moral compass) and the **society** level (collective standards and cultural norms).",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "National Value Education",
+    "topic": "National Values: Honesty, Cooperation and Self Reliance",
+    "question_text": "Good value systems promote harmony and unity. Which of the following is **not** a direct importance of values in the society?",
+    "options": {
+      "a": "Fostering unity among citizens",
+      "b": "Encouraging cooperation in the community",
+      "c": "Guaranteeing immediate financial wealth for all individuals",
+      "d": "Promoting peace and social harmony"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The primary importance of values in a society lies in building intangible social goods such as **unity**, **cooperation**, and **harmony**. Values do not automatically guarantee immediate financial wealth.",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "National Value Education",
+    "topic": "National Values: Honesty, Cooperation and Self Reliance",
+    "question_text": "Honesty is considered a fundamental national value. What does being honest entail?",
+    "options": {
+      "a": "Telling the truth only when it is personally convenient",
+      "b": "Being truthful, trustworthy, and straightforward in all dealings",
+      "c": "Hiding mistakes and facts to protect one's reputation",
+      "d": "Cheating creatively without being caught by authorities"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Honesty** means being entirely truthful, trustworthy, transparent, and straightforward in all your dealings and interactions with others, regardless of the consequences.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "National Value Education",
+    "topic": "National Values: Honesty, Cooperation and Self Reliance",
+    "question_text": "Examine the table below detailing actions and their common societal consequences:\n\n| Action | Typical Consequence |\n|---|---|\n| Hard work | Success |\n| Dishonesty | $X$ |\n\nWhich of the following best replaces $X$ in a societal context?",
+    "options": {
+      "a": "Public trust and endorsement",
+      "b": "Penalties for examination malpractice or fraud",
+      "c": "Rapid economic growth",
+      "d": "National honors and awards"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Dishonesty has negative consequences. Societally, it leads to things like cheating, fraudulent practices, and **examination malpractice**, which generally result in legal or social penalties.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "National Value Education",
+    "topic": "National Values: Honesty, Cooperation and Self Reliance",
+    "question_text": "Which of the following combinations of attributes best describes the concept of **Cooperation**?",
+    "options": {
+      "a": "Sharing, caring, and supporting",
+      "b": "Greed, envy, and stealing",
+      "c": "Fighting, protesting, and lobbying",
+      "d": "Selfishness, isolating, and ignoring"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Cooperation** means working together towards a common goal. Its core attributes include sharing burdens, caring for teammates, and supporting one another to achieve success.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "National Value Education",
+    "topic": "National Values: Honesty, Cooperation and Self Reliance",
+    "question_text": "When students work together to efficiently clean the school compound instead of leaving the work for one person, they are directly demonstrating which of the following values?",
+    "options": {
+      "a": "Self-reliance",
+      "b": "Tolerance",
+      "c": "Cooperation",
+      "d": "Contentment"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "By working together as a team to complete a shared task, the students are practicing **cooperation**.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "National Value Education",
+    "topic": "National Values: Honesty, Cooperation and Self Reliance",
+    "question_text": "What is a major benefit of cooperation in any given society?",
+    "options": {
+      "a": "It creates distinct divisions among social classes",
+      "b": "It leads to faster goal achievement and social progress",
+      "c": "It makes the central government obsolete",
+      "d": "It highly discourages the discovery of individual talents"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The benefits of cooperation include achieving social **harmony**, fostering communal **progress**, and enabling easier and faster **goal achievement**.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "National Value Education",
+    "topic": "National Values: Honesty, Cooperation and Self Reliance",
+    "question_text": "**Self-reliance** is the ability to depend on oneself or one's own capabilities. Which of the following is an attribute of a self-reliant individual?",
+    "options": {
+      "a": "Waiting continually for the government to provide daily needs",
+      "b": "Depending entirely on family and parents for lifelong survival",
+      "c": "Discovering and utilizing one's skills to solve problems and generate income",
+      "d": "Relying strictly on begging for daily sustenance"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A **self-reliant** person utilizes their own talents, skills, and independent efforts to sustain themselves rather than depending on external handouts.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "National Value Education",
+    "topic": "National Values: Honesty, Cooperation and Self Reliance",
+    "question_text": "The process of identifying, nurturing, and perfecting talents is essential for achieving self-reliance. From a national perspective, why is discovering citizen talent important?",
+    "options": {
+      "a": "Because a nation's true wealth is contained in its developed natural and human resources",
+      "b": "Because talented people are exempt from paying national taxes",
+      "c": "So that talented citizens can permanently migrate to develop other countries",
+      "d": "To highly encourage national dependency on foreign aid and loans"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The true wealth of any nation goes beyond money; it is contained in its **natural and human resources**. Identifying and nurturing talents directly builds up this human capital.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "National Value Education",
+    "topic": "National Values: Honesty, Cooperation and Self Reliance",
+    "question_text": "What is a severe consequence of undiscovered talents and undeveloped skills within a nation's youth?",
+    "options": {
+      "a": "Over-development of critical infrastructure",
+      "b": "High rate of unemployment, poverty, and national underdevelopment",
+      "c": "Excessive and rapid technological advancement",
+      "d": "A massive, sudden increase in the general standard of living"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "When a nation fails to develop the skills and talents of its citizens, it leads directly to lack of self-reliance, resulting in **unemployment, poverty, and underdevelopment**.",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "National Value Education",
+    "topic": "National Values: Honesty, Cooperation and Self Reliance",
+    "question_text": "Trust, fairness, integrity, consistency, and commitment are all primary factors that promote:",
+    "options": {
+      "a": "A strong positive value system in society",
+      "b": "The rapid spread of electoral malpractices",
+      "c": "Negative behavioral trends in the youth",
+      "d": "Widespread cultural imperialism"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Factors like **consistency**, **trust**, **tolerance**, **fairness**, **integrity**, and **commitment** serve as the foundational pillars that promote and sustain a healthy societal value system.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "National Value Education",
+    "topic": "National Values: Honesty, Cooperation and Self Reliance",
+    "question_text": "A student accidentally finds a missing wallet containing a huge sum of money and immediately returns it intact to the school principal. This particular act primarily demonstrates the value of:",
+    "options": {
+      "a": "Cooperation",
+      "b": "Honesty",
+      "c": "Tolerance",
+      "d": "Self-reliance"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Returning found money showcases truthfulness and probity, which are clear attributes of **Honesty**.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "National Value Education",
+    "topic": "National Values: Honesty, Cooperation and Self Reliance",
+    "question_text": "According to the principles of self-reliance, a nation achieves true greatness when it understands that its wealth is fundamentally rooted in its:",
+    "options": {
+      "a": "Excessive currency notes printed by the Central Bank",
+      "b": "Abundant natural and human resources",
+      "c": "Secret foreign bank accounts held by politicians",
+      "d": "High volume of imported luxury goods"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A nation's capacity to be self-reliant relies heavily on its ability to discover, nurture, and perfect both its **human resources (skills/talents)** and its **natural resources**.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "National Value Education",
+    "topic": "National Values: Honesty, Cooperation and Self Reliance",
+    "question_text": "Consistency is critical for promoting a value system. In this context, what does consistency imply?",
+    "options": {
+      "a": "Changing one's moral standards based on who is watching",
+      "b": "Upholding good morals and principles reliably over a long period",
+      "c": "Being reliably late for official duties",
+      "d": "Ignoring the law whenever it feels inconvenient"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Consistency** as a factor promoting a value system implies steadfastly maintaining and applying strong moral standards (like honesty and fairness) at all times, without wavering.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "National Value Education",
+    "topic": "National Values: Integrity, Contentment and Discipline",
+    "question_text": "How can the value of **Integrity** best be defined in a civic context?",
+    "options": {
+      "a": "The ability to rapidly amass wealth by any means necessary",
+      "b": "The consistent quality of being honest, truthful, and having strong moral principles",
+      "c": "The psychological capability of forgiving those who have offended you",
+      "d": "The habit of depending completely on others to handle your responsibilities"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Integrity** is strictly defined as the quality of being completely honest, having unshakeable moral principles, and doing the right thing regardless of the circumstances.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "National Value Education",
+    "topic": "National Values: Integrity, Contentment and Discipline",
+    "question_text": "Which of the following is an essential attribute of a person of integrity?",
+    "options": {
+      "a": "Non-compromise of moral principles",
+      "b": "A high willingness to take bribes in secret",
+      "c": "Constant complaining about national laws",
+      "d": "Avoiding all forms of communal work"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Key attributes of integrity include probity, truthfulness, fair-play, and the absolute **non-compromise of one's principles** when faced with temptation.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "National Value Education",
+    "topic": "National Values: Integrity, Contentment and Discipline",
+    "question_text": "**Contentment** involves a state of happiness and satisfaction with what one has. What is a key attribute of a genuinely contented person?",
+    "options": {
+      "a": "Displaying excessive greed to acquire more",
+      "b": "Showing a complete lack of envy toward others' successes",
+      "c": "Having an insatiable craving for ostentatious living",
+      "d": "Engaging in political corruption just to survive"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Attributes of **contentment** include total satisfaction with one's legitimate possessions, rejection of greed, and a notable **lack of envy** toward the wealth or success of others.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "National Value Education",
+    "topic": "National Values: Integrity, Contentment and Discipline",
+    "question_text": "When contentment is completely lacking in a society, it directly leads to several negative social vices. Which of the following is a primary effect of a lack of contentment?",
+    "options": {
+      "a": "A high dedication to honest, back-breaking labor",
+      "b": "An increase in moral and spiritual growth",
+      "c": "A drastic rise in corruption, greed, and robbery",
+      "d": "Increased unity and harmony among diverse ethnic groups"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The lack of contentment fuels greed. This desperate desire for more leads directly to societal ills like **corruption, envy, prostitution, cheating, and armed robbery**.",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "National Value Education",
+    "topic": "National Values: Integrity, Contentment and Discipline",
+    "question_text": "Which of the following best encapsulates the true meaning of **Discipline**?",
+    "options": {
+      "a": "Punishing social offenders aggressively without a fair trial",
+      "b": "Exercising complete freedom to do exactly what you want at any time",
+      "c": "The ability to practice self-control and strictly obey laid-down rules and regulations",
+      "d": "Violently fighting against every legitimate civic authority"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Discipline** is the practice of training oneself (or others) to strictly follow rules, display self-control, and adhere to an established code of moral behavior.",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "National Value Education",
+    "topic": "National Values: Integrity, Contentment and Discipline",
+    "question_text": "Consider the following list of behavioral traits:\n1. Self-control\n2. Moderation\n3. Total disregard for rules\n4. Respect for legitimate authority\n\nWhich combination correctly represents the attributes of **Discipline**?",
+    "options": {
+      "a": "1, 2, and 4",
+      "b": "1, 3, and 4",
+      "c": "2 and 3 only",
+      "d": "All of the above traits"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "The attributes of discipline include **self-control (1)**, **moderation (2)**, modesty, perseverance, and **respect for legitimate authority (4)**. A disregard for rules is a sign of indiscipline.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "National Value Education",
+    "topic": "National Values: Integrity, Contentment and Discipline",
+    "question_text": "A citizen speaks out boldly against a heavily corrupt government official, despite the very real risk of intimidation and arrest. What specific type of courage does this primarily demonstrate?",
+    "options": {
+      "a": "Physical courage",
+      "b": "Moral courage",
+      "c": "Spiritual courage",
+      "d": "Financial courage"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Moral courage** is the ability to act rightly in the face of popular opposition, scandal, or discouragement. Speaking truth to power despite the risks requires tremendous moral courage.",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "National Value Education",
+    "topic": "National Values: Integrity, Contentment and Discipline",
+    "question_text": "Courage is typically classified into distinct types. According to the national values curriculum, which of the following is **not** recognized as a standard type of courage?",
+    "options": {
+      "a": "Physical Courage",
+      "b": "Moral Courage",
+      "c": "Spiritual Courage",
+      "d": "Economic Courage"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Civic education identifies three primary types of courage: **Physical courage** (facing physical pain or danger), **Moral courage** (acting rightly despite opposition), and **Spiritual courage** (standing by religious/spiritual beliefs). Economic courage is not formally recognized in this taxonomy.",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "National Value Education",
+    "topic": "National Values: Integrity, Contentment and Discipline",
+    "question_text": "Steadfastness, boldness, determination, and bravery are highly regarded attributes. To which of the following national virtues are these attributes directly associated?",
+    "options": {
+      "a": "Cowardice",
+      "b": "Contentment",
+      "c": "Courage",
+      "d": "Harmony"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **Courageous** person is characterized by attributes such as endurance, commitment, determination, steadfastness, diligence, boldness, and bravery.",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "National Value Education",
+    "topic": "National Values: Integrity, Contentment and Discipline",
+    "question_text": "Why is there an absolute, critical need for people of **Integrity** within the Nigerian societal framework?",
+    "options": {
+      "a": "To ensure the rapid increase of the country's general population",
+      "b": "To firmly promote fair-play, combat systemic corruption, and ensure sustainable development",
+      "c": "To ensure that all citizens register under one unified political party",
+      "d": "To totally abolish and rewrite the existing federal constitution annually"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Society needs people of **Integrity** to act as moral role models. Their presence ensures fair-play, reduces the scourge of corruption, establishes trust in public institutions, and drives sustainable national development.",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "National Value Education",
+    "topic": "National Values: Right Attitude to Work",
+    "question_text": "What does having the **Right Attitude to Work** mean in a civic context?",
+    "options": {
+      "a": "Arriving at the workplace only when a supervisor is present",
+      "b": "Approaching one's duties with a positive mindset, dedication, and strict adherence to professional ethics",
+      "c": "Demanding higher pay before completing basic assigned tasks",
+      "d": "Refusing to assist coworkers to focus entirely on personal promotion"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Right Attitude to Work** refers to a positive, dedicated, and highly committed mindset toward one's job, ensuring duties are performed efficiently and ethically.",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "National Value Education",
+    "topic": "National Values: Right Attitude to Work",
+    "question_text": "An employee who consistently arrives at the office before the official resumption time and attends work every day is heavily demonstrating which two attributes?",
+    "options": {
+      "a": "Greed and Ostentation",
+      "b": "Discipline and Transparency",
+      "c": "Punctuality and Regularity",
+      "d": "Tolerance and Compromise"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Punctuality** is arriving on time, while **Regularity** is attending consistently without unwarranted absences. Both are critical attributes of the right attitude to work.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "National Value Education",
+    "topic": "National Values: Right Attitude to Work",
+    "question_text": "Why is giving rewards (such as promotions or bonuses) highly important in a working environment?",
+    "options": {
+      "a": "It strongly encourages indiscipline and laziness among unrewarded staff",
+      "b": "It completely replaces the need for a monthly salary",
+      "c": "It leads directly to higher productivity, efficiency, and progress",
+      "d": "It causes unnecessary value disorientation in the society"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Rewards provide **recognition** and motivation, which naturally stimulate workers to increase their **efficiency** and **productivity**, thereby driving organizational **progress**.",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "National Value Education",
+    "topic": "National Values: Right Attitude to Work",
+    "question_text": "A severe lack of the right attitude to work among critical transport operators (like pilots, sailors, and drivers) can tragically lead to which of the following?",
+    "options": {
+      "a": "Improved National Image",
+      "b": "National disasters such as air crashes, shipwrecks, and fatal road accidents",
+      "c": "An immediate increase in foreign investments",
+      "d": "A highly robust and transparent electoral process"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "In sensitive professions, negligence, indiscipline, or a poor attitude to work can compromise safety procedures, resulting in tragic **national disasters** on roads, in the air, or at sea.",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "National Value Education",
+    "topic": "National Values: Right Attitude to Work",
+    "question_text": "Which of the following is **not** an attribute of the right attitude to work?",
+    "options": {
+      "a": "Diligence",
+      "b": "Transparency",
+      "c": "Commitment",
+      "d": "Truancy"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Truancy** is the act of staying away from work or school without a good reason. It is the opposite of regularity and is a highly negative attitude. Attributes of a good work attitude include diligence, transparency, and commitment.",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "National Value Education",
+    "topic": "Negative Behaviour",
+    "question_text": "In Civic Education, **Negative Behaviour** is best described as:",
+    "options": {
+      "a": "Actions that strictly conform to the traditional rules of a nation",
+      "b": "Any unacceptable, anti-social, or deviant action that violates societal values and norms",
+      "c": "Behaviors that guarantee immediate financial prosperity for a family",
+      "d": "Defending human rights through legal constitutional protests"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Negative Behaviour** refers to actions that go against the accepted norms, rules, and moral values of a society, often causing harm to the individual and the community.",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "National Value Education",
+    "topic": "Negative Behaviour",
+    "question_text": "Which of the following scenarios is a clear example of **Ostentatious Living**, which is classified as a negative behaviour?",
+    "options": {
+      "a": "A wealthy businessman secretly donating millions to an orphanage",
+      "b": "A politician using public funds to throw an extremely lavish, public party just to show off his wealth to neighbors",
+      "c": "A teacher saving her salary for five years to build a modest house",
+      "d": "A student working two jobs to afford necessary university textbooks"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "**Ostentatious living** is the deliberate, showy, and excessive display of wealth or luxury intended to attract attention, cause envy, or flaunt status, often at the expense of modesty and sometimes funded illegally.",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "National Value Education",
+    "topic": "Negative Behaviour",
+    "question_text": "An excessive love for money usually drives individuals to commit various anti-social acts. Which of the following negative behaviors is predominantly driven by this factor?",
+    "options": {
+      "a": "Regularity at a low-paying government job",
+      "b": "Drug trafficking and fraudulent practices",
+      "c": "Total adherence to the rule of law",
+      "d": "Engaging in voluntary community service"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **excessive love of money** often pushes individuals into desperate, illegal means of acquiring wealth, such as **drug trafficking**, robbery, and financial fraud.",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "National Value Education",
+    "topic": "Negative Behaviour",
+    "question_text": "Examination malpractice is a widely condemned negative behavior. What is a direct long-term effect of unchecked examination malpractice on a nation?",
+    "options": {
+      "a": "It significantly boosts the nation's international academic reputation",
+      "b": "It produces a highly skilled, intelligent workforce",
+      "c": "It causes high inefficiency as unqualified individuals eventually occupy professional positions",
+      "d": "It drastically reduces the national crime rate"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "When students cheat their way through school (**examination malpractice**), they graduate without actual knowledge. This causes massive **inefficiency** when these unqualified people enter the workforce.",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "National Value Education",
+    "topic": "Negative Behaviour",
+    "question_text": "Cultism and drug trafficking generally lead to which specific effect on a society?",
+    "options": {
+      "a": "Total eradication of corruption",
+      "b": "A very high crime rate and social insecurity",
+      "c": "Perfect harmony among the youth",
+      "d": "Massive improvements in democratic institutions"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Negative behaviors such as **cultism** and **drug trafficking** inherently involve violence, illegal arms, and substance abuse, directly resulting in a **high crime rate**.",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "National Value Education",
+    "topic": "Negative Behaviour",
+    "question_text": "Which of the following is the most effective strategy for **promoting positive behaviour** among the youth in a society?",
+    "options": {
+      "a": "Publicly rewarding hard work, honesty, and academic excellence",
+      "b": "Ignoring minor offenses committed by wealthy citizens",
+      "c": "Encouraging a total disregard for time (African time)",
+      "d": "Promoting underage voting during local elections"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Recognizing and **rewarding positive acts** like honesty and excellence serves as a powerful motivation for youths to emulate those positive behaviors, thus combating value disorientation.",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "National Value Education",
+    "topic": "Negative Behaviour",
+    "question_text": "Identify the negative behaviour defined as: 'The intentional failure to keep to agreed schedules or appointments, often casually excused as a cultural norm.'",
+    "options": {
+      "a": "Examination malpractice",
+      "b": "Cultism",
+      "c": "Disregard for time",
+      "d": "Ostentatious living"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Disregard for time** (sometimes colloquially called 'African time') is a negative behavior where individuals fail to respect schedules, leading to massive inefficiency and unproductivity.",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "National Value Education",
+    "topic": "Citizenship",
+    "question_text": "In basic civic terms, who is a **Citizen**?",
+    "options": {
+      "a": "Any individual who simply visits a country for a brief tourist vacation",
+      "b": "A person who has a legal and recognized right to belong to a particular country",
+      "c": "A foreign diplomat assigned to an embassy",
+      "d": "Anyone who crosses an international border illegally"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **citizen** is a legally recognized member of a state or country, possessing full constitutional rights and owing allegiance to that country.",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "National Value Education",
+    "topic": "Citizenship",
+    "question_text": "A child is born in Lagos to parents who are both recognized citizens of Nigeria. Which type of citizenship has this child legally acquired?",
+    "options": {
+      "a": "Citizenship by Naturalization",
+      "b": "Citizenship by Registration",
+      "c": "Citizenship by Birth",
+      "d": "Citizenship by Conferment"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "When an individual acquires their citizenship status because they were born to parents who are citizens of that country, it is called **Citizenship by Birth**.",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "National Value Education",
+    "topic": "Citizenship",
+    "question_text": "A foreign woman from Brazil marries a Nigerian man and decides she wants to become a Nigerian citizen. Which specific constitutional process applies to her situation?",
+    "options": {
+      "a": "Citizenship by Birth",
+      "b": "Citizenship by Registration",
+      "c": "Citizenship by Force",
+      "d": "Citizenship by Inheritance"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Under the constitution, a foreign woman married to a Nigerian man can acquire citizenship through **Registration**.",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "National Value Education",
+    "topic": "Citizenship",
+    "question_text": "Which of the following best describes the process of acquiring citizenship by **Naturalization**?",
+    "options": {
+      "a": "A foreigner who has continuously lived in a country for a constitutionally specified long period and has shown good character applies to the government for citizenship",
+      "b": "A person randomly discovering they have a Nigerian grandfather",
+      "c": "A foreign tourist purchasing land in the capital city",
+      "d": "A citizen of one country being captured as a prisoner of war by another country"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Naturalization** requires a foreigner to reside in the country for a statutory number of years, integrate into the society, possess good character, and officially apply for citizenship.",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "National Value Education",
+    "topic": "Citizenship",
+    "question_text": "The process of becoming a citizen involves strictly following constitutional guidelines. Who holds the supreme power to grant citizenship by naturalization in Nigeria?",
+    "options": {
+      "a": "The State Governor",
+      "b": "The Local Government Chairman",
+      "c": "The President of the Federation",
+      "d": "The Inspector General of Police"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "According to the Nigerian constitution, the power to approve and grant citizenship by naturalization or registration officially lies with the **President of the Federation**.",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "National Value Education",
+    "topic": "Rights and Duties of a Citizen",
+    "question_text": "How can the **Rights** of a citizen best be defined?",
+    "options": {
+      "a": "The taxes a citizen must forcefully pay to the government every month",
+      "b": "The moral advice given by traditional rulers to their subjects",
+      "c": "The fundamental entitlements and privileges guaranteed to every citizen by the constitution",
+      "d": "The compulsory military service every youth must undergo"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Rights** are fundamental privileges, freedoms, and legal entitlements that the constitution guarantees to every citizen (e.g., right to life, freedom of speech).",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "National Value Education",
+    "topic": "Rights and Duties of a Citizen",
+    "question_text": "While *Rights* are what the state owes the citizen, what are **Duties**?",
+    "options": {
+      "a": "The constitutional and civic obligations that citizens owe to their country",
+      "b": "The right to travel abroad freely without a passport",
+      "c": "The financial loans provided by the central bank to the public",
+      "d": "The voluntary charity given by rich individuals"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Duties** are the civic responsibilities, obligations, and lawful commands (like paying taxes or obeying laws) that a citizen is constitutionally required to perform for the state.",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "National Value Education",
+    "topic": "Rights and Duties of a Citizen",
+    "question_text": "Analyze the table differentiating Rights and Duties:\n\n| Concept | Definition | Example |\n|---|---|---|\n| Right | Entitlement | Freedom of movement |\n| Duty | Obligation | $Y$ |\n\nWhich of the following correctly replaces $Y$?",
+    "options": {
+      "a": "Voting multiple times in a single election",
+      "b": "Payment of legitimate taxes",
+      "c": "Receiving free healthcare abroad",
+      "d": "Protesting violently against government policies"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A prime example of a civic **Duty** is the **payment of legitimate taxes** to the government, which helps fund societal development.",
+    "section_id": null
+  },
+  {
+    "question_number": 46,
+    "subject": "National Value Education",
+    "topic": "Rights and Duties of a Citizen",
+    "question_text": "What is the key importance of Citizens' Rights and Duties regarding **Social Control**?",
+    "options": {
+      "a": "They ensure citizens are heavily oppressed by absolute military dictators",
+      "b": "They help maintain law, order, and regulate human behavior to prevent anarchy in society",
+      "c": "They guarantee that only the wealthy can afford basic human justice",
+      "d": "They enforce the closure of all private businesses"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Rights and duties establish boundaries. They enforce **social control** by regulating behavior, ensuring citizens know what is legally acceptable, thereby preventing chaos and maintaining peace.",
+    "section_id": null
+  },
+  {
+    "question_number": 47,
+    "subject": "National Value Education",
+    "topic": "Rights and Duties of a Citizen",
+    "question_text": "The concept of **Due Process** is closely related to citizens' rights. What does due process fundamentally imply?",
+    "options": {
+      "a": "Allowing the police to arrest and imprison anyone immediately without evidence",
+      "b": "Resolving civic disputes through illegal, informal gang networks",
+      "c": "Following established, constitutional, and legal procedures before a person's rights can be restricted or revoked",
+      "d": "Delaying court cases indefinitely so criminals can escape"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "**Due process** is the legal requirement that the state must respect all legal rights owed to a person, ensuring fair treatment through the normal judicial system before issuing any punishment.",
+    "section_id": null
+  },
+  {
+    "question_number": 48,
+    "subject": "National Value Education",
+    "topic": "Rights and Duties of a Citizen",
+    "question_text": "If a group of citizens feels deeply wronged by a new government policy, which of the following is their correct **right** according to democratic principles?",
+    "options": {
+      "a": "The right to completely vandalize public infrastructure",
+      "b": "The right to forcefully assault law enforcement agents",
+      "c": "The right to peacefully assemble and protest within the limits of the law",
+      "d": "The right to artificially create scarcity of essential goods"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Citizens have fundamental rights, including freedom of expression and peaceful assembly, which allows them to **peacefully protest** against policies without resorting to violence or criminality.",
+    "section_id": null
+  },
+  {
+    "question_number": 49,
+    "subject": "National Value Education",
+    "topic": "Rights and Duties of a Citizen",
+    "question_text": "Obedience to lawful authority and respect for the national flag are classical examples of:",
+    "options": {
+      "a": "Democratic institutions",
+      "b": "Citizens' constitutional duties",
+      "c": "Political party manifestos",
+      "d": "Electoral malpractices"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Respecting national symbols (like the flag) and obeying lawful authorities are basic **civic duties** expected of every patriot.",
+    "section_id": null
+  },
+  {
+    "question_number": 50,
+    "subject": "National Value Education",
+    "topic": "Rights and Duties of a Citizen",
+    "question_text": "Which consequence directly occurs when citizens completely neglect their constitutional **duties**?",
+    "options": {
+      "a": "The government is able to instantly provide unlimited free amenities",
+      "b": "Society experiences rapid industrial and technological advancement",
+      "c": "A breakdown of discipline, peace, and due process leading to social decay",
+      "d": "The constitution automatically deletes itself and updates to a new version"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "When duties (like obeying the law, paying taxes, and voting responsibly) are abandoned, the importance of rights and duties is lost, leading to **indiscipline, conflict, and a lack of social control**.",
+    "section_id": null
+  },
+  {
+    "question_number": 51,
+    "subject": "National Value Education",
+    "topic": "Supremacy of Constitution",
+    "question_text": "The principle of the **Supremacy of the Constitution** simply means that:",
+    "options": {
+      "a": "The military forces have supreme control over the laws of the country",
+      "b": "The Constitution is the highest law of the land, and all other laws and persons are subject to it",
+      "c": "The President can single-handedly alter the fundamental rights of citizens",
+      "d": "Only wealthy and influential citizens are above the constitutional laws"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Supremacy of the Constitution** dictates that the constitution is the supreme and highest law of the land. Everyone, including the government and its citizens, must obey it.",
+    "section_id": null
+  },
+  {
+    "question_number": 52,
+    "subject": "National Value Education",
+    "topic": "Supremacy of Constitution",
+    "question_text": "Under the principle of Constitutional Supremacy, what happens if any regular law made by the National Assembly contradicts a provision of the Constitution?",
+    "options": {
+      "a": "The Constitution is amended immediately to fit the new law",
+      "b": "The new law overrides the Constitution because it is more recent",
+      "c": "The new law becomes null and void to the extent of its inconsistency",
+      "d": "The National Assembly is dissolved automatically by the judiciary"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Because the Constitution is supreme, any other law that contradicts it is deemed invalid, or **null and void**, to the extent of that contradiction.",
+    "section_id": null
+  },
+  {
+    "question_number": 53,
+    "subject": "National Value Education",
+    "topic": "Supremacy of Constitution",
+    "question_text": "Who among the following is entirely exempt from obeying a supreme constitution in a fully democratic state?",
+    "options": {
+      "a": "The President of the country",
+      "b": "The Chief Justice",
+      "c": "The Inspector General of Police",
+      "d": "No one is exempt"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "In a democratic system governed by constitutional supremacy, **no individual, leader, or institution** is above the law. Everyone is equally subject to the dictates of the constitution.",
+    "section_id": null
+  },
+  {
+    "question_number": 54,
+    "subject": "National Value Education",
+    "topic": "Supremacy of Constitution",
+    "question_text": "The Supremacy of the Constitution works hand-in-hand with which major democratic pillar to ensure equality before the law?",
+    "options": {
+      "a": "The Rule of Law",
+      "b": "Gerrymandering",
+      "c": "Oligarchy",
+      "d": "Absolute Monarchy"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The **Rule of Law** is fundamentally intertwined with the supremacy of the constitution, as both concepts emphasize that all individuals are equal before the highest law of the state.",
+    "section_id": null
+  },
+  {
+    "question_number": 55,
+    "subject": "National Value Education",
+    "topic": "Supremacy of Constitution",
+    "question_text": "Which of the following is a primary benefit of constitutional supremacy in a nation?",
+    "options": {
+      "a": "It strictly concentrates all absolute powers into the hands of one dictator",
+      "b": "It prevents arbitrary rule and protects the fundamental rights of citizens",
+      "c": "It completely abolishes the existence of local governments",
+      "d": "It allows electoral malpractice to go unpunished"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "By keeping leaders in check and defining the limits of their powers, constitutional supremacy **prevents dictatorial (arbitrary) rule** and effectively guards citizens' rights.",
+    "section_id": null
+  },
+  {
+    "question_number": 56,
+    "subject": "National Value Education",
+    "topic": "Supremacy of Constitution",
+    "question_text": "In a Federal system like Nigeria, how does the supremacy of the constitution aid in governance?",
+    "options": {
+      "a": "By clearly defining and sharing powers among the Federal, State, and Local governments to prevent conflict",
+      "b": "By forcing State governments to permanently surrender their budgets to foreign organizations",
+      "c": "By ensuring the central government can unlawfully imprison state governors",
+      "d": "By encouraging violent succession of power"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "In a federation, a supreme written constitution is crucial because it acts as a legally binding document that strictly **shares and defines the powers** among the various tiers of government, thereby preventing boundary conflicts and abuse of power.",
+    "section_id": null
+  },
+  {
+    "question_number": 57,
+    "subject": "National Value Education",
+    "topic": "The Constitution",
+    "question_text": "What is the best basic definition of a **Constitution**?",
+    "options": {
+      "a": "A religious book used strictly for taking oaths in court",
+      "b": "A body of fundamental rules, laws, and principles by which a state or organization is governed",
+      "c": "A confidential document revealing a nation's military secrets",
+      "d": "An agreement strictly between opposing political parties during elections"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **Constitution** is defined as the whole body of fundamental laws, customs, conventions, and principles according to which a particular country or organization is governed.",
+    "section_id": null
+  },
+  {
+    "question_number": 58,
+    "subject": "National Value Education",
+    "topic": "The Constitution",
+    "question_text": "Which of the following was the first formally recognized Colonial Constitution enacted for Nigeria, established in the year 1922?",
+    "options": {
+      "a": "Richards Constitution",
+      "b": "Macpherson Constitution",
+      "c": "Lyttleton Constitution",
+      "d": "Clifford Constitution"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "The **Clifford Constitution of 1922** (named after Governor Sir Hugh Clifford) was the first formal colonial constitution in Nigeria, famously introducing the elective principle.",
+    "section_id": null
+  },
+  {
+    "question_number": 59,
+    "subject": "National Value Education",
+    "topic": "The Constitution",
+    "question_text": "Examine the timeline of Nigerian Colonial Constitutions:\n\n| Year | Constitution Name |\n|---|---|\n| 1922 | Clifford |\n| 1946 | $X$ |\n| 1951 | Macpherson |\n\nWhich constitution correctly replaces $X$?",
+    "options": {
+      "a": "Lyttleton Constitution",
+      "b": "Richards Constitution",
+      "c": "Independence Constitution",
+      "d": "Lugard Constitution"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **Richards Constitution** was established in **1946** (promulgated by Sir Arthur Richards). It is notable for dividing Nigeria into three regions (North, East, and West) and promoting regionalism.",
+    "section_id": null
+  },
+  {
+    "question_number": 60,
+    "subject": "National Value Education",
+    "topic": "The Constitution",
+    "question_text": "In what significant way did the **Lyttleton Constitution of 1954** shape the modern structure of the Nigerian nation?",
+    "options": {
+      "a": "It fully introduced the unitary system of government to Nigeria",
+      "b": "It established a full Federal system of government for Nigeria",
+      "c": "It instantly granted full political independence to Nigeria",
+      "d": "It successfully abolished all regional governments"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The **Lyttleton Constitution of 1954** is highly historically significant because it legally established a true **Federal system of government**, formally dividing powers between the central and regional governments.",
+    "section_id": null
+  },
+  {
+    "question_number": 61,
+    "subject": "National Value Education",
+    "topic": "The Constitution",
+    "question_text": "The **Independence Constitution**, which officially ended direct British colonial rule in Nigeria, came into effect in which year?",
+    "options": {
+      "a": "1954",
+      "b": "1960",
+      "c": "1963",
+      "d": "1979"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Independence Constitution** was implemented on October 1, **1960**, marking the birth of Nigeria as a sovereign, independent state from Great Britain.",
+    "section_id": null
+  },
+  {
+    "question_number": 62,
+    "subject": "National Value Education",
+    "topic": "The Constitution",
+    "question_text": "Which of the following was a major common feature of the pre-1960 **Colonial Constitutions** in Nigeria?",
+    "options": {
+      "a": "They granted universal adult suffrage to every Nigerian citizen immediately",
+      "b": "They were drafted exclusively by completely sovereign Nigerian elected officials",
+      "c": "They heavily centralized power in the hands of the British Governor-General",
+      "d": "They legally abolished traditional chieftaincy institutions entirely"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A defining feature of all colonial constitutions was the concentration of immense executive and legislative powers in the hands of the **British Governor-General**, thereby limiting local democratic autonomy.",
+    "section_id": null
+  },
+  {
+    "question_number": 63,
+    "subject": "National Value Education",
+    "topic": "The Constitution",
+    "question_text": "Under the Post-1960 Constitutions, when did Nigeria legally become a Republic, replacing the British Queen as the Head of State with a Nigerian President?",
+    "options": {
+      "a": "Under the 1960 Independence Constitution",
+      "b": "Under the 1963 Republican Constitution",
+      "c": "Under the 1979 Presidential Constitution",
+      "d": "Under the 1989 Constitution"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **1963 Republican Constitution** severed the final colonial ties with Britain, replacing the Queen with a Nigerian ceremonial President (Dr. Nnamdi Azikiwe) and making the Nigerian Supreme Court the highest court of appeal.",
+    "section_id": null
+  },
+  {
+    "question_number": 64,
+    "subject": "National Value Education",
+    "topic": "The Constitution",
+    "question_text": "A massive structural shift occurred in Nigerian governance with the **1979 Constitution**. What major feature did this constitution introduce?",
+    "options": {
+      "a": "The Parliamentary system of government (Prime Minister model)",
+      "b": "The Executive Presidential system of government (modeled after the USA)",
+      "c": "The absolute dissolution of the Nigerian military forces",
+      "d": "The total merging of Nigeria with neighboring West African countries"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The **1979 Constitution** radically shifted Nigeria from a British-style Parliamentary system to an American-style **Executive Presidential system**, making the President both Head of State and Head of Government.",
+    "section_id": null
+  },
+  {
+    "question_number": 65,
+    "subject": "National Value Education",
+    "topic": "The Constitution",
+    "question_text": "Which of these post-1960 Nigerian constitutions is historically associated with attempting to institutionalize a strict two-party system (SDP and NRC) during a military-to-civilian transition?",
+    "options": {
+      "a": "1963 Constitution",
+      "b": "1979 Constitution",
+      "c": "1989 Constitution",
+      "d": "1999 Constitution"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **1989 Constitution** (promulgated during General Ibrahim Babangida's regime) was specifically designed for the ill-fated Third Republic and legally mandated a **two-party political system**.",
+    "section_id": null
+  },
+  {
+    "question_number": 66,
+    "subject": "National Value Education",
+    "topic": "The Constitution",
+    "question_text": "Which post-1960 constitution finally abolished the British Privy Council in London as Nigeria's highest court of appeal?",
+    "options": {
+      "a": "1963 Republican Constitution",
+      "b": "1954 Lyttleton Constitution",
+      "c": "1946 Richards Constitution",
+      "d": "1960 Independence Constitution"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Before **1963**, the final court of appeal for Nigerians was the Judicial Committee of the Privy Council in London. The **1963 Republican Constitution** established the Nigerian Supreme Court as the final appellate authority.",
+    "section_id": null
+  },
+  {
+    "question_number": 67,
+    "subject": "National Value Education",
+    "topic": "The Constitution",
+    "question_text": "Identify the primary sequential order of the following major pre-independence colonial constitutions:\n\n1. Lyttleton Constitution\n2. Clifford Constitution\n3. Macpherson Constitution\n4. Richards Constitution",
+    "options": {
+      "a": "2 $\\rightarrow$ 4 $\\rightarrow$ 3 $\\rightarrow$ 1",
+      "b": "1 $\\rightarrow$ 2 $\\rightarrow$ 3 $\\rightarrow$ 4",
+      "c": "2 $\\rightarrow$ 3 $\\rightarrow$ 4 $\\rightarrow$ 1",
+      "d": "4 $\\rightarrow$ 2 $\\rightarrow$ 1 $\\rightarrow$ 3"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "The chronological sequence is:\n- Clifford (1922) [2]\n- Richards (1946) [4]\n- Macpherson (1951) [3]\n- Lyttleton (1954) [1]",
+    "section_id": null
+  },
+  {
+    "question_number": 68,
+    "subject": "National Value Education",
+    "topic": "The Constitution",
+    "question_text": "In contrasting the Parliamentary and Presidential features of Nigerian Constitutions, what is the primary role of the Executive President created by the 1979 Constitution?",
+    "options": {
+      "a": "To act only as a ceremonial figurehead while a Prime Minister rules",
+      "b": "To exercise full executive powers as both the Head of State and the Commander-in-Chief of the Armed Forces",
+      "c": "To exclusively draft and pass laws without the National Assembly",
+      "d": "To permanently serve as the Chief Justice of the Supreme Court"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Unlike a ceremonial President under a parliamentary system (1963), the **Executive President** (instituted in 1979) possesses full executive authority and is the **Commander-in-Chief of the Armed Forces**.",
+    "section_id": null
+  },
+  {
+    "question_number": 69,
+    "subject": "National Value Education",
+    "topic": "Objects for National Consciousness",
+    "question_text": "What do we call official physical or abstract objects that represent the unique identity, sovereignty, and shared unity of a sovereign country?",
+    "options": {
+      "a": "National Disasters",
+      "b": "National Corporations",
+      "c": "National Symbols",
+      "d": "Electoral Manifestos"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**National Symbols** are officially recognized objects (like the flag, coat of arms, or anthem) that project the unique identity, history, and sovereignty of a nation, fostering patriotism.",
+    "section_id": null
+  },
+  {
+    "question_number": 70,
+    "subject": "National Value Education",
+    "topic": "Objects for National Consciousness",
+    "question_text": "In the Nigerian **Coat of Arms**, what does the large *Black Shield* explicitly represent?",
+    "options": {
+      "a": "The dark history of British colonial rule",
+      "b": "The fertile, good soil of Nigeria capable of extensive agriculture",
+      "c": "The petroleum wealth hidden in the Niger Delta",
+      "d": "The vast military strength of the armed forces"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "In the Nigerian Coat of Arms, the **Black Shield** symbolizes the **good and fertile soil** of the nation, while the silver 'Y' bands on it represent the Niger and Benue rivers.",
+    "section_id": null
+  },
+  {
+    "question_number": 71,
+    "subject": "National Value Education",
+    "topic": "Objects for National Consciousness",
+    "question_text": "The Nigerian National Flag, a vital national symbol, consists of green and white stripes. What does the green color specifically stand for?",
+    "options": {
+      "a": "Peace and Unity",
+      "b": "Agricultural wealth and abundant natural resources",
+      "c": "Blood shed by early patriots during the civil war",
+      "d": "The dominance of a single political party"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The green stripes on the Nigerian national flag stand for the nation's **agricultural wealth and natural endowments**, whereas the white stripe in the middle represents peace and unity.",
+    "section_id": null
+  },
+  {
+    "question_number": 72,
+    "subject": "National Value Education",
+    "topic": "Objects for National Consciousness",
+    "question_text": "Which of the following serves as the official **National Currency** that represents Nigeria's economic sovereignty in everyday transactions?",
+    "options": {
+      "a": "The United States Dollar",
+      "b": "The British Pound Sterling",
+      "c": "The CFA Franc",
+      "d": "The Naira and Kobo"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "The **Naira and Kobo** were introduced in 1973 as the official legal tender (National Currency) of Nigeria, replacing the Nigerian Pound.",
+    "section_id": null
+  },
+  {
+    "question_number": 73,
+    "subject": "National Value Education",
+    "topic": "Objects for National Consciousness",
+    "question_text": "The National Youth Service Corps (NYSC) is a prominent National Institution. What was the primary constitutional purpose behind its establishment in 1973?",
+    "options": {
+      "a": "To secretly train civilian youths for frontline combat missions",
+      "b": "To promote national unity, reconciliation, and integration among youths from diverse ethnic backgrounds",
+      "c": "To permanently extract manual labor from youths without compensation",
+      "d": "To force Nigerian youths to relocate to foreign countries as expatriates"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Following the Nigerian Civil War, the **NYSC** was established to rebuild the nation and **promote national unity** by deploying young graduates to serve in states other than their state of origin, fostering cultural integration.",
+    "section_id": null
+  },
+  {
+    "question_number": 74,
+    "subject": "National Value Education",
+    "topic": "Objects for National Consciousness",
+    "question_text": "To further drive national consciousness, the Federal Government established **Unity Schools** (Federal Government Colleges) across the country. What is the core aim of these schools?",
+    "options": {
+      "a": "To cater exclusively for the children of politicians",
+      "b": "To segregate students completely based on their ethnic languages",
+      "c": "To bring secondary school students from varying geographic and ethnic zones together, breaking down ethnic prejudices",
+      "d": "To prepare students solely for foreign universities"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **Unity Schools** were specifically created as a social experiment to foster early interaction among young students from vastly different ethnic and cultural backgrounds, actively working to break down prejudices and promote unity.",
+    "section_id": null
+  },
+  {
+    "question_number": 75,
+    "subject": "National Value Education",
+    "topic": "Objects for National Consciousness",
+    "question_text": "Which of the following social practices acts as a potent, everyday way of promoting genuine **National Unity** among Nigerian citizens?",
+    "options": {
+      "a": "Practicing intense ethnic discrimination at the workplace",
+      "b": "Fostering inter-marriage across different tribes and cultural backgrounds",
+      "c": "Consistently spreading fake political manifestos",
+      "d": "Voting exclusively based on religious affiliations"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Inter-marriage** (marrying someone from a different tribe or region) physically and socially unites families across ethnic divides, powerfully breaking down prejudices and promoting national unity.",
+    "section_id": null
+  },
+  {
+    "question_number": 76,
+    "subject": "National Value Education",
+    "topic": "Objects for National Consciousness",
+    "question_text": "While the National Anthem is a song of patriotism, the **National Pledge** acts as an official declaration of what?",
+    "options": {
+      "a": "The military superiority of the Nigerian Armed Forces",
+      "b": "An individual's solemn vow of loyalty, commitment, and dedication to the Nigerian State",
+      "c": "A guarantee of free tertiary education for every citizen",
+      "d": "The supremacy of traditional rulers over democratic institutions"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **National Pledge** is a solemn oath and a direct promise made by citizens expressing absolute loyalty, dedication, and patriotic commitment to defend and uphold the honor of Nigeria.",
+    "section_id": null
+  },
+  {
+    "question_number": 77,
+    "subject": "National Value Education",
+    "topic": "Objects for National Consciousness",
+    "question_text": "To prevent the dominance of one or a few ethnic groups in the governance and public service of the nation, the Nigerian government established a principle called:",
+    "options": {
+      "a": "The Federal Character Principle",
+      "b": "The Indigenization Decree",
+      "c": "The Unitary Control System",
+      "d": "The Universal Suffrage Act"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The **Federal Character Principle** was enshrined in the constitution to ensure equitable distribution of wealth, public service positions, and socio-economic privileges across the varying ethnic and regional divides, thereby avoiding marginalization.",
+    "section_id": null
+  },
+  {
+    "question_number": 78,
+    "subject": "National Value Education",
+    "topic": "Objects for National Consciousness",
+    "question_text": "Which of the following values is defined as the ability to accept, respect, and peacefully coexist with people whose opinions, ethnic backgrounds, or religious beliefs are entirely different from yours?",
+    "options": {
+      "a": "Intimidation",
+      "b": "Discipline",
+      "c": "Tolerance",
+      "d": "Contentment"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Tolerance** is a massive pillar of national unity. It requires citizens to peacefully accept and respect the cultural, political, and religious diversity that exists within a heterogeneous country like Nigeria.",
+    "section_id": null
+  },
+  {
+    "question_number": 79,
+    "subject": "National Value Education",
+    "topic": "Objects for National Consciousness",
+    "question_text": "A key way of promoting national unity is through **Hospitality**. In a civic context, what does hospitality entail?",
+    "options": {
+      "a": "Forcing foreigners to pay extra taxes for basic goods",
+      "b": "Creating a friendly, generous, and welcoming environment for strangers and fellow citizens from different regions",
+      "c": "Refusing to do business with individuals outside your state of origin",
+      "d": "Admitting only indigenes into local community hospitals"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Hospitality** is the warm and generous reception of guests, visitors, or strangers. When practiced across regional lines, it breaks down fear and stereotypes, effectively promoting national unity.",
+    "section_id": null
+  },
+  {
+    "question_number": 80,
+    "subject": "National Value Education",
+    "topic": "Objects for National Consciousness",
+    "question_text": "Evaluate the table below showing actions and their impact on National Unity:\n\n| Action | Impact on National Unity |\n|---|---|\n| Inter-marriage | Positive |\n| Tolerance | Positive |\n| $Z$ | Negative |\n\nWhich of the following correctly replaces $Z$?",
+    "options": {
+      "a": "Non-discrimination",
+      "b": "Participation in NYSC",
+      "c": "Ethnic nepotism and bigotry",
+      "d": "Displaying the National Flag"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Actions like **ethnic nepotism and bigotry** breed hatred, suspicion, and division, negatively impacting National Unity. The other options promote integration.",
+    "section_id": null
+  },
+  {
+    "question_number": 81,
+    "subject": "National Value Education",
+    "topic": "Nigeria as a Federation",
+    "question_text": "In Political Science and Civic Education, what is the best meaning of a **Federation**?",
+    "options": {
+      "a": "A political system where all administrative power is fiercely concentrated in one central capital city",
+      "b": "A system of government where political powers and functions are constitutionally shared between a central government and its component states",
+      "c": "A temporary alliance of countries designed solely for economic trading",
+      "d": "A country entirely ruled by a traditional monarch"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **Federation** (or federal system) is a political arrangement where governing power is formally divided and shared by the constitution between a central authority (the Federal Government) and regional/state units.",
+    "section_id": null
+  },
+  {
+    "question_number": 82,
+    "subject": "National Value Education",
+    "topic": "Nigeria as a Federation",
+    "question_text": "One of the fundamental needs for adopting a Federal system of government in Nigeria is to promote **Unity in Diversity**. What does this mean?",
+    "options": {
+      "a": "Bringing people of highly diverse ethnic, religious, and linguistic backgrounds together under one strong, united nation",
+      "b": "Forcing every citizen to speak only one approved national language",
+      "c": "Eliminating all regional differences by erasing historical borders completely",
+      "d": "Creating independent sovereign countries for every single ethnic group"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Unity in Diversity** is the idea that although a country may contain hundreds of different ethnic groups and cultures (diversity), a federal system allows them to coexist peacefully as one politically united entity.",
+    "section_id": null
+  },
+  {
+    "question_number": 83,
+    "subject": "National Value Education",
+    "topic": "Nigeria as a Federation",
+    "question_text": "Which of the following is a core characteristic of a Federation?",
+    "options": {
+      "a": "The component states have absolutely no constitutional powers and can be abolished anytime by the President",
+      "b": "Powers are shared, and the states have constitutionally defined control over their own internal affairs",
+      "c": "The central government handles everything including minor rural street sweepers",
+      "d": "There is strictly no written constitution guiding the government"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "In a federation, component units (states) are not just mere administrative agents of the center. They possess **constitutionally defined control and autonomy** over certain local affairs, shielding them from arbitrary federal erasure.",
+    "section_id": null
+  },
+  {
+    "question_number": 84,
+    "subject": "National Value Education",
+    "topic": "Nigeria as a Federation",
+    "question_text": "Another crucial need for a Federation is **National Integration**. What role does federalism play in this process?",
+    "options": {
+      "a": "It strictly forbids citizens from traveling outside their state of origin",
+      "b": "It fosters a sense of belonging among minority groups by giving them regional autonomy",
+      "c": "It forces state governments to rely entirely on international loans",
+      "d": "It empowers local thugs to act as state law enforcement"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "**National Integration** involves uniting disparate groups. Federalism assists this by ensuring power is decentralized, meaning minority groups have a level of political control in their regions, ensuring they feel integrated rather than marginalized.",
+    "section_id": null
+  },
+  {
+    "question_number": 85,
+    "subject": "National Value Education",
+    "topic": "Nigeria as a Federation",
+    "question_text": "In a Federation, what prevents the Central government from violently overtaking State governments and becoming a dictatorship?",
+    "options": {
+      "a": "The presence of international election observers",
+      "b": "The Supreme and Rigid Constitution of the Federal Republic",
+      "c": "The traditional chiefs who command independent tribal armies",
+      "d": "The total absence of a federal police force"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A defining characteristic of a federation is the supremacy of the **written and rigid constitution**. This constitution serves as the ultimate rule book that limits the powers of the central government, preventing it from overtaking state functions.",
+    "section_id": null
+  },
+  {
+    "question_number": 86,
+    "subject": "National Value Education",
+    "topic": "Nigeria as a Federation",
+    "question_text": "Federalism inherently involves power being shared among different levels. Which level is strategically designed to bring the government closest to the rural people?",
+    "options": {
+      "a": "The Federal Government",
+      "b": "The State Government",
+      "c": "The Local Government",
+      "d": "The International Community"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "While Federalism officially dictates power-sharing between the Center and States, the creation of **Local Governments** acts as a third tier directly purposed to bring governance to the grassroots and rural populace.",
+    "section_id": null
+  },
+  {
+    "question_number": 87,
+    "subject": "National Value Education",
+    "topic": "Nigeria as a Federation",
+    "question_text": "Examine this equation representing the hierarchy of law in a Federation: Federal Law $+$ State Law $=$ Conflict. In a true federation like Nigeria, what is the standard constitutional resolution to this conflict?",
+    "options": {
+      "a": "The State law automatically overrides the Federal law",
+      "b": "The Federal law prevails, and the State law is voided to the extent of its inconsistency",
+      "c": "Both laws are immediately suspended until new elections are held",
+      "d": "The State Governor dictates which law should apply in his state"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "In instances where a state makes a law that contradicts a valid federal law (especially on concurrent matters), the principle of the \"Doctrine of Covering the Field\" states that the **Federal law shall prevail**.",
+    "section_id": null
+  },
+  {
+    "question_number": 88,
+    "subject": "National Value Education",
+    "topic": "Nigeria as a Federation",
+    "question_text": "The syllabus states that a major characteristic of federalism is that the \"Central government controls the States\" to an extent. Why is this supervisory relationship important?",
+    "options": {
+      "a": "To coordinate national economic policies and prevent any single state from engaging in activities that threaten national security or unity",
+      "b": "To ensure state governors transfer all state revenue directly to the personal account of the President",
+      "c": "To legally eradicate all minority ethnic languages in the country",
+      "d": "To force all states to have the exact same physical size and population"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "While states are autonomous, the Federal (Central) government maintains certain controls (like national defense, emergency declarations, and foreign policy) to safeguard the **territorial integrity, economic stability, and national security** of the entire country.",
+    "section_id": null
+  },
+  {
+    "question_number": 89,
+    "subject": "National Value Education",
+    "topic": "Relationship Between Federal, State and Local Governments",
+    "question_text": "To clearly define the relationship and avoid chaos between tiers of government, the Constitution uses 'Legislative Lists'. Which list details matters that ONLY the Federal Government can legislate upon?",
+    "options": {
+      "a": "The Concurrent Legislative List",
+      "b": "The Residual Legislative List",
+      "c": "The Exclusive Legislative List",
+      "d": "The Executive Legislative List"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **Exclusive Legislative List** is a part of the constitution containing matters (such as defense, currency, and foreign affairs) upon which *only* the central (Federal) government can legislate.",
+    "section_id": null
+  },
+  {
+    "question_number": 90,
+    "subject": "National Value Education",
+    "topic": "Relationship Between Federal, State and Local Governments",
+    "question_text": "Based on constitutional provisions, which of the following items typically falls under the **Exclusive Legislative List**?",
+    "options": {
+      "a": "Local market administration",
+      "b": "Printing of National Currency and External Defense",
+      "c": "Construction of minor rural community roads",
+      "d": "Establishing state secondary schools"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Matters of immense national importance that require absolute uniformity, such as the printing of the **currency (Naira)** and managing the **armed forces (Defense)**, belong exclusively to the Federal Government.",
+    "section_id": null
+  },
+  {
+    "question_number": 91,
+    "subject": "National Value Education",
+    "topic": "Relationship Between Federal, State and Local Governments",
+    "question_text": "What defines the **Concurrent Legislative List** in the Nigerian Constitution?",
+    "options": {
+      "a": "A list of laws that can only be obeyed by state governors",
+      "b": "Matters over which both the Federal and State Governments have constitutional powers to legislate",
+      "c": "Duties specifically reserved only for Local Government Chairmen",
+      "d": "The list of registered political parties cleared to contest in an election"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Concurrent List** contains matters (such as education, health, and agriculture) where the constitution explicitly grants both the **Federal and State governments** the power to make laws.",
+    "section_id": null
+  },
+  {
+    "question_number": 92,
+    "subject": "National Value Education",
+    "topic": "Relationship Between Federal, State and Local Governments",
+    "question_text": "Any matter that is entirely unmentioned in both the Exclusive and Concurrent Legislative Lists is automatically assigned to the States (and Local governments). What are these unlisted powers called?",
+    "options": {
+      "a": "Residual Powers",
+      "b": "Omitted Powers",
+      "c": "Federal Reserves",
+      "d": "Nullified Lists"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Powers over matters that are not specified in the Exclusive or Concurrent lists are known as **Residual Powers**, and these are conventionally left to the jurisdiction of the State governments.",
+    "section_id": null
+  },
+  {
+    "question_number": 93,
+    "subject": "National Value Education",
+    "topic": "Relationship Between Federal, State and Local Governments",
+    "question_text": "Which of the following is a primary point of difference when comparing the **Executive Powers** across the three tiers of government?",
+    "options": {
+      "a": "Only the State tier exercises executive power; the Federal tier does not",
+      "b": "At the Federal level, power is held by the President; at the State level by the Governor; and at the Local level by the Chairman",
+      "c": "The Local Government has absolute executive power over national foreign policy",
+      "d": "The President is democratically elected, while Governors are strictly appointed by the President"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The executive structures differ by scale: The **President** wields executive authority for the Federation, the **Governor** for a State, and the **Executive Chairman** for a Local Government Area.",
+    "section_id": null
+  },
+  {
+    "question_number": 94,
+    "subject": "National Value Education",
+    "topic": "Relationship Between Federal, State and Local Governments",
+    "question_text": "Identify the legislative bodies corresponding to the three tiers of government:\n\n1. National Assembly\n2. $W$\n3. Local Government Legislative Council\n\nWhat does $W$ logically represent in this hierarchy?",
+    "options": {
+      "a": "The Supreme Court",
+      "b": "The State House of Assembly",
+      "c": "The Inspector General's Office",
+      "d": "The Customary Court of Appeal"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The law-making (legislative) organs correspond to each tier: The National Assembly (Federal), the **State House of Assembly** (State), and the Legislative Council (Local Government).",
+    "section_id": null
+  },
+  {
+    "question_number": 95,
+    "subject": "National Value Education",
+    "topic": "Relationship Between Federal, State and Local Governments",
+    "question_text": "One major difference among the three tiers of government is their constitutionally assigned functions. Which of the following is an exclusive function of the Local Government?",
+    "options": {
+      "a": "Issuance of international passports to traveling citizens",
+      "b": "Creating new currencies and controlling inflation",
+      "c": "Registration of births, deaths, and administration of local markets",
+      "d": "Declaring war on hostile neighboring countries"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "According to the Fourth Schedule of the Constitution, functions like managing local markets, motor parks, slaughterhouses, and **registering births and deaths** are the specific responsibilities of the Local Government.",
+    "section_id": null
+  },
+  {
+    "question_number": 96,
+    "subject": "National Value Education",
+    "topic": "Relationship Between Federal, State and Local Governments",
+    "question_text": "In maintaining their constitutional relationship, what is the primary source of revenue legally shared among the Federal, State, and Local governments in Nigeria?",
+    "options": {
+      "a": "Personal donations made by international billionaires",
+      "b": "The Federation Account (Revenue Allocation Formula)",
+      "c": "Profits generated strictly from local government market tolls",
+      "d": "Fines collected from students who arrive late to school"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A critical aspect of inter-governmental relationships in Nigeria is economic; revenue generated nationally is pooled into the **Federation Account** and disbursed among the three tiers based on a constitutional Revenue Allocation Formula.",
+    "section_id": null
+  },
+  {
+    "question_number": 97,
+    "subject": "National Value Education",
+    "topic": "Relationship Between Federal, State and Local Governments",
+    "question_text": "Which tier of government possesses the constitutional power to legally establish, structure, and oversee the existence of Local Government Areas within its geographic jurisdiction?",
+    "options": {
+      "a": "The State Government (via the State House of Assembly)",
+      "b": "The African Union",
+      "c": "The Independent National Electoral Commission (INEC)",
+      "d": "The United Nations"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "While Local Governments are recognized as the third tier, they are primarily creations of the **State Governments**. The State House of Assembly is constitutionally empowered to pass laws ensuring their existence, establishment, and structure.",
+    "section_id": null
+  },
+  {
+    "question_number": 98,
+    "subject": "National Value Education",
+    "topic": "Nigeria as a Federation",
+    "question_text": "Why must the relationships and powers of the three tiers of government be strictly written out in the Constitution, rather than left to verbal agreements?",
+    "options": {
+      "a": "To purposely confuse the citizens with complex legal terminology",
+      "b": "To ensure they perform their functions according to legal provisions, thereby minimizing constitutional boundary clashes",
+      "c": "Because written ink permanently guarantees immediate economic prosperity",
+      "d": "So that traditional rulers can read them during annual festivals"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A written constitution acts as an objective, binding contract. Detailing the powers ensures that each tier operates within its **legal limits**, which massively minimizes jurisdictional conflicts and power struggles.",
+    "section_id": null
+  },
+  {
+    "question_number": 99,
+    "subject": "National Value Education",
+    "topic": "Relationship Between Federal, State and Local Governments",
+    "question_text": "Consider a scenario where an outbreak of a strange disease occurs across the nation. Which level(s) of government hold(s) the constitutional power to build hospitals and legislate on general healthcare?",
+    "options": {
+      "a": "Only the Federal Government",
+      "b": "Only the Local Government",
+      "c": "Both the Federal and State Governments (Concurrent List)",
+      "d": "Neither; healthcare is left exclusively to private foreign companies"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Healthcare is a matter found on the **Concurrent Legislative List**, meaning that both Federal and State governments have the power and responsibility to build hospitals and pass health-related laws.",
+    "section_id": null
+  },
+  {
+    "question_number": 100,
+    "subject": "National Value Education",
+    "topic": "Relationship Between Federal, State and Local Governments",
+    "question_text": "The entire system of distributing powers vertically across the Federal, State, and Local Government is a prime example of which democratic concept?",
+    "options": {
+      "a": "Dictatorial Centralization",
+      "b": "Decentralization of Power (Federalism)",
+      "c": "Checks and Balances",
+      "d": "Military Authoritarianism"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The sharing of functions and authority from a single central point down to state and local authorities is defined as the **Decentralization of Power**, which is the hallmark of a functioning Federal system.",
+    "section_id": null
+  },
+  {
+    "question_number": 101,
+    "subject": "National Value Education",
+    "topic": "The Rule of Law",
+    "question_text": "What is the primary meaning of the **Rule of Law**?",
+    "options": {
+      "a": "The law only applies to the poor and vulnerable citizens",
+      "b": "The principle that all people and institutions are subject to and accountable to a supreme law that is fairly applied and enforced",
+      "c": "A military decree that suspends the constitution completely",
+      "d": "The absolute power of the President to write and execute any law personally"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Rule of Law** is the democratic principle that implies the absolute supremacy or predominance of regular law as opposed to the influence of arbitrary power. Everyone is subject to it.",
+    "section_id": null
+  },
+  {
+    "question_number": 102,
+    "subject": "National Value Education",
+    "topic": "The Rule of Law",
+    "question_text": "In Civic Education, a **Law** is best defined as:",
+    "options": {
+      "a": "A temporary suggestion made by wealthy businessmen",
+      "b": "A body of enacted or customary rules recognized by a community as binding, which regulates human conduct",
+      "c": "A personal opinion written by a judge during an election",
+      "d": "A verbal promise made by politicians during political campaigns"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **Law** is a formal, legally binding system of rules established and enforced by a governing authority to regulate behavior and maintain social order.",
+    "section_id": null
+  },
+  {
+    "question_number": 103,
+    "subject": "National Value Education",
+    "topic": "The Rule of Law",
+    "question_text": "Which of the following perfectly describes **Arbitrary Rule**, which the Rule of Law actively opposes and seeks to prevent?",
+    "options": {
+      "a": "A government executing its duties strictly according to the written constitution",
+      "b": "Judges using legal precedence to issue fair judgments",
+      "c": "A leader exercising unchecked, dictatorial power based solely on personal whim rather than written law",
+      "d": "Holding periodic free and fair elections"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Arbitrary rule** is a system of government where the leader's decisions are not restrained by law. The Rule of Law combats this by enforcing constitutional limits on power.",
+    "section_id": null
+  },
+  {
+    "question_number": 104,
+    "subject": "National Value Education",
+    "topic": "The Rule of Law",
+    "question_text": "The fundamental concept of **'Equality of all citizens before the law'** guarantees that:",
+    "options": {
+      "a": "No individual, regardless of their wealth, class, or political position, is above the laws of the land",
+      "b": "All citizens must possess exactly the same amount of money",
+      "c": "Only government officials are exempt from paying traffic fines",
+      "d": "Minors and adults must receive exactly the same punishments for any crime"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Equality before the law** (Legal Egalitarianism) is the pillar of the Rule of Law asserting that every individual, rich or poor, leader or follower, is subject to the exact same legal codes and judicial processes.",
+    "section_id": null
+  },
+  {
+    "question_number": 105,
+    "subject": "National Value Education",
+    "topic": "The Rule of Law",
+    "question_text": "Under the Rule of Law, what is the legitimate, constitutional process for administering **punishment for breaking the law**?",
+    "options": {
+      "a": "The police executing the suspect immediately upon arrest",
+      "b": "An angry mob carrying out jungle justice",
+      "c": "The suspect being publicly shamed without a trial",
+      "d": "The suspect being proven guilty through a fair trial in an open court of law before punishment is administered"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "The Rule of Law mandates **Due Process**. An accused person is presumed innocent until proven guilty in a recognized court of law, ensuring punishment is fair and strictly legal.",
+    "section_id": null
+  },
+  {
+    "question_number": 106,
+    "subject": "National Value Education",
+    "topic": "The Rule of Law",
+    "question_text": "Identify the 19th-century British constitutional scholar who fundamentally popularized the three main pillars of the **Rule of Law** (Supremacy of Law, Equality before the Law, and Fundamental Human Rights).",
+    "options": {
+      "a": "Baron de Montesquieu",
+      "b": "Professor A.V. Dicey",
+      "c": "Thomas Hobbes",
+      "d": "John Locke"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "**Professor Albert Venn Dicey (A.V. Dicey)** popularized the concept of the Rule of Law in his 1885 book, *An Introduction to the Study of the Law of the Constitution*.",
+    "section_id": null
+  },
+  {
+    "question_number": 107,
+    "subject": "National Value Education",
+    "topic": "The Rule of Law",
+    "question_text": "Which of the following is an absolute benefit of enforcing the Rule of Law in a developing nation?",
+    "options": {
+      "a": "It strictly forbids the registration of multiple political parties",
+      "b": "It fosters total immunity for elected Governors",
+      "c": "It guarantees the protection of minority rights and fundamental human rights",
+      "d": "It allows the military to interfere in daily democratic processes"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A major **benefit of the Rule of Law** is the protection it offers. By constraining arbitrary power, it directly defends fundamental human rights and safeguards minorities from the tyranny of the majority.",
+    "section_id": null
+  },
+  {
+    "question_number": 108,
+    "subject": "National Value Education",
+    "topic": "Protection of Human Rights and the Rule of Law",
+    "question_text": "When a citizen's human rights are severely violated by a powerful corporation or government body, what is the most constitutional way to legally protect the victim?",
+    "options": {
+      "a": "Vandalizing the corporation's private properties at night",
+      "b": "Representing the affected persons formally in a competent court of law",
+      "c": "Bribing local police officers to harass the company executives",
+      "d": "Fleeing the country secretly to avoid the problem"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Representing affected persons in court** (litigation) is the primary constitutional method of enforcing infringed human rights and seeking legal redress.",
+    "section_id": null
+  },
+  {
+    "question_number": 109,
+    "subject": "National Value Education",
+    "topic": "Protection of Human Rights and the Rule of Law",
+    "question_text": "Activists and pressure groups frequently use **Media Coverage** to protect human rights. How does this specific method work?",
+    "options": {
+      "a": "By secretly paying judges to issue favorable rulings",
+      "b": "By shutting down all national radio stations violently",
+      "c": "By using newspapers, television, and social media to expose violations and draw national/international public attention",
+      "d": "By physically attacking journalists who report on government activities"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Media coverage** draws mass public and international attention to cases of human rights abuses, creating social and political pressure on violators to cease their illegal actions.",
+    "section_id": null
+  },
+  {
+    "question_number": 110,
+    "subject": "National Value Education",
+    "topic": "Protection of Human Rights and the Rule of Law",
+    "question_text": "In Nigeria, Civil Society Organizations (CSOs) play a massive role in protecting citizens from governmental abuse. What does the renowned CSO acronym **CLO** stand for?",
+    "options": {
+      "a": "Civil Liberties Organisation",
+      "b": "Central Law Office",
+      "c": "Citizens' Liberation Order",
+      "d": "Constitutional Legal Objective"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "The **Civil Liberties Organisation (CLO)** is one of Nigeria's oldest and most prominent human rights groups, dedicated to protecting civil rights and opposing military/civilian dictatorship.",
+    "section_id": null
+  },
+  {
+    "question_number": 111,
+    "subject": "National Value Education",
+    "topic": "Protection of Human Rights and the Rule of Law",
+    "question_text": "A destitute citizen is unlawfully detained and desperately requires a lawyer but cannot afford legal fees. Which specific government-backed body in Nigeria is formally established to provide free legal representation for such indigent citizens?",
+    "options": {
+      "a": "The Supreme Court",
+      "b": "The Legal Aid Council",
+      "c": "The Independent National Electoral Commission (INEC)",
+      "d": "The Economic and Financial Crimes Commission (EFCC)"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **Legal Aid Council** of Nigeria was established precisely to provide free legal representation and assistance to poor/indigent citizens who cannot afford to hire private lawyers.",
+    "section_id": null
+  },
+  {
+    "question_number": 112,
+    "subject": "National Value Education",
+    "topic": "Protection of Human Rights and the Rule of Law",
+    "question_text": "Examine the table mapping Groups to the constituents they protect:\n\n| Group | Constituency Protected |\n|---|---|\n| Student Unions | Students |\n| Ethnic Associations | Local Tribe Members |\n| $Y$ | Employees and Workers |\n\nWhich of the following correctly replaces $Y$?",
+    "options": {
+      "a": "Political Parties",
+      "b": "Trade Unions",
+      "c": "Legal Aid Council",
+      "d": "The Armed Forces"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Trade Unions** (like the Nigeria Labour Congress - NLC) are specifically formed to negotiate for and protect the economic, social, and workplace rights of employed workers.",
+    "section_id": null
+  },
+  {
+    "question_number": 113,
+    "subject": "National Value Education",
+    "topic": "Protection of Human Rights and the Rule of Law",
+    "question_text": "Sometimes activists embark on a **Hunger Strike**. In the context of drawing attention to human rights violations, what is a hunger strike?",
+    "options": {
+      "a": "Stealing food from wealthy corporations and redistributing it",
+      "b": "A peaceful protest where participants voluntarily refuse to eat food to pressure authorities to meet their demands or correct an injustice",
+      "c": "Blocking major roads with vehicles carrying massive food supplies",
+      "d": "Refusing to pay taxes dedicated to agricultural development"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **Hunger Strike** is a method of non-violent resistance where participants intentionally fast (refuse to eat) to elicit guilt, media coverage, and societal pressure to stop human rights abuses.",
+    "section_id": null
+  },
+  {
+    "question_number": 114,
+    "subject": "National Value Education",
+    "topic": "Protection of Human Rights and the Rule of Law",
+    "question_text": "Consider the various methods of drawing attention to human rights abuses below:\n\n1. Peaceful Protest March\n2. Violent Rioting and Arson\n3. Sustained Media Coverage\n4. Armed Rebellion\n\nWhich specific combination of actions strictly aligns with democratic and constitutional human rights protection?",
+    "options": {
+      "a": "2 and 4",
+      "b": "1, 2, and 3",
+      "c": "1 and 3 only",
+      "d": "All of the above"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "To protect rights constitutionally, actions must remain within the confines of the law. **Peaceful Protest Marches (1)** and **Media Coverage (3)** are lawful, whereas violent rioting and armed rebellion are criminal and unconstitutional.",
+    "section_id": null
+  },
+  {
+    "question_number": 115,
+    "subject": "National Value Education",
+    "topic": "Protection of Human Rights and the Rule of Law",
+    "question_text": "Groups such as CDHR and CRP are mentioned in the National Values syllabus. They fall under the umbrella of Civil Society Organizations. What does **CDHR** mean?",
+    "options": {
+      "a": "Committee for the Defence of Human Rights",
+      "b": "Civil Democratic House of Representatives",
+      "c": "Coalition for Direct Human Relief",
+      "d": "Citizens' Directive on Human Rights"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "The **Committee for the Defence of Human Rights (CDHR)** is a prominent Nigerian Civil Society Organization that actively campaigns against human rights abuses.",
+    "section_id": null
+  },
+  {
+    "question_number": 116,
+    "subject": "National Value Education",
+    "topic": "Consumer Rights and Responsibilities",
+    "question_text": "In civic and economic terms, who is formally defined as a **Consumer**?",
+    "options": {
+      "a": "The manufacturer who operates heavy machinery in a factory",
+      "b": "An individual who purchases and uses goods and services to satisfy personal or household needs",
+      "c": "The government agency responsible for collecting taxes",
+      "d": "A wholesale trader who exports local raw materials"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **Consumer** is the end-user in the economic chain; any individual who buys and consumes goods and services to satisfy their personal or family basic needs.",
+    "section_id": null
+  },
+  {
+    "question_number": 117,
+    "subject": "National Value Education",
+    "topic": "Consumer Rights and Responsibilities",
+    "question_text": "A consumer buys a carton of milk and notices that the manufacturer intentionally scraped off the expiry date and chemical ingredients. Which fundamental consumer right is directly violated here?",
+    "options": {
+      "a": "Right to Redress",
+      "b": "Right to Information",
+      "c": "Right to Representation",
+      "d": "Right to a Healthy Environment"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **Right to Information** entitles consumers to receive full, transparent details about a product, including manufacturing dates, expiry dates, and ingredients, allowing them to make informed choices.",
+    "section_id": null
+  },
+  {
+    "question_number": 118,
+    "subject": "National Value Education",
+    "topic": "Consumer Rights and Responsibilities",
+    "question_text": "When a consumer inadvertently purchases a highly defective mobile phone and returns it to the company to lawfully demand a refund, free repair, or replacement, they are actively exercising their Universal Right to:",
+    "options": {
+      "a": "Safety",
+      "b": "Redress",
+      "c": "Satisfaction of basic needs",
+      "d": "Consumer Education"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Right to Redress** guarantees consumers fair settlement of legitimate claims, meaning they are entitled to compensation, refunds, or replacements for misrepresentation or shoddy, defective goods.",
+    "section_id": null
+  },
+  {
+    "question_number": 119,
+    "subject": "National Value Education",
+    "topic": "Consumer Rights and Responsibilities",
+    "question_text": "According to the universal responsibilities of a consumer, what critical action must a consumer take immediately after completing a major transaction to protect themselves in case of a future dispute?",
+    "options": {
+      "a": "Secretly dispose of the purchased product",
+      "b": "Demand and carefully keep proofs of transaction, such as receipts, invoices, or warranties",
+      "c": "Physically fight the cashier to prove dominance",
+      "d": "Immediately resell the item at double the market price"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A key **responsibility** of a consumer is to **demand and retain transaction proofs (receipts/warranties)**. This documentation is completely vital if the consumer later needs to seek legal redress for faulty products.",
+    "section_id": null
+  },
+  {
+    "question_number": 120,
+    "subject": "National Value Education",
+    "topic": "Consumer Rights and Responsibilities",
+    "question_text": "The **Right to Safety** is a heavily enforced universal consumer right. What does it guarantee?",
+    "options": {
+      "a": "Protection against the marketing of goods and services that are hazardous to health, life, or property",
+      "b": "That the police will permanently assign an armed guard to every shopper",
+      "c": "That a consumer can violently assault shop owners they suspect of cheating",
+      "d": "That goods will absolutely never spoil over a 100-year period"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The **Right to Safety** strictly protects consumers against the production, marketing, and sale of products (like expired drugs or faulty electronics) that pose a danger to their health or physical property.",
+    "section_id": null
+  },
+  {
+    "question_number": 121,
+    "subject": "National Value Education",
+    "topic": "Consumer Rights and Responsibilities",
+    "question_text": "If an industrial manufacturing plant illegally continuously dumps toxic chemical waste into a river that supplies drinking water to a nearby community, which specific universal consumer right is being violently breached?",
+    "options": {
+      "a": "Right to Information",
+      "b": "Right to Representation",
+      "c": "Right to a Healthy Environment",
+      "d": "Right to Redress"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **Right to a Healthy Environment** asserts that consumers have the fundamental right to live and work in an environment that is non-threatening to their well-being, which means freedom from pollution and toxic hazards.",
+    "section_id": null
+  },
+  {
+    "question_number": 122,
+    "subject": "National Value Education",
+    "topic": "Consumer Rights and Responsibilities",
+    "question_text": "Consumers are formally advised by civic agencies to always 'Think independently'. What does this specific consumer responsibility fundamentally mean?",
+    "options": {
+      "a": "To only buy products that have absolutely zero advertising",
+      "b": "To blindly purchase every product endorsed by a popular celebrity",
+      "c": "To completely ignore all government safety warnings on packages",
+      "d": "To rationally analyze their true needs and avoid being swayed strictly by deceptive or manipulative advertisements"
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "**Thinking independently** implies taking responsibility for one's choices. It requires the consumer to critically evaluate product claims, ignore manipulative advertising, and purchase based on genuine needs and rational budget constraints.",
+    "section_id": null
+  },
+  {
+    "question_number": 123,
+    "subject": "National Value Education",
+    "topic": "Consumer Rights and Responsibilities",
+    "question_text": "To guarantee that corporate cheating does not continue, consumers are expected to proactively report fraudulent market practices and unsafe goods to agencies like the Federal Competition and Consumer Protection Commission (FCCPC). This perfectly describes the consumer responsibility to:",
+    "options": {
+      "a": "Respect the environment",
+      "b": "Speak out",
+      "c": "Maintain silence",
+      "d": "Demand discounts"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The responsibility to **Speak Out** obligates consumers to report unfair practices, fake products, and grievances to appropriate authorities to protect themselves and other oblivious citizens.",
+    "section_id": null
+  },
+  {
+    "question_number": 124,
+    "subject": "National Value Education",
+    "topic": "Consumer Rights and Responsibilities",
+    "question_text": "Which of the following rights aims to ensure that consumers acquire the necessary knowledge and skills to make confident, informed choices about goods and services throughout their lives?",
+    "options": {
+      "a": "Right to Satisfaction of basic needs",
+      "b": "Right to Redress",
+      "c": "Right to Consumer Education",
+      "d": "Right to Representation"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **Right to Consumer Education** ensures the public is continuously educated about their rights, market trends, and ways to avoid exploitation, empowering them for lifelong economic survival.",
+    "section_id": null
+  },
+  {
+    "question_number": 125,
+    "subject": "National Value Education",
+    "topic": "Consumer Rights and Responsibilities",
+    "question_text": "Respecting the environment is a core consumer responsibility. Which action directly violates this specific responsibility?",
+    "options": {
+      "a": "Demanding a written invoice after purchasing a refrigerator",
+      "b": "Littering nylon packaging on the highway and casually dumping non-biodegradable waste in gutters",
+      "c": "Speaking out boldly against fake drugs in the local pharmacy",
+      "d": "Seeking consumer education on how to operate heavy machinery"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Consumers have a civic duty to **Respect the Environment**. Improperly disposing of product waste (like littering nylon or plastics) severely damages the ecosystem and violates this fundamental responsibility.",
+    "section_id": null
+  },
+  {
+    "question_number": 126,
+    "subject": "National Value Education",
+    "topic": "Democracy",
+    "question_text": "The most widely accepted and classic definition of **Democracy**, popularized by former US President Abraham Lincoln, defines it as:",
+    "options": {
+      "a": "A system where the richest citizens strictly control the nation's wealth",
+      "b": "The government of the people, by the people, and for the people",
+      "c": "A political system where the military holds supreme constitutional power",
+      "d": "A government managed strictly by religious traditional leaders"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Abraham Lincoln famously defined **Democracy** as \"government of the people, by the people, for the people,\" emphasizing that ultimate political power fundamentally resides with the voting citizens.",
+    "section_id": null
+  },
+  {
+    "question_number": 127,
+    "subject": "National Value Education",
+    "topic": "Democracy",
+    "question_text": "Which of the following is a core **feature** of a true Democratic system?",
+    "options": {
+      "a": "Periodic, free, and fair elections",
+      "b": "The total suppression of freedom of speech and the press",
+      "c": "The concentration of all government powers in a single individual",
+      "d": "Complete intolerance of minority political parties"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "A fundamental feature of any working **Democracy** is the regular conduct of **periodic, free, and fair elections**, which allows citizens to freely choose or change their leaders.",
+    "section_id": null
+  },
+  {
+    "question_number": 128,
+    "subject": "National Value Education",
+    "topic": "Democracy",
+    "question_text": "In Nigeria, which highly important democratic institution is constitutionally mandated to organize, conduct, and supervise all national and state elections?",
+    "options": {
+      "a": "The Economic and Financial Crimes Commission (EFCC)",
+      "b": "The Independent National Electoral Commission (INEC)",
+      "c": "The National Youth Service Corps (NYSC)",
+      "d": "The Nigerian Bar Association (NBA)"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Independent National Electoral Commission (INEC)** is the democratic body established by the Nigerian Constitution to independently oversee and conduct elections in the country.",
+    "section_id": null
+  },
+  {
+    "question_number": 129,
+    "subject": "National Value Education",
+    "topic": "Democracy",
+    "question_text": "What is the primary function of **Political Parties** as democratic institutions?",
+    "options": {
+      "a": "To violently protest and destroy government infrastructure during economic crises",
+      "b": "To unite citizens with similar political ideologies to legally contest elections and form the government",
+      "c": "To strictly administer justice and send convicted criminals to federal prisons",
+      "d": "To legally print and distribute the nation's currency notes"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **Political Party** is an organized group of individuals with similar political ideologies whose primary objective is to contest elections, win political power, and form a government to implement their manifesto.",
+    "section_id": null
+  },
+  {
+    "question_number": 130,
+    "subject": "National Value Education",
+    "topic": "Democracy",
+    "question_text": "Examine the table comparing two democratic institutions:\n\n| Institution | Primary Goal |\n|---|---|\n| Political Party | To win elections and control government |\n| Pressure Group | $X$ |\n\nWhich of the following correctly replaces $X$?",
+    "options": {
+      "a": "To overthrow the government through military coups",
+      "b": "To influence government policies and decisions in favor of its members without seeking to form the government",
+      "c": "To independently conduct and declare election results",
+      "d": "To permanently replace all registered political parties"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Unlike political parties, **Pressure Groups** (like Trade Unions) do not contest elections to form the government. Their sole aim is to influence government policies and protect the interests of their specific members.",
+    "section_id": null
+  },
+  {
+    "question_number": 131,
+    "subject": "National Value Education",
+    "topic": "Democracy",
+    "question_text": "Democracy operates on the principle of Separation of Powers. The government is divided into three distinct **Arms**. What are they?",
+    "options": {
+      "a": "Federal, State, and Local",
+      "b": "President, Governors, and Ministers",
+      "c": "Executive, Legislature, and Judiciary",
+      "d": "Army, Navy, and Air Force"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The three constitutional arms of government designed to check and balance each other are the **Legislature** (makes laws), the **Executive** (implements laws), and the **Judiciary** (interprets laws).",
+    "section_id": null
+  },
+  {
+    "question_number": 132,
+    "subject": "National Value Education",
+    "topic": "Democracy",
+    "question_text": "Which specific arm of a democratic government acts as the \"last hope of the common man\" by interpreting the law and impartially settling disputes?",
+    "options": {
+      "a": "The Executive",
+      "b": "The Legislature",
+      "c": "The Judiciary",
+      "d": "The Civil Service"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **Judiciary** (the court system) is the arm of government responsible for interpreting laws, defending human rights, and settling disputes, making it the last hope of the common man against injustice.",
+    "section_id": null
+  },
+  {
+    "question_number": 133,
+    "subject": "National Value Education",
+    "topic": "Democracy",
+    "question_text": "A Multi-Party system is heavily associated with modern democracy. What does this concept mean?",
+    "options": {
+      "a": "Only one political party is legally allowed to exist in the entire country",
+      "b": "Two political parties violently fight for power without conducting elections",
+      "c": "Several distinct political parties are legally recognized and can contest for political power",
+      "d": "Political parties are totally banned, and only independent candidates are permitted"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **Multi-Party system** implies the legal existence of three or more political parties, giving the electorate a wide variety of choices and promoting healthy democratic competition.",
+    "section_id": null
+  },
+  {
+    "question_number": 134,
+    "subject": "National Value Education",
+    "topic": "Democracy",
+    "question_text": "What is the crucial **Importance of Democracy** in a developing society?",
+    "options": {
+      "a": "It promotes good governance, ensures equality, and violently suppresses opposition",
+      "b": "It fosters political stability, protects fundamental human rights, and allows for peaceful transitions of power",
+      "c": "It guarantees that the wealthiest citizens permanently dominate the poor",
+      "d": "It drastically increases arbitrary rule and dictatorship"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Democracy is immensely important because it prevents tyranny, legally **protects fundamental human rights**, and ensures that political succession is managed through peaceful, constitutional elections rather than violence.",
+    "section_id": null
+  },
+  {
+    "question_number": 135,
+    "subject": "National Value Education",
+    "topic": "Pillars of Democracy",
+    "question_text": "In Civic Education, what is the meaning of the **\"Pillars of Democracy\"**?",
+    "options": {
+      "a": "The physical marble columns that support the National Assembly building in the capital",
+      "b": "The fundamental principles, institutions, and values that uphold, support, and sustain a democratic system",
+      "c": "The extremely wealthy politicians who fund all political parties",
+      "d": "The heavy weapons used by the military to secure the nation's borders"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Metaphorically, the **Pillars of Democracy** refer to the indispensable foundational institutions, principles (like the Rule of Law), and values that sustain the democratic process and keep society free.",
+    "section_id": null
+  },
+  {
+    "question_number": 136,
+    "subject": "National Value Education",
+    "topic": "Pillars of Democracy",
+    "question_text": "Among the pillars of democracy, why are **\"The People\"** (the citizens) regarded as the most critical pillar?",
+    "options": {
+      "a": "Because they hold absolute sovereignty and have the ultimate power to elect or remove political leaders through voting",
+      "b": "Because they secretly manufacture the electoral ballot boxes used in elections",
+      "c": "Because they can aggressively dismantle democratic structures at will",
+      "d": "Because they fund the national budget exclusively through bribery"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "In a democracy, sovereignty (ultimate authority) belongs entirely to **The People**. Without their active participation, consent, and votes, no democratic government can legitimately exist.",
+    "section_id": null
+  },
+  {
+    "question_number": 137,
+    "subject": "National Value Education",
+    "topic": "Pillars of Democracy",
+    "question_text": "The concept of **Majority Rule and Minority Rights** is a powerful pillar of democracy. What does this dual concept explicitly state?",
+    "options": {
+      "a": "The majority always wins elections and has the legal right to execute all minorities",
+      "b": "Decisions are made based on what the majority of voters want, but the fundamental legal rights of the minority groups must always be protected and respected",
+      "c": "The minority group is forced to surrender all their lands to the majority group after every election",
+      "d": "Only minority tribes are allowed to form a democratic government"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "While democracy operates on **Majority Rule** (the candidate with the most votes wins), it strongly insists on protecting **Minority Rights** to ensure that smaller groups are not oppressed or marginalized by the majority.",
+    "section_id": null
+  },
+  {
+    "question_number": 138,
+    "subject": "National Value Education",
+    "topic": "Pillars of Democracy",
+    "question_text": "Which of the following is absolutely required for an electoral process to be considered a strong **Pillar of Democracy**?",
+    "options": {
+      "a": "It must be heavily manipulated by the ruling party",
+      "b": "It must be deeply opaque and hidden from the public",
+      "c": "It must be highly transparent, free, fair, and unbiased",
+      "d": "It must actively exclude voters aged 18 to 30"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **transparent electoral process** is a core pillar. Elections must be visibly free, fair, completely unbiased by INEC, and acceptable to the masses to confer true legitimacy on the winners.",
+    "section_id": null
+  },
+  {
+    "question_number": 139,
+    "subject": "National Value Education",
+    "topic": "Pillars of Democracy",
+    "question_text": "How does the **Rule of Law** act as a fundamental pillar that sustains democracy?",
+    "options": {
+      "a": "By ensuring the President can write any law independently of the National Assembly",
+      "b": "By ensuring every citizen, including leaders, is equal before the law, thereby preventing dictatorial abuse of power",
+      "c": "By allowing security forces to aggressively act without judicial warrants",
+      "d": "By ensuring only the wealthy have strict access to legal defense"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **Rule of Law** supports democracy by firmly restricting arbitrary power. It guarantees that laws apply equally to the leaders and the led, thus preventing autocracy and safeguarding freedom.",
+    "section_id": null
+  },
+  {
+    "question_number": 140,
+    "subject": "National Value Education",
+    "topic": "Pillars of Democracy",
+    "question_text": "Strong democratic institutions are considered pillars of democracy. Which of the following is a classic example of a strong democratic institution designed to curb government corruption?",
+    "options": {
+      "a": "A militant insurgent group",
+      "b": "An independent, free press and active Civil Society Organizations (CSOs)",
+      "c": "A secret state police operating without laws",
+      "d": "An illegal smuggling syndicate"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Institutions like a **free press**, CSOs, an independent judiciary, and anti-graft agencies function as powerful democratic pillars by ensuring transparency and holding the government accountable.",
+    "section_id": null
+  },
+  {
+    "question_number": 141,
+    "subject": "National Value Education",
+    "topic": "Pillars of Democracy",
+    "question_text": "Identify the element below that is completely **destructive** to the pillars of democracy rather than supportive:",
+    "options": {
+      "a": "Active political opposition parties",
+      "b": "Widespread political apathy among citizens",
+      "c": "A totally independent judicial system",
+      "d": "The separation of constitutional powers"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Political apathy** (when citizens completely lose interest in voting or political participation) actively destroys the pillar of 'The People', allowing bad leaders to hijack the system.",
+    "section_id": null
+  },
+  {
+    "question_number": 142,
+    "subject": "National Value Education",
+    "topic": "Pillars of Democracy",
+    "question_text": "The military taking over governance by violently overthrowing an elected democratic government fundamentally shatters which essential pillar?",
+    "options": {
+      "a": "Economic Inflation",
+      "b": "Constitutional Supremacy and the Rule of Law",
+      "c": "Traditional Monarchy",
+      "d": "The Federal Character Principle"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A military coup fundamentally violates **Constitutional Supremacy and the Rule of Law** because it uses armed force (arbitrary power) rather than electoral will to seize political control.",
+    "section_id": null
+  },
+  {
+    "question_number": 143,
+    "subject": "National Value Education",
+    "topic": "Pillars of Democracy",
+    "question_text": "In a democratic nation, if the Electoral Commission (INEC) is heavily controlled by the incumbent President, which pillar of democracy is immediately compromised?",
+    "options": {
+      "a": "Transparent Electoral Process",
+      "b": "Absolute Monarchy",
+      "c": "Minority Oppression",
+      "d": "Freedom of Movement"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "If the electoral body is not totally independent, the **Transparent Electoral Process** is heavily compromised because the elections cannot be guaranteed to be free, fair, and unbiased.",
+    "section_id": null
+  },
+  {
+    "question_number": 144,
+    "subject": "National Value Education",
+    "topic": "Election and Voter Responsibilities",
+    "question_text": "How is an **Election** best defined in Civic Education?",
+    "options": {
+      "a": "A religious gathering meant strictly for praying for the country",
+      "b": "The formal and constitutional process of decision-making by which a population chooses an individual to hold public office",
+      "c": "A forceful takeover of government by heavily armed youths",
+      "d": "A process where the oldest citizens naturally inherit political leadership"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "An **Election** is a formal, organized democratic procedure through which eligible citizens actively vote to choose their political leaders and representatives.",
+    "section_id": null
+  },
+  {
+    "question_number": 145,
+    "subject": "National Value Education",
+    "topic": "Election and Voter Responsibilities",
+    "question_text": "Who among the following qualifies perfectly as a **Voter** in Nigeria?",
+    "options": {
+      "a": "A 16-year-old brilliant secondary school prefect",
+      "b": "An adult citizen of a foreign country living in Lagos on a tourist visa",
+      "c": "An 18-year-old Nigerian citizen who is officially registered and possesses a valid Permanent Voter's Card (PVC)",
+      "d": "A highly successful politician who refuses to register with INEC"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **voter** is a legally eligible citizen (in Nigeria, 18 years and above) who has successfully undergone voter registration and possesses a PVC to participate in an election.",
+    "section_id": null
+  },
+  {
+    "question_number": 146,
+    "subject": "National Value Education",
+    "topic": "Election and Voter Responsibilities",
+    "question_text": "There are different types of elections. What is a **Direct Election**?",
+    "options": {
+      "a": "An election where voters select delegates who will then vote for the actual candidates",
+      "b": "An election where the military independently selects the winner directly",
+      "c": "An election where the registered voters cast their ballots strictly and directly for the candidates of their choice",
+      "d": "An election that is completely concluded within five minutes"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "In a **Direct Election**, the electorate votes personally and straight for the candidates they want in power, unlike an *indirect election* where they vote for delegates (an electoral college) who make the final choice.",
+    "section_id": null
+  },
+  {
+    "question_number": 147,
+    "subject": "National Value Education",
+    "topic": "Election and Voter Responsibilities",
+    "question_text": "A Senator tragically dies in a car accident, leaving his legislative seat suddenly vacant before the end of his tenure. What type of election is constitutionally held to fill this sudden specific vacancy?",
+    "options": {
+      "a": "A Primary Election",
+      "b": "A By-Election",
+      "c": "A General Election",
+      "d": "A Rerun Election"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "A **By-Election** is a special election held in a specific constituency strictly to fill a political vacancy that suddenly arises due to the death, resignation, or recall of an incumbent officeholder.",
+    "section_id": null
+  },
+  {
+    "question_number": 148,
+    "subject": "National Value Education",
+    "topic": "Election and Voter Responsibilities",
+    "question_text": "Under the 1999 Constitution of Nigeria, what is the basic, non-negotiable **age qualification** for a citizen to be eligible to vote?",
+    "options": {
+      "a": "16 years",
+      "b": "18 years",
+      "c": "21 years",
+      "d": "30 years"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Universal Adult Suffrage in Nigeria dictates that any sane citizen who has attained the minimum age of **18 years** is constitutionally eligible to register and vote.",
+    "section_id": null
+  },
+  {
+    "question_number": 149,
+    "subject": "National Value Education",
+    "topic": "Election and Voter Responsibilities",
+    "question_text": "Which of the following describes a crucial pre-election **responsibility of a voter**?",
+    "options": {
+      "a": "Snatching the ballot box on election morning",
+      "b": "Presenting oneself for formal registration with INEC to obtain a voter's card",
+      "c": "Fighting political opponents physically during a campaign rally",
+      "d": "Bribing electoral officers to secure favorable polling units"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Before an election, it is a primary civic responsibility of a voter to undergo **voters' registration** and secure a valid Permanent Voter's Card (PVC) issued by INEC.",
+    "section_id": null
+  },
+  {
+    "question_number": 150,
+    "subject": "National Value Education",
+    "topic": "Election and Voter Responsibilities",
+    "question_text": "Voting involves several rigorous steps on election day. What is the fundamental procedure a voter must first undergo upon arriving at a Polling Unit?",
+    "options": {
+      "a": "Casting the ballot paper straight into the box immediately upon arrival",
+      "b": "Undergoing accreditation where the voter's identity and PVC are thoroughly verified by INEC officials",
+      "c": "Lobbying party agents to get highly paid for voting",
+      "d": "Publicly announcing the name of their preferred candidate to the crowd"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The absolute first step of the voting procedure is **Accreditation**. During accreditation, INEC officials use devices (like the BVAS) to rigorously verify the voter's PVC, identity, and eligibility before they are given a ballot.",
+    "section_id": null
+  },
+  {
+    "question_number": 151,
+    "subject": "National Value Education",
+    "topic": "Electoral Malpractices",
+    "question_text": "In Civic Education, which of the following provides the most accurate definition of **Electoral Malpractice**?",
+    "options": {
+      "a": "A peaceful transition of power from an incumbent to a newly elected official",
+      "b": "Any illegal, fraudulent, or unconstitutional interference committed before, during, or after an election to unlawfully manipulate the outcome",
+      "c": "The process where citizens peacefully protest an unfair government policy",
+      "d": "The legal cancellation of an election due to severe weather conditions"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Electoral Malpractice** refers to any illicit, fraudulent, or corrupt act aimed at interfering with the electoral process in order to give a candidate or party an unfair advantage, ultimately subverting the will of the people.",
+    "section_id": null
+  },
+  {
+    "question_number": 152,
+    "subject": "National Value Education",
+    "topic": "Electoral Malpractices",
+    "question_text": "If a corrupt electoral official receives result sheets from a polling unit showing that Candidate A scored 100 votes, but the official intentionally changes the figure to 1,000 votes, which specific form of malpractice has occurred?",
+    "options": {
+      "a": "Multiple voting",
+      "b": "Artificial scarcity of materials",
+      "c": "Manipulation of votes",
+      "d": "Thuggery and intimidation"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Altering, inflating, or deducting actual figures recorded on official result sheets to favor a specific candidate is a direct crime known as the **Manipulation of votes** (or result falsification).",
+    "section_id": null
+  },
+  {
+    "question_number": 153,
+    "subject": "National Value Education",
+    "topic": "Electoral Malpractices",
+    "question_text": "A citizen successfully votes in the morning using a fake identity card, and later returns to the same polling unit with their real identity card to cast another ballot. This illegal act is legally termed:",
+    "options": {
+      "a": "Underage voting",
+      "b": "Multiple voting",
+      "c": "Fake manifestos",
+      "d": "Vote selling"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Multiple voting** occurs when an individual fraudulently casts more than one ballot in the same election, severely compromising the democratic principle of 'One Man, One Vote'.",
+    "section_id": null
+  },
+  {
+    "question_number": 154,
+    "subject": "National Value Education",
+    "topic": "Electoral Malpractices",
+    "question_text": "Electoral officials deliberately delay the arrival of ballot boxes and voting registers in a region known to strongly support an opposition candidate. This specific strategic form of malpractice is referred to as:",
+    "options": {
+      "a": "Artificial scarcity of electoral materials",
+      "b": "Inducement and bribery",
+      "c": "Legal gerrymandering",
+      "d": "Peaceful boycotting"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "Creating an **Artificial scarcity of electoral materials** involves deliberately delaying, hiding, or undersupplying necessary voting tools (like ballot papers and BVAS machines) to disenfranchise voters in specific opponent strongholds.",
+    "section_id": null
+  },
+  {
+    "question_number": 155,
+    "subject": "National Value Education",
+    "topic": "Electoral Malpractices",
+    "question_text": "Examine the following scenario: A 15-year-old student is permitted by corrupt polling agents to cast a ballot during a general election. What specific form of electoral malpractice has just taken place?",
+    "options": {
+      "a": "Manipulation of votes",
+      "b": "Fake ballot papers",
+      "c": "Underage voting",
+      "d": "Thuggery"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The Nigerian Constitution pegs the legal voting age at 18. Allowing any person below 18 years to vote is a severe constitutional violation known as **Underage voting**.",
+    "section_id": null
+  },
+  {
+    "question_number": 156,
+    "subject": "National Value Education",
+    "topic": "Electoral Malpractices",
+    "question_text": "Armed youths forcefully invading a polling center, shooting sporadically into the air to scare away legitimate voters, and snatching the ballot boxes is an extreme example of:",
+    "options": {
+      "a": "Democratic lobbying",
+      "b": "Thuggery and intimidation",
+      "c": "Political campaign rallies",
+      "d": "Legal dispute resolution"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Thuggery and intimidation** involve the use of violence, weapons, or aggressive threats to disrupt the voting process, scare away opposing voters, and forcefully steal electoral materials.",
+    "section_id": null
+  },
+  {
+    "question_number": 157,
+    "subject": "National Value Education",
+    "topic": "Electoral Malpractices",
+    "question_text": "To prevent voters from making an independent choice, a politician's agent secretly distributes cash and bags of rice at the polling unit in exchange for citizens voting for their party. This highly destructive practice is known as:",
+    "options": {
+      "a": "Corporate social responsibility",
+      "b": "Inducement and corrupt practices (Vote buying)",
+      "c": "Poverty alleviation program",
+      "d": "Multiple voting"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Giving out money, food, or material gifts to sway a voter's choice illegally on election day is a major electoral crime defined as **Inducement and corrupt practices**, colloquially called 'Vote Buying'.",
+    "section_id": null
+  },
+  {
+    "question_number": 158,
+    "subject": "National Value Education",
+    "topic": "Electoral Malpractices",
+    "question_text": "During an election campaign, a candidate intentionally lies, publishing an official document promising to \"construct gold-paved roads nationwide in two weeks,\" knowing fully well it is impossible. This fraudulent deception of the electorate falls under:",
+    "options": {
+      "a": "Underage voting",
+      "b": "Thuggery",
+      "c": "Fake manifestos",
+      "d": "Electoral scarcity"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Publishing completely unachievable, fabricated, and blatantly deceitful campaign promises solely to trick the masses into voting is recognized as distributing **Fake manifestos**, a subtle but toxic form of malpractice.",
+    "section_id": null
+  },
+  {
+    "question_number": 159,
+    "subject": "National Value Education",
+    "topic": "Electoral Malpractices",
+    "question_text": "Which of the following represents a devastating consequence of widespread electoral malpractices on a developing democracy?",
+    "options": {
+      "a": "It strictly ensures that only highly educated leaders are elected",
+      "b": "It completely eradicates poverty in the rural areas",
+      "c": "It leads to the emergence of illegitimate, unpopular leaders, resulting in bad governance and political violence",
+      "d": "It highly promotes foreign direct investment and peace"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "When elections are heavily rigged, the true choice of the people is subverted. This directly leads to **illegitimate governments**, bad governance, lack of accountability, and often sparks violent political riots.",
+    "section_id": null
+  },
+  {
+    "question_number": 160,
+    "subject": "National Value Education",
+    "topic": "Electoral Malpractices",
+    "question_text": "Look at the list below detailing electoral activities:\n\n1. Smuggling pre-thumbprinted ballot papers into the polling unit.\n2. Arriving early to the polling unit to undergo formal BVAS accreditation.\n3. Using local gangs to stop a specific tribe from voting.\n\nWhich of these activities is completely **legal** and is NOT a form of electoral malpractice?",
+    "options": {
+      "a": "1 only",
+      "b": "2 only",
+      "c": "3 only",
+      "d": "1 and 3"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Activity 2 (arriving for **formal accreditation**) is a legal and mandatory step for voting. Activities 1 (fake ballot papers) and 3 (thuggery/intimidation) are severe electoral crimes.",
+    "section_id": null
+  },
+  {
+    "question_number": 161,
+    "subject": "National Value Education",
+    "topic": "Elections and Electoral Bodies in Nigeria",
+    "question_text": "The paramount electoral body mandated by the Nigerian Constitution to conduct elections at the national and state levels is recognized by the acronym **INEC**. What does INEC stand for?",
+    "options": {
+      "a": "Independent National Electoral Commission",
+      "b": "International Nigerian Electoral Committee",
+      "c": "Independent Native Election Corporation",
+      "d": "Institutional National Electoral Council"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**INEC** stands for the **Independent National Electoral Commission**. It is the sole federal agency responsible for organizing, conducting, and supervising national elections in Nigeria.",
+    "section_id": null
+  },
+  {
+    "question_number": 162,
+    "subject": "National Value Education",
+    "topic": "Elections and Electoral Bodies in Nigeria",
+    "question_text": "While INEC handles Presidential and Governorship elections, a completely different constitutional body handles the elections for Local Government Chairmen and Councilors within a State. What is this body called?",
+    "options": {
+      "a": "The Supreme Court",
+      "b": "The State House of Assembly",
+      "c": "State Independent Electoral Commission (SIEC)",
+      "d": "The National Population Commission (NPC)"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **State Independent Electoral Commission (SIEC)** is constitutionally empowered to exclusively organize, undertake, and supervise all elections at the Local Government Area level (Chairmen and Councilors) within a respective state.",
+    "section_id": null
+  },
+  {
+    "question_number": 163,
+    "subject": "National Value Education",
+    "topic": "Elections and Electoral Bodies in Nigeria",
+    "question_text": "What is the supreme importance of having an electoral body (like INEC) that is strictly **\"Independent\"**?",
+    "options": {
+      "a": "So it can legally collect campaign funds from international terrorists",
+      "b": "To ensure it is completely free from the control, interference, or undue influence of the ruling government or powerful politicians",
+      "c": "So it can forcefully appoint the President without conducting any elections",
+      "d": "To guarantee that it exclusively uses foreign electoral staff during elections"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **independence** of an electoral body is paramount so that it can serve as a neutral, unbiased umpire, conducting fair elections without being intimidated or heavily manipulated by the incumbent political leaders.",
+    "section_id": null
+  },
+  {
+    "question_number": 164,
+    "subject": "National Value Education",
+    "topic": "Elections and Electoral Bodies in Nigeria",
+    "question_text": "Why is there an absolute, fundamental need for elections in Nigeria to be **Free and Fair**?",
+    "options": {
+      "a": "To allow the extremely wealthy to easily purchase the election without legal issues",
+      "b": "To ensure citizens can safely vote their conscience, giving genuine legitimacy to the elected government",
+      "c": "To ensure that ruling party members are forever legally shielded from losing an election",
+      "d": "To immediately secure international monetary loans from the World Bank"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Free and fair elections** ensure that voters are not coerced, results are accurately counted, and the eventual winner truly reflects the masses' choice. This confers true **legitimacy** and authority on the government.",
+    "section_id": null
+  },
+  {
+    "question_number": 165,
+    "subject": "National Value Education",
+    "topic": "Elections and Electoral Bodies in Nigeria",
+    "question_text": "Which of the following represents a highly effective institutional strategy for **preventing Electoral Malpractices** in Nigeria?",
+    "options": {
+      "a": "Completely banning the police from election venues",
+      "b": "Promoting strict voter education, implementing electronic voting systems (like BVAS), and prosecuting electoral offenders",
+      "c": "Allowing candidates to personally count their own ballot boxes",
+      "d": "Reducing the voting age limit to 10 years to increase crowd numbers"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "To prevent malpractices, Nigeria relies on **voter education**, the deployment of transparent technology (like BVAS/IReV for accreditation and result viewing), and the swift, strict prosecution of those who commit electoral crimes.",
+    "section_id": null
+  },
+  {
+    "question_number": 166,
+    "subject": "National Value Education",
+    "topic": "Elections and Electoral Bodies in Nigeria",
+    "question_text": "Analyze this sequence showing the responsibilities of INEC:\n\n1. Register eligible voters and political parties\n2. Delineate electoral constituencies\n3. Conduct elections and declare winners\n4. $Y$\n\nWhich of the following functions logically replaces $Y$ as a statutory duty of INEC?",
+    "options": {
+      "a": "Provide weapons for self-defense to all political candidates",
+      "b": "Educate voters continuously on their electoral rights and the proper voting process",
+      "c": "Arrest and formally sentence political thugs to life imprisonment",
+      "d": "Print the national currency used to pay campaign agents"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Aside from organizing elections, **INEC** holds a massive statutory mandate to conduct sustained **Voter Education**, ensuring citizens understand how to vote correctly, thereby minimizing voided ballots and ignorance.",
+    "section_id": null
+  },
+  {
+    "question_number": 167,
+    "subject": "National Value Education",
+    "topic": "Elections and Electoral Bodies in Nigeria",
+    "question_text": "Based on the constitutionally defined roles of Nigerian Electoral Bodies, if a dispute specifically involves the manipulation of election results for a state's **Governor**, which electoral body's processes will initially be brought under heavy scrutiny in an Election Tribunal?",
+    "options": {
+      "a": "SIEC",
+      "b": "INEC",
+      "c": "NYSC",
+      "d": "NPC"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Since **INEC** is strictly responsible for all Federal (Presidential/National Assembly) and State-level (Governorship/State Assembly) elections, any disputes regarding a Governor's election directly scrutinize INEC's processes.",
+    "section_id": null
+  },
+  {
+    "question_number": 168,
+    "subject": "National Value Education",
+    "topic": "Democratic (Voting)",
+    "question_text": "What is the exact civic definition of **Voting**?",
+    "options": {
+      "a": "The unconstitutional process of seizing power through violent military force",
+      "b": "A formal, democratic procedure by which an electorate expresses a legally binding choice for a candidate or policy",
+      "c": "A secret meeting held by kings to choose a tribal warrior",
+      "d": "The process of a candidate forcefully bribing delegates during a rally"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Voting** is the formal, constitutionally guaranteed method by which citizens exercise their franchise to make a choice between competing candidates or proposed laws (referendums) in an election.",
+    "section_id": null
+  },
+  {
+    "question_number": 169,
+    "subject": "National Value Education",
+    "topic": "Democratic (Voting)",
+    "question_text": "Before any Nigerian can cast a vote on election day, they must actively participate in **Voters Registration**. What is the primary purpose of this process?",
+    "options": {
+      "a": "To collect taxes immediately from all attending adults",
+      "b": "To officially enroll eligible citizens, capture their biometric data, and issue them a Permanent Voter's Card (PVC)",
+      "c": "To violently register the youth for compulsory military drafting",
+      "d": "To permanently ban members of opposing parties from accessing polling units"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Voters Registration** is required to compile a credible register of eligible voters, capture their biometric details (preventing multiple voting), and issue the **PVC**, which is mandatory for accreditation on election day.",
+    "section_id": null
+  },
+  {
+    "question_number": 170,
+    "subject": "National Value Education",
+    "topic": "Democratic (Voting)",
+    "question_text": "What does a massive public refusal to vote (colloquially called **Political Apathy**) heavily endanger in a democratic society?",
+    "options": {
+      "a": "It ensures perfectly flawless economic growth",
+      "b": "It completely legally terminates the existence of INEC",
+      "c": "It allows a very tiny minority of voters to elect unpopular leaders, endangering democratic accountability and good governance",
+      "d": "It drastically forces all politicians to automatically become totally honest"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The importance of voting lies in mass participation. When citizens refuse to vote (**apathy**), they surrender their voice, allowing a heavily motivated minority to easily install unpopular or corrupt politicians.",
+    "section_id": null
+  },
+  {
+    "question_number": 171,
+    "subject": "National Value Education",
+    "topic": "Democratic (Voting)",
+    "question_text": "During the actual **Process of Voting**, a voter is handed a sensitive document containing the logos of all participating political parties. This specific document is called:",
+    "options": {
+      "a": "A National Identification Number (NIN) slip",
+      "b": "A Political Manifesto",
+      "c": "A Ballot Paper",
+      "d": "A Permanent Voter's Card (PVC)"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **Ballot Paper** is the official, highly sensitive electoral document printed with party names/logos. The voter marks their choice secretly on this paper and drops it into the ballot box.",
+    "section_id": null
+  },
+  {
+    "question_number": 172,
+    "subject": "National Value Education",
+    "topic": "Democratic (Voting)",
+    "question_text": "To guarantee that a vote is not discarded as \"invalid\" or \"void\", what must a voter carefully do while marking the ballot paper in the voting cubicle?",
+    "options": {
+      "a": "Thumbprint across five different party logos simultaneously",
+      "b": "Write their full name and phone number clearly across the paper",
+      "c": "Ensure their thumbprint ink stays strictly within the empty box provided next to their preferred party's logo",
+      "d": "Sign heavily with a red pen directly on top of the party logo"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "During the voting process, a ballot is only valid if the voter's **thumbprint sits clearly within the box** of a single chosen party. Ink smearing across multiple boxes or writing names automatically voids the ballot.",
+    "section_id": null
+  },
+  {
+    "question_number": 173,
+    "subject": "National Value Education",
+    "topic": "Democratic (Voting)",
+    "question_text": "The phrase \"Secret Ballot System\" is closely associated with the voting process in Nigeria. What critical protection does this specific system provide to the voter?",
+    "options": {
+      "a": "It ensures the voter's identity is permanently deleted from INEC's register after voting",
+      "b": "It forces voters to secretly swear an oath of allegiance to a politician at midnight",
+      "c": "It guarantees that the voter casts their ballot in strict privacy behind a cubicle, shielding their choice from intimidation or victimization",
+      "d": "It requires the election results to be hidden from the public completely for exactly 10 years"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **Secret Ballot** system ensures voting is strictly private. By marking the ballot alone inside a cubicle, voters are heavily shielded from threats, bribes, or victimization because no one can explicitly prove who they voted for.",
+    "section_id": null
+  },
+  {
+    "question_number": 174,
+    "subject": "National Value Education",
+    "topic": "Democratic (Voting)",
+    "question_text": "Order the following basic steps in the **Process of Voting** sequentially from start to finish at a Nigerian polling unit:\n\n1. Casting the ballot paper into the ballot box\n2. Thumbprinting the ballot paper secretly in the voting cubicle\n3. Undergoing BVAS accreditation and verification\n4. Collection of the stamped ballot paper from the polling official",
+    "options": {
+      "a": "3 $\\rightarrow$ 4 $\\rightarrow$ 2 $\\rightarrow$ 1",
+      "b": "4 $\\rightarrow$ 3 $\\rightarrow$ 1 $\\rightarrow$ 2",
+      "c": "1 $\\rightarrow$ 2 $\\rightarrow$ 3 $\\rightarrow$ 4",
+      "d": "3 $\\rightarrow$ 2 $\\rightarrow$ 4 $\\rightarrow$ 1"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "The correct sequential process on election day is: **Accreditation (3)** to verify identity $\\rightarrow$ **Collecting the ballot paper (4)** $\\rightarrow$ **Thumbprinting secretly in the cubicle (2)** $\\rightarrow$ **Dropping the cast ballot into the box (1)**.",
+    "section_id": null
+  },
+  {
+    "question_number": 175,
+    "subject": "National Value Education",
+    "topic": "Democratic (Voting)",
+    "question_text": "At the complete conclusion of voting at a polling unit, what is the immediate statutory duty of the Presiding Electoral Officer before moving to the collation center?",
+    "options": {
+      "a": "To secretly burn all the ballot papers to prevent opponents from finding them",
+      "b": "To publicly sort the ballots, count the votes loudly in the presence of party agents, and announce the unit's final result immediately",
+      "c": "To arrest every political agent present and confiscate their phones",
+      "d": "To abandon the ballot boxes and strictly instruct the voters to take them home"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Once voting concludes, electoral transparency laws require the Presiding Officer to immediately, **publicly sort, count, and announce the results** right there at the polling unit, in full view of party agents and voters, before transporting the materials.",
+    "section_id": null
+  },
+  {
+    "question_number": 176,
+    "subject": "National Value Education",
+    "topic": "National Values: Right Attitude to Work",
+    "question_text": "Transparency is frequently listed as an attribute of the **Right Attitude to Work**. In a professional and civic setting, what does transparency entail?",
+    "options": {
+      "a": "Keeping all official activities and financial records completely hidden from the public",
+      "b": "Operating with absolute openness, accountability, and truthfulness in one's official duties",
+      "c": "Arriving exactly on time but refusing to carry out assigned tasks",
+      "d": "Reporting coworkers to the police for minor personal disagreements"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Transparency** in the workplace means conducting business and official duties in an open, honest, and highly accountable manner, without hiding illicit actions or mismanaging funds.",
+    "section_id": null
+  },
+  {
+    "question_number": 177,
+    "subject": "National Value Education",
+    "topic": "Negative Behaviour",
+    "question_text": "Widespread negative behaviours such as corruption, drug trafficking, and ostentatious living invariably lead to **Value Disorientation** in a country. What does value disorientation mean?",
+    "options": {
+      "a": "A situation where good morals are abandoned and negative acts are celebrated as the new normal",
+      "b": "The total integration of foreign technologies into local schools",
+      "c": "A positive change where youths embrace hard work and honesty",
+      "d": "The constitutional process of registering a new political party"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Value Disorientation** occurs when a society loses its moral compass; unethical and negative behaviors (like fraud or corruption) become widely accepted, while traditional positive values are mocked or ignored.",
+    "section_id": null
+  },
+  {
+    "question_number": 178,
+    "subject": "National Value Education",
+    "topic": "Citizenship",
+    "question_text": "A foreigner who wishes to legally acquire Nigerian citizenship through **Naturalization** must satisfy several stringent constitutional conditions. Which of the following is typically a primary requirement?",
+    "options": {
+      "a": "Having actively served in the Nigerian military for one month",
+      "b": "Being married to a Nigerian politician for exactly one week",
+      "c": "Having lived in Nigeria continuously for a statutory period (e.g., 15 years) and being of good character",
+      "d": "Donating a massive sum of foreign currency to the central government"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "To qualify for **Citizenship by Naturalization**, an alien must demonstrate integration by residing continuously in the country for a long statutory period (15 years in Nigeria), showing good character, and proving they can contribute to national progress.",
+    "section_id": null
+  },
+  {
+    "question_number": 179,
+    "subject": "National Value Education",
+    "topic": "Rights and Duties of a Citizen",
+    "question_text": "Why is the enforcement of both citizens' rights and duties fundamental to achieving **Peace** and **Social Control** in a democracy?",
+    "options": {
+      "a": "Because duties force citizens to surrender their property to the state without question",
+      "b": "Because it ensures absolute dictatorial authority over all media outlets",
+      "c": "Because rights protect citizens from abuse, while duties regulate their behavior to prevent chaos and anarchy",
+      "d": "Because rights ensure that citizens do not have to obey local law enforcement"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A balance of rights and duties ensures **Social Control**. Rights protect the individual from tyrannical abuse, while duties compel the individual to act responsibly (e.g., obeying laws), effectively maintaining societal **peace**.",
+    "section_id": null
+  },
+  {
+    "question_number": 180,
+    "subject": "National Value Education",
+    "topic": "The Constitution",
+    "question_text": "Which historical pre-1960 Nigerian Colonial Constitution formally institutionalized **Regionalism** by dividing the country into three distinct political regions (Northern, Western, and Eastern)?",
+    "options": {
+      "a": "Clifford Constitution of 1922",
+      "b": "Richards Constitution of 1946",
+      "c": "Macpherson Constitution of 1951",
+      "d": "Independence Constitution of 1960"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **Richards Constitution of 1946** is historically notable for legally dividing Nigeria into three administrative regions (North, East, and West), laying the early foundation for federalism.",
+    "section_id": null
+  },
+  {
+    "question_number": 181,
+    "subject": "National Value Education",
+    "topic": "Objects for National Consciousness",
+    "question_text": "The Nigerian Coat of Arms is a prominent symbol of national consciousness. It features two striking white horses on either side of the shield. What do these two white horses officially represent?",
+    "options": {
+      "a": "The military strength of the Nigerian Army",
+      "b": "The rich agricultural soil found in the savanna",
+      "c": "The dignity and pride of the Nigerian nation",
+      "d": "The vast petroleum resources in the South"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "In the Nigerian Coat of Arms, the **two white horses** flanking the shield officially symbolize the **Dignity and Pride** of the nation.",
+    "section_id": null
+  },
+  {
+    "question_number": 182,
+    "subject": "National Value Education",
+    "topic": "Objects for National Consciousness",
+    "question_text": "In the Nigerian National Anthem, the powerful phrase *\"The labor of our heroes past, shall never be in vain\"* is primarily intended to evoke which of the following sentiments among citizens?",
+    "options": {
+      "a": "A desire to forcefully colonize neighboring West African states",
+      "b": "Deep patriotism, urging citizens to work hard to uphold the legacy and sacrifices of the founding fathers",
+      "c": "A strict requirement to permanently memorize historical dates",
+      "d": "The encouragement of intense regional tribalism and conflict"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "This specific line in the anthem promotes **National Consciousness and Patriotism**, inspiring the current generation to honor the struggles of past heroes by contributing positively to the nation's continuous growth.",
+    "section_id": null
+  },
+  {
+    "question_number": 183,
+    "subject": "National Value Education",
+    "topic": "Nigeria as a Federation",
+    "question_text": "A fundamental characteristic of a working Federation is that its Constitution must be **Rigid**. What does a rigid constitution imply in this context?",
+    "options": {
+      "a": "It is written on unbreakable stone tablets",
+      "b": "It is entirely flexible and can be amended by the President single-handedly overnight",
+      "c": "Its amendment process is strict, complex, and requires the joint approval of both the Federal legislature and a majority of the State legislatures",
+      "d": "It cannot be read or interpreted by anyone except the Chief Justice"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "A **Rigid Constitution** requires a complex, highly demanding legal procedure to be amended. This is essential in a federation to prevent the central government from unilaterally altering the power-sharing formula to oppress the states.",
+    "section_id": null
+  },
+  {
+    "question_number": 184,
+    "subject": "National Value Education",
+    "topic": "Relationship Between Federal, State and Local Governments",
+    "question_text": "The Federal Government has absolute legislative power over the Armed Forces. However, both the Federal and State governments can legally establish schools and pass laws regarding 'Education'. This implies that Education is listed on the:",
+    "options": {
+      "a": "Exclusive Legislative List",
+      "b": "Concurrent Legislative List",
+      "c": "Residual Legislative List",
+      "d": "Traditional Legislative List"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **Concurrent Legislative List** contains matters (like education, healthcare, and agriculture) where both the Federal government and State governments possess constitutional powers to make laws.",
+    "section_id": null
+  },
+  {
+    "question_number": 185,
+    "subject": "National Value Education",
+    "topic": "The Rule of Law",
+    "question_text": "According to the democratic principle of the Rule of Law, what is the expected constitutional consequence if a highly influential billionaire breaks a criminal law?",
+    "options": {
+      "a": "They are granted total legal immunity because of their immense tax contributions",
+      "b": "They are allowed to personally pay the police to immediately dismiss the case",
+      "c": "They are subjected to the exact same legal processes, fair trials, and punishments as an ordinary citizen",
+      "d": "The laws are instantly rewritten by the judge to favor the billionaire's business"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The pillar of **Equality before the law** mandates that the law is blind to wealth or status. A billionaire who breaks the law must face the exact same judicial process and punishment as any other citizen.",
+    "section_id": null
+  },
+  {
+    "question_number": 186,
+    "subject": "National Value Education",
+    "topic": "Protection of Human Rights and the Rule of Law",
+    "question_text": "Which of the following bodies operates as a powerful mechanism to protect the specific human and academic rights of undergraduates against harsh institutional policies in Nigeria?",
+    "options": {
+      "a": "The Legal Aid Council",
+      "b": "The Manufacturers Association of Nigeria",
+      "c": "Students Unions (e.g., NANS)",
+      "d": "The Nigerian Labour Congress (NLC)"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Students Unions** are critical civil groups that advocate for, negotiate, and fiercely protect the rights, welfare, and academic interests of students on campuses.",
+    "section_id": null
+  },
+  {
+    "question_number": 187,
+    "subject": "National Value Education",
+    "topic": "Consumer Rights and Responsibilities",
+    "question_text": "A consumer purchases a generator and is handed a written **warranty**. Why is it the strict responsibility of the consumer to demand and safely keep this warranty document?",
+    "options": {
+      "a": "To use it as a substitute for national currency in future purchases",
+      "b": "Because it acts as vital legal proof of the transaction, necessary for seeking free repairs, replacement, or redress if the item malfunctions",
+      "c": "To prove to their neighbors that they possess expensive electronics",
+      "d": "To sell the document to environmental activists"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Retaining receipts and **warranties** fulfills the consumer's responsibility to keep transaction proofs. These documents are legally required when a consumer returns to a store to demand their **Right to Redress** for defective goods.",
+    "section_id": null
+  },
+  {
+    "question_number": 188,
+    "subject": "National Value Education",
+    "topic": "Democracy",
+    "question_text": "Both Political Parties and Pressure Groups are essential democratic institutions. However, what is the single most defining difference between them?",
+    "options": {
+      "a": "Political parties aim to win elections and form the government, while pressure groups only seek to influence government policies without contesting elections",
+      "b": "Pressure groups only exist in military regimes, while political parties exist only in democratic systems",
+      "c": "Political parties use violent protests exclusively, while pressure groups use the court system",
+      "d": "Political parties are completely funded by INEC, whereas pressure groups print their own currency"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "The primary distinction is power acquisition: **Political parties** field candidates to win elections and control the government. **Pressure groups** simply lobby and pressure those already in power to enact favorable policies.",
+    "section_id": null
+  },
+  {
+    "question_number": 189,
+    "subject": "National Value Education",
+    "topic": "Pillars of Democracy",
+    "question_text": "Why is a **\"Transparent Electoral Process\"** strongly regarded as an indispensable Pillar of Democracy?",
+    "options": {
+      "a": "It ensures that the incumbent President never loses an election",
+      "b": "It completely hides the number of registered voters from the international community",
+      "c": "It guarantees that the election results genuinely reflect the will of the people, granting true legitimacy to the newly elected leaders",
+      "d": "It forces citizens to vote multiple times to boost the national turnout figures"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Transparency ensures that elections are free, fair, and credible. When the process is **transparent**, citizens and the global community trust the results, which is what confers democratic **legitimacy** on the winners.",
+    "section_id": null
+  },
+  {
+    "question_number": 190,
+    "subject": "National Value Education",
+    "topic": "Electoral Malpractices",
+    "question_text": "Inducement and corrupt practices often physically manifest at polling units in the form of **\"Vote Buying\"**. What is the most devastating long-term effect of vote buying on a developing democracy?",
+    "options": {
+      "a": "It permanently eradicates poverty by redistributing wealth directly to the masses",
+      "b": "It allows highly wealthy but corrupt and incompetent candidates to bypass popular choice, leading to massive bad governance and looting",
+      "c": "It instantly repairs the national economy by increasing the circulation of physical cash",
+      "d": "It forces INEC to automatically upgrade to electronic voting systems"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "**Vote buying** commodifies the electoral franchise. It subverts the will of the people and allows corrupt individuals to \"purchase\" leadership positions. They then prioritize recouping their spent money through massive state corruption rather than providing good governance.",
+    "section_id": null
+  },
+  {
+    "question_number": 191,
+    "subject": "National Value Education",
+    "topic": "Elections and Electoral Bodies in Nigeria",
+    "question_text": "The **State Independent Electoral Commission (SIEC)** is constitutionally established to oversee specific electoral duties. Which of the following elections is exclusively organized by SIEC rather than INEC?",
+    "options": {
+      "a": "The election of the President of the Federal Republic",
+      "b": "The election of State Governors",
+      "c": "The election of members of the National Assembly (Senators)",
+      "d": "The election of Local Government Chairmen and Ward Councilors"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "While INEC handles all federal and state-level elections (including Governorship and State Assembly), the **SIEC** is solely responsible for conducting grassroots elections for **Local Government Chairmen and Councilors**.",
+    "section_id": null
+  },
+  {
+    "question_number": 192,
+    "subject": "National Value Education",
+    "topic": "Democratic (Voting)",
+    "question_text": "During modern Nigerian elections, technological tools like the Bimodal Voter Accreditation System (**BVAS**) are used by polling officials. The primary purpose of BVAS during accreditation is to strictly prevent which specific electoral malpractice?",
+    "options": {
+      "a": "Underage voting",
+      "b": "Thuggery and ballot box snatching",
+      "c": "Multiple voting and identity fraud",
+      "d": "Fake manifestos and deceptive campaigns"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **BVAS** device uses facial recognition and fingerprint biometrics to verify that the person holding the PVC is the true owner. This perfectly combats **identity fraud** and ensures a person cannot engage in **multiple voting**.",
+    "section_id": null
+  },
+  {
+    "question_number": 193,
+    "subject": "National Value Education",
+    "topic": "Negative Behaviour",
+    "question_text": "**Ostentatious living** is often fueled by the excessive love of money. How does this negative behavior predominantly impact the wider society?",
+    "options": {
+      "a": "It strongly encourages deep national unity among all economic classes",
+      "b": "It drives massive industrial and agricultural productivity",
+      "c": "It provokes dangerous envy and greed, often pushing struggling youths toward a high crime rate to acquire similar illicit wealth",
+      "d": "It rapidly diminishes value disorientation"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "When individuals flaunt illegally acquired, massive wealth (**ostentatious living**), it creates toxic societal pressures. It fuels intense **envy** and normalizes the \"get-rich-quick\" syndrome, pushing others into crime to mimic that lifestyle.",
+    "section_id": null
+  },
+  {
+    "question_number": 194,
+    "subject": "National Value Education",
+    "topic": "National Values: Integrity, Contentment and Discipline",
+    "question_text": "A student rigorously prepares for the BECE exams, adamantly refuses to join a syndicate to cheat, and accepts their average but honest result with total peace of mind. This student heavily exemplifies which two national values?",
+    "options": {
+      "a": "Courage and Ostentation",
+      "b": "Discipline and Greed",
+      "c": "Integrity and Contentment",
+      "d": "Self-Reliance and Intimidation"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Refusing to cheat despite pressure shows uncompromised moral principles (**Integrity**), and accepting an honest average result with peace of mind demonstrates a lack of greed (**Contentment**).",
+    "section_id": null
+  },
+  {
+    "question_number": 195,
+    "subject": "National Value Education",
+    "topic": "The Constitution",
+    "question_text": "The **1999 Constitution** is the current supreme document guiding Nigerian democracy. Historically, this specific constitution was midwifed and promulgated by which type of administration?",
+    "options": {
+      "a": "A fully democratically elected civilian parliament",
+      "b": "A transitional military regime preparing the nation for the Fourth Republic",
+      "c": "The British Colonial Governor-General",
+      "d": "An emergency coalition of traditional kings"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **1999 Constitution** was enacted via a military decree (Decree No. 24 of 1999) under the transitional military administration of General Abdulsalami Abubakar, seamlessly handing power to elected civilians to start the Fourth Republic.",
+    "section_id": null
+  },
+  {
+    "question_number": 196,
+    "subject": "National Value Education",
+    "topic": "Objects for National Consciousness",
+    "question_text": "To ensure equal representation, Nigeria utilizes the **Federal Character Principle**. What is the central aim of this institutional principle?",
+    "options": {
+      "a": "To ensure that all states produce exactly the same amount of agricultural crops annually",
+      "b": "To enforce a uniform cultural language across all federal ministries",
+      "c": "To ensure there is no unfair predominance of persons from a few specific states or ethnic groups in the government and its agencies",
+      "d": "To systematically strip local governments of their constitutional funding"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **Federal Character Principle** mandates that public appointments and amenities reflect the linguistic, ethnic, and geographic diversity of the country, actively preventing the marginalization or dominance of any one group.",
+    "section_id": null
+  },
+  {
+    "question_number": 197,
+    "subject": "National Value Education",
+    "topic": "Consumer Rights and Responsibilities",
+    "question_text": "According to universal consumer standards, the **\"Right to Representation to be heard\"** implies that consumers are constitutionally entitled to:",
+    "options": {
+      "a": "Have their interests represented, heard, and strongly considered by the government during the formulation of economic and consumer policies",
+      "b": "Be granted completely free access to all live music concerts",
+      "c": "Speak directly to the President of the country daily regarding minor personal complaints",
+      "d": "Be constantly protected by armed military escorts while shopping in local markets"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "The **Right to Representation (to be heard)** means consumers must have a voice. Their collective interests and grievances must receive due consideration when the government or corporate boards make policies that affect the market.",
+    "section_id": null
+  },
+  {
+    "question_number": 198,
+    "subject": "National Value Education",
+    "topic": "Rights and Duties of a Citizen",
+    "question_text": "While Citizens' Rights are guarantees provided by the state, Citizens' Duties are obligations owed to the state. Which of the following is strictly a **civic duty**?",
+    "options": {
+      "a": "The right to peacefully associate and assemble with peers",
+      "b": "The right to acquire and own movable immovable property anywhere in the country",
+      "c": "Willingly assisting law enforcement agencies in maintaining peace, order, and reporting crimes",
+      "d": "The right to completely fair hearings in civil or criminal courts"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Actions such as paying taxes, voting, respecting the national flag, and **assisting law enforcement in reporting crimes** are core **civic duties/obligations** of a responsible citizen.",
+    "section_id": null
+  },
+  {
+    "question_number": 199,
+    "subject": "National Value Education",
+    "topic": "Nigeria as a Federation",
+    "question_text": "A defining feature of the Nigerian Federation is the **Exclusive Legislative List**. What is the constitutional consequence if a State House of Assembly illegally passes a law concerning a matter perfectly situated on this Exclusive List (e.g., creating a state currency)?",
+    "options": {
+      "a": "The Federal Government must legally adopt the new state currency nationwide",
+      "b": "The law becomes immediately unconstitutional, null, and void",
+      "c": "The State House of Assembly is permanently exiled from the country",
+      "d": "The matter is forcefully moved to the Concurrent list"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Because the **Exclusive List** is reserved strictly for the Federal Government, any law made by a State Assembly concerning items on that list is completely invalid (**null and void**) as it breaches the supremacy of the constitution.",
+    "section_id": null
+  },
+  {
+    "question_number": 200,
+    "subject": "National Value Education",
+    "topic": "Democratic (Voting)",
+    "question_text": "During the official voting process inside a polling unit, after a voter has privately thumbprinted the ballot paper in the voting cubicle, what is their immediate next legal action?",
+    "options": {
+      "a": "To take the ballot paper home as a souvenir to show their family",
+      "b": "To display the thumbprinted paper to the massive crowd to prove loyalty",
+      "c": "To properly fold the ballot paper and drop it securely into the transparent ballot box provided by INEC",
+      "d": "To hand the marked paper over to the leader of the pressure group present"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "To conclude the voting process, maintain the secret ballot principle, and ensure the vote counts, the voter must neatly fold their ballot and **drop it into the transparent INEC ballot box** before leaving the polling zone.",
+    "section_id": null
+  }
+]

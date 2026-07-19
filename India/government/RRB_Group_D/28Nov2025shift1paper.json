@@ -1,0 +1,1602 @@
+[
+  {
+    "question_number": 1,
+    "subject": "General Science",
+    "topic": "Physics - Magnetic Effects of Electric Current",
+    "question_text": "Which of the following statements is correct?\n\n**Statement 1**: The magnetic field lines produced around a straight current-carrying conductor form concentric circles centred along the wire.\n**Statement 2**: The direction of these magnetic field lines can be determined using the right-hand thumb rule.",
+    "options": {
+      "a": "Both statements 1 and 2 are correct.",
+      "b": "Both statements 1 and 2 are incorrect.",
+      "c": "Statement 1 is incorrect, but 2 is correct.",
+      "d": "Statement 1 is correct, but 2 is incorrect."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Both statements are correct. A current-carrying straight conductor produces magnetic field lines in the form of concentric circles, and the right-hand thumb rule is used to determine their direction.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "General Science",
+    "topic": "Physics - Gravitation",
+    "question_text": "Which of the following statements is true about gravitational force of the Earth?",
+    "options": {
+      "a": "It acts away from the centre of Earth.",
+      "b": "It depends on the mass of the object.",
+      "c": "It is a non-central force.",
+      "d": "It is independent of distance from Earth’s centre."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Gravitational force depends on the mass of the objects involved. The formula for gravitational force is $F = G\\frac{m_1 m_2}{r^2}$, which clearly shows its dependence on the mass of the object.",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "General Science",
+    "topic": "Biology - Reproduction",
+    "question_text": "What is the sequence of stages involved in the budding process of hydra?",
+    "options": {
+      "a": "Bud maturation $\\rightarrow$ Bud initiation $\\rightarrow$ Bud detachment $\\rightarrow$ New individual",
+      "b": "Bud initiation $\\rightarrow$ Bud maturation $\\rightarrow$ Bud detachment $\\rightarrow$ New individual",
+      "c": "New individual $\\rightarrow$ Bud maturation $\\rightarrow$ Bud detachment $\\rightarrow$ Bud initiation",
+      "d": "Bud initiation $\\rightarrow$ Bud detachment $\\rightarrow$ Bud maturation $\\rightarrow$ New individual"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "In Hydra, reproduction by budding begins with bud initiation as an outgrowth, followed by bud maturation, its detachment from the parent body, and finally developing into a completely independent new individual.",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "General Science",
+    "topic": "Chemistry - Matter in Our Surroundings",
+    "question_text": "Which of the following activities proves that there are spaces between particles of matter?",
+    "options": {
+      "a": "Freezing a liquid",
+      "b": "Heating a solid",
+      "c": "Dissolving sugar in water",
+      "d": "Compressing a gas"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "When sugar is dissolved in water, the sugar crystals break down into individual molecules which then fit into the empty spaces between the water molecules, proving the existence of intermolecular spaces.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "General Science",
+    "topic": "Chemistry - Carbon and its Compounds",
+    "question_text": "What is the defining characteristic of an unsaturated carbon compound?",
+    "options": {
+      "a": "It contains at least one double or triple bond between carbon atoms.",
+      "b": "It forms only cyclic structures.",
+      "c": "All carbon atoms are linked by only single bonds.",
+      "d": "It always contains a functional group with oxygen."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Unsaturated carbon compounds contain one or more double or triple covalent bonds between adjacent carbon atoms (alkenes and alkynes).",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "General Science",
+    "topic": "Physics - Light",
+    "question_text": "Which of the following is **NOT** true regarding the image formed by a concave lens?\n\n(i) The image formed by a concave lens cannot be obtained on a screen.\n(ii) The image formed by a concave lens can be obtained on a screen.\n(iii) The image formed is always smaller in size in comparison to the size of the object.\n(iv) The image formed is always bigger in size in comparison to the size of the object.",
+    "options": {
+      "a": "Both (i) and (iv)",
+      "b": "Both (ii) and (iv)",
+      "c": "Both (i) and (iii)",
+      "d": "Both (ii) and (iii)"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A concave lens always forms a virtual, erect, and diminished image. Therefore, it cannot be obtained on a screen (ii is false) and it is never bigger than the object (iv is false).",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "General Science",
+    "topic": "Biology - Cell Biology",
+    "question_text": "The process of swelling or shrinking in plant cells, which leads to changes in shape and movement, is directly caused by which factor?",
+    "options": {
+      "a": "Formation of new protein structures.",
+      "b": "Rapid degradation of cellulose.",
+      "c": "Rigidity of their cell walls.",
+      "d": "Change in the amount of water inside them."
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Plant cells change their shape by changing the amount of water in them (turgor pressure), resulting in swelling or shrinking.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "General Science",
+    "topic": "Chemistry - Metals and Non-metals",
+    "question_text": "Metals found at the bottom of the activity series (e.g., gold, silver, platinum) are typically found in nature in which state?",
+    "options": {
+      "a": "As highly reactive oxides",
+      "b": "As carbonates that require roasting",
+      "c": "In their free state",
+      "d": "As sulphides that require calcination"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Metals like gold, silver, and platinum are least reactive. Because they have very low reactivity, they do not easily combine with other elements and thus exist in their free (native) state in nature.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "General Science",
+    "topic": "Chemistry - States of Matter",
+    "question_text": "The state of a substance whether it will be solid, liquid or gas is determined by:\n\na. Temperature\nb. Pressure\nc. Volume",
+    "options": {
+      "a": "a and c only",
+      "b": "a and b only",
+      "c": "a, b and c",
+      "d": "b and c only"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The physical state of a substance depends on two primary factors: temperature and pressure, which dictate the kinetic energy of particles and the intermolecular forces holding them together.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "General Science",
+    "topic": "Physics - Light",
+    "question_text": "When white light falls on a glass prism, out of all its constituent colours, violet colour undergoes maximum bending. Why?",
+    "options": {
+      "a": "Violet has minimum wavelength and hence minimum refractive index",
+      "b": "Violet has maximum wavelength and hence maximum refractive index",
+      "c": "Violet has minimum wavelength and hence maximum refractive index",
+      "d": "Violet has maximum wavelength and hence minimum refractive index"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The refractive index of a medium is inversely proportional to the wavelength of light. Violet light has the shortest (minimum) wavelength among the visible colours, resulting in the maximum refractive index and therefore maximum bending (deviation).",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "General Science",
+    "topic": "Chemistry - Acids, Bases and Salts",
+    "question_text": "What is the approximate pH of a salt solution formed from a strong acid and a strong base?",
+    "options": {
+      "a": "Can be less than or greater than 7 depending on temperature",
+      "b": "Equal to 7",
+      "c": "Greater than 7",
+      "d": "Less than 7"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A salt formed by the neutralization of a strong acid and a strong base results in a neutral solution. The pH of a neutral solution is exactly 7.",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "General Science",
+    "topic": "Biology - Cell Biology",
+    "question_text": "Which of the following examples best explains the role of lysosome activity in our daily life?",
+    "options": {
+      "a": "White blood cells engulfing and destroying harmful bacteria",
+      "b": "A green leaf making food through photosynthesis",
+      "c": "A nerve cell sending a signal to help feel pain",
+      "d": "A red blood cell supplying oxygen to muscles"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Lysosomes are organelles that contain powerful digestive enzymes capable of breaking down organic materials. When a white blood cell engulfs a bacterium (phagocytosis), its lysosomes digest and destroy the pathogen.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "General Science",
+    "topic": "Biology - Reproduction",
+    "question_text": "How many daughter cells are formed during binary fission?",
+    "options": {
+      "a": "Two",
+      "b": "Four",
+      "c": "Zero",
+      "d": "One"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Binary fission is an asexual reproduction method where a single parent cell divides into two equal and identical daughter cells.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "General Science",
+    "topic": "Physics - Work and Energy",
+    "question_text": "Which of the following is an example of potential energy?",
+    "options": {
+      "a": "A flowing river",
+      "b": "A rolling ball",
+      "c": "A book kept on a table",
+      "d": "A moving train"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Potential energy is the energy possessed by an object due to its position or configuration. A book resting on a table possesses gravitational potential energy, whereas the other options are examples of kinetic energy.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "General Science",
+    "topic": "Chemistry - Chemical Reactions",
+    "question_text": "Observe the following chemical reaction:\n\n$$\\text{H}_2\\text{S} + \\text{I}_2 \\rightarrow 2\\text{HI} + \\text{S}$$\n\nWhich of the following statements correctly describes this redox reaction?\n\n**Statements:**\nI: Hydrogen sulphide undergoes oxidation to form sulphur.\nII: Iodine is reduced, producing hydrogen iodide.",
+    "options": {
+      "a": "Only Statement I is correct",
+      "b": "Both Statement I and II are correct",
+      "c": "Only Statement II is correct",
+      "d": "Both Statement I and II are incorrect"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "In this reaction, $\\text{H}_2\\text{S}$ loses hydrogen (oxidation) to become Sulphur (S). Meanwhile, $\\text{I}_2$ gains hydrogen (reduction) to form Hydrogen Iodide (HI). Therefore, both statements correctly describe the redox process.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "General Science",
+    "topic": "Physics - Laws of Motion",
+    "question_text": "Newton’s First Law of Motion is also called the law of:",
+    "options": {
+      "a": "force",
+      "b": "inertia",
+      "c": "acceleration",
+      "d": "action and reaction"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Newton's First Law states that an object continues in its state of rest or uniform motion unless acted upon by a net external force. This property of an object to resist changes in its state of motion is called inertia.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "General Science",
+    "topic": "Chemistry - Chemical Reactions",
+    "question_text": "What type of reaction occurs when barium chloride reacts with sodium sulfate?",
+    "options": {
+      "a": "Oxidation",
+      "b": "Double displacement",
+      "c": "Decomposition",
+      "d": "Combination"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The reaction is: $\\text{BaCl}_2(aq) + \\text{Na}_2\\text{SO}_4(aq) \\rightarrow \\text{BaSO}_4(s) + 2\\text{NaCl}(aq)$. The ions mutually exchange places, making it a double displacement (and precipitation) reaction.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "General Science",
+    "topic": "Chemistry - Structure of Atom",
+    "question_text": "Rutherford’s $\\alpha$-particle scattering experiment led to the discovery of which of the following?",
+    "options": {
+      "a": "Protons",
+      "b": "Electrons",
+      "c": "Neutrons",
+      "d": "Nucleus"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Rutherford's alpha-particle scattering experiment demonstrated that most of an atom's mass and its positive charge are concentrated in a tiny central region, leading to the discovery of the atomic nucleus.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "General Science",
+    "topic": "Biology - Reproduction",
+    "question_text": "A student cuts the style of a flower before pollination occurs. What will be its effect?",
+    "options": {
+      "a": "Fertilization will not occur.",
+      "b": "Pollination will be faster.",
+      "c": "Ovules will turn into seeds.",
+      "d": "The pollen tube will grow very quickly."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The style connects the stigma to the ovary. If the style is cut, pollen tubes cannot travel down to the ovary after pollination, preventing the male gamete from reaching the ovule, meaning fertilization will not occur.",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "General Science",
+    "topic": "Physics - Electricity",
+    "question_text": "The resistance of a metallic conductor increases with:",
+    "options": {
+      "a": "Increase in cross-sectional area",
+      "b": "Increase in temperature",
+      "c": "Decrease in temperature",
+      "d": "Decrease in length"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "As the temperature of a metallic conductor increases, the thermal vibrations of its lattice ions increase, causing more frequent collisions with free electrons. This impedes the flow of current, thus increasing resistance.",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "General Science",
+    "topic": "Physics - Waves and Sound",
+    "question_text": "Which of the following increases when the amplitude of a wave increases?",
+    "options": {
+      "a": "Frequency",
+      "b": "Energy of the wave",
+      "c": "Wavelength",
+      "d": "Speed"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The energy of a wave is directly proportional to the square of its amplitude ($E \\propto A^2$). Therefore, when the amplitude increases, the energy transported by the wave also increases.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "General Science",
+    "topic": "Environmental Science - Waste Management",
+    "question_text": "A housing society has started segregating waste into two dustbins—a green bin for kitchen waste and a blue bin for plastics, metals, and glass. What is the main benefit of this practice?",
+    "options": {
+      "a": "It increases the amount of waste generated.",
+      "b": "It reduces the bad odor of the garbage.",
+      "c": "It speeds up the waste collection process.",
+      "d": "It helps in separating non-biodegradable waste from biodegradable waste."
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Source segregation using green and blue bins allows for separating biodegradable wet waste (kitchen waste) from dry, non-biodegradable, and recyclable waste (plastics, metals, glass), thus enabling efficient recycling and composting.",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "General Science",
+    "topic": "Physics - Laws of Motion",
+    "question_text": "To prove the relationship between inertia and mass, a student compares the difficulty of kicking a football and kicking a stone of the same size. Which basic principle justifies the greater difficulty and potential injury associated with kicking the stone?",
+    "options": {
+      "a": "The stone has more mass, resulting in greater inertia, meaning it offers a greater resistance to changing its state of rest.",
+      "b": "The stone is subjected to the first law of motion, while the football is governed by the second law.",
+      "c": "The force applied on the stone is not sufficient to overcome the centripetal force holding its atoms together.",
+      "d": "The stone has lower surface friction, due to which all applied forces dissipate."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Inertia is directly proportional to mass. Because the stone has a significantly higher mass than a football of the same size, it has greater inertia, thereby exerting a larger resistive force against the kick, which can cause injury.",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "General Science",
+    "topic": "Biology - Cell Biology",
+    "question_text": "What is the main function of the nucleus in an eukaryotic cell?",
+    "options": {
+      "a": "Digesting waste",
+      "b": "Acting as a storage unit for food",
+      "c": "Producing energy",
+      "d": "Directing life processes of the cell"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "The nucleus is the control center of an eukaryotic cell. It contains the cell's genetic material (DNA) and directs all cellular activities and life processes, including growth, metabolism, and reproduction.",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "General Science",
+    "topic": "Biology - Endocrine System",
+    "question_text": "Which of the following organs secretes the releasing factor that stimulates the pituitary gland to release growth hormone?",
+    "options": {
+      "a": "Pancreas",
+      "b": "Hypothalamus",
+      "c": "Adrenal glands",
+      "d": "Thymus"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The hypothalamus produces Growth Hormone-Releasing Hormone (GHRH), which signals the anterior pituitary gland to secrete Growth Hormone (GH) into the bloodstream.",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "Mathematics",
+    "topic": "Profit and Loss",
+    "question_text": "The marked price of a wardrobe is ₹8,640, which is 35% above the cost price. It is sold at a discount of 20% on the marked price. Find the profit percentage.",
+    "options": {
+      "a": "9%",
+      "b": "10%",
+      "c": "8%",
+      "d": "6%"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Let the Cost Price (CP) be $100x$.\nMarked Price (MP) $= 100x + 35\\% \\text{ of } 100x = 135x$.\nSelling Price (SP) after 20% discount on MP $= 135x \\times 0.8 = 108x$.\nProfit $= SP - CP = 108x - 100x = 8x$.\nProfit percentage $= \\frac{8x}{100x} \\times 100 = 8\\%$.",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "Mathematics",
+    "topic": "Time, Speed and Distance",
+    "question_text": "Chetan travels from City A to City B. If Chetan drives his car at $\\frac{3}{5}$th of his normal speed, then he reaches City B 52 minutes late. Find the time (in minutes) that Chetan would have taken to travel from City A to City B if he drove at his normal speed.",
+    "options": {
+      "a": "82",
+      "b": "69",
+      "c": "78",
+      "d": "83"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Let normal speed be $S$ and normal time be $T$.\nSince distance is constant, $S \\times T = \\left(\\frac{3}{5}S\\right) \\times (T + 52)$.\nSolving for $T$:\n$T = \\frac{3}{5}(T + 52)$\n$5T = 3T + 156$\n$2T = 156 \\Rightarrow T = 78 \\text{ minutes}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "Mathematics",
+    "topic": "Time, Speed and Distance (Trains)",
+    "question_text": "A train, 1312 m long, is running at a speed of 54 m/s. If it takes 106 seconds to cross a tunnel, then find the length of the tunnel.",
+    "options": {
+      "a": "4402 m",
+      "b": "4413 m",
+      "c": "4412 m",
+      "d": "4408 m"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Let the length of the tunnel be $x$ meters.\nTotal distance to cross the tunnel $= \\text{Length of train} + \\text{Length of tunnel} = (1312 + x)$ m.\n$\\text{Distance} = \\text{Speed} \\times \\text{Time}$\n$1312 + x = 54 \\times 106$\n$1312 + x = 5724$\n$x = 5724 - 1312 = 4412 \\text{ m}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "Mathematics",
+    "topic": "Simplification",
+    "question_text": "What is the value of $\\frac{5.4(0.1 \\times 0.1 \\times 0.1 + 0.03 \\times 0.03 \\times 0.03)}{(0.3 \\times 0.3 \\times 0.3 + 0.09 \\times 0.09 \\times 0.09)}$?",
+    "options": {
+      "a": "0.5",
+      "b": "0.2",
+      "c": "0.4",
+      "d": "0.6"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Let $a = 0.1$ and $b = 0.03$. \nThe numerator is $5.4(a^3 + b^3)$. \nThe denominator has terms $(3a)^3 + (3b)^3 = 27a^3 + 27b^3 = 27(a^3 + b^3)$.\nSo, the expression simplifies to $\\frac{5.4(a^3 + b^3)}{27(a^3 + b^3)} = \\frac{5.4}{27} = 0.2$.",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "Mathematics",
+    "topic": "Number System - Divisibility",
+    "question_text": "Which of the following numbers is divisible by 7?",
+    "options": {
+      "a": "7357306",
+      "b": "7132951",
+      "c": "7660778",
+      "d": "6825907"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Divide each number by 7 to check the remainder:\nA) $7357306 \\div 7 = 1051043.71$\nB) $7132951 \\div 7 = 1018993$ (Remainder 0, perfectly divisible)\nC) $7660778 \\div 7 = 1094396.85$\nD) $6825907 \\div 7 = 975129.57$\nThus, 7132951 is divisible by 7.",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "Mathematics",
+    "topic": "Simplification",
+    "question_text": "Simplify: $\\frac{1.25^2 - 0.75^2}{2.25^2 - 1.25^2} \\times \\frac{7}{2}$",
+    "options": {
+      "a": "0.25",
+      "b": "2",
+      "c": "1",
+      "d": "0.5"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Use the identity $a^2 - b^2 = (a - b)(a + b)$.\nNumerator: $1.25^2 - 0.75^2 = (1.25 - 0.75)(1.25 + 0.75) = 0.5 \\times 2.0 = 1.0$.\nDenominator: $2.25^2 - 1.25^2 = (2.25 - 1.25)(2.25 + 1.25) = 1.0 \\times 3.5 = 3.5$.\nSo the fraction is $\\frac{1}{3.5} = \\frac{1}{7/2}$.\nMultiply by $\\frac{7}{2}$: $\\frac{1}{7/2} \\times \\frac{7}{2} = 1$.",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "Mathematics",
+    "topic": "Averages",
+    "question_text": "The average of 6.5, 10.6, 19.7 and a is 12. The value of a is:",
+    "options": {
+      "a": "11.2",
+      "b": "10.2",
+      "c": "12.2",
+      "d": "13.2"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Average $= \\frac{\\text{Sum of observations}}{\\text{Number of observations}}$\n$\\frac{6.5 + 10.6 + 19.7 + a}{4} = 12$\n$36.8 + a = 48$\n$a = 48 - 36.8 = 11.2$",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "Mathematics",
+    "topic": "Ratio and Proportion",
+    "question_text": "If A : B = 1 : 3, B : C = 4 : 3 and C : D = 6 : 7, then A : B : C : D is:",
+    "options": {
+      "a": "8 : 22 : 18 : 21",
+      "b": "6 : 24 : 18 : 21",
+      "c": "8 : 24 : 18 : 21",
+      "d": "8 : 24 : 16 : 21"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Make the common terms equal:\n$A : B = 1 : 3$ and $B : C = 4 : 3$. \nMultiply $A : B$ by 4 and $B : C$ by 3 to equate $B$: $A : B = 4 : 12$ and $B : C = 12 : 9$. So, $A : B : C = 4 : 12 : 9$.\nNow, combine with $C : D = 6 : 7$. The LCM of 9 (from $C$) and 6 (from $C$) is 18.\nMultiply $A : B : C$ by 2 $\\Rightarrow 8 : 24 : 18$.\nMultiply $C : D$ by 3 $\\Rightarrow 18 : 21$.\nCombined ratio $A : B : C : D = 8 : 24 : 18 : 21$.",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "Mathematics",
+    "topic": "Statistics",
+    "question_text": "Find the mode of the data 1, 11, 11, 8, 18, 8, 7, 7, 7, x, y, and 8, given that $3x + 7y = 42$ and $7x + 3y = 58$.",
+    "options": {
+      "a": "11",
+      "b": "7",
+      "c": "18",
+      "d": "8"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Solve the system of equations:\n1) $3x + 7y = 42$\n2) $7x + 3y = 58$\nAdding them gives: $10x + 10y = 100 \\Rightarrow x + y = 10 \\Rightarrow y = 10 - x$.\nSubstitute $y$ in (1): $3x + 7(10 - x) = 42 \\Rightarrow 3x + 70 - 7x = 42 \\Rightarrow -4x = -28 \\Rightarrow x = 7$.\nThen $y = 3$.\nThe dataset becomes: 1, 11, 11, 8, 18, 8, 7, 7, 7, 7 (since $x=7$), 3, and 8.\nCounting frequencies: 7 appears 4 times, 8 appears 3 times, 11 appears 2 times. The mode is the most frequent value, which is 7.",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "Mathematics",
+    "topic": "Problems on Ages",
+    "question_text": "The present age of a father is twice the sum of the present ages of his two sons. After 20 years, the father's age will be equal to the sum of his sons' ages. Find the present age of the father.",
+    "options": {
+      "a": "42 years",
+      "b": "45 years",
+      "c": "40 years",
+      "d": "48 years"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Let the present sum of the ages of his two sons be $S$. Thus, father's present age $F = 2S$.\nAfter 20 years:\nFather's age = $F + 20$\nSum of the two sons' ages = $S + 20 + 20 = S + 40$ (since both sons age by 20 years).\nAccording to the problem: $F + 20 = S + 40$\nSubstitute $F = 2S$: $2S + 20 = S + 40 \\Rightarrow S = 20$.\nThe father's present age $F = 2(20) = 40$ years.",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "Mathematics",
+    "topic": "Ratio and Proportion",
+    "question_text": "A sum of money is to be distributed among A, B, C and D in the ratio of 10 : 7 : 9 : 5. If C gets ₹334 more than B, then how much did A receive?",
+    "options": {
+      "a": "₹1,670",
+      "b": "₹1,673",
+      "c": "₹1,671",
+      "d": "₹1,669"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Let the shares of A, B, C, and D be $10x$, $7x$, $9x$, and $5x$ respectively.\nDifference between C's share and B's share $= 9x - 7x = 2x$.\nWe are given $2x = 334 \\Rightarrow x = 167$.\nA's share $= 10x = 10 \\times 167 = 1670$.\nTherefore, A received ₹1,670.",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "Mathematics",
+    "topic": "Mensuration",
+    "question_text": "The area of a triangle is $61.5 \\text{ m}^2$. If one of its sides is 12.3 m, find the length of the perpendicular dropped on that side from the opposite vertex.",
+    "options": {
+      "a": "11 m",
+      "b": "11.5 m",
+      "c": "10 m",
+      "d": "10.5 m"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The formula for the area of a triangle is $\\text{Area} = \\frac{1}{2} \\times \\text{base} \\times \\text{height}$.\nHere, Area $= 61.5$ and base $= 12.3$.\n$61.5 = \\frac{1}{2} \\times 12.3 \\times h$\n$h = \\frac{61.5 \\times 2}{12.3} = \\frac{123}{12.3} = 10 \\text{ m}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "question_text": "P is any point inside the rectangle ABCD. If PA = 85 cm, PB = 65 cm and PC = 5 cm, then the length of PD (in cm) is equal to:",
+    "options": {
+      "a": "55",
+      "b": "58",
+      "c": "53",
+      "d": "51"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "For any point P inside a rectangle ABCD, the sum of the squares of distances to opposite vertices are equal: $PA^2 + PC^2 = PB^2 + PD^2$.\nSubstitute the values: $85^2 + 5^2 = 65^2 + PD^2$.\n$7225 + 25 = 4225 + PD^2$\n$7250 = 4225 + PD^2$\n$PD^2 = 7250 - 4225 = 3025$\n$PD = \\sqrt{3025} = 55$ cm.",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "Mathematics",
+    "topic": "Compound Interest",
+    "question_text": "The amount on a sum of ₹2,800 at 10% per annum compound interest, compounded annually, in 2 years will be:",
+    "options": {
+      "a": "₹2,647",
+      "b": "₹3,604",
+      "c": "₹3,274",
+      "d": "₹3,388"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "The formula for Compound Interest amount is $A = P\\left(1 + \\frac{R}{100}\\right)^t$.\n$P = 2800$, $R = 10\\%$, $t = 2$.\n$A = 2800\\left(1 + \\frac{10}{100}\\right)^2 = 2800(1.1)^2 = 2800 \\times 1.21 = 3388$.\nThe amount will be ₹3,388.",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "Mathematics",
+    "topic": "Profit and Loss",
+    "question_text": "Sushma purchased a used car for ₹1,20,000 and spent ₹28,500 on its repairs. She then sold it to her friend Sam for ₹1,38,600. What percentage did she gain or lose? (Round off your answer to two decimal places.)",
+    "options": {
+      "a": "8.67% loss",
+      "b": "6.67% loss",
+      "c": "5.38% gain",
+      "d": "6.67% gain"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Total Cost Price (CP) $= \\text{Purchase Price} + \\text{Repair Cost} = 1,20,000 + 28,500 = 1,48,500$.\nSelling Price (SP) $= 1,38,600$.\nSince CP > SP, there is a loss.\nLoss $= 1,48,500 - 1,38,600 = 9,900$.\nLoss Percentage $= \\left(\\frac{9,900}{1,48,500}\\right) \\times 100 = 6.666...\\% \\approx 6.67\\% \\text{ loss}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "Mathematics",
+    "topic": "Problems on Ages",
+    "question_text": "A father is 5 times as old as his son. If the sum of their ages is 54 years, how old is the son?",
+    "options": {
+      "a": "11 years",
+      "b": "12 years",
+      "c": "9 years",
+      "d": "10 years"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Let the son's present age be $x$ years.\nThen the father's age is $5x$ years.\nAccording to the question, $x + 5x = 54$.\n$6x = 54 \\Rightarrow x = 9$.\nThe son is 9 years old.",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "Mathematics",
+    "topic": "Mensuration",
+    "question_text": "A triangle has sides of lengths 7 cm, 9 cm and 12 cm. Find its area.",
+    "options": {
+      "a": "$19\\sqrt{7} \\text{ cm}^2$",
+      "b": "$14\\sqrt{5} \\text{ cm}^2$",
+      "c": "$18\\sqrt{13} \\text{ cm}^2$",
+      "d": "$16\\sqrt{3} \\text{ cm}^2$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Let the sides be $a = 7$, $b = 9$, $c = 12$.\nSemi-perimeter $s = \\frac{a + b + c}{2} = \\frac{7 + 9 + 12}{2} = \\frac{28}{2} = 14$.\nBy Heron's formula, Area $= \\sqrt{s(s-a)(s-b)(s-c)}$.\nArea $= \\sqrt{14(14-7)(14-9)(14-12)}$\nArea $= \\sqrt{14 \\times 7 \\times 5 \\times 2}$\nArea $= \\sqrt{980} = \\sqrt{196 \\times 5} = 14\\sqrt{5} \\text{ cm}^2$.",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "Mathematics",
+    "topic": "Percentages",
+    "question_text": "The price of oil is increased successively by 50% and then by 40%. What is the equivalent single percentage increase?",
+    "options": {
+      "a": "90%",
+      "b": "75%",
+      "c": "100%",
+      "d": "110%"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "For two successive percentage increases $A$ and $B$, the equivalent single percentage increase is given by the formula: $A + B + \\frac{A \\times B}{100}$.\nHere, $A = 50$ and $B = 40$.\nEquivalent increase $= 50 + 40 + \\frac{50 \\times 40}{100} = 90 + 20 = 110\\%$.",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "Mathematics",
+    "topic": "Ratio and Proportion",
+    "question_text": "The monthly incomes of two friends, Kiran and Mahesh, are in the ratio 5 : 8 respectively, and each of them saves ₹72,000 every month. If the ratio of their monthly expenditure is 2 : 4, find the monthly income of Kiran (in ₹).",
+    "options": {
+      "a": "1,81,000",
+      "b": "2,52,000",
+      "c": "1,80,000",
+      "d": "1,79,000"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Let the incomes of Kiran and Mahesh be $5x$ and $8x$ respectively.\nExpenditure $=$ Income $-$ Savings.\nRatio of their expenditures is $\\frac{5x - 72000}{8x - 72000} = \\frac{2}{4} = \\frac{1}{2}$.\nCross-multiplying: $2(5x - 72000) = 1(8x - 72000)$\n$10x - 144000 = 8x - 72000$\n$2x = 72000 \\Rightarrow x = 36000$.\nMonthly income of Kiran $= 5x = 5 \\times 36000 = ₹1,80,000$.",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "Mathematics",
+    "topic": "Time and Work",
+    "question_text": "Navya and Bhavya can paint a house in 40 days and 60 days, respectively. If they work on alternate days, starting with Bhavya, in how many days can the duo complete painting that house?",
+    "options": {
+      "a": "45 days",
+      "b": "48 days",
+      "c": "50 days",
+      "d": "49 days"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Total work $= \\text{LCM}(40, 60) = 120$ units.\nNavya's efficiency $= \\frac{120}{40} = 3$ units/day.\nBhavya's efficiency $= \\frac{120}{60} = 2$ units/day.\nThey work on alternate days, starting with Bhavya.\nIn a 2-day cycle: Bhavya works on Day 1 (2 units), Navya works on Day 2 (3 units).\nWork done in 2 days $= 2 + 3 = 5$ units.\nNumber of cycles required $= \\frac{120}{5} = 24$ cycles.\nTotal days $= 24 \\text{ cycles} \\times 2 \\text{ days/cycle} = 48$ days.",
+    "section_id": null
+  },
+  {
+    "question_number": 46,
+    "subject": "Mathematics",
+    "topic": "Indices and Surds",
+    "question_text": "If $7^5 \\times 7\\sqrt{7} \\div 7^{-\\frac{5}{2}} = 7^{2x+3}$, then the value of x is:",
+    "options": {
+      "a": "3",
+      "b": "0",
+      "c": "0.5",
+      "d": "2"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "First, simplify the left side using laws of exponents.\n$7\\sqrt{7} = 7^1 \\times 7^{\\frac{1}{2}} = 7^{1 + \\frac{1}{2}} = 7^{\\frac{3}{2}}$.\nThe expression becomes: $7^5 \\times 7^{\\frac{3}{2}} \\div 7^{-\\frac{5}{2}} = 7^{2x+3}$.\nCombine the terms on the LHS:\n$7^{5 + \\frac{3}{2} - (-\\frac{5}{2})} = 7^{5 + \\frac{3}{2} + \\frac{5}{2}} = 7^{5 + \\frac{8}{2}} = 7^{5 + 4} = 7^9$.\nSo, $7^9 = 7^{2x+3}$.\nEquating the exponents: $9 = 2x + 3 \\Rightarrow 2x = 6 \\Rightarrow x = 3$.",
+    "section_id": null
+  },
+  {
+    "question_number": 47,
+    "subject": "Mathematics",
+    "topic": "Time and Work",
+    "question_text": "A and B working together can do a piece of work in 6 days. B alone can do the same work in 9 days. How long (in days) will A alone take to do double the work?",
+    "options": {
+      "a": "37",
+      "b": "18",
+      "c": "36",
+      "d": "39"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Let total work $= \\text{LCM}(6, 9) = 18$ units.\nEfficiency of (A + B) $= \\frac{18}{6} = 3$ units/day.\nEfficiency of B $= \\frac{18}{9} = 2$ units/day.\nEfficiency of A $= (\\text{A} + \\text{B}) - \\text{B} = 3 - 2 = 1$ unit/day.\nDouble the work $= 18 \\times 2 = 36$ units.\nTime taken by A alone $= \\frac{36}{1} = 36$ days.",
+    "section_id": null
+  },
+  {
+    "question_number": 48,
+    "subject": "Mathematics",
+    "topic": "Profit and Loss",
+    "question_text": "After selling an article at a discount of 25%, the profit percentage obtained is 2%. What is the mark-up percentage?",
+    "options": {
+      "a": "40%",
+      "b": "34%",
+      "c": "38%",
+      "d": "36%"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Let the Cost Price (CP) be $100$.\nSince the profit is 2%, the Selling Price (SP) $= 102$.\nThe article is sold at a 25% discount on the Marked Price (MP), so $SP = 75\\% \\text{ of } MP = 0.75 \\times MP$.\n$0.75 \\times MP = 102 \\Rightarrow MP = \\frac{102}{0.75} = \\frac{102}{3/4} = 136$.\nThe mark-up is the amount above the CP, which is $136 - 100 = 36$.\nMark-up percentage $= \\frac{36}{100} \\times 100\\% = 36\\%$.",
+    "section_id": null
+  },
+  {
+    "question_number": 49,
+    "subject": "Mathematics",
+    "topic": "Percentages",
+    "question_text": "The cost of a washing machine is 50% less than the cost of a TV. If the cost of the washing machine increases by 33% and that of the TV decreases by 13%, then what is the percentage change in the total cost of 4 washing machines and 2 TVs?",
+    "options": {
+      "a": "Increase by 9.5%",
+      "b": "Decrease by 10%",
+      "c": "Decrease by 7%",
+      "d": "Increase by 10%"
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "Let the original cost of a TV be ₹200.\nOriginal cost of a washing machine (WM) $= 200 - (50\\% \\text{ of } 200) = ₹100$.\nOriginal total cost for 4 WMs and 2 TVs $= 4(100) + 2(200) = 400 + 400 = 800$.\nNew cost of WM (33% increase) $= 100 \\times 1.33 = 133$.\nNew cost of TV (13% decrease) $= 200 \\times 0.87 = 174$.\nNew total cost for 4 WMs and 2 TVs $= 4(133) + 2(174) = 532 + 348 = 880$.\nChange in cost $= 880 - 800 = +80$ (Increase).\nPercentage change $= \\left(\\frac{80}{800}\\right) \\times 100\\% = 10\\% \\text{ increase}.",
+    "section_id": null
+  },
+  {
+    "question_number": 50,
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "question_text": "If $5\\cos A = 4$, find the value of $\\frac{3\\sqrt{\\csc^2 A - 1}}{4\\sqrt{\\sec^2 A - 1}}$.",
+    "options": {
+      "a": "1",
+      "b": "$\\frac{4}{3}$",
+      "c": "$\\frac{3}{4}$",
+      "d": "$\\frac{16}{9}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Given $5\\cos A = 4 \\Rightarrow \\cos A = \\frac{4}{5}$.\nBy trigonometric identities: $\\sqrt{\\csc^2 A - 1} = \\cot A$ and $\\sqrt{\\sec^2 A - 1} = \\tan A$.\nThe expression becomes $\\frac{3\\cot A}{4\\tan A}$.\nSince $\\cos A = \\frac{4}{5}$, in a right triangle, the adjacent side is 4, hypotenuse is 5, so the opposite side is $\\sqrt{5^2 - 4^2} = 3$.\nThus, $\\tan A = \\frac{3}{4}$ and $\\cot A = \\frac{4}{3}$.\nSubstituting these values: $\\frac{3 \\times (4/3)}{4 \\times (3/4)} = \\frac{4}{3}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 51,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Letter Analogy",
+    "question_text": "DGRZ is related to HNVG in a certain way based on the English alphabetical order. In the same way, TIHB is related to XPLI. To which of the given options is FDTW related, following the same logic?",
+    "options": {
+      "a": "JXDE",
+      "b": "JKXS",
+      "c": "JKOP",
+      "d": "JKXD"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Observe the positional shift for the pairs based on alphabetical order:\nD(4) $\\rightarrow$ H(8) [ +4 ]\nG(7) $\\rightarrow$ N(14) [ +7 ]\nR(18) $\\rightarrow$ V(22) [ +4 ]\nZ(26) $\\rightarrow$ G(7) [ +7 (wrap around: $26+7=33$, $33-26=7$) ]\n\nThe logic pattern is `+4, +7, +4, +7`.\nApplying to FDTW:\nF(6) + 4 = J(10)\nD(4) + 7 = K(11)\nT(20) + 4 = X(24)\nW(23) + 7 = D(30 $\\rightarrow$ 4)\nThe resulting word is JKXD.",
+    "section_id": null
+  },
+  {
+    "question_number": 52,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Number Series",
+    "question_text": "Refer to the following number series and answer the question that follows (all numbers are single-digit numbers only). Counting to be done from left to right only.\n\n(Left) 6 6 8 6 7 4 5 9 9 1 7 6 8 1 4 5 4 7 1 4 1 1 4 3 5 4 3 (Right)\n\nHow many such even numbers are there, each of which is immediately preceded by an odd number and also immediately followed by an even number?",
+    "options": {
+      "a": "3",
+      "b": "0",
+      "c": "2",
+      "d": "1"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "We need to find a sequence: [Odd Number] $\\rightarrow$ **[Even Number]** $\\rightarrow$ [Even Number].\nScanning the series:\n- \"... 7 4 5 ...\" $\\rightarrow$ Odd, Even, Odd (Invalid)\n- \"... 7 6 8 ...\" $\\rightarrow$ 7(Odd) $\\rightarrow$ 6(Even) $\\rightarrow$ 8(Even). This fits the condition!\n- \"... 1 4 5 ...\" $\\rightarrow$ Odd, Even, Odd (Invalid)\n- \"... 7 1 4 1 ...\" $\\rightarrow$ Odd, Even, Odd (Invalid)\n- \"... 5 4 3 ...\" $\\rightarrow$ Odd, Even, Odd (Invalid)\nThere is only 1 such instance.",
+    "section_id": null
+  },
+  {
+    "question_number": 53,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Coding-Decoding",
+    "question_text": "In a certain code language, ‘LOVE’ is coded as ‘2436’ and ‘VALE’ is coded as ‘3245’. What is the code for ‘A’ in the given code language?",
+    "options": {
+      "a": "3",
+      "b": "2",
+      "c": "4",
+      "d": "5"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "The words 'LOVE' (2436) and 'VALE' (3245) have the letters L, V, and E in common. \nThe digits common to both codes are 2, 4, and 3.\nThe only unique letter in 'VALE' is 'A', and the unique number in its code is 5.\nTherefore, the code for 'A' is 5.",
+    "section_id": null
+  },
+  {
+    "question_number": 54,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Classification",
+    "question_text": "Based on the English alphabetical order, three of the following four letter-cluster pairs are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT belong to that group?\n(Note: The odd one out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+    "options": {
+      "a": "DF – ZY",
+      "b": "RT – NM",
+      "c": "JL – FE",
+      "d": "EG – AB"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Analyze the alphabetical progression in each cluster pair:\n- **A. DF – ZY**: D(+2)F and Z(-1)Y\n- **B. RT – NM**: R(+2)T and N(-1)M\n- **C. JL – FE**: J(+2)L and F(-1)E\n- **D. EG – AB**: E(+2)G and A(+1)B\nIn pairs A, B, and C, the first cluster follows a +2 logic and the second cluster follows a -1 logic. In option D, the second cluster follows a +1 logic. Hence, EG – AB is the odd one out.",
+    "section_id": null
+  },
+  {
+    "question_number": 55,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Classification",
+    "question_text": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which is the letter-cluster that does NOT belong to that group?",
+    "options": {
+      "a": "PNQ",
+      "b": "ECF",
+      "c": "TRU",
+      "d": "GFH"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Let's check the positional shifts between letters:\n- **PNQ**: P(16) $\\xrightarrow{-2}$ N(14) $\\xrightarrow{+3}$ Q(17)\n- **ECF**: E(5) $\\xrightarrow{-2}$ C(3) $\\xrightarrow{+3}$ F(6)\n- **TRU**: T(20) $\\xrightarrow{-2}$ R(18) $\\xrightarrow{+3}$ U(21)\n- **GFH**: G(7) $\\xrightarrow{-1}$ F(6) $\\xrightarrow{+2}$ H(8)\nOptions A, B, and C follow the logic [-2, +3]. Option D follows [-1, +2], making it the odd one out.",
+    "section_id": null
+  },
+  {
+    "question_number": 56,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Number Series",
+    "question_text": "Refer to the following number series and answer the question that follows (all numbers are single digit numbers only).\n\n(Left) 6 1 5 6 8 5 5 7 7 9 9 5 7 4 9 7 6 1 9 2 6 7 6 3 7 4 9 (Right)\n\nHow many such odd numbers are there (from left to right) each of which is immediately preceded by an even number and also immediately followed by an even number?",
+    "options": {
+      "a": "3",
+      "b": "2",
+      "c": "0",
+      "d": "1"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "We need to identify the pattern: [Even] $\\rightarrow$ [Odd] $\\rightarrow$ [Even].\nScanning the series:\n- 6(E) 1(O) 5(O) - No\n- 8(E) 5(O) 5(O) - No\n- 4(E) 9(O) 7(O) - No\n- 6(E) 1(O) 9(O) - No\n- 2(E) 6(E) 7(O) 6(E) - Yes! 6(E) $\\rightarrow$ 7(O) $\\rightarrow$ 6(E)\n- 6(E) 3(O) 7(O) - No\nThere is only 1 such instance.",
+    "section_id": null
+  },
+  {
+    "question_number": 57,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Ranking and Arrangement",
+    "question_text": "In a row of 50 students facing North, Shruti is $23^{\\text{rd}}$ from the left end. If Daksh is $17^{\\text{th}}$ to the right of Shruti, what is Daksh’s position from the right end of the line?",
+    "options": {
+      "a": "12th",
+      "b": "11th",
+      "c": "10th",
+      "d": "9th"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Total number of students = 50.\nShruti's position from the left = 23.\nDaksh is $17^{\\text{th}}$ to the right of Shruti. Therefore, Daksh's position from the left = 23 + 17 = 40.\nDaksh's position from the right end = (Total students) - (Position from left) + 1\n$= 50 - 40 + 1 = 11^{\\text{th}}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 58,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Letter Series",
+    "question_text": "What should come in place of the question mark (?) in the given series based on the English alphabetical order?\n\nBLS DNU FPW HRY ?",
+    "options": {
+      "a": "ITB",
+      "b": "JTA",
+      "c": "ISZ",
+      "d": "JSZ"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Look at the pattern formed by each corresponding letter:\nFirst letter: B(+2) $\\rightarrow$ D(+2) $\\rightarrow$ F(+2) $\\rightarrow$ H(+2) $\\rightarrow$ J\nSecond letter: L(+2) $\\rightarrow$ N(+2) $\\rightarrow$ P(+2) $\\rightarrow$ R(+2) $\\rightarrow$ T\nThird letter: S(+2) $\\rightarrow$ U(+2) $\\rightarrow$ W(+2) $\\rightarrow$ Y(+2) $\\rightarrow$ A\nCombining these gives the cluster 'JTA'.",
+    "section_id": null
+  },
+  {
+    "question_number": 59,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Direction and Distance",
+    "question_text": "Mr. Z starts from Point A and drives 18 km towards the North. He then takes a left turn, drives 14 km, then turns left and drives 14 km. He then takes a right turn, drives 13 km, then turns left and drives 25 km. He then takes a left turn and drives 34 km. He takes a final left turn, drives 21 km, and stops at Point P. How far (shortest distance) and towards which direction should he drive in order to reach Point A again? (All turns are 90-degree turns only, unless specified.)",
+    "options": {
+      "a": "7 km to the west",
+      "b": "9 km to the south",
+      "c": "8 km to the east",
+      "d": "10 km to the north"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "Assuming Point A is the origin $(0,0)$.\n1) 18 km North $\\rightarrow (0, 18)$, facing North.\n2) Left turn (West), 14 km $\\rightarrow (-14, 18)$, facing West.\n3) Left turn (South), 14 km $\\rightarrow (-14, 4)$, facing South.\n4) Right turn (West), 13 km $\\rightarrow (-27, 4)$, facing West.\n5) Left turn (South), 25 km $\\rightarrow (-27, -21)$, facing South.\n6) Left turn (East), 34 km $\\rightarrow (-27+34, -21) = (7, -21)$, facing East.\n7) Left turn (North), 21 km $\\rightarrow (7, -21+21) = (7, 0)$, which is Point P.\nPoint P is 7 km East of Point A (0,0). To reach Point A, he must drive 7 km West from Point P.",
+    "section_id": null
+  },
+  {
+    "question_number": 60,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Mathematical Operations",
+    "question_text": "If ‘E’ stands for ‘+’, ‘F’ stands for ‘-’, ‘G’ stands for ‘x’ and ‘H’ stands for ‘÷’, what will come in place of question mark ‘?’ in the following equation?\n\n45 G 3 E 28 H 7 F 8 = ?",
+    "options": {
+      "a": "133",
+      "b": "131",
+      "c": "129",
+      "d": "135"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Substitute the letters with their respective mathematical operators:\nThe equation becomes: $45 \\times 3 + 28 \\div 7 - 8$\nUsing BODMAS rule, perform division first:\n$28 \\div 7 = 4$\nNext, perform multiplication:\n$45 \\times 3 = 135$\nNow, the equation is: $135 + 4 - 8$\nAddition: $139 - 8 = 131$.",
+    "section_id": null
+  },
+  {
+    "question_number": 61,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Mathematical Operations",
+    "question_text": "If $+$ means $\\div$, $-$ means $\\times$, $\\times$ means $-$, and $\\div$ means $+$, then what will come in place of the question mark (?) in the following equation?\n\n$639 + 9 \\times 6 - 44 \\div 279 =$ ?",
+    "options": {
+      "a": "89",
+      "b": "81",
+      "c": "86",
+      "d": "80"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Substitute the symbols based on the given rules:\nOriginal equation: $639 + 9 \\times 6 - 44 \\div 279$\nAfter replacing symbols: $639 \\div 9 - 6 \\times 44 + 279$\nApply BODMAS rule:\nDivision: $639 \\div 9 = 71$\nMultiplication: $6 \\times 44 = 264$\nNow the equation is: $71 - 264 + 279$\nAddition and Subtraction: $71 + 279 - 264 = 350 - 264 = 86$.",
+    "section_id": null
+  },
+  {
+    "question_number": 62,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Blood Relations",
+    "question_text": "In a certain code language,\n$A + B$ means ‘A is the sister of B’,\n$A \\text{ @ } B$ means ‘A is the brother of B’,\n$A - B$ means ‘A is the wife of B’,\nand $A \\text{ \\# } B$ means ‘A is the father of B’.\n\nHow is O related to V if ‘$O + P - T \\text{ \\# } G \\text{ @ } V$’?",
+    "options": {
+      "a": "Sister",
+      "b": "Mother",
+      "c": "Mother's sister",
+      "d": "Mother's mother"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Let's decode the expression step by step:\n1. $O + P$: O is the sister of P.\n2. $P - T$: P is the wife of T. (This means T is a male and husband of P).\n3. $T \\text{ \\# } G$: T is the father of G. (Since P is T's wife, P is the mother of G).\n4. $G \\text{ @ } V$: G is the brother of V. (This means V is also the child of P and T).\n\nSince P is the mother of V, and O is the sister of P, O is the maternal aunt (mother's sister) of V.",
+    "section_id": null
+  },
+  {
+    "question_number": 63,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Number Series",
+    "question_text": "What should come in place of the question mark (?) in the given series?\n\n5 15 26 38 51 ?",
+    "options": {
+      "a": "64",
+      "b": "65",
+      "c": "63",
+      "d": "62"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Find the difference between consecutive numbers:\n$15 - 5 = 10$\n$26 - 15 = 11$\n$38 - 26 = 12$\n$51 - 38 = 13$\nThe differences form an increasing sequence: $10, 11, 12, 13, \\dots$\nThe next difference will be $14$.\nNext number = $51 + 14 = 65$.",
+    "section_id": null
+  },
+  {
+    "question_number": 64,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Syllogism",
+    "question_text": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.\n\n**Statements:**\nSome Pomegranates are Peaches.\nSome Peaches are Lemons.\nAll Lemons are Figs.\n\n**Conclusions:**\n(I) Some Peaches are Figs.\n(II) Some Pomegranates are Figs.",
+    "options": {
+      "a": "Both conclusions (I) and (II) follow",
+      "b": "Neither conclusion (I) nor (II) follows",
+      "c": "Only conclusion (I) follows",
+      "d": "Only conclusion (II) follows"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Let's analyze the statements:\n1. Some Pomegranates are Peaches.\n2. Some Peaches are Lemons.\n3. All Lemons are Figs.\n\nFrom (2) and (3), since some Peaches are Lemons, and all Lemons are Figs, it implies that the intersecting part of Peaches and Lemons is entirely inside Figs. Hence, **Some Peaches are Figs** is definitely true. Conclusion (I) follows.\nFrom (1), Pomegranates intersect with Peaches, but there is no direct relation given between Pomegranates and Lemons/Figs. Hence, we cannot definitively say **Some Pomegranates are Figs**. Conclusion (II) does not follow.\nOnly conclusion (I) follows.",
+    "section_id": null
+  },
+  {
+    "question_number": 65,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Syllogism",
+    "question_text": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.\n\n**Statements:**\nSome pipe are hose.\nAll hose are tunnel.\n\n**Conclusions:**\n(I) Some pipe are tunnel.\n(II) All tunnel are hose.",
+    "options": {
+      "a": "Only conclusion (II) follows",
+      "b": "Both conclusions (I) and (II) follow",
+      "c": "Neither conclusion (I) nor (II) follows",
+      "d": "Only conclusion (I) follows"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Let's analyze the statements:\n1. Some pipe are hose.\n2. All hose are tunnel.\n\nCombining the statements: the part of \"pipe\" that is \"hose\" is completely inside \"tunnel\". Thus, **Some pipe are tunnel** is a valid conclusion. (Conclusion I follows).\nHowever, while all hose are tunnel, the reverse is not necessarily true; the tunnel set can be larger than the hose set. So, **All tunnel are hose** is false. (Conclusion II does not follow).\nOnly conclusion (I) follows.",
+    "section_id": null
+  },
+  {
+    "question_number": 66,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Set Analogy",
+    "question_text": "Select the set in which the numbers are related in the same way as are the numbers of the following sets.\n\n(59, 71, 55)\n(85, 97, 81)\n\n*(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits.)*",
+    "options": {
+      "a": "(121, 133, 116)",
+      "b": "(99, 111, 95)",
+      "c": "(117, 129, 114)",
+      "d": "(78, 90, 76)"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Let the set be $(a, b, c)$. The pattern is:\n$b = a + 12$\n$c = b - 16$\n\nChecking the given sets:\n$(59, 71, 55) \\Rightarrow 59 + 12 = 71$ and $71 - 16 = 55$.\n$(85, 97, 81) \\Rightarrow 85 + 12 = 97$ and $97 - 16 = 81$.\n\nTesting the options:\nA) $121 + 12 = 133$; $133 - 17 = 116$ (Incorrect)\nB) $99 + 12 = 111$; $111 - 16 = 95$ (Correct)\nC) $117 + 12 = 129$; $129 - 15 = 114$ (Incorrect)\nD) $78 + 12 = 90$; $90 - 14 = 76$ (Incorrect)\nOption B follows the exact logic.",
+    "section_id": null
+  },
+  {
+    "question_number": 67,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Seating Arrangement",
+    "question_text": "P, Q, R, S, T and U are sitting around a circular table facing the centre. U sits second to the right of R. Q sits second to the left of S. P is on the immediate left of Q. Who is sitting on the immediate left of T?",
+    "options": {
+      "a": "Q",
+      "b": "U",
+      "c": "S",
+      "d": "R"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Since all persons are facing the centre, 'left' means clockwise and 'right' means anti-clockwise.\nLet's place them in 6 seats around a circle (1 to 6 clockwise):\n1. **U sits second to the right of R**: If R is at position 1, right is anti-clockwise, so U is at position 5.\n2. **Q sits second to the left of S**: Left is clockwise. This means there is one seat between S and Q. ($S \\rightarrow \\_ \\rightarrow Q$)\n3. **P is on the immediate left of Q**: Clockwise from Q is P. So the sequence is $S \\rightarrow \\_ \\rightarrow Q \\rightarrow P$.\nFitting $S, \\_, Q, P$ into the remaining positions $(2, 3, 4, 6)$:\nThe only way to place this sequence without overlapping R(1) or U(5) is:\n$S = 6$, empty space = $1 (R)$, $Q = 2$, $P = 3$.\nThe only unassigned seat is 4, which must be occupied by T.\nThe final clockwise sequence is: $R(1), Q(2), P(3), T(4), U(5), S(6)$.\nThe immediate left of T(4) is position 5, which is occupied by U.",
+    "section_id": null
+  },
+  {
+    "question_number": 68,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Alphanumeric Series",
+    "question_text": "Refer to the following number and symbol series and answer the question that follows. Counting to be done from left to right only. All numbers are single-digit numbers.\n\n(Left) % € € % 6 £ 3 & 1 £ 4 5 7 2 2 & & 9 & 8 8 * (Right)\n\nHow many such symbols are there, each of which is immediately preceded by a number and also immediately followed by a number?",
+    "options": {
+      "a": "6",
+      "b": "3",
+      "c": "5",
+      "d": "4"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "We need to find the pattern: `[Number]` `[Symbol]` `[Number]`.\nScanning the series:\n- `6 £ 3` $\\Rightarrow$ Yes\n- `3 & 1` $\\Rightarrow$ Yes\n- `1 £ 4` $\\Rightarrow$ Yes\n- `9 & 8` $\\Rightarrow$ Yes\nThere are exactly 4 such instances.",
+    "section_id": null
+  },
+  {
+    "question_number": 69,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Number Series",
+    "question_text": "What should come in place of the question mark (?) in the given series?\n\n747 740 732 723 713 ?",
+    "options": {
+      "a": "703",
+      "b": "701",
+      "c": "704",
+      "d": "702"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Observe the differences between consecutive terms:\n$747 - 740 = 7$\n$740 - 732 = 8$\n$732 - 723 = 9$\n$723 - 713 = 10$\nThe subtractions are increasing sequentially (7, 8, 9, 10). The next subtraction should be 11.\n$713 - 11 = 702$.",
+    "section_id": null
+  },
+  {
+    "question_number": 70,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Number Series",
+    "question_text": "What should come in place of the question mark (?) in the given series?\n\n29 49 69 89 109 ?",
+    "options": {
+      "a": "119",
+      "b": "121",
+      "c": "129",
+      "d": "131"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Observe the differences between consecutive terms:\n$49 - 29 = 20$\n$69 - 49 = 20$\n$89 - 69 = 20$\n$109 - 89 = 20$\nThe series follows a constant difference of +20. The next term is $109 + 20 = 129$.",
+    "section_id": null
+  },
+  {
+    "question_number": 71,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Number Series",
+    "question_text": "Refer to the following series and answer the question (all numbers are single digit numbers only). Counting to be done from left to right only.\n\n(Left) 8 7 1 7 8 2 9 6 7 4 7 8 8 9 3 3 2 8 7 9 8 (Right)\n\nHow many such odd digits are there each of which is immediately preceded by an odd digit and also immediately followed by an even digit?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "4",
+      "d": "3"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "We need to find the pattern: `[Odd Number]` `[Target Odd Number]` `[Even Number]`.\nLet's scan the sequence to find odd digits surrounded by the specified types:\n- `... 1 7 8 ...` $\\rightarrow$ Preceded by 1 (Odd), Target 7 (Odd), Followed by 8 (Even). **(Valid - 1)**\n- `... 3 3 2 ...` $\\rightarrow$ Preceded by 3 (Odd), Target 3 (Odd), Followed by 2 (Even). **(Valid - 2)**\n- `... 7 9 8 ...` $\\rightarrow$ Preceded by 7 (Odd), Target 9 (Odd), Followed by 8 (Even). **(Valid - 3)**\n\nThere are exactly 3 such instances.",
+    "section_id": null
+  },
+  {
+    "question_number": 72,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Seating Arrangement",
+    "question_text": "A, B, C, D, E and F are sitting around a circular table facing the centre. D sits second to the left of B. E sits second to the right of F. C is on the immediate right of D. Who is sitting on the immediate left of A?",
+    "options": {
+      "a": "F",
+      "b": "E",
+      "c": "B",
+      "d": "C"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "All are facing the centre. Left is clockwise, Right is anti-clockwise.\nLet's place 6 seats labeled 1 to 6 clockwise.\n1. **D sits second to the left of B**: Let B be at 1. Clockwise 2nd position is 3. So, D is at 3.\n2. **C is on the immediate right of D**: Right is anti-clockwise. Anti-clockwise from D(3) is 2. So, C is at 2.\nCurrent layout: B(1), C(2), D(3), empty(4,5,6).\n3. **E sits second to the right of F**: Right is anti-clockwise. This means F is at position $i$ and E is at $i - 2 \\pmod 6$. The remaining seats are 4, 5, and 6. \n   - If F is at 6, E is at 4. (Valid)\n   - If F is at 5, E would be at 3 (occupied by D). (Invalid)\n   - If F is at 4, E would be at 2 (occupied by C). (Invalid)\nSo, F is at 6, E is at 4. This leaves A to be placed in the remaining seat 5.\nFinal layout: B(1), C(2), D(3), E(4), A(5), F(6).\nQuestion: Who is sitting on the immediate left (clockwise) of A(5)? \nThe person at position 6 is F.",
+    "section_id": null
+  },
+  {
+    "question_number": 73,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Coding-Decoding",
+    "question_text": "In a certain code language, ‘pig issue nod’ is coded as 'cd hx gj' and ‘love nod news’ is coded as ‘vn va hx’. How is ‘nod’ coded in the given language?",
+    "options": {
+      "a": "hx",
+      "b": "cd",
+      "c": "gi",
+      "d": "vn"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "By comparing the two phrases:\n1: ‘pig issue **nod**’ = 'cd **hx** gj'\n2: ‘love **nod** news’ = ‘vn va **hx**’\nThe only word common in both phrases is '**nod**'.\nThe only code common in both codes is '**hx**'.\nTherefore, 'nod' is coded as 'hx'.",
+    "section_id": null
+  },
+  {
+    "question_number": 74,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Direction and Distance",
+    "question_text": "Karan starts from Point A and drives 12 km towards the North. He then takes a right turn, drives 6 km, then turns right and drives 16 km. He then takes a right turn and drives 8 km. He takes a final right turn, drives 4 km, and stops at Point P. How far (shortest distance) and towards which direction should he drive in order to reach Point A again? (All turns are 90-degree turns only, unless specified.)",
+    "options": {
+      "a": "2 km to the west",
+      "b": "3 km to the west",
+      "c": "2 km to the east",
+      "d": "3 km to the east"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Let Point A be $(0, 0)$.\n1. Drives 12 km North $\\rightarrow (0, 12)$, facing North.\n2. Right turn (East) 6 km $\\rightarrow (6, 12)$, facing East.\n3. Right turn (South) 16 km $\\rightarrow (6, 12 - 16) = (6, -4)$, facing South.\n4. Right turn (West) 8 km $\\rightarrow (6 - 8, -4) = (-2, -4)$, facing West.\n5. Right turn (North) 4 km $\\rightarrow (-2, -4 + 4) = (-2, 0)$, which is Point P.\nPoint P is at $(-2, 0)$. Point A is at $(0, 0)$.\nTo reach Point A from P, Karan must move from $X = -2$ to $X = 0$, which means driving 2 km towards the East.",
+    "section_id": null
+  },
+  {
+    "question_number": 75,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Seating Arrangement",
+    "question_text": "D, E, F, G, L, M and N are sitting in a straight line, facing north.\n- Only two people sit to the right of D.\n- Only two people sit between D and G.\n- Only two people sit between E and F.\n- F sits to the immediate left of D.\n- N sits to the immediate right of M.\n\nWho sits at the third position from the left end of the line?",
+    "options": {
+      "a": "M",
+      "b": "L",
+      "c": "D",
+      "d": "G"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "There are 7 positions, numbered 1 to 7 from Left to Right.\n1. **Only two people sit to the right of D**: D is at position 5.\n2. **Only two people sit between D and G**: Since D is at 5, G must be at 2 (since $5 + 3 = 8$ is out of bounds).\n3. **F sits to the immediate left of D**: F is at 4.\n4. **Only two people sit between E and F**: Since F is at 4, E can be at 1 or 7.\n5. **N sits to the immediate right of M**: M and N must occupy adjacent seats. The only available adjacent seats are 6 and 7. Thus, M is at 6 and N is at 7.\n6. Because N is at 7, E must be at 1.\n7. The only remaining person, L, takes the empty seat at 3.\nThe final arrangement (from Left to Right) is: **E, G, L, F, D, M, N**.\nThe third position from the left end is occupied by L.",
+    "section_id": null
+  },
+  {
+    "question_number": 76,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Series",
+    "question_text": "Which of the following letter-number clusters will replace the question mark (?) in the given series to make it logically complete?\n\nBTM 25, DVO 27, FXQ 29, HZS 31, ?",
+    "options": {
+      "a": "JBU 33",
+      "b": "KDV 33",
+      "c": "KCV 33",
+      "d": "LBU 33"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Observe the pattern component by component:\n- **First Letter**: $B(+2) \\rightarrow D(+2) \\rightarrow F(+2) \\rightarrow H(+2) \\rightarrow \\mathbf{J}$\n- **Second Letter**: $T(+2) \\rightarrow V(+2) \\rightarrow X(+2) \\rightarrow Z(+2) \\rightarrow \\mathbf{B}$\n- **Third Letter**: $M(+2) \\rightarrow O(+2) \\rightarrow Q(+2) \\rightarrow S(+2) \\rightarrow \\mathbf{U}$\n- **Number**: $25 \\rightarrow 27 \\rightarrow 29 \\rightarrow 31 \\rightarrow \\mathbf{33}$ (adds 2 each time)\nCombining these results, the next term is JBU 33.",
+    "section_id": null
+  },
+  {
+    "question_number": 77,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Ranking",
+    "question_text": "In a row of 47 students facing north, Neha is $21^{\\text{st}}$ from the right end. If Kinjal is $8^{\\text{th}}$ to the left of Neha, what is Kinjal's position from the left end of the line?",
+    "options": {
+      "a": "19th",
+      "b": "18th",
+      "c": "20th",
+      "d": "17th"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Total number of students = 47.\nNeha's position from the left = (Total - Position from right + 1) = $47 - 21 + 1 = 27^{\\text{th}}$.\nKinjal is $8^{\\text{th}}$ to the left of Neha. Moving left means moving closer to the $1^{\\text{st}}$ position from the left end.\nKinjal's position from left = $27 - 8 = 19^{\\text{th}}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 78,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Letter Analogy",
+    "question_text": "NJOM is related to TPUS in a certain way based on the English alphabetical order. In the same way, PLQO is related to VRWU. To which of the following is RNSQ related, following the same logic?",
+    "options": {
+      "a": "TXYW",
+      "b": "XTWY",
+      "c": "TXWY",
+      "d": "XTYW"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Let's find the positional shift for the letters:\n$N(14) + 6 = T(20)$\n$J(10) + 6 = P(16)$\n$O(15) + 6 = U(21)$\n$M(13) + 6 = S(19)$\nThe logic is to add $+6$ to each letter. (Confirming with PLQO $\\rightarrow$ VRWU: $P+6=V$, $L+6=R$, $Q+6=W$, $O+6=U$ works!).\nApplying the same logic to RNSQ:\n$R(18) + 6 = X(24)$\n$N(14) + 6 = T(20)$\n$S(19) + 6 = Y(25)$\n$Q(17) + 6 = W(23)$\nThe related cluster is XTYW.",
+    "section_id": null
+  },
+  {
+    "question_number": 79,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Letter Cluster Triad Analogy",
+    "question_text": "Select the triad which follows the same pattern as that followed by the two triads given below. Both triads follow the same pattern.\n\nRK-NH-LO\nTM-PJ-NQ",
+    "options": {
+      "a": "WO-SL-PT",
+      "b": "VO-RL-PS",
+      "c": "WO-RL-PT",
+      "d": "VO-RL-PT"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Let's analyze the transitions between the pairs in the triads:\n**For RK - NH - LO:**\nFirst letters: $R(18) \\xrightarrow{-4} N(14) \\xrightarrow{-2} L(12)$\nSecond letters: $K(11) \\xrightarrow{-3} H(8) \\xrightarrow{+7} O(15)$\n\n**For TM - PJ - NQ:**\nFirst letters: $T(20) \\xrightarrow{-4} P(16) \\xrightarrow{-2} N(14)$ (Matches!)\nSecond letters: $M(13) \\xrightarrow{-3} J(10) \\xrightarrow{+7} Q(17)$ (Matches!)\n\nThe unified pattern is `(-4, -2)` for the first letters and `(-3, +7)` for the second letters.\nLet's test option (b) VO-RL-PS:\nFirst letters: $V(22) \\xrightarrow{-4} R(18) \\xrightarrow{-2} P(16)$\nSecond letters: $O(15) \\xrightarrow{-3} L(12) \\xrightarrow{+7} S(19)$\nThis perfectly matches the required pattern.",
+    "section_id": null
+  },
+  {
+    "question_number": 80,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Mathematical Operations",
+    "question_text": "If ‘A’ stands for ‘$\\div$’ , ‘B’ stands for ‘$\\times$’, ‘C’ stands for ‘$+$’ and ‘D’ stands for ‘$-$’ , what will come in place of question mark ‘?’ in the following equation?\n\n29 B 6 C 243 A 9 D 33 = ?",
+    "options": {
+      "a": "171",
+      "b": "168",
+      "c": "166",
+      "d": "173"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Substitute the alphabet with given mathematical operators:\nEquation: $29 \\times 6 + 243 \\div 9 - 33$\nFollowing BODMAS rule:\nDivision: $243 \\div 9 = 27$\nMultiplication: $29 \\times 6 = 174$\nThe expression reduces to: $174 + 27 - 33$\nAddition and Subtraction: $174 + 27 = 201 \\Rightarrow 201 - 33 = 168$.",
+    "section_id": null
+  },
+  {
+    "question_number": 81,
+    "subject": "General Awareness and Current Affairs",
+    "topic": "International Summits",
+    "question_text": "The $51^{\\text{st}}$ G7 summit was held in which of the following countries in June 2025?",
+    "options": {
+      "a": "India",
+      "b": "Abu Dhabi",
+      "c": "Germany",
+      "d": "Canada"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "The $51^{\\text{st}}$ G7 summit was held in Canada in June 2025, bringing together the leaders of the Group of Seven member states.",
+    "section_id": null
+  },
+  {
+    "question_number": 82,
+    "subject": "General Awareness and Current Affairs",
+    "topic": "Government Reports and Indices",
+    "question_text": "As per the Sustainable Development Goals – National Indicator Framework Progress Report, 2025, published in June 2025, India’s installed renewable energy capacity rose from 64.04 watts per capita in 2014–15 to 156.31 watts per capita in 2024–25. This growth primarily supports which Sustainable Development Goal (SDG)?",
+    "options": {
+      "a": "SDG 9",
+      "b": "SDG 12",
+      "c": "SDG 13",
+      "d": "SDG 7"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Sustainable Development Goal 7 (SDG 7) aims to ensure access to affordable, reliable, sustainable and modern energy for all, which aligns directly with the growth in installed renewable energy capacity.",
+    "section_id": null
+  },
+  {
+    "question_number": 83,
+    "subject": "General Awareness and Current Affairs",
+    "topic": "Corporate Awards and Events",
+    "question_text": "Which of the following airlines hosted the Power Creator Awards 2025?",
+    "options": {
+      "a": "Vistara",
+      "b": "SpiceJet",
+      "c": "Air India",
+      "d": "IndiGo"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "IndiGo airlines hosted the Power Creator Awards 2025, an event focused on celebrating top content creators and influencers.",
+    "section_id": null
+  },
+  {
+    "question_number": 84,
+    "subject": "General Awareness and Current Affairs",
+    "topic": "Politics and Elections",
+    "question_text": "Which student activist became the first SFI member to be elected sarpanch in Gujarat in June 2025?",
+    "options": {
+      "a": "Ashish Rabari",
+      "b": "Aayush Khatkar",
+      "c": "Monika Gusain",
+      "d": "Satyesha Leuva"
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "In June 2025, student activist Satyesha Leuva made history by becoming the first member of the Students' Federation of India (SFI) to be elected as a sarpanch in Gujarat.",
+    "section_id": null
+  },
+  {
+    "question_number": 85,
+    "subject": "General Awareness and Current Affairs",
+    "topic": "Sports - Tennis",
+    "question_text": "Who among the following did Madison Keys defeat in the Australian Open 2025 final?",
+    "options": {
+      "a": "Aryna Sabalenka",
+      "b": "Elena Rybakina",
+      "c": "Ons Jabeur",
+      "d": "Naomi Osaka"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Madison Keys defeated Aryna Sabalenka to clinch the Australian Open women's singles title in 2025.",
+    "section_id": null
+  },
+  {
+    "question_number": 86,
+    "subject": "General Awareness and Current Affairs",
+    "topic": "International Indices",
+    "question_text": "What was India’s overall score in the Corruption Perceptions Index (CPI) for the year 2024 released in February 2025?",
+    "options": {
+      "a": "41",
+      "b": "38",
+      "c": "43",
+      "d": "36"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "India scored 38 on the Corruption Perceptions Index (CPI) for the year 2024, which was published by Transparency International in February 2025.",
+    "section_id": null
+  },
+  {
+    "question_number": 87,
+    "subject": "General Awareness and Current Affairs",
+    "topic": "Defence and Security",
+    "question_text": "When was the first Surya VHF radar reportedly handed over to the Indian Air Force?",
+    "options": {
+      "a": "March 2025",
+      "b": "February 2025",
+      "c": "April 2025",
+      "d": "January 2025"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The first Surya VHF (Very High Frequency) radar was formally handed over to the Indian Air Force in March 2025.",
+    "section_id": null
+  },
+  {
+    "question_number": 88,
+    "subject": "General Awareness and Current Affairs",
+    "topic": "International Organizations",
+    "question_text": "What is the full form of RIMES, an intergovernmental body in news in 2025?",
+    "options": {
+      "a": "Regional Institute for Meteorological and Environmental Studies",
+      "b": "Risk Information and Monitoring of Emergency Situations",
+      "c": "Regional Integrated Multi-Hazard Early Warning System",
+      "d": "Research Initiative for Mitigating Environmental Shocks"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "RIMES stands for Regional Integrated Multi-Hazard Early Warning System, an intergovernmental organization focusing on generating early warning information for varied natural hazards.",
+    "section_id": null
+  },
+  {
+    "question_number": 89,
+    "subject": "General Awareness and Current Affairs",
+    "topic": "National Conferences",
+    "question_text": "Where was the first-ever national conference of Urban Local Body Chairpersons across Indian States and UTs inaugurated by the Lok Sabha Speaker Shri Om Birla in July 2025?",
+    "options": {
+      "a": "Gurugram",
+      "b": "Noida",
+      "c": "Ahmedabad",
+      "d": "Chandigarh"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Lok Sabha Speaker Shri Om Birla inaugurated the first-ever national conference of Urban Local Body Chairpersons across India in Gurugram in July 2025.",
+    "section_id": null
+  },
+  {
+    "question_number": 90,
+    "subject": "General Awareness and Current Affairs",
+    "topic": "Social Issues and Reports",
+    "question_text": "As per the June 2025 India Child Protection report, what percentage of 44,902 rescued children were found in the worst forms of child labour?",
+    "options": {
+      "a": "75%",
+      "b": "50%",
+      "c": "90%",
+      "d": "60%"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "According to the June 2025 India Child Protection report, a staggering 90% of the 44,902 children rescued were involved in the worst forms of child labour.",
+    "section_id": null
+  },
+  {
+    "question_number": 91,
+    "subject": "General Awareness and Current Affairs",
+    "topic": "Business and Economy",
+    "question_text": "Which of the following insurance companies announced the adoption of the revised GST structure on all insurance products from 22 September 2025?",
+    "options": {
+      "a": "HDFC Life Insurance Co. Ltd.",
+      "b": "ICICI Prudential Life Insurance Co. Ltd.",
+      "c": "Sahara India Life Insurance Co. Ltd.",
+      "d": "Kotak Life Insurance Co. Ltd."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "HDFC Life Insurance Co. Ltd. officially announced the adoption of the revised GST structure for its insurance products starting from 22 September 2025.",
+    "section_id": null
+  },
+  {
+    "question_number": 92,
+    "subject": "General Awareness and Current Affairs",
+    "topic": "Banking and Finance",
+    "question_text": "From 1 May 2025, which of the following portals did the Reserve Bank of India (RBI) mandate stakeholders to use?",
+    "options": {
+      "a": "PRAVAAH Portal",
+      "b": "SEVA Portal",
+      "c": "SAKSHAM Portal",
+      "d": "VITARAN Portal"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The Reserve Bank of India (RBI) mandated all stakeholders to use the 'PRAVAAH' (Platform for Regulatory Application, Validation and Authorisation) Portal starting from 1 May 2025.",
+    "section_id": null
+  },
+  {
+    "question_number": 93,
+    "subject": "General Awareness and Current Affairs",
+    "topic": "Sports Awards",
+    "question_text": "Which of the following coaches received the Dronacharya Award for para-shooting in 2025?",
+    "options": {
+      "a": "Deepali Deshpande",
+      "b": "S Muralidharan",
+      "c": "Subhash Rana",
+      "d": "Sandeep Sangwan"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Subhash Rana received the prestigious Dronacharya Award in 2025 for his exceptional coaching contributions to the sport of para-shooting.",
+    "section_id": null
+  },
+  {
+    "question_number": 94,
+    "subject": "General Awareness and Current Affairs",
+    "topic": "Defence and Technology",
+    "question_text": "On 16 July 2025, India achieved a major milestone by successfully destroying two aerial high-speed unmanned targets at high altitude in Ladakh using the upgraded variant of the Akash Weapon System for the Indian Army called ______.",
+    "options": {
+      "a": "Pinaka",
+      "b": "BrahMos",
+      "c": "Akash Advanced",
+      "d": "Akash Prime"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "The upgraded variant of the Akash Weapon System, known as 'Akash Prime', successfully intercepted and destroyed two high-speed unmanned aerial targets in Ladakh in July 2025.",
+    "section_id": null
+  },
+  {
+    "question_number": 95,
+    "subject": "General Awareness and Current Affairs",
+    "topic": "Sports Awards",
+    "question_text": "Who earned the 'Game Changer' award at the Women's Football Awards, 2025?",
+    "options": {
+      "a": "Viviane Asseyi",
+      "b": "Anita Asante",
+      "c": "Bethany England",
+      "d": "Keira Walsh"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Anita Asante was honoured with the 'Game Changer' award at the Women's Football Awards 2025 for her significant impact in the football community.",
+    "section_id": null
+  },
+  {
+    "question_number": 96,
+    "subject": "General Awareness and Current Affairs",
+    "topic": "Books and Authors",
+    "question_text": "Who authored the book 'To the Seventh Generation: The Journey of Christian Medical College Vellore', released in January 2025?",
+    "options": {
+      "a": "Dr. Devi Shetty",
+      "b": "Prof. Romila Thapar",
+      "c": "Dr. Atul Gawande",
+      "d": "Dr. V I Mathan"
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "Dr. V I Mathan is the author of 'To the Seventh Generation: The Journey of Christian Medical College Vellore', which was released in January 2025.",
+    "section_id": null
+  },
+  {
+    "question_number": 97,
+    "subject": "General Awareness and Current Affairs",
+    "topic": "Environment and Ecology",
+    "question_text": "Where was the first-ever International Big Cat Alliance (IBCA) Assembly held in India in June 2025?",
+    "options": {
+      "a": "New Delhi",
+      "b": "Pune",
+      "c": "Bhopal",
+      "d": "Panaji"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The first-ever International Big Cat Alliance (IBCA) Assembly was successfully convened in New Delhi, India, in June 2025 to bolster global big cat conservation efforts.",
+    "section_id": null
+  },
+  {
+    "question_number": 98,
+    "subject": "General Awareness and Current Affairs",
+    "topic": "State Initiatives",
+    "question_text": "In May 2025, which state/union territory government approved five cloud-seeding trials at an outlay of ₹3.21 crore to combat air pollution?",
+    "options": {
+      "a": "Karnataka",
+      "b": "Delhi",
+      "c": "Punjab",
+      "d": "West Bengal"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "To combat severe air pollution, the Delhi Government in May 2025 sanctioned ₹3.21 crore for conducting five cloud-seeding trials over the National Capital Region.",
+    "section_id": null
+  },
+  {
+    "question_number": 99,
+    "subject": "General Awareness and Current Affairs",
+    "topic": "Science and Technology",
+    "question_text": "Which scheme’s Deep Tech vertical had launched nine projects by mid-2025, with industries collaborating through DRDO’s Industry-Academia Centres of Excellence?",
+    "options": {
+      "a": "ADITI Scheme",
+      "b": "Technology Development Fund (TDF)",
+      "c": "iDEX (Innovations for Defence Excellence)",
+      "d": "Defence Testing Infrastructure Scheme (DTIS)"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "By mid-2025, the Technology Development Fund (TDF) scheme's Deep Tech vertical successfully launched nine advanced projects fostering collaboration between industries and DRDO’s Industry-Academia Centres of Excellence.",
+    "section_id": null
+  },
+  {
+    "question_number": 100,
+    "subject": "General Awareness and Current Affairs",
+    "topic": "Awards and Honours",
+    "question_text": "Which cricketer was honoured with Padma Shri in 2025?",
+    "options": {
+      "a": "Ravichandran Ashwin",
+      "b": "Jasprit Bumrah",
+      "c": "Virat Kohli",
+      "d": "Rohit Sharma"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Veteran Indian spinner Ravichandran Ashwin was honoured with the Padma Shri, India's fourth-highest civilian award, in 2025 for his exceptional contributions to the game of cricket.",
+    "section_id": null
+  }
+]

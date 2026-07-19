@@ -68,6 +68,8 @@
   "bece_pvsAgriculture1": "configs/bece.json",
   "bece_pvsHomeEconomics0": "configs/bece.json",
   "bece_pvsHomeEconomics1": "configs/bece.json",
+  "bece_nveCivicEducation": "configs/bece.json",
+  "bece_nveSecurityEducation": "configs/bece.json",
   "hosa_nutrition_physiology": "configs/hosa-nutrition.json",
   "hosa_nutrition_macronutrients": "configs/hosa-nutrition.json",
   "hosa_nutrition_vitamins_minerals": "configs/hosa-nutrition.json",
@@ -112,5 +114,7 @@
   "wassce_further_maths_geometry_trigonometry": "configs/wassce.json",
   "wassce_further_maths_calculus": "configs/wassce.json",
   "wassce_further_maths_statistics_probability": "configs/wassce.json",
-  "wassce_further_maths_vectors_mechanics": "configs/wassce.json"
+  "wassce_further_maths_vectors_mechanics": "configs/wassce.json",
+  "rrb-group-d_2025_nov27_shift1": "configs/rrb-group-d.json",
+  "rrb-group-d_2025_nov28_shift1": "configs/rrb-group-d.json"
 }

@@ -1,0 +1,722 @@
+[
+  {
+    "question_number": 1,
+    "subject": "National Values Education",
+    "topic": "Common Crimes, Causes and Effects",
+    "question_text": "Which of the following activities is strictly classified as a common crime in society?",
+    "options": {
+      "a": "Farming on commercial scale",
+      "b": "Participating in peaceful protests",
+      "c": "Theft and stealing of property",
+      "d": "Trading in the local market"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Theft** is the act of taking another person's property without permission or legal right and without intending to return it. In the context of national values, it is a recognized common crime alongside murder, falsehood, and rape.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "National Values Education",
+    "topic": "Common Crimes, Causes and Effects",
+    "question_text": "In Nigeria, the act of deceiving someone to obtain money under false pretenses is popularly referred to as:",
+    "options": {
+      "a": "Advance Fee Fraud (419)",
+      "b": "Money Laundering (911)",
+      "c": "Embezzlement (411)",
+      "d": "Counterfeiting (119)"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Advance Fee Fraud**, popularly known as **419** (named after the section of the Nigerian Criminal Code dealing with fraud), involves promising a victim a significant share of a large sum of money in return for a small up-front payment.",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "National Values Education",
+    "topic": "Common Crimes, Causes and Effects",
+    "question_text": "Dealing in fake drugs is considered a serious criminal offence primarily because it:",
+    "options": {
+      "a": "Generates un-taxable wealth for the sellers",
+      "b": "Directly endangers public health and can lead to loss of lives",
+      "c": "Causes heavy traffic at land borders",
+      "d": "Reduces the profits of legitimate pharmaceutical companies"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The primary danger of dealing in **fake or adulterated drugs** is the severe health risk it poses to the public. It fails to cure diseases and often introduces toxic substances into the body, leading to organ failure or death.",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "National Values Education",
+    "topic": "Common Crimes, Causes and Effects",
+    "question_text": "Which of the following pairs represents the major causes of common crimes among youths in the community?",
+    "options": {
+      "a": "Adequate education and good healthcare",
+      "b": "Religious tolerance and cultural values",
+      "c": "Unemployment and negative peer pressure",
+      "d": "Strong parenting and poverty alleviation"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Unemployment** leads to a lack of legitimate income, pushing youths towards illicit means of survival. **Negative peer pressure** also significantly influences adolescents to engage in activities like stealing, drug abuse, and internet fraud.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "National Values Education",
+    "topic": "Common Crimes, Causes and Effects",
+    "question_text": "The deliberate and unlawful taking of another human being's life is defined in law as:",
+    "options": {
+      "a": "Arson",
+      "b": "Assault",
+      "c": "Murder",
+      "d": "Falsehood"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Murder** is the intentional, unlawful killing of a person. It is a capital offence and is considered one of the most severe crimes in the Nigerian penal system.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "National Values Education",
+    "topic": "Common Crimes, Causes and Effects",
+    "question_text": "Which of the following measures is **NOT** a proper strategy for crime prevention in a society?",
+    "options": {
+      "a": "Creating job opportunities for the youths",
+      "b": "Cooperating with security agents and police",
+      "c": "Practicing jungle justice on suspected criminals",
+      "d": "Strengthening neighborhood watch systems"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Jungle justice** (mob action) is itself a criminal act. Proper crime prevention involves cooperating with formal security agents and established neighbourhood authorities to maintain law and order.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "National Values Education",
+    "topic": "Common Crimes, Causes and Effects",
+    "question_text": "The act of telling lies, misrepresenting facts, or uttering untrue statements with the intent to deceive is known as:",
+    "options": {
+      "a": "Embezzlement",
+      "b": "Burglary",
+      "c": "Extortion",
+      "d": "Falsehood"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Falsehood** involves making untrue statements to deceive others. It breaks societal trust and can be considered a criminal act when it results in perjury or fraud.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "National Values Education",
+    "topic": "Common Crimes, Causes and Effects",
+    "question_text": "Why is the sale of contaminated food heavily criminalized in the country?",
+    "options": {
+      "a": "It causes diseases like cholera and food poisoning that threaten human life.",
+      "b": "It makes the environment dirty and unappealing to tourists.",
+      "c": "It reduces the government's tax revenue from standard restaurants.",
+      "d": "It causes farmers to stop producing fresh food."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Contaminated food** carries harmful bacteria, viruses, or toxins. Selling it leads to public health outbreaks, severe food poisoning, and sometimes death, making it a serious crime.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "National Values Education",
+    "topic": "Common Crimes, Causes and Effects",
+    "question_text": "A student discovers that a group of peers is planning to vandalize school property. To assist in crime prevention, the student should:",
+    "options": {
+      "a": "Join the group to avoid being bullied",
+      "b": "Report the plan immediately to the school authorities",
+      "c": "Keep quiet to be seen as a loyal friend",
+      "d": "Wait until the property is destroyed before speaking out"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Effective crime prevention relies heavily on **cooperation with school and neighbourhood authorities**. Reporting planned crimes helps prevent the act and protects the community.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "National Values Education",
+    "topic": "Common Crimes, Causes and Effects",
+    "question_text": "What is one of the direct socio-economic effects of rampant common crimes in a community?",
+    "options": {
+      "a": "Rapid development of rural areas",
+      "b": "Increase in foreign direct investments",
+      "c": "Loss of lives, property, and general insecurity",
+      "d": "Decrease in the cost of living"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Rampant crime creates a state of **insecurity**, resulting in the loss of lives and properties, driving away investors, and severely stunting socio-economic growth.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "National Values Education",
+    "topic": "Observing and Reporting Common Crimes",
+    "question_text": "Effectively observing common crimes in one's neighbourhood requires a citizen to be:",
+    "options": {
+      "a": "Heavily armed at all times",
+      "b": "Highly vigilant and security conscious",
+      "c": "Hostile to strangers",
+      "d": "Indifferent to community affairs"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Vigilance** and security consciousness allow individuals to notice suspicious movements or activities without unnecessarily putting themselves in danger.",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "National Values Education",
+    "topic": "Observing and Reporting Common Crimes",
+    "question_text": "If a citizen witnesses an armed robbery taking place, what is the most appropriate response?",
+    "options": {
+      "a": "Confront the armed robbers immediately",
+      "b": "Run toward the scene to take close-up photographs for social media",
+      "c": "Retreat to a safe distance and secretly call the police or emergency lines",
+      "d": "Shout loudly to alert the robbers of their presence"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The most **appropriate response** is to ensure personal safety first and then contact law enforcement (the police) so trained professionals can handle the armed threat.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "National Values Education",
+    "topic": "Observing and Reporting Common Crimes",
+    "question_text": "Why do some citizens hesitate or fail to report common crimes to the appropriate security agents?",
+    "options": {
+      "a": "Fear of victimization and lack of trust in the system",
+      "b": "They are mandated by law to mind their own business",
+      "c": "They enjoy seeing crimes being committed in their neighbourhood",
+      "d": "Because the police command citizens not to report crimes"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "A major challenge in observing and reporting crimes is the **fear of reprisal (victimization)** by the criminals, coupled with a lack of confidence in the confidentiality of law enforcement.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "National Values Education",
+    "topic": "Observing and Reporting Common Crimes",
+    "question_text": "When a suspect is caught stealing in a market, the correct legal procedure is to:",
+    "options": {
+      "a": "Beat the suspect to serve as a warning to others",
+      "b": "Hand the suspect over to the police for investigation and prosecution",
+      "c": "Force the suspect to pay double the price of the stolen item",
+      "d": "Strip the suspect naked and parade them round the market"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Taking the law into one's own hands (jungle justice) is a crime. The only appropriate and legal response is to **hand the suspect over to the police**.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "National Values Education",
+    "topic": "Observing and Reporting Common Crimes",
+    "question_text": "Which of the following represents an inappropriate response to emergency crime situations?",
+    "options": {
+      "a": "Calling the police emergency toll-free numbers",
+      "b": "Providing useful descriptions of suspects to authorities",
+      "c": "Taking the law into one's own hands to dispense immediate justice",
+      "d": "Testifying truthfully in a court of law"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Taking the law into one's own hands** (jungle justice or vigilantism) bypasses the judicial system, denies the suspect a fair trial, and often leads to the death of innocent people.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "National Values Education",
+    "topic": "Observing and Reporting Common Crimes",
+    "question_text": "To effectively report a crime, an observer should ideally take note of all the following details **EXCEPT**:",
+    "options": {
+      "a": "The physical description of the perpetrators",
+      "b": "The time and exact location of the incident",
+      "c": "The political party affiliation of the victim",
+      "d": "The escape route or vehicle used by the criminals"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "When reporting a crime, details like physical descriptions, time, location, and escape routes are crucial for investigation. The **political affiliation** of the victim is irrelevant to the criminal investigation.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "National Values Education",
+    "topic": "Common Crimes and Associated Punishments",
+    "question_text": "According to standard penal laws, the supreme punishment associated with the crime of Murder is:",
+    "options": {
+      "a": "Life banishment from the country",
+      "b": "The Death penalty",
+      "c": "15 years imprisonment",
+      "d": "A heavy financial fine"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "In the Nigerian penal system, murder is a capital offence. The legally prescribed punishment upon conviction is the **death penalty**.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "National Values Education",
+    "topic": "Common Crimes and Associated Punishments",
+    "question_text": "What is the specific minimum prison term generally associated with the crime of Drug Trafficking according to penal classifications?",
+    "options": {
+      "a": "2 years imprisonment",
+      "b": "5 years imprisonment",
+      "c": "10 years imprisonment",
+      "d": "Life imprisonment without parole"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Standard civic and security education curricula stipulate **10 years imprisonment** as the associated benchmark punishment for offenders convicted of drug trafficking.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "National Values Education",
+    "topic": "Common Crimes and Associated Punishments",
+    "question_text": "A person found guilty of Human Trafficking is liable to a punishment of:",
+    "options": {
+      "a": "1 to 3 years imprisonment",
+      "b": "5 to 10 years imprisonment",
+      "c": "15 to 20 years imprisonment",
+      "d": "Death by firing squad"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The crime of human trafficking carries severe penalties. The prescribed punishment typically falls within the range of **5 to 10 years imprisonment**.",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "National Values Education",
+    "topic": "Common Crimes and Associated Punishments",
+    "question_text": "The most legally appropriate punishment prescribed for a person found guilty of Rape is:",
+    "options": {
+      "a": "Imprisonment",
+      "b": "Public flogging",
+      "c": "Suspension from work or school",
+      "d": "Forced marriage to the victim"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Rape** is a severe felony. Upon conviction, the offender is subjected to severe legal sanctions, most notably **imprisonment** (which can extend to life depending on aggravating factors).",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "National Values Education",
+    "topic": "Common Crimes and Associated Punishments",
+    "question_text": "Which Nigerian agency is legally empowered to track, arrest, and prosecute offenders involved in Drug Trafficking?",
+    "options": {
+      "a": "National Agency for Food and Drug Administration and Control (NAFDAC)",
+      "b": "National Drug Law Enforcement Agency (NDLEA)",
+      "c": "Economic and Financial Crimes Commission (EFCC)",
+      "d": "Independent Corrupt Practices Commission (ICPC)"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **NDLEA** (National Drug Law Enforcement Agency) is the federal agency in Nigeria tasked primarily with eliminating the growing, manufacturing, processing, trafficking, and exporting of hard drugs.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "National Values Education",
+    "topic": "Common Crimes and Associated Punishments",
+    "question_text": "The criminal act of secretly adding inferior, harmful, or cheaper substances to medical products is known as:",
+    "options": {
+      "a": "Drug Contamination/Adulteration",
+      "b": "Drug Trafficking",
+      "c": "Food Poisoning",
+      "d": "Substance Abuse"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Drug adulteration** involves altering a drug's original quality by adding inferior or toxic substances, thereby reducing its efficacy and endangering consumers' lives.",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "National Values Education",
+    "topic": "Common Crimes and Associated Punishments",
+    "question_text": "If an individual is found guilty of theft by a court of competent jurisdiction, the associated legal punishment is usually:",
+    "options": {
+      "a": "Capital punishment",
+      "b": "Imprisonment",
+      "c": "Exile from the community",
+      "d": "Confiscation of all family properties"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "For **theft**, the legally prescribed punitive measure is **imprisonment**. The duration of the imprisonment usually depends on the value of the stolen items and the circumstances.",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "National Values Education",
+    "topic": "Common Crimes and Associated Punishments",
+    "question_text": "Which of the following bodies helps to curb the crime of Food and Drug Contamination in Nigeria?",
+    "options": {
+      "a": "NEMA",
+      "b": "NAFDAC",
+      "c": "FRSC",
+      "d": "NAPTIP"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **National Agency for Food and Drug Administration and Control (NAFDAC)** regulates and controls the manufacture, importation, exportation, advertisement, distribution, sale, and use of food and drugs.",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "National Values Education",
+    "topic": "Common Crimes and Associated Punishments",
+    "question_text": "Why does the law associate severe punishments like 5–10 years imprisonment with Human Trafficking?",
+    "options": {
+      "a": "To reduce the population of people in the country",
+      "b": "To generate income for the government through bail money",
+      "c": "To serve as a strong deterrence because the crime degrades human dignity and violates basic human rights",
+      "d": "Because the police do not have enough holding cells"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Associated punishments serve a dual purpose: penalizing the offender and **deterring** others. Human trafficking severely violates human rights, justifying its strict penal consequence of 5 to 10 years imprisonment.",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "National Values Education",
+    "topic": "Emergency Management",
+    "question_text": "What is the primary meaning of Emergency Management?",
+    "options": {
+      "a": "Planning how to spend the annual national security budget",
+      "b": "Preparing for, responding to, mitigating, and recovering from unexpected life-threatening events",
+      "c": "Arresting criminals who intentionally cause emergencies in the community",
+      "d": "Building new specialized hospitals for sick people"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Emergency Management** refers to the organizational processes designed to effectively mitigate, prepare for, respond to, and recover from unforeseen catastrophic events or disasters.",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "National Values Education",
+    "topic": "Emergency Management",
+    "question_text": "Which of the following occurrences is classified as an emergency situation that requires immediate evacuation and the deployment of extinguishers?",
+    "options": {
+      "a": "A mild headache",
+      "b": "A fire outbreak in a building",
+      "c": "Construction of a new school",
+      "d": "A dispute between two neighbours"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **fire outbreak** is a critical emergency that poses an immediate risk to life, property, and the environment. It requires a rapid response, including evacuation and the use of fire suppression equipment like fire extinguishers.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "National Values Education",
+    "topic": "Emergency Management",
+    "question_text": "When an individual suffers respiratory impairment from being submerged or immersed in liquid, the resulting medical emergency is referred to as:",
+    "options": {
+      "a": "Drowning",
+      "b": "Food poisoning",
+      "c": "Asphyxiation by smoke",
+      "d": "Building collapse"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Drowning** happens when a person is unable to breathe because their mouth and nose are submerged in water or another liquid, necessitating immediate rescue and CPR (Cardiopulmonary Resuscitation).",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "National Values Education",
+    "topic": "Emergency Management",
+    "question_text": "What is the most appropriate first-response action for a citizen when a fatal road accident occurs?",
+    "options": {
+      "a": "Ignore the victims and continue traveling so as not to be delayed",
+      "b": "Contact the Federal Road Safety Corps (FRSC) and provide basic first aid if trained",
+      "c": "Take photographs of the bleeding victims to post on social media networks",
+      "d": "Attempt to aggressively pull severely injured victims from the wreckage immediately"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The correct response to an accident is to seek professional help by contacting relevant emergency agencies (like the **FRSC** or paramedics) and rendering safe, basic first aid if you are trained, while avoiding causing further spinal or physical injury to the victim.",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "National Values Education",
+    "topic": "Emergency Management",
+    "question_text": "The sudden failing or falling down of a physical structure due to the use of substandard construction materials is an emergency known as:",
+    "options": {
+      "a": "Arson",
+      "b": "Illegal bunkering",
+      "c": "Building collapse",
+      "d": "Pipeline vandalization"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **building collapse** occurs when the structural integrity of a building fails. It is a major emergency that often traps occupants, requiring heavy search and rescue operations.",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "National Values Education",
+    "topic": "Emergency Management",
+    "question_text": "Which Federal Government agency in Nigeria is primarily tasked with the responsibility of managing disasters and coordinating emergency responses?",
+    "options": {
+      "a": "Independent National Electoral Commission (INEC)",
+      "b": "National Emergency Management Agency (NEMA)",
+      "c": "Nigeria Police Force (NPF)",
+      "d": "Economic and Financial Crimes Commission (EFCC)"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **National Emergency Management Agency (NEMA)** is the designated government parastatal responsible for disaster management and coordinating emergency responses across Nigeria.",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "National Values Education",
+    "topic": "Emergency Management",
+    "question_text": "Consuming meals that contain harmful bacteria, viruses, parasites, or toxic chemicals can result in an emergency medical condition called:",
+    "options": {
+      "a": "Substance abuse",
+      "b": "Food poisoning",
+      "c": "Drug trafficking",
+      "d": "Anemia"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Food poisoning** (foodborne illness) is caused by eating contaminated, spoiled, or toxic food. Symptoms often require immediate medical management, especially in severe cases leading to severe dehydration.",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "National Values Education",
+    "topic": "Emergency Management",
+    "question_text": "The administration of fake or adulterated drugs often leads to severe adverse reactions. What is the appropriate emergency response when a victim reacts poorly to a drug?",
+    "options": {
+      "a": "Administer a larger dose of the same drug to override the pain",
+      "b": "Force the victim to drink large quantities of palm oil and wait it out",
+      "c": "Rush the victim to the nearest registered hospital or medical center immediately",
+      "d": "Keep the victim locked in a dark room until the reaction naturally subsides"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Adverse drug reactions from fake drugs can be fatal quickly. The only appropriate emergency response is to **seek professional medical help immediately** to administer proper antidotes and life support.",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "National Values Education",
+    "topic": "Emergency Management",
+    "question_text": "During a fire emergency in a school building, which of the following is the most standard and effective response procedure for students?",
+    "options": {
+      "a": "Hide under their desks and wait for the fire to put itself out",
+      "b": "Evacuate the building in an orderly and calm manner using designated emergency exits",
+      "c": "Run around the hallways screaming to alert others of the danger",
+      "d": "Take time to pack all heavy textbooks and bags before leaving the burning building"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "In any fire emergency, the primary objective is the preservation of human life. Students should evacuate calmly and quickly via **designated emergency exits** and gather at a safe assembly point.",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "National Values Education",
+    "topic": "Crimes and National Security",
+    "question_text": "What is the most accurate definition of **National Security**?",
+    "options": {
+      "a": "The protection of a nation's borders, citizens, economy, and institutions from both internal and external threats",
+      "b": "The amount of physical cash kept securely in the nation's central bank vaults",
+      "c": "The employment of armed security guards in every private citizen's home",
+      "d": "The strategy to ensure only politicians and government officials are safe from harm"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**National Security** refers to the requirement to maintain the survival of the state through the use of economic power, diplomacy, power projection, and political power to protect citizens and territorial integrity.",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "National Values Education",
+    "topic": "Crimes and National Security",
+    "question_text": "The deliberate and unlawful destruction or damaging of petroleum pipelines by criminals to siphon crude oil or refined products is termed:",
+    "options": {
+      "a": "Arson",
+      "b": "Pipeline Vandalization",
+      "c": "Human Trafficking",
+      "d": "Espionage"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Pipeline Vandalization** involves destroying petroleum infrastructure. It sabotages the nation's economy, causes massive environmental pollution, and frequently leads to tragic fires.",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "National Values Education",
+    "topic": "Crimes and National Security",
+    "question_text": "How does **Illegal Bunkering** predominantly affect the national security of the nation?",
+    "options": {
+      "a": "It increases the country's foreign exchange reserves significantly.",
+      "b": "It provides safe and lawful employment for idle youths in riverine areas.",
+      "c": "It results in a massive loss of national revenue and fuels economic instability.",
+      "d": "It strengthens the value of the national currency."
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "**Illegal Bunkering** (oil theft) drains billions in revenue from the government, depriving the state of funds needed for development and security infrastructure, thus directly undermining national security.",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "National Values Education",
+    "topic": "Crimes and National Security",
+    "question_text": "The unlawful use of violence, intimidation, and indiscriminate bombings by extremist groups to create widespread fear in pursuit of ideological aims is defined as:",
+    "options": {
+      "a": "Activism",
+      "b": "Terrorism",
+      "c": "Vandalism",
+      "d": "Smuggling"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Terrorism** creates a state of fear and panic within a nation. It targets civilians and national infrastructure, constituting one of the highest threats to national security.",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "National Values Education",
+    "topic": "Crimes and National Security",
+    "question_text": "Which of the following crimes involves the malicious, deliberate, and unlawful setting of fire to buildings, property, or national infrastructure?",
+    "options": {
+      "a": "Fraud",
+      "b": "Burglary",
+      "c": "Arson",
+      "d": "Contraband trading"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Arson** is the criminal act of deliberately setting fire to property. When directed at public utilities or government buildings, it threatens public safety and national security.",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "National Values Education",
+    "topic": "Crimes and National Security",
+    "question_text": "Why does the **importation of expired foods and fake drugs** pose a direct threat to national security?",
+    "options": {
+      "a": "It undermines public health, causing high mortality rates and straining the healthcare system.",
+      "b": "It creates excessive traffic gridlocks at the national seaports.",
+      "c": "It makes locally produced food too cheap for indigenous farmers to make any profit.",
+      "d": "It discourages the use of traditional herbs in the communities."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "A healthy population is foundational to a secure nation. The influx of **expired foods and fake drugs** jeopardizes citizens' health, leading to widespread fatalities, which threatens the human capital and security of the country.",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "National Values Education",
+    "topic": "Crimes and National Security",
+    "question_text": "The illicit trade involving the recruitment, transportation, harboring, or receipt of persons using force or deception for the purpose of forced labor or sexual exploitation is called:",
+    "options": {
+      "a": "Human Trafficking",
+      "b": "Drug Trafficking",
+      "c": "Kidnapping",
+      "d": "Illegal Emigration"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Human Trafficking** reduces human beings to commodities. It strips individuals of their basic rights and dignities and is recognized internationally as a grave violation of human rights and national security.",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "National Values Education",
+    "topic": "Crimes and National Security",
+    "question_text": "Which specialized Nigerian agency is legally mandated and equipped to combat the crime of human trafficking?",
+    "options": {
+      "a": "National Agency for Food and Drug Administration and Control (NAFDAC)",
+      "b": "National Agency for the Prohibition of Trafficking in Persons (NAPTIP)",
+      "c": "Independent Corrupt Practices Commission (ICPC)",
+      "d": "Federal Road Safety Corps (FRSC)"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**NAPTIP** was created by the Federal Government of Nigeria specifically to tackle human trafficking and to protect and rehabilitate the victims of this heinous crime.",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "National Values Education",
+    "topic": "Crimes and National Security",
+    "question_text": "Acts of terrorism drastically undermine the internal security of a nation primarily by causing:",
+    "options": {
+      "a": "Increased funding for political campaigns and public rallies",
+      "b": "Mass destruction of lives and properties, leading to the displacement of citizens (IDPs)",
+      "c": "Better diplomatic relations with neighboring countries",
+      "d": "Economic stability through increased arms manufacturing"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The primary effect of **terrorism** is destruction. It causes deaths, wipes out properties, creates humanitarian crises (such as Internally Displaced Persons - IDPs), and diverts national funds away from development.",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "National Values Education",
+    "topic": "Crimes and National Security",
+    "question_text": "How can a responsible citizen best demonstrate awareness and actively contribute to the promotion of national security?",
+    "options": {
+      "a": "By circulating unverified security rumors and fake news to alert the public",
+      "b": "By hiding and protecting suspected terrorists if they happen to be family members",
+      "c": "By remaining vigilant and promptly reporting any suspicious activities to appropriate law enforcement agencies",
+      "d": "By arming themselves with illegal weapons to fight crime on the streets"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Citizens demonstrate awareness by partnering with state institutions. Providing timely intelligence by **reporting suspicious activities** to agencies (like the Police or DSS) helps preempt and neutralize security threats.",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "National Values Education",
+    "topic": "Crimes and National Security",
+    "question_text": "In what major way does rampant **Drug Trafficking** compromise a nation's security and global reputation?",
+    "options": {
+      "a": "It fosters violent criminal cartels, funds terrorism, and significantly tarnishes the country's image globally.",
+      "b": "It artificially reduces the cost of orthodox medical care in local hospitals.",
+      "c": "It forces agricultural sectors to shift entirely to pharmaceutical manufacturing.",
+      "d": "It provides rapid intellectual enhancement for youths who abuse the drugs."
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "**Drug trafficking** injects immense illicit wealth into the system, which is often used to fund violent gangs, bribe officials, and even sponsor terrorism. Furthermore, it causes other nations to distrust and penalize citizens of the trafficking country.",
+    "section_id": null
+  }
+]

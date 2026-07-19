@@ -2238,5 +2238,186 @@
       ]
     },
     "path": "configs/wassce.json"
+  },
+  "rrb-group-d": {
+    "path": "configs/rrb-group-d.json",
+    "meta": {
+      "examId": "RRB_GROUP_D",
+      "fullName": "Railway Recruitment Board Group D (Level-1) Examination",
+      "shortName": "RRB Group D",
+      "category": "Government Recruitment — Indian Railways",
+      "conductingBody": "Railway Recruitment Boards (RRBs), Ministry of Railways, Government of India",
+      "country": "India",
+      "examType": [
+        "Government Recruitment",
+        "Computer Based Test",
+        "CBT"
+      ],
+      "description": "RRB Group D is a nationwide, centralised recruitment exam conducted by the 21 Railway Recruitment Boards for Level-1 posts (Track Maintainer, Pointsman, Assistant — Bridge/S&T/P.Way/C&W/TRD/TL&AC/Operations/Track Machine/Loco Shed) in Indian Railways. The ongoing cycle, CEN No. 09/2025, covers 22,195 vacancies; its Computer Based Test is scheduled from 3 to 21 August 2026.",
+      "officialWebsite": "https://www.rrbapply.gov.in",
+      "isOfficial": true,
+      "lastUpdated": "2026-07-16",
+      "seoTitle": "RRB Group D Exam 2026: Free Mock Tests, Previous Year Papers & CBT Prep Guide",
+      "seoDescription": "Crack RRB Group D 2026 (CEN 09/2025) with free online CBT mock tests, previous year question papers, exam pattern, syllabus, and preparation strategies. Start practicing now!",
+      "relatedBlogTags": [
+        "RRB Group D",
+        "Railway Recruitment"
+      ],
+      "heroStats": [
+        { "label": "Vacancies", "value": "22,195" },
+        { "label": "Pay Level", "value": "Level-1 (₹18,000)" },
+        { "label": "Age Limit", "value": "18–33 yrs" },
+        { "label": "Exam Mode", "value": "CBT" }
+      ],
+      "importantDates": [
+        {
+          "event": "CEN 09/2025 Notification Released",
+          "date": "2026-01-30",
+          "status": "past"
+        },
+        {
+          "event": "Online Application Window",
+          "date": "2026-01-31 to 2026-03-09",
+          "note": "Originally due 2 March 2026; extended to 9 March 2026.",
+          "status": "past"
+        },
+        {
+          "event": "Application Correction Window",
+          "date": "2026-03-05 to 2026-03-14",
+          "note": "Modification fee: ₹250 per occasion.",
+          "status": "past"
+        },
+        {
+          "event": "Application Status Released",
+          "date": "2026-07-09",
+          "note": "Check acceptance status via candidate login before the CBT.",
+          "status": "past"
+        },
+        {
+          "event": "Exam Schedule Notice Published",
+          "date": "2026-07-03",
+          "status": "past"
+        },
+        {
+          "event": "City Intimation Slip",
+          "date": "2026-07-25",
+          "note": "Released roughly 9-10 days before each candidate's exam date.",
+          "status": "upcoming"
+        },
+        {
+          "event": "Admit Card Release",
+          "date": "2026-07-31",
+          "note": "Released about 4 days before each candidate's exam date.",
+          "status": "upcoming"
+        },
+        {
+          "event": "CBT Exam Window",
+          "date": "2026-08-03 to 2026-08-21",
+          "note": "Multiple shifts across 200+ centres; individual date/shift shown on the City Intimation Slip.",
+          "status": "upcoming"
+        },
+        {
+          "event": "Physical Efficiency Test (PET)",
+          "date": "To be notified",
+          "note": "For CBT-qualified candidates; schedule released separately by regional RRBs.",
+          "status": "upcoming"
+        },
+        {
+          "event": "Document Verification & Medical Examination",
+          "date": "To be notified",
+          "status": "upcoming"
+        }
+      ],
+      "admitCard": {
+        "info": "Admit cards are released roughly 4 days before each candidate's individual CBT date on the respective regional RRB's candidate login portal. A separate City Intimation Slip (with exam city, date and shift) is released about 9-10 days before the exam. Mandatory Aadhaar-linked biometric authentication is conducted at the exam centre.",
+        "url": "https://www.rrbapply.gov.in"
+      },
+      "resultInfo": {
+        "info": "CBT results, scorecards and cut-offs are published zone-wise as PDFs on the respective regional RRB websites; no email/SMS result intimation is sent. Candidates must check using their registration credentials.",
+        "url": "https://www.rrbapply.gov.in"
+      },
+      "officialLinks": [
+        { "label": "RRB Centralised Application Portal", "url": "https://www.rrbapply.gov.in" }
+      ],
+      "keyFacts": [
+        { "label": "Recruitment Cycle", "value": "CEN No. 09/2025" },
+        { "label": "Total Vacancies", "value": "22,195 (Level-1 posts)" },
+        { "label": "Mode", "value": "Computer Based Test (CBT)" },
+        { "label": "Duration", "value": "90 minutes (120 minutes for PwBD candidates with a scribe)" },
+        { "label": "Total Questions / Marks", "value": "100 questions / 100 marks" },
+        { "label": "Negative Marking", "value": "1/3 mark deducted per wrong answer" },
+        { "label": "Exam Languages", "value": "English, Hindi + 13 regional languages (15 total)" },
+        { "label": "Application Fee", "value": "₹500 (UR/OBC, ₹400 refundable) | ₹250 (SC/ST/PwBD/Women/Ex-SM/Transgender/Minorities/EBC, fully refundable) — refunded after appearing in CBT" },
+        { "label": "Starting Pay", "value": "₹18,000/month (Level-1, 7th CPC Pay Matrix) + allowances" }
+      ],
+      "eligibility": [
+        "Indian citizen, or a citizen of Nepal/Bhutan, or a Tibetan refugee (pre-1962), or a person of Indian origin migrated from specified countries with intent to permanently settle in India",
+        "Educational qualification: Class 10th (Matriculation) pass, OR ITI (NCVT/SCVT), OR National Apprenticeship Certificate (NAC) granted by NCVT, OR Course Completed Act Apprentices",
+        "Candidates awaiting their final qualifying-exam result are NOT eligible to apply — the qualification must be held on or before the application closing date",
+        "Age: 18 to 33 years as on 01.01.2026 (the notified crucial date)",
+        "Age relaxation: 3 years for OBC (Non-Creamy Layer), 5 years for SC/ST, additional relaxation for PwBD, Ex-Servicemen and other categories notified by the Government of India",
+        "CCAA (Course Completed Act Apprentices)-certified candidates are separately eligible under the CCAA quota"
+      ],
+      "examPattern": [
+        { "label": "Stages", "value": "CBT → Physical Efficiency Test (PET, qualifying) → Document Verification → Medical Examination" },
+        { "label": "CBT Structure", "value": "Single stage (Railway Administration reserves the right to hold it in single or multiple stages)" },
+        { "label": "General Science", "value": "25 questions" },
+        { "label": "Mathematics", "value": "25 questions" },
+        { "label": "General Intelligence & Reasoning", "value": "30 questions" },
+        { "label": "General Awareness & Current Affairs", "value": "20 questions" },
+        { "label": "Marking Scheme", "value": "+1 for each correct answer" },
+        { "label": "Negative Marking", "value": "-1/3 mark for each wrong answer; no penalty for unattempted questions" },
+        { "label": "Minimum Qualifying Marks", "value": "UR/EWS: 40% | OBC-NCL/SC/ST: 30% (subject to final notified normalisation)" }
+      ],
+      "syllabusOverview": [
+        {
+          "subject": "General Science",
+          "topics": "Class 10-level Physics (motion, force, work/energy/power, sound, light, electricity, magnetism), Chemistry (matter, atomic structure, chemical reactions, metals & non-metals, carbon compounds, acids/bases/salts), Life Sciences (cell biology, human body systems, nutrition, diseases, plants, ecology)"
+        },
+        {
+          "subject": "Mathematics",
+          "topics": "Number System, BODMAS, Decimals & Fractions, LCM & HCF, Ratio & Proportion, Percentages, Mensuration, Time & Work, Time & Distance, Simple & Compound Interest, Profit & Loss, Algebra, Geometry & Trigonometry, Elementary Statistics, Square Roots, Age Calculations, Calendar & Clock, Pipes & Cisterns"
+        },
+        {
+          "subject": "General Intelligence & Reasoning",
+          "topics": "Analogies, Alphabetical & Number Series, Coding-Decoding, Mathematical Operations, Relationships, Syllogism, Jumbling, Venn Diagrams, Data Interpretation & Sufficiency, Conclusions & Decision Making, Similarities & Differences, Analytical Reasoning, Classification, Directions & Distances, Statement & Arguments"
+        },
+        {
+          "subject": "General Awareness & Current Affairs",
+          "topics": "Current events of national/international importance, Science & technology developments, Indian history, culture & geography, Indian polity, economy and general administration, Sports, and Railway-related general knowledge"
+        }
+      ],
+      "relatedExams": [
+        "rrb",
+        "rrb-ntpc",
+        "rrb-alp"
+      ],
+      "faqs": [
+        {
+          "question": "What is the RRB Group D exam date for 2026?",
+          "answer": "Under CEN 09/2025, the CBT is scheduled from 3 August to 21 August 2026 across multiple shifts and 200+ centres nationwide, as per the official notice dated 3 July 2026. Individual candidates get their exact date/shift via the City Intimation Slip."
+        },
+        {
+          "question": "How many vacancies are there in RRB Group D 2026 (CEN 09/2025)?",
+          "answer": "A total of 22,195 Level-1 vacancies are notified across posts such as Track Maintainer Grade-IV, Pointsman, and various Assistant (Bridge/S&T/P.Way/C&W/TRD/TL&AC/Operations/Track Machine/Loco Shed) roles."
+        },
+        {
+          "question": "What is the eligibility for RRB Group D?",
+          "answer": "Candidates need a Class 10 pass, ITI (NCVT/SCVT), or National Apprenticeship Certificate, and must be 18-33 years old as on 1 January 2026, with standard age relaxation for OBC-NCL, SC/ST, PwBD and other notified categories."
+        },
+        {
+          "question": "Is there negative marking in the RRB Group D CBT?",
+          "answer": "Yes. One-third (1/3) of a mark is deducted for every incorrect answer in the 100-question, 90-minute CBT. Unattempted questions carry no penalty."
+        },
+        {
+          "question": "What is the RRB Group D selection process?",
+          "answer": "Selection has four stages: the Computer Based Test (CBT), a qualifying Physical Efficiency Test (PET), Document Verification, and a Medical Examination. Only the CBT score is used for the merit list; PET is qualifying in nature."
+        },
+        {
+          "question": "What is the starting salary for RRB Group D posts?",
+          "answer": "Selected candidates start at Level-1 of the 7th CPC Pay Matrix with an initial basic pay of ₹18,000 per month, plus HRA, DA, TA and other allowances admissible to central government employees."
+        }
+      ]
+    }
   }
 }

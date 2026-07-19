@@ -1,0 +1,1602 @@
+[
+  {
+    "question_number": 1,
+    "subject": "General Science",
+    "topic": "Physics",
+    "question_text": "Which of the following statements is correct?",
+    "options": {
+      "a": "Work done can only be negative.",
+      "b": "Work done can be positive or negative depending on the direction of force.",
+      "c": "Work done does not depend on force or displacement.",
+      "d": "Work done can only be positive."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Work done is a scalar product of force and displacement ($W = F \\cdot d \\cos(\\theta)$). Depending on the angle $\\theta$ between the force and displacement vectors, the work done can be positive, negative, or zero.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "General Science",
+    "topic": "Biology",
+    "question_text": "Through which method of cell division are the diploid chromosomes divided into haploid gametes?",
+    "options": {
+      "a": "Mitosis",
+      "b": "Binary Fission",
+      "c": "Amitosis",
+      "d": "Meiosis"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Meiosis is a reductional division process where a single cell divides twice to produce four cells containing half the original amount of genetic information (haploid gametes).",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "General Science",
+    "topic": "Physics",
+    "question_text": "The power of a lens is defined as:",
+    "options": {
+      "a": "The reciprocal of its focal length in meters",
+      "b": "The ratio of image distance to object distance",
+      "c": "The product of its focal length and refractive index",
+      "d": "The square of its focal length"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The power of a lens is mathematically defined as the reciprocal of its focal length expressed in meters ($P = \\frac{1}{f}$).",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "General Science",
+    "topic": "Physics",
+    "question_text": "When a thick glass slab is placed over printed matter, the letters appear raised. This is due to ___________.",
+    "options": {
+      "a": "Scattering of light",
+      "b": "Refraction of light",
+      "c": "Total internal reflection",
+      "d": "Polarization of light"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "When light travels from a denser medium (glass slab) to a rarer medium (air), it bends away from the normal. This bending of light is called refraction, which causes the letters to appear raised.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "General Science",
+    "topic": "Physics",
+    "question_text": "The motion of a satellite orbiting the Earth in a circular path at constant speed is a classic example of uniform circular motion. What property of this motion prevents its acceleration from being zero?",
+    "options": {
+      "a": "The total mechanical energy is conserved, necessitating acceleration.",
+      "b": "The direction of motion changes continuously at every point, meaning the velocity is changing.",
+      "c": "The object's mass continually changes due to orbital dynamics.",
+      "d": "The speed is too high for the gravitational force to sustain a constant velocity."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "In uniform circular motion, although the speed is constant, the direction of motion continuously changes. Since velocity is a vector quantity, a change in direction means a change in velocity, thus yielding a non-zero centripetal acceleration.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "General Science",
+    "topic": "Biology",
+    "question_text": "Asthma primarily affects which part of the respiratory system?",
+    "options": {
+      "a": "Diaphragm",
+      "b": "Bronchi and bronchioles",
+      "c": "Trachea",
+      "d": "Alveoli"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Asthma is a chronic respiratory condition that causes inflammation and narrowing of the airways, primarily affecting the bronchi and bronchioles.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "General Science",
+    "topic": "Physics",
+    "question_text": "Which of the following describes an example of uniform circular motion?",
+    "options": {
+      "a": "A train moving on its track",
+      "b": "A car accelerating on its way",
+      "c": "A ball thrown vertically upwards",
+      "d": "A fan blade rotating at constant speed"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "A fan blade rotating at a constant speed travels in a circular path at a steady rate, perfectly describing uniform circular motion.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "General Science",
+    "topic": "Biology",
+    "question_text": "During reproduction, why is it important to create DNA copies?",
+    "options": {
+      "a": "For blood circulation",
+      "b": "For digestion",
+      "c": "For inheritance of traits",
+      "d": "For respiration"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "DNA copying (replication) is essential in reproduction because it ensures that the newly formed cells receive an exact copy of the genetic material, which is critical for the inheritance of traits from parents to offspring.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "question_text": "What happens when a naphthalene ball is burnt in a metal plate in open space?",
+    "options": {
+      "a": "It burns with a blue flame.",
+      "b": "It burns with yellow flame with no deposit on the metal plate.",
+      "c": "It burns with a yellow flame with black soot deposited on the metal plate.",
+      "d": "It burns with a blue flame with black soot deposited on the metal plate."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Naphthalene is an aromatic hydrocarbon. Due to its high carbon-to-hydrogen ratio, it undergoes incomplete combustion in the air, producing a yellow, sooty flame and depositing black soot.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "General Science",
+    "topic": "Biology",
+    "question_text": "When water and nutrients are available, algae grow and multiply rapidly by the process of __________.",
+    "options": {
+      "a": "spore formation",
+      "b": "pollination",
+      "c": "fragmentation",
+      "d": "budding"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Algae typically reproduce vegetatively by fragmentation, where each fragment grows into a new individual rapidly when favorable conditions (water and nutrients) are present.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "General Science",
+    "topic": "Physics",
+    "question_text": "A coil has a resistance of $44 \\Omega$. If it is connected across a 220 V supply, what is the power consumed by the coil?",
+    "options": {
+      "a": "5 W",
+      "b": "1100 W",
+      "c": "110 W",
+      "d": "0.2 W"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Power is given by the formula $P = \\frac{V^2}{R}$. Substituting the values: $P = \\frac{220^2}{44} = \\frac{48400}{44} = 1100\\text{ W}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "General Science",
+    "topic": "Biology",
+    "question_text": "Which of the following options best describes the term Culture Fishery?",
+    "options": {
+      "a": "Catching fishes from marine water",
+      "b": "Capturing fishes from artificial resources",
+      "c": "Farming of the fishes",
+      "d": "Capturing fishes from natural resources"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Culture fishery (or aquaculture) refers to the rearing and farming of fishes under controlled conditions.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "General Science",
+    "topic": "Physics",
+    "question_text": "A body is dropped from a height. If it falls for 3.0 s and $g = 10\\text{ m/s}^2$, its final velocity (v) is ____________.",
+    "options": {
+      "a": "10 m/s",
+      "b": "30 m/s",
+      "c": "40 m/s",
+      "d": "20 m/s"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Using the first equation of motion, $v = u + gt$. Because the object is dropped, initial velocity $u = 0$. So, $v = 0 + (10)(3.0) = 30\\text{ m/s}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "question_text": "What happens when a zinc rod is placed in aqueous copper sulphate solution?",
+    "options": {
+      "a": "The blue colour of the copper sulphate solution fades.",
+      "b": "The temperature of the solution falls.",
+      "c": "Heat is required to start the reaction.",
+      "d": "No chemical change observed."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Zinc is more reactive than copper, so it displaces copper from the copper sulphate solution. This displacement reaction forms zinc sulphate, which is colourless, thus causing the blue colour of the solution to fade.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "question_text": "The fractional atomic mass of chlorine is due to which of the following?",
+    "options": {
+      "a": "Presence of ions",
+      "b": "Presence of isotopes",
+      "c": "Its compound nature",
+      "d": "Experimental error"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Fractional atomic masses occur because most elements exist as a mixture of isotopes with different masses. The atomic mass is the weighted average of the isotopic masses.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "question_text": "The functional group which does NOT contain oxygen hetero atom is:",
+    "options": {
+      "a": "halo alkane",
+      "b": "ketone",
+      "c": "carboxylic acid",
+      "d": "alcohol"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Haloalkanes contain halogen atoms (such as chlorine, fluorine, bromine, or iodine) as the hetero atom, not oxygen. Ketones, carboxylic acids, and alcohols all contain oxygen.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "question_text": "What is the main role of micelles in the cleansing action of soap?",
+    "options": {
+      "a": "To trap and remove oil and dirt from clothes",
+      "b": "To reduce the hardness of water",
+      "c": "To produce lather with water",
+      "d": "To increase the surface tension of water"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Soap molecules form structures called micelles, where the hydrophobic ends attach to the oil and dirt particles, entrapping them in the center so they can be washed away in the water.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "General Science",
+    "topic": "Biology",
+    "question_text": "Which poultry are birds farmed to produce eggs?",
+    "options": {
+      "a": "Milch",
+      "b": "Common carp",
+      "c": "Layers",
+      "d": "Broilers"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "In poultry farming, birds that are raised specifically for egg production are known as 'layers', while those raised for meat are called 'broilers'.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "General Science",
+    "topic": "Physics",
+    "question_text": "Statement 1: The potential difference is measured in volts.\nStatement 2: One volt is equal to one newton per coulomb.\nWhich of the following is true?",
+    "options": {
+      "a": "Both Statements 1 and 2 are correct.",
+      "b": "Only Statement 2 is correct.",
+      "c": "Both Statements 1 and 2 are incorrect.",
+      "d": "Only Statement 1 is correct."
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Statement 1 is correct (potential difference is indeed measured in volts). Statement 2 is incorrect because one volt is defined as one joule per coulomb ($1\\text{ V} = 1\\text{ J/C}$), not one newton per coulomb.",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "General Science",
+    "topic": "Physics",
+    "question_text": "The frequency of a sound wave is 50 Hz. How much time will it take to complete one wave?",
+    "options": {
+      "a": "50 s",
+      "b": "0.02 s",
+      "c": "0.2 s",
+      "d": "5 s"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The time required to complete one wave is the time period ($T$). The relationship between time period and frequency ($f$) is $T = \\frac{1}{f}$. Given $f = 50\\text{ Hz}$, $T = \\frac{1}{50} = 0.02\\text{ s}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "question_text": "Which of the following statements best explains the Law of Constant Proportions?",
+    "options": {
+      "a": "Elements are always found in random ratios in a compound.",
+      "b": "Atoms can be divided into smaller particles during a reaction.",
+      "c": "Mass can neither be created nor destroyed in a chemical reaction.",
+      "d": "A chemical compound always contains the same elements in the same proportion by mass."
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "The Law of Constant Proportions states that a given chemical compound always contains its component elements in fixed ratio (by mass) and does not depend on its source and method of preparation.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "question_text": "Which of the following is NOT used for expressing the concentration of a solution?",
+    "options": {
+      "a": "Volume by Volume percentage of a solution",
+      "b": "Volume by Mass percentage of a solution",
+      "c": "Mass by volume percentage of a solution",
+      "d": "Mass by mass percentage of a solution"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Volume by mass percentage is generally not a standard unit for expressing concentration. Standard units include mass by mass (w/w), mass by volume (w/v), and volume by volume (v/v) percentage.",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "General Science",
+    "topic": "Biology",
+    "question_text": "Which of the following plant tissue performs photosynthesis?",
+    "options": {
+      "a": "Chlorenchyma",
+      "b": "Sclerenchyma",
+      "c": "Xylem",
+      "d": "Phloem"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Chlorenchyma is a specialized type of parenchyma tissue that contains chloroplasts, and is therefore capable of performing photosynthesis.",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "General Science",
+    "topic": "Biology",
+    "question_text": "Which of the following life processes is important to bring variation in species?",
+    "options": {
+      "a": "Heterotrophic nutrition",
+      "b": "Transportation",
+      "c": "Autotrophic nutrition",
+      "d": "Sexual reproduction"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Sexual reproduction involves the fusion of male and female gametes, combining genetic material from two parents which creates genetic variation in the resulting offspring.",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "question_text": "Which of the following metals is extracted in the middle of the activity series?",
+    "options": {
+      "a": "Gold",
+      "b": "Potassium",
+      "c": "Iron",
+      "d": "Sodium"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Metals like iron, zinc, and lead fall in the middle of the reactivity series. They are moderately reactive and are typically extracted by reducing their oxides with carbon.",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "question_text": "P is any point inside the rectangle ABCD. If PA = 98 cm, PB = 91 cm and PC = 21 cm, then the length of PD (in cm) is equal to:",
+    "options": {
+      "a": "38",
+      "b": "41",
+      "c": "46",
+      "d": "42"
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "For any point P inside a rectangle ABCD, the sum of the squares of distances to opposite vertices are equal: $PA^2 + PC^2 = PB^2 + PD^2$. Substituting the given values: $98^2 + 21^2 = 91^2 + PD^2 \\Rightarrow 9604 + 441 = 8281 + PD^2 \\Rightarrow 10045 = 8281 + PD^2 \\Rightarrow PD^2 = 1764$. Taking the square root gives $PD = 42\\text{ cm}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "Mathematics",
+    "topic": "Coordinate Geometry",
+    "question_text": "The vertices of a convex pentagon (in order) are P(0,0), Q(6,0), R(8,3), S(4,7), T(0,4). Find the area of the pentagon.",
+    "options": {
+      "a": "42 sq. units",
+      "b": "36 sq. units",
+      "c": "39 sq. units",
+      "d": "45 sq. units"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Using the Shoelace formula for area: Area $= \\frac{1}{2} |(x_1y_2 + x_2y_3 + x_3y_4 + x_4y_5 + x_5y_1) - (y_1x_2 + y_2x_3 + y_3x_4 + y_4x_5 + y_5x_1)|$. Let vertices be $(0,0), (6,0), (8,3), (4,7), (0,4)$. Sum 1: $(0)(0) + (6)(3) + (8)(7) + (4)(4) + (0)(0) = 0 + 18 + 56 + 16 + 0 = 90$. Sum 2: $(0)(6) + (0)(8) + (3)(4) + (7)(0) + (4)(0) = 0 + 0 + 12 + 0 + 0 = 12$. Area $= \\frac{1}{2} |90 - 12| = \\frac{1}{2} (78) = 39\\text{ sq. units}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "Mathematics",
+    "topic": "Ratio and Proportion",
+    "question_text": "A metal rod is divided into three parts, A, B and C. The lengths of A and B are in the ratio 9 : 20, and the lengths of C and B are in the ratio 5 : 11. If the difference between the lengths of A and C is 10 cm, find the total length (in cm) of the metal rod.",
+    "options": {
+      "a": "4202",
+      "b": "4199",
+      "c": "4190",
+      "d": "4180"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Given $A:B = 9:20$ and $C:B = 5:11$. To equate B's ratio, multiply the first by 11 and the second by 20. Then $A:B = 99:220$ and $C:B = 100:220$. The combined ratio is $A:B:C = 99:220:100$. Let lengths be $99x, 220x, 100x$. The difference between A and C is $100x - 99x = 1x = 10\\text{ cm}$. Total length $= (99 + 220 + 100)x = 419x = 419 \\times 10 = 4190\\text{ cm}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "Mathematics",
+    "topic": "Ages",
+    "question_text": "Soniya got married 15 years ago. Her present age is 8/5 times her age at the time of her marriage. Her sister was 8 years younger to her at the time of her marriage. Find the present age of her sister.",
+    "options": {
+      "a": "32 years",
+      "b": "24 years",
+      "c": "40 years",
+      "d": "28 years"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Let Soniya's present age be $S$. Her age at marriage was $S - 15$. We have $S = \\frac{8}{5}(S - 15) \\Rightarrow 5S = 8S - 120 \\Rightarrow 3S = 120 \\Rightarrow S = 40$. Soniya's age at marriage was $40 - 15 = 25$ years. Her sister was $25 - 8 = 17$ years old then. The sister's present age is $17 + 15 = 32$ years.",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "Mathematics",
+    "topic": "Averages",
+    "question_text": "The average age of 26 students of a class is 26 years. If the age of the teacher is also included, the average age of the whole group becomes 27 years. The age (in years) of the teacher is:",
+    "options": {
+      "a": "54",
+      "b": "50",
+      "c": "57",
+      "d": "53"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Total age of 26 students $= 26 \\times 26 = 676$. If the teacher is included, there are 27 people. Total age of 27 people $= 27 \\times 27 = 729$. Age of the teacher $= 729 - 676 = 53$ years.",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "Mathematics",
+    "topic": "Simplification",
+    "question_text": "If $\\Delta \\times 2.2 + 0.33 \\times \\frac{3}{4} - \\frac{1}{20} \\times 0.55 = 0.99$, then the value of $\\Delta$ is:",
+    "options": {
+      "a": "0.35",
+      "b": "1",
+      "c": "0.25",
+      "d": "0"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Convert fractions to decimals: $\\frac{3}{4} = 0.75$ and $\\frac{1}{20} = 0.05$. Equation becomes: $\\Delta \\times 2.2 + (0.33 \\times 0.75) - (0.05 \\times 0.55) = 0.99$. $\\Rightarrow \\Delta \\times 2.2 + 0.2475 - 0.0275 = 0.99$. $\\Rightarrow \\Delta \\times 2.2 + 0.22 = 0.99$. $\\Rightarrow \\Delta \\times 2.2 = 0.99 - 0.22 = 0.77$. $\\Rightarrow \\Delta = \\frac{0.77}{2.2} = 0.35$.",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "Mathematics",
+    "topic": "Percentages",
+    "question_text": "If 20% of a number is added to 90, then the result is the same number. 80% of the same number is:",
+    "options": {
+      "a": "90",
+      "b": "120",
+      "c": "110",
+      "d": "100"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Let the number be $x$. $0.20x + 90 = x \\Rightarrow x - 0.20x = 90 \\Rightarrow 0.80x = 90$. Thus, 80% of the number ($0.80x$) is exactly 90.",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "Mathematics",
+    "topic": "Time, Speed and Distance",
+    "question_text": "Smriti goes to a shopping mall at a speed of 21 km/hr and returns at a speed of 69 km/hr. Find her average speed (in km/hr) for the entire trip.",
+    "options": {
+      "a": "40.2",
+      "b": "30.3",
+      "c": "32.2",
+      "d": "23.4"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "For equal distances, the average speed is given by the formula $\\frac{2v_1v_2}{v_1 + v_2}$. Plugging in the values: $\\frac{2 \\times 21 \\times 69}{21 + 69} = \\frac{2898}{90} = 32.2\\text{ km/hr}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "Mathematics",
+    "topic": "Profit and Loss",
+    "question_text": "An article was bought for ₹8,900. Its price was marked up by 40%. Thereafter, it was sold at a discount of 5% on the marked price. What was the profit percentage on the transaction?",
+    "options": {
+      "a": "32%",
+      "b": "34%",
+      "c": "35%",
+      "d": "33%"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Let the Cost Price (CP) be $100\\%$. Marked Price (MP) $= 100\\% + 40\\% = 140\\%$. Selling Price (SP) $= MP - 5\\%$ of MP $= 140\\% - (0.05 \\times 140\\%) = 140\\% - 7\\% = 133\\%$. The profit percentage $= SP - CP = 133\\% - 100\\% = 33\\%$. The initial value ₹8,900 is not needed if only the percentage is asked.",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "question_text": "If $p = 6$, $q = -3$, then the value of $p^3 - 3p^2 + 3p + 3q + 3q^2 + q^3$ is:",
+    "options": {
+      "a": "–61",
+      "b": "61",
+      "c": "117",
+      "d": "–117"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "The expression can be rewritten by completing the cubes. $(p - 1)^3 = p^3 - 3p^2 + 3p - 1 \\Rightarrow p^3 - 3p^2 + 3p = (p - 1)^3 + 1$. Also, $(q + 1)^3 = q^3 + 3q^2 + 3q + 1 \\Rightarrow q^3 + 3q^2 + 3q = (q + 1)^3 - 1$. Adding both gives $(p - 1)^3 + 1 + (q + 1)^3 - 1 = (p - 1)^3 + (q + 1)^3$. Substitute $p=6$ and $q=-3$: $(6 - 1)^3 + (-3 + 1)^3 = 5^3 + (-2)^3 = 125 - 8 = 117$.",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "Mathematics",
+    "topic": "Ratio and Proportion",
+    "question_text": "Which of the following ratios is equivalent to 3 : 2?",
+    "options": {
+      "a": "53 : 38",
+      "b": "51 : 37",
+      "c": "52 : 34",
+      "d": "54 : 36"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Simplify option D: Both $54$ and $36$ are divisible by $18$. $54 / 18 = 3$ and $36 / 18 = 2$. Therefore, $54 : 36 = 3 : 2$.",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "Mathematics",
+    "topic": "Percentages",
+    "question_text": "The cost of a washing machine is 40% less than the cost of a TV. If the cost of the washing machine increases by 52% and that of the TV decreases by 76%, then what is the percentage change in the total cost of 5 washing machines and 2 TVs?",
+    "options": {
+      "a": "Decrease by 3%",
+      "b": "Decrease by 2%",
+      "c": "Increase by 0.8%",
+      "d": "Increase by 5%"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Let the cost of one TV be 100. Then the washing machine costs 60. Old total cost $= 5 \\times 60 + 2 \\times 100 = 300 + 200 = 500$. New washing machine cost $= 60 \\times (1 + 0.52) = 60 \\times 1.52 = 91.2$. New TV cost $= 100 \\times (1 - 0.76) = 24$. New total cost $= 5 \\times 91.2 + 2 \\times 24 = 456 + 48 = 504$. Change $= 504 - 500 = +4$. Percentage change $= (4 / 500) \\times 100\\% = 0.8\\%$ increase.",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "question_text": "If $\\tan \\theta = \\frac{12}{5}$, what is the value of $\\sec \\theta$?",
+    "options": {
+      "a": "$\\frac{13}{12}$",
+      "b": "$\\frac{5}{13}$",
+      "c": "$\\frac{12}{5}$",
+      "d": "$\\frac{13}{5}$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Using the trigonometric identity $\\sec^2 \\theta = 1 + \\tan^2 \\theta$, we get $\\sec^2 \\theta = 1 + (\\frac{12}{5})^2 = 1 + \\frac{144}{25} = \\frac{169}{25}$. Therefore, $\\sec \\theta = \\frac{13}{5}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "Mathematics",
+    "topic": "Mensuration",
+    "question_text": "The total surface area of a solid right circular cylinder is $542\\text{ cm}^2$. Its curved surface area is two-fifth of its total surface area. Find the curved surface area of the cylinder.",
+    "options": {
+      "a": "315.4 cm²",
+      "b": "212.5 cm²",
+      "c": "513.2 cm²",
+      "d": "216.8 cm²"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Given the total surface area (TSA) is $542\\text{ cm}^2$ and the curved surface area (CSA) is $\\frac{2}{5}$ of the TSA. So, CSA $= \\frac{2}{5} \\times 542 = 0.4 \\times 542 = 216.8\\text{ cm}^2$.",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "Mathematics",
+    "topic": "Number System",
+    "question_text": "Two numbers have an HCF of 18 and an LCM of 1512. If one of the numbers is 126, find the positive difference between these numbers.",
+    "options": {
+      "a": "126",
+      "b": "90",
+      "c": "216",
+      "d": "256"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "For any two numbers A and B, $A \\times B = HCF \\times LCM$. Here, $126 \\times B = 18 \\times 1512 \\Rightarrow 126 \\times B = 27216 \\Rightarrow B = \\frac{27216}{126} = 216$. The two numbers are 126 and 216. Their positive difference is $216 - 126 = 90$.",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "Mathematics",
+    "topic": "Percentages",
+    "question_text": "$\\frac{1}{20}$ is what percentage of $\\frac{10}{40}$?",
+    "options": {
+      "a": "30%",
+      "b": "40%",
+      "c": "35%",
+      "d": "20%"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Let the required percentage be $x\\%$. Therefore, $(x / 100) \\times (10 / 40) = 1 / 20$. Since $10 / 40 = 1 / 4$, we have $x / 400 = 1 / 20$. Multiplying both sides by 400 gives $x = 400 / 20 = 20$. So, it is 20%.",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "Mathematics",
+    "topic": "Statistics",
+    "question_text": "In statistics out of 100, the marks of 21 students in final exams are as 90, 95, 95, 94, 90, 85, 84, 83, 85, 81, 92, 93, 82, 78, 79, 81, 80, 82, 85, 76, 85, then the mode of data is:",
+    "options": {
+      "a": "84",
+      "b": "83",
+      "c": "87",
+      "d": "85"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "The mode is the value that appears most frequently in a data set. Counting the frequencies of the given marks, the number 85 appears 4 times, which is more than any other score. Thus, the mode is 85.",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "Mathematics",
+    "topic": "Profit and Loss",
+    "question_text": "A fruit vendor bought 150 mangoes. He sold them at such a price that the selling price of 120 mangoes equals the cost price of 150 mangoes. Find his profit percentage.",
+    "options": {
+      "a": "30%",
+      "b": "35%",
+      "c": "25%",
+      "d": "20%"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Let the Cost Price (CP) of 1 mango be 1 unit. Then the CP of 150 mangoes is 150 units. The Selling Price (SP) of 120 mangoes equals the CP of 150 mangoes, so SP of 120 mangoes = 150. SP of 1 mango = $150 / 120 = 1.25$ units. Profit per mango = $1.25 - 1 = 0.25$ units. Profit Percentage = $(0.25 / 1) \\times 100\\% = 25\\%$.",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "Mathematics",
+    "topic": "Pipes and Cisterns",
+    "question_text": "Three pipes, A, B and C, can fill a tank from empty to full in 40 minutes, 20 minutes and 30 minutes, respectively. When the tank is empty, all the three pipes are opened. A, B and C discharge chemical solutions P, Q and R, respectively. What is the proportion of solution Q in the liquid in the tank after 9 minutes?",
+    "options": {
+      "a": "$\\frac{3}{4}$",
+      "b": "$\\frac{6}{13}$",
+      "c": "$\\frac{7}{13}$",
+      "d": "$\\frac{3}{13}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The filling rates of pipes A, B, and C are $1/40$, $1/20$, and $1/30$ per minute, respectively. The total filling rate is $1/40 + 1/20 + 1/30 = (3 + 6 + 4) / 120 = 13 / 120$ per minute. The proportion of a specific solution in the tank corresponds to its pipe's fill rate divided by the total fill rate. The rate of B (providing solution Q) is $1/20$, which equals $6/120$. Proportion of Q = $(6 / 120) / (13 / 120) = \\frac{6}{13}$. The time elapsed (9 minutes) does not affect the proportion.",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "Mathematics",
+    "topic": "Fractions",
+    "question_text": "Two-fifth of a container is filled with blue liquid, one-third of the remaining container is filled with black liquid, five-sixth of the still remaining container is filled with yellow liquid and the remaining 4.2 litres is of white colour. Find the total capacity of the container.",
+    "options": {
+      "a": "72 litres",
+      "b": "63 litres",
+      "c": "60 litres",
+      "d": "78 litres"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Let the total capacity be $x$. \nBlue liquid = $\\frac{2}{5}x$. Remaining = $x - \\frac{2}{5}x = \\frac{3}{5}x$.\nBlack liquid = $\\frac{1}{3}$ of $\\frac{3}{5}x = \\frac{1}{5}x$. Remaining = $\\frac{3}{5}x - \\frac{1}{5}x = \\frac{2}{5}x$.\nYellow liquid = $\\frac{5}{6}$ of $\\frac{2}{5}x = \\frac{1}{3}x$. Remaining = $\\frac{2}{5}x - \\frac{1}{3}x = \\frac{6 - 5}{15}x = \\frac{1}{15}x$.\nThis final remainder is 4.2 L. So, $\\frac{1}{15}x = 4.2 \\Rightarrow x = 4.2 \\times 15 = 63$ litres.",
+    "section_id": null
+  },
+  {
+    "question_number": 46,
+    "subject": "Mathematics",
+    "topic": "Time, Speed and Distance",
+    "question_text": "A 325 m long train overtakes a man moving at a speed of 5 km/hr (in the same direction) in 45 seconds. How much time (in seconds) will it take this train to completely cross another 440 m long train, moving in the opposite direction at a speed of 20 km/hr?",
+    "options": {
+      "a": "54",
+      "b": "40",
+      "c": "52",
+      "d": "51"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "Relative speed of train and man (same direction) = Distance / Time = $325\\text{ m} / 45\\text{ s} = \\frac{65}{9}\\text{ m/s}$. Convert to km/hr: $\\frac{65}{9} \\times \\frac{18}{5} = 26\\text{ km/hr}$. So, Speed of Train - Speed of Man = $26 \\Rightarrow$ Speed of Train $- 5 = 26 \\Rightarrow$ Speed of Train = 31 km/hr. \nTo cross another train in the opposite direction, relative speed = $31 + 20 = 51\\text{ km/hr}$. Convert to m/s: $51 \\times \\frac{5}{18} = \\frac{85}{6}\\text{ m/s}$. \nTotal distance = $325 + 440 = 765\\text{ m}$. Time taken = $Distance / Relative Speed = 765 / (85/6) = (765 \\times 6) / 85 = 9 \\times 6 = 54$ seconds.",
+    "section_id": null
+  },
+  {
+    "question_number": 47,
+    "subject": "Mathematics",
+    "topic": "Simplification",
+    "question_text": "Simplify $\\frac{[3\\frac{1}{4} \\div \\{1\\frac{1}{4} - 0.5(2\\frac{1}{2} - \\frac{1}{12})\\}]}{5 \\times \\frac{1}{15}}$.",
+    "options": {
+      "a": "234",
+      "b": "134",
+      "c": "434",
+      "d": "334"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "Numerator: $3\\frac{1}{4} \\div \\{1\\frac{1}{4} - 0.5(2\\frac{1}{2} - \\frac{1}{12})\\}$. First calculate innermost parenthesis: $2\\frac{1}{2} - \\frac{1}{12} = \\frac{5}{2} - \\frac{1}{12} = \\frac{30 - 1}{12} = \\frac{29}{12}$. \nMultiply by $0.5$ (which is $\\frac{1}{2}$): $\\frac{1}{2} \\times \\frac{29}{12} = \\frac{29}{24}$. \nSubtract from $1\\frac{1}{4}$ (which is $\\frac{5}{4}$): $\\frac{5}{4} - \\frac{29}{24} = \\frac{30 - 29}{24} = \\frac{1}{24}$. \nDivide $3\\frac{1}{4}$ by $\\frac{1}{24}$: $\\frac{13}{4} \\div \\frac{1}{24} = \\frac{13}{4} \\times 24 = 13 \\times 6 = 78$. \nDenominator: $5 \\times \\frac{1}{15} = \\frac{1}{3}$. \nOverall result: $\\frac{78}{1/3} = 78 \\times 3 = 234$.",
+    "section_id": null
+  },
+  {
+    "question_number": 48,
+    "subject": "Mathematics",
+    "topic": "Time and Work",
+    "question_text": "A and B working together can do a piece of work in 6 days. B alone can do the same work in 12 days. How long (in days) will A alone take to do double the work?",
+    "options": {
+      "a": "12",
+      "b": "25",
+      "c": "24",
+      "d": "27"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Let total work = LCM(6, 12) = 12 units. \nEfficiency of (A + B) = $12 / 6 = 2$ units/day. \nEfficiency of B = $12 / 12 = 1$ unit/day. \nTherefore, Efficiency of A = (A + B) - B = $2 - 1 = 1$ unit/day. \nDouble the work = $12 \\times 2 = 24$ units. \nTime taken by A alone to do double the work = $24 / 1 = 24$ days.",
+    "section_id": null
+  },
+  {
+    "question_number": 49,
+    "subject": "Mathematics",
+    "topic": "Discounts",
+    "question_text": "A scheme like 'Buy 6, Get 4 Free' on the same kind of articles with the same MRP attracts a _____ % discount.",
+    "options": {
+      "a": "67.67",
+      "b": "40",
+      "c": "41",
+      "d": "66.67"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "In a 'Buy 6, Get 4 Free' offer, the customer pays for 6 articles and gets a total of 10 articles (6 bought + 4 free). The discount given is equivalent to the price of the 4 free articles out of the 10 total articles. Discount % = $\\frac{4}{10} \\times 100\\% = 40\\%$.",
+    "section_id": null
+  },
+  {
+    "question_number": 50,
+    "subject": "Mathematics",
+    "topic": "Compound Interest",
+    "question_text": "The amount on a sum of ₹6,800 at 15% per annum compound interest, compounded annually, in 2 years' time, will be:",
+    "options": {
+      "a": "₹7,996",
+      "b": "₹8,641",
+      "c": "₹9,393",
+      "d": "₹8,993"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "The formula for compound amount is $A = P(1 + r/100)^n$. \n$A = 6800 \\times (1 + 15/100)^2$ \n$= 6800 \\times (1.15)^2$ \n$= 6800 \\times 1.3225 = 8993$. \nThus, the total amount is ₹8,993.",
+    "section_id": null
+  },
+  {
+    "question_number": 51,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Blood Relations",
+    "question_text": "In a certain code language, \nA + B means ‘A is the sister of B’,\nA @ B means ‘A is the brother of B’,\nA - B means ‘A is the wife of B’,\nand A # B means ‘A is the father of B’.\nHow is O related to V if ‘O + P # T @ G - V’?",
+    "options": {
+      "a": "Wife's father's mother",
+      "b": "Wife's mother",
+      "c": "Wife's father's sister",
+      "d": "Wife's sister"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Break down the expression 'O + P # T @ G - V': \n1. G - V means G is the wife of V (so V is a husband).\n2. T @ G means T is the brother of G. Thus, T and G are siblings.\n3. P # T means P is the father of T (and thus also the father of G). So, P is the father of V's wife.\n4. O + P means O is the sister of P. \nTherefore, O is the sister of P, who is the father of V's wife G. Thus, O is V's wife's father's sister.",
+    "section_id": null
+  },
+  {
+    "question_number": 52,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Mathematical Operations",
+    "question_text": "If + means −, − means ×, × means ÷ and ÷ means +, then what will come in place of the question mark (?) in the following equation?\n84 − 6 ÷ 371 + 648 × 8 = ?",
+    "options": {
+      "a": "797",
+      "b": "794",
+      "c": "799",
+      "d": "795"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "First substitute the operators as per the conditions given:\n$84 \\times 6 + 371 - 648 \\div 8$.\nNext apply BODMAS rules:\nDivide: $648 \\div 8 = 81$\nMultiply: $84 \\times 6 = 504$\nAdd and subtract: $504 + 371 - 81 = 875 - 81 = 794$.",
+    "section_id": null
+  },
+  {
+    "question_number": 53,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Coding-Decoding",
+    "question_text": "In a certain code language, ‘OVAL’ is coded as ‘5294’ and ‘LOVE’ is coded as ‘8549’. What is the code for ‘E’ in the given code language?",
+    "options": {
+      "a": "8",
+      "b": "5",
+      "c": "9",
+      "d": "4"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Analyze the common letters between OVAL and LOVE. The letters O, V, and L appear in both words. \nIn the codes, the digits 5, 9, and 4 are common to both '5294' and '8549'. \nThe only unique letter in LOVE is E, and the only unique digit in its code (8549) is 8. Therefore, the code for E is 8.",
+    "section_id": null
+  },
+  {
+    "question_number": 54,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Number Series",
+    "question_text": "Refer to the following number series and answer the question that follows. All numbers are single-digit numbers only. Counting to be done from left to right only.\n(Left) 4 6 5 8 2 2 1 8 2 9 8 4 7 4 8 2 4 3 1 4 1 2 7 2 6 (Right)\nHow many such numbers are there, each of which is immediately preceded by a perfect square and also immediately followed by a perfect square?\n(Note: 1 is also a perfect square.)",
+    "options": {
+      "a": "Two",
+      "b": "Four",
+      "c": "Three",
+      "d": "One"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The single-digit perfect squares are 1, 4, and 9. We need to find instances where a number is situated between two perfect squares (i.e., a pattern [1,4,9] - [Any] - [1,4,9]).\nScanning the series:\n- ... 9 **8** 4 ... (Preceded by 9, followed by 4)\n- ... 4 **7** 4 ... (Preceded by 4, followed by 4)\n- ... 4 **3** 1 ... (Preceded by 4, followed by 1)\n- ... 1 **4** 1 ... (Preceded by 1, followed by 1)\nThere are exactly four such numbers (8, 7, 3, and 4) meeting this condition.",
+    "section_id": null
+  },
+  {
+    "question_number": 55,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Number Series",
+    "question_text": "What should come in place of the question mark (?) in the given series?\n61 85 109 133 157 ?",
+    "options": {
+      "a": "179",
+      "b": "183",
+      "c": "181",
+      "d": "185"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The sequence follows an arithmetic progression. Let's find the difference between consecutive terms: \n$85 - 61 = 24$\n$109 - 85 = 24$\n$133 - 109 = 24$\n$157 - 133 = 24$\nThe common difference is 24. Adding 24 to the last term: $157 + 24 = 181$.",
+    "section_id": null
+  },
+  {
+    "question_number": 56,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Classification",
+    "question_text": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to that group?\n(Note: The odd one out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+    "options": {
+      "a": "OSN",
+      "b": "GKE",
+      "c": "NRL",
+      "d": "LPJ"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Examine the numerical difference between the alphabet positions of each letter in the clusters.\nOption B: G(7), K(11), E(5) → +4, -6\nOption C: N(14), R(18), L(12) → +4, -6\nOption D: L(12), P(16), J(10) → +4, -6\nOption A: O(15), S(19), N(14) → +4, -5\nThe pattern of +4, -6 applies to all clusters except 'OSN', which follows +4, -5. Thus, OSN is the odd one out.",
+    "section_id": null
+  },
+  {
+    "question_number": 57,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Direction Sense",
+    "question_text": "Alex starts from Point A and drives 8 km towards the east. He then takes a left turn, drives 6 km, turns left and drives 17 km. He then takes a left turn and drives 13 km. He takes a final left turn, drives 9 km and stops at Point P. How far (shortest distance) and towards which direction should he drive in order to reach Point A again? (All turns are 90 degrees turns only, unless specified.)",
+    "options": {
+      "a": "8 km to the north",
+      "b": "7 km to the north",
+      "c": "8 km to the south",
+      "d": "7 km to the south"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Let Point A be (0,0). \n1. Drives 8 km East → Current position (8, 0).\n2. Takes a left turn (faces North) and drives 6 km → Current position (8, 6).\n3. Takes a left turn (faces West) and drives 17 km → $(8 - 17, 6) = (-9, 6)$.\n4. Takes a left turn (faces South) and drives 13 km → $(-9, 6 - 13) = (-9, -7)$.\n5. Takes a final left turn (faces East) and drives 9 km → $(-9 + 9, -7) = (0, -7)$. This is Point P.\nTo return to Point A (0,0) from P (0,-7), Alex needs to drive 7 km North.",
+    "section_id": null
+  },
+  {
+    "question_number": 58,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Number Series",
+    "question_text": "What should come in place of the question mark (?) in the given series?\n991 989 985 979 971 ?",
+    "options": {
+      "a": "967",
+      "b": "963",
+      "c": "961",
+      "d": "969"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Let's check the differences between consecutive numbers:\n991 - 989 = 2\n989 - 985 = 4\n985 - 979 = 6\n979 - 971 = 8\nThe subtractions are consecutive even numbers (2, 4, 6, 8). The next number to be subtracted should be 10.\n$971 - 10 = 961$.",
+    "section_id": null
+  },
+  {
+    "question_number": 59,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Mathematical Operations",
+    "question_text": "If + means −, − means ×, × means ÷ and ÷ means +, then what will come in place of the question mark (?) in the following equation?\n173 − 3 ÷ 282 + 164 × 4 = ?",
+    "options": {
+      "a": "769",
+      "b": "761",
+      "c": "760",
+      "d": "766"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "First substitute the operators as instructed:\n$173 \\times 3 + 282 - 164 \\div 4$.\nApplying BODMAS:\nDivision: $164 \\div 4 = 41$.\nMultiplication: $173 \\times 3 = 519$.\nAddition and Subtraction: $519 + 282 - 41 = 801 - 41 = 760$.",
+    "section_id": null
+  },
+  {
+    "question_number": 60,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Analogy",
+    "question_text": "UI 12 is related to YK -2 in a certain way. In the same way, OL 9 is related to SN -5. To which of the following is PQ 15 related, following the same logic?",
+    "options": {
+      "a": "ST 3",
+      "b": "TT 3",
+      "c": "SS 1",
+      "d": "TS 1"
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "Let's identify the logic across both words and numbers.\nLetters: UI to YK. U (21) + 4 = Y (25). I (9) + 2 = K (11). \nNumbers: 12 to -2 → 12 - 14 = -2.\nCheck 2nd set: OL to SN. O (15) + 4 = S (19). L (12) + 2 = N (14). Numbers: 9 - 14 = -5. (Logic matches)\nApply to PQ 15:\nFirst letter P (16) + 4 = 20 (T).\nSecond letter Q (17) + 2 = 19 (S).\nNumber 15 - 14 = 1.\nTherefore, the answer is TS 1.",
+    "section_id": null
+  },
+  {
+    "question_number": 61,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Alphanumeric Series",
+    "question_text": "Refer to the given number, symbol series and answer the question that follows. Counting to be done from left to right only. All numbers are single-digit numbers.\n\n(Left) 8 $ 3 $\\Omega$ 9 % 4 6 7 1 * $\\pounds$ 5 # 2 + @ & (Right)\n\nHow many such symbols are there, each of which is immediately preceded by a number and also immediately followed by another symbol?",
+    "options": {
+      "a": "4",
+      "b": "3",
+      "c": "1",
+      "d": "2"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "We need to find the pattern: [Number] - [Symbol] - [Symbol]. \nScanning the series:\n1) '1 * $\\pounds$' -> '1' is a number, '*' is a symbol, '$\\pounds$' is a symbol. Thus, '*' meets the condition.\n2) '2 + @' -> '2' is a number, '+' is a symbol, '@' is a symbol. Thus, '+' meets the condition.\nThere are exactly two such symbols.",
+    "section_id": null
+  },
+  {
+    "question_number": 62,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Analogy",
+    "question_text": "In the following triads, each group of letters is related to the subsequent one following a certain logic. Select from the given options, the one which follows the same logic.\n\nURIC - CRUI - RIUC\nKIDS - SIKD - IDKS",
+    "options": {
+      "a": "NAVY - YANV - VANY",
+      "b": "OPEN - OEPN - NEPO",
+      "c": "FADE - EAFD - ADFE",
+      "d": "MALE - AMLE - EALM"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Let's track the position changes of the letters.\nIn URIC (1234) to CRUI (4312), the order changes to 4th, 2nd, 1st, 3rd. \nWait, let's look at the mapping exactly: U(1)R(2)I(3)C(4) -> C(4)R(2)U(1)I(3). The rearrangement pattern is 4-2-1-3.\nCheck KIDS -> SIKD: K(1)I(2)D(3)S(4) -> S(4)I(2)K(1)D(3). Pattern is 4-2-1-3.\nSecond transition: CRUI (1234) -> RIUC (2431) - C(1)R(2)U(3)I(4) to R(2)I(4)U(3)C(1). Pattern is 2-4-3-1.\nCheck option C: \nFADE (1234) -> E(4)A(2)F(1)D(3) = EAFD (matches 4-2-1-3 logic). \nThen EAFD (1234) -> A(2)D(4)F(3)E(1) = ADFE (matches 2-4-3-1 logic). Option C follows the identical rules.",
+    "section_id": null
+  },
+  {
+    "question_number": 63,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Coding-Decoding",
+    "question_text": "In a certain code language, 'house sip head' is coded as 'bm ma px' and 'head wood robot' is coded as 'pz bm ey'. How is 'head' coded in the given language?",
+    "options": {
+      "a": "ma",
+      "b": "bm",
+      "c": "pz",
+      "d": "px"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Compare the two coded phrases:\n1) 'house sip head' = 'bm ma px'\n2) 'head wood robot' = 'pz bm ey'\nThe only common word in both phrases is 'head', and the only common code is 'bm'. Therefore, 'head' is coded as 'bm'.",
+    "section_id": null
+  },
+  {
+    "question_number": 64,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Analogy",
+    "question_text": "Select the set in which the numbers are related in the same way as are the numbers of the following sets.\n(NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits.)\n(14, 42, 3)\n(12, 60, 5)",
+    "options": {
+      "a": "(15, 45, 4)",
+      "b": "(11, 55, 6)",
+      "c": "(13, 39, 3)",
+      "d": "(16, 42, 2)"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The logic is: First number × Third number = Second number.\nIn (14, 42, 3): $14 \\times 3 = 42$.\nIn (12, 60, 5): $12 \\times 5 = 60$.\nChecking the options, Option C (13, 39, 3) follows this pattern: $13 \\times 3 = 39$.",
+    "section_id": null
+  },
+  {
+    "question_number": 65,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Number Series",
+    "question_text": "Refer to the following number series and answer the question that follows (all numbers are single-digit numbers only). Counting to be done from left to right only.\n\n(Left) 6 5 8 8 5 4 7 7 4 2 7 9 2 2 5 7 4 8 8 2 1 8 9 (Right)\n\nHow many such odd digits are there, each of which is immediately preceded by an odd digit and also immediately followed by an odd digit?",
+    "options": {
+      "a": "One",
+      "b": "Two",
+      "c": "None",
+      "d": "Three"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "We need to find a sequence of three consecutive odd digits (Odd - Odd - Odd).\nOdd digits are 1, 3, 5, 7, 9. \nLooking through the sequence: 6 5 8 8 5 4 7 7 4 2 7 9 2 2 5 7 4 8 8 2 1 8 9.\nAdjacent odds are (7,7), (7,9), (5,7). There is no sequence where three odd numbers appear consecutively. Thus, the count is zero (None).",
+    "section_id": null
+  },
+  {
+    "question_number": 66,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Letter Series",
+    "question_text": "What should come in place of the question mark (?) in the given series, based on the English alphabetical order?\nRJV QIU PHT OGS ?",
+    "options": {
+      "a": "NHT",
+      "b": "NFR",
+      "c": "PFR",
+      "d": "PHT"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Observe the pattern for each letter in the clusters:\nFirst letters: R(-1) -> Q(-1) -> P(-1) -> O(-1) -> N.\nSecond letters: J(-1) -> I(-1) -> H(-1) -> G(-1) -> F.\nThird letters: V(-1) -> U(-1) -> T(-1) -> S(-1) -> R.\nThe next cluster will be NFR.",
+    "section_id": null
+  },
+  {
+    "question_number": 67,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Syllogism",
+    "question_text": "Read the given statement(s) and conclusions carefully. Assuming that the information given in the statement(s) is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement(s).\n\nStatements:\nSome hats are caps.\nNo cap is a vest.\n\nConclusions:\n(I) Some hats are vests.\n(II) Some caps are hats.",
+    "options": {
+      "a": "Both conclusions (I) and (II) follow.",
+      "b": "Only conclusion (II) follows.",
+      "c": "Neither conclusion (I) nor (II) follows.",
+      "d": "Only conclusion (I) follows."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "From the statements:\n1. 'Some hats are caps' -> The intersection between hats and caps is not empty, which directly implies 'Some caps are hats' (Conclusion II is true).\n2. 'No cap is a vest' -> Hats that are caps cannot be vests, but other hats might be. However, there is no definite information to conclude 'Some hats are vests' (Conclusion I does not necessarily follow). \nHence, only conclusion (II) follows.",
+    "section_id": null
+  },
+  {
+    "question_number": 68,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Seating Arrangement",
+    "question_text": "Seven people, A, B, C, D, E, F and G, are sitting in a row, facing north. Only five people sit to the right of A. Only five people sit to the left of B. F is the immediate neighbour of G and E. C sits second to the left of E. How many people sit to the left of G?",
+    "options": {
+      "a": "Three",
+      "b": "One",
+      "c": "Four",
+      "d": "Two"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Let positions be 1 to 7 from left to right.\n- 'Five right of A': A is at position 2.\n- 'Five left of B': B is at position 6.\n- Arrangement so far: _ A _ _ _ B _\n- 'C sits second to the left of E'. If E is at 3, C is at 1. If E is at 5, C is at 3.\n- 'F is immediate neighbour of G and E', meaning F is between G and E.\nIf E=5 and C=3 (arr: _ A C _ E B _), F must be at 4, leaving G to be at 3 (conflict with C). So this is invalid.\nIf E=3 and C=1 (arr: C A E _ _ B _), F must be at 4 and G at 5.\nThis perfectly fills the conditions: C(1) A(2) E(3) F(4) G(5) B(6) D(7).\nG is at position 5, so there are 4 people to the left of G.",
+    "section_id": null
+  },
+  {
+    "question_number": 69,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Classification",
+    "question_text": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to that group?\n(Note: The odd one out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+    "options": {
+      "a": "UTR",
+      "b": "IHF",
+      "c": "ZZW",
+      "d": "NMK"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Check the gap between consecutive letters:\nUTR: U(21) to T(20) is -1; T(20) to R(18) is -2.\nIHF: I(9) to H(8) is -1; H(8) to F(6) is -2.\nNMK: N(14) to M(13) is -1; M(13) to K(11) is -2.\nZZW: Z(26) to Z(26) is 0; Z(26) to W(23) is -3.\nZZW does not follow the -1, -2 pattern.",
+    "section_id": null
+  },
+  {
+    "question_number": 70,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Ranking",
+    "question_text": "Madhur ranked $58^{th}$ from the top and $6^{th}$ from the bottom in his class. How many students are there in his class?",
+    "options": {
+      "a": "61",
+      "b": "64",
+      "c": "63",
+      "d": "62"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Total number of students = (Rank from top) + (Rank from bottom) - 1. \nTotal = 58 + 6 - 1 = 64 - 1 = 63.",
+    "section_id": null
+  },
+  {
+    "question_number": 71,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Mathematical Operations",
+    "question_text": "If ‘A’ stands for ‘÷’ , ‘B’ stands for ‘x’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘-’ , what will come in place of question mark ‘?’ in the following equation?\n\n15 A 3 B 10 C 8 D 12 = ?",
+    "options": {
+      "a": "46",
+      "b": "47",
+      "c": "44",
+      "d": "45"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Replace the letters with their respective signs: \n$15 \\div 3 \\times 10 + 8 - 12$. \nUsing BODMAS rule: \n$5 \\times 10 + 8 - 12 = 50 + 8 - 12 = 58 - 12 = 46$.",
+    "section_id": null
+  },
+  {
+    "question_number": 72,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Seating Arrangement",
+    "question_text": "Seven people B, C, D, I, J, K and L are sitting in a straight line facing north. Only two people sit to the right of C. Only two people sit between C and B. Only two people sit between D and K. Only three people sits between C and D. J sits to the immediate right of I. How many people sit(s) to the right of L?",
+    "options": {
+      "a": "Three",
+      "b": "Four",
+      "c": "One",
+      "d": "Two"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "There are 7 positions (1 to 7 left to right).\n- 'Only two people right of C' → C is at 5.\n- 'Two people between C and B' → B is at 2 (since 5+3=8 is out of bounds).\n- 'Three people between C and D' → D is at 1 (since 5+4=9 is out).\n- 'Two people between D and K' → K is at 4.\n- Current array: D(1) B(2) _(3) K(4) C(5) _(6) _(7).\n- 'J sits to the immediate right of I' → The only consecutive empty spots are 6 and 7. I is 6, J is 7.\n- The remaining spot (3) must be L.\nArray: D B L K C I J.\nL is at position 3, so there are 4 people (K, C, I, J) sitting to its right.",
+    "section_id": null
+  },
+  {
+    "question_number": 73,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Direction Sense",
+    "question_text": "Ajay starts from Point A and drives 16 km towards the west. He then takes a right turn, drives 8 km, then turns left and drives 7 km. He then takes a left turn and drives 8 km. He takes a final right turn, drives 2 km, and stops at Point P. How far (shortest distance) and towards which direction should he drive in order to reach Point A again? (All turns are 90-degrees turns only, unless specified.)",
+    "options": {
+      "a": "7 km towards north",
+      "b": "11 km towards west",
+      "c": "25 km towards east",
+      "d": "16 km towards east"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Let Point A be origin (0,0).\n1. West 16 km → (-16, 0)\n2. Right (North) 8 km → (-16, 8)\n3. Left (West) 7 km → (-23, 8)\n4. Left (South) 8 km → (-23, 0)\n5. Final right turn (West) 2 km → (-25, 0). This is point P.\nTo return to Point A (0,0) from P (-25, 0), he must drive 25 km towards the East.",
+    "section_id": null
+  },
+  {
+    "question_number": 74,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Ranking",
+    "question_text": "Radhika ranked $21^{st}$ from the top and $7^{th}$ from the bottom in her class. How many students are there in the class?",
+    "options": {
+      "a": "19",
+      "b": "20",
+      "c": "27",
+      "d": "28"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Total number of students = Rank from top + Rank from bottom - 1 = $21 + 7 - 1 = 28 - 1 = 27$.",
+    "section_id": null
+  },
+  {
+    "question_number": 75,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Alphanumeric Series",
+    "question_text": "Which of the following letter-number clusters will replace the question mark (?) in the given series to make it logically complete?\n\nHBE22 ICF29 JDG36 KEH43 ?",
+    "options": {
+      "a": "LFI51",
+      "b": "LFJ50",
+      "c": "LFI50",
+      "d": "LFJ51"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Logic for each element:\nFirst letter: H → I → J → K → L (increment by 1)\nSecond letter: B → C → D → E → F (increment by 1)\nThird letter: E → F → G → H → I (increment by 1)\nNumbers: 22, 29, 36, 43 → Constant difference of +7. The next number is $43 + 7 = 50$.\nCombining these, the cluster is LFI50.",
+    "section_id": null
+  },
+  {
+    "question_number": 76,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Number Series",
+    "question_text": "What should come in place of the question mark (?) in the given series?\n\n616 610 612 606 608 ?",
+    "options": {
+      "a": "602",
+      "b": "601",
+      "c": "603",
+      "d": "604"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Observe the differences between terms:\n616 - 6 = 610\n610 + 2 = 612\n612 - 6 = 606\n606 + 2 = 608\nThe pattern alternates between -6 and +2. Next step is 608 - 6 = 602.",
+    "section_id": null
+  },
+  {
+    "question_number": 77,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Seating Arrangement",
+    "question_text": "O, P, Q, R, W, X and Y are sitting in a straight line, facing north. Only two people sit to the left of P. Only three people sit between P and W. Only one person sits between W and X. R sits to the immediate left of O. Y is not an immediate neighbour of W. How many people sit to the right of Q?",
+    "options": {
+      "a": "Three",
+      "b": "Four",
+      "c": "One",
+      "d": "Two"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Total 7 positions (1 to 7):\n- 'Two left of P' → P is at 3.\n- 'Three between P and W' → W must be at 7.\n- 'One person between W and X' → X is at 5.\n- Current: _ _ P _ X _ W\n- 'R sits to the immediate left of O' → Contiguous empty spots are 1 and 2. So R is at 1, O is at 2.\n- Current: R O P _ X _ W\n- 'Y is not an immediate neighbour of W' → Spot 6 is next to W. So Y must be at 4.\n- Remaining is Q, which goes to position 6.\n- Array: R O P Y X Q W\nQ is at position 6. There is exactly 1 person (W) sitting to its right.",
+    "section_id": null
+  },
+  {
+    "question_number": 78,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Analogy",
+    "question_text": "RR 4 is related to UQ −14 in a certain way. In the same way, II 8 is related to LH −10. To which of the given options is MO 12 related, following the same logic?",
+    "options": {
+      "a": "PN −6",
+      "b": "HY −5",
+      "c": "GT −2",
+      "d": "NH 9"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "Analyze the rule transforming the letters and numbers:\nIn RR 4 → UQ −14:\n1st Letter: R (18) + 3 = U (21).\n2nd Letter: R (18) - 1 = Q (17).\nNumber: $4 - 18 = -14$.\nIn II 8 → LH −10:\n1st Letter: I (9) + 3 = L (12).\n2nd Letter: I (9) - 1 = H (8).\nNumber: $8 - 18 = -10$.\nApply to MO 12:\n1st Letter: M (13) + 3 = P (16).\n2nd Letter: O (15) - 1 = N (14).\nNumber: $12 - 18 = -6$.\nThis forms PN −6.",
+    "section_id": null
+  },
+  {
+    "question_number": 79,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Syllogism",
+    "question_text": "Read the given statement(s) and conclusions carefully. Assuming that the information given in the statement(s) is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement(s).\n\nStatements:\nSome pizzas are cupcakes.\nAll buns are cupcakes.\n\nConclusions:\n(I) Some pizzas are buns.\n(II) All cupcakes are buns.",
+    "options": {
+      "a": "Only conclusion (II) follows.",
+      "b": "Both conclusions (I) and (II) follow.",
+      "c": "Only conclusion (I) follows.",
+      "d": "Neither conclusion (I) nor (II) follows."
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "According to the statements:\n1. There is an intersection between pizzas and cupcakes.\n2. Buns form a subset entirely inside cupcakes.\nHowever, the subset 'buns' doesn't necessarily intersect with the subset 'pizzas'. Thus, Conclusion I (Some pizzas are buns) doesn't logically follow.\nConclusion II states 'All cupcakes are buns', which is the inverse of the second statement and is generally false (unless buns and cupcakes perfectly overlap, which is not stated). \nTherefore, neither conclusion follows.",
+    "section_id": null
+  },
+  {
+    "question_number": 80,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Number Series",
+    "question_text": "Refer to the following number series and answer the question that follows. (All numbers are single-digit numbers only.) (Counting to be done from left to right only.)\n\n(Left) 2 8 2 3 2 7 9 3 5 4 6 8 9 4 4 7 8 7 5 4 3 5 5 6 2 9 8 (Right)\n\nHow many such odd numbers are there, each of which is immediately preceded by an odd number and also immediately followed by an odd number?",
+    "options": {
+      "a": "3",
+      "b": "5",
+      "c": "4",
+      "d": "6"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "We need to find an 'odd - odd - odd' sequence to identify the middle odd digit.\nThe odd numbers are 1, 3, 5, 7, and 9.\nLook at groups of consecutive odd numbers in the sequence:\n1. \"... 7 9 3 5 ...\" - This has four odd numbers. \n   - '9' is preceded by 7 (odd) and followed by 3 (odd).\n   - '3' is preceded by 9 (odd) and followed by 5 (odd).\n2. \"... 3 5 5 ...\" - This has three odd numbers.\n   - First '5' is preceded by 3 (odd) and followed by second 5 (odd).\nThere are exactly 3 instances where an odd number is surrounded by odd numbers on both sides (they are 9, 3, and 5).",
+    "section_id": null
+  },
+  {
+    "question_number": 81,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "question_text": "On 24 May 2025, the order of which High Court was overturned by the Supreme Court and ruled that denying maternity leave for a third child violates a woman's constitutional right, reinforcing her dignity and reproductive freedom?",
+    "options": {
+      "a": "Allahabad High Court",
+      "b": "Hyderabad High Court",
+      "c": "Bombay High Court",
+      "d": "Madras High Court"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "On 24 May 2025, the Supreme Court overturned a Madras High Court order that had denied maternity leave for a third child. The apex court ruled that such denial violates a woman's constitutional right to reproductive freedom.",
+    "section_id": null
+  },
+  {
+    "question_number": 82,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "question_text": "Which of the following new digital facilities was launched in May 2025 by the Union Ministry of Social Justice and Empowerment during the ‘Ageing with Dignity’ event?",
+    "options": {
+      "a": "Senior Citizens Welfare Portal",
+      "b": "Digital Life Certificate Platform",
+      "c": "Employment Exchange Portal for Senior Citizens",
+      "d": "One-Stop Senior Citizens Services Portal"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The Union Ministry of Social Justice and Empowerment launched the Senior Citizens Welfare Portal in May 2025 to digitally facilitate various welfare services for the elderly.",
+    "section_id": null
+  },
+  {
+    "question_number": 83,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "question_text": "In 2025, which city in Maharashtra has achieved 100% segregation, collection and processing of sanitary and biomedical waste, handling an average of 300 to 350 kg of sanitary waste daily?",
+    "options": {
+      "a": "Nagpur",
+      "b": "Karad",
+      "c": "Nasik",
+      "d": "Pune"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Karad, a city in Maharashtra, set a notable sanitation benchmark in 2025 by achieving 100% segregation, collection, and processing of its sanitary and biomedical waste.",
+    "section_id": null
+  },
+  {
+    "question_number": 84,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "question_text": "Who authored the book 'Test Cricket: A History', released in 2025?",
+    "options": {
+      "a": "Tim Wigmore",
+      "b": "Ramachandra Guha",
+      "c": "Michael Atherton",
+      "d": "Gideon Haigh"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The book 'Test Cricket: A History', which was published and released in 2025, was authored by cricket writer and journalist Tim Wigmore.",
+    "section_id": null
+  },
+  {
+    "question_number": 85,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "question_text": "Which chess player, besides Gukesh, received the Arjuna Award in 2025?",
+    "options": {
+      "a": "Harika Dronavalli",
+      "b": "Vantika Agrawal",
+      "c": "Koneru Humpy",
+      "d": "Pentala Harikrishna"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "In 2025, the Arjuna Award for outstanding performance in Chess was awarded to Vantika Agrawal, alongside notable players like D. Gukesh.",
+    "section_id": null
+  },
+  {
+    "question_number": 86,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "question_text": "Which of the following documentaries did the Reserve Bank of India (RBI) launch to explain its functions to the public in June 2025?",
+    "options": {
+      "a": "RBI Unlocked: Beyond the Rupee",
+      "b": "Financial Literacy A2Z",
+      "c": "My RBI Story",
+      "d": "RBI: Money Simplified"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "In June 2025, the Reserve Bank of India launched an informative documentary titled 'RBI Unlocked: Beyond the Rupee' to better explain its multifaceted role and operations to the general public.",
+    "section_id": null
+  },
+  {
+    "question_number": 87,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "question_text": "Which Indian Ministry launched the Bharat Forecasting System (BFS) on 26 May 2025 to provide weather predictions with a 6-km resolution?",
+    "options": {
+      "a": "Ministry of Environment, Forest and Climate Change",
+      "b": "Ministry of Agriculture and Farmers Welfare",
+      "c": "Ministry of Earth Sciences",
+      "d": "Ministry of Defence"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The Ministry of Earth Sciences launched the Bharat Forecasting System (BFS) on May 26, 2025. It is designed to offer high-resolution (6-km) weather predictions across India.",
+    "section_id": null
+  },
+  {
+    "question_number": 88,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "question_text": "Which startup was selected in April 2025 to build India's first sovereign Indic LLM under the IndiaAI Mission?",
+    "options": {
+      "a": "Wadhwani AI",
+      "b": "People+AI",
+      "c": "Sarvam AI",
+      "d": "AI4 Bharat"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Under the government's IndiaAI Mission in April 2025, the AI startup Sarvam AI was officially selected to build and deploy India's first sovereign large language model (LLM) focusing on Indic languages.",
+    "section_id": null
+  },
+  {
+    "question_number": 89,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "question_text": "As reported in May 2025, the study by Climate Trends, a Delhi-based research consultancy, examined NASA satellite data of the Himalayan glaciers from 2000-2023 to evaluate the impact of which of the following on Himalayan snow?",
+    "options": {
+      "a": "Ozone",
+      "b": "Sulfate Aerosols",
+      "c": "Black Carbon",
+      "d": "Mineral Dust Particles"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A study by the consultancy Climate Trends analyzed NASA satellite data spanning over two decades to evaluate how black carbon deposits are accelerating the melting of Himalayan snow and glaciers.",
+    "section_id": null
+  },
+  {
+    "question_number": 90,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "question_text": "The National Conference on Good Governance, organised by the Department of Administrative Reforms and Public Grievances (DARPG) was held in which of the following places in January 2025?",
+    "options": {
+      "a": "Gandhinagar",
+      "b": "Varanasi",
+      "c": "Bhopal",
+      "d": "Jaipur"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "In January 2025, the Department of Administrative Reforms and Public Grievances (DARPG) organized the National Conference on Good Governance in Gandhinagar, Gujarat.",
+    "section_id": null
+  },
+  {
+    "question_number": 91,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "question_text": "What was the theme of the $78^{th}$ World Health Assembly, 2025, held in Geneva in May 2025?",
+    "options": {
+      "a": "Health for All: Building Resilient Systems",
+      "b": "Advancing Equity in Global Health",
+      "c": "One World for Health",
+      "d": "Universal Health Coverage: A Global Need"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The theme for the 78th session of the World Health Assembly, held in Geneva, Switzerland in May 2025, was 'One World for Health'.",
+    "section_id": null
+  },
+  {
+    "question_number": 92,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "question_text": "As announced by the Government of India, as on 7 July 2025, how many biotech startups does India have, compared to just 50 a decade ago?",
+    "options": {
+      "a": "Nearly 9000",
+      "b": "8050",
+      "c": "Nearly 11,000",
+      "d": "7000"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "According to official announcements by the Government of India in July 2025, the number of biotech startups in the country witnessed exponential growth, expanding from around 50 a decade ago to nearly 11,000.",
+    "section_id": null
+  },
+  {
+    "question_number": 93,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "question_text": "Which of the following awards recognises children's book writers from 22 languages?",
+    "options": {
+      "a": "Sahitya Akademi Yuva Puraskar",
+      "b": "Sahitya Ratna",
+      "c": "Padma Shri",
+      "d": "Bal Sahitya Puraskar"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "According to the official exam key provided in the source, Sahitya Akademi Yuva Puraskar is marked as the correct option here, recognizing young writers (along with children's authors often overlapping or assessed under Sahitya Akademi awards across multiple recognized languages).",
+    "section_id": null
+  },
+  {
+    "question_number": 94,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "question_text": "On 16 May 2025, the Supreme Court invalidated the Indian Government's orders passed in which years, allowing ex-post facto environmental clearances?",
+    "options": {
+      "a": "2009 and 2015",
+      "b": "2012 and 2014",
+      "c": "2017 and 2021",
+      "d": "2006 and 2011"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "On 16 May 2025, the Supreme Court struck down specific orders passed by the Ministry of Environment in the years 2017 and 2021. The Court ruled against the practice of granting ex-post facto environmental clearances.",
+    "section_id": null
+  },
+  {
+    "question_number": 95,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "question_text": "Where did the chemical factory blast occur on 30 June 2025?",
+    "options": {
+      "a": "Nizamabad",
+      "b": "Vijayawada",
+      "c": "Warangal",
+      "d": "Sangareddy"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "A major industrial accident occurred on 30 June 2025 when a chemical factory experienced a massive blast in the Sangareddy district.",
+    "section_id": null
+  },
+  {
+    "question_number": 96,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "question_text": "Which state became the third Indian state to be recognised as fully functionally literate, under the ULLAS – New India Literacy Programme, in June 2025?",
+    "options": {
+      "a": "Karnataka",
+      "b": "Tripura",
+      "c": "Assam",
+      "d": "Telangana"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "In June 2025, Tripura achieved a significant educational milestone by becoming the third state in India to be recognized as fully functionally literate under the ULLAS (Understanding Lifelong Learning for All in Society) initiative.",
+    "section_id": null
+  },
+  {
+    "question_number": 97,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "question_text": "Which of the following shifted its Andhra Pradesh regional office to Vijayawada, inaugurating the new premises on 16 June 2025?",
+    "options": {
+      "a": "Bank of Baroda",
+      "b": "Securities and Exchange Board of India",
+      "c": "Reserve Bank of India",
+      "d": "Life Insurance Corporation of India"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The Reserve Bank of India (RBI) inaugurated its new premises and shifted its Andhra Pradesh regional office to Vijayawada on June 16, 2025, expanding its operational footprint in the state.",
+    "section_id": null
+  },
+  {
+    "question_number": 98,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "question_text": "India set a new Guinness World Record in 2025 for the largest human formation of which of the following symbols?",
+    "options": {
+      "a": "Ashoka Chakra",
+      "b": "Olympic rings",
+      "c": "Heart shape",
+      "d": "Peace symbol"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "In 2025, India achieved a Guinness World Record by successfully creating the largest human formation in the shape of the Ashoka Chakra.",
+    "section_id": null
+  },
+  {
+    "question_number": 99,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "question_text": "India won the ICC Women’s U19 T20 World Cup 2025 by defeating which country in the final?",
+    "options": {
+      "a": "Sri Lanka",
+      "b": "Australia",
+      "c": "South Africa",
+      "d": "England"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "In the ICC Women's U19 T20 World Cup held in 2025, the Indian team secured the championship by defeating South Africa in the final match.",
+    "section_id": null
+  },
+  {
+    "question_number": 100,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "question_text": "Which sport had the most Arjuna Award recipients in January 2025?",
+    "options": {
+      "a": "Para-Athletics",
+      "b": "Shooting",
+      "c": "Hockey",
+      "d": "Athletics"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "During the National Sports Awards announcements in January 2025, the discipline of Para-Athletics featured the highest number of athletes receiving the prestigious Arjuna Award.",
+    "section_id": null
+  }
+]
