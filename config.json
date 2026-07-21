@@ -426,26 +426,52 @@
       "Multiple Choice",
       "Scenario-Based"
     ],
-    "description": "The BACE is a nationally recognised industry credential administered by Biotility at the University of Florida that validates the core theoretical knowledge and practical lab competencies of entry-level biotechnology technicians. It covers eight categories across a Knowledge and Practical portion, is developed to ISO/IEC 17024 standards, and is formally adopted in 17 U.S. states.",
+    "description": "The BACE is a nationally recognised industry credential administered by Biotility at the University of Florida that validates the core theoretical knowledge and practical lab competencies of entry-level biotechnology technicians. It covers eight categories across a Knowledge and Practical portion, is developed to ISO/IEC 17024 standards, and is formally adopted as a state-recognised credential in 20 states and Washington D.C. — with active use, short of formal adoption, in 17 additional states. The credential is valid for five years from the date of passing.",
     "officialWebsite": "https://biotility.research.ufl.edu",
     "isOfficial": false,
-    "lastUpdated": "2026-06-27",
-    "seoTitle": "BACE Exam 2026: Free Mock Tests, Syllabus & Biotech Prep Guide",
-    "seoDescription": "Prepare for the BACE biotechnology certification with free mock tests & 2026 syllabus guide. Master lab safety, PCR, GMP & biotech principles. Start today!",
+    "lastUpdated": "2026-07-20",
+    "seoTitle": "BACE Practice Exam 2026: Certification Study Guide & Questions",
+    "seoDescription": "Prepare for the 2026 BACE (Biotechnician Assistant Credentialing Exam) with free practice questions, a complete study guide, and pass rate info.",
     "relatedBlogTags": [
       "BACE",
-      "Biotechnology",
-      "Lab Certification",
-      "Biotech Careers"
+      "bace exam",
+      "bace certification",
+      "bace practice exam",
+      "bace exam practice test",
+      "bace study guide",
+      "biotechnician assistant credentialing exam",
+      "biotechnology aptitude and competency exam",
+      "Biotility"
+    ],
+    "heroStats": [
+      { "label": "Questions", "value": "116 (175 points)" },
+      { "label": "Duration", "value": "4 Hours" },
+      { "label": "Passing Score", "value": "80% Overall" },
+      { "label": "Exam Type", "value": "Knowledge & Practical" },
+      { "label": "Attempts", "value": "Up to 3" },
+      { "label": "Credential Validity", "value": "5 Years" }
+    ],
+    "importantDates": [
+      { "event": "AY 2025-2026 First-Attempt Testing Window", "date": "Closed July 15, 2026", "status": "past" },
+      { "event": "AY 2025-2026 Retake Order Deadline", "date": "July 27, 2026", "status": "upcoming" },
+      { "event": "AY 2025-2026 Retake Testing Window Closes", "date": "August 10, 2026", "status": "upcoming" },
+      { "event": "AY 2026-2027 Exam Site Registration (Expected)", "date": "Opens ~September 2026 (based on prior-year pattern)", "status": "upcoming" },
+      { "event": "Remote Testing Option (Individual/ProctorU)", "date": "Available On-Demand, Year-Round", "status": "ongoing" },
+      { "event": "Paper Option Retired", "date": "As of Fall 2025", "status": "past" }
+    ],
+    "officialLinks": [
+      { "label": "Official BACE Information (Biotility)", "url": "https://biotility.research.ufl.edu/biotech-industry-credentials/bace/" },
+      { "label": "UF e-Learning Free Prep Course & Registration", "url": "https://reg.pwd.aa.ufl.edu/search/publicCourseSearchDetails.do?method=load&courseId=1908292" },
+      { "label": "BACE FAQ (Biotility)", "url": "https://biotility.research.ufl.edu/biotech-industry-credentials/bace/faq-your-questions-answered/" }
     ],
     "keyFacts": [
       {
         "label": "Frequency",
-        "value": "Multiple sessions throughout the year — on-demand at approved Exam Sites or remotely via ProctorU"
+        "value": "Exam Sites test on an academic-year calendar (AY 2025-2026 first-attempt testing closed July 15, 2026; retakes due by August 10, 2026); the Remote Testing Option via ProctorU is available on-demand year-round regardless of that calendar"
       },
       {
         "label": "Mode",
-        "value": "Computer-based only (as of AY 2025–2026) — certified Exam Site with live proctor, or remote via ProctorU"
+        "value": "Computer-based only (as of AY 2025–2026) — certified Exam Site with live proctor, or remote via ProctorU. Multiple-choice, scenario-based, and matching questions"
       },
       {
         "label": "Duration",
@@ -461,7 +487,15 @@
       },
       {
         "label": "Attempts",
-        "value": "Up to 3 per academic year with a mandatory 20-day waiting period between attempts"
+        "value": "Up to 3 total. Exam Site candidates follow their site's academic-year testing calendar; Individual/Remote (ProctorU) candidates get 3 attempts within a rolling 12-month period based on their first test date. A mandatory 20-day wait applies between attempts either way"
+      },
+      {
+        "label": "Exam Fee",
+        "value": "$185 per candidate at an Exam Site, or $200 for the Remote Testing Option via ProctorU. Both include the first attempt plus one free retake; a third attempt costs an additional $50 for Remote candidates"
+      },
+      {
+        "label": "Credential Validity",
+        "value": "5 years from the date of passing; candidates must retake and pass the BACE again before the 5-year mark to renew the credential"
       }
     ],
     "eligibility": [
@@ -482,7 +516,7 @@
       },
       {
         "label": "Question Format",
-        "value": "Scenario-based, single-best-answer MCQ"
+        "value": "Scenario-based, single-best-answer, and matching MCQ items"
       },
       {
         "label": "Portions",
@@ -499,6 +533,10 @@
       {
         "label": "Negative Marking",
         "value": "None"
+      },
+      {
+        "label": "Credential Validity",
+        "value": "5 years from the date of passing"
       }
     ],
     "syllabusOverview": [
@@ -569,6 +607,10 @@
     ],
     "faqs": [
       {
+        "question": "What is the BACE exam pass rate?",
+        "answer": "Biotility does not publish an official national pass rate for the BACE, though some school districts have reported local averages around 63%. BACE requires an 80% passing score."
+      },
+      {
         "question": "Who should take the BACE exam?",
         "answer": "The BACE is designed for anyone entering the biotechnology workforce at the technician level — high school students in CTE or biomedical science programmes, community college students in biotech or life sciences, career changers with adjacent lab experience, and undergraduates seeking a verified credential. No specific degree is required."
       },
@@ -578,11 +620,19 @@
       },
       {
         "question": "Is the BACE accepted nationally across the USA?",
-        "answer": "Yes. The BACE is formally adopted as an Industry-Recognised Credential in 17 U.S. states and is supported by national organisations including InnovATEBIO, NIIMBL, and BioFlorida. Over 84 biotechnology companies nationwide have hired BACE credential holders."
+        "answer": "Yes. As of mid-2026, the BACE is formally adopted as a state-recognised Industry-Recognized Credential in 20 states and Washington D.C. (Washington, Oregon, Arizona, Colorado, Kansas, Oklahoma, Texas, Iowa, Missouri, Arkansas, Michigan, Ohio, Tennessee, Alabama, West Virginia, Virginia, Maryland, D.C., South Carolina, Georgia, and Florida), and it's also in active use — without formal state adoption — in 17 more states, including California, New York, Pennsylvania, and North Carolina. That's 37 states plus D.C. in total. It's supported by national organisations including InnovATEBIO, NIIMBL, and BioFlorida, and recognized by 85+ biotechnology companies nationwide."
       },
       {
         "question": "Can I take the BACE remotely?",
-        "answer": "Yes. Candidates not affiliated with a registered Exam Site can register individually through UF Continuing Education and sit the exam remotely from home, monitored in real time by ProctorU. As of AY 2025–2026, the exam is exclusively computer-based — the paper option has been retired."
+        "answer": "Yes. Candidates not affiliated with a registered Exam Site can register individually through UF Continuing Education and sit the exam remotely from home, monitored in real time by ProctorU. As of AY 2025–2026, the exam is exclusively computer-based — the paper option has been retired. Remote registration is self-paced and available year-round, unlike Exam Site testing, which follows an academic-year calendar."
+      },
+      {
+        "question": "How much does the BACE exam cost?",
+        "answer": "$185 per candidate at an Exam Site (school/college), or $200 for the Remote Testing Option via ProctorU. Both fees include the first attempt plus one free second attempt; a third attempt costs an additional $50 for Remote candidates. Both routes also include free access to Biotility's BACE Practice Exam Course."
+      },
+      {
+        "question": "How long is the BACE credential valid?",
+        "answer": "Five years from the date you pass. To keep the credential current, candidates must retake and pass the BACE exam again before the five-year mark. The credential is issued and verified through Accredible."
       }
     ]
   },
@@ -722,8 +772,8 @@
       "officialWebsite": "https://iimcat.ac.in/",
       "isOfficial": true,
       "lastUpdated": "2026-04-30",
-      "seoTitle": "CAT 2026: Free Mock Tests, Syllabus & IIM Prep Study Guide",
-      "seoDescription": "Crack CAT 2026 with free mock tests & complete syllabus guide. Practice VARC, DILR & QA with IIM-pattern simulations. Boost your MBA admission percentile!",
+      "seoTitle": "CAT Exam: Free Mock Tests, Syllabus CAT Exam Guide, and Previous Year Papers",
+      "seoDescription": "Crack the CAT entrance exam with free online mock tests, previous year papers & complete syllabus, and exam guide. Practice VARC, DILR & QA with previous year CAT papers.",
       "relatedBlogTags": [
         "CAT",
         "MBA Entrance",
@@ -1751,14 +1801,35 @@
       "description": "Concours annuel centralisé organisé par l'ARES en Fédération Wallonie-Bruxelles pour l'accès aux études de médecine et de médecine dentaire. Il évalue les connaissances scientifiques (Biologie, Chimie, Physique, Mathématiques) et les compétences en communication et analyse critique.",
       "officialWebsite": "https://www.concoursmd.be",
       "isOfficial": true,
-      "lastUpdated": "2026-07-07",
-      "seoTitle": "Concours Médecine Belgique 2026 : Tests Gratuits, Syllabus & Guide",
-      "seoDescription": "Préparez le concours d'entrée en médecine & dentisterie de Belgique (ARES) avec des tests gratuits & le syllabus 2026. Maîtrisez Bio, Chimie, Physique & Maths!",
+      "lastUpdated": "2026-07-19",
+      "seoTitle": "Concours Médecine Belgique 2026 — Annales, QCM Gratuits & Guide ARES",
+      "seoDescription": "5 294 candidats, 1 648 admis en 2025. Préparez le concours d'entrée médecine & dentisterie Belgique (27 août 2026) avec des annales, QCM gratuits et le syllabus ARES complet.",
       "relatedBlogTags": [
         "Concours Médecine Belgique",
         "ARES FWB",
         "Études de Médecine",
         "Préparation Concours"
+      ],
+      "heroStats": [
+        { "label": "Candidats 2025", "value": "5 294" },
+        { "label": "Admis 2025", "value": "1 648" },
+        { "label": "Taux d'admission", "value": "~31 %" },
+        { "label": "Date 2026", "value": "27 août" },
+        { "label": "Score total", "value": "/ 160 pts" },
+        { "label": "Questions", "value": "80 QCM" }
+      ],
+      "importantDates": [
+        { "event": "Ouverture des inscriptions", "date": "18 mai 2026", "status": "past" },
+        { "event": "Clôture des inscriptions", "date": "5 juillet 2026", "status": "past" },
+        { "event": "Annulation sans perdre une tentative", "date": "~13 août 2026", "status": "upcoming" },
+        { "event": "Convocation disponible", "date": "~20 août 2026", "status": "upcoming" },
+        { "event": "Jour du concours", "date": "27 août 2026", "note": "Brussels Expo, Plateau du Heysel", "status": "upcoming" },
+        { "event": "Publication des résultats / attestation", "date": "Début septembre 2026", "status": "upcoming" }
+      ],
+      "officialLinks": [
+        { "label": "Inscription — concoursmd.be", "url": "https://www.concoursmd.be" },
+        { "label": "Programme officiel — mesetudes.be", "url": "https://www.mesetudes.be" },
+        { "label": "Résultats & statistiques — ares-ac.be", "url": "https://www.ares-ac.be" }
       ],
       "keyFacts": [
         {

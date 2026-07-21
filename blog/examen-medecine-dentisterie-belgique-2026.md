@@ -1,9 +1,13 @@
 ---
 title: "Concours Médecine Belgique 2026 : le guide complet et vérifié du concours d'entrée en médecine et dentisterie"
 date: "2026-07-07"
+dateModified: "2026-07-19"
 author: "ExamOven"
-excerpt: "Tout ce qu'il faut savoir sur le concours médecine Belgique (ARES) — date vérifiée, format réel des questions, derniers résultats officiels 2025, cotation, quotas et stratégie de préparation, mis à jour pour août 2026."
-tags: ["Concours Médecine Belgique", "ARES FWB", "Études de Médecine", "Préparation Concours", "Concours Entrée Médecine"]
+seoTitle: "Concours Médecine Belgique 2026 — Annales, QCM Gratuits, Syllabus ARES & Résultats 2025"
+seoDescription: "5 294 candidats, 1 648 admis en 2025 (31 %). Tout sur le concours médecine Belgique 2026 : date du 27 août, 80 QCM sur 160 pts, points négatifs, quotas, annales PDF et stratégie ARES."
+excerpt: "Tout ce qu'il faut savoir sur le concours médecine Belgique (ARES) — date vérifiée, format réel des questions (80 QCM sur 160 pts), derniers résultats officiels 2025, cotation à points négatifs, quotas et stratégie de préparation, mis à jour pour août 2026."
+locale: "fr-BE"
+tags: ["Concours Médecine Belgique", "ARES FWB", "Études de Médecine", "Préparation Concours", "Concours Entrée Médecine", "examen d'entrée médecine belgique", "annales concours médecine belgique", "QCM médecine belgique", "concoursmd", "concours dentisterie belgique 2026", "résultats concours médecine 2025"]
 mdFilePath: "/blog/belgium-medicine-dentistry-exam-2026.md"
 ---
 
@@ -152,7 +156,7 @@ Stœchiométrie, oxydoréduction et électrochimie, équilibres acido-basiques, 
 Structure et division cellulaires, génétique moléculaire, hérédité mendélienne, physiologie humaine (systèmes nerveux, endocrinien, cardiovasculaire, immunitaire), écologie et évolution.
 
 ### Physique
-M�canique classique, optique géométrique, ondes et son, électricité et circuits, mécanique des fluides, radioactivité et physique nucléaire — attendez-vous à des questions calculatoires, pas seulement conceptuelles.
+Mécanique classique, optique géométrique, ondes et son, électricité et circuits, mécanique des fluides, radioactivité et physique nucléaire — attendez-vous à des questions calculatoires, pas seulement conceptuelles.
 
 ### Mathématiques
 Algèbre et fonctions, trigonométrie, vecteurs, calcul différentiel et intégral, limites, fonctions logarithmiques et exponentielles, statistiques et probabilités. La vitesse de calcul compte, car elle vous coûte du temps sur toutes les matières scientifiques.

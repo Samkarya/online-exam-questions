@@ -1,9 +1,13 @@
 ---
 title: "The Complete Guide to the Belgium Medicine & Dentistry Entrance Exam 2026"
 date: "2026-04-21"
+dateModified: "2026-07-19"
 author: "ExamOven"
-excerpt: "Everything you need to know about the ARES concours — exam date, registration, syllabus, scoring, and preparation strategy for August 2026."
-tags: ["Medicine", "Belgium", "Entrance Exam", "2026"]
+seoTitle: "Belgium Medicine & Dentistry Entrance Exam 2026 — ARES Concours Guide, Dates & Syllabus"
+seoDescription: "5,294 candidates, 1,648 admitted in 2025 (31%). Full guide to the ARES concours médecine Belgique 2026: August 27 exam date, 80 MCQs, 160 pts, negative marking, quotas & syllabus."
+excerpt: "Everything you need to know about the ARES concours médecine Belgique — exam date (27 August 2026), 80 MCQs on 160 pts, 2025 official results (5,294 deliberated / 1,648 admitted), negative marking, non-resident quota, and preparation strategy."
+tags: ["Concours Médecine Belgique", "ARES FWB", "Études de Médecine", "Préparation Concours", "Belgium Medicine Entrance Exam", "ARES exam 2026", "Concours MD Belgium", "medicine entrance exam Belgium", "dentistry entrance exam Belgium"]
+locale: "en"
 mdFilePath: "blog/belgium-medicine-dentistry-exam-2026.md"
 ---
 
@@ -17,7 +21,7 @@ For years, it operated as a simple pass/fail entrance exam (the EXMD) with two s
 
 You are no longer just trying to "pass." You are trying to outperform thousands of other candidates for a finite number of spots.
 
-In 2025, **5,205 candidates** sat the exam. Only **1,520 were admitted** — a pass rate of approximately **29.2%**. Roughly one in three students makes it.
+In 2025, **5,294 candidates** were deliberated. Only **1,648 were admitted** — a pass rate of approximately **31%**. Roughly one in three students makes it.
 
 This exam grants access to five French-speaking universities in Belgium:
 
@@ -149,18 +153,18 @@ The full exam lasts **approximately seven hours**, divided into two blocks acros
 
 | | Part 1 | Part 2 |
 |---|---|---|
-| **Focus** | Knowledge and understanding of scientific subjects | Communication and critical analysis of information |
-| **Subjects** | Biology, Chemistry, Physics, Mathematics | Reasoning & Analysis, Ethics & Empathy, Communication, Critical Thinking |
-| **Questions per subject** | 15 MCQs | 15 MCQs |
-| **Total questions per part** | 60 MCQs | 60 MCQs |
-| **Grand total** | **120 MCQs** | |
+| **Focus** | Knowledge and understanding of scientific subjects | Communication, reasoning and critical analysis |
+| **Subjects** | Biology, Chemistry, Physics, Mathematics | Reasoning & Critical Analysis, Communication |
+| **Points** | 20 pts each (80 pts total) | Reasoning 20 pts + Communication 60 pts |
+| **Total questions** | | **80 MCQs** (two sessions of 40) |
+| **Total score** | | **160 points** |
 
-The total exam is scored **out of 160 points** (not 120 — the scoring assigns differential weight to certain questions; always verify the exact marking grid in the official ARES annales for your sitting year).
+The **Communication** section (60 points) carries **3× the weight** of any single science subject — the most systematically underestimated section among science-strong candidates.
 
 ### On Negative Marking
 
 > [!WARNING]
-> The scoring modality for 2026 has not been definitively published at the time of writing. **Some years have included negative marking; some have not.** At least one major preparation provider explicitly warns candidates about negative points in their 2026 materials. Treat this as an active risk: **never guess blindly**. Eliminate at least two options before committing to an answer. Check the official ARES marking rules once published after registration opens in May.
+> **Negative marking IS confirmed for 2026.** The concours applies a penalty of **–1/3 per wrong answer**, and an additional –1/3 if multiple answers are ticked for the same question. Never guess blindly — eliminate at least two options before committing. A political debate is ongoing in the French Community about potentially removing negative marking in future editions, but no change has been confirmed for 2026.
 
 ---
 
@@ -218,7 +222,7 @@ After the exam, ARES calculates each candidate's **total score out of 160**, bas
 
 ### The Quota System
 
-Each year, the Government of the French Community (Fédération Wallonie-Bruxelles) sets a fixed **numerus clausus** — the total number of spots available in Medicine and separately in Dentistry for the upcoming academic year. In 2025, 1,462 candidates were admitted to Medicine (including 219 non-residents) and 186 to Dentistry (including 27 non-residents).
+Each year, the Government of the French Community (Fédération Wallonie-Bruxelles) sets a fixed **numerus clausus** — the total number of spots available in Medicine and separately in Dentistry for the upcoming academic year. In 2025, 1,462 candidates were admitted to Medicine (including 219 non-residents) and 186 to Dentistry (including 27 non-residents). The total quota was **1,648** out of **5,294 deliberated**.
 
 The ARES jury selects candidates from the top of the ranked list downward, until the quota is filled. The candidate ranked at the exact cutoff point defines the minimum score needed that year — but this threshold is **not published in advance** and varies every year based on candidate performance.
 

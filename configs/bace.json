@@ -14,8 +14,8 @@
         "model": "gemini-3-pro",
         "defaultQuestionCount": 60,
         "isOfficial": false,
-        "seo_title": "BACE Biotechnology Skills Practice Test | Biotech Practical Prep",
-        "seo_description": "Prepare for the BACE Biotechnology Skills practical section. Free online practice test covering aseptic techniques, micropipetting, and lab safety."
+        "seo_title": "BACE Practice Exam: Biotechnology Skills & Aseptic Techniques",
+        "seo_description": "Prepare for the BACE Biotechnology Skills practical section. Free BACE practice test questions covering aseptic techniques, micropipetting, and lab safety."
     },
     {
         "id": "bace_tech_skills_knowledge",
@@ -32,8 +32,8 @@
         "model": "gemini-3-pro",
         "defaultQuestionCount": 50,
         "isOfficial": false,
-        "seo_title": "BACE Technical Skills & Applications Mock Test | Biotech Exam",
-        "seo_description": "Practice BACE Technical Skills and Applications. Free mock test on PCR, electrophoresis, immunoassays, and chromatography for biotech certification."
+        "seo_title": "BACE Practice Exam Questions: Technical Skills & PCR",
+        "seo_description": "Practice BACE Technical Skills and Applications. Free BACE exam practice test on PCR, electrophoresis, immunoassays, and chromatography."
     },
     {
         "id": "bace_applied_math",
@@ -50,8 +50,8 @@
         "model": "gemini-3-pro",
         "defaultQuestionCount": 30,
         "isOfficial": false,
-        "seo_title": "BACE Applied Mathematics Practice Test | Biotech Lab Math",
-        "seo_description": "Master BACE applied mathematics with our free practice test. Solve lab calculations involving dilutions, molarity, and unit conversions."
+        "seo_title": "BACE Practice Test: Applied Mathematics & Lab Calculations",
+        "seo_description": "Master BACE applied mathematics with our free BACE practice exam questions. Solve lab calculations involving dilutions, molarity, and unit conversions."
     },
     {
         "id": "bace_safety_culture",
@@ -68,8 +68,8 @@
         "model": "gemini-3-pro",
         "defaultQuestionCount": 30,
         "isOfficial": false,
-        "seo_title": "BACE Safety & Workplace Culture Mock Test | Lab Safety Prep",
-        "seo_description": "Prepare for the BACE Safety and Workplace Culture section. Free practice test on PPE, biohazard disposal, and OSHA lab safety standards."
+        "seo_title": "BACE Exam Practice Test: Safety & Workplace Culture",
+        "seo_description": "Prepare for the BACE Safety and Workplace Culture section. Free BACE practice exam questions on PPE, biohazard disposal, and OSHA lab safety standards."
     },
     {
         "id": "bace_biochem_molecular",
@@ -86,8 +86,8 @@
         "model": "gemini-3-pro",
         "defaultQuestionCount": 30,
         "isOfficial": false,
-        "seo_title": "BACE Biochemistry & Molecular Biology Practice Quiz",
-        "seo_description": "Test your knowledge of the Central Dogma, enzyme kinetics, and protein structure with our free BACE Biochemistry and Molecular Biology practice quiz."
+        "seo_title": "BACE Study Guide Quiz: Biochemistry & Molecular Biology",
+        "seo_description": "Test your knowledge of the Central Dogma, enzyme kinetics, and protein structure with our free BACE Biochemistry practice test questions."
     },
     {
         "id": "bace_regulation_quality",
@@ -104,8 +104,8 @@
         "model": "gemini-3-pro",
         "defaultQuestionCount": 20,
         "isOfficial": false,
-        "seo_title": "BACE Regulation & Quality Control Mock Test | Biotech QA/QC",
-        "seo_description": "Practice BACE Regulation and Quality Control. Free online test covering cGMP, GLP, QA/QC roles, and data integrity principles for biotechnology."
+        "seo_title": "BACE Practice Exam: Regulation, QC & cGMP Roles",
+        "seo_description": "Practice BACE Regulation and Quality Control. Free online test questions covering cGMP, GLP, QA/QC roles, and data integrity principles."
     },
     {
         "id": "bace_equipment_design",
@@ -122,7 +122,7 @@
         "model": "gemini-3-pro",
         "defaultQuestionCount": 40,
         "isOfficial": false,
-        "seo_title": "BACE Equipment & Experimental Design Practice Test",
+        "seo_title": "BACE Exam Practice Questions: Equipment & Design",
         "seo_description": "Master BACE equipment operation and experimental design. Free practice test on centrifuge use, autoclave cycles, and experimental error analysis."
     }
 ]

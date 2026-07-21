@@ -1,8 +1,20 @@
+---
+title: "BACE Exam 2026: Certification Study Guide, Practice Tests & Pass Rate"
+date: "2026-06-27"
+dateModified: "2026-07-20"
+author: "ExamOven"
+seoTitle: "BACE Exam 2026: Practice Tests, Pass Rate & Study Guide"
+seoDescription: "Complete 2026 guide to the Biotechnician Assistant Credentialing Exam (BACE). Includes free practice questions, study guide tips, pass rate, and formats."
+excerpt: "Everything you need to know about the BACE exam: 116 questions, 4-hour duration, 80% passing score, 8 topic categories, a 5-year credential, registration steps, study tips, and a free practice test."
+locale: "en-US"
+tags: ["BACE", "bace exam", "bace certification", "bace practice exam", "bace exam practice test", "bace study guide", "biotechnician assistant credentialing exam", "biotechnology aptitude and competency exam", "Biotility"]
+mdFilePath: "/blog/bace-exam-guide.md"
+---
 
-*Last updated: June 27, 2026 · Fact-checked against [official Biotility sources](https://biotility.research.ufl.edu/biotech-industry-credentials/bace/)*
+*Last updated: July 20, 2026 · Fact-checked against [official Biotility sources](https://biotility.research.ufl.edu/biotech-industry-credentials/bace/), including the current [BACE FAQ](https://biotility.research.ufl.edu/biotech-industry-credentials/bace/faq-your-questions-answered/) and [BACE individual registration page](https://reg.pwd.aa.ufl.edu/search/publicCourseSearchDetails.do?method=load&courseId=1908292)*
 
 
-If you've been searching for a clear, no-fluff breakdown of the **BACE exam**, this is it. No padding, no recycled Wikipedia summaries — just everything you actually need to understand what the exam is, how it's structured, how to register, and how to walk in prepared to pass.
+If you've been searching for a clear breakdown of the **BACE exam**, this is it. It covers everything you need to understand what the exam is, how it's structured, how to register, and how to walk in prepared to pass.
 
 Whether you're a high school student, a community college candidate, or a career-changer who wants a credentialed foot in the door of biotech, this guide covers it all.
 
@@ -11,7 +23,7 @@ Whether you're a high school student, a community college candidate, or a career
 
 The **BACE exam** — formally the **Biotechnology Aptitude and Competency Exam** — is an industry-recognized credential that proves you have the foundational knowledge and lab skills to work as an entry-level biotechnician.
 
-It's developed and administered by [**Biotility at the University of Florida**](https://biotility.research.ufl.edu/), specifically through UF's Center of Excellence for Regenerative Health Biotechnology (UF CERHB). The credential has been around since 2012, but it's grown substantially since then — today it's recognized across 17 U.S. states and supported by national organizations including InnovATEBIO, NIIMBL, and BioFlorida.
+It's developed and administered by [**Biotility at the University of Florida**](https://biotility.research.ufl.edu/), specifically through UF's Center of Excellence for Regenerative Health Biotechnology (UF CERHB) — a center that [marked its 20th anniversary in 2026](https://biotility.research.ufl.edu/biotility-celebrates-20-years/). The BACE credential itself dates to 2012, when it was added to Florida's list of industry-recognized credentials, and it's grown substantially since then. As of mid-2026, it's **formally adopted as a state-recognized credential in 20 states and Washington D.C.**, and it's actively used — without formal state adoption — in **17 more states**, putting it in active use across 37 states and D.C. total. It's also backed by national organizations including InnovATEBIO, NIIMBL, and BioFlorida.
 
 What makes the BACE different from a school exam is how it was built. The content comes from a **DACUM (Developing a Curriculum) analysis** — a process where working biotech professionals define the exact skills someone needs to perform on day one of a technician role. Biotility's National Advisory Board reviews and updates the exam annually, and the whole thing is developed to **ISO/IEC 17024 standards** — the same international framework used for professional certification bodies worldwide.
 
@@ -55,8 +67,9 @@ Here's the full picture in one place:
 | Passing score | 80% overall |
 | Portions | 2 (Knowledge + Practical) |
 | Delivery format | Computer-based only (as of AY 2025–2026) |
-| Attempts per academic year | 3 |
+| Maximum attempts | 3 |
 | Waiting period between attempts | 20 days minimum |
+| Credential validity | 5 years from your pass date |
 | Remote proctoring | [ProctorU](https://www.proctoru.com/) |
 | Exam platform | [UF e-Learning](https://reg.pwd.aa.ufl.edu/search/publicCourseSearchDetails.do?method=load&courseId=1908292) |
 
@@ -64,7 +77,11 @@ Here's the full picture in one place:
 
 The BACE runs in a single continuous session. It has two portions — **Knowledge** and **Practical** — but you complete them together, not on separate days.
 
-The **Knowledge Portion** tests your theoretical understanding: concepts, safety regulations, biochemistry, and quality systems. The **Practical Portion** tests whether you can apply that knowledge to real lab scenarios — equipment use, solution prep, data interpretation, experimental design. Both are now delivered as computer-based, scenario-driven multiple-choice questions.
+The **Knowledge Portion** tests your theoretical understanding: concepts, safety regulations, biochemistry, and quality systems. The **Practical Portion** tests whether you can apply that knowledge to real lab scenarios — equipment use, solution prep, data interpretation, experimental design. Both are now delivered as computer-based, scenario-driven multiple-choice and matching questions.
+
+### How Your 3 Attempts Are Tracked
+
+The "3 attempts" rule works slightly differently depending on how you register. If you test through an **Exam Site**, your attempts follow that site's academic-year testing calendar (more on this below). If you register individually through the **Remote Testing Option**, [Biotility tracks your three attempts within a rolling 12-month period starting from your first test date](https://reg.pwd.aa.ufl.edu/search/publicCourseSearchDetails.do?method=load&courseId=1908292) — not a fixed academic year. Either way, the mandatory 20-day wait between attempts still applies.
 
 Your **final score** is the average of your highest Knowledge score and your highest Practical score across your attempts.
 
@@ -145,7 +162,9 @@ Controls (positive, negative), variables, replication, hypothesis formation, gra
 
 ## BACE Exam Pass Rate and Difficulty
 
-Biotility doesn't publish a single overall pass rate, but here's what we know.
+Biotility does not publish a single, official national pass rate. However, some individual school districts have historically reported local pass rates averaging around **63%**. 
+
+*(Note: If you see much lower pass rates floating around online, ensure you aren't looking at data for the **BACB** — the Behavior Analyst Certification Board.)*
 
 The **80% passing threshold** is meaningfully higher than most comparable credentialing exams, which typically require 70–75%. That bar is intentional — the biotech industry demands precision, and the BACE is designed to reflect that.
 
@@ -153,7 +172,7 @@ The **Applied Mathematics** and **Biotechnology Skills** sections are consistent
 
 The 4-hour time limit is generous if you're well prepared, but serial dilution problems can eat time quickly if you're uncertain. If you're going in underprepared on math, the clock will feel short.
 
-The good news: **you get up to 3 attempts per academic year**, with a 20-day waiting period between each. That's not a reason to go in underprepared, but it does mean one rough attempt doesn't end your path to the credential.
+The good news: **you get up to 3 attempts** (tracked by academic-year calendar at Exam Sites, or a rolling 12-month window if you register remotely), with a 20-day waiting period between each. That's not a reason to go in underprepared, but it does mean one rough attempt doesn't end your path to the credential.
 
 > [!TIP]
 > The candidates most likely to pass on the first attempt are those who combine practice test work with hands-on lab time. Reading about pipetting is not the same as having done it. If you have access to a lab — even briefly — use it.
@@ -182,21 +201,32 @@ If you're not affiliated with a registered exam site:
 
 **Before you register**, read the [Candidate Information Bulletin (CIB)](https://biotility.research.ufl.edu/biotech-industry-credentials/bace/bace-administration-documents/). It covers all policies on eligibility, accommodations, retakes, and remote testing requirements.
 
+> [!NOTE]
+> **Where the AY 2025–2026 cycle stands right now (as of July 20, 2026):** Exam Site first-attempt testing for this academic year closed on **July 15, 2026**. Retake orders are due by **July 27, 2026**, and all retake testing must be completed by **August 10, 2026**. Based on prior years' pattern, Biotility typically opens **AY 2026–2027** Exam Site registration around **September 3**. None of this affects the **Remote Testing Option** — individual/ProctorU registration stays open on-demand year-round regardless of the academic-year calendar.
+
 ---
 
 ## BACE Exam Cost
 
-Costs vary depending on how you register.
+Biotility publishes exact fees for both testing routes, and each one covers your first two attempts.
 
-**Through a school or exam site:** Most institutions bundle the exam fee into program or course costs, so you may not pay separately at all. Check with your program administrator.
+**At an Exam Site (school/college): \$185 per candidate.** Your school or program registers as an Exam Site and typically pays Biotility directly, so you may not see a separate bill — check with your program administrator to confirm how your institution handles it.
 
-**Individual/Remote Testing:** Standalone registration through UF Continuing Education typically runs **\$150–\$200**, though fees can change. Check the current UF registration page directly before budgeting. Some providers like the University of Cincinnati offer bundled bootcamp-plus-exam packages (~$499).
+**Individual / Remote Testing Option (ProctorU):**
+- First attempt: **\$200**
+- Second attempt (if needed): **Free**
+- Third attempt (if needed): **\$50**
 
-**What's always included for free:** All registered candidates — regardless of route — receive access to Biotility's [BACE Practice Exam Course](https://reg.pwd.aa.ufl.edu/search/publicCourseSearchDetails.do?method=load&courseId=1908292) on UF e-Learning, which includes two full practice exam versions, a math skills module, and category-level self-assessments.
+Once enrolled, you have **180 days** to complete your first attempt and **90 days** to complete each retake.
+
+**What's always included:** Both routes include free access to Biotility's [BACE Practice Exam Course](https://reg.pwd.aa.ufl.edu/search/publicCourseSearchDetails.do?method=load&courseId=1908292) on UF e-Learning — two full practice exam versions, a math skills module, and category-level self-assessments — plus your digital credential upon passing.
+
+> [!NOTE]
+> Some third-party providers, like the University of Cincinnati's bootcamp-plus-exam bundle (~\$499), charge more because the fee covers instruction time on top of the exam itself, not the BACE fee alone. Registering directly with Biotility/UF is the cheapest path if you just need the credential.
 
 ---
 
-## How to Study for the BACE
+## BACE Exam Study Guide
 
 Here's what actually moves the needle, prioritized by impact.
 
@@ -246,9 +276,13 @@ One or two sessions of actual bench work before the exam makes a measurable diff
 
 ## After You Pass
 
-### Digital Badge
+### Digital Credential & Verification
 
-Passing earns you a **verifiable digital badge** from Biotility. You can add it to your LinkedIn profile, resume, or email signature with a direct verification link so any employer can instantly confirm it's real.
+Passing earns you a **verifiable digital credential**, issued through [Accredible](https://www.accredible.com/). You can add it to your LinkedIn profile, resume, or email signature with a direct verification link. Employers can independently confirm it's real using [Accredible's Credential Verification Tool](https://verify.accredible.com/input) — by credential URL, Credential ID number, or by uploading the badge image. If you ever lose access to your credential, Accredible has a [self-serve retrieval tool](https://v2.accounts.accredible.com/retrieve-credentials?app=recipient-portal&origin=https:%2F%2Fwww.credential.net) tied to the email you registered with.
+
+### Credential Validity — 5 Years
+
+The BACE credential is valid for **five years** from the date you pass. To keep it current, you'll need to retake and pass the exam again before the five-year mark — Biotility frames this as a way to make sure your skills and knowledge stay current in a fast-moving field. It's worth putting a reminder on your calendar well before your credential expires.
 
 ### Biotility Spotlight Registry
 
@@ -260,16 +294,19 @@ If you're in Florida, passing the BACE earns you **three postsecondary credit ho
 
 ### Careers and Salary
 
-The BACE credential is recognized by over 84 biotechnology companies and is now formally adopted in 17 states, with Virginia and Kansas joining most recently. Entry-level biotechnician roles in the U.S. currently start in the **\$42,000–\$65,000/year range**, with ZipRecruiter data placing average entry-level salaries around \$48,600–\$50,000 annually as of 2026. In major biotech hubs — San Francisco, Boston/Cambridge, San Diego, the Research Triangle in North Carolina — salaries run 20–25% higher than the national average.
+The BACE credential is recognized by **85+ biotechnology companies** (per Biotility's [employer directory](https://biotech-careers.org/business-area/bace)) and, as of mid-2026, is formally adopted as a state-level credential in **20 states and Washington D.C.** — with active use, short of formal adoption, in **17 additional states**. That's 37 states plus D.C. where the BACE shows up in some form. Biotility also celebrated its 10,000th credential earner nationally in 2025, and that number keeps climbing. Entry-level biotechnician roles in the U.S. currently start in the **\$42,000–\$65,000/year range**, with ZipRecruiter data placing average entry-level salaries around \$48,600–\$50,000 annually as of 2026. In major biotech hubs — San Francisco, Boston/Cambridge, San Diego, the Research Triangle in North Carolina — salaries run 20–25% higher than the national average.
 
 The BACE won't set your salary on its own, but it gives employers a verifiable signal of competency that makes you a stronger candidate for those entry-level roles, especially without a completed four-year degree.
 
 > [!NOTE]
-> As of October 2025, the BACE has been approved in Virginia and Kansas, bringing the total number of states with formal state-level adoption to **17**. Check [Biotility's news page](https://biotility.research.ufl.edu/biotility-news/) for the most current list.
+> Biotility's adoption map has grown quickly. **Formally adopted (20 states + D.C.):** Washington, Oregon, Arizona, Colorado, Kansas, Oklahoma, Texas, Iowa, Missouri, Arkansas, Michigan, Ohio, Tennessee, Alabama, West Virginia, Virginia, Maryland, D.C., South Carolina, Georgia, and Florida. **In active use without formal adoption (17 states):** Alaska, California, Nevada, Montana, Utah, Nebraska, Wisconsin, Illinois, Indiana, Kentucky, New Hampshire, New York, Massachusetts, Rhode Island, Pennsylvania, New Jersey, and North Carolina. A further 13 states plus Puerto Rico are listed as "prospective." Check [Biotility's adoption map](https://biotility.research.ufl.edu/biotech-industry-credentials/bace/) for the most current version.
 
 ---
 
 ## BACE Exam FAQs
+
+**What is the BACE exam pass rate?**
+There is no official national pass rate published by Biotility, though some districts report ~63% locally.
 
 **How many questions are on the BACE exam?**
 116 total questions, worth 175 points, split across a Knowledge Portion (64 questions) and a Practical Portion (52 questions) covering eight categories.
@@ -281,7 +318,13 @@ The BACE won't set your salary on its own, but it gives employers a verifiable s
 80% or higher overall. Your final score is the average of your highest Knowledge Portion score and your highest Practical Portion score across attempts.
 
 **How many times can you retake it?**
-Up to 3 attempts per academic year, with a mandatory 20-day wait between each attempt.
+Up to 3 attempts total. Exam Site candidates follow their site's academic-year testing calendar; Remote Testing Option candidates get 3 attempts within a rolling 12-month window from their first test date. Either way, there's a mandatory 20-day wait between attempts.
+
+**How long is the BACE credential valid?**
+Five years from your pass date. You'll need to retake and pass the exam again before the five-year mark to keep your credential current.
+
+**How much does the BACE cost?**
+\$185 per candidate at an Exam Site, or \$200 for the Remote Testing Option via ProctorU. Both include your first attempt plus one free retake; a third attempt costs an additional \$50 for Remote candidates (Exam Sites should confirm their own third-attempt policy with their administrator).
 
 **Is the BACE exam hard?**
 The 80% threshold is real, and the math section catches a lot of first-time candidates off guard. That said, candidates who use the official practice resources, put work into the applied math, and bring some genuine bench experience tend to pass on the first try.
@@ -296,7 +339,7 @@ No. The exam is open to high school students, college students, and working adul
 Contact Biotility directly at [biotility.research.ufl.edu](https://biotility.research.ufl.edu/) or email biotility@research.ufl.edu. They'll direct you to registered sites in your area or help you set up for remote testing.
 
 **How do I list the BACE on a resume?**
-Add it to your Certifications section: **Biotechnology Aptitude and Competency Exam (BACE) — Biotility at the University of Florida, [Year]**. Link to your digital badge verification page if space allows.
+Add it to your Certifications section: **Biotechnology Aptitude and Competency Exam (BACE) — Biotility at the University of Florida, [Year]**. Link to your Accredible digital credential verification page if space allows.
 
 ---
 
@@ -310,4 +353,4 @@ Ready to start? Take a free BACE practice test at **[examoven.com/exams/bace](ht
 
 ---
 
-*Sources: [Biotility at the University of Florida](https://biotility.research.ufl.edu/) — [BACE Exam Specifications AY 2025–2026](https://biotility.research.ufl.edu/wp-content/uploads/2025/09/1.1.1-BACE-Exam-Specifications-CBT.pdf) (revised August 20, 2025), [BACE Individual Registration (UF e-Learning)](https://reg.pwd.aa.ufl.edu/search/publicCourseSearchDetails.do?method=load&courseId=1908292), [BACE Digital Expansion Announcement](https://biotility.research.ufl.edu/bace-expands-access-by-going-fully-digital/) (August 2025), [BACE State Approvals Update](https://biotility.research.ufl.edu/bace-updates-new-approvals-and-badging/) (October 2025). Career and salary data: ZipRecruiter (2026). Last fact-checked: June 27, 2026.*
+*Sources: [Biotility at the University of Florida](https://biotility.research.ufl.edu/) — [BACE Credential Overview & State Adoption Map](https://biotility.research.ufl.edu/biotech-industry-credentials/bace/), [BACE Exam Specifications AY 2025–2026](https://biotility.research.ufl.edu/wp-content/uploads/2025/09/1.1.1-BACE-Exam-Specifications-CBT.pdf) (revised August 20, 2025), [BACE FAQ](https://biotility.research.ufl.edu/biotech-industry-credentials/bace/faq-your-questions-answered/) (updated May 2026), [BACE Individual Registration & Fees (UF e-Learning)](https://reg.pwd.aa.ufl.edu/search/publicCourseSearchDetails.do?method=load&courseId=1908292), [BACE Digital Expansion Announcement](https://biotility.research.ufl.edu/bace-expands-access-by-going-fully-digital/) (August 2025), [Biotility Celebrates 20 Years](https://biotility.research.ufl.edu/biotility-celebrates-20-years/) (May 2026), [Biotility Events Calendar](https://biotility.research.ufl.edu/events/) (AY 2025–2026 testing deadlines), [Biotech Careers BACE Employer Directory](https://biotech-careers.org/business-area/bace). Career and salary data: ZipRecruiter (2026). Last fact-checked: July 20, 2026.*
