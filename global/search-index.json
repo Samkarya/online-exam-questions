@@ -420,6 +420,36 @@
     "year": 2025
   },
   {
+    "id": "cat_2025_slot1_completePaper",
+    "title": "CAT 2025 Question Paper (Slot 1, PYQ)",
+    "description": "### CAT 2025 - Slot 1 (Previous Year Question Paper)\n\nThis file contains the complete question paper for the morning slot of CAT 2025, including all three sections: Verbal Ability & Reading Comprehension (VARC), Data Interpretation & Logical Reasoning (DILR), and Quantitative Aptitude (QA).\n\n**Section-wise Breakdown:**\n- **VARC:** Reading Comprehension passages and Verbal Ability questions.\n- **DILR:** Data Interpretation and Logical Reasoning sets.\n- **QA:** Arithmetic, Algebra, Geometry, and Modern Math problems.",
+    "short_description": "Complete CAT 2025 Slot 1 previous year question paper with solutions, including VARC, DILR, and QA.",
+    "path": "India/management/CAT/cat_2025_slot1_completePaper.json",
+    "suitePath": "configs/cat.json",
+    "category": "CAT",
+    "year": 2025
+  },
+  {
+    "id": "cat_2025_slot2_completePaper",
+    "title": "CAT 2025 Question Paper (Slot 2, PYQ)",
+    "description": "### CAT 2025 - Slot 2 (Previous Year Question Paper)\n\nThis file contains the complete question paper for the afternoon slot of CAT 2025, including all three sections: Verbal Ability & Reading Comprehension (VARC), Data Interpretation & Logical Reasoning (DILR), and Quantitative Aptitude (QA).\n\n**Section-wise Breakdown:**\n- **VARC:** Reading Comprehension passages and Verbal Ability questions.\n- **DILR:** Data Interpretation and Logical Reasoning sets.\n- **QA:** Arithmetic, Algebra, Geometry, and Modern Math problems.",
+    "short_description": "Complete CAT 2025 Slot 2 previous year question paper with solutions, including VARC, DILR, and QA.",
+    "path": "India/management/CAT/cat_2025_slot2_completePaper.json",
+    "suitePath": "configs/cat.json",
+    "category": "CAT",
+    "year": 2025
+  },
+  {
+    "id": "cat_2025_slot3_completePaper",
+    "title": "CAT 2025 Question Paper (Slot 3, PYQ)",
+    "description": "### CAT 2025 - Slot 3 (Previous Year Question Paper)\n\nThis file contains the complete question paper for the evening slot of CAT 2025, including all three sections: Verbal Ability & Reading Comprehension (VARC), Data Interpretation & Logical Reasoning (DILR), and Quantitative Aptitude (QA).\n\n**Section-wise Breakdown:**\n- **VARC:** Reading Comprehension passages and Verbal Ability questions.\n- **DILR:** Data Interpretation and Logical Reasoning sets.\n- **QA:** Arithmetic, Algebra, Geometry, and Modern Math problems.",
+    "short_description": "Complete CAT 2025 Slot 3 previous year question paper with solutions, including VARC, DILR, and QA.",
+    "path": "India/management/CAT/cat_2025_slot3_completePaper.json",
+    "suitePath": "configs/cat.json",
+    "category": "CAT",
+    "year": 2025
+  },
+  {
     "id": "cat_2024_slot1_quant",
     "title": "CAT 2024 Question Paper (Slot 1, QA)",
     "description": "### CAT 2024 - Slot 1 (Quantitative Aptitude)\n\n**Conducting IIM:** IIM Calcutta\n\nThis module contains the Quantitative Aptitude section from the morning slot of the Common Admission Test 2024. \n\n**Analysis:**\n- **Difficulty Level:** Moderate to Difficult.\n- **Topic Weightage:** High focus on **Arithmetic** (Time & Work, TSD) and **Algebra** (Quadratic equations, Inequalities). \n- Includes both MCQ and TITA (Type In The Answer) questions.",
