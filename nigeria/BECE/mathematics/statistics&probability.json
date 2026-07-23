@@ -474,7 +474,7 @@
       "c": "6.5",
       "d": "8"
     },
-    "correct_answer": "c",
+    "correct_answer": "b",
     "difficulty": "Hard",
     "explanation": "Order: 1, 4, 8, 9. Middle two are 4 and 8. Median $= \\frac{4+8}{2} = 6$.",
     "section_id": null
