@@ -1,17 +1,20 @@
 ---
 title: "CAT 2026 Complete Guide: Exam Date, Registration, Syllabus & Preparation Strategy"
-date: "2026-04-07"
+date: "2026-07-26"
 author: "ExamOven"
-excerpt: "Everything confirmed and expected about CAT 2026 — exam dates, eligibility, syllabus, and a phased preparation strategy."
-tags: ["CAT", "MBA", "IIM", "Entrance Exam"]
+excerpt: "The CAT 2026 notification is officially out. Confirmed exam date, registration window, fee (which went up this year), eligibility, syllabus, and a phased preparation strategy."
+tags: ["CAT", "MBA Entrance", "IIM", "Exam Prep"]
 mdFilePath: "blog/cat-2026-complete-guide.md"
 ---
 
 **Official Website:** [iimcat.ac.in](https://iimcat.ac.in)
 
-Every November, roughly **3 lakh students** sit down at a computer screen with 120 minutes on the clock — and for most of them, this is the moment they've been preparing for all year. Some will walk out knowing they've cracked it. Most won't. That brutal math — roughly 5,500+ PGP seats across 21 IIMs for hundreds of thousands of aspirants — is exactly what makes the Common Admission Test (CAT) India's most competitive exam.
+Every November, roughly **3 lakh students** sit down at a computer screen with 120 minutes on the clock — and for most of them, this is the moment they've been preparing for all year. Some will walk out knowing they've cracked it. Most won't. That brutal math — roughly 5,500+ PGP seats across 22 IIMs for hundreds of thousands of aspirants — is exactly what makes the Common Admission Test (CAT) India's most competitive exam.
 
-If you're reading this, you're already ahead of the curve. This guide compiles everything confirmed and expected about CAT 2026 — paired with the **[ExamOven CAT Simulator](/exam-library?q=cat)** for dedicated practice and learning. Stop chasing scattered prep advice and start building a real strategy.
+If you're reading this, you're already ahead of the curve. This guide compiles everything now confirmed about CAT 2026 — paired with the **[ExamOven CAT Simulator](/exam-library?q=cat)** for dedicated practice and learning. Stop chasing scattered prep advice and start building a real strategy.
+
+> [!IMPORTANT]
+> **The CAT 2026 notification is officially out** (released July 25, 2026, by IIM Indore). The exam date, registration window, fee, and eligibility below are now **confirmed**, not projected — and two things changed from what most guides (including earlier drafts of this one) had assumed: **registration dates moved** (Aug 3–Sep 15, not Aug 1–Sep 20) and **the fee went up** (₹2,700/₹1,350, not ₹2,600/₹1,300).
 
 ---
 
@@ -20,36 +23,44 @@ If you're reading this, you're already ahead of the curve. This guide compiles e
 | Detail | Information |
 |:---|:---|
 | Full Name | Common Admission Test (CAT) 2026 |
-| Conducting Body | IIM Indore *(expected — officially confirmed in July 2026)* |
+| Conducting Body | **IIM Indore** *(confirmed in the official notification)* |
 | Exam Mode | Computer Based Test (CBT) |
 | Exam Date | **November 29, 2026 (Sunday)** |
 | Number of Slots | 3 (Morning / Afternoon / Evening) |
 | Duration | 120 minutes (40 min per section) |
 | Total Questions | **68** (24 VARC + 22 DILR + 22 QA) |
+| Registration Window | **August 3 – September 15, 2026** |
+| Application Fee | **₹2,700** (Gen/EWS/NC-OBC) / **₹1,350** (SC/ST/PwBD) |
+| Test Cities | ~170 cities; choose up to 5 in order of preference |
+| IIMs Accepting the Score | **22** (including the newly added IIM Guwahati) |
+| Non-IIM Institutes Accepting the Score | **1,300+** |
 | Official Website | iimcat.ac.in |
 
-> **Sources:** [MBAUniverse](https://www.mbauniverse.com/cat) | [Tarkashastra](https://www.tarkashastra.co.in) | [CollegeDunia](https://collegedunia.com/exams/cat)
+> **Sources:** [Shiksha — CAT 2026 Notification (Live)](https://www.shiksha.com/news/mba-cat-2026-notification-live-updates-official-pdf-registration-date-eligibility-fees-exam-date-blogId-236923) | [Careers360 — Notification Out](https://news.careers360.com/iim-cat-notification-out-iimcat-ac-in-registration-from-august-3-eligibility-exam-date-test-centres-reservation) | [iQuanta — Notification Out](https://www.iquanta.in/blog/check-cat-notification-2026/)
 
 ---
 
 ## CAT 2026 Important Dates
 
-These dates are based on multi-year historical patterns and are widely expected by major coaching institutions. They will be officially confirmed when the notification drops on or around **July 26, 2026**.
+The official notification dropped on **July 25, 2026** — a day ahead of the "last Sunday of July" pattern most guides (this one included) had projected. Below is the confirmed schedule, with the CAT 2025 timeline alongside for reference.
 
-| Event | Expected Date |
-|:---|:---|
-| Official CAT 2026 Notification | ~**July 26, 2026** (Last Sunday of July) |
-| Registration Opens | **August 1, 2026** |
-| Registration Closes | **~September 13–20, 2026** (5 PM) |
-| Correction / Edit Window | Last week of September 2026 |
-| Admit Card Release | **~November 5, 2026** |
-| CAT 2026 Exam Day | **November 29, 2026** |
-| Result Declaration | Early to mid-January 2027 |
+| Event | CAT 2025 (Actual) | CAT 2026 (Officially Confirmed) |
+|:---|:---|:---|
+| Official Notification | July 27, 2025 | **July 25, 2026** ✅ |
+| Registration Opens | August 1, 2025, 10 AM | **August 3, 2026, 10:00 AM** ✅ |
+| Registration Closes | September 20, 2025, 5 PM | **September 15, 2026, 5:00 PM** ✅ |
+| Correction / Edit Window | Late September 2025 | September 2026 (~3-day window, after registration closes) |
+| Admit Card Release | November 12, 2025 | **November 4, 2026** ✅ |
+| Exam Day | November 30, 2025 | **November 29, 2026** ✅ |
+| Final Answer Key | December 17, 2025 | Expected mid-December 2026 |
+| Result Declaration | December 24, 2025 | Expected **3rd–4th week of December 2026** |
 
-> [!NOTE]
-> These are expected dates based on established CAT patterns. Bookmark [iimcat.ac.in](https://iimcat.ac.in) for official confirmation.
+*( ✅ = confirmed in the official July 25, 2026 notification; others remain projections based on precedent.)*
+
+> [!WARNING]
+> **Two things changed from what was widely projected earlier this year:** registration now runs **August 3 – September 15** (not the Aug 1 – Sep 20 window most trackers, including earlier version of this guide, had assumed), and the correction window will be noticeably shorter than in past years. Don't rely on older articles for these two dates.
 >
-> **Sources:** [MBAUniverse](https://www.mbauniverse.com/cat) | [Career Launcher](https://www.careerlauncher.com/cat-mba/cat-registration/) | [Tarkashastra](https://www.tarkashastra.co.in)
+> **Sources:** [Careers360 — CAT Notification Out](https://news.careers360.com/iim-cat-notification-out-iimcat-ac-in-registration-from-august-3-eligibility-exam-date-test-centres-reservation) | [Shiksha — CAT 2026 Live Updates](https://www.shiksha.com/news/mba-cat-2026-notification-live-updates-official-pdf-registration-date-eligibility-fees-exam-date-blogId-236923) | [iQuanta — Notification Out](https://www.iquanta.in/blog/check-cat-notification-2026/)
 
 ---
 
@@ -57,21 +68,24 @@ These dates are based on multi-year historical patterns and are widely expected 
 
 One of the six older IIMs — Ahmedabad, Bangalore, Calcutta, Lucknow, Kozhikode, or Indore — conducts CAT each year on a rotational basis.
 
-**IIM Indore is expected to be the CAT 2026 convenor.** IIM Kozhikode conducted CAT 2025, and the rotation points to Indore next. The conducting IIM sets the overall exam tone and coordinates with all participating institutions. The identity is formally confirmed alongside the official notification.
+**IIM Indore is officially confirmed as the CAT 2026 convenor**, as stated in the notification released July 25, 2026. This follows the established rotation: IIM Kozhikode conducted CAT 2025 (exam held November 30, 2025; results declared December 24, 2025), and Indore was next in line. IIM Indore last convened the exam in 2020. As the conducting IIM, it sets the notification, the test-day logistics (in partnership with TCS, which administers the exam), and coordinates with all participating institutions.
 
-> **Source:** [MBAUniverse — CAT Convenor History](https://www.mbauniverse.com/cat)
+> **Source:** [Careers360 — CAT Notification Out (IIM Indore)](https://news.careers360.com/iim-cat-notification-out-iimcat-ac-in-registration-from-august-3-eligibility-exam-date-test-centres-reservation) | [Shiksha — CAT 2026](https://www.shiksha.com/news/mba-cat-2026-notification-live-updates-official-pdf-registration-date-eligibility-fees-exam-date-blogId-236923)
 
 ---
 
 ## What Is CAT? (And Why Does It Matter So Much?)
 
-CAT is a national-level Computer Based Test conducted annually for admission to postgraduate management programs (MBA/PGP). It is the gateway to the **21 IIMs** — which collectively offer approximately **5,500+ PGP/MBA seats** — and over **1,200 non-IIM participating institutions**, including well-regarded B-schools like FMS Delhi, SPJIMR Mumbai, and MDI Gurgaon.
+CAT is a national-level Computer Based Test conducted annually for admission to postgraduate management programs (MBA/PGP). It is the gateway to **22 IIMs** — which collectively offer approximately **5,500+ PGP/MBA seats** — and over **1,300 non-IIM participating institutions**, including well-regarded B-schools like FMS Delhi, SPJIMR Mumbai, and MDI Gurgaon.
 
-Here's the number that puts everything in perspective: in CAT 2025, approximately **2.95 lakh candidates registered**, out of which **~2.58 lakh actually appeared** on exam day. The competition is intense, the margin for error is thin, and your CAT score is valid for **one year only** — making preparation urgency very real.
+> [!IMPORTANT]
+> **India now has 22 IIMs**, not 21. **IIM Guwahati** — Assam's first IIM and the second in the Northeast after IIM Shillong — was formally inaugurated in February 2026 under the mentorship of IIM Ahmedabad, with a ₹555 crore government allocation. It admitted its first PGP batch (2026–28) directly through the CAT 2025 cycle, and will appear as a standard program choice on the CAT 2026 application form.
 
-To put the cutoffs in context: getting into IIM Ahmedabad, Bangalore, or Calcutta requires a **99+ percentile**. IIM Lucknow, Indore, and Kozhikode typically demand **97–98 percentile**. Even newer IIMs hover around **90–94 percentile** as their floor.
+Here's the number that puts everything in perspective: **CAT 2025** (held November 30, 2025 by IIM Kozhikode) saw roughly **2.95 lakh candidates register**, with results declared on December 24, 2025 showing **12 candidates achieving a perfect 100 percentile**. The competition is intense, the margin for error is thin, and your CAT score is valid for **one year only** — making preparation urgency very real.
 
-> **Sources:** [CollegeDekho — IIM Selection Criteria](https://www.collegedekho.com/articles/iim-selection-criteria-cat-score-requirements-for-iim-seats/) | [CollegeDunia — CAT Overview](https://collegedunia.com/exams/cat)
+To put the cutoffs in context: getting into IIM Ahmedabad, Bangalore, or Calcutta requires a **99+ percentile**. IIM Lucknow, Indore, and Kozhikode typically demand **97–98 percentile**. Even newer and "baby" IIMs (including the brand-new IIM Guwahati) hover around **88–94 percentile** as their floor.
+
+> **Sources:** [Shiksha — CAT 2026 (22 IIMs)](https://www.shiksha.com/mba/articles/cat-2026-exam-blogId-214088) | [MBAUniverse — CAT 2025 Toppers](https://www.mbauniverse.com/cat/topper) | [CollegeDekho — IIM Selection Criteria](https://www.collegedekho.com/articles/iim-selection-criteria-cat-score-requirements-for-iim-seats/)
 
 ---
 
@@ -88,17 +102,20 @@ To put the cutoffs in context: getting into IIM Ahmedabad, Bangalore, or Calcutt
 > [!IMPORTANT]
 > Meeting the minimum percentage does **not** guarantee a shortlist call. Each IIM independently verifies academic eligibility at the interview stage — candidates who misrepresent their scores face disqualification.
 
-> **Source:** [TopRankers — CAT 2026](https://www.toprankers.com/cat-exam) | [LPTedtech — CAT 2026](https://lptedtech.com/blog/cat/2026-details/)
+> **Source:** [TopRankers — CAT 2026](https://www.toprankers.com/cat-exam) | [Cracku — CAT 2026 Notification](https://cracku.in/cat-2026-notification/)
 
 ### Reservation Policy
 
-SC, ST, and PwD candidates are eligible with **45% aggregate marks** or equivalent CGPA. Category certificates must be valid and in the Government of India format for the current financial year.
+SC, ST, and PwBD candidates are eligible with **45% aggregate marks** or equivalent CGPA. Category certificates must be valid and in the Government of India format for the current financial year.
+
+> [!NOTE]
+> The official notification specifies exact certificate-timing rules this year: **NC-OBC certificates must be issued on or after April 1, 2026**, and **EWS certificates must be valid for 2026–27**, based on financial year 2025–26. If your certificate predates this, check the information bulletin for the accepted workaround (an undertaking plus your older certificate).
 
 ---
 
 ## CAT 2026 Registration: Step-by-Step Guide
 
-Registration opens **August 1, 2026**, entirely online at [iimcat.ac.in](https://iimcat.ac.in). No offline applications are accepted.
+Registration opens **August 3, 2026 at 10:00 AM** and closes **September 15, 2026 at 5:00 PM**, entirely online at [iimcat.ac.in](https://iimcat.ac.in). No offline applications are accepted. (Note: these dates are confirmed in the official notification and differ slightly from the Aug 1 / Sep 20 window that was widely projected earlier in the year.)
 
 ### Step 1 — Create Your Profile
 Visit the official CAT portal. Click "New Candidate Registration." Enter your name, date of birth, email ID, and mobile number to receive your **User ID and Password**.
@@ -107,7 +124,7 @@ Visit the official CAT portal. Click "New Candidate Registration." Enter your na
 Log in and enter your personal and contact details, category information (General / NC-OBC / EWS / SC / ST / PwD), academic qualifications (Class 10, 12, and graduation), and any full-time post-graduation work experience.
 
 ### Step 3 — Select Programs and Test Cities
-Choose your preferred IIM campuses and MBA/PGP programs. Select **up to 6 test city preferences** in order of priority. You'll be allotted one city based on availability.
+Choose your preferred IIM campuses and MBA/PGP programs. Select **up to 5 test city preferences** (from ~170 cities) in order of priority. You'll be allotted one city based on availability.
 
 ### Step 4 — Upload Documents
 
@@ -125,7 +142,7 @@ Pay online via credit card, debit card, net banking, or UPI. Download the **conf
 > [!CAUTION]
 > Changes to your name, date of birth, or category are **not allowed** after final submission. The fee is **non-refundable** under any circumstance.
 
-A **correction/edit window** opens in the last week of September 2026, allowing limited changes to your photograph, signature, and test city preferences.
+A **correction/edit window** opens in September 2026, shortly after registration closes — reportedly a shorter ~3-day window this year — allowing limited changes to your photograph, signature, and test city preferences.
 
 > **Source:** [Career Launcher — CAT Registration](https://www.careerlauncher.com/cat-mba/cat-registration/)
 
@@ -133,20 +150,20 @@ A **correction/edit window** opens in the last week of September 2026, allowing 
 
 ## CAT 2026 Application Fee
 
-| Category | Expected Fee |
-|:---|:---|
-| General / EWS / NC-OBC | **₹2,600** |
-| SC / ST / PwD | **₹1,300** |
+| Category | Confirmed Fee (CAT 2026) | CAT 2025 Fee |
+|:---|:---|:---|
+| General / EWS / NC-OBC | **₹2,700** | ₹2,600 |
+| SC / ST / PwBD | **₹1,350** | ₹1,300 |
 
-> These figures reflect the fee as it stood in CAT 2025 and are widely expected to remain unchanged for 2026. The official fee will be confirmed in the July 2026 notification.
+> The fee went up this year — confirmed in the official July 25, 2026 notification. Most guides published before today assumed it would stay flat at ₹2,600/₹1,300; it didn't.
 >
-> **Source:** [Career Launcher](https://www.careerlauncher.com/cat-mba/cat-registration/) | [MBAUniverse](https://www.mbauniverse.com/cat)
+> **Source:** [Shiksha — CAT 2026 Notification (Live)](https://www.shiksha.com/news/mba-cat-2026-notification-live-updates-official-pdf-registration-date-eligibility-fees-exam-date-blogId-236923) | [iQuanta — Notification Out](https://www.iquanta.in/blog/check-cat-notification-2026/)
 
 ---
 
 ## CAT 2026 Exam Pattern
 
-The structure of CAT has been stable since 2021 and is expected to continue in the same format.
+The structure has been stable since the last major revision in 2024 (when total questions rose from 66 to 68, with DILR gaining 2 questions). CAT 2025 followed this exact same structure, and every major coaching platform tracking CAT 2026 reports no changes on the horizon.
 
 | Parameter | Details |
 |:---|:---|
@@ -222,6 +239,9 @@ Arithmetic and Algebra together have historically comprised **over 60% of QA que
 ## CAT 2026 Preparation Strategy
 
 There is no shortage of CAT advice on the internet. Most of it says the same things in different orders. What follows is a phased, honest strategy — one that acknowledges that your time and energy are finite.
+
+> [!TIP]
+> **Starting your prep in July?** You've got about 4.5 months until exam day — enough time to build real competence if you're consistent. Don't try to compress the full January–May "Foundation" phase into a few weeks. Instead, run Foundation and Sectional Testing in parallel for 6–8 weeks (mornings for concept-building, evenings for light sectional practice), then move into the Phase 2/3 mock-heavy routine below from September onward.
 
 ---
 
@@ -301,7 +321,7 @@ There is no shortage of CAT advice on the internet. Most of it says the same thi
 
 Cracking CAT is just step one. Here's the broader IIM admission pipeline:
 
-1. **CAT Result (January 2027):** Scores are normalized across the three exam slots, then converted to percentiles.
+1. **CAT Result (Mid-to-Late December 2026, expected):** Scores are normalized across the three exam slots, then converted to percentiles. CAT 2025 results, for reference, were out just 24 days after the exam.
 2. **IIM Shortlisting:** Each IIM independently shortlists candidates based on its own composite score — CAT percentile, academic record (Class 10, 12, graduation), work experience, and diversity factors. Criteria differ significantly between IIMs.
 3. **WAT/GD + PI:** Shortlisted candidates appear for Written Ability Test (WAT) or Group Discussion (GD) and Personal Interview (PI).
 4. **Final Merit List:** IIMs release final admission offers based on a weighted composite of all stages.
@@ -319,7 +339,7 @@ Not sure if CAT is the right exam for you? Here's a quick comparison:
 
 | Exam | Conducted By | Accepting Colleges | Difficulty | Exam Window |
 |:---|:---|:---|:---:|:---|
-| **CAT** | IIM (rotational) | 21 IIMs + 1,200+ B-schools | Very High | Nov (1 day) |
+| **CAT** | IIM (rotational) | 22 IIMs + 1,300+ B-schools | Very High | Nov (1 day) |
 | **XAT** | XLRI Jamshedpur | XLRI, XIMB, 150+ B-schools | High | Jan |
 | **SNAP** | Symbiosis International | Symbiosis institutes | Moderate | Dec (3 attempts) |
 | **NMAT** | GMAC | NMIMS, 50+ colleges | Moderate | Oct–Dec (3 attempts) |
@@ -332,16 +352,22 @@ Not sure if CAT is the right exam for you? Here's a quick comparison:
 ## Frequently Asked Questions
 
 ### When is the CAT 2026 exam date?
-CAT 2026 is expected to be held on **November 29, 2026** — the last Sunday of November. This is consistent with the established pattern and confirmed by multiple coaching institutions.
+**Confirmed:** CAT 2026 will be held on **November 29, 2026** — the last Sunday of November, as officially stated in the July 25, 2026 notification.
 
 ### Who is conducting CAT 2026?
-**IIM Indore** is widely expected to be the conducting institution for CAT 2026, following the rotational system among the older IIMs. Official confirmation will come with the July 26, 2026 notification.
+**Confirmed: IIM Indore**, as stated in the official July 25, 2026 notification — following the rotational system among the older IIMs. IIM Kozhikode conducted CAT 2025; Indore was next in the rotation and last convened the exam in 2020.
 
 ### When does CAT 2026 registration start?
-Registration is expected to open on **August 1, 2026** and close around **September 13–20, 2026**.
+**Confirmed:** Registration opens **August 3, 2026 at 10:00 AM** and closes **September 15, 2026 at 5:00 PM**. This is a shift from the Aug 1 – Sep 20 window seen in CAT 2025 and widely projected earlier this year — don't rely on older articles for these dates.
+
+### How many IIMs accept CAT 2026 scores?
+**22 IIMs**, up from 21. **IIM Guwahati**, inaugurated in February 2026, is India's newest IIM and will appear as a standard program option on the CAT 2026 form.
+
+### When will CAT 2026 results be declared?
+Likely **mid-to-late December 2026**. CAT 2025 results were declared on December 24, 2025 — just 24 days after the exam — so the "January" timeline often quoted in older guides is outdated.
 
 ### What is the CAT 2026 application fee?
-**₹2,600** for General/EWS/NC-OBC candidates and **₹1,300** for SC/ST/PwD candidates. These are expected to remain unchanged from CAT 2025.
+**Confirmed:** **₹2,700** for General/EWS/NC-OBC candidates and **₹1,350** for SC/ST/PwBD candidates — an increase from CAT 2025's ₹2,600/₹1,300.
 
 ### What is the minimum percentage required for CAT 2026?
 **50% aggregate marks** in graduation for General, NC-OBC, and EWS candidates. **45% aggregate** for SC, ST, and PwD candidates.
@@ -353,7 +379,7 @@ Yes. Final-year undergraduate students are eligible to apply, subject to submiss
 **68 questions** in total: 24 in VARC, 22 in DILR, and 22 in QA.
 
 ### Is the CAT 2026 syllabus changed?
-No major changes are expected. The syllabus and pattern have remained consistent since 2021. Any changes will be announced in the official July 2026 notification.
+No changes. The official notification confirms the syllabus and pattern remain consistent with CAT 2024 and CAT 2025 — same 68-question, 120-minute structure.
 
 ### How many times can I attempt CAT?
 There is **no limit** on the number of CAT attempts. CAT scores are valid for **one year** only.
@@ -370,8 +396,9 @@ There is **no limit** on the number of CAT attempts. CAT scores are valid for **
 | Career Launcher CAT Registration Guide | [careerlauncher.com](https://www.careerlauncher.com/cat-mba/cat-registration/) |
 | CollegeDunia CAT Page | [collegedunia.com/exams/cat](https://collegedunia.com/exams/cat) |
 | IIM Indore Official Site | [iimidr.ac.in](https://www.iimidr.ac.in) |
+| IIM Guwahati Official Site (22nd IIM) | [iimg.ac.in](https://www.iimg.ac.in) |
 
 ---
 
 > [!NOTE]
-> All dates marked "expected" are based on historical CAT patterns and widely cited coaching institution projections. They are subject to change once the official CAT 2026 notification is released on [iimcat.ac.in](https://iimcat.ac.in). Always verify critical details on the official website before making any decisions.
+> This guide was last refreshed on **July 26, 2026**, right after the official CAT 2026 notification dropped (July 25, 2026). Exam date, registration window, fee, and eligibility are now confirmed. The only remaining projection is the result date (expected 3rd–4th week of December 2026, based on the CAT 2025 precedent). Always cross-check against the official information bulletin on [iimcat.ac.in](https://iimcat.ac.in) before making any decisions.

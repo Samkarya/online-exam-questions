@@ -334,5 +334,21 @@
         "isOfficial": false,
         "seo_title": "BECE Security Education Practice Test | National Values Education",
         "seo_description": "Boost your Junior WAEC scores with this BECE Security Education practice test. Review common crimes, national security, and emergency management for National Values Education."
+    },
+    {
+        "id": "bece_nveSocialStudies",
+        "category": "BECE",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "BECE National Values Education: Social Studies",
+        "short_description": "Comprehensive practice for the BECE Social Studies section, covering family, marriage, social values, socialization, human trafficking, and drug abuse prevention.",
+        "description": "### Module: Social Studies\n\n**Focus:** Family, Socialization & Community Development | **Level:** Junior Secondary (JSS3)\n\nComplete your preparation for the Social Studies component of the BECE National Values Education (NVE) examination. Featuring **190 comprehensive practice questions**, this module covers social institutions, values, socialization, human rights, and social issues facing contemporary Nigeria.\n\n---\n\n#### Key Curriculum Topics Covered:\n* **Fundamentals of Social Studies:** History of Social Studies in Nigeria (Aiyetoro project, 1968 Mombasa conference), general objectives (national consciousness, adaptive capabilities), cognitive, affective, and psychomotor learning domains.\n* **Family, Marriage & Population:** Family as a primary social group, consequences of large vs. small family sizes (economic strain, dependency ratio, quality of life), purpose of marriage (procreation, companionship, mutual love), and conditions for marriage readiness (physical, psychological, financial).\n* **Social Values & Group Behaviours:** Promoting positive group behaviours, addressing harmful traditional practices (female genital mutilation, forced marriage), human trafficking (causes, consequences, preventative agencies like NAPTIP).\n* **Socialization & Civic Safety:** Agents of socialization (family, school, peer groups, mass media, Road Safety Club), community safety roles, promoting peaceful co-existence, and conflict resolution mechanisms.\n* **Social Problems & Substance Abuse:** Identifying common social problems in Nigeria, dangers and prevention of drug trafficking (NDLEA roles, E+L+A+I strategy), and physical/social consequences of drug abuse and harmful substances.",
+        "path": "nigeria/BECE/nationalValueEducation/NVE_socialStudies.json",
+        "isOfficial": false,
+        "seo_title": "BECE Social Studies Practice Test | National Values Education",
+        "seo_description": "Prepare for the BECE National Values Education exam with our free Social Studies practice test. Master family structures, marriage readiness, socialization, and social problem solving for Junior WAEC."
     }
 ]

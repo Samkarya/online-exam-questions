@@ -11,12 +11,19 @@
         "Practice",
         "Demo"
       ],
-      "description": "A lightweight example exam used for testing flows, UI, and integrations. Not a real certification.",
+      "description": "The ExamOven Demo Exam is a lightweight, ten-question playground exam built to showcase what the ExamOven platform can render and track, rather than to test any real subject knowledge. It exists purely for onboarding new users, demonstrating platform capabilities to prospective schools/institutions, and giving developers a quick sandbox to verify that content rendering, scoring, and custom exam creation are all working correctly end-to-end. The exam opens with a friendly welcome question that explains the purpose of the walkthrough, then moves through a deliberately varied set of question types chosen to stress-test different rendering paths: a calculus integration problem that exercises MathJax/LaTeX math rendering, a code-syntax-highlighting question to confirm that fenced code blocks render cleanly across languages, and a rich-text question built around a Markdown table to confirm tabular content displays properly on both desktop and mobile. Two questions are dedicated specifically to performance tracking — one demonstrating how correct scoring is calculated and displayed, and another demonstrating how the platform handles and reports unattempted questions, which is important for accurate analytics dashboards. Two further questions walk through ExamOven's custom exam creation feature, covering both the user-facing format for building a custom test and the underlying JSON schema that powers it, making this a useful reference for anyone integrating their own question sets. A visual-learning question checks image rendering within a question body, and the exam closes with a deliberately complex, multi-part explanation to confirm that longer, structured explanations (with lists, emphasis, and nested formatting) display legibly rather than becoming a wall of text. Difficulty levels are intentionally mixed — a blend of Easy, Medium, and Hard tags — so that the demo also doubles as a visual reference for how difficulty badges appear throughout the interface. Because this exam is not tied to any real certification, curriculum, or governing body, none of its questions should be treated as authoritative subject-matter content; its value is entirely in showing how ExamOven looks, feels, and behaves once a real exam is loaded into it.",
       "officialWebsite": null,
       "isOfficial": false,
-      "lastUpdated": "2026-04-30",
+      "lastUpdated": "2026-07-26",
       "seoTitle": "ExamOven Demo: Free Online Mock Test & Exam Simulator",
-      "seoDescription": "Try the ExamOven mock test simulator for free. Experience a realistic, timed exam environment with sample questions to test your preparation and our platform."
+      "seoDescription": "Try the ExamOven mock test simulator for free. Experience a realistic, timed exam environment with sample questions to test your preparation and our platform.",
+      "keyFacts": [
+        { "label": "Total Questions", "value": "10" },
+        { "label": "Purpose", "value": "Platform feature showcase, not a real certification" },
+        { "label": "Difficulty Mix", "value": "Easy, Medium, and Hard questions included" },
+        { "label": "Rendering Features Demonstrated", "value": "Markdown formatting, MathJax/LaTeX equations, syntax-highlighted code blocks, tables, images, and long structured explanations" },
+        { "label": "Platform Features Demonstrated", "value": "Live scoring, unattempted-question tracking, and custom exam creation (both the builder UI and underlying JSON schema)" }
+      ]
     },
     "path": "configs/demo.json"
   },
@@ -33,12 +40,36 @@
         "Subject Practice",
         "Olympiad Prep"
       ],
-      "description": "Collection of chemistry practice papers: inorganic, organic, physical chemistry, and board-level questions.",
+      "description": "This Chemistry practice suite is built around ExamOven's Chemistry101 question bank — a global, curriculum-agnostic collection of 501 questions spread across 15 chapters that together mirror the structure of a standard introductory or first-year chemistry course (comparable to a US high school Chemistry/AP Chemistry course, an Indian Class 11–12 board syllabus, or a first-semester college general chemistry unit). The bank begins with foundational material — an Introduction chapter covering the scientific method, units, significant figures, dimensional analysis, and lab safety — before building into Atomic Theory (subatomic particles, isotopes, the Bohr model, and the shift to modern/quantum theory), Electronic Structure (electron configurations, orbital diagrams, and the Aufbau/Pauli/Hund rules), and the Periodic Table (groups, blocks, ionization energy, electronegativity, and atomic/ionic radii trends). From there it moves into bonding with two dedicated chapters — Ionic & Covalent Bonding (Lewis structures, polarity, formal charge) and Bonding & Geometry (VSEPR theory, hybridization, molecular orbital theory, and intermolecular forces) — followed by quantitative chemistry through Stoichiometry (mole concept, limiting reagents, percent yield) and Gas Laws (the ideal gas equation, partial pressures, and real-gas behavior). Energetics and dynamics are covered via Thermochemistry, Kinetics (rate laws, activation energy, catalysis), and Equilibrium (Kc/Kp, Le Chatelier's Principle, reaction quotients). The bank rounds out with Acids & Bases (Arrhenius/Brønsted–Lowry definitions, pH/pOH, salt hydrolysis), a dedicated Buffers & Titrations chapter (Henderson–Hasselbalch, titration curves, indicators), Redox & Electrochemistry (oxidation numbers, balancing redox equations, electrochemical cells), and a practical Lab Chemistry chapter covering titration technique, qualitative ion analysis, apparatus use, and experimental error analysis. Each chapter blends Easy, Medium, and Hard questions so learners can progress from recall-level checks to multi-step problem solving, making the set suitable both for first-pass concept review and for more intensive exam or olympiad-style preparation. The question style favors conceptual understanding alongside calculation — for instance, Stoichiometry questions push beyond simple mole conversions into limiting-reagent and percent-yield scenarios, while the Acids & Bases and Buffers & Titrations chapters build progressively from basic pH calculations toward Henderson–Hasselbalch-based buffer problems and titration-curve interpretation. This progression mirrors how the topics are typically sequenced in a real classroom, making the bank usable either as a standalone practice resource or as a companion to an ongoing chemistry course.",
       "officialWebsite": null,
       "isOfficial": false,
-      "lastUpdated": "2026-04-30",
+      "lastUpdated": "2026-07-26",
       "seoTitle": "Free Chemistry Mock Tests & Practice Exams Online | ExamOven",
-      "seoDescription": "Master chemistry with free, comprehensive mock tests. Practice topics from atomic structure to thermochemistry with realistic, timed exams for better grades."
+      "seoDescription": "Master chemistry with 500+ free mock test questions across 15 chapters — from atomic structure to electrochemistry — with realistic, timed practice exams.",
+      "keyFacts": [
+        { "label": "Total Questions", "value": "501 questions across 15 chapters" },
+        { "label": "Level", "value": "Introductory / first-year chemistry (high school through intro college level)" },
+        { "label": "Format", "value": "Multiple-choice, chapter-wise practice sets" },
+        { "label": "Difficulty Mix", "value": "Each chapter blends Easy, Medium, and Hard questions" },
+        { "label": "Largest Chapters", "value": "Stoichiometry (50 questions), Acids & Bases, Bonding (Ionic/Covalent), and Equilibrium (40 questions each)" }
+      ],
+      "syllabusOverview": [
+        { "subject": "Introduction to Chemistry", "topics": "Scientific method, branches and scope of chemistry, units and significant figures, dimensional analysis, and laboratory safety (30 questions)" },
+        { "subject": "Atomic Theory", "topics": "Subatomic particles, atomic/mass number, isotopes and atomic mass, early atomic theories, the Bohr model, electromagnetic radiation, and modern/quantum theory (35 questions)" },
+        { "subject": "Electronic Structure", "topics": "Electron configuration, orbitals and quantum numbers, orbital diagrams, the Aufbau/Pauli Exclusion/Hund's Rule principles, and atomic stability (35 questions)" },
+        { "subject": "Periodic Table", "topics": "History of the periodic table, groups and blocks, ionization energy, electronegativity, electron affinity, atomic/ionic radii, and chemical significance of periodic trends (35 questions)" },
+        { "subject": "Bonding: Ionic & Covalent", "topics": "Nature of chemical bonds, ionic bonding, covalent bonding, Lewis structures, formal charge, and molecular polarity (40 questions)" },
+        { "subject": "Bonding & Molecular Geometry", "topics": "VSEPR theory, molecular shapes, hybridization, molecular orbital theory, and intermolecular forces (30 questions)" },
+        { "subject": "Stoichiometry", "topics": "Mole concept, molar mass, balancing chemical equations, reaction types, limiting reagents, and percent yield (50 questions)" },
+        { "subject": "Gas Laws", "topics": "Properties of gases, individual gas laws, the ideal gas equation, Avogadro's Law, partial pressures, and real-gas behavior (36 questions)" },
+        { "subject": "Thermochemistry", "topics": "Energy changes in chemical reactions, enthalpy, heat of reaction, and calorimetry fundamentals (35 questions)" },
+        { "subject": "Kinetics", "topics": "Rate of chemical reactions, factors affecting reaction rate, rate laws, activation energy, and catalysis (25 questions)" },
+        { "subject": "Equilibrium", "topics": "Concepts of chemical equilibrium, equilibrium constants (Kc/Kp), the reaction quotient, and Le Chatelier's Principle (40 questions)" },
+        { "subject": "Acids & Bases", "topics": "Arrhenius and Brønsted–Lowry definitions, the pH/pOH scale, strong vs. weak acids and bases, salt hydrolysis, and acid-base calculations (40 questions)" },
+        { "subject": "Buffers & Titrations", "topics": "Buffer solutions and their importance, the Henderson–Hasselbalch equation, acid–base titrations, titration curves, and indicators/endpoint determination (25 questions)" },
+        { "subject": "Redox & Electrochemistry", "topics": "Oxidation and reduction concepts, oxidation numbers, balancing redox reactions, and electrochemistry/electrochemical cells (30 questions)" },
+        { "subject": "Lab Chemistry", "topics": "Laboratory apparatus and measurements, preparation of solutions, acid–base titration technique, qualitative analysis of ions, experimental error/data analysis, and lab report writing (15 questions)" }
+      ]
     },
     "path": "configs/chemistry.json"
   },
@@ -54,12 +85,33 @@
         "School Exam",
         "Subject Practice"
       ],
-      "description": "Latihan soal PJOK (Pendidikan Jasmani, Olahraga, dan Kesehatan) untuk siswa kelas 5 SD. Mencakup materi olahraga, kesehatan, dan pola hidup sehat.",
+      "description": "Latihan soal PJOK (Pendidikan Jasmani, Olahraga, dan Kesehatan) untuk siswa kelas 5 SD/MI ini disusun mengikuti struktur Kurikulum Merdeka dengan pendekatan pembelajaran mendalam (deep learning) untuk tahun ajaran 2026/2027, dan terbagi ke dalam 5 bab dengan total 200 soal (40 soal per bab). Bab 1, \"Eksplorasi Gerak\", mengulas gerak dasar seperti aktivitas jalan dan lari, aktivitas lompat dan loncat, melempar dan menangkap bola, menendang dan menghentikan bola, hingga aktivitas air, ditutup dengan uji kompetensi bab. Bab 2, \"Berpikir Cerdas dan Bergerak Taktis\", berfokus pada kesadaran ruang, kesadaran usaha, kesadaran hubungan, dan strategi gerak dalam permainan — kemampuan berpikir taktis yang mendasari performa siswa dalam berbagai permainan. Bab 3 membahas \"Aturan dan Prinsip Permainan\", mencakup konsep dasar bermain vs. permainan, faktor-faktor yang memengaruhi kegiatan bermain (perkembangan motorik, gender, waktu luang, status finansial), prinsip kemampuan dan keterampilan, permainan tradisional, permainan bowling sederhana, permainan lempar-tangkap melewati net, permainan pukul bola, permainan bola target, permainan inklusif, modifikasi permainan, kerjasama tim, serta kaitannya dengan Profil Pelajar Pancasila. Bab 4 mengangkat tema \"Komunitas Kesehatan dan Aktivitas Fisik\", meliputi komunitas sepak bola, bersepeda, renang, lari, dan senam, faktor partisipasi dalam komunitas, kesehatan kardiovaskular dan kesehatan mental, keamanan bersepeda, jelajah lingkungan, serta permainan tradisional dalam konteks komunitas. Bab 5, \"Menjadi Sehat dan Aktif\", menutup materi dengan gaya hidup anak di era serba digital, cara memahami label gizi pada kemasan makanan, dan upaya pemenuhan kebutuhan gizi harian. Soal-soal disusun dalam format pilihan ganda dengan pembahasan, mencakup berbagai tingkat kesulitan untuk membantu siswa memahami konsep secara bertahap — mulai dari pengetahuan dasar hingga penerapan dalam situasi sehari-hari. Latihan ini cocok digunakan sebagai persiapan ulangan harian, penilaian tengah semester (PTS), penilaian akhir semester (PAS), maupun sekadar pendalaman materi mandiri di rumah. Struktur lima bab ini konsisten dengan urutan buku ajar PJOK kelas 5 Kurikulum Merdeka, sehingga siswa dan orang tua dapat langsung memetakan setiap set soal ke bab yang sedang dipelajari di sekolah, tanpa perlu menyesuaikan urutan materi secara manual.",
       "officialWebsite": null,
       "isOfficial": false,
-      "lastUpdated": "2026-04-30",
-      "seoTitle": "Latihan Soal PJOK Kelas 5 SD Online | ExamOven Mock Tests",
-      "seoDescription": "Latihan interaktif soal-soal Pendidikan Jasmani, Olahraga, dan Kesehatan (PJOK) untuk siswa Kelas 5 SD. Persiapan ujian sekolah yang mudah dan gratis."
+      "lastUpdated": "2026-07-25",
+      "seoTitle": "Latihan Soal PJOK Kelas 5 SD 2026/2027 Kurikulum Merdeka | ExamOven Mock Tests",
+      "seoDescription": "Latihan interaktif soal-soal Pendidikan Jasmani, Olahraga, dan Kesehatan (PJOK) untuk siswa Kelas 5 SD, sesuai Kurikulum Merdeka tahun ajaran 2026/2027. Persiapan ujian sekolah yang mudah dan gratis.",
+      "keyFacts": [
+        { "label": "Kurikulum", "value": "Kurikulum Merdeka (pendekatan Deep Learning)" },
+        { "label": "Tahun Ajaran", "value": "2026/2027" },
+        { "label": "Fase", "value": "Fase C" },
+        { "label": "Jenjang", "value": "SD/MI Kelas 5" },
+        { "label": "Jumlah Soal", "value": "200 soal pilihan ganda (40 soal per bab, 5 bab)" }
+      ],
+      "examPattern": [
+        { "label": "Bab 1 — Eksplorasi Gerak", "value": "40 soal: aktivitas jalan & lari, aktivitas lompat & loncat, melempar dan menangkap bola, menendang dan menghentikan bola, aktivitas air, uji kompetensi" },
+        { "label": "Bab 2 — Berpikir Cerdas dan Bergerak Taktis", "value": "40 soal: kesadaran ruang, kesadaran usaha, kesadaran hubungan, strategi gerak" },
+        { "label": "Bab 3 — Aturan dan Prinsip Permainan", "value": "40 soal: konsep bermain vs. permainan, faktor yang memengaruhi bermain, permainan tradisional, permainan bola target/pukul bola/lempar-tangkap, permainan inklusif, modifikasi permainan, kerjasama tim, Profil Pelajar Pancasila" },
+        { "label": "Bab 4 — Komunitas Kesehatan dan Aktivitas Fisik", "value": "40 soal: komunitas sepak bola/bersepeda/renang/lari/senam, kesehatan kardiovaskular dan mental, keamanan bersepeda, jelajah lingkungan" },
+        { "label": "Bab 5 — Menjadi Sehat dan Aktif", "value": "40 soal: gaya hidup anak di era digital, memahami label gizi, upaya pemenuhan kebutuhan gizi" }
+      ],
+      "syllabusOverview": [
+        { "subject": "Bab 1: Eksplorasi Gerak", "topics": "Aktivitas jalan dan lari, aktivitas lompat dan loncat, melempar dan menangkap bola, menendang dan menghentikan bola, serta aktivitas air — ditutup dengan uji kompetensi bab" },
+        { "subject": "Bab 2: Berpikir Cerdas dan Bergerak Taktis", "topics": "Kesadaran ruang, kesadaran usaha, kesadaran hubungan, dan strategi gerak dalam berbagai bentuk permainan" },
+        { "subject": "Bab 3: Aturan dan Prinsip Permainan", "topics": "Konsep dasar bermain dan permainan, faktor-faktor yang memengaruhi bermain (perkembangan motorik, gender, waktu luang, status finansial), permainan tradisional, permainan bowling sederhana, permainan lempar-tangkap melewati net, permainan pukul bola, permainan bola target, permainan inklusif, modifikasi permainan, kerjasama tim, dan kaitannya dengan Profil Pelajar Pancasila" },
+        { "subject": "Bab 4: Komunitas Kesehatan dan Aktivitas Fisik", "topics": "Komunitas sepak bola, bersepeda, renang, lari, dan senam; faktor partisipasi dalam komunitas; kesehatan kardiovaskular dan kesehatan mental; keamanan bersepeda; serta jelajah lingkungan" },
+        { "subject": "Bab 5: Menjadi Sehat dan Aktif", "topics": "Gaya hidup anak di era serba digital, cara memahami label gizi pada kemasan makanan, dan upaya pemenuhan kebutuhan gizi harian" }
+      ]
     },
     "path": "configs/pjok-kelas-5.json"
   },
@@ -69,22 +121,58 @@
       "fullName": "NIT MCA Common Entrance Test",
       "shortName": "NIMCET",
       "category": "Postgraduate Entrance",
-      "conductingBody": "NITs Consortium (rotating NIT each year)",
+      "conductingBody": "NITs Consortium (rotating NIT each year; NIT Tiruchirappalli conducted NIMCET 2026)",
       "country": "India",
       "examType": [
         "Postgraduate Entrance",
         "Computer Based Test"
       ],
-      "description": "NIMCET is a national-level entrance exam conducted by a rotating NIT for admission to MCA (Master of Computer Applications) programs at participating NITs across India.",
+      "description": "NIMCET is a national-level entrance exam conducted annually by a rotating NIT for admission to MCA (Master of Computer Applications) programs at 11 participating NITs plus IIIT Bhopal and IIIT Vadodara — roughly 1,300 seats in total. NIMCET 2026 was conducted by NIT Tiruchirappalli on June 6, 2026, with results declared June 29, 2026 and counselling proceeding in multiple rounds through July 2026.",
       "officialWebsite": "https://nimcet.admissions.nic.in/",
       "isOfficial": true,
-      "lastUpdated": "2026-04-30",
+      "lastUpdated": "2026-07-25",
       "seoTitle": "NIMCET 2026: Free Mock Tests, Syllabus & MCA Prep Guide",
       "seoDescription": "Crack NIMCET 2026 with free online mock tests & full syllabus guide. Practice Mathematics, Reasoning & Computer Awareness for NIT MCA admission. Start now!",
       "relatedBlogTags": [
         "NIMCET",
         "MCA Entrance",
         "NIT"
+      ],
+      "importantDates": [
+        {
+          "event": "NIMCET 2026 Exam Date",
+          "date": "June 6, 2026 (2:00 PM – 4:00 PM, single national session)",
+          "note": "Conducted by NIT Tiruchirappalli for the 2026 cycle",
+          "status": "past"
+        },
+        {
+          "event": "NIMCET 2026 Result Declared",
+          "date": "June 29, 2026",
+          "note": "Released as scorecards with AIR, category rank, and state rank",
+          "status": "past"
+        },
+        {
+          "event": "Counselling Registration & Choice Filling",
+          "date": "June 30 – July 3, 2026",
+          "note": "₹1,000 non-refundable counselling registration fee, separate from the exam application fee",
+          "status": "past"
+        },
+        {
+          "event": "Round 1 Seat Allotment",
+          "date": "July 6, 2026",
+          "status": "past"
+        },
+        {
+          "event": "Round 1 Reporting & Fee Payment Window",
+          "date": "July 7 – July 10, 2026",
+          "status": "past"
+        },
+        {
+          "event": "Round 2 Seat Allotment",
+          "date": "July 11, 2026",
+          "note": "As of this update, further counselling rounds may still be in progress — check nimcet.admissions.nic.in for the current round status",
+          "status": "ongoing"
+        }
       ],
       "keyFacts": [
         {
@@ -93,7 +181,7 @@
         },
         {
           "label": "Mode",
-          "value": "Computer Based Test (CBT)"
+          "value": "Computer Based Test (CBT), single national session"
         },
         {
           "label": "Duration",
@@ -101,11 +189,27 @@
         },
         {
           "label": "Total Marks",
-          "value": "480"
+          "value": "480 (120 questions × 4 marks each)"
         },
         {
           "label": "Language",
           "value": "English only"
+        },
+        {
+          "label": "Seats & Participating Institutes (2026)",
+          "value": "Approximately 1,300 MCA seats across 11 NITs (including Agartala, Allahabad/MNNIT, Bhopal/MANIT, Delhi, Jamshedpur, Kurukshetra, Meghalaya, Patna, Raipur, Tiruchirappalli, and others) plus IIIT Bhopal and IIIT Vadodara"
+        },
+        {
+          "label": "Qualifying/Cutoff Marks (2026)",
+          "value": "General/OBC-NCL/EWS: 240/480 (50%); SC/ST: 216/480 (45%); PwD: 192/480 (40%). Mathematics section score must also be positive — a zero or negative Mathematics score disqualifies a candidate even if the total crosses the cutoff"
+        },
+        {
+          "label": "Application Fee (2026)",
+          "value": "₹2,500 for General/OBC candidates; ₹1,250 for SC/ST/PwD candidates (non-refundable); separate ₹1,000 counselling registration fee applies after the result"
+        },
+        {
+          "label": "Applicant Volume Trend",
+          "value": "Growing steadily — roughly 20,000 candidates in 2022 to over 25,000 by 2024–2026, about 35% growth in recent years"
         }
       ],
       "eligibility": [
@@ -165,7 +269,7 @@
       "faqs": [
         {
           "question": "How many MCA seats are available through NIMCET?",
-          "answer": "NIMCET offers over 1,000 MCA seats across all participating NITs. The exact seat matrix varies each year based on the participating institutes and their intake capacity."
+          "answer": "NIMCET 2026 offered around 1,300 MCA seats across 11 participating NITs plus IIIT Bhopal and IIIT Vadodara. The exact seat matrix varies each year based on the participating institutes and their intake capacity — always check the official seat matrix published for the current year."
         },
         {
           "question": "Is there any age limit to appear for NIMCET?",
@@ -174,6 +278,14 @@
         {
           "question": "Can a B.Tech. graduate apply for NIMCET?",
           "answer": "Yes, B.E./B.Tech. graduates with Mathematics as a subject in their qualifying degree and a minimum of 60% aggregate marks (55% for SC/ST/PwD) are eligible to apply for NIMCET."
+        },
+        {
+          "question": "What is the qualifying/cutoff score for NIMCET?",
+          "answer": "For NIMCET 2026, candidates needed a minimum of 240/480 (50%) to qualify in the General, OBC-NCL, or EWS category; 216/480 (45%) for SC/ST; and 192/480 (40%) for PwD candidates. Additionally, your Mathematics section score must be positive — a zero or negative Mathematics score disqualifies you even if your total crosses the overall cutoff. Actual closing ranks for specific institutes (like NIT Tiruchirappalli, historically the most competitive) depend on the year's applicant pool and vary each counselling round."
+        },
+        {
+          "question": "How does NIMCET counselling work after the result?",
+          "answer": "Counselling is conducted centrally online at nimcet.admissions.nic.in in multiple rounds. Candidates register separately from the exam application, pay a non-refundable counselling fee (₹1,000 for the 2026 cycle), and fill in institute/programme preferences in order. Seat allotment happens in rounds based on rank and preferences; after each allotment, candidates must complete physical reporting and document verification at the allotted institute within the specified window to confirm admission."
         }
       ]
     },
@@ -651,10 +763,10 @@
         "Certification",
         "Computer-Based Test"
       ],
-      "description": "MTEL is a suite of computer-based licensure tests required for prospective educators seeking Initial teaching licences in Massachusetts. Tests cover the Communication & Literacy Skills requirement plus subject-specific content knowledge and pedagogy.",
+      "description": "MTEL is a suite of computer-based licensure tests required for prospective educators seeking Initial teaching licences in Massachusetts. Tests cover the Communication & Literacy Skills requirement plus subject-specific content knowledge and pedagogy. As of May 2026, some candidates may qualify to waive the Communication & Literacy Skills requirement entirely under a new alternative licensure pathway.",
       "officialWebsite": "https://www.doe.mass.edu/mtel/",
       "isOfficial": true,
-      "lastUpdated": "2026-04-30",
+      "lastUpdated": "2026-07-25",
       "seoTitle": "MTEL 2026: Free Practice Tests, Syllabus & Licensure Prep Guide",
       "seoDescription": "Prepare for MTEL licensure tests with free mock tests & 2026 study guides. Practice Communication & Literacy Skills and subject-area tests for MA teachers.",
       "relatedBlogTags": [
@@ -682,11 +794,19 @@
         {
           "label": "Score Reporting",
           "value": "Unofficial scores available immediately; official scores within approximately 3–4 weeks"
+        },
+        {
+          "label": "C&L Waiver Pathway (New, 2026)",
+          "value": "Effective from applications accepted starting May 14, 2026, some candidates can waive the Communication & Literacy Skills test entirely by meeting one of four eligibility criteria under revised 603 CMR 7.00 regulations, approved by the Board of Elementary and Secondary Education on April 28, 2026"
+        },
+        {
+          "label": "Alternative Assessments to MTEL",
+          "value": "Praxis and other approved alternative assessments remain valid substitutes for MTEL subject-area/C&L tests; note that CASA, MoGEA, and WEST-B are being retired as approved alternatives effective July 5, 2026"
         }
       ],
       "eligibility": [
         "Must be a candidate seeking an Initial educator licence in Massachusetts through a state-approved educator preparation programme or an alternative licensure route",
-        "The Communication & Literacy Skills (CLS) test is mandatory for all candidates seeking any Initial teaching licence, regardless of subject area",
+        "The Communication & Literacy Skills (CLS) test is mandatory for all candidates seeking any Initial teaching licence, regardless of subject area — unless the candidate qualifies for the new CLS waiver pathway introduced in 2026 (see Key Facts) or has passed an approved alternative assessment",
         "Subject-area tests must correspond to the endorsement sought; candidates may sit tests before, during, or after completing their preparation programme",
         "Registration is conducted through the official MTEL website; no prior degree is required to register, though licensure itself requires degree completion"
       ],
@@ -750,6 +870,14 @@
         {
           "question": "How many times can I retake an MTEL test?",
           "answer": "There is no limit on the number of retakes. However, candidates must wait until the official score from their most recent attempt is released before registering for the same test again. A fee is charged for each attempt."
+        },
+        {
+          "question": "Is there a new way to skip the Communication & Literacy Skills (CLS) test in 2026?",
+          "answer": "Yes. On April 28, 2026, the Massachusetts Board of Elementary and Secondary Education approved changes to educator licensure regulations (603 CMR 7.00) creating an alternative pathway that lets some candidates waive the CLS requirement if they meet one of four eligibility criteria. DESE expected to start accepting applications under this pathway from May 14, 2026. The waiver applies only to the Communication & Literacy Skills test, not subject-area tests — check the official MTEL alternative assessments page for the specific eligibility criteria and application steps."
+        },
+        {
+          "question": "Are Praxis or other non-MTEL tests still accepted as alternatives?",
+          "answer": "Yes, Praxis and certain other state-approved exams remain valid alternative assessments to the MTEL for meeting licensure testing requirements. However, three older alternative assessments — CASA, MoGEA, and WEST-B — are being retired effective July 5, 2026, so candidates planning to rely on those should confirm current options on the official MTEL alternative assessments page before registering."
         }
       ]
     },
@@ -761,23 +889,51 @@
       "fullName": "Common Admission Test",
       "shortName": "CAT",
       "category": "Postgraduate Management Entrance",
-      "conductingBody": "Indian Institutes of Management (IIMs) — rotating convener each year",
+      "conductingBody": "Indian Institutes of Management (IIMs) — rotating convener each year; IIM Indore confirmed for CAT 2026",
       "country": "India",
       "examType": [
         "Postgraduate Entrance",
         "MBA Entrance",
         "Computer Based Test"
       ],
-      "description": "CAT is India's most prestigious national-level MBA entrance exam, conducted annually by a rotating IIM. Scores are used for admission to all 21 IIMs and over 1,200 other management institutes across India.",
+      "description": "CAT is India's most prestigious national-level MBA entrance exam. CAT 2026 will be conducted by IIM Indore on November 29, 2026, as confirmed in the official notification released July 25, 2026. Scores are used for admission to all 22 IIMs (including the newly established IIM Guwahati) and over 1,300 other management institutes across India.",
       "officialWebsite": "https://iimcat.ac.in/",
       "isOfficial": true,
-      "lastUpdated": "2026-04-30",
-      "seoTitle": "CAT Exam: Free Mock Tests, Syllabus CAT Exam Guide, and Previous Year Papers",
-      "seoDescription": "Crack the CAT entrance exam with free online mock tests, previous year papers & complete syllabus, and exam guide. Practice VARC, DILR & QA with previous year CAT papers.",
+      "lastUpdated": "2026-07-26",
+      "seoTitle": "CAT 2026: Free Mock Tests, Syllabus & IIM Prep Study Guide",
+      "seoDescription": "Crack CAT 2026 with free mock tests & complete syllabus guide. Practice VARC, DILR & QA with IIM-pattern simulations. Boost your MBA admission percentile!",
       "relatedBlogTags": [
         "CAT",
         "MBA Entrance",
         "IIM"
+      ],
+      "heroStats": [
+        { "label": "IIMs Participating", "value": "22" },
+        { "label": "Colleges Accepting Score", "value": "1,300+" },
+        { "label": "PGP Seats", "value": "5,500+" },
+        { "label": "Application Fee", "value": "₹2,700 / ₹1,350" }
+      ],
+      "importantDates": [
+        { "event": "Official CAT 2026 Notification", "date": "2026-07-25", "note": "Released by IIM Indore.", "status": "past" },
+        { "event": "Registration Opens", "date": "2026-08-03, 10:00 AM", "note": "Confirmed — note this shifted from the Aug 1 date many trackers had projected.", "status": "upcoming" },
+        { "event": "Registration Closes", "date": "2026-09-15, 5:00 PM", "note": "Confirmed — shifted from the Sep 20 date many trackers had projected.", "status": "upcoming" },
+        { "event": "Correction / Edit Window", "date": "September 2026", "note": "Short ~3-day window after registration closes.", "status": "upcoming" },
+        { "event": "Admit Card Release", "date": "2026-11-04", "status": "upcoming" },
+        { "event": "CAT 2026 Exam Day", "date": "2026-11-29", "note": "3 slots — morning, afternoon, evening, across ~170 test cities.", "status": "upcoming" },
+        { "event": "Result Declaration", "date": "3rd–4th week of December 2026 (expected)", "note": "CAT 2025 results were declared Dec 24, 2025, 24 days after the exam — the only remaining projected (not yet confirmed) date on this list.", "status": "upcoming" }
+      ],
+      "admitCard": {
+        "info": "Confirmed: CAT 2026 admit cards release November 4, 2026 on the official website. Only fully registered candidates with a valid CAT ID and password can download it.",
+        "url": "https://iimcat.ac.in/"
+      },
+      "resultInfo": {
+        "info": "Results are declared on the official CAT website — historically within about 3-4 weeks of the exam (CAT 2025 results came out Dec 24, 2025, just 24 days after the Nov 30 exam). Scorecards are typically valid for one year.",
+        "url": "https://iimcat.ac.in/"
+      },
+      "officialLinks": [
+        { "label": "CAT Official Website", "url": "https://iimcat.ac.in/" },
+        { "label": "IIM Indore (Expected CAT 2026 Convener)", "url": "https://www.iimidr.ac.in" },
+        { "label": "IIM Guwahati (Newest / 22nd IIM)", "url": "https://www.iimg.ac.in" }
       ],
       "keyFacts": [
         {
@@ -794,15 +950,23 @@
         },
         {
           "label": "Total Questions",
-          "value": "66 questions (as per CAT 2024 pattern)"
+          "value": "68 questions (VARC 24 + DILR 22 + QA 22), unchanged since CAT 2024"
         },
         {
           "label": "Total Marks",
-          "value": "198 (as per CAT 2024 pattern)"
+          "value": "204 (68 questions × 3 marks each, if all correct)"
         },
         {
           "label": "Score Reporting",
-          "value": "Percentile scores; results typically in January"
+          "value": "Percentile scores; CAT 2025 results were declared Dec 24, 2025 (~24 days after the exam)"
+        },
+        {
+          "label": "Application Fee (2026, confirmed)",
+          "value": "₹2,700 (General/EWS/NC-OBC), ₹1,350 (SC/ST/PwBD) — increased from ₹2,600/₹1,300 in 2025"
+        },
+        {
+          "label": "Registration Window (2026, confirmed)",
+          "value": "August 3 – September 15, 2026"
         }
       ],
       "eligibility": [
@@ -814,7 +978,7 @@
       "examPattern": [
         {
           "label": "Total Questions",
-          "value": "66 (VARC: 24, DILR: 20, QA: 22) — as per CAT 2024"
+          "value": "68 (VARC: 24, DILR: 22, QA: 22) — unchanged since CAT 2024, confirmed stable through CAT 2025"
         },
         {
           "label": "Question Types",
@@ -854,11 +1018,11 @@
       "faqs": [
         {
           "question": "How many IIMs accept CAT scores?",
-          "answer": "All 21 IIMs accept CAT scores. Additionally, over 1,200 other MBA colleges and management institutes across India use CAT scores for their admission processes."
+          "answer": "All 22 IIMs accept CAT scores — including IIM Guwahati, inaugurated in February 2026 as India's newest IIM. Additionally, over 1,300 other MBA colleges and management institutes across India use CAT scores for their admission processes."
         },
         {
           "question": "What percentile is required to get IIM calls for interviews?",
-          "answer": "Top IIMs like IIM Ahmedabad, Bangalore, and Calcutta typically shortlist candidates with 99+ percentile for general category. Other IIMs may shortlist from 90–98 percentile range. However, IIMs also weigh academic profiles, work experience, and diversity, so the overall profile matters significantly."
+          "answer": "Top IIMs like IIM Ahmedabad, Bangalore, and Calcutta typically shortlist candidates with 99+ percentile for general category. Other IIMs may shortlist from 88–98 percentile range, with newer institutes like IIM Guwahati generally on the lower end. However, IIMs also weigh academic profiles, work experience, and diversity, so the overall profile matters significantly."
         },
         {
           "question": "Is there a restriction on the number of CAT attempts?",
@@ -867,6 +1031,18 @@
         {
           "question": "What is the difference between MCQ and TITA questions in CAT?",
           "answer": "MCQ questions have 4 answer options and carry a penalty of -1 for wrong answers. TITA (Type In The Answer) questions require candidates to type the answer directly — they carry no negative marking, making them relatively safer to attempt."
+        },
+        {
+          "question": "When will CAT 2026 results be declared?",
+          "answer": "Likely the 3rd or 4th week of December 2026. CAT 2025 results were declared on December 24, 2025 — just 24 days after the exam — so results tend to arrive sooner than the January timeline some older guides suggest."
+        },
+        {
+          "question": "Has the CAT 2026 application fee changed?",
+          "answer": "Yes. The official notification (released July 25, 2026) confirms the fee increased to ₹2,700 for General/EWS/NC-OBC candidates and ₹1,350 for SC/ST/PwBD candidates, up from ₹2,600 and ₹1,300 in CAT 2025."
+        },
+        {
+          "question": "When does CAT 2026 registration open and close?",
+          "answer": "Confirmed: registration opens August 3, 2026 at 10:00 AM and closes September 15, 2026 at 5:00 PM. This is a shift from the August 1 – September 20 window used in CAT 2025."
         }
       ]
     },
@@ -1301,10 +1477,10 @@
         "Objective Test",
         "Multiple Choice"
       ],
-      "description": "An FBLA competitive event assessing foundational marketing knowledge for high school students. Topics span the full marketing mix (4Ps), consumer behavior, market research, branding, pricing strategies, digital marketing, and marketing ethics — as per the annual FBLA guidelines.",
+      "description": "An FBLA competitive event, open only to 9th and 10th grade members, assessing foundational marketing knowledge for high school students. Topics span the full marketing mix (4Ps), consumer behavior, market research, branding, pricing strategies, digital marketing, and marketing ethics — as per the annual FBLA guidelines.",
       "officialWebsite": "https://www.fbla.org/competitive-events/",
       "isOfficial": false,
-      "lastUpdated": "2026-04-30",
+      "lastUpdated": "2026-07-25",
       "seoTitle": "FBLA Intro Marketing 2026: Free Mock Tests, Syllabus & Prep Guide",
       "seoDescription": "Ace the FBLA Introduction to Marketing Concepts event with free mock tests & 2026 study guide. Master the 4Ps, consumer behavior & market research. Prep now!",
       "relatedBlogTags": [
@@ -1319,7 +1495,11 @@
         },
         {
           "label": "Duration",
-          "value": "75 minutes"
+          "value": "50 minutes, per the 2025–2026 FBLA Competitive Events Guidelines (some older/third-party sources still list 75 minutes — always confirm against the current year's official guidelines, published each September)"
+        },
+        {
+          "label": "Grade Restriction",
+          "value": "Limited strictly to FBLA members in grades 9 and 10 (freshmen and sophomores). Juniors and seniors are not eligible for this event and instead compete in the standard \"Marketing\" event"
         },
         {
           "label": "Level",
@@ -1330,23 +1510,29 @@
           "value": "Number of correct answers (no negative marking)"
         },
         {
+          "label": "Repeat Eligibility",
+          "value": "A member who has previously placed in the top 10 at the National Leadership Conference (NLC) in this event is no longer eligible to compete in it again"
+        },
+        {
           "label": "Reference",
-          "value": "Annual FBLA Competitive Events Guidelines + standard marketing textbooks"
+          "value": "Annual FBLA Competitive Events Guidelines (updated each September for the new program year) + standard marketing textbooks"
         }
       ],
       "eligibility": [
-        "Must be an active FBLA (Future Business Leaders of America) member at the high school level",
+        "Must be an active FBLA (Future Business Leaders of America) member, and specifically in grade 9 or 10 — this event is not open to juniors or seniors",
         "Must be registered through the chapter advisor before the competition registration deadline",
+        "National FBLA membership dues must be paid by the published annual deadline (11:59 p.m. Eastern Time on March 1 of the current program year, per national guidelines — some states set an earlier internal deadline, so check with your chapter advisor)",
+        "Members who have previously placed in the top 10 of this event at the National Leadership Conference (NLC) are no longer eligible to compete in it",
         "Must adhere to FBLA academic integrity, dress code, and event-specific guidelines as published in the annual Competitive Events Guide"
       ],
       "examPattern": [
         {
           "label": "Total Questions",
-          "value": "100 multiple-choice questions"
+          "value": "100 multiple-choice questions, drawn from 8 official competency areas (A–H, see Syllabus)"
         },
         {
           "label": "Duration",
-          "value": "75 minutes"
+          "value": "50 minutes, per the current (2025–2026) FBLA Competitive Events Guidelines"
         },
         {
           "label": "Scoring",
@@ -1357,52 +1543,72 @@
           "value": "None"
         },
         {
+          "label": "Test Composition",
+          "value": "FBLA publishes a test composition chart showing the relative weighting of each competency area; exact percentages are not disclosed publicly, but Basic Marketing Functions and Selling & Merchandising have historically carried significant weight. Check the current year's official guidelines for the latest chart"
+        },
+        {
           "label": "Tie-breaking",
-          "value": "Ties broken by time taken or a separate tiebreaker round, per FBLA rules"
+          "value": "A 3-stage process per official guidelines: (1) compare correct answers on 10 predetermined questions, (2) if still tied, compare correct answers on 20 predetermined questions, (3) if still tied, the competitor with the shorter completion time places higher"
+        },
+        {
+          "label": "Equipment",
+          "value": "Competitors provide their own pencil; FBLA provides one piece of scratch paper. No reference/study materials, calculators, or electronic devices permitted (some SLC administrations are computer-based, e.g. Nebraska, with online calculators built into testing software — check your state/conference format)"
+        },
+        {
+          "label": "Penalty Points",
+          "value": "5 points deducted for dress code violations or late arrival at the testing site; disqualification possible for Honor Code or Competitive Event Guidelines violations"
         }
       ],
       "syllabusOverview": [
         {
-          "subject": "Marketing Fundamentals",
-          "topics": "Definition and scope of marketing, Marketing concept and its evolution (production/sales/marketing/societal concepts), Role of marketing in the economy, Types of markets (B2C, B2B, C2C), Marketing environment (PESTEL analysis)"
+          "subject": "A. Basic Marketing Functions",
+          "topics": "The marketing concept and benefits of marketing; the seven marketing functions; elements of the marketing mix (product, price, place, promotion); product mix and product mix strategies by classification; legal aspects of product development (patents, copyrights, trademarks); branding, packaging, and labeling; product/business positioning factors (features/benefits, price/quality, competition); factors influencing product pricing (cost, quality, competition, brand loyalty)"
         },
         {
-          "subject": "Marketing Mix — Product",
-          "topics": "Product classification (consumer vs. industrial goods), Product life cycle (PLC) stages, New product development (NPD) process, Branding (brand equity, brand loyalty, brand extensions), Packaging & labelling regulations, Product mix decisions (width, length, depth)"
+          "subject": "B. Selling and Merchandising",
+          "topics": "Purpose and importance of selling; selling concepts, techniques, and steps in the selling process; translating product knowledge into customer benefits; factors influencing customer buying motives and decisions; the salesperson's role in building customer relationships; completing sales transactions (payment methods, making change, wrapping/bagging merchandise, closing courtesies); handling customer inquiries, complaints, and difficult situations"
         },
         {
-          "subject": "Marketing Mix — Price",
-          "topics": "Pricing objectives, Cost-based pricing (mark-up, break-even), Competition-based pricing, Value-based pricing, Psychological pricing strategies (odd-even, prestige, bundle), Price elasticity of demand, Discount & allowance strategies"
+          "subject": "C. Promotion and Advertising Media",
+          "topics": "Role of promotion as a marketing function and the purpose of advertising; advantages/disadvantages of advertising and promotional media types (radio, television, direct mail, outdoor, newspaper); the promotional mix (advertising, publicity, sales promotion, personal selling); visual merchandising, display, and trade shows"
         },
         {
-          "subject": "Marketing Mix — Place (Distribution)",
-          "topics": "Distribution channel types (direct, indirect, multichannel), Channel members (wholesalers, retailers, distributors, agents), Logistics & supply chain management basics, Retailing types (brick-and-mortar vs. e-commerce), Channel conflict and management"
+          "subject": "D. Marketing Information, Research, and Planning",
+          "topics": "Reasons for conducting market research; research methods and procedures; primary vs. secondary data sources; methods of obtaining market data (surveys, interviews, observations); target markets and market segmentation (demographic, psychographic, geographic); the purpose and components of a marketing plan; how marketing information informs business decisions"
         },
         {
-          "subject": "Marketing Mix — Promotion",
-          "topics": "Integrated Marketing Communications (IMC), Advertising (types, media selection, AIDA model), Personal selling process, Sales promotion (coupons, contests, trade promotions), Public relations & publicity, Direct marketing, Social media & digital marketing fundamentals"
+          "subject": "E. Channels of Distribution",
+          "topics": "Concept of distribution and types of distribution channels; direct vs. indirect channels (wholesaler, agent, broker) and when each applies; shipping and receiving processes; transportation systems and services (motor, rail, water, air); storing and warehousing options and procedures"
         },
         {
-          "subject": "Consumer Behavior & Market Research",
-          "topics": "Consumer decision-making process (5-stage model), Psychological influences (motivation, perception, learning, attitudes), Social influences (culture, family, reference groups), Market segmentation (demographic, psychographic, geographic, behavioral), Targeting and positioning (STP model), Primary vs. secondary research methods, Survey design & data analysis basics"
+          "subject": "F. E-commerce",
+          "topics": "How technology, including the Internet, impacts marketing; the Internet's broader impact on marketing practice; considerations in website pricing; using a website presence to promote a business or product"
         },
         {
-          "subject": "Marketing Ethics & Legal Issues",
-          "topics": "FTC regulations on advertising and endorsements, Truth-in-advertising standards, Consumer protection laws, Privacy & data ethics in digital marketing, Social responsibility & cause marketing, Ethical decision-making in marketing"
+          "subject": "G. Economics",
+          "topics": "Competition and its effect on marketing decisions; the concept of profit in private enterprise and factors affecting it; economic resources (land, labor, capital, entrepreneurship); principles of supply and demand; comparing economic systems (capitalism, socialism, communism)"
+        },
+        {
+          "subject": "H. Legal, Ethical, and Social Aspects of Marketing",
+          "topics": "Ethical issues and their impact on marketing; influence of special interest groups and changing cultural characteristics (aging population, single-person households, mobility) on marketing; social responsibility in marketing (environmental issues, ethical decisions, community involvement)"
         }
       ],
       "faqs": [
         {
           "question": "How many questions are on the FBLA Introduction to Marketing Concepts test?",
-          "answer": "The event consists of 100 multiple-choice questions to be completed within 75 minutes. All questions are based on the topics listed in the current year's FBLA Competitive Events Guidelines."
+          "answer": "The event consists of 100 multiple-choice questions to be completed within 50 minutes, per the 2025–2026 FBLA Competitive Events Guidelines. All questions are based on the topics listed in the current year's guidelines, which are refreshed each September — always check the footer date on the official PDF to confirm you have the latest version."
         },
         {
           "question": "What is the best way to prepare for the FBLA Intro to Marketing event?",
-          "answer": "Review the current FBLA Competitive Events Guidelines thoroughly, then study with an introductory marketing textbook (such as Kotler & Armstrong's 'Principles of Marketing'). Practice with previous FBLA tests and online mock exams, focusing on the 4Ps, consumer behavior, and market research topics."
+          "answer": "Study directly from the current FBLA Competitive Events Guidelines' 8 official competency areas: Basic Marketing Functions, Selling and Merchandising, Promotion and Advertising Media, Marketing Information/Research/Planning, Channels of Distribution, E-commerce, Economics, and Legal/Ethical/Social Aspects of Marketing. Supplement with an introductory marketing textbook (such as Kotler & Armstrong's 'Principles of Marketing') and practice with official sample test items on FBLA Connect and mock exams."
         },
         {
           "question": "Can students compete in Introduction to Marketing Concepts at the National Leadership Conference (NLC)?",
           "answer": "Yes. Students who qualify at the State Leadership Conference (SLC) by finishing in a top position may advance to the National Leadership Conference (NLC) to compete nationally. The same objective-test format applies at all levels."
+        },
+        {
+          "question": "Which students are eligible for the Introduction to Marketing Concepts event?",
+          "answer": "This event is restricted to FBLA members in grades 9 and 10 only. Juniors and seniors are not eligible and instead compete in the standard \"Marketing\" event, which follows a different format (objective test plus role-play). Additionally, a member who has previously placed in the top 10 at the National Leadership Conference (NLC) in this event cannot compete in it again."
         }
       ]
     },
@@ -1676,12 +1882,12 @@
         "Undergraduate Entrance",
         "Paper-Based / Computer-Based"
       ],
-      "description": "The ACT is a standardised college admissions test widely accepted by all US universities and colleges. It measures academic readiness across English, Mathematics, Reading, and Science Reasoning, with an optional Writing section. Scored on a 1–36 composite scale.",
+      "description": "The ACT is a standardised college admissions test widely accepted by all US universities and colleges. Following the phased rollout of the \"Enhanced ACT\" (completed for school-day administrations by spring 2026), the test now has three required sections — English, Mathematics, and Reading — with Science offered as an optional add-on that no longer counts toward the Composite score. An optional Writing section remains available. Scored on a 1–36 composite scale.",
       "officialWebsite": "https://www.act.org",
       "isOfficial": true,
-      "lastUpdated": "2026-04-30",
+      "lastUpdated": "2026-07-25",
       "seoTitle": "ACT 2026: Free Mock Tests, Syllabus & College Admissions Prep Guide",
-      "seoDescription": "Boost your ACT composite score with free mock tests & 2026 study guide. Practice English, Math, Reading & Science with timed simulations for college success!",
+      "seoDescription": "Boost your ACT composite score with free mock tests & 2026 study guide. Practice the Enhanced ACT's English, Math & Reading core plus optional Science with timed simulations!",
       "relatedBlogTags": [
         "ACT",
         "College Admissions",
@@ -1694,19 +1900,27 @@
         },
         {
           "label": "Mode",
-          "value": "Paper-based at test centres; computer-based option available at select sites"
+          "value": "Paper-based at test centres; digital/computer-based option also available at many sites"
         },
         {
-          "label": "Duration",
-          "value": "2 hours 55 minutes (without Writing); 3 hours 35 minutes (with optional Writing)"
+          "label": "Duration (Enhanced ACT)",
+          "value": "Core (English, Math, Reading) only: ~2 hours 5 minutes. Add optional Science: ~2 hours 45 minutes. Add optional Writing: +40 minutes"
         },
         {
           "label": "Scoring",
-          "value": "Composite score 1–36 (average of 4 section scores, each 1–36)"
+          "value": "Composite score 1–36 is now the average of English, Math, and Reading only. If taken, Science is reported as a separate section score (not included in Composite) and can combine with Math for an optional STEM score"
         },
         {
           "label": "Score Reporting",
           "value": "Scores available approximately 2–8 weeks after test date; can be sent to up to 4 colleges for free on test day"
+        },
+        {
+          "label": "Enhanced ACT Rollout (2025\u20132026)",
+          "value": "National online Saturday testing switched in April 2025; all national Saturday testing (paper + online) followed in September 2025; school-day administrations completed the transition in spring 2026 \u2014 so as of July 2026, all ACT test-takers sit the Enhanced format"
+        },
+        {
+          "label": "Fees (US, 2025\u201326)",
+          "value": "Core registration (no Writing): $68. Optional Science add-on: +$4. Optional Writing add-on: +$25. Late registration fee: ~$38\u2013$42. Fee waivers available for eligible students"
         }
       ],
       "eligibility": [
@@ -1718,23 +1932,27 @@
       "examPattern": [
         {
           "label": "English",
-          "value": "75 questions | 45 minutes | Tests: Usage/Mechanics, Rhetorical Skills"
+          "value": "50 questions | 35 minutes | Tests: Production of Writing, Knowledge of Language, Conventions of Standard English (previously 75 questions / 45 minutes)"
         },
         {
           "label": "Mathematics",
-          "value": "60 questions | 60 minutes | Tests: Pre-Algebra through Trigonometry"
+          "value": "45 questions | 50 minutes | Tests: Pre-Algebra through Trigonometry; now 4 answer choices per question instead of 5 (previously 60 questions / 60 minutes)"
         },
         {
           "label": "Reading",
-          "value": "40 questions | 35 minutes | 4 passages: Literary Narrative, Social Sciences, Humanities, Natural Sciences"
+          "value": "36 questions | 40 minutes | 4 passages: Literary Narrative, Social Sciences, Humanities, Natural Sciences (previously 40 questions / 35 minutes)"
         },
         {
-          "label": "Science",
-          "value": "40 questions | 35 minutes | Tests: Data Representation, Research Summaries, Conflicting Viewpoints"
+          "label": "Science (Optional)",
+          "value": "40 questions | 40 minutes | Tests: Data Representation, Research Summaries, Conflicting Viewpoints — no longer required and no longer counted in the Composite score; reported as a separate section score and combines with Math for an optional STEM score"
         },
         {
           "label": "Writing (Optional)",
           "value": "1 essay prompt | 40 minutes | Scored 2–12 (does not affect composite score)"
+        },
+        {
+          "label": "Scoring",
+          "value": "Composite score 1–36 = average of English, Math, and Reading scores only (Science excluded from Composite under the Enhanced ACT)"
         },
         {
           "label": "Negative Marking",
@@ -1755,8 +1973,8 @@
           "topics": "Literary Narrative / Prose Fiction: Character, plot, tone, theme analysis; Social Sciences (history, economics, sociology, political science passages): Main idea, author's purpose, inference; Humanities (art, music, architecture, philosophy passages): Vocabulary in context, comparative analysis; Natural Sciences (biology, chemistry, physics, earth science passages): Detail, inference, generalisation"
         },
         {
-          "subject": "Science Reasoning",
-          "topics": "Data Representation: Interpreting graphs, tables, charts, and figures from scientific experiments; Research Summaries: Evaluating experimental design, hypotheses, procedures, and conclusions; Conflicting Viewpoints: Analysing two or more scientists' differing explanations of the same phenomenon (covers Biology, Chemistry, Physics, Earth/Space Science)"
+          "subject": "Science Reasoning (Optional)",
+          "topics": "Data Representation: Interpreting graphs, tables, charts, and figures from scientific experiments; Research Summaries: Evaluating experimental design, hypotheses, procedures, and conclusions; Conflicting Viewpoints: Analysing two or more scientists' differing explanations of the same phenomenon (covers Biology, Chemistry, Physics, Earth/Space Science). Since the Enhanced ACT rollout, this section no longer counts toward the Composite score and is reported separately"
         },
         {
           "subject": "Writing (Optional)",
@@ -1778,7 +1996,11 @@
         },
         {
           "question": "What is the difference between the ACT and the SAT?",
-          "answer": "Both are college admissions tests accepted by all US universities. Key differences: the ACT has a dedicated Science section; the SAT has a stronger reading/evidence-based focus. The ACT allows calculators throughout Math; the SAT has a no-calculator math section. Neither penalises for wrong answers. Most students perform comparably on both — taking a practice test for each is recommended to find your best fit."
+          "answer": "Both are college admissions tests accepted by all US universities. Under the Enhanced ACT, the ACT's Composite score is based only on English, Math, and Reading, with Science offered as a separate optional section; the SAT has a stronger reading/evidence-based focus and no dedicated science section. The ACT allows calculators throughout Math; the SAT has a no-calculator math section. Neither penalises for wrong answers. Most students perform comparably on both — taking a practice test for each is recommended to find your best fit."
+        },
+        {
+          "question": "What is the \"Enhanced ACT\" and is Science still required?",
+          "answer": "The Enhanced ACT is a shorter, redesigned version of the test that rolled out in phases: national online Saturday testing from April 2025, all national Saturday testing (paper and digital) from September 2025, and school-day administrations from spring 2026. As of July 2026, all ACT test-takers sit the Enhanced format. Science is now optional — students can choose to add it for an extra fee, but it is no longer required and no longer factors into the 1–36 Composite score. Students who do take Science receive it as a separate section score and can also get a combined STEM score (Math + Science). Some colleges may still recommend or require Science scores, especially for STEM programmes, so it's worth checking target schools' requirements before deciding whether to add it."
         }
       ]
     },
@@ -1981,7 +2203,7 @@
       "description": "The LSO Paralegal Licensing Examination (P1) is the mandatory competency-based assessment required to obtain a Class P1 licence to practise as an independent paralegal in Ontario, Canada. It tests the ability to apply law and professional judgment across ethics, civil litigation, criminal law, and practice management. The exam is open-book and conducted at designated Computer-Based Testing centres.",
       "officialWebsite": "https://lso.ca",
       "isOfficial": true,
-      "lastUpdated": "2026-07-08",
+      "lastUpdated": "2026-07-25",
       "seoTitle": "LSO Paralegal Licensing Exam 2026: Fees, Dates, Format & How to Pass",
       "seoDescription": "Complete guide to the 2026 LSO P1 Paralegal Licensing Exam. Confirmed fees ($1,460 + HST), exam dates, format, permitted materials, and a proven study strategy.",
       "relatedBlogTags": [
@@ -1990,6 +2212,26 @@
         "P1 Exam",
         "Law Society of Ontario",
         "Ontario Licensing"
+      ],
+      "importantDates": [
+        {
+          "event": "Summer 2026 Sitting",
+          "date": "June 2026",
+          "note": "Completed sitting for the 2026 licensing year.",
+          "status": "past"
+        },
+        {
+          "event": "Autumn 2026 Sitting",
+          "date": "October 2026 (exact date TBD)",
+          "note": "As of this update, the LSO has not yet posted the specific Autumn 2026 sitting date on its examination dates page — verify directly via LSO Connects before finalizing study plans.",
+          "status": "upcoming"
+        },
+        {
+          "event": "Winter 2026\u201327 Sitting",
+          "date": "January\u2013February 2027 (exact date TBD)",
+          "note": "Not yet published by the LSO as of this update.",
+          "status": "upcoming"
+        }
       ],
       "keyFacts": [
         {

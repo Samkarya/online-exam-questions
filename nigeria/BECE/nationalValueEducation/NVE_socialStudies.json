@@ -1,0 +1,3042 @@
+[
+  {
+    "question_number": 1,
+    "subject": "National Values Education",
+    "topic": "History of Nigerian Social Studies Education",
+    "question_text": "In what year was Social Studies officially introduced into the Nigerian educational system on a pilot basis?",
+    "options": {
+      "a": "1960",
+      "b": "1963",
+      "c": "1968",
+      "d": "1970"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Social Studies was first introduced in Nigeria on a pilot basis in **1963** at the Comprehensive High School, Aiyetoro, located in present-day Ogun State.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "National Values Education",
+    "topic": "History of Nigerian Social Studies Education",
+    "question_text": "Which secondary school in Nigeria served as the experimental ground where Social Studies was first taught?",
+    "options": {
+      "a": "King's College, Lagos",
+      "b": "Barewa College, Zaria",
+      "c": "Comprehensive High School, Aiyetoro",
+      "d": "Hope Waddell Training Institution, Calabar"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The teaching of Social Studies began at **Comprehensive High School, Aiyetoro**, serving as a model testing ground before the subject was gradually expanded to other Nigerian schools.",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "National Values Education",
+    "topic": "History of Nigerian Social Studies Education",
+    "question_text": "Which of the following international organizations provided major funding and technical support for the introduction of Social Studies in Nigeria?",
+    "options": {
+      "a": "The Ford Foundation",
+      "b": "The World Health Organization",
+      "c": "The United Nations Security Council",
+      "d": "The International Monetary Fund"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "**The Ford Foundation**, along with the United States Agency for International Development (USAID), provided significant sponsorship and resources to facilitate the Aiyetoro Social Studies project.",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "National Values Education",
+    "topic": "History of Nigerian Social Studies Education",
+    "question_text": "Before the introduction of the integrated Social Studies curriculum in Nigeria, which group of subjects was primarily taught to cover human interaction with society?",
+    "options": {
+      "a": "Mathematics, Physics, and Chemistry",
+      "b": "History, Geography, and Civics",
+      "c": "Fine Art, Music, and Drama",
+      "d": "English, French, and Yoruba"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Prior to adopting an integrated approach, elements of human interaction, physical environment, and citizenship were taught separately as **History**, **Geography**, and **Civics**.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "National Values Education",
+    "topic": "History of Nigerian Social Studies Education",
+    "question_text": "What was the primary sociopolitical reason for introducing Social Studies in Nigeria shortly after independence?",
+    "options": {
+      "a": "To increase population growth",
+      "b": "To promote British colonial administrative culture",
+      "c": "To foster national unity and integration",
+      "d": "To encourage rural-to-urban migration"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "After independence, Nigeria recognized the need to bridge ethnic divisions. Social Studies was introduced as a tool to cultivate a sense of **shared identity, national unity, and integration** among its diverse population.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "National Values Education",
+    "topic": "History of Nigerian Social Studies Education",
+    "question_text": "Which prominent African conference held in 1968 played a highly significant role in shaping the adoption and curriculum development of Social Studies across the continent?",
+    "options": {
+      "a": "The Lagos Conference",
+      "b": "The Mombasa Conference",
+      "c": "The Accra Conference",
+      "d": "The Pretoria Conference"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The **1968 Mombasa Conference** in Kenya brought African educators together and laid the regional groundwork for modern Social Studies curricula that emphasized indigenous needs and African environments.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "National Values Education",
+    "topic": "History of Nigerian Social Studies Education",
+    "question_text": "Under the Nigerian National Policy on Education (NPE), at what educational level is Social Studies mandated as a core and compulsory subject?",
+    "options": {
+      "a": "Senior Secondary School level",
+      "b": "Basic Education level (Primary and Junior Secondary)",
+      "c": "University and Polytechnic level",
+      "d": "Post-Graduate level only"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Social Studies is a core subject in the **Basic Education** curriculum (Primary 1 to JSS 3) to ensure foundational civic and moral development.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "National Values Education",
+    "topic": "General Objectives of Social Studies",
+    "question_text": "One of the fundamental objectives of Social Studies is to develop the learner's ability to do which of the following?",
+    "options": {
+      "a": "Avoid interacting with culturally different groups",
+      "b": "Memorize ancient European political history verbatim",
+      "c": "Adapt successfully to a constantly changing environment",
+      "d": "Overthrow traditional and democratic systems of government"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A central objective of the subject is equipping students with the critical thinking and problem-solving skills needed to **adapt to their changing physical and social environment**.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "National Values Education",
+    "topic": "General Objectives of Social Studies",
+    "question_text": "When a curriculum aims to inculcate a deep sense of loyalty, pride, and belonging to one's country, it is promoting:",
+    "options": {
+      "a": "Nepotism and tribalism",
+      "b": "National consciousness and patriotism",
+      "c": "Ethnocentrism and bias",
+      "d": "Global isolationism"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**National consciousness** refers to an individual's awareness of belonging to a nation, which breeds patriotism and a collective desire to see the nation succeed.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "National Values Education",
+    "topic": "General Objectives of Social Studies",
+    "question_text": "According to the general objectives of Social Studies, which description best defines a \"good citizen\"?",
+    "options": {
+      "a": "An individual capable of and willing to contribute to societal development",
+      "b": "A person who focuses exclusively on acquiring personal wealth",
+      "c": "Someone who refuses to participate in democratic civic duties",
+      "d": "A citizen who relies entirely on the government for basic survival"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Social Studies defines a good citizen not merely as a resident of a country, but as someone **active, capable, and willing to contribute positively** to the development of the society.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "National Values Education",
+    "topic": "General Objectives of Social Studies",
+    "question_text": "Which of the following is an example of the \"right types of values and attitudes\" that Social Studies seeks to inculcate in youths?",
+    "options": {
+      "a": "Apathy towards communal issues",
+      "b": "Honesty, tolerance, and hard work",
+      "c": "Intolerance and greed",
+      "d": "Disrespect for constitutional authority"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The \"right values\" include positive virtues such as **honesty, tolerance, hard work, and respect**, which are necessary for peaceful coexistence and progress.",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "National Values Education",
+    "topic": "General Objectives of Social Studies",
+    "question_text": "Developing a student's problem-solving skills to collaboratively tackle community challenges directly fulfills which objective of Social Studies?",
+    "options": {
+      "a": "Promoting religious supremacy in the region",
+      "b": "Contributing to the practical development of the society",
+      "c": "Isolating local communities from modern technological advances",
+      "d": "Encouraging a sedentary lifestyle among youths"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Equipping students with problem-solving skills empowers them to identify issues within their communities and take proactive steps, fulfilling the objective of **contributing to societal development**.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "National Values Education",
+    "topic": "General Objectives of Social Studies",
+    "question_text": "By teaching learners about the mutual interdependence of different ethnic and religious groups, Social Studies actively attempts to eliminate:",
+    "options": {
+      "a": "Ethnic bigotry and societal conflicts",
+      "b": "Economic development and trade",
+      "c": "Democratic governance processes",
+      "d": "National unity and patriotism"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Highlighting interdependence helps individuals appreciate diversity, thereby reducing **ethnic bigotry, stereotypes, and conflicts**.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "National Values Education",
+    "topic": "General Objectives of Social Studies",
+    "question_text": "If a student respectfully recites the National Anthem and protects public infrastructure, they are demonstrating which core objective of the subject?",
+    "options": {
+      "a": "Civic disobedience",
+      "b": "Academic manipulation",
+      "c": "National consciousness and citizenship",
+      "d": "Traditional dominance"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Respecting national symbols (like the anthem) and protecting public property are practical demonstrations of **national consciousness and responsible citizenship**.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "National Values Education",
+    "topic": "General Objectives of Social Studies",
+    "question_text": "Why is the continuous inculcation of positive values emphasized as a fundamental objective for basic education learners?",
+    "options": {
+      "a": "To replace indigenous languages with a uniform foreign language",
+      "b": "To enable youths to function effectively as responsible moral agents in society",
+      "c": "To prepare students exclusively for immediate migration to foreign nations",
+      "d": "To force all citizens to adhere to a single global religion"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The ultimate aim of value-based education is the molding of character. It enables learners to grow into adults who function effectively and responsibly as **moral agents** in their society.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "National Values Education",
+    "topic": "Contents of Social Studies",
+    "question_text": "The contents of Social Studies are structured around three broad domains of educational learning. Which domain deals primarily with the acquisition of factual knowledge, reasoning, and conceptualization?",
+    "options": {
+      "a": "The Affective domain",
+      "b": "The Cognitive domain",
+      "c": "The Psychomotor domain",
+      "d": "The Intuitive domain"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **Cognitive domain** involves knowledge, mental skills, comprehension, and the ability to conceptualize facts. It focuses on intellectual development.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "National Values Education",
+    "topic": "Contents of Social Studies",
+    "question_text": "In the context of the Social Studies curriculum, the **Affective domain** focuses extensively on cultivating the learner's:",
+    "options": {
+      "a": "Physical strength, stamina, and motor coordination",
+      "b": "Ability to calculate complex mathematical equations",
+      "c": "Feelings, emotions, values, and attitudes",
+      "d": "Memorization and recall of historical timelines"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **Affective domain** relates to emotional responses. In Social Studies, it is concerned with the development of proper values, empathy, attitudes, and ethical judgments.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "National Values Education",
+    "topic": "Contents of Social Studies",
+    "question_text": "Which of the following activities best represents the **Psychomotor content** of Social Studies education?",
+    "options": {
+      "a": "Explaining the theoretical concept of democratic voting",
+      "b": "Participating actively in a practical community environmental sanitation exercise",
+      "c": "Believing strongly in the internal importance of civic honesty",
+      "d": "Listing the names of all the traditional rulers in a state"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The **Psychomotor domain** involves physical action, coordination, and practical application. Participating in a sanitation exercise represents translating civic knowledge into physical action.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "National Values Education",
+    "topic": "Contents of Social Studies",
+    "question_text": "A comprehensive Social Studies syllabus includes facts, concepts, values, and skills that must primarily be relevant to:",
+    "options": {
+      "a": "Only the political leadership of the nation",
+      "b": "The historical past without any connection to the modern context",
+      "c": "Both the learners and the society in which they live",
+      "d": "Only the demands of the international community"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Educational content in Social Studies is designed to be highly pragmatic, ensuring it is **directly relevant to the learner's daily experiences** and the developmental needs of the society.",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "National Values Education",
+    "topic": "Contents of Social Studies",
+    "question_text": "Which of the following options accurately lists the main components that make up the content of Social Studies?",
+    "options": {
+      "a": "Myths, legends, magical spells, and folktales",
+      "b": "Facts, conceptualization, skills, values, and attitudes",
+      "c": "Algorithms, chemical formulas, trigonometry, and geometry",
+      "d": "Fictional literature, poetry analysis, and literary criticism"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "According to the syllabus, the meaning of Social Studies content is encapsulated in the teaching of **facts, conceptualization, skills, values, and attitudes**.",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "National Values Education",
+    "topic": "Contents of Social Studies",
+    "question_text": "Teaching a student to appreciate and respect the cultural differences among the various ethnic groups in Nigeria falls strictly under which educational domain?",
+    "options": {
+      "a": "Cognitive",
+      "b": "Psychomotor",
+      "c": "Affective",
+      "d": "Analytical"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Appreciation, respect, and tolerance are intrinsic emotional responses and belief systems; therefore, they are classified under the **Affective domain**.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "National Values Education",
+    "topic": "Family as a Primary Group",
+    "question_text": "In sociological terms taught in Social Studies, which of the following best defines a **primary social group**?",
+    "options": {
+      "a": "A massive group where members interact highly formally and impersonally",
+      "b": "A small social group whose members share intimate, face-to-face, and enduring relationships",
+      "c": "A temporary group of people gathered exclusively for a political campaign rally",
+      "d": "A network of people who communicate solely through online internet forums"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **primary social group** is characterized by small size, direct face-to-face interaction, high emotional connection, and long-lasting relationships.",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "National Values Education",
+    "topic": "Family as a Primary Group",
+    "question_text": "What is widely regarded as the most basic, universal, and first primary social group an individual belongs to?",
+    "options": {
+      "a": "The secondary school",
+      "b": "The local peer group",
+      "c": "The religious institution",
+      "d": "The family"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "The **family** is the foundational unit of society and serves as the very first primary group an individual is born into and socialized by.",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "National Values Education",
+    "topic": "Family as a Primary Group",
+    "question_text": "Which distinct characteristic primarily makes the family a \"primary group\" rather than a \"secondary group\"?",
+    "options": {
+      "a": "The relationships are deep, intimate, emotional, and long-lasting",
+      "b": "The members share the exact same political party affiliations",
+      "c": "The group relies on formal economic contracts and wage payments",
+      "d": "The interactions between members are strictly professional and temporary"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Unlike secondary groups (e.g., workplaces, large organizations) which are formal and temporary, the family features relationships that are **intimate, deeply emotional, and enduring**.",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "National Values Education",
+    "topic": "Family as a Primary Group",
+    "question_text": "What is one of the most vital roles and responsibilities of the family as a primary social group within a larger society?",
+    "options": {
+      "a": "Passing national laws, regulating elections, and maintaining a national army",
+      "b": "Judging high-level criminal cases and issuing legal prison sentences",
+      "c": "Socializing children, imparting societal values, and providing basic emotional needs",
+      "d": "Signing complex international trade treaties on behalf of the nation"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The primary role of the family is **socialization**. This includes providing basic care, teaching cultural norms, molding behavior, and meeting the emotional and economic needs of its members.",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "National Values Education",
+    "topic": "Family as a Primary Group",
+    "question_text": "Which of the following is an expected responsibility of the parents within the family as a primary social group?",
+    "options": {
+      "a": "Enacting federal laws for the community",
+      "b": "Providing basic needs like food, shelter, and clothing",
+      "c": "Arresting criminals in the neighborhood",
+      "d": "Paying taxes on behalf of their neighbors"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Within the family setup, parents have the fundamental responsibility of providing basic life necessities such as **food, shelter, and clothing** for their children.",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "National Values Education",
+    "topic": "Family as a Primary Group",
+    "question_text": "What is a major role that children are expected to play as members of the family group?",
+    "options": {
+      "a": "Earning the entire family income",
+      "b": "Showing respect and obedience to parents and elders",
+      "c": "Making final decisions on family relocations",
+      "d": "Paying school fees for themselves"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Children have specific roles within the family social group, chief among them being **respecting parents, obeying rules, and assisting with household chores**.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "National Values Education",
+    "topic": "The Consequences of Large and Small Family Sizes",
+    "question_text": "A family consisting of a father, a mother, and seven children is best described as a:",
+    "options": {
+      "a": "Small family size",
+      "b": "Large family size",
+      "c": "Extended family size",
+      "d": "Modern family size"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "According to the syllabus, a **large family size** is characterized by the presence of a father, mother, and **many children**.",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "National Values Education",
+    "topic": "The Consequences of Large and Small Family Sizes",
+    "question_text": "Which of the following characteristics best describes a small family size?",
+    "options": {
+      "a": "A father, mother, and very few children",
+      "b": "A father, three mothers, and their relatives",
+      "c": "A mother, grandmother, and ten children",
+      "d": "A father, mother, and many children"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "A **small family size** is identified primarily by having a father, mother, and **very few children** (e.g., one to three children).",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "National Values Education",
+    "topic": "The Consequences of Large and Small Family Sizes",
+    "question_text": "How does a small family size generally affect the quality of an individual child's life compared to a large family size?",
+    "options": {
+      "a": "The child receives less parental attention and affection",
+      "b": "The child is more likely to drop out of school due to high sibling competition",
+      "c": "The child often enjoys better health, nutrition, and qualitative education",
+      "d": "The child is forced to engage in child labour earlier in life"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Because resources are shared among fewer people, children in a small family generally experience a higher quality of life, including **better nutrition, parental attention, and qualitative education**.",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "National Values Education",
+    "topic": "The Consequences of Large and Small Family Sizes",
+    "question_text": "What is a likely consequence of a very large family size on the family's economic resources?",
+    "options": {
+      "a": "Resources become extremely abundant for each child",
+      "b": "Financial resources are strained, often leading to poverty",
+      "c": "The parents automatically receive larger salaries from employers",
+      "d": "The family effortlessly saves more money in the bank"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "In a large family, financial and material resources are stretched thin to cater to many children, which heavily **strains the family's budget and can lead to poverty**.",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "National Values Education",
+    "topic": "The Consequences of Large and Small Family Sizes",
+    "question_text": "On a national level, a widespread culture of maintaining very large family sizes is likely to result in which of the following for the economy?",
+    "options": {
+      "a": "Decreased demand for imported goods",
+      "b": "Excessive pressure on public infrastructure and high unemployment",
+      "c": "Automatic increase in the country's foreign financial reserves",
+      "d": "A reduction in the nation's crime rate"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "When the population grows rapidly due to large family sizes, it creates **excessive pressure on the national economy**, overwhelming public amenities like schools and hospitals, and resulting in higher unemployment.",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "National Values Education",
+    "topic": "The Consequences of Large and Small Family Sizes",
+    "question_text": "Which type of family size is most favorable for rapid national economic savings and infrastructural development?",
+    "options": {
+      "a": "Small family size",
+      "b": "Large family size",
+      "c": "Uncontrolled family size",
+      "d": "Polygamous large family size"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "A **small family size** contributes to a manageable national population growth rate, allowing the government to effectively plan, provide adequate infrastructure, and grow the national economy.",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "National Values Education",
+    "topic": "The Consequences of Large and Small Family Sizes",
+    "question_text": "One of the negative consequences of a large family size on maternal health is:",
+    "options": {
+      "a": "Increased lifespan of the mother",
+      "b": "Deterioration of the mother's health due to frequent childbearing",
+      "c": "Better physical fitness from doing more household chores",
+      "d": "Complete immunity from genetic diseases"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Frequent and numerous pregnancies required to produce a large family can take a severe toll on the physical health of the mother, causing **deterioration and high maternal health risks**.",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "National Values Education",
+    "topic": "The Consequences of Large and Small Family Sizes",
+    "question_text": "Why do parents in a small family generally find it easier to provide high-quality education for their children?",
+    "options": {
+      "a": "Schools charge lower fees for small families",
+      "b": "They have less money to spend on luxuries",
+      "c": "The financial burden is limited to only a few children",
+      "d": "Children from small families are naturally smarter"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Because the **financial resources are concentrated on very few children**, the parents can afford higher-quality schooling and educational materials without excessive strain.",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "National Values Education",
+    "topic": "The Consequences of Large and Small Family Sizes",
+    "question_text": "High dependency ratio in a nation's economy is strongly linked to:",
+    "options": {
+      "a": "A high number of small families",
+      "b": "An increase in large family sizes producing numerous non-working dependents",
+      "c": "A widespread practice of celibacy among youths",
+      "d": "An increase in factory construction"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Large families produce many children who are dependents (they consume but do not produce economically yet), thereby increasing the nation's **dependency ratio**.",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "National Values Education",
+    "topic": "The Consequences of Large and Small Family Sizes",
+    "question_text": "Overcrowding in a residential home is a direct characteristic consequence of:",
+    "options": {
+      "a": "A small family living in an estate",
+      "b": "A large family size living in limited housing space",
+      "c": "Single parenting",
+      "d": "Delaying childbearing"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Because there are many members in a **large family**, they often experience **overcrowding** and lack of personal space if the family cannot afford a massive house.",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "National Values Education",
+    "topic": "Purpose of Marriage",
+    "question_text": "In the context of Social Studies, which of the following is the most accurate definition of marriage?",
+    "options": {
+      "a": "A temporary agreement between two friends to live together",
+      "b": "A socially, culturally, and legally recognized union between a man and a woman to become husband and wife",
+      "c": "An economic contract to merge two businesses together",
+      "d": "A religious ceremony strictly meant for giving birth to children"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Marriage** is defined as the socially, culturally, and legally recognized union that legally binds a man and a woman as husband and wife.",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "National Values Education",
+    "topic": "Purpose of Marriage",
+    "question_text": "The biological process of giving birth to children to ensure the continuation of the human race is recognized as which purpose of marriage?",
+    "options": {
+      "a": "Socializing",
+      "b": "Procreation",
+      "c": "Recreation",
+      "d": "Companionship"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Procreation** is a primary purpose of marriage, meant to ensure the legitimate reproduction and continuation of human society.",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "National Values Education",
+    "topic": "Purpose of Marriage",
+    "question_text": "Which of the following describes how marriage satisfies the 'social needs' of individuals?",
+    "options": {
+      "a": "By encouraging isolation from the rest of the community",
+      "b": "By providing mutual companionship and removing loneliness",
+      "c": "By competing with in-laws for political positions",
+      "d": "By restricting the individuals from working outside the home"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Marriage fulfills a fundamental human **social need for companionship**, partnership, and the avoidance of isolation and loneliness.",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "National Values Education",
+    "topic": "Purpose of Marriage",
+    "question_text": "Society promotes marriage as the legitimate and morally acceptable avenue for achieving:",
+    "options": {
+      "a": "Political supremacy over other communities",
+      "b": "Tax evasion",
+      "c": "Sexual satisfaction",
+      "d": "Wealth confiscation"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Across cultures and laws, marriage provides the recognized and morally acceptable framework for fulfilling desires for **sexual satisfaction**.",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "National Values Education",
+    "topic": "Purpose of Marriage",
+    "question_text": "When a couple marries to pool their resources together, support one another's careers, and build wealth jointly, they are fulfilling which purpose of marriage?",
+    "options": {
+      "a": "Satisfying economic needs",
+      "b": "Fulfilling political ambition",
+      "c": "Ensuring physical fitness",
+      "d": "Engaging in communal labour"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "A major objective of marriage is **satisfying economic needs** through mutual financial support, shared expenses, and wealth building as partners.",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "National Values Education",
+    "topic": "Purpose of Marriage",
+    "question_text": "Which of the following is NOT a recognized purpose of marriage according to the Social Studies syllabus?",
+    "options": {
+      "a": "Growth in mutual love",
+      "b": "Satisfying social needs",
+      "c": "Exploitation of partners",
+      "d": "Procreation"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The purposes of marriage include procreation, economic/social satisfaction, sexual satisfaction, and mutual love. **Exploitation** is inherently negative and not a purpose of marriage.",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "National Values Education",
+    "topic": "Purpose of Marriage",
+    "question_text": "Through marriage, two individuals develop deep emotional attachments, understanding, and affection for each other. This directly refers to which purpose of marriage?",
+    "options": {
+      "a": "Growth in mutual love",
+      "b": "Biological reproduction",
+      "c": "Social mobility",
+      "d": "Status affiliation"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The emotional bond that is nurtured over time between husband and wife addresses the purpose of **growth in mutual love and affection**.",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "National Values Education",
+    "topic": "Purpose of Marriage",
+    "question_text": "Because the family is built upon marriage, achieving stability in marriage ultimately satisfies which broader societal need?",
+    "options": {
+      "a": "Creating continuous warfare",
+      "b": "Building a stable, disciplined, and functional society",
+      "c": "Eliminating all forms of government",
+      "d": "Depleting national resources rapidly"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Marriage provides the foundation for the family unit. When marriages fulfill their purpose, they yield well-socialized children, which satisfies the societal need for a **stable, disciplined, and functional society**.",
+    "section_id": null
+  },
+  {
+    "question_number": 46,
+    "subject": "National Values Education",
+    "topic": "Readiness in Marriage",
+    "question_text": "Which condition for marriage ensures that the couple has attained the appropriate biological age and bodily maturity for childbearing and domestic roles?",
+    "options": {
+      "a": "Financial readiness",
+      "b": "Social stability",
+      "c": "Physical fitness",
+      "d": "Psychological fitness"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Physical fitness** (and maturity) implies that the individuals' bodies are fully grown and physically capable of handling the physical demands of marriage, including childbearing.",
+    "section_id": null
+  },
+  {
+    "question_number": 47,
+    "subject": "National Values Education",
+    "topic": "Readiness in Marriage",
+    "question_text": "When intending couples demonstrate the ability to handle stress, manage conflicts without violence, and show emotional maturity, they possess:",
+    "options": {
+      "a": "Financial readiness",
+      "b": "Psychological fitness",
+      "c": "Political leverage",
+      "d": "Physical agility"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Mental stability, emotional maturity, and the capacity to deal with the inevitable pressures of marriage are categorized under **psychological fitness**.",
+    "section_id": null
+  },
+  {
+    "question_number": 48,
+    "subject": "National Values Education",
+    "topic": "Readiness in Marriage",
+    "question_text": "A man and a woman wishing to marry must have a reliable source of income to cater to their future family's needs. This condition is termed:",
+    "options": {
+      "a": "Psychological fitness",
+      "b": "Financial readiness",
+      "c": "Social mobility",
+      "d": "Communal labour"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The ability to independently pay for housing, food, and future child-rearing expenses constitutes **financial readiness**.",
+    "section_id": null
+  },
+  {
+    "question_number": 49,
+    "subject": "National Values Education",
+    "topic": "Readiness in Marriage",
+    "question_text": "What is a very common consequence of entering into a marriage without psychological or financial readiness?",
+    "options": {
+      "a": "Immediate promotion at workplaces",
+      "b": "Constant fighting and marital instability",
+      "c": "Sudden wealth and popularity",
+      "d": "Automatic elimination of extended family interference"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A lack of readiness often triggers stress, unmet expectations, and inability to manage disagreements, leading to **constant fighting and instability**.",
+    "section_id": null
+  },
+  {
+    "question_number": 50,
+    "subject": "National Values Education",
+    "topic": "Readiness in Marriage",
+    "question_text": "When chronic marital instability and conflict escalate due to a severe lack of readiness, it frequently culminates in:",
+    "options": {
+      "a": "Divorce and broken homes",
+      "b": "Increased mutual love",
+      "c": "Stronger national economy",
+      "d": "More frequent family vacations"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The ultimate consequence of prolonged instability, domestic conflict, and lack of readiness in a marriage relationship is the legal dissolution of the union, known as **divorce, resulting in broken homes**.",
+    "section_id": null
+  },
+  {
+    "question_number": 51,
+    "subject": "National Values Education",
+    "topic": "Readiness in Marriage",
+    "question_text": "Before getting married, intending couples are expected to possess 'social stability'. This condition implies that they should:",
+    "options": {
+      "a": "Have thousands of followers on social media platforms",
+      "b": "Be highly involved in every communal conflict in their area",
+      "c": "Possess a mature standing in society with good interpersonal relationships and respect for norms",
+      "d": "Isolate themselves entirely from their extended family and friends"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Social stability** means the individuals have developed good interpersonal relationships, maturity, and are well-integrated and respected within their community's social norms.",
+    "section_id": null
+  },
+  {
+    "question_number": 52,
+    "subject": "National Values Education",
+    "topic": "Readiness in Marriage",
+    "question_text": "What is the primary effect of a 'broken home' on children, often resulting from a lack of marriage readiness?",
+    "options": {
+      "a": "They automatically receive free government scholarships",
+      "b": "They suffer emotional trauma, lack of proper parenting, and possible exposure to crime",
+      "c": "They experience sudden physical growth spurts and high immunity",
+      "d": "They are immediately given political leadership roles in the community"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A major effect of broken homes (caused by divorce or severe instability) is that children face emotional trauma, inadequate supervision, and are more vulnerable to juvenile delinquency.",
+    "section_id": null
+  },
+  {
+    "question_number": 53,
+    "subject": "National Values Education",
+    "topic": "Readiness in Marriage",
+    "question_text": "If an underaged child is forced into early marriage, which specific condition of readiness is most flagrantly violated?",
+    "options": {
+      "a": "Financial readiness",
+      "b": "Physical and Psychological fitness",
+      "c": "Academic excellence",
+      "d": "Technological readiness"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "An underaged child lacks both **physical fitness** (bodily maturity for childbearing) and **psychological fitness** (mental maturity for domestic and marital stress).",
+    "section_id": null
+  },
+  {
+    "question_number": 54,
+    "subject": "National Values Education",
+    "topic": "Readiness in Marriage",
+    "question_text": "Which of the following scenarios best demonstrates a lack of **financial readiness** in marriage?",
+    "options": {
+      "a": "A couple who saved money for three years before getting married",
+      "b": "A man with no job, no savings, and no means of income deciding to take a wife",
+      "c": "A woman who owns a thriving small-scale business and marries a teacher",
+      "d": "A couple that plans a small, affordable wedding instead of a lavish one"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Financial readiness** requires a sustainable source of income to cater to a family's basic needs. Having no job or income explicitly shows a lack of this readiness.",
+    "section_id": null
+  },
+  {
+    "question_number": 55,
+    "subject": "National Values Education",
+    "topic": "Readiness in Marriage",
+    "question_text": "Consider the equation of marital success outlined by social counselors: $$ \\text{Success} = f(\\text{Physical}, \\text{Psychological}, \\text{Social}, \\text{Financial Readiness}) $$. If financial and psychological readiness are missing, what is the most scientifically predictable outcome based on social studies principles?",
+    "options": {
+      "a": "Unprecedented peace and harmony",
+      "b": "Instant wealth creation",
+      "c": "High probability of divorce and domestic violence",
+      "d": "Better relationships with extended families"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "When fundamental readiness conditions like psychological maturity and financial stability are zero or negative, the relationship naturally trends toward severe instability, constant fighting, and eventual **divorce**.",
+    "section_id": null
+  },
+  {
+    "question_number": 56,
+    "subject": "National Values Education",
+    "topic": "Positive Group Behaviours",
+    "question_text": "Which of the following describes an organized action where youths in a community gather together to clean drainages and repair local roads without demanding payment?",
+    "options": {
+      "a": "Mass action",
+      "b": "Communal labour",
+      "c": "Joining a protest",
+      "d": "Participating in a conflict"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Communal labour** involves members of a community working together collectively to provide or maintain public amenities for the common good, without direct financial compensation.",
+    "section_id": null
+  },
+  {
+    "question_number": 57,
+    "subject": "National Values Education",
+    "topic": "Positive Group Behaviours",
+    "question_text": "Group behaviours are generally categorized into two broad characteristics. What are they?",
+    "options": {
+      "a": "Rich and Poor",
+      "b": "Educated and Illiterate",
+      "c": "Destructive (Negative) and Constructive (Positive)",
+      "d": "Physical and Spiritual"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Group behaviors are fundamentally analyzed by their outcomes as either **Constructive (positive)**, which builds the society, or **Destructive (negative)**, which harms society.",
+    "section_id": null
+  },
+  {
+    "question_number": 58,
+    "subject": "National Values Education",
+    "topic": "Positive Group Behaviours",
+    "question_text": "Which type of group behaviour is exhibited when citizens proudly wave their national flag, sing the anthem enthusiastically, and support their national sports team?",
+    "options": {
+      "a": "Communal labour",
+      "b": "Acting patriotically",
+      "c": "Mass protest",
+      "d": "Participating in a conflict"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Expressing deep love, loyalty, and support for one's country is described as **acting patriotically**, which is a highly positive group behaviour.",
+    "section_id": null
+  },
+  {
+    "question_number": 59,
+    "subject": "National Values Education",
+    "topic": "Positive Group Behaviours",
+    "question_text": "Joining a protest or march can be considered a *constructive* group behaviour ONLY if:",
+    "options": {
+      "a": "It involves vandalizing public property to get the government's attention",
+      "b": "It is conducted peacefully to advocate for positive social change or justice",
+      "c": "It leads to a physical fight between rival communities",
+      "d": "It results in looting private businesses"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A protest becomes a **constructive (positive)** group behaviour when it is peaceful and aims to correct societal wrongs. If it involves violence or looting, it becomes destructive.",
+    "section_id": null
+  },
+  {
+    "question_number": 60,
+    "subject": "National Values Education",
+    "topic": "Positive Group Behaviours",
+    "question_text": "According to sociological benefits of positive group behaviour, human beings join groups to avoid loneliness and find friendship. Which benefit does this describe?",
+    "options": {
+      "a": "Power and control",
+      "b": "Affiliation and status",
+      "c": "Companionship",
+      "d": "Achievement"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Companionship** refers to the feeling of fellowship, friendship, and connection derived from being with others in a group, directly curing loneliness.",
+    "section_id": null
+  },
+  {
+    "question_number": 61,
+    "subject": "National Values Education",
+    "topic": "Positive Group Behaviours",
+    "question_text": "A neighborhood forms a vigilante group to protect their homes from armed robbers. What is the primary benefit driving this positive group behaviour?",
+    "options": {
+      "a": "Power and control",
+      "b": "Achievement",
+      "c": "Survival and security",
+      "d": "Affiliation and status"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Forming groups to ward off threats, share defense strategies, and protect lives is driven by the human need for **survival and security**.",
+    "section_id": null
+  },
+  {
+    "question_number": 62,
+    "subject": "National Values Education",
+    "topic": "Positive Group Behaviours",
+    "question_text": "When an individual joins a prestigious rotary club or professional association to gain a recognized position in society, which benefit are they seeking?",
+    "options": {
+      "a": "Survival and security",
+      "b": "Affiliation and status",
+      "c": "Mass action",
+      "d": "Destructive influence"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Affiliation and status** are benefits derived when a person gains prestige, respect, and a recognizable social standing by belonging to an exclusive or well-regarded group.",
+    "section_id": null
+  },
+  {
+    "question_number": 63,
+    "subject": "National Values Education",
+    "topic": "Positive Group Behaviours",
+    "question_text": "Which of the following is a clear example of a **destructive (negative)** group behaviour?",
+    "options": {
+      "a": "Donating blood as a student union",
+      "b": "Participating in a violent street gang fight",
+      "c": "Voting peacefully during an election mass action",
+      "d": "Planting trees to prevent soil erosion"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Violent acts, such as participating in street gang fights (conflict), disrupt peace, harm individuals, and are categorized as **destructive** group behavior.",
+    "section_id": null
+  },
+  {
+    "question_number": 64,
+    "subject": "National Values Education",
+    "topic": "Positive Group Behaviours",
+    "question_text": "Often, multiple people can accomplish a heavy agricultural task much faster than one person acting alone. Working together to complete a task successfully provides the group benefit of:",
+    "options": {
+      "a": "Power and control",
+      "b": "Companionship",
+      "c": "Achievement",
+      "d": "Destruction"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "When individuals pool their physical or mental resources to reach a common goal that would be too difficult for a single person, the benefit derived is **achievement**.",
+    "section_id": null
+  },
+  {
+    "question_number": 65,
+    "subject": "National Values Education",
+    "topic": "Positive Group Behaviours",
+    "question_text": "Which benefit of positive group behaviour allows a marginalized community to collectively negotiate for their rights, demonstrating strength in numbers?",
+    "options": {
+      "a": "Power and control",
+      "b": "Companionship",
+      "c": "Survival and security",
+      "d": "Achievement"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "When people group together to magnify their voice, negotiate better policies, or gain influence, they are leveraging the group benefit of **power and control**.",
+    "section_id": null
+  },
+  {
+    "question_number": 66,
+    "subject": "National Values Education",
+    "topic": "Positive Group Behaviours",
+    "question_text": "A sudden large gathering of people demanding an immediate change in government policy through strikes or sit-ins is best termed as:",
+    "options": {
+      "a": "Communal labour",
+      "b": "Acting patriotically",
+      "c": "Mass action",
+      "d": "Affiliation"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Mass action** occurs when a large number of people act together in pursuit of a common objective, typically to influence authorities, such as during general strikes or organized sit-ins.",
+    "section_id": null
+  },
+  {
+    "question_number": 67,
+    "subject": "National Values Education",
+    "topic": "Positive Group Behaviours",
+    "question_text": "Compare constructive and destructive group behaviours.\n\n| Behaviour Type | Characteristics | Example |\n|---|---|---|\n| Constructive | Builds society, peaceful | X |\n| Destructive | Harms society, violent | Vandalism |\n\nWhich of the following correctly replaces 'X' in the table above?",
+    "options": {
+      "a": "Ethnic clash",
+      "b": "Communal labour",
+      "c": "Armed robbery",
+      "d": "Looting shops"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Using the tabular analysis, a constructive behavior must be peaceful and beneficial to society. **Communal labour** fits perfectly, while the other options are destructive.",
+    "section_id": null
+  },
+  {
+    "question_number": 68,
+    "subject": "National Values Education",
+    "topic": "Human Trafficking",
+    "question_text": "What is the best definition of Human Trafficking?",
+    "options": {
+      "a": "The legal migration of people from rural areas to cities for better jobs",
+      "b": "The illegal trade of human beings for the purposes of exploitation, forced labour, or commercial sexual exploitation",
+      "c": "The process of moving farm produce across international borders",
+      "d": "The authorized adoption of children by wealthy families"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Human Trafficking** is a crime involving the illegal recruitment, transportation, or holding of persons by force, fraud, or deception, with the aim of exploiting them for profit.",
+    "section_id": null
+  },
+  {
+    "question_number": 69,
+    "subject": "National Values Education",
+    "topic": "Human Trafficking",
+    "question_text": "Which two demographic groups are statistically the most vulnerable and frequently targeted victims of human trafficking in Nigeria?",
+    "options": {
+      "a": "Adult men and elderly citizens",
+      "b": "Politicians and civil servants",
+      "c": "Women and children",
+      "d": "University lecturers and doctors"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Due to socio-economic vulnerabilities, physical disadvantage, and demand for domestic and sexual exploitation, **women and children** are disproportionately the primary targets of traffickers.",
+    "section_id": null
+  },
+  {
+    "question_number": 70,
+    "subject": "National Values Education",
+    "topic": "Human Trafficking",
+    "question_text": "Which of the following is a major 'push factor' responsible for the high rate of children and women trafficking?",
+    "options": {
+      "a": "Abundance of high-paying jobs in the rural areas",
+      "b": "Extreme poverty and desperation for survival",
+      "c": "High quality of the public education system",
+      "d": "Adequate national security checks"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Extreme poverty** is a primary driver. Traffickers prey on impoverished families by making false promises of good jobs or better lives abroad for their children.",
+    "section_id": null
+  },
+  {
+    "question_number": 71,
+    "subject": "National Values Education",
+    "topic": "Human Trafficking",
+    "question_text": "When thousands of young, energetic youths are trafficked out of the country every year, the country directly suffers from:",
+    "options": {
+      "a": "An increase in national foreign reserve wealth",
+      "b": "A loss of vibrant human resources and productive workforce",
+      "c": "An immediate decrease in environmental pollution",
+      "d": "Enhanced technological development"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A severe macroeconomic consequence of human trafficking is the **loss of human resources**. The country is deprived of its young, potentially productive workforce.",
+    "section_id": null
+  },
+  {
+    "question_number": 72,
+    "subject": "National Values Education",
+    "topic": "Human Trafficking",
+    "question_text": "Victims of human trafficking are frequently forced against their will into which of the following negative lifestyles?",
+    "options": {
+      "a": "A life of high academic scholarship and honors",
+      "b": "A life of political leadership and civic duty",
+      "c": "A life of crime, drug addiction, and sexual violence",
+      "d": "A highly paid professional corporate job"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Trafficked persons often endure brutal conditions and are forced into prostitution, begging, or drug couriering, exposing them to a **life of crime, addiction, and sexual violence**.",
+    "section_id": null
+  },
+  {
+    "question_number": 73,
+    "subject": "National Values Education",
+    "topic": "Human Trafficking",
+    "question_text": "How does human trafficking typically impact the family structure of the victims?",
+    "options": {
+      "a": "It strengthens family love and unity across borders",
+      "b": "It weakens family love, influence, and causes severe psychological trauma",
+      "c": "It results in the immediate financial prosperity of the entire extended family",
+      "d": "It legally forces the trafficker to become an adopted member of the victim's family"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The sudden disappearance, death, or rescue of a traumatized victim shatters families, causing deep mistrust and trauma which severely **weakens family love and influence**.",
+    "section_id": null
+  },
+  {
+    "question_number": 74,
+    "subject": "National Values Education",
+    "topic": "Human Trafficking",
+    "question_text": "Aside from poverty, what other psychological factor largely allows traffickers to succeed in luring victims away from their homes?",
+    "options": {
+      "a": "Greed and Ignorance (believing deceitful promises)",
+      "b": "High level of formal education",
+      "c": "Extreme patriotism and national pride",
+      "d": "Contentment with rural living"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "**Ignorance** about the realities of human trafficking and **greed** (a desire for rapid, unearned wealth) make individuals susceptible to the deceptive promises of traffickers.",
+    "section_id": null
+  },
+  {
+    "question_number": 75,
+    "subject": "National Values Education",
+    "topic": "Human Trafficking",
+    "question_text": "Which specific fundamental human right is completely denied to a victim of human trafficking?",
+    "options": {
+      "a": "The right to vote in local government elections",
+      "b": "The right to freedom of speech on the internet",
+      "c": "The right to personal liberty and freedom from slavery",
+      "d": "The right to bear firearms"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Human trafficking strips individuals of their fundamental **right to personal liberty**, dignity, and freedom from forced labour or slavery, turning humans into property.",
+    "section_id": null
+  },
+  {
+    "question_number": 76,
+    "subject": "National Values Education",
+    "topic": "Human Trafficking",
+    "question_text": "Apart from poverty, which of the following is a major social factor responsible for the high rate of children and women trafficking?",
+    "options": {
+      "a": "High minimum wage in the victim's country",
+      "b": "The desire to acquire advanced medical degrees",
+      "c": "Deception and false promises of a better life abroad by relatives or strangers",
+      "d": "Excessive involvement in communal labour"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Traffickers frequently exploit the trust of vulnerable individuals through **deception**, making false promises of lucrative jobs, marriage, or better education abroad.",
+    "section_id": null
+  },
+  {
+    "question_number": 77,
+    "subject": "National Values Education",
+    "topic": "Human Trafficking",
+    "question_text": "When trafficked individuals are subjected to sexual exploitation and forced prostitution, they are highly exposed to which of the following direct health consequences?",
+    "options": {
+      "a": "Improvement in psychological fitness",
+      "b": "Contracting sexually transmitted infections (STIs) and HIV/AIDS",
+      "c": "Developing resistance to common tropical diseases",
+      "d": "Curing genetic disorders"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A life of sexual violence and exploitation inevitably exposes victims to severe health hazards, primarily the high risk of **contracting STIs and HIV/AIDS**.",
+    "section_id": null
+  },
+  {
+    "question_number": 78,
+    "subject": "National Values Education",
+    "topic": "Human Trafficking",
+    "question_text": "Which of the following describes how human trafficking negatively impacts the national economy of the victim's home country?",
+    "options": {
+      "a": "It leads to the continuous drain of vibrant, young human resources",
+      "b": "It forces foreign investors to build more local schools",
+      "c": "It automatically increases the nation's foreign exchange reserves",
+      "d": "It results in overpopulation in rural agricultural sectors"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "The economy suffers immensely due to the **loss of human resources**, as active youths who could have contributed to national productivity and development are taken away.",
+    "section_id": null
+  },
+  {
+    "question_number": 79,
+    "subject": "National Values Education",
+    "topic": "Preventing Human Trafficking",
+    "question_text": "Enacting strict anti-trafficking laws and establishing law enforcement agencies to prosecute traffickers is categorized under which preventive measure?",
+    "options": {
+      "a": "Awareness campaign",
+      "b": "Advocacy",
+      "c": "Legislation",
+      "d": "Education"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Legislation** involves the creation and enforcement of strict laws by the government to serve as a deterrent and strictly punish offenders.",
+    "section_id": null
+  },
+  {
+    "question_number": 80,
+    "subject": "National Values Education",
+    "topic": "Preventing Human Trafficking",
+    "question_text": "When a Non-Governmental Organization (NGO) prints posters, broadcasts radio jingles, and distributes flyers to inform the general public about the tricks used by human traffickers, they are engaging in:",
+    "options": {
+      "a": "Mass action",
+      "b": "Awareness campaign",
+      "c": "Legislation",
+      "d": "Communal labour"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Using mass media, posters, and flyers to rapidly spread information and alert the public about the dangers of a phenomenon constitutes an **awareness campaign**.",
+    "section_id": null
+  },
+  {
+    "question_number": 81,
+    "subject": "National Values Education",
+    "topic": "Preventing Human Trafficking",
+    "question_text": "How does **Education** serve as a long-term preventive measure against human trafficking?",
+    "options": {
+      "a": "It teaches students how to legally smuggle goods across borders",
+      "b": "It empowers citizens with knowledge, critical thinking, and employability skills to escape poverty",
+      "c": "It provides traffickers with better routes to transport victims",
+      "d": "It forces children to leave their families to live in schools permanently"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Education** eliminates ignorance and provides individuals with marketable skills, thereby significantly reducing poverty and vulnerability to traffickers' deceitful promises.",
+    "section_id": null
+  },
+  {
+    "question_number": 82,
+    "subject": "National Values Education",
+    "topic": "Preventing Human Trafficking",
+    "question_text": "Which preventive measure involves individuals or groups continuously pleading, speaking up, and lobbying government authorities to implement better policies protecting vulnerable women and children?",
+    "options": {
+      "a": "Legislation",
+      "b": "Awareness campaign",
+      "c": "Advocacy",
+      "d": "Communal labour"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Advocacy** is the active support of an idea or cause, which includes lobbying policymakers and speaking out on behalf of vulnerable groups to bring about systemic change.",
+    "section_id": null
+  },
+  {
+    "question_number": 83,
+    "subject": "National Values Education",
+    "topic": "Preventing Human Trafficking",
+    "question_text": "In Nigeria, the agency primarily established through *legislation* to fight against human trafficking and prosecute offenders is known by the acronym NAPTIP. What does it stand for?",
+    "options": {
+      "a": "National Association of Patriotic Traders and International Partners",
+      "b": "National Agency for Prohibition of Trafficking in Persons",
+      "c": "Nigerian Authority for Prevention of Trafficked Infants and Parents",
+      "d": "National Action against Prostitution and Trafficked Innocent Persons"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "NAPTIP stands for the **National Agency for Prohibition of Trafficking in Persons**, which represents a major legislative milestone in Nigeria's fight against human trafficking.",
+    "section_id": null
+  },
+  {
+    "question_number": 84,
+    "subject": "National Values Education",
+    "topic": "Preventing Human Trafficking",
+    "question_text": "If schools incorporate topics detailing the dangers of trafficking into their Social Studies syllabus (just like this BECE curriculum), this is a practical example of utilizing which preventive measure?",
+    "options": {
+      "a": "Formal Education",
+      "b": "Federal Legislation",
+      "c": "Negative Group Behaviour",
+      "d": "Physical Fitness"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Teaching the subject systematically in schools to equip youths with knowledge is a direct application of **Education** as a preventive tool.",
+    "section_id": null
+  },
+  {
+    "question_number": 85,
+    "subject": "National Values Education",
+    "topic": "Preventing Human Trafficking",
+    "question_text": "Which of the following combinations correctly represents the preventive measures for human trafficking as stated in the syllabus?",
+    "options": {
+      "a": "Prostitution, Begging, and Child Labour",
+      "b": "Legislation, Awareness campaign, Advocacy, and Education",
+      "c": "Poverty, Ignorance, Greed, and Vulnerability",
+      "d": "Divorce, Constant fighting, and Broken homes"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The syllabus outlines preventive measures as **Awareness campaign, Education, Advocacy, and Legislation**.",
+    "section_id": null
+  },
+  {
+    "question_number": 86,
+    "subject": "National Values Education",
+    "topic": "Preventing Human Trafficking",
+    "question_text": "Why must **Legislation** be complemented by **Law Enforcement** to effectively prevent human trafficking?",
+    "options": {
+      "a": "Because laws on paper are useless if there are no agencies to catch and punish the offenders",
+      "b": "Because law enforcement agencies only exist to protect the traffickers",
+      "c": "Because passing laws automatically guarantees that criminals will stop their activities immediately",
+      "d": "Because legislation can only be passed by police officers"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Legislation** provides the legal framework (the rules and punishments), but it requires active law enforcement agencies to execute the laws, make arrests, and prosecute traffickers.",
+    "section_id": null
+  },
+  {
+    "question_number": 87,
+    "subject": "National Values Education",
+    "topic": "Preventing Human Trafficking",
+    "question_text": "A traditional ruler organizes a town hall meeting to warn parents about strangers who offer to take their children to the city for \"free schooling.\" What preventive strategy is the ruler employing?",
+    "options": {
+      "a": "Advocacy and Awareness",
+      "b": "Legislation and Enforcement",
+      "c": "Communal labour and Taxation",
+      "d": "Mass action and Protest"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The ruler is creating **awareness** about the danger while also playing an **advocacy** role by counseling the community to protect their children.",
+    "section_id": null
+  },
+  {
+    "question_number": 88,
+    "subject": "National Values Education",
+    "topic": "Preventing Human Trafficking",
+    "question_text": "The phrase \"Trafficking in persons is a crime against humanity\" is often used during public rallies to demand harsher government actions. This rally acts as both an awareness campaign and:",
+    "options": {
+      "a": "Destructive behaviour",
+      "b": "Advocacy",
+      "c": "Procreation",
+      "d": "Formal education"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Public rallies demanding policy changes from the government (harsher actions) are a classic form of **advocacy**, pleading the cause of victims at a systemic level.",
+    "section_id": null
+  },
+  {
+    "question_number": 89,
+    "subject": "National Values Education",
+    "topic": "Harmful Traditional Practices",
+    "question_text": "How are \"Harmful Traditional Practices\" defined in the context of Social Studies?",
+    "options": {
+      "a": "Customs, beliefs, and practices inherited from the past that cause physical or psychological harm to individuals",
+      "b": "Modern technological advancements that pollute the local environment",
+      "c": "Festivals and cultural dances that bring unity to a village",
+      "d": "The practice of sending female children to study abroad"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Harmful Traditional Practices** refer to deeply rooted cultural customs, rituals, or behaviors inherited from ancestors that violate human rights and cause physical, social, or psychological harm.",
+    "section_id": null
+  },
+  {
+    "question_number": 90,
+    "subject": "National Values Education",
+    "topic": "Harmful Traditional Practices",
+    "question_text": "Which of the following is explicitly listed in the syllabus as an example of a harmful traditional practice against the girl-child?",
+    "options": {
+      "a": "Participation in formal education",
+      "b": "Female circumcision",
+      "c": "Routine medical vaccinations",
+      "d": "Voting during political elections"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Female circumcision** (also known as Female Genital Mutilation - FGM) is a prominent example of a harmful traditional practice causing severe medical and psychological trauma to the girl-child.",
+    "section_id": null
+  },
+  {
+    "question_number": 91,
+    "subject": "National Values Education",
+    "topic": "Harmful Traditional Practices",
+    "question_text": "In many parts of society, underage children are seen wandering the streets with bowls, asking for alms on behalf of adult masters. This describes which harmful practice?",
+    "options": {
+      "a": "Youth empowerment",
+      "b": "Child labour",
+      "c": "Use of children for begging",
+      "d": "Communal labour"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The systemic exploitation of minors to solicit money or food on the streets is recognized as the **use of children for begging**, a highly harmful traditional practice.",
+    "section_id": null
+  },
+  {
+    "question_number": 92,
+    "subject": "National Values Education",
+    "topic": "Harmful Traditional Practices",
+    "question_text": "When parents withdraw a 12-year-old girl from junior secondary school to marry a much older man in exchange for a dowry, this constitutes:",
+    "options": {
+      "a": "Early marriage",
+      "b": "Economic emancipation",
+      "c": "Growth in mutual love",
+      "d": "Social stability"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Giving out underage children for marriage is known as **early marriage**. It violates the conditions of marriage readiness, particularly physical and psychological fitness.",
+    "section_id": null
+  },
+  {
+    "question_number": 93,
+    "subject": "National Values Education",
+    "topic": "Harmful Traditional Practices",
+    "question_text": "A severe medical consequence of **early marriage** and early childbearing, which causes uncontrollable leakage of urine and feces due to an immature pelvic structure, is termed:",
+    "options": {
+      "a": "Vesicovaginal Fistula (VVF)",
+      "b": "Malaria and Typhoid",
+      "c": "Diabetes Mellitus",
+      "d": "Hypertension"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "The syllabus highlights \"problem at child birth\" as a major consequence of early marriage. The most notorious medical condition resulting from obstructed labour in physically immature young girls is **Vesicovaginal Fistula (VVF)**.",
+    "section_id": null
+  },
+  {
+    "question_number": 94,
+    "subject": "National Values Education",
+    "topic": "Harmful Traditional Practices",
+    "question_text": "Which harmful traditional practice forces young boys and girls to engage in heavy, dangerous, or economically exploitative work instead of attending school?",
+    "options": {
+      "a": "Communal labour",
+      "b": "Child labour",
+      "c": "Physical fitness training",
+      "d": "Vocational apprenticeship"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Child labour** involves work that is mentally, physically, socially, or morally dangerous and harmful to children, directly depriving them of their right to schooling.",
+    "section_id": null
+  },
+  {
+    "question_number": 95,
+    "subject": "National Values Education",
+    "topic": "Harmful Traditional Practices",
+    "question_text": "Analyze the table mapping harmful traditional practices to their direct consequences:\n\n| Harmful Practice | Primary Consequence |\n|---|---|\n| Use of children for begging | Exposure to crime and extreme weather |\n| Female Circumcision | Severe infections and loss of sexual sensitivity |\n| Early Marriage | $X$ |\n\nWhich of the following is the most scientifically accurate option for $X$?",
+    "options": {
+      "a": "Immediate financial independence and wealth",
+      "b": "Problem at childbirth (e.g., obstructed labour)",
+      "c": "Improvement in national economic strength",
+      "d": "Acquisition of advanced academic degrees"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "As young girls are not physically mature enough for childbearing, **Early Marriage** results in severe maternal mortality risks and **problems at childbirth**.",
+    "section_id": null
+  },
+  {
+    "question_number": 96,
+    "subject": "National Values Education",
+    "topic": "Harmful Traditional Practices",
+    "question_text": "One major consequence of both child labour and the use of children for begging is the **Deprivation of Schooling**. How does this eventually affect the larger society?",
+    "options": {
+      "a": "It produces a highly literate population of skilled workers",
+      "b": "It eliminates the need for foreign imports",
+      "c": "It perpetuates a cycle of poverty and increases the rate of illiteracy",
+      "d": "It encourages positive mass action and peaceful protests"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "When children are deprived of basic education, they grow into uneducated adults lacking modern skills, which ultimately **perpetuates intergenerational poverty and national illiteracy**.",
+    "section_id": null
+  },
+  {
+    "question_number": 97,
+    "subject": "National Values Education",
+    "topic": "Harmful Traditional Practices",
+    "question_text": "Female circumcision (FGM) causes severe bleeding, chronic pain, and dangerous scarring. According to the syllabus, this harmful practice frequently leads to which broader category of consequences?",
+    "options": {
+      "a": "Deprivation of schooling",
+      "b": "Exploitation of children in the labor market",
+      "c": "Problem at child birth",
+      "d": "Increased political representation"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The dangerous scarring and anatomical changes caused by female circumcision severely complicate natural delivery, contributing heavily to **problems at childbirth**.",
+    "section_id": null
+  },
+  {
+    "question_number": 98,
+    "subject": "National Values Education",
+    "topic": "Harmful Traditional Practices",
+    "question_text": "Which of the following is NOT considered a harmful traditional practice?",
+    "options": {
+      "a": "Child marriage without consent",
+      "b": "Paying respects to community elders during local festivals",
+      "c": "Female Genital Mutilation (FGM)",
+      "d": "Forcing young children to hawk goods on dangerous highways"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Paying respects to community elders** is a positive cultural value that fosters social stability, unlike FGM, child marriage, and child hawking/labour which are physically and morally harmful.",
+    "section_id": null
+  },
+  {
+    "question_number": 99,
+    "subject": "National Values Education",
+    "topic": "Harmful Traditional Practices",
+    "question_text": "Which effective strategy can the government deploy to directly *prevent* the continuation of harmful traditional practices in remote villages?",
+    "options": {
+      "a": "Enforcing the Child Rights Act and embarking on aggressive grassroots awareness campaigns",
+      "b": "Arresting only the children involved in child labour",
+      "c": "Encouraging school dropouts to join militant groups",
+      "d": "Banning all forms of cultural dances and native languages"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "To prevent these practices, the government must utilize **legislation** (like enforcing the Child Rights Act) and combine it with continuous **awareness campaigns/education** tailored to grassroots communities.",
+    "section_id": null
+  },
+  {
+    "question_number": 100,
+    "subject": "National Values Education",
+    "topic": "Harmful Traditional Practices",
+    "question_text": "Consider the equation: $$\\text{Ignorance} + \\text{Poverty} + \\text{Unchecked Tradition} = \\text{Child Exploitation}$$\nWhich preventive measure acts as the most fundamental 'cure' to the 'Ignorance' variable in stopping harmful traditional practices?",
+    "options": {
+      "a": "Massive military deployment",
+      "b": "Qualitative Basic Education",
+      "c": "International trade embargoes",
+      "d": "Polygamous marriages"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The most effective tool for eradicating ignorance is **Qualitative Education**. By educating children and their parents, communities can critically evaluate and ultimately abandon harmful traditions.",
+    "section_id": null
+  },
+  {
+    "question_number": 101,
+    "subject": "National Values Education",
+    "topic": "Promoting Peaceful Living in our Society",
+    "question_text": "In Social Studies, how is 'Peace' best described in the context of human society?",
+    "options": {
+      "a": "A state of continuous military dominance over rival communities",
+      "b": "A state of harmony, cordiality, and friendly living among different groups of people",
+      "c": "A situation where all citizens are forced to practice the exact same religion",
+      "d": "The ability of a nation to suppress all forms of democratic protests"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Peace** is defined as a state of tranquility, harmony, **cordial and friendly living** among different groups of people, characterized by the absence of violent conflict.",
+    "section_id": null
+  },
+  {
+    "question_number": 102,
+    "subject": "National Values Education",
+    "topic": "Promoting Peaceful Living in our Society",
+    "question_text": "Which type of peace describes a situation where there is an absence of physical violence, but underlying tension, oppression, or injustice still exists?",
+    "options": {
+      "a": "Positive peace",
+      "b": "Absolute peace",
+      "c": "Negative/Uneasy peace",
+      "d": "Democratic peace"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Negative or uneasy peace** refers to the mere absence of direct physical violence or war, but the society remains tense due to unresolved conflicts, injustice, or fear.",
+    "section_id": null
+  },
+  {
+    "question_number": 103,
+    "subject": "National Values Education",
+    "topic": "Promoting Peaceful Living in our Society",
+    "question_text": "Analyze the table below comparing the types of peace:\n\n| Type of Peace | Primary Characteristic | Example Scenario |\n|---|---|---|\n| Negative Peace | Absence of physical war | A ceasefire agreement while citizens are still oppressed |\n| **Positive Peace** | $Y$ | A society with fair laws, equity, and harmonious living |\n\nWhich of the following correctly replaces $Y$?",
+    "options": {
+      "a": "Presence of military dictatorships",
+      "b": "Total elimination of government structures",
+      "c": "Presence of social justice, equity, and structural harmony",
+      "d": "Suppression of all forms of mass action"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "**Positive peace** goes beyond just the absence of war; it is the presence of **social justice, equity, mutual respect, and structural harmony** where citizens genuinely feel secure and valued.",
+    "section_id": null
+  },
+  {
+    "question_number": 104,
+    "subject": "National Values Education",
+    "topic": "Promoting Peaceful Living in our Society",
+    "question_text": "Why is peace considered an indispensable prerequisite for national **progress and development**?",
+    "options": {
+      "a": "Because investors and businesses can only thrive and build infrastructure in a stable, conflict-free environment",
+      "b": "Because peace automatically increases the global price of petroleum",
+      "c": "Because it forces citizens to abandon their cultural heritage",
+      "d": "Because peaceful nations do not need to collect taxes"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "No meaningful **progress and development** can occur during crises. Peace provides the stability required for economic growth, foreign investment, and the construction of infrastructure.",
+    "section_id": null
+  },
+  {
+    "question_number": 105,
+    "subject": "National Values Education",
+    "topic": "Promoting Peaceful Living in our Society",
+    "question_text": "Which of the following is an immediate psychological importance of living in a peaceful environment?",
+    "options": {
+      "a": "High levels of anxiety and fear",
+      "b": "Increased cases of clinical depression",
+      "c": "Happiness and less stress",
+      "d": "Rapid decline in literacy rates"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A peaceful environment removes the constant fear of violence and destruction, directly promoting the emotional well-being, **happiness, and less stress** among individuals.",
+    "section_id": null
+  },
+  {
+    "question_number": 106,
+    "subject": "National Values Education",
+    "topic": "Promoting Peaceful Living in our Society",
+    "question_text": "Which way of promoting peace involves the willingness to accept and respect the behaviors, beliefs, and practices of other people, even when they differ from your own?",
+    "options": {
+      "a": "Social Justice",
+      "b": "Tolerance",
+      "c": "Legislation",
+      "d": "Advocacy"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Tolerance** is the ability and willingness to accommodate, respect, and accept ethnic, religious, or cultural differences without prejudice or discrimination.",
+    "section_id": null
+  },
+  {
+    "question_number": 107,
+    "subject": "National Values Education",
+    "topic": "Promoting Peaceful Living in our Society",
+    "question_text": "When a government ensures that national resources, jobs, and social amenities are distributed fairly without discrimination against any ethnic group, it is promoting peace through:",
+    "options": {
+      "a": "Authoritarianism",
+      "b": "Social Justice",
+      "c": "Human Trafficking",
+      "d": "Negative Peace"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Social Justice** involves equity and fairness in the distribution of wealth, opportunities, and privileges within a society, effectively removing the marginalization that causes conflicts.",
+    "section_id": null
+  },
+  {
+    "question_number": 108,
+    "subject": "National Values Education",
+    "topic": "Promoting Peaceful Living in our Society",
+    "question_text": "Protecting the fundamental **Human Rights** of citizens is a recognized way of promoting peace. Which of the following happens when these rights are repeatedly violated?",
+    "options": {
+      "a": "The society achieves an advanced level of positive peace",
+      "b": "Citizens become happier and more economically productive",
+      "c": "The society falls into negative peace or violent conflict as people demand their rights",
+      "d": "The national debt is instantly cancelled"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Violations of **Human Rights** breed resentment and anger. When citizens are oppressed and denied basic rights, it destroys positive peace and often sparks **violent conflict or mass protests**.",
+    "section_id": null
+  },
+  {
+    "question_number": 109,
+    "subject": "National Values Education",
+    "topic": "Promoting Peaceful Living in our Society",
+    "question_text": "If two warring communities in a local government area sign a peace treaty but secretly continue to stockpile weapons and restrict trade with each other, they are exhibiting:",
+    "options": {
+      "a": "Positive peace",
+      "b": "Negative/uneasy peace",
+      "c": "Communal labour",
+      "d": "Perfect social justice"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Because there is no active fighting (a signed treaty) but high tension and mistrust remain (stockpiling weapons), this is a classic example of **negative/uneasy peace**.",
+    "section_id": null
+  },
+  {
+    "question_number": 110,
+    "subject": "National Values Education",
+    "topic": "Promoting Peaceful Living in our Society",
+    "question_text": "In a multi-religious and multi-ethnic country like Nigeria, what is the most foundational attitude a student must cultivate to promote peaceful living?",
+    "options": {
+      "a": "Ethnocentrism",
+      "b": "Tolerance",
+      "c": "Nepotism",
+      "d": "Prejudice"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Given the vast diversity, **tolerance** is the fundamental attitude required to bridge differences and maintain cordial and friendly living among diverse groups.",
+    "section_id": null
+  },
+  {
+    "question_number": 111,
+    "subject": "National Values Education",
+    "topic": "Promoting Peaceful Living in our Society",
+    "question_text": "Consider the equation representing social harmony:\n$$ \\text{Peace} = \\text{Tolerance} + \\text{Social Justice} + X $$\nAccording to the syllabus, which of the following perfectly fits as $X$ to complete the ways of promoting peace?",
+    "options": {
+      "a": "Tribalism",
+      "b": "Human Rights",
+      "c": "Poverty",
+      "d": "Child Labour"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The syllabus outlines Tolerance, Social Justice, and **Human Rights** as the primary pillars and ways of promoting peace in society.",
+    "section_id": null
+  },
+  {
+    "question_number": 112,
+    "subject": "National Values Education",
+    "topic": "Promoting Peaceful Living in our Society",
+    "question_text": "When leaders ensure a **lack of violence/conflict** in their communities by mediating disputes fairly, they directly protect which key societal aspect from being destroyed?",
+    "options": {
+      "a": "Human Trafficking rings",
+      "b": "Harmful traditional practices",
+      "c": "Infrastructural progress and development",
+      "d": "Negative group behaviors"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The lack of violence and conflict protects public facilities and lives, thereby sustaining the community's **progress and development**.",
+    "section_id": null
+  },
+  {
+    "question_number": 113,
+    "subject": "National Values Education",
+    "topic": "Agents and Processes of Socialization",
+    "question_text": "In Social Studies, what is the best meaning of the term **Socialization**?",
+    "options": {
+      "a": "The process of moving from a rural village to an urban city",
+      "b": "The lifelong process through which individuals learn and internalize the values, norms, and culture of their society",
+      "c": "The act of isolating oneself to study traditional books",
+      "d": "The process of overthrowing traditional authorities through mass action"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Socialization** is defined as the lifelong, continuous process where an individual acquires the skills, beliefs, values, and cultural norms necessary to function actively as a member of society.",
+    "section_id": null
+  },
+  {
+    "question_number": 114,
+    "subject": "National Values Education",
+    "topic": "Agents and Processes of Socialization",
+    "question_text": "Which agent of socialization is universally recognized as the primary, most fundamental, and first point of contact for a newborn child?",
+    "options": {
+      "a": "The School",
+      "b": "The Mass Media (Press)",
+      "c": "The Family",
+      "d": "The Peer Group"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**The Family** is the first agent of socialization. It lays the primary foundation for a child's language, emotional development, and basic societal values.",
+    "section_id": null
+  },
+  {
+    "question_number": 115,
+    "subject": "National Values Education",
+    "topic": "Agents and Processes of Socialization",
+    "question_text": "Which agent of socialization provides formally structured education, specialized skills, and disciplines youths using a set curriculum?",
+    "options": {
+      "a": "The Peer Group",
+      "b": "The Age Grade",
+      "c": "The School",
+      "d": "The Clubs and Societies"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**The School** is a formal agent of socialization tasked with deliberately transmitting academic knowledge, discipline, civic values, and skills through a structured curriculum.",
+    "section_id": null
+  },
+  {
+    "question_number": 116,
+    "subject": "National Values Education",
+    "topic": "Agents and Processes of Socialization",
+    "question_text": "An agent of socialization made up of individuals of roughly the same age, social status, and shared interests, which highly influences teenage behavior, is called:",
+    "options": {
+      "a": "The Family",
+      "b": "The Peer Group",
+      "c": "The Religious Organization",
+      "d": "The Press"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **Peer Group** consists of friends or associates of similar age and status. It is extremely influential during adolescence in shaping fashion, language, and social attitudes.",
+    "section_id": null
+  },
+  {
+    "question_number": 117,
+    "subject": "National Values Education",
+    "topic": "Agents and Processes of Socialization",
+    "question_text": "In many Nigerian communities, an institutionalized group comprising people born within the same specific time frame (e.g., within 3 to 5 years of each other) who undertake community projects together is an agent known as:",
+    "options": {
+      "a": "The Press",
+      "b": "The Family",
+      "c": "The Age Grade",
+      "d": "The Mass Media"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **Age Grade** system is a powerful traditional agent of socialization in Africa, organizing youths born in the same period into cohorts that undertake communal labour and enforce discipline.",
+    "section_id": null
+  },
+  {
+    "question_number": 118,
+    "subject": "National Values Education",
+    "topic": "Agents and Processes of Socialization",
+    "question_text": "Which agent of socialization heavily utilizes newspapers, television, radio, and the internet to shape public opinion, culture, and values across vast distances?",
+    "options": {
+      "a": "The Age Grade",
+      "b": "The Family",
+      "c": "The Press",
+      "d": "Clubs and Societies"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**The Press** (or Mass Media) relies on broadcast, print, and digital mediums to disseminate information, rapidly transmitting cultural trends and values globally.",
+    "section_id": null
+  },
+  {
+    "question_number": 119,
+    "subject": "National Values Education",
+    "topic": "Agents and Processes of Socialization",
+    "question_text": "Churches and Mosques teach spiritual values, moral uprightness, and love for neighbors. They are categorized as which agent of socialization?",
+    "options": {
+      "a": "Religious organizations",
+      "b": "Formal Schools",
+      "c": "Peer groups",
+      "d": "Age grades"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Religious organizations** play a crucial role in socializing individuals by dictating moral codes, ethical standards, and a sense of divine accountability.",
+    "section_id": null
+  },
+  {
+    "question_number": 120,
+    "subject": "National Values Education",
+    "topic": "Agents and Processes of Socialization",
+    "question_text": "Why is the process of socialization considered critically **important** to the survival of a society?",
+    "options": {
+      "a": "It ensures that the nation's culture, skills, and values are successfully transmitted from one generation to the next",
+      "b": "It provides governments with the ability to traffic human beings efficiently",
+      "c": "It guarantees that everyone in the society will become financially rich",
+      "d": "It encourages the widespread practice of harmful traditional customs"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The primary **importance of socialization** is cultural continuity; it ensures that the accumulated knowledge, norms, and culture of a society are passed down securely to succeeding generations.",
+    "section_id": null
+  },
+  {
+    "question_number": 121,
+    "subject": "National Values Education",
+    "topic": "Agents and Processes of Socialization",
+    "question_text": "A student joins the 'Boy Scouts' or 'Girls Guide'. Through meetings and camps, they learn survival skills, patriotism, and teamwork. This process occurs under which agent?",
+    "options": {
+      "a": "The Press",
+      "b": "Clubs and Societies",
+      "c": "Religious organizations",
+      "d": "The Family"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Voluntary groups formed for specific beneficial interests or activities (like the Boy Scouts, Girls Guide, or Debate Clubs) function as **Clubs and Societies**, socializing youths into specific skills and teamwork.",
+    "section_id": null
+  },
+  {
+    "question_number": 122,
+    "subject": "National Values Education",
+    "topic": "Agents and Processes of Socialization",
+    "question_text": "Which of the following is true regarding the **process of socialization**?",
+    "options": {
+      "a": "It completely stops as soon as a child graduates from primary school",
+      "b": "It only occurs when an individual travels abroad",
+      "c": "It is a continuous, lifelong process ending only at death",
+      "d": "It happens exclusively inside religious organizations"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "The **process of socialization** is lifelong. As individuals grow into adulthood, marry, or take on new jobs, they must continuously learn and adapt to new social roles and norms.",
+    "section_id": null
+  },
+  {
+    "question_number": 123,
+    "subject": "National Values Education",
+    "topic": "Agents and Processes of Socialization",
+    "question_text": "When a youth learns to speak respectfully to elders by observing how their older siblings behave at home, this is an example of:",
+    "options": {
+      "a": "Formal socialization through the School",
+      "b": "Informal socialization through the Family",
+      "c": "Mass Action socialization",
+      "d": "Socialization through the Press"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Learning social norms (like respect) naturally through observation within the home environment is an informal process of socialization led by the **Family**.",
+    "section_id": null
+  },
+  {
+    "question_number": 124,
+    "subject": "National Values Education",
+    "topic": "Agents and Processes of Socialization",
+    "question_text": "Analyze the agents of socialization based on their primary influence:\n- Determines early language and basic hygiene: Agent W\n- Issues academic grades and formal certification: Agent X\n- Uses mass broadcast media to shape fashion: Agent Y\n\nWhich combination matches W, X, and Y correctly?",
+    "options": {
+      "a": "W = School, X = Peer Group, Y = Family",
+      "b": "W = Family, X = School, Y = Press",
+      "c": "W = Press, X = Clubs, Y = Religious Organizations",
+      "d": "W = Age Grade, X = Family, Y = School"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "**Family (W)** handles basics like language; the **School (X)** provides formal education and grades; the **Press/Media (Y)** uses broadcasting to influence widespread trends like fashion.",
+    "section_id": null
+  },
+  {
+    "question_number": 125,
+    "subject": "National Values Education",
+    "topic": "Road Safety Club as an Agent of Socialization",
+    "question_text": "The establishment of the Road Safety Club in secondary schools functions as an agent of socialization primarily tasked with teaching youths:",
+    "options": {
+      "a": "How to repair heavy mechanical engines for profit",
+      "b": "Proper road use culture, traffic signs, and safety consciousness",
+      "c": "How to legally bypass payment at toll gates",
+      "d": "How to engage in illegal drag racing on highways"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **Road Safety Club** is a specialized society formed in schools to catch youths early and socialize them into maintaining a **proper road safety culture** and understanding traffic regulations.",
+    "section_id": null
+  },
+  {
+    "question_number": 126,
+    "subject": "National Values Education",
+    "topic": "Road Safety Club as an Agent of Socialization",
+    "question_text": "In Nigerian secondary schools, which federal agency primarily initiates and provides the statutory framework for the formation of the Road Safety Club?",
+    "options": {
+      "a": "NAPTIP (National Agency for Prohibition of Trafficking in Persons)",
+      "b": "NAFDAC (National Agency for Food and Drug Administration and Control)",
+      "c": "FRSC (Federal Road Safety Corps)",
+      "d": "NDLEA (National Drug Law Enforcement Agency)"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **Federal Road Safety Corps (FRSC)** is the statutory body in Nigeria responsible for road safety. They collaborate with schools to form the Road Safety Club to inculcate traffic awareness at a young age.",
+    "section_id": null
+  },
+  {
+    "question_number": 127,
+    "subject": "National Values Education",
+    "topic": "Road Safety Club as an Agent of Socialization",
+    "question_text": "What is the primary role of the Road Safety Club in the socialization of youths?",
+    "options": {
+      "a": "To train students on how to secretly bypass toll gates",
+      "b": "To instill a culture of voluntary compliance with traffic rules and road safety consciousness",
+      "c": "To function as an alternative local police force within the community",
+      "d": "To legally issue driving licenses to underaged secondary school students"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "As an agent of socialization, the Road Safety Club aims to heavily influence the mindset of youths, molding them to voluntarily embrace a **culture of obedience to traffic rules** and safety consciousness.",
+    "section_id": null
+  },
+  {
+    "question_number": 128,
+    "subject": "National Values Education",
+    "topic": "Road Safety Club as an Agent of Socialization",
+    "question_text": "Which of the following is a practical activity expected of Road Safety Club members as they socialize their peers in the school environment?",
+    "options": {
+      "a": "Controlling human and vehicular traffic around the school gates during closing hours",
+      "b": "Blocking the highway to protest against the government",
+      "c": "Arresting adults for minor traffic offenses on federal roads",
+      "d": "Collecting revenue from commercial bus drivers"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "In practical terms, student members are often trained to assist in **controlling traffic around the school premises**, thereby practically applying safety rules and teaching their peers by example.",
+    "section_id": null
+  },
+  {
+    "question_number": 129,
+    "subject": "National Values Education",
+    "topic": "Road Safety Club as an Agent of Socialization",
+    "question_text": "Regarding the structure of forming a Road Safety Club in schools, who serves as the internal administrative guide linking the students to the FRSC officials?",
+    "options": {
+      "a": "The Senior Prefect of the school",
+      "b": "A designated teacher functioning as the Club Patron/Coordinator",
+      "c": "The Chairman of the Local Government",
+      "d": "A journalist from the local press"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The structural process requires a staff member, usually designated as the **Club Patron or Coordinator**, to administratively oversee the club's activities and liaise with the FRSC.",
+    "section_id": null
+  },
+  {
+    "question_number": 130,
+    "subject": "National Values Education",
+    "topic": "Road Safety Club as an Agent of Socialization",
+    "question_text": "The Road Safety Club employs peer-to-peer socialization. Which mechanism best describes how this happens?",
+    "options": {
+      "a": "Members use physical force to beat non-members who cross the road wrongly",
+      "b": "Members share road safety knowledge, advocate safe road behavior, and correct their friends' mistakes politely",
+      "c": "Members isolate themselves completely from non-members",
+      "d": "Members encourage their peers to organize mass protests on busy highways"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Peer socialization relies on positive influence. Club members act as advocates, **sharing knowledge** about traffic signs and politely correcting their peers to promote a safe school environment.",
+    "section_id": null
+  },
+  {
+    "question_number": 131,
+    "subject": "National Values Education",
+    "topic": "Road Safety Club as an Agent of Socialization",
+    "question_text": "The formal inauguration process of the Road Safety Club generally involves registering the school with the relevant agency. Why is this official process important?",
+    "options": {
+      "a": "It legally allows students to skip their regular academic classes",
+      "b": "It ensures the club receives the standard training manuals, kits, and supervision from the national road safety agency",
+      "c": "It automatically grants the principal immunity from traffic offenses",
+      "d": "It provides massive financial payments to the student members"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Official registration ensures structural integration. The school is integrated into the national safety network, gaining access to **standardized training, manuals, and professional supervision**.",
+    "section_id": null
+  },
+  {
+    "question_number": 132,
+    "subject": "National Values Education",
+    "topic": "Road Safety Club as an Agent of Socialization",
+    "question_text": "Ultimately, what is the long-term goal of using the Road Safety Club as an agent of socialization for youths?",
+    "options": {
+      "a": "To breed a new generation of aggressive, impatient drivers",
+      "b": "To completely eliminate the need for the Federal Road Safety Corps in the future",
+      "c": "To mold youths into responsible, law-abiding adult road users who prioritize human life",
+      "d": "To force all youths to pursue a career in vehicle manufacturing"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Socialization is a process of preparation for future roles. The goal is to build long-lasting values that mold youths into **responsible, safety-conscious adults**.",
+    "section_id": null
+  },
+  {
+    "question_number": 133,
+    "subject": "National Values Education",
+    "topic": "Common Social Problems in Nigeria",
+    "question_text": "In the context of National Values Education, how is a 'Contemporary Social Problem' defined?",
+    "options": {
+      "a": "A historical event that unified the nation prior to independence",
+      "b": "An ongoing behavior or adverse condition that negatively impacts many individuals and threatens the overall stability of the society",
+      "c": "A modern technological advancement that speeds up economic growth",
+      "d": "A harmless traditional practice that communities perform annually"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **contemporary social problem** refers to current, prevailing negative conditions or behaviors (like corruption, crime) that threaten societal peace, values, and stability.",
+    "section_id": null
+  },
+  {
+    "question_number": 134,
+    "subject": "National Values Education",
+    "topic": "Common Social Problems in Nigeria",
+    "question_text": "Which of the following pairings correctly identifies examples of contemporary social problems in Nigeria?",
+    "options": {
+      "a": "Advocacy and Awareness Campaigns",
+      "b": "Communal labour and Patriotism",
+      "c": "Corruption and Examination Malpractice",
+      "d": "Social Justice and Equity"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Corruption** and **Examination Malpractice** are widespread contemporary social problems that heavily undermine the nation's economic and academic integrity.",
+    "section_id": null
+  },
+  {
+    "question_number": 135,
+    "subject": "National Values Education",
+    "topic": "Common Social Problems in Nigeria",
+    "question_text": "When analyzing the economic causes of social problems such as armed robbery and cybercrime (internet fraud), which factor stands out predominantly?",
+    "options": {
+      "a": "High levels of poverty and youth unemployment",
+      "b": "Excessive payment of taxes to local governments",
+      "c": "Over-funding of the national education sector",
+      "d": "The successful eradication of illiteracy"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Poverty and unemployment** are major socioeconomic drivers; desperate individuals who lack legitimate means of livelihood are more vulnerable to engaging in crimes for survival.",
+    "section_id": null
+  },
+  {
+    "question_number": 136,
+    "subject": "National Values Education",
+    "topic": "Common Social Problems in Nigeria",
+    "question_text": "From a sociological standpoint, a breakdown in the initial phase of a child's socialization is a major cause of social problems. This specifically points to a failure of which agent?",
+    "options": {
+      "a": "The Age Grade",
+      "b": "The Family (Poor parental upbringing)",
+      "c": "The Press (Mass Media)",
+      "d": "The Legislative body"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The family is the first agent of socialization. **Poor parental upbringing** and lack of discipline in the home create a foundational gap that leads youths toward delinquency and social vices.",
+    "section_id": null
+  },
+  {
+    "question_number": 137,
+    "subject": "National Values Education",
+    "topic": "Common Social Problems in Nigeria",
+    "question_text": "Which psychological factor is heavily responsible for causing the social problem of political corruption and embezzlement of public funds?",
+    "options": {
+      "a": "Extreme Patriotism",
+      "b": "Greed and the 'get-rich-quick' syndrome",
+      "c": "Contentment",
+      "d": "High moral consciousness"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Greed**—the intense, selfish desire for wealth at the expense of others—and a cultural obsession with getting rich quickly are the core psychological causes of corruption.",
+    "section_id": null
+  },
+  {
+    "question_number": 138,
+    "subject": "National Values Education",
+    "topic": "Ways of Solving Social Problems in Nigeria",
+    "question_text": "What is a major national *effect* of prevailing social problems like insurgency, kidnapping, and banditry on a country's economic landscape?",
+    "options": {
+      "a": "They massively attract foreign direct investment",
+      "b": "They result in a complete lack of violence",
+      "c": "They scare away foreign investors and stifle local business development",
+      "d": "They double the value of the national currency"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Social problems characterized by insecurity create an unstable environment, directly **scaring away foreign investors** and retarding economic development.",
+    "section_id": null
+  },
+  {
+    "question_number": 139,
+    "subject": "National Values Education",
+    "topic": "Ways of Solving Social Problems in Nigeria",
+    "question_text": "When citizens of a nation are heavily implicated internationally in drug trafficking and advance-fee fraud, what is the immediate effect on the country's global standing?",
+    "options": {
+      "a": "The country receives a Nobel peace prize",
+      "b": "The nation is celebrated for its resourcefulness",
+      "c": "It gives the country a very bad international image, resulting in stigma for innocent citizens abroad",
+      "d": "Other nations automatically copy their legal system"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Involvement in international crimes severely damages the diplomatic reputation, causing a **bad international image** and resulting in harsh treatments and stigma for its citizens worldwide.",
+    "section_id": null
+  },
+  {
+    "question_number": 140,
+    "subject": "National Values Education",
+    "topic": "Ways of Solving Social Problems in Nigeria",
+    "question_text": "What long-term systemic effect does the social problem of **examination malpractice** have on a country?",
+    "options": {
+      "a": "It ensures that only the brightest students get government scholarships",
+      "b": "It produces half-baked, incompetent graduates who cannot defend their academic certificates",
+      "c": "It increases the number of teachers globally",
+      "d": "It drastically improves the national literacy rate"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Examination malpractice compromises the integrity of the educational system, ultimately releasing **incompetent graduates** into the workforce who lack the actual skills they claim to have.",
+    "section_id": null
+  },
+  {
+    "question_number": 141,
+    "subject": "National Values Education",
+    "topic": "Ways of Solving Social Problems in Nigeria",
+    "question_text": "Which of the following solutions utilizes the educational sector to fundamentally curb contemporary social problems?",
+    "options": {
+      "a": "Teaching students how to effectively hack into bank systems",
+      "b": "Intensive civic education and a mass moral re-orientation of youths",
+      "c": "Removing National Values Education from the school syllabus entirely",
+      "d": "Encouraging early marriages to keep youths out of school"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "By implementing **civic education and moral re-orientation**, the educational system targets the mindset of youths, replacing destructive tendencies with positive values.",
+    "section_id": null
+  },
+  {
+    "question_number": 142,
+    "subject": "National Values Education",
+    "topic": "Ways of Solving Social Problems in Nigeria",
+    "question_text": "Using legislation as a way of solving social problems requires the government to do which of the following?",
+    "options": {
+      "a": "Pardon all convicted criminals instantly",
+      "b": "Enact strict laws against social vices and ensure law enforcement agencies execute stiff penalties on offenders",
+      "c": "Ask criminals to willingly surrender their weapons without any consequences",
+      "d": "Disband the police force to create absolute freedom"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The legislative approach involves the creation of **strict laws** backed by robust **law enforcement and stiff penalties** to act as a powerful deterrent against social problems.",
+    "section_id": null
+  },
+  {
+    "question_number": 143,
+    "subject": "National Values Education",
+    "topic": "Ways of Solving Social Problems in Nigeria",
+    "question_text": "Since poverty and unemployment are major causes of social problems, which of the following interventions represents the most sustainable way to solve them?",
+    "options": {
+      "a": "Arresting the unemployed and keeping them in prisons",
+      "b": "Banning the use of money in the national economy",
+      "c": "Implementing aggressive poverty alleviation and youth empowerment/skill acquisition programs",
+      "d": "Forcing youths into human trafficking rings"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Poverty alleviation and empowerment programs** equip citizens with employable skills or capital, removing the desperation that often drives people into crime.",
+    "section_id": null
+  },
+  {
+    "question_number": 144,
+    "subject": "National Values Education",
+    "topic": "Our Roles in Promoting Safety in our Community",
+    "question_text": "In the study of community safety, what is the most paramount **need for safety**?",
+    "options": {
+      "a": "To ensure that hospital wards are always full",
+      "b": "To preserve human life, prevent avoidable injuries, and protect properties from destruction",
+      "c": "To limit the speed at which the national economy grows",
+      "d": "To restrict citizens from enjoying recreational activities"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Safety measures are primarily implemented to **preserve life**, minimize hazards, and prevent the loss of properties resulting from accidents or carelessness.",
+    "section_id": null
+  },
+  {
+    "question_number": 145,
+    "subject": "National Values Education",
+    "topic": "Our Roles in Promoting Safety in our Community",
+    "question_text": "Consider the following actions. Which one correctly aligns with **safety measures in the home**?",
+    "options": {
+      "a": "Storing volatile fuels like petrol in the kitchen",
+      "b": "Keeping sharp objects, medications, and toxic chemicals out of the reach of children",
+      "c": "Leaving spilled water or oil on smooth tiled floors",
+      "d": "Operating wet electrical switches barefoot"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Children are vulnerable to domestic accidents. A critical safety measure is storing **sharp objects and chemicals securely out of their reach**.",
+    "section_id": null
+  },
+  {
+    "question_number": 146,
+    "subject": "National Values Education",
+    "topic": "Our Roles in Promoting Safety in our Community",
+    "question_text": "Examine the following rules for a school environment:\n\n| Location | Prohibited Action |\n|---|---|\n| Science Laboratory | Tasting unmarked chemicals |\n| Staircases | $X$ |\n\nWhich of the following actions safely replaces $X$ to prevent injuries?",
+    "options": {
+      "a": "Walking in a single file",
+      "b": "Holding the handrails",
+      "c": "Playing, pushing, or running dangerously",
+      "d": "Cleaning the steps"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "To maintain safety in schools, **playing, pushing, or running dangerously** on staircases must be heavily prohibited as it frequently leads to severe fall injuries.",
+    "section_id": null
+  },
+  {
+    "question_number": 147,
+    "subject": "National Values Education",
+    "topic": "Our Roles in Promoting Safety in our Community",
+    "question_text": "In industrial workplaces and construction sites, safety is highly dependent on workers using PPE. What does PPE stand for?",
+    "options": {
+      "a": "Personal Protective Equipment",
+      "b": "Private Personnel Embezzlement",
+      "c": "Protective Police Engagement",
+      "d": "Public Property Evaluation"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Personal Protective Equipment (PPE)** includes helmets, safety boots, gloves, and goggles, which are fundamental safety requirements for workers in hazardous environments.",
+    "section_id": null
+  },
+  {
+    "question_number": 148,
+    "subject": "National Values Education",
+    "topic": "Our Roles in Promoting Safety in our Community",
+    "question_text": "What is the standard, internationally recognized safety sequence a **pedestrian** must execute before crossing a busy road without traffic lights?",
+    "options": {
+      "a": "$$ \\text{Look Right} \\rightarrow \\text{Run Fast} \\rightarrow \\text{Look Left} $$",
+      "b": "$$ \\text{Look Left} \\rightarrow \\text{Look Right} \\rightarrow \\text{Look Left again} $$ and cross when clear",
+      "c": "$$ \\text{Close Eyes} \\rightarrow \\text{Walk slowly} \\rightarrow \\text{Listen for horns} $$",
+      "d": "$$ \\text{Wave Hands} \\rightarrow \\text{Stop Vehicles} \\rightarrow \\text{Walk diagonally} $$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The fundamental pedestrian safety rule, especially in right-hand driving countries like Nigeria, is to **look Left, look Right, then look Left again**, ensuring the road is completely clear before crossing.",
+    "section_id": null
+  },
+  {
+    "question_number": 149,
+    "subject": "National Values Education",
+    "topic": "Our Roles in Promoting Safety in our Community",
+    "question_text": "To significantly reduce the occurrence of fatal head traumas during accidents, what is the most critical safety guideline for both **motorcyclists and their passengers**?",
+    "options": {
+      "a": "Wearing reflective jackets only at night",
+      "b": "Holding onto the motorcycle firmly",
+      "c": "Wearing properly fastened standard crash helmets",
+      "d": "Riding on the pedestrian walkway"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The skull is highly vulnerable during motorcycle accidents. Wearing a **standard crash helmet** is the legally required and most vital safety guideline to prevent traumatic brain injuries.",
+    "section_id": null
+  },
+  {
+    "question_number": 150,
+    "subject": "National Values Education",
+    "topic": "Our Roles in Promoting Safety in our Community",
+    "question_text": "Which of the following is an absolute safety contravention and highly dangerous practice for **motorists** (car drivers)?",
+    "options": {
+      "a": "Obeying the stipulated speed limits on the highway",
+      "b": "Fastening seat belts before turning on the engine",
+      "c": "Driving under the influence of alcohol and texting while driving",
+      "d": "Using turn signals before changing lanes"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Driving under the influence of alcohol and texting** heavily impairs cognitive functions and reaction times, directly causing severe road traffic accidents and contravening safety guidelines.",
+    "section_id": null
+  },
+  {
+    "question_number": 151,
+    "subject": "National Values Education",
+    "topic": "Dangers of Drug Trafficking",
+    "question_text": "According to the Social Studies syllabus, what is the exact meaning of **Drug Trafficking**?",
+    "options": {
+      "a": "The legal dispensing of drugs by licensed medical pharmacists",
+      "b": "The illegal manufacturing, distribution, and transportation of prohibited narcotic drugs and psychoactive substances",
+      "c": "The process of swallowing prescribed medicine for personal healing",
+      "d": "The act of exporting legally produced agricultural medicine"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Drug Trafficking** is an illicit global trade involving the illegal cultivation, manufacture, distribution, and sale of substances which are subject to drug prohibition laws.",
+    "section_id": null
+  },
+  {
+    "question_number": 152,
+    "subject": "National Values Education",
+    "topic": "Dangers of Drug Trafficking",
+    "question_text": "Which of the following describes how **Greed** acts as a major reason for trafficking in drugs?",
+    "options": {
+      "a": "The intense, selfish desire to acquire wealth rapidly without doing any legitimate hard work",
+      "b": "The lack of formal education regarding international laws",
+      "c": "The state of having no money to feed one's family",
+      "d": "The desire to cure sick people in foreign countries"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Greed** refers to an insatiable desire for wealth. Many traffickers are already financially stable but engage in the illicit trade strictly because of the 'get-rich-quick' syndrome.",
+    "section_id": null
+  },
+  {
+    "question_number": 153,
+    "subject": "National Values Education",
+    "topic": "Dangers of Drug Trafficking",
+    "question_text": "Sometimes, innocent youths are deceived into carrying luggage containing hidden drugs across international borders because they lack knowledge of the contents. This reason is categorized under:",
+    "options": {
+      "a": "Poverty",
+      "b": "Greed",
+      "c": "Ignorance",
+      "d": "Philanthropy"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Ignorance** is a major factor. Unsuspecting individuals (often called 'blind mules') can be tricked into carrying drugs due to a lack of awareness or education about the tactics of drug cartels.",
+    "section_id": null
+  },
+  {
+    "question_number": 154,
+    "subject": "National Values Education",
+    "topic": "Dangers of Drug Trafficking",
+    "question_text": "Consider the equation representing the root causes of the drug trade:\n$$ \\text{Vulnerability} = \\text{Ignorance} + X $$\nIf $X$ represents the socio-economic condition of being unable to afford basic human needs, driving people to desperate measures, what is $X$?",
+    "options": {
+      "a": "Poverty",
+      "b": "Greed",
+      "c": "Legislation",
+      "d": "Patriotism"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Poverty** represents extreme financial hardship. Drug cartels frequently exploit impoverished citizens by offering them large sums of money to risk their lives trafficking drugs.",
+    "section_id": null
+  },
+  {
+    "question_number": 155,
+    "subject": "National Values Education",
+    "topic": "Dangers of Drug Trafficking",
+    "question_text": "What is an immediate danger faced by citizens of a country heavily associated with drug trafficking when they travel internationally?",
+    "options": {
+      "a": "They receive automatic visas and warm welcomes",
+      "b": "They are given bad image, often resulting in severe stigmatization, harassment, and intense security scrutiny at foreign airports",
+      "c": "They are mandated to pay lower international taxes",
+      "d": "They are immediately drafted into foreign militaries"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A prominent danger of drug trafficking is that it creates a **bad image for the country**. Innocent citizens suffer extreme stigmatization and dehumanizing searches abroad.",
+    "section_id": null
+  },
+  {
+    "question_number": 156,
+    "subject": "National Values Education",
+    "topic": "Dangers of Drug Trafficking",
+    "question_text": "In several Asian and Middle Eastern countries, what is the ultimate legal penalty specifically prescribed for drug trafficking?",
+    "options": {
+      "a": "A brief community service sentence",
+      "b": "Deportation with a financial reward",
+      "c": "The Death Penalty (Capital Punishment)",
+      "d": "A warning letter from the embassy"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "To serve as a maximum deterrent, many countries strictly enforce the **death penalty** for anyone caught smuggling illicit drugs across their borders.",
+    "section_id": null
+  },
+  {
+    "question_number": 157,
+    "subject": "National Values Education",
+    "topic": "Dangers of Drug Trafficking",
+    "question_text": "How does the illegal drug trade directly **affect national security**?",
+    "options": {
+      "a": "It decreases the nation's unemployment rate permanently",
+      "b": "Drug cartels use massive illegal profits to buy advanced weapons, fund terrorism, and corrupt law enforcement agencies",
+      "c": "It forces citizens to become more patriotic",
+      "d": "It provides governments with more taxes for the military"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The massive, untraceable wealth generated by trafficking is frequently used to finance heavily armed cartels, insurgencies, and systemic corruption, gravely threatening **national security**.",
+    "section_id": null
+  },
+  {
+    "question_number": 158,
+    "subject": "National Values Education",
+    "topic": "Dangers of Drug Trafficking",
+    "question_text": "One of the effective ways of discouraging youths from drug abuse and trafficking is forming peer-driven associations in schools known as:",
+    "options": {
+      "a": "Secret Cults",
+      "b": "Drug Free Clubs",
+      "c": "Age Grades",
+      "d": "Political Parties"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Just like the Road Safety Club, establishing **Drug Free Clubs** in schools creates a positive peer environment that actively advocates against substance abuse.",
+    "section_id": null
+  },
+  {
+    "question_number": 159,
+    "subject": "National Values Education",
+    "topic": "Dangers of Drug Trafficking",
+    "question_text": "Which coping skill involves the ability to confidently express your beliefs and stand your ground against peer pressure without becoming aggressive?",
+    "options": {
+      "a": "Assertiveness",
+      "b": "Ignorance",
+      "c": "Vulnerability",
+      "d": "Aggressiveness"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Assertiveness** is a critical psychological coping skill. It allows a youth to confidently say \"No\" to drugs and firmly stand by their personal values under peer pressure.",
+    "section_id": null
+  },
+  {
+    "question_number": 160,
+    "subject": "National Values Education",
+    "topic": "Dangers of Drug Trafficking",
+    "question_text": "Analyze the table mapping coping skills to their functions:\n\n| Coping Skill | Function against Drug Abuse |\n|---|---|\n| Refusal/Resistance skills | The ability to politely but firmly reject an offer to consume drugs |\n| $Y$ | The ability to analyze a difficult life situation and find a healthy solution without using drugs as an escape |\n\nWhich of the following correctly replaces $Y$?",
+    "options": {
+      "a": "Constructive use of time",
+      "b": "Problem solving skills",
+      "c": "Choosing good friends",
+      "d": "Financial readiness"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "**Problem solving skills** involve confronting life's challenges directly and formulating rational solutions rather than turning to psychoactive substances as a means of escape.",
+    "section_id": null
+  },
+  {
+    "question_number": 161,
+    "subject": "National Values Education",
+    "topic": "Dangers of Drug Trafficking",
+    "question_text": "When a student proactively engages in sporting activities, attends vocational training, or participates in religious events after school hours to avoid bad company, this is termed:",
+    "options": {
+      "a": "Decision making skills",
+      "b": "Constructive use of time",
+      "c": "Forming drug free clubs",
+      "d": "Refusal skills"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Idleness is a major trigger for delinquency. Engaging in sports or productive hobbies represents a **constructive use of time**, keeping youths safely occupied and away from drug peddlers.",
+    "section_id": null
+  },
+  {
+    "question_number": 162,
+    "subject": "National Values Education",
+    "topic": "Dangers of Drug Trafficking",
+    "question_text": "If a teenager realizes their current peer group often skips classes to smoke marijuana and subsequently decides to distance themselves to join a study group, which preventative strategy is applied?",
+    "options": {
+      "a": "Choosing good friends",
+      "b": "International Community intervention",
+      "c": "Forfeiture of assets",
+      "d": "Political advocacy"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Because peer influence is heavily tied to socialization, consciously **choosing good friends** who possess positive moral values is a direct way to discourage drug abuse.",
+    "section_id": null
+  },
+  {
+    "question_number": 163,
+    "subject": "National Values Education",
+    "topic": "Preventing Drug Trafficking",
+    "question_text": "When a convicted drug trafficker is legally forced by the government to give up their houses, cars, and bank accounts purchased with drug money, it is known as:",
+    "options": {
+      "a": "Alleviation of Poverty",
+      "b": "Forfeiture of assets (local and foreign)",
+      "c": "Constructive use of time",
+      "d": "Death penalty"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Forfeiture of assets** is a severe legal consequence where the government seizes all wealth, properties, and accounts (both local and foreign) linked to illicit drug proceeds.",
+    "section_id": null
+  },
+  {
+    "question_number": 164,
+    "subject": "National Values Education",
+    "topic": "Preventing Drug Trafficking",
+    "question_text": "To systematically prevent drug trafficking at the grassroots level, governments often introduce scholarship schemes, vocational loans, and job creation programs. This preventive measure is termed:",
+    "options": {
+      "a": "Legislation",
+      "b": "International Community",
+      "c": "Alleviation of Poverty",
+      "d": "Communication skills"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Since poverty is a major driver of trafficking, **alleviation of poverty** through economic empowerment reduces the financial desperation that cartels exploit.",
+    "section_id": null
+  },
+  {
+    "question_number": 165,
+    "subject": "National Values Education",
+    "topic": "Preventing Drug Trafficking",
+    "question_text": "The establishment of specialized law enforcement agencies like the NDLEA (National Drug Law Enforcement Agency) in Nigeria falls directly under which preventive measure?",
+    "options": {
+      "a": "Education",
+      "b": "Legislation",
+      "c": "Alleviation of Poverty",
+      "d": "Constructive use of time"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Legislation** involves the government enacting laws to prohibit trafficking and creating specialized statutory agencies (like the NDLEA) to hunt down, arrest, and prosecute offenders.",
+    "section_id": null
+  },
+  {
+    "question_number": 166,
+    "subject": "National Values Education",
+    "topic": "Preventing Drug Trafficking",
+    "question_text": "Why is the intervention of the **International Community** critical in the prevention of drug trafficking?",
+    "options": {
+      "a": "Because drug trafficking is a transnational crime requiring global cooperation, intelligence sharing, and extradition treaties to dismantle cartels across borders",
+      "b": "Because local police are not allowed to arrest any citizen",
+      "c": "Because all drug proceeds must legally be paid to the United Nations",
+      "d": "Because drugs are only manufactured in outer space"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "Drug cartels operate globally. The **International Community** (e.g., INTERPOL, UNODC) must collaborate to track shipments, share security intelligence, and extradite criminals across borders.",
+    "section_id": null
+  },
+  {
+    "question_number": 167,
+    "subject": "National Values Education",
+    "topic": "Preventing Drug Trafficking",
+    "question_text": "<svg viewBox=\"0 0 400 100\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"10\" y=\"20\" width=\"100\" height=\"50\" fill=\"#e0e0e0\" stroke=\"black\"/>\n  <text x=\"60\" y=\"50\" text-anchor=\"middle\">Ignorance</text>\n  <path d=\"M110 45 L150 45 L140 35 M150 45 L140 55\" stroke=\"black\" fill=\"none\"/>\n  <rect x=\"150\" y=\"20\" width=\"100\" height=\"50\" fill=\"#ffcccc\" stroke=\"black\"/>\n  <text x=\"200\" y=\"50\" text-anchor=\"middle\">Prevention X</text>\n</svg>\n\nBased on the syllabus and the diagram illustrating a counter-measure to 'Ignorance', what is the most appropriate preventive measure for 'Prevention X'?",
+    "options": {
+      "a": "Imprisonment",
+      "b": "Education",
+      "c": "Death Penalty",
+      "d": "Greed"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The direct cure for ignorance in the syllabus's preventative framework is **Education**. Through widespread enlightenment and schooling, individuals learn about the dire consequences of trafficking.",
+    "section_id": null
+  },
+  {
+    "question_number": 168,
+    "subject": "National Values Education",
+    "topic": "Preventing Drug Trafficking",
+    "question_text": "If a government decides to confiscate the foreign bank accounts of a convicted drug baron in Europe with the help of foreign authorities, this combines which two preventive/consequence elements?",
+    "options": {
+      "a": "Death Penalty and Education",
+      "b": "Alleviation of Poverty and Ignorance",
+      "c": "Forfeiture of assets and International Community",
+      "d": "Constructive use of time and Good friends"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Seizing accounts involves the **forfeiture of assets (foreign)**, which can only be successfully executed through treaties and cooperation with the **International Community**.",
+    "section_id": null
+  },
+  {
+    "question_number": 169,
+    "subject": "National Values Education",
+    "topic": "Meaning and Consequences of Drug Abuse and Harmful Substances",
+    "question_text": "What is the most accurate definition of **Drug Abuse**?",
+    "options": {
+      "a": "Taking medications exactly as prescribed by a qualified physician",
+      "b": "The arbitrary, excessive, or incorrect consumption of drugs without medical prescription or supervision",
+      "c": "The process of manufacturing medicinal syrup in a laboratory",
+      "d": "Storing drugs in a home first aid box for emergencies"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Drug Abuse** occurs when individuals take illicit drugs, or when they consume legal, therapeutic drugs without a doctor's prescription, in excess, or for non-medical reasons.",
+    "section_id": null
+  },
+  {
+    "question_number": 170,
+    "subject": "National Values Education",
+    "topic": "Meaning and Consequences of Drug Abuse and Harmful Substances",
+    "question_text": "Which of the following is considered a common **form of drug abuse** in society?",
+    "options": {
+      "a": "Receiving a vaccination at a government hospital",
+      "b": "Taking paracetamol daily for months without seeing a doctor (Self-medication)",
+      "c": "Eating balanced diets with sufficient vitamins",
+      "d": "Using a plaster to cover an open wound"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Self-medication**—continuously diagnosing and treating oneself with drugs without professional medical advice—is a widespread and dangerous form of drug abuse.",
+    "section_id": null
+  },
+  {
+    "question_number": 171,
+    "subject": "National Values Education",
+    "topic": "Meaning and Consequences of Drug Abuse and Harmful Substances",
+    "question_text": "When a student habitually inhales the fumes of petroleum, correction fluid (Tipp-Ex), or rubber glue to feel 'high', they are engaging in:",
+    "options": {
+      "a": "Substance Abuse",
+      "b": "Constructive use of time",
+      "c": "Communal labour",
+      "d": "Prescription drug therapy"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Inhaling solvents and household chemicals for psychoactive effects is known as **Substance Abuse** (inhalant abuse), which heavily damages brain cells.",
+    "section_id": null
+  },
+  {
+    "question_number": 172,
+    "subject": "National Values Education",
+    "topic": "Meaning and Consequences of Drug Abuse and Harmful Substances",
+    "question_text": "Taking three tablets of a powerful antibiotic instead of the one tablet prescribed by the doctor, in order to 'cure the disease faster', is a form of drug abuse strictly defined as:",
+    "options": {
+      "a": "Under-dosage",
+      "b": "Over-dosage",
+      "c": "Placebo effect",
+      "d": "Rehabilitation"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Consuming more than the medically recommended amount of a drug is termed **Over-dosage**, which can severely damage the liver and kidneys.",
+    "section_id": null
+  },
+  {
+    "question_number": 173,
+    "subject": "National Values Education",
+    "topic": "Meaning and Consequences of Drug Abuse and Harmful Substances",
+    "question_text": "What is a major physiological consequence of chronic drug abuse on the **individual**?",
+    "options": {
+      "a": "Increased academic brilliance",
+      "b": "Development of psychiatric problems (madness) and organ failure",
+      "c": "Immunity to all infectious viral diseases",
+      "d": "Immediate promotion at their workplace"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "On an individual level, chronic abuse of psychoactive substances destroys brain chemistry, leading to **psychiatric disorders, psychosis, and critical organ failure**.",
+    "section_id": null
+  },
+  {
+    "question_number": 174,
+    "subject": "National Values Education",
+    "topic": "Meaning and Consequences of Drug Abuse and Harmful Substances",
+    "question_text": "How does widespread drug abuse primarily affect the **Community**?",
+    "options": {
+      "a": "It increases the number of highly skilled artisans",
+      "b": "It fosters positive peace and harmony",
+      "c": "It leads to a surge in crime rates, violent gang clashes, and insecurity",
+      "d": "It results in cheaper agricultural food products"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Within the community, drug addicts often resort to theft, armed robbery, and violence to fund their expensive addictions, causing a drastic **increase in the crime rate and insecurity**.",
+    "section_id": null
+  },
+  {
+    "question_number": 175,
+    "subject": "National Values Education",
+    "topic": "Meaning and Consequences of Drug Abuse and Harmful Substances",
+    "question_text": "At the **national level**, what macroeconomic damage does heavy substance abuse inflict on the country?",
+    "options": {
+      "a": "It boosts national tax revenues through illegal sales",
+      "b": "It depletes the nation's energetic youth workforce, thereby severely retarding economic productivity",
+      "c": "It forces foreign governments to send free money to the country",
+      "d": "It drastically increases life expectancy averages"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Because youths (the most productive demographic) are disproportionately affected by drug abuse, the nation suffers a severe **loss of human resources and workforce**, paralyzing economic growth.",
+    "section_id": null
+  },
+  {
+    "question_number": 176,
+    "subject": "National Values Education",
+    "topic": "Meaning and Consequences of Drug Abuse and Harmful Substances",
+    "question_text": "Consider the consequences of drug trafficking and abuse on the **International Community** level. Which of the following best represents this?",
+    "options": {
+      "a": "Harmonious cross-border cultural festivals",
+      "b": "Strained diplomatic relationships, international sanctions, and harsh border controls for the country's citizens",
+      "c": "Establishment of a single global currency",
+      "d": "Universal eradication of poverty"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A nation known for producing and trafficking drug abusers suffers from severe diplomatic backlash, including **sanctions, strained relationships, and harsh scrutiny** by the international community.",
+    "section_id": null
+  },
+  {
+    "question_number": 177,
+    "subject": "National Values Education",
+    "topic": "Meaning and Consequences of Drug Abuse and Harmful Substances",
+    "question_text": "Mathematical logic: If $ \\text{Abuse} \\rightarrow \\text{Addiction} $, and $ \\text{Addiction} \\rightarrow \\text{Desperation for Funds} $, what is the ultimate societal output?",
+    "options": {
+      "a": "Communal labour and charity",
+      "b": "Rise in theft, corruption, and communal insecurity",
+      "c": "Better social justice",
+      "d": "Mass graduation of university students"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Desperation to fund an addiction frequently pushes individuals to steal from their families or engage in armed robbery, directly increasing **theft and communal insecurity**.",
+    "section_id": null
+  },
+  {
+    "question_number": 178,
+    "subject": "National Values Education",
+    "topic": "Meaning and Consequences of Drug Abuse and Harmful Substances",
+    "question_text": "One of the consequences of drug abuse on the **individual** is 'Social Isolation'. What does this mean?",
+    "options": {
+      "a": "The individual is celebrated by their community leaders",
+      "b": "The individual is sent to an expensive boarding school",
+      "c": "The individual is stigmatized, shunned by society, and abandoned by friends and family due to erratic behavior",
+      "d": "The individual successfully campaigns for political office"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Addicts display destructive, erratic behaviors that eventually exhaust the patience of relatives and friends, leading to **stigmatization and social isolation**.",
+    "section_id": null
+  },
+  {
+    "question_number": 179,
+    "subject": "National Values Education",
+    "topic": "Dangers of Drug Trafficking",
+    "question_text": "In the process of discouraging drug abuse, developing **Communication Skills** is vital because it allows youths to:",
+    "options": {
+      "a": "Effectively articulate their feelings and distress to parents or counselors instead of using drugs to cope",
+      "b": "Secretly message drug cartels online without being caught",
+      "c": "Learn multiple foreign languages for international trafficking",
+      "d": "Incite violent mass actions on social media platforms"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Communication skills** help youths build strong support networks. They can express their emotional pains or stressors to trusted adults, rather than resorting to substance abuse as an outlet.",
+    "section_id": null
+  },
+  {
+    "question_number": 180,
+    "subject": "National Values Education",
+    "topic": "Meaning and Consequences of Drug Abuse and Harmful Substances",
+    "question_text": "A societal effect of chronic drug abuse on the nation's healthcare system is that it:",
+    "options": {
+      "a": "Provides an abundance of cheap medicine",
+      "b": "Reduces the number of people who fall sick annually",
+      "c": "Overburdens hospitals and psychiatric facilities, diverting national resources meant for other development",
+      "d": "Eliminates the need for professional doctors"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The nation spends immense sums treating addiction-related illnesses, which heavily **overburdens psychiatric facilities and drains healthcare resources**.",
+    "section_id": null
+  },
+  {
+    "question_number": 181,
+    "subject": "National Values Education",
+    "topic": "Meaning and Consequences of Drug Abuse and Harmful Substances",
+    "question_text": "Which of the following illicit substances is commonly abused by youths and is notorious for altering perception and causing severe hallucination and psychotic episodes?",
+    "options": {
+      "a": "Vitamin C supplements",
+      "b": "Marijuana (Indian Hemp) and Cocaine",
+      "c": "Anti-malarial drugs",
+      "d": "Iodized salt"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Marijuana, cocaine, and heroin** are hard, illicit psychoactive substances strictly prohibited by law because of their severe hallucinogenic and addictive properties.",
+    "section_id": null
+  },
+  {
+    "question_number": 182,
+    "subject": "National Values Education",
+    "topic": "Dangers of Drug Trafficking",
+    "question_text": "When comparing positive group behaviour to the actions of a drug cartel, a cartel is a prime example of a group exhibiting:",
+    "options": {
+      "a": "Destructive (negative) group behaviour",
+      "b": "Constructive (positive) group behaviour",
+      "c": "Legitimate communal labour",
+      "d": "Mass action for social justice"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Because a cartel's activities directly inflict addiction, violence, and death upon society, it represents the epitome of **destructive (negative) group behaviour**.",
+    "section_id": null
+  },
+  {
+    "question_number": 183,
+    "subject": "National Values Education",
+    "topic": "Preventing Drug Trafficking",
+    "question_text": "The international tool used by the International Community to track and arrest drug traffickers who flee from one country to another is:",
+    "options": {
+      "a": "The World Health Organization",
+      "b": "INTERPOL (International Criminal Police Organization) and Extradition Treaties",
+      "c": "The Red Cross Society",
+      "d": "The World Trade Organization"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "**INTERPOL** and **Extradition Treaties** are the primary international mechanisms that allow nations to collaborate, track fugitives, and legally transfer traffickers back to face prosecution.",
+    "section_id": null
+  },
+  {
+    "question_number": 184,
+    "subject": "National Values Education",
+    "topic": "Meaning and Consequences of Drug Abuse and Harmful Substances",
+    "question_text": "Identify the incorrect statement regarding the consequences of drug abuse:",
+    "options": {
+      "a": "It ruins the academic pursuit of students due to loss of memory and expulsion",
+      "b": "It fosters greater trust and harmony within the family as relatives support the addict",
+      "c": "It leads to immense financial ruin for the individual",
+      "d": "It exposes users to deadly infections like HIV/AIDS if using shared needles"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Drug abuse does NOT foster trust. Instead, it severely **weakens family love**, creates mistrust (due to lying and stealing), and shatters the peace within the home.",
+    "section_id": null
+  },
+  {
+    "question_number": 185,
+    "subject": "National Values Education",
+    "topic": "Preventing Drug Trafficking",
+    "question_text": "Examine the role of the government in drug trafficking prevention. While *legislation* passes the laws, what handles the physical arrest, intelligence gathering, and drug confiscation?",
+    "options": {
+      "a": "The mass media",
+      "b": "Law Enforcement Agencies (e.g., NDLEA, Police)",
+      "c": "Religious organizations",
+      "d": "The local government chairman"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Law enforcement agencies** are strictly tasked with the executive duties of gathering intelligence, executing arrests, and confiscating illegal substances on behalf of the state.",
+    "section_id": null
+  },
+  {
+    "question_number": 186,
+    "subject": "National Values Education",
+    "topic": "Dangers of Drug Trafficking",
+    "question_text": "If a brilliant university graduate cannot find employment and subsequently decides to ferry hard drugs across the border to survive, what fundamental reason for trafficking is demonstrated?",
+    "options": {
+      "a": "Ignorance",
+      "b": "Poverty and Unemployment",
+      "c": "Psychological fitness",
+      "d": "Tolerance"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The scenario perfectly depicts how systemic **Poverty and Unemployment** breed desperation, pushing even educated individuals into illicit trades to secure a livelihood.",
+    "section_id": null
+  },
+  {
+    "question_number": 187,
+    "subject": "National Values Education",
+    "topic": "Meaning and Consequences of Drug Abuse and Harmful Substances",
+    "question_text": "When a youth learns a coping skill described as \"The ability to make rational, deeply thought-out choices after weighing the pros and cons of an action\", this specific skill is:",
+    "options": {
+      "a": "Decision making skill",
+      "b": "Resistance skill",
+      "c": "Vocational skill",
+      "d": "Communal skill"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Decision making skill** involves critical thinking; weighing the temporary pleasure of a drug against the permanent destruction of one's future, leading to the rational choice to abstain.",
+    "section_id": null
+  },
+  {
+    "question_number": 188,
+    "subject": "National Values Education",
+    "topic": "Meaning and Consequences of Drug Abuse and Harmful Substances",
+    "question_text": "Often, addicts suffer from sudden heart attacks resulting in immediate death, despite being young. This fatal reality is heavily associated with the abuse of strong central nervous system stimulants like:",
+    "options": {
+      "a": "Paracetamol",
+      "b": "Cocaine",
+      "c": "Water",
+      "d": "Cough syrup in prescribed doses"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Cocaine** is a potent illicit stimulant that dramatically increases heart rate and blood pressure, notoriously causing sudden cardiac arrests and organ failure even in youths.",
+    "section_id": null
+  },
+  {
+    "question_number": 189,
+    "subject": "National Values Education",
+    "topic": "Preventing Drug Trafficking",
+    "question_text": "A comprehensive national strategy mapped to eliminate drug trafficking incorporates $E+L+A+I$. If $E=$ Education, $L=$ Legislation, and $I=$ International Community, what does $A$ stand for according to the syllabus?",
+    "options": {
+      "a": "Abuse of substance",
+      "b": "Age Grade enforcement",
+      "c": "Alleviation of Poverty",
+      "d": "Aggressive warfare"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "The prevention parameters taught are Education, Legislation, **Alleviation of poverty ($A$)**, and International Community support.",
+    "section_id": null
+  },
+  {
+    "question_number": 190,
+    "subject": "National Values Education",
+    "topic": "Meaning and Consequences of Drug Abuse and Harmful Substances",
+    "question_text": "In conclusion of the Social and Health Issues curriculum, preserving one's dignity, staying drug-free, and acquiring healthy coping skills fulfills the ultimate objective of making the student a:",
+    "options": {
+      "a": "Wealthy foreign expatriate",
+      "b": "Good citizen, capable of contributing positively to societal development",
+      "c": "Member of a destructive group",
+      "d": "Mastermind of an international cartel"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The ultimate aim of all these preventative teachings is to mold the youth into a **good citizen**, free of harmful addictions, who is willing and physically capable of contributing to the society's progress.",
+    "section_id": null
+  }
+]
