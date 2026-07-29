@@ -1,0 +1,1986 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Who is God?",
+    "question_text": "Which of the following best describes the attributes of God in Christian belief?",
+    "options": {
+      "a": "He is limited by time and space.",
+      "b": "He is omnipotent, omniscient, and omnipresent.",
+      "c": "He is created by early humans.",
+      "d": "He is a physical being living on earth."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "God is the Supreme Being who is all-powerful (**omnipotent**), all-knowing (**omniscient**), and present everywhere (**omnipresent**).",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Who is God?",
+    "question_text": "In the Igbo language, God is commonly referred to as *Chukwu* or *Chineke*. What does 'Chineke' specifically mean?",
+    "options": {
+      "a": "The God who creates",
+      "b": "The God of thunder",
+      "c": "The king of kings",
+      "d": "The ancient of days"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "In the Igbo language, **Chineke** translates to 'The God who creates' or 'The Creator', reflecting God's attribute as the origin of all things.",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Who is God?",
+    "question_text": "Which of the following is **NOT** considered one of the attributes of God?",
+    "options": {
+      "a": "Omnipotent",
+      "b": "Mortal",
+      "c": "Omnipresent",
+      "d": "Eternal"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "God is immortal and eternal. **Mortal** refers to beings subject to death, which does not apply to the Christian concept of God.",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Who is God?",
+    "question_text": "What is the traditional name for God in the Hausa language?",
+    "options": {
+      "a": "Olodumare",
+      "b": "Abasi",
+      "c": "Ubangiji",
+      "d": "Osolobrugwe"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "In the Hausa language, God is referred to as **Ubangiji**, which means the Supreme Lord or Master.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Who is God?",
+    "question_text": "The Yoruba name for God, *Olodumare*, emphasizes that God is ____________.",
+    "options": {
+      "a": "The Almighty and Supreme Being",
+      "b": "The god of the sky and stars",
+      "c": "The spirit of the ancestors",
+      "d": "The ruler of the underworld"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Olodumare** is the traditional Yoruba name for God, representing Him as the Almighty, Supreme Being, and Creator of the universe.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Who is God?",
+    "question_text": "When Christians say God is 'Omniscient', it means that He ____________.",
+    "options": {
+      "a": "has all power",
+      "b": "is present everywhere",
+      "c": "knows everything",
+      "d": "is full of mercy"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The attribute **Omniscient** is derived from Latin words meaning 'all-knowing'. It means God knows everything—past, present, and future.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Who is God?",
+    "question_text": "Which attribute of God shows that He can do all things and nothing is impossible for Him?",
+    "options": {
+      "a": "Omnipresence",
+      "b": "Omnipotence",
+      "c": "Omniscience",
+      "d": "Immutability"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Omnipotence** means all-powerful. It describes God's ability to do anything that is consistent with His holy nature.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Who is God?",
+    "question_text": "Why do different Nigerian languages have unique names for God?",
+    "options": {
+      "a": "Because early missionaries invented these names.",
+      "b": "Because Nigerians worship different gods.",
+      "c": "To show that the knowledge of the Supreme Being existed in local cultures before Christianity.",
+      "d": "To confuse people from other tribes."
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "The existence of indigenous names for God (like *Chukwu*, *Olodumare*, *Ubangiji*) demonstrates that various ethnic groups already had an understanding and revelation of the Supreme Being prior to the arrival of Western missionaries.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: God's Creation",
+    "question_text": "According to the biblical account of creation in Genesis 1, what did God create on the first day?",
+    "options": {
+      "a": "The sun, moon, and stars",
+      "b": "Light",
+      "c": "Land animals",
+      "d": "The firmament"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "In **Genesis 1:3**, God said, 'Let there be light,' and there was light. This occurred on the **first day** of creation.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: God's Creation",
+    "question_text": "How did God bring the universe into existence according to the Genesis account?",
+    "options": {
+      "a": "By physically molding the earth with His hands",
+      "b": "Through the spoken word",
+      "c": "By combining water and fire",
+      "d": "Through a slow process of evolution"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Throughout Genesis 1, God created the universe primarily through the **spoken word** (e.g., 'And God said...').",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: God's Creation",
+    "question_text": "On which day did God create human beings, according to Genesis chapter 1?",
+    "options": {
+      "a": "Third day",
+      "b": "Fourth day",
+      "c": "Fifth day",
+      "d": "Sixth day"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "According to **Genesis 1:26-31**, God created land animals and human beings (male and female) on the **sixth day**.",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: God's Creation",
+    "question_text": "What was the initial state of the earth before God began the work of creation? (Genesis 1:2)",
+    "options": {
+      "a": "It was filled with prehistoric animals.",
+      "b": "It was formless and void, and darkness covered the deep.",
+      "c": "It was a beautiful garden with no inhabitants.",
+      "d": "It was entirely covered with dry land."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Genesis 1:2** states: 'The earth was without form and void, and darkness was over the face of the deep.'",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: God's Creation",
+    "question_text": "According to Genesis 2, how did God give life to the first man after forming him from the dust of the ground?",
+    "options": {
+      "a": "He gave him fruit from the Tree of Life to eat.",
+      "b": "He commanded angels to wake him up.",
+      "c": "He breathed into his nostrils the breath of life.",
+      "d": "He washed him in the river of Eden."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Genesis 2:7** explains that after forming man from the dust, God 'breathed into his nostrils the breath of life, and the man became a living creature.'",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: God's Creation",
+    "question_text": "God created the sun, moon, and stars on the fourth day. What was their primary purpose according to Genesis?",
+    "options": {
+      "a": "To give light to the earth and separate day from night",
+      "b": "To serve as homes for the angels",
+      "c": "To provide warmth for the animals",
+      "d": "To dry up the waters and create land"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "In **Genesis 1:14-15**, God created the celestial lights 'to separate the day from the night' and 'to give light upon the earth'.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: God's Creation",
+    "question_text": "What did God do on the seventh day of the creation week?",
+    "options": {
+      "a": "He created Eve.",
+      "b": "He planted the Garden of Eden.",
+      "c": "He rested from all His work.",
+      "d": "He made a covenant with Adam."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "According to **Genesis 2:2-3**, God finished His work and **rested on the seventh day**, blessing it and making it holy.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: God's Creation",
+    "question_text": "What is the primary theme of songs about creation sung in English and different Nigerian languages?",
+    "options": {
+      "a": "To mourn the fall of man",
+      "b": "To praise and acknowledge God's awesome power as the Creator",
+      "c": "To teach people how to farm",
+      "d": "To remember the history of early missionaries"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Creation songs are hymns of **adoration and praise** that celebrate the beauty of nature and acknowledge God's absolute sovereignty and creative power.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: God's Creation",
+    "question_text": "After creating all things, God looked at everything He had made. How did He describe it in Genesis 1:31?",
+    "options": {
+      "a": "He said it was acceptable.",
+      "b": "He saw that it was very good.",
+      "c": "He felt it needed improvement.",
+      "d": "He declared it completely perfect and unchangeable."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "In **Genesis 1:31**, 'God saw everything that he had made, and behold, it was **very good**.'",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: God's Creation",
+    "question_text": "According to Genesis 2, why did God create the woman (Eve)?",
+    "options": {
+      "a": "To compete with the man for leadership.",
+      "b": "To be a suitable helper and companion for the man.",
+      "c": "To rule over the animals in the sea.",
+      "d": "To discover fire for the man."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "In **Genesis 2:18**, God said, 'It is not good that the man should be alone; I will make him a **helper fit for him**.'",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Human beings share in God's creative activities",
+    "question_text": "One major way human beings biologically share in God's creative activity is through ____________.",
+    "options": {
+      "a": "praying continuously",
+      "b": "fasting for forty days",
+      "c": "marriage and procreation",
+      "d": "studying the Bible"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "According to the CRS syllabus based on Genesis 1:28, human beings share in God's ongoing creative work through **marriage and procreation**—bringing new life into the world.",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Human beings share in God's creative activities",
+    "question_text": "Which of the following is an example of things invented by human beings, demonstrating their share in God's creative wisdom?",
+    "options": {
+      "a": "Mountains and valleys",
+      "b": "Aeroplanes and buildings",
+      "c": "Stars and planets",
+      "d": "Rivers and oceans"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "While God created the natural universe (mountains, stars, rivers), He endowed humanity with intelligence and creativity. Things like **aeroplanes, cars, and buildings** are inventions by humans, reflecting the creative image of God.",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Human beings share in God's creative activities",
+    "question_text": "According to the biblical command in Genesis 1:28, which of the following is a primary purpose of marriage?",
+    "options": {
+      "a": "To acquire wealth and properties",
+      "b": "To establish political power",
+      "c": "To be fruitful, multiply, and fill the earth",
+      "d": "To compete with God's authority"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "In **Genesis 1:28**, God blessed the first human beings and said to them, 'Be fruitful and multiply and fill the earth,' which points to **procreation** as a key purpose of marriage.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Human beings share in God's creative activities",
+    "question_text": "In the New Testament, Jesus demonstrated His support and blessing for marriage by attending a wedding ceremony. Where did this take place? (John 2:1)",
+    "options": {
+      "a": "Jerusalem",
+      "b": "Cana in Galilee",
+      "c": "Bethlehem of Judea",
+      "d": "Capernaum"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "According to **John 2:1**, Jesus and His disciples attended a wedding in **Cana in Galilee**, where He performed His first miracle by turning water into wine, thereby honouring the marriage institution.",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Human beings share in God's creative activities",
+    "question_text": "According to Genesis 2:24, what is the biblical definition of the physical and spiritual union in marriage?",
+    "options": {
+      "a": "A man and a woman agreeing to share finances",
+      "b": "A man leaving his parents to cleave to his wife, and they become one flesh",
+      "c": "Two families uniting to build a community",
+      "d": "A man taking dominance over a woman"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Genesis 2:24** states: 'Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become **one flesh**.'",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Human beings share in God's creative activities",
+    "question_text": "Apostle Paul's teaching in Ephesians 5:21-31 emphasizes a specific responsibility in marriage. Husbands are instructed to ____________ their wives.",
+    "options": {
+      "a": "dominate and control",
+      "b": "love",
+      "c": "ignore",
+      "d": "fear"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "In **Ephesians 5:25**, Paul instructs, 'Husbands, **love** your wives, as Christ loved the church and gave himself up for her.'",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Human beings share in God's creative activities",
+    "question_text": "One of the modern social and health benefits of fidelity in a Christian marriage is the prevention of ____________.",
+    "options": {
+      "a": "genetic mutations",
+      "b": "poverty and hunger",
+      "c": "STDs and HIV/AIDS",
+      "d": "malaria and typhoid"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The CRS syllabus highlights that one purpose of marriage is preventing sexual immorality, which in turn helps in the prevention of Sexually Transmitted Diseases (**STDs**) and **HIV/AIDS**.",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Human beings share in God's creative activities",
+    "question_text": "When humans invent things like cars, aeroplanes, and architecture, they are essentially ____________.",
+    "options": {
+      "a": "going against God's natural order",
+      "b": "sharing in God's creative activities using the intellect He gave them",
+      "c": "trying to reach heaven to challenge God",
+      "d": "relying on evil spirits for wisdom"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Human inventions reflect the image of God in man. By creating tools and infrastructure, humans use their God-given wisdom and therefore **share in God's creative activities**.",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Human beings share in God's creative activities",
+    "question_text": "Which of the following is NOT a fundamental purpose of marriage according to Christian teachings?",
+    "options": {
+      "a": "Companionship",
+      "b": "Procreation",
+      "c": "Preventing immorality",
+      "d": "Evading civil taxes"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "The recognized purposes of marriage include companionship, procreation, and preventing immorality. **Evading taxes** is illegal and completely unrelated to biblical marriage.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Human beings share in God's creative activities",
+    "question_text": "Before God created Eve, He noted that it was not good for man to be ____________.",
+    "options": {
+      "a": "hungry",
+      "b": "alone",
+      "c": "idle",
+      "d": "naked"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "In **Genesis 2:18**, God said, 'It is not good that the man should be **alone**; I will make him a helper fit for him.' This highlights companionship as a key reason for marriage.",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Disobedience",
+    "question_text": "What act constituted the first human disobedience in the Garden of Eden?",
+    "options": {
+      "a": "Killing animals for food",
+      "b": "Building a tower to reach heaven",
+      "c": "Eating the fruit of the tree of the knowledge of good and evil",
+      "d": "Fighting with each other"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The first act of disobedience occurred when Adam and Eve ate from the **tree of the knowledge of good and evil**, explicitly violating God's command in Genesis 2:17.",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Disobedience",
+    "question_text": "Who deceived Eve into eating the forbidden fruit?",
+    "options": {
+      "a": "Adam",
+      "b": "The Serpent",
+      "c": "An Angel",
+      "d": "Cain"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "According to **Genesis 3:1-5**, the **serpent** deceived Eve by twisting God's words and convincing her that she would not die if she ate the fruit.",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Disobedience",
+    "question_text": "What was the consequence of disobedience specifically pronounced upon the serpent in Genesis 3:14?",
+    "options": {
+      "a": "It would be cast into a lake of fire.",
+      "b": "It would crawl on its belly and eat dust all the days of its life.",
+      "c": "It would lose its voice forever.",
+      "d": "It would become the servant of Adam."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "God cursed the serpent, saying: 'Upon your belly you shall go, and dust you shall eat all the days of your life' (**Genesis 3:14**).",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Disobedience",
+    "question_text": "As a consequence of the first disobedience, what punishment was given to the woman? (Genesis 3:16)",
+    "options": {
+      "a": "She would be banished to the desert.",
+      "b": "She would experience multiplied pain in childbearing.",
+      "c": "She would lose her ability to speak.",
+      "d": "She would turn into a pillar of salt."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "To the woman, God said: 'I will surely multiply your pain in childbearing; in pain you shall bring forth children' (**Genesis 3:16**).",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Disobedience",
+    "question_text": "What punishment did God declare upon the man (Adam) for his disobedience? (Genesis 3:17-19)",
+    "options": {
+      "a": "He would never be able to eat fruit again.",
+      "b": "The ground was cursed, and he would eat bread by the sweat of his face until he returned to the dust.",
+      "c": "He would become a wanderer on the earth like Cain.",
+      "d": "He would be blind for the rest of his life."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "God told Adam that because he listened to his wife and ate the forbidden fruit, the ground was cursed, and he would have to toil and **sweat for his food** until death (**Genesis 3:17-19**).",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Disobedience",
+    "question_text": "Immediately after eating the forbidden fruit, what was the first realization Adam and Eve had?",
+    "options": {
+      "a": "They realized they were naked and felt ashamed.",
+      "b": "They realized they possessed all of God's power.",
+      "c": "They realized the garden was shrinking.",
+      "d": "They realized they could fly."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Genesis 3:7** states: 'Then the eyes of both were opened, and they knew that they were naked. And they sewed fig leaves together and made themselves loincloths.'",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Disobedience",
+    "question_text": "Which of the following best defines 'disobedience' in a Christian context?",
+    "options": {
+      "a": "Failing an examination at school",
+      "b": "Refusing or failing to obey God's laws and instructions",
+      "c": "Having a disagreement with a friend",
+      "d": "Accidentally breaking a valuable item"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "In Christian teaching, **disobedience** specifically means the intentional refusal or failure to follow the rules, laws, and instructions given by God or constituted authority.",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Disobedience",
+    "question_text": "Just as the first human disobedience brought consequences, disobedience to school rules and parents today often leads to ____________.",
+    "options": {
+      "a": "promotions and awards",
+      "b": "immediate wealth",
+      "c": "punishments and broken trust",
+      "d": "automatic forgiveness without correction"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Every act of disobedience has consequences. In modern contexts like school or family, disobedience results in **punishment, discipline, and broken trust**, reflecting the principle seen in Genesis.",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Reconciliation",
+    "question_text": "What is the meaning of 'Reconciliation' in Christian Religious Studies?",
+    "options": {
+      "a": "Seeking revenge against those who offended you",
+      "b": "Ignoring people who have done you wrong",
+      "c": "The restoration of friendly relations and settling differences after a dispute",
+      "d": "Paying money to a judge to win a court case"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Reconciliation** means to make peace and restore a broken relationship between two or more parties after a misunderstanding or offense.",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Reconciliation",
+    "question_text": "In the Parable of the Prodigal Son (Luke 15), what was the vital first step the younger son took to reconcile with his father?",
+    "options": {
+      "a": "He sent his friends to plead for him.",
+      "b": "He bought gifts to bribe his father.",
+      "c": "He realized his mistake, repented, and decided to go back and confess his sins.",
+      "d": "He waited for his father to apologize to him first."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A key condition for reconciliation is genuine repentance. The prodigal son 'came to himself', recognized his sin, and decided to return home to confess and seek his father's forgiveness (**Luke 15:17-18**).",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Reconciliation",
+    "question_text": "In Genesis 33, when Jacob and Esau met after many years of enmity, how did Esau react?",
+    "options": {
+      "a": "He ordered his men to attack Jacob.",
+      "b": "He refused to look at Jacob and walked away.",
+      "c": "He demanded half of Jacob's wealth as compensation.",
+      "d": "He ran to meet Jacob, embraced him, fell on his neck, and kissed him."
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "**Genesis 33:4** vividly describes the reconciliation: 'But Esau ran to meet him and embraced him and fell on his neck and kissed him, and they wept.'",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Reconciliation",
+    "question_text": "Which of the following actions demonstrates a good way of reconciling with an offender?",
+    "options": {
+      "a": "Refusing to speak to them until they suffer",
+      "b": "Gossiping about their mistake to others",
+      "c": "Initiating a peaceful dialogue and offering genuine forgiveness",
+      "d": "Demanding public humiliation before forgiving"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "True biblical reconciliation, modeled by characters like Esau, requires humility, open communication (**dialogue**), and **genuine forgiveness** rather than vindictiveness.",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Reconciliation",
+    "question_text": "In the Parable of the Prodigal Son (Luke 15), how did the father react when he saw his repentant son returning from afar?",
+    "options": {
+      "a": "He commanded his servants to lock the gates.",
+      "b": "He ran to him, embraced him, and kissed him.",
+      "c": "He demanded that the son return the money he wasted.",
+      "d": "He hid inside the house out of shame."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "According to **Luke 15:20**, the father was filled with compassion; he ran, threw his arms around his son's neck, and kissed him, showing perfect readiness for reconciliation.",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Reconciliation",
+    "question_text": "In Genesis 33:1-11, how did Jacob show his desire for peace and reconciliation before meeting his brother Esau?",
+    "options": {
+      "a": "He sent an army to intimidate Esau.",
+      "b": "He sent generous gifts of livestock ahead to find favor in Esau's sight.",
+      "c": "He set up a trap along the road.",
+      "d": "He disguised himself to avoid being recognized."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Jacob prepared for the meeting by sending droves of livestock as a gift ahead of him, instructing his servants to tell Esau it was a present to find favor in his sight (**Genesis 32-33**).",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Reconciliation",
+    "question_text": "Which of the following is a highly necessary condition for true reconciliation to take place?",
+    "options": {
+      "a": "Stubbornness",
+      "b": "Hypocrisy",
+      "c": "Forgiveness",
+      "d": "Retaliation"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "True reconciliation cannot happen without **forgiveness**. Both parties must be willing to forgive past wrongs and move forward in peace.",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "Christian Religious Studies",
+    "topic": "His Creation: Reconciliation",
+    "question_text": "What is the primary benefit of achieving reconciliation among conflicting parties?",
+    "options": {
+      "a": "Increased hatred and tension",
+      "b": "Restoration of peaceful co-existence and harmony",
+      "c": "Permanent separation of the two parties",
+      "d": "Financial compensation for the winner"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The ultimate goal of reconciliation is the **restoration of broken relationships**, leading to peaceful co-existence and renewed harmony.",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in the Family",
+    "question_text": "A family that consists strictly of a father, a mother, and their children is referred to as a ____________.",
+    "options": {
+      "a": "Nuclear family",
+      "b": "Extended family",
+      "c": "Blended family",
+      "d": "Foster family"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "A **nuclear family** is the basic family unit consisting only of parents (father and mother) and their direct offspring.",
+    "section_id": null
+  },
+  {
+    "question_number": 46,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in the Family",
+    "question_text": "Which of the following family members is part of the extended family rather than the nuclear family?",
+    "options": {
+      "a": "Mother",
+      "b": "Sister",
+      "c": "Brother",
+      "d": "Uncle"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "An **uncle** is outside the immediate parent-child unit, placing him in the extended family category, which also includes grandparents, aunts, and cousins.",
+    "section_id": null
+  },
+  {
+    "question_number": 47,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in the Family",
+    "question_text": "According to Ephesians 6:1-3, what is the primary duty of children towards their parents?",
+    "options": {
+      "a": "To provide financially for the parents",
+      "b": "To obey and honor them in the Lord",
+      "c": "To point out their parents' mistakes regularly",
+      "d": "To dictate the rules of the house"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Ephesians 6:1-2** commands: 'Children, **obey your parents** in the Lord, for this is right. Honor your father and mother...'",
+    "section_id": null
+  },
+  {
+    "question_number": 48,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in the Family",
+    "question_text": "Apostle Paul instructs wives in Ephesians 5:22 to do which of the following regarding their husbands?",
+    "options": {
+      "a": "Dominate their husbands in decision-making",
+      "b": "Compete with their husbands for leadership",
+      "c": "Submit to their own husbands as to the Lord",
+      "d": "Ignore their husbands' instructions"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "In **Ephesians 5:22**, Paul writes, 'Wives, **submit to your own husbands**, as to the Lord.'",
+    "section_id": null
+  },
+  {
+    "question_number": 49,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in the Family",
+    "question_text": "In Colossians 3:21, fathers are instructed not to provoke their children. What is the biblical reason given for this?",
+    "options": {
+      "a": "Lest the children report them to the authorities",
+      "b": "Lest they become discouraged",
+      "c": "Because children will physically fight back",
+      "d": "Because it will make the family poor"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Colossians 3:21** states, 'Fathers, do not provoke your children, **lest they become discouraged**.'",
+    "section_id": null
+  },
+  {
+    "question_number": 50,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in the Family",
+    "question_text": "According to Proverbs 22:1, a good family name is to be chosen rather than ____________.",
+    "options": {
+      "a": "long life",
+      "b": "great riches",
+      "c": "many children",
+      "d": "good health"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Proverbs 22:1** declares, 'A good name is to be chosen rather than **great riches**, and favor is better than silver or gold.'",
+    "section_id": null
+  },
+  {
+    "question_number": 51,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in the Family",
+    "question_text": "According to 1 Peter 3:7, husbands are commanded to live with their wives in an understanding way and to show them ____________.",
+    "options": {
+      "a": "honor",
+      "b": "strict discipline",
+      "c": "indifference",
+      "d": "fear"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**1 Peter 3:7** commands husbands to live with their wives in an understanding way, showing **honor** to the woman as the weaker vessel, since they are heirs with them of the grace of life.",
+    "section_id": null
+  },
+  {
+    "question_number": 52,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in the Family",
+    "question_text": "Why is protecting and maintaining a good family name important for a Christian youth?",
+    "options": {
+      "a": "It gives them a license to break civil laws.",
+      "b": "It fosters respect, trust in the community, and glorifies God.",
+      "c": "It guarantees immediate wealth without working.",
+      "d": "It automatically exempts them from school exams."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A good family name builds a positive reputation, which brings **respect and trust** from others and serves as a good testimony that glorifies God.",
+    "section_id": null
+  },
+  {
+    "question_number": 53,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in the Family",
+    "question_text": "In Ephesians 6:5-9, how are servants (or employees) commanded to perform their duties?",
+    "options": {
+      "a": "With eye-service as men-pleasers",
+      "b": "With constant grumbling and complaining",
+      "c": "With a sincere heart, as doing it for Christ",
+      "d": "By doing only the minimum amount required"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Apostle Paul instructs servants to obey their masters with fear and trembling, in **sincerity of heart**, as they would obey Christ, not by the way of eye-service (**Ephesians 6:5-6**).",
+    "section_id": null
+  },
+  {
+    "question_number": 54,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in the Family",
+    "question_text": "Which of the following is NOT an expected Christian role of parents toward their children?",
+    "options": {
+      "a": "Providing basic necessities like food and shelter",
+      "b": "Teaching them spiritual and moral values",
+      "c": "Encouraging them to seek revenge against their enemies",
+      "d": "Disciplining them with love"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Christian parents are expected to raise their children in the training and instruction of the Lord. **Seeking revenge** contradicts Christ's teaching on forgiveness and love.",
+    "section_id": null
+  },
+  {
+    "question_number": 55,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in School",
+    "question_text": "The school is an institution made up of various members. Who among the following generally represent the direct constituted authority of a school?",
+    "options": {
+      "a": "The junior students",
+      "b": "The local traders outside the gate",
+      "c": "The Principal and the teachers",
+      "d": "The parents living in the neighborhood"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "In a school community, the **Principal and teachers** make up the administration and constituted authority guiding the students.",
+    "section_id": null
+  },
+  {
+    "question_number": 56,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in School",
+    "question_text": "Which two biblical figures are often cited as the perfect example of true and loyal friendship, relevant to choosing good friends in school? (1 Sam. 18:1-5)",
+    "options": {
+      "a": "Cain and Abel",
+      "b": "David and Jonathan",
+      "c": "Jacob and Esau",
+      "d": "Joseph and his brothers"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "According to **1 Samuel 18:1**, 'the soul of Jonathan was knit to the soul of David, and Jonathan loved him as his own soul,' marking **David and Jonathan** as ideal examples of friendship.",
+    "section_id": null
+  },
+  {
+    "question_number": 57,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in School",
+    "question_text": "As a sign of their deep covenant of friendship in 1 Samuel 18:4, what did Jonathan give to David?",
+    "options": {
+      "a": "A field to farm sheep",
+      "b": "His robe, armor, sword, bow, and belt",
+      "c": "A collection of scrolls and psalms",
+      "d": "Thirty pieces of silver"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "**1 Samuel 18:4** states that Jonathan stripped himself of his **robe, armor, sword, bow, and belt**, and gave them to David as a pledge of their friendship.",
+    "section_id": null
+  },
+  {
+    "question_number": 58,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in School",
+    "question_text": "Regarding bad friendships, Proverbs 1:10 advises: 'My son, if sinners entice you, ____________.'",
+    "options": {
+      "a": "report them to the king",
+      "b": "join them just for a while",
+      "c": "do not consent",
+      "d": "fight them physically"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The wisdom in **Proverbs 1:10** warns youth against peer pressure by instructing clearly: 'My son, if sinners entice you, **do not consent**.'",
+    "section_id": null
+  },
+  {
+    "question_number": 59,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in School",
+    "question_text": "According to Paul’s teaching in 2 Thessalonians 3:6, what should Christian students do regarding a brother who is walking in idleness and not following proper tradition?",
+    "options": {
+      "a": "Keep away from him",
+      "b": "Give him money to survive",
+      "c": "Promote him to a leadership position",
+      "d": "Publicly insult his family"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**2 Thessalonians 3:6** commands believers 'in the name of our Lord Jesus Christ, that you **keep away** from any brother who is walking in idleness and not in accord with the tradition that you received from us.'",
+    "section_id": null
+  },
+  {
+    "question_number": 60,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in School",
+    "question_text": "Which of the following is a likely negative effect of keeping bad company as a student in school?",
+    "options": {
+      "a": "Becoming a high academic achiever",
+      "b": "Developing strong moral virtues",
+      "c": "Being lured into cultism, truancy, and examination malpractice",
+      "d": "Receiving a scholarship for good conduct"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Bad friendships often lead to negative behavioral changes such as **truancy, cultism, and examination malpractice**, ruining a student's future and reputation.",
+    "section_id": null
+  },
+  {
+    "question_number": 61,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in School",
+    "question_text": "Which of the following is an important and positive factor to consider when choosing friends at school?",
+    "options": {
+      "a": "Their parents' wealth and social status",
+      "b": "Their physical strength and ability to fight",
+      "c": "Their good character and mutual respect",
+      "d": "Their willingness to help you cheat in examinations"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Christian youths are encouraged to choose friends based on **good character, mutual respect, and positive influence**, rather than superficial factors like wealth or strength.",
+    "section_id": null
+  },
+  {
+    "question_number": 62,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in School",
+    "question_text": "According to biblical principles, how does associating with bad friends generally affect a Christian student?",
+    "options": {
+      "a": "It builds their spiritual strength and patience.",
+      "b": "It corrupts their good character and morals.",
+      "c": "It leads to faster academic promotion.",
+      "d": "It has no significant effect on them."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "As stated in 1 Corinthians 15:33, 'Bad company ruins good morals.' Associating with bad friends ultimately **corrupts a person's character**.",
+    "section_id": null
+  },
+  {
+    "question_number": 63,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in Community and Church",
+    "question_text": "In many traditional Nigerian communities, the recognized local leader who serves as the custodian of culture and community peace is usually called the ____________.",
+    "options": {
+      "a": "School Principal",
+      "b": "Church Deacon",
+      "c": "Traditional Ruler or Chief",
+      "d": "State Governor"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "At the grassroots community level, the **Traditional Ruler or Chief** (such as an Oba, Emir, or Igwe) is identified as the prominent community leader.",
+    "section_id": null
+  },
+  {
+    "question_number": 64,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in Community and Church",
+    "question_text": "Which of the following correctly pairs a Nigerian traditional leader's title with the region they lead?",
+    "options": {
+      "a": "Sultan - Sokoto",
+      "b": "Emir - Igboland",
+      "c": "Oba - Hausaland",
+      "d": "Igwe - Yorubaland"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "In identifying community leaders, the **Sultan of Sokoto** is a well-known traditional and religious leader in Northern Nigeria. The Oba is in Yorubaland, the Emir in Hausa/Fulani areas, and the Igwe in Igboland.",
+    "section_id": null
+  },
+  {
+    "question_number": 65,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in Community and Church",
+    "question_text": "Apostle Paul instructs Christians in Galatians 6:2 to sustain good relationships in the community by doing what?",
+    "options": {
+      "a": "Reporting each other to the authorities at every slight offense",
+      "b": "Bearing one another's burdens",
+      "c": "Avoiding any interactions with non-Christians",
+      "d": "Lending money only with high interest"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Galatians 6:2** says: '**Bear one another's burdens**, and so fulfill the law of Christ.' This is a practical way of sustaining community relationships.",
+    "section_id": null
+  },
+  {
+    "question_number": 66,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in Community and Church",
+    "question_text": "According to 1 Peter 3:8, Christians in the church are advised to have unity of mind, brotherly love, a tender heart, and a ____________.",
+    "options": {
+      "a": "vengeful spirit",
+      "b": "critical mind",
+      "c": "humble mind",
+      "d": "superior attitude"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**1 Peter 3:8** states: 'Finally, all of you, have unity of mind, sympathy, brotherly love, a tender heart, and a **humble mind**.'",
+    "section_id": null
+  },
+  {
+    "question_number": 67,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in Community and Church",
+    "question_text": "In Romans 13:1-7, what is the expected Christian attitude towards governing authorities in the community?",
+    "options": {
+      "a": "To rebel against them when policies are unfavorable",
+      "b": "To be subject to them, for they are instituted by God",
+      "c": "To obey them only if they belong to the same church",
+      "d": "To completely ignore civil laws and follow only church rules"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Romans 13:1** commands: 'Let every person **be subject to the governing authorities**. For there is no authority except from God, and those that exist have been instituted by God.'",
+    "section_id": null
+  },
+  {
+    "question_number": 68,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in Community and Church",
+    "question_text": "In Romans 12:17-21, Christians are urged to 'let love be genuine.' How should they treat others when facing evil or persecution?",
+    "options": {
+      "a": "Repay evil for evil immediately",
+      "b": "Overcome evil with good",
+      "c": "Avenge themselves in secret",
+      "d": "Curse their enemies in prayer"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Romans 12:21** concludes the chapter's teaching on community love by saying, 'Do not be overcome by evil, but **overcome evil with good**.'",
+    "section_id": null
+  },
+  {
+    "question_number": 69,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in Community and Church",
+    "question_text": "To build empathy and strong relationships in the church, believers are commanded in Romans 12:15 to do which of the following?",
+    "options": {
+      "a": "Rejoice with those who rejoice, weep with those who weep.",
+      "b": "Give financial aid only to the wealthy members.",
+      "c": "Publicly mock those who fall into sin.",
+      "d": "Mind only their personal business and ignore others."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Romans 12:15** teaches practical empathy in the church community: '**Rejoice with those who rejoice, weep with those who weep**.'",
+    "section_id": null
+  },
+  {
+    "question_number": 70,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in Community and Church",
+    "question_text": "According to Hebrews 10:25, what is a vital practice for maintaining a good relationship with fellow believers in the church?",
+    "options": {
+      "a": "Refusing to pay church offerings",
+      "b": "Not neglecting to meet together for fellowship",
+      "c": "Fasting every day of the week",
+      "d": "Attending a different church every Sunday"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Hebrews 10:25** warns Christians against '**neglecting to meet together**, as is the habit of some, but encouraging one another'.",
+    "section_id": null
+  },
+  {
+    "question_number": 71,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in Community and Church",
+    "question_text": "Which of the following behaviors strongly threatens peaceful relationships in a community?",
+    "options": {
+      "a": "Forgiveness",
+      "b": "Tolerance",
+      "c": "Gossip and backbiting",
+      "d": "Mutual respect"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "While forgiveness, tolerance, and respect build relationships, negative behaviors like **gossip and backbiting** create conflict and destroy community peace.",
+    "section_id": null
+  },
+  {
+    "question_number": 72,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship in Community and Church",
+    "question_text": "How can the church act as a positive and sustaining influence in the wider community?",
+    "options": {
+      "a": "By discriminating against non-members",
+      "b": "By actively participating in community development and showing practical love",
+      "c": "By inciting divisions among local political parties",
+      "d": "By isolating its members entirely from societal issues"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The church sustains good community relationships by being a light to the world—**participating in development, charity, and showing practical love** to everyone.",
+    "section_id": null
+  },
+  {
+    "question_number": 73,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship with God",
+    "question_text": "The primary way a Christian directly communicates their desires, gratitude, and worship to God is through ____________.",
+    "options": {
+      "a": "dreaming",
+      "b": "reading the news",
+      "c": "prayer",
+      "d": "giving to the poor"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Prayer** is the fundamental medium of two-way communication where a Christian talks to God, expresses needs, and offers gratitude.",
+    "section_id": null
+  },
+  {
+    "question_number": 74,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship with God",
+    "question_text": "In Acts 16:25, how did Paul and Silas maintain their relationship with God even while they were suffering in prison at midnight?",
+    "options": {
+      "a": "They were praying and singing hymns to God.",
+      "b": "They were planning a secret escape route.",
+      "c": "They were arguing and fighting with the jailer.",
+      "d": "They slept deeply to avoid the pain."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Acts 16:25** records: 'About midnight Paul and Silas were **praying and singing hymns to God**, and the prisoners were listening to them.'",
+    "section_id": null
+  },
+  {
+    "question_number": 75,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship with God",
+    "question_text": "Christians believe that God primarily speaks to them today and reveals His will and laws through ____________.",
+    "options": {
+      "a": "horoscopes and stars",
+      "b": "the Bible (His Word)",
+      "c": "traditional fortune tellers",
+      "d": "random social media posts"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Bible** is recognized as the inspired Word of God and is the primary way God speaks, instructs, and guides Christians.",
+    "section_id": null
+  },
+  {
+    "question_number": 76,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship with God",
+    "question_text": "According to the Christian faith, God often guides and instructs children practically through the godly advice and corrections given by their ____________.",
+    "options": {
+      "a": "pets",
+      "b": "enemies",
+      "c": "parents",
+      "d": "younger siblings"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "God uses human authorities to speak to us. For children and youths, **parents** are a primary channel through which God provides direction and correction.",
+    "section_id": null
+  },
+  {
+    "question_number": 77,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship with God",
+    "question_text": "During a church service, God's message is most commonly and formally delivered to the congregation through the ____________.",
+    "options": {
+      "a": "priests or preachers",
+      "b": "choir members",
+      "c": "church wardens",
+      "d": "security guards"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Ordained ministers, such as **priests or preachers**, have the responsibility of studying and teaching the Word, making them a key way God talks to the church.",
+    "section_id": null
+  },
+  {
+    "question_number": 78,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship with God",
+    "question_text": "Which of the following lifestyle choices is absolutely essential for a Christian to maintain a strong and unbroken relationship with God?",
+    "options": {
+      "a": "Seeking wealth at all costs",
+      "b": "Living a holy life",
+      "c": "Performing fake miracles to show off",
+      "d": "Attending church only on festive days like Christmas"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "God is holy, and the Bible commands believers to be holy. **Living a holy life** keeps a believer separated from sin and maintains an intimate relationship with God.",
+    "section_id": null
+  },
+  {
+    "question_number": 79,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship with God",
+    "question_text": "According to Christian teachings, to maintain a good relationship with God, a believer must also maintain a good relationship with fellow human beings by ____________.",
+    "options": {
+      "a": "keeping records of their wrongs",
+      "b": "avoiding people who make mistakes",
+      "c": "forgiving one another",
+      "d": "punishing them for every offense"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Christ taught that if we do not **forgive one another**, our heavenly Father will not forgive us (Matthew 6:14-15), showing that our relationship with God is tied to our forgiveness of others.",
+    "section_id": null
+  },
+  {
+    "question_number": 80,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship with God",
+    "question_text": "Engaging in daily prayer and reading the Bible are considered vital because they ____________.",
+    "options": {
+      "a": "help a Christian pass school exams without studying",
+      "b": "make a Christian famous in their community",
+      "c": "are ways to nourish the spirit and build a deeper relationship with God",
+      "d": "guarantee that the Christian will never face any earthly problems"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Daily prayer and Bible reading are spiritual disciplines that **nourish the spirit** and foster consistent communication, which deepens a believer's relationship with God.",
+    "section_id": null
+  },
+  {
+    "question_number": 81,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship with God",
+    "question_text": "Aside from prayer, which of the following is a vital way Christians actively express their love and maintain a good relationship with God during a church service?",
+    "options": {
+      "a": "Worshipping and praising God",
+      "b": "Discussing business strategies",
+      "c": "Voting for political candidates",
+      "d": "Sleeping quietly in the pews"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Active participation in **worshipping and praising God** through songs, thanksgiving, and adoration is a fundamental way Christians express their love and maintain their relationship with God.",
+    "section_id": null
+  },
+  {
+    "question_number": 82,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship with God",
+    "question_text": "In the school environment, God can guide and speak to students primarily through the godly counsel and instruction of their ____________.",
+    "options": {
+      "a": "classmates who break rules",
+      "b": "teachers",
+      "c": "textbook publishers",
+      "d": "janitors only"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Just as God uses parents at home and priests in the church, He uses **teachers** in the school environment to instruct, correct, and guide students.",
+    "section_id": null
+  },
+  {
+    "question_number": 83,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship with God",
+    "question_text": "Jesus taught that the greatest commandment is to ____________, which is the ultimate foundation of a Christian's relationship with the Creator.",
+    "options": {
+      "a": "love God with all your heart, soul, and mind",
+      "b": "build large church buildings",
+      "c": "fast twice every week without fail",
+      "d": "memorize the entire Old Testament"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "To maintain a perfect relationship with God, the foundational requirement is to **love God with all your heart, soul, and mind**, which Jesus declared as the first and greatest commandment (Matthew 22:37).",
+    "section_id": null
+  },
+  {
+    "question_number": 84,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship with God",
+    "question_text": "Doing good works and showing charity to the needy is considered a way of maintaining a relationship with God because ____________.",
+    "options": {
+      "a": "it earns a Christian enough money to be rich",
+      "b": "God commands us to love one another, and doing good to others reflects God's love",
+      "c": "it makes the community fear the church",
+      "d": "it replaces the need for prayer and Bible reading"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "According to biblical teaching, **doing good to others is a reflection of God's love**. As we love and help one another, we are demonstrating our obedience to and relationship with God.",
+    "section_id": null
+  },
+  {
+    "question_number": 85,
+    "subject": "Christian Religious Studies",
+    "topic": "Relationship with God and Man: Relationship with God",
+    "question_text": "How does 'living a holy life' help maintain a Christian's relationship with God?",
+    "options": {
+      "a": "It ensures the Christian will never fall sick.",
+      "b": "It separates the believer from sin, which normally creates a barrier between humans and a holy God.",
+      "c": "It forces God to answer every prayer exactly as requested.",
+      "d": "It allows the Christian to look down on non-believers."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Sin creates a barrier between God and humanity (Isaiah 59:2). Therefore, **living a holy life separates a believer from sin**, allowing for an unbroken, intimate relationship with a holy God.",
+    "section_id": null
+  },
+  {
+    "question_number": 86,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Obedience",
+    "question_text": "In Christian teaching, which of the following best describes the true meaning of 'Obedience'?",
+    "options": {
+      "a": "Doing whatever you feel is right at the moment",
+      "b": "Willingly submitting to and carrying out the commands or instructions of an authority",
+      "c": "Arguing with an instruction before eventually doing it",
+      "d": "Following rules only when people are watching"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Obedience** is the act of willingly and promptly submitting to the instructions, laws, or commands given by God or any constituted authority.",
+    "section_id": null
+  },
+  {
+    "question_number": 87,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Obedience",
+    "question_text": "In Genesis 12:1-3, God called Abram (Abraham) to leave his country and kindred. What was one of the major blessings God promised him for his obedience?",
+    "options": {
+      "a": "He would become the richest man in Egypt.",
+      "b": "God would make of him a great nation and bless him.",
+      "c": "He would never face a famine in his life.",
+      "d": "He would become a king over the entire earth."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Genesis 12:2** says: 'And **I will make of you a great nation, and I will bless you** and make your name great, so that you will be a blessing.'",
+    "section_id": null
+  },
+  {
+    "question_number": 88,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Obedience",
+    "question_text": "According to Genesis 12, Abraham demonstrated his obedience to God's call by leaving Haran at the age of ____________.",
+    "options": {
+      "a": "50 years",
+      "b": "75 years",
+      "c": "90 years",
+      "d": "100 years"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "**Genesis 12:4** records: 'Abram was **seventy-five years old** when he departed from Haran.'",
+    "section_id": null
+  },
+  {
+    "question_number": 89,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Obedience",
+    "question_text": "In Genesis 21:1-8, Abraham obeyed God regarding the birth of his promised son, Isaac, by doing what on the eighth day?",
+    "options": {
+      "a": "Offering him as a burnt offering",
+      "b": "Dedicating him in the temple at Jerusalem",
+      "c": "Circumcising him as God had commanded",
+      "d": "Sending him away with Hagar"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Genesis 21:4** states: 'And Abraham **circumcised his son Isaac when he was eight days old**, as God had commanded him.'",
+    "section_id": null
+  },
+  {
+    "question_number": 90,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Obedience",
+    "question_text": "God gave Abraham a very difficult test of obedience in Genesis 22:1-19. What did God ask him to do?",
+    "options": {
+      "a": "To go to war against five kings",
+      "b": "To give all his wealth to the poor",
+      "c": "To take his only son, Isaac, and offer him as a burnt offering",
+      "d": "To leave his wife Sarah and marry another woman"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "In **Genesis 22:2**, God tested Abraham by commanding him: 'Take your son, your only son Isaac, whom you love... and **offer him there as a burnt offering**.'",
+    "section_id": null
+  },
+  {
+    "question_number": 91,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Obedience",
+    "question_text": "To which land did God instruct Abraham to go to sacrifice Isaac?",
+    "options": {
+      "a": "The land of Moriah",
+      "b": "The land of Egypt",
+      "c": "The land of Canaan",
+      "d": "The land of Goshen"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Genesis 22:2** says: 'Go to the **land of Moriah**, and offer him there as a burnt offering on one of the mountains of which I shall tell you.'",
+    "section_id": null
+  },
+  {
+    "question_number": 92,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Obedience",
+    "question_text": "As Abraham was about to slay Isaac in obedience to God's command, an angel of the Lord stopped him. What did God provide as a substitute for the sacrifice?",
+    "options": {
+      "a": "A dove sitting in a tree",
+      "b": "A young bull grazing nearby",
+      "c": "A ram caught in a thicket by its horns",
+      "d": "A lamb sleeping on a rock"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "According to **Genesis 22:13**, Abraham looked up and saw 'a **ram, caught in a thicket by his horns**', which he took and offered as a burnt offering instead of his son.",
+    "section_id": null
+  },
+  {
+    "question_number": 93,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Obedience",
+    "question_text": "Because Abraham passed the ultimate test of obedience regarding Isaac, God swore an oath saying, 'in your offspring shall all the nations of the earth be blessed, because ____________.' (Genesis 22:18)",
+    "options": {
+      "a": "you have built an altar",
+      "b": "you have obeyed my voice",
+      "c": "you are a wealthy man",
+      "d": "Isaac was a strong boy"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Genesis 22:18** concludes the blessing by stating: '...and in your offspring shall all the nations of the earth be blessed, **because you have obeyed my voice**.'",
+    "section_id": null
+  },
+  {
+    "question_number": 94,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Freedom",
+    "question_text": "In a broad sense, what is the meaning of 'Freedom' as related to the biblical accounts?",
+    "options": {
+      "a": "The right to commit crimes without punishment",
+      "b": "Liberation from bondage, oppression, or slavery",
+      "c": "Living on an island all by oneself",
+      "d": "Refusing to obey any national laws"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Biblical **freedom** generally refers to liberation, deliverance, or redemption from physical slavery, oppression, or spiritual bondage to sin.",
+    "section_id": null
+  },
+  {
+    "question_number": 95,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Freedom",
+    "question_text": "Which of the following is an example of 'Spiritual Freedom'?",
+    "options": {
+      "a": "Being released from a physical prison cell",
+      "b": "A country gaining independence from colonial rule",
+      "c": "Being delivered from the bondage of sin and evil through Jesus Christ",
+      "d": "Having the right to vote in an election"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Spiritual freedom** refers to being set free from the spiritual power of sin, death, and the devil, in contrast to political or physical freedom.",
+    "section_id": null
+  },
+  {
+    "question_number": 96,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Freedom",
+    "question_text": "In Exodus 3:1-15, God called Moses to lead the Israelites to freedom. Where was Moses keeping the flock of Jethro when God appeared to him?",
+    "options": {
+      "a": "Mount Carmel",
+      "b": "Mount Horeb (the mountain of God)",
+      "c": "Mount Zion",
+      "d": "Mount Ararat"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "**Exodus 3:1** mentions that Moses led the flock to the west side of the wilderness and came to **Horeb, the mountain of God**.",
+    "section_id": null
+  },
+  {
+    "question_number": 97,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Freedom",
+    "question_text": "How did God visually manifest His presence to Moses when calling him to deliver Israel?",
+    "options": {
+      "a": "In a chariot of fire descending from the sky",
+      "b": "Through a whirlwind carrying a loud trumpet",
+      "c": "In a flame of fire out of the midst of a bush that was not consumed",
+      "d": "Through a pillar of cloud hovering over a river"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "According to **Exodus 3:2**, the angel of the Lord appeared to him in a **flame of fire out of the midst of a bush**, and though the bush was burning, it was not consumed.",
+    "section_id": null
+  },
+  {
+    "question_number": 98,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Freedom",
+    "question_text": "When Moses approached the burning bush, what was the very first instruction God gave him? (Exodus 3:5)",
+    "options": {
+      "a": "To take off his sandals because the ground was holy",
+      "b": "To immediately pack his bags and go to Egypt",
+      "c": "To write down everything he heard on stone tablets",
+      "d": "To wash his face in the nearby stream"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Exodus 3:5** says: 'Then he said, “Do not come near; **take your sandals off your feet**, for the place on which you are standing is holy ground.”'",
+    "section_id": null
+  },
+  {
+    "question_number": 99,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Freedom",
+    "question_text": "In Judges 4, which female prophetess and judge did God use to call the people of Israel to freedom from Jabin, king of Canaan?",
+    "options": {
+      "a": "Esther",
+      "b": "Ruth",
+      "c": "Deborah",
+      "d": "Miriam"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Deborah**, a prophetess and the wife of Lappidoth, was judging Israel at that time (Judges 4:4) and she initiated the military campaign to win their freedom.",
+    "section_id": null
+  },
+  {
+    "question_number": 100,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Freedom",
+    "question_text": "Who was the military commander that Deborah called and ordered to lead the Israelite army into battle for their freedom?",
+    "options": {
+      "a": "Gideon",
+      "b": "Samson",
+      "c": "Barak",
+      "d": "Joshua"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "According to **Judges 4:6**, Deborah summoned **Barak** the son of Abinoam and gave him the command from the Lord to gather his men and march to Mount Tabor to fight.",
+    "section_id": null
+  },
+  {
+    "question_number": 101,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Freedom",
+    "question_text": "In Judges 4, when Deborah delivered God's command to Barak to lead the army against their oppressors, what was Barak's condition for going to the battle?",
+    "options": {
+      "a": "He demanded half of the kingdom's wealth.",
+      "b": "He insisted that he be crowned king first.",
+      "c": "He said he would only go if Deborah went with him.",
+      "d": "He asked for an extra ten thousand men from Egypt."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "In **Judges 4:8**, Barak said to Deborah, 'If you will go with me, I will go, but if you will not go with me, I will not go.'",
+    "section_id": null
+  },
+  {
+    "question_number": 102,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Service",
+    "question_text": "In the Christian faith, which of the following best describes the meaning of 'Service'?",
+    "options": {
+      "a": "Forcing others to work for you without pay",
+      "b": "Selflessly using your time, energy, and talents to work for God and help humanity",
+      "c": "Attending church only on special occasions",
+      "d": "Seeking public recognition for doing minor tasks"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Service** involves dedicating oneself to the well-being of others and fulfilling God's purposes on earth, characterized by humility, selflessness, and dedication.",
+    "section_id": null
+  },
+  {
+    "question_number": 103,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Service",
+    "question_text": "According to Genesis 41:37-57, how did Joseph render a great service to Pharaoh and the nation of Egypt?",
+    "options": {
+      "a": "He built the first pyramid for Pharaoh.",
+      "b": "He led the Egyptian army to conquer Canaan.",
+      "c": "He accurately interpreted Pharaoh's dreams and successfully managed the nation's food supply during the seven years of famine.",
+      "d": "He taught the Egyptians how to read and write."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Joseph provided invaluable service by interpreting the dreams about the impending famine and devising an agricultural strategy that saved Egypt and surrounding nations (**Genesis 41:37-57**).",
+    "section_id": null
+  },
+  {
+    "question_number": 104,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Service",
+    "question_text": "How did Ruth demonstrate exemplary loyalty and service in the Bible? (Ruth 1:7-18)",
+    "options": {
+      "a": "By leaving her mother-in-law, Naomi, to find a richer husband",
+      "b": "By clinging to Naomi and choosing to serve her and the God of Israel even in poverty",
+      "c": "By betraying the Israelites to the Moabites",
+      "d": "By stealing grain from Boaz's field"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "In **Ruth 1:16**, Ruth refused to leave Naomi, saying, 'Where you go I will go... your people shall be my people, and your God my God,' showing deep loyalty and service.",
+    "section_id": null
+  },
+  {
+    "question_number": 105,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Service",
+    "question_text": "What major lesson can Christian youths learn from the service of Joseph and Ruth?",
+    "options": {
+      "a": "That serving others always makes you popular immediately",
+      "b": "That you should only serve those who are wealthy",
+      "c": "That faithful, selfless, and dedicated service ultimately brings God's reward and blessings",
+      "d": "That working hard is unnecessary if you pray enough"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Both Joseph and Ruth started from positions of hardship, but their **faithfulness and dedicated service** eventually resulted in great promotion and divine blessings.",
+    "section_id": null
+  },
+  {
+    "question_number": 106,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Service",
+    "question_text": "According to Apostle Peter's teaching in 1 Peter 2:18, how should servants conduct themselves toward their masters in the course of their service?",
+    "options": {
+      "a": "With all respect, not only to the good and gentle but also to the unjust",
+      "b": "By obeying only the masters who pay them highly",
+      "c": "By constantly rebelling until they are promoted",
+      "d": "By doing exactly the opposite of what they are told"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**1 Peter 2:18** commands: 'Servants, be subject to your masters with all respect, not only to the good and gentle but also to the unjust.'",
+    "section_id": null
+  },
+  {
+    "question_number": 107,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Service",
+    "question_text": "1 Peter 2:19-21 indicates that in a life of God's service, enduring sorrow while suffering unjustly is ____________.",
+    "options": {
+      "a": "a sign of God's curse",
+      "b": "a gracious thing in the sight of God",
+      "c": "proof of weak faith",
+      "d": "a reason to abandon the Christian faith"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "**1 Peter 2:19-20** teaches that if one suffers for doing good and endures it patiently, this is a **gracious thing in the sight of God**, following the example set by Jesus Christ.",
+    "section_id": null
+  },
+  {
+    "question_number": 108,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Service",
+    "question_text": "In Genesis 39:7, what major problem or temptation did Joseph encounter while faithfully serving as an overseer in Potiphar's house?",
+    "options": {
+      "a": "The temptation to steal gold from his master's safe",
+      "b": "Seduction by Potiphar's wife",
+      "c": "Bribery by the king's cupbearer",
+      "d": "The temptation to worship Egyptian idols"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Genesis 39:7** records that after a time, his master's wife cast her eyes on Joseph and said, 'Lie with me,' presenting a major test of **seduction**.",
+    "section_id": null
+  },
+  {
+    "question_number": 109,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Service",
+    "question_text": "How did Joseph successfully overcome the problem of seduction in Potiphar's house?",
+    "options": {
+      "a": "He accepted it to avoid losing his job.",
+      "b": "He reported her immediately to the local police.",
+      "c": "He flatly refused, stating that it was a great wickedness and a sin against God, and eventually fled.",
+      "d": "He bribed her to keep quiet."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Joseph rejected her advances, saying, 'How then can I do this great wickedness and sin against God?' (**Genesis 39:9**), and when she caught his garment, he **fled**.",
+    "section_id": null
+  },
+  {
+    "question_number": 110,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Service",
+    "question_text": "In contemporary society, which of the following is considered a significant problem that hinders sincere service to humanity and the nation?",
+    "options": {
+      "a": "Punctuality",
+      "b": "Honesty",
+      "c": "Bribery and Corruption",
+      "d": "Dignity of labour"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Bribery and corruption** are severe modern problems that destroy the integrity of service, where individuals use positions meant for service for selfish gain.",
+    "section_id": null
+  },
+  {
+    "question_number": 111,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Service",
+    "question_text": "As a reward for his honest and spirit-filled service to Egypt, what did Pharaoh do to Joseph in Genesis 41:39-41?",
+    "options": {
+      "a": "Pharaoh gave him money and told him to return to Canaan.",
+      "b": "Pharaoh promoted him to be in charge of his house and over all the land of Egypt.",
+      "c": "Pharaoh freed him from prison but banished him.",
+      "d": "Pharaoh made him the chief military commander to fight the Assyrians."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Pharaoh **promoted Joseph**, setting him over all the land of Egypt as the second-in-command due to his wisdom and the Spirit of God in him.",
+    "section_id": null
+  },
+  {
+    "question_number": 112,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Service",
+    "question_text": "Besides physical promotion, which of the following is generally noted as a divine reward for dedicating one's life to God's service and keeping His commandments?",
+    "options": {
+      "a": "Unending financial crises",
+      "b": "Shortness of breath",
+      "c": "Long life and peace",
+      "d": "Guaranteed political victory"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The scriptures often promise that faithfully serving God and obeying His commandments brings blessings such as **long life**, peace, and divine favor (e.g., Proverbs 3:1-2).",
+    "section_id": null
+  },
+  {
+    "question_number": 113,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Service",
+    "question_text": "A believer facing challenges like bribery, corruption, or seduction in their place of service should remember that true service is ultimately rendered unto ____________.",
+    "options": {
+      "a": "themselves",
+      "b": "their direct supervisors only",
+      "c": "God",
+      "d": "the government alone"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Christians are taught to view their service and daily work as being done 'for the Lord and not for men' (Colossians 3:23), meaning their ultimate accountability is to **God**.",
+    "section_id": null
+  },
+  {
+    "question_number": 114,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Service",
+    "question_text": "Joseph wearing Pharaoh's signet ring, fine linen, and gold chain (Gen. 41:42) signifies that God rewards faithful service with ____________.",
+    "options": {
+      "a": "spiritual pride",
+      "b": "oppression of the poor",
+      "c": "promotion, honor, and authority",
+      "d": "the right to take revenge"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The royal gifts and elevation of Joseph visually and literally symbolize God rewarding faithful, diligent service with **promotion, honor, and authority**.",
+    "section_id": null
+  },
+  {
+    "question_number": 115,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Repentance",
+    "question_text": "In Christian teaching, what does it mean to undergo true 'Repentance'?",
+    "options": {
+      "a": "Feeling sorry about a mistake without intending to change",
+      "b": "Paying money to a priest for a pardon",
+      "c": "Having a genuine change of heart and mind that leads to turning away from sin",
+      "d": "Hiding a bad deed so no one finds out"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Repentance** involves a deep, genuine sorrow for sin coupled with a deliberate decision to turn away from that sin and seek God's forgiveness.",
+    "section_id": null
+  },
+  {
+    "question_number": 116,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Repentance",
+    "question_text": "Which prophet did God send to King David to confront him and call him to repentance over his sin with Bathsheba? (2 Samuel 12)",
+    "options": {
+      "a": "Elijah",
+      "b": "Nathan",
+      "c": "Samuel",
+      "d": "Isaiah"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "God sent the prophet **Nathan** to King David. Nathan used a parable about a rich man and a poor man's lamb to convict David of his sin.",
+    "section_id": null
+  },
+  {
+    "question_number": 117,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Repentance",
+    "question_text": "How did King David demonstrate his obedience to God's call to repentance after he was confronted by the prophet?",
+    "options": {
+      "a": "He ordered the prophet to be executed.",
+      "b": "He denied doing anything wrong.",
+      "c": "He confessed immediately, saying, 'I have sinned against the LORD.'",
+      "d": "He blamed Bathsheba for tempting him."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Unlike some other leaders, David immediately admitted his guilt. In **2 Samuel 12:13**, David said to Nathan, 'I have sinned against the LORD.'",
+    "section_id": null
+  },
+  {
+    "question_number": 118,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Repentance",
+    "question_text": "In Jonah 3:1-10, God called the inhabitants of a wicked city to repentance. What was the name of this city?",
+    "options": {
+      "a": "Sodom",
+      "b": "Gomorrah",
+      "c": "Babylon",
+      "d": "Nineveh"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "God sent Jonah to the great city of **Nineveh** to proclaim that it would be overthrown in forty days because of their wickedness.",
+    "section_id": null
+  },
+  {
+    "question_number": 119,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Repentance",
+    "question_text": "How did the people and the king of Nineveh react to God's message of impending destruction?",
+    "options": {
+      "a": "They mocked the prophet and threw him in prison.",
+      "b": "They believed God, proclaimed a fast, put on sackcloth, and turned from their evil ways.",
+      "c": "They decided to migrate to another land.",
+      "d": "They started a war against Israel."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Jonah 3:5-8** records that the people of Nineveh **believed God; they called for a fast and put on sackcloth**, and the king ordered everyone to turn from their evil ways.",
+    "section_id": null
+  },
+  {
+    "question_number": 120,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Repentance",
+    "question_text": "In the New Testament, who was the forerunner that came in the wilderness, urgently calling people to a 'baptism of repentance for the forgiveness of sins'? (Luke 3:1-3)",
+    "options": {
+      "a": "Apostle Peter",
+      "b": "John the Baptist",
+      "c": "Nicodemus",
+      "d": "Joseph of Arimathea"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**John the Baptist** appeared in the wilderness preaching a baptism of repentance to prepare the way for Jesus Christ.",
+    "section_id": null
+  },
+  {
+    "question_number": 121,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Repentance",
+    "question_text": "To show the practical nature of true repentance, what specific instruction did John the Baptist give to the tax collectors? (Luke 3:12-13)",
+    "options": {
+      "a": "To stop paying taxes to the Roman Emperor",
+      "b": "To collect no more than what they were authorized to do",
+      "c": "To quit their jobs and become fishermen",
+      "d": "To divide their wealth equally among the poor"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "In **Luke 3:13**, when the tax collectors asked what they should do, John told them, '**Collect no more than you are authorized to do**,' indicating that true repentance changes ethical behavior.",
+    "section_id": null
+  },
+  {
+    "question_number": 122,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Repentance",
+    "question_text": "What severe consequence did King Saul face in 1 Samuel because of his continued disobedience and lack of genuine repentance?",
+    "options": {
+      "a": "He was struck with leprosy for the rest of his life.",
+      "b": "God rejected him from being king, and the Spirit of the LORD departed from him.",
+      "c": "He was swallowed by the earth alive.",
+      "d": "He was exiled to Egypt and became a slave."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Because Saul made excuses instead of showing genuine repentance for disobeying God's command, Samuel declared that **God had rejected him from being king** (1 Samuel 15:23), and the Spirit of the Lord departed from him (1 Samuel 16:14).",
+    "section_id": null
+  },
+  {
+    "question_number": 123,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Repentance",
+    "question_text": "What does a lack of repentance generally result in, according to biblical accounts?",
+    "options": {
+      "a": "Continuous spiritual growth and peace",
+      "b": "Separation from God's presence, loss of divine favor, and eventual judgment",
+      "c": "An immediate promotion in earthly status",
+      "d": "Exemption from keeping God's laws"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Throughout the Bible, a lack of repentance (unconfessed and forsaken sin) leads to **separation from God, the removal of His blessings, and judgment**, as seen in the lives of King Saul and others.",
+    "section_id": null
+  },
+  {
+    "question_number": 124,
+    "subject": "Christian Religious Studies",
+    "topic": "God's Call: Call to Repentance",
+    "question_text": "According to Mark 1:14-15, Jesus began His public ministry with a strong call for repentance. What were His exact words summarizing this call?",
+    "options": {
+      "a": "The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel.",
+      "b": "Blessed are the poor in spirit, for theirs is the kingdom of heaven.",
+      "c": "Do not think that I have come to abolish the Law or the Prophets.",
+      "d": "Take up your cross and follow me to Jerusalem."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Mark 1:15** records Jesus saying: '**The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel.**'",
+    "section_id": null
+  }
+]

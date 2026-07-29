@@ -201,5 +201,15 @@
     "excerpt": "Free CAT previous year papers (2021–2025) in a real exam-style timed interface — topic-wise practice, negative marking, and instant explanations.",
     "tags": ["CAT", "CAT PYQ", "CAT Mock Test", "Previous Year Papers", "Free Practice", "CAT 2026"],
     "mdFilePath": "/blog/cat-previous-year-papers-free-mock-test.md"
+  },
+  {
+    "slug": "nocti-biotechnology-4275-guide",
+    "title": "NOCTI Biotechnology 4275: The Complete 2026 Guide to Format, Syllabus & Scoring",
+    "type": "blog",
+    "date": "2026-07-27",
+    "author": "ExamOven Team",
+    "excerpt": "Picture this: you're standing at a lab bench, gloves on, an agar plate and an inoculating loop in front of you — and a stranger with a clipboard is timing you. That's day one of the performance component of NOCTI Biotechnology, Test Code 4275.",
+    "tags": ["NOCTI", "Biotechnology", "CTE Credential", "Perkins V", "Career and Technical Education"],
+    "mdFilePath": "/blog/nocti-biotechnology-4275-guide.md"
   }
 ]
