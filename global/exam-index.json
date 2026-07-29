@@ -74,6 +74,7 @@
   "bece_nveCivicEducation": "configs/bece.json",
   "bece_nveSecurityEducation": "configs/bece.json",
   "bece_nveSocialStudies": "configs/bece.json",
+  "bece_crsPaper1OldTestament": "configs/bece.json",
   "hosa_nutrition_physiology": "configs/hosa-nutrition.json",
   "hosa_nutrition_macronutrients": "configs/hosa-nutrition.json",
   "hosa_nutrition_vitamins_minerals": "configs/hosa-nutrition.json",

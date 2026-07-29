@@ -350,5 +350,21 @@
         "isOfficial": false,
         "seo_title": "BECE Social Studies Practice Test | National Values Education",
         "seo_description": "Prepare for the BECE National Values Education exam with our free Social Studies practice test. Master family structures, marriage readiness, socialization, and social problem solving for Junior WAEC."
-    }
+    },
+    {
+    "id": "bece_crsPaper1OldTestament",
+    "category": "BECE",
+    "year": 2026,
+    "session": null,
+    "date": null,
+    "shift": null,
+    "paperType": "Practice",
+    "title": "BECE CRS: Christian Religious Studies: Old Testament (Paper 1)",
+    "short_description": "Comprehensive CRS paper 1 practice covering the Old Testament curriculum, including God's creation, key relationships, and God's call to His people.",
+    "description": "### Module: Old Testament Studies (Paper 1)\n\n**Focus:** Creation, Relationships & God's Call | **Level:** Junior Secondary (JSS3)\n\nComplete your preparation for Paper 1 of the BECE Christian Religious Studies examination. Featuring **124 comprehensive practice questions**, this module covers the Old Testament curriculum from the creation account through God's dealings with His people.\n\n---\n\n#### Key Curriculum Topics Covered:\n* **His Creation:** Who God is (including indigenous names for God), the Genesis creation account, humanity's role in God's creative activities, disobedience (the Fall), and reconciliation.\n* **Relationship with God and Man:** Relationships in the family, school, community and church, and our relationship with God.\n* **God's Call:** Call to obedience, call to freedom, call to service (e.g. Joseph), and call to repentance (e.g. David, Jonah, John the Baptist).",
+    "path": "nigeria/BECE/christianReligiousStudies/CRS_paper1_oldTestament.json",
+    "isOfficial": false,
+    "seo_title": "BECE CRS Paper 1: Old Testament Practice Test | Christian Religious Studies",
+    "seo_description": "Practice BECE Christian Religious Studies Old Testament questions online. Free practice paper covering creation, relationships, and God's call for Junior WAEC."
+  }
 ]

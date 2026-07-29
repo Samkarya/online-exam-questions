@@ -525,6 +525,13 @@
     "suitePath": "configs/bece.json"
   },
   {
+    "id": "bece_crsPaper1OldTestament",
+    "title": "BECE CRS: Christian Religious Studies: Old Testament (Paper 1)",
+    "short_description": "Comprehensive CRS paper 1 practice covering the Old Testament curriculum, including God's creation, key relationships, and God's call to His people.",
+    "path": "nigeria/BECE/christianReligiousStudies/CRS_paper1_oldTestament.json",
+    "suitePath": "configs/bece.json"
+  },
+  {
     "id": "hosa_nutrition_physiology",
     "title": "HOSA Nutrition: Nutritional Physiology",
     "short_description": "Contains 48 Questions",
