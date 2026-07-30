@@ -1,0 +1,1970 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "Which foundational command from Jesus (Matthew 28:19-20) acts as the primary driving force for the growth of the Christian church today?",
+    "options": {
+      "a": "To collect tithes from all nations to build the temple",
+      "b": "To isolate themselves in monasteries to maintain purity",
+      "c": "To go and make disciples of all nations, baptizing and teaching them",
+      "d": "To engage in political wars to conquer surrounding nations"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The Great Commission instructs believers to \"Go therefore and make disciples of all nations, baptizing them... and teaching them to observe all that I have commanded you.\" This is the basis of global evangelism and church growth.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "According to the CRS syllabus, which of the following is a modern mark or method of growth in the Christian church today?",
+    "options": {
+      "a": "Organizing crusades, revivals, vigils, and prayer meetings",
+      "b": "Forcing people to convert through government laws",
+      "c": "Banning members from talking to non-believers",
+      "d": "Refusing to accept new members into the congregation"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Modern church growth is often characterized by dynamic spiritual gatherings such as organizing crusades, revivals, night vigils, prayer meetings, and the occurrence of miracles, which attract people to the faith.",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "In the early days of church growth (Acts 2:47), while the disciples praised God and had favor with all the people, who was responsible for adding to their number day by day?",
+    "options": {
+      "a": "The Roman Emperor",
+      "b": "The High Priest",
+      "c": "The Lord",
+      "d": "Peter"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Acts 2:47 explicitly states: \"...praising God and having favor with all the people. And the Lord added to their number day by day those who were being saved.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "To foster unity among various Christian groups in Nigeria, a major umbrella organization was established. What does the acronym CAN stand for?",
+    "options": {
+      "a": "Catholic Alliance of Nigeria",
+      "b": "Christian Association of Nigeria",
+      "c": "Council of Anglican Nations",
+      "d": "Christians Arise Network"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "CAN stands for the Christian Association of Nigeria. It is an umbrella organization that promotes unity, peace, and cooperation among different Christian denominations in the country.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "What does the term \"Inter-denominational\" mean in the context of church activities today?",
+    "options": {
+      "a": "Activities limited strictly to one specific church branch",
+      "b": "A conflict or debate between two different religions",
+      "c": "Activities that involve people from different Christian denominations coming together to worship or work",
+      "d": "A rule that forbids Christians from attending other churches"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Inter-denominational refers to actions, organizations, or services that cross the boundaries of individual denominations (like Baptists, Methodists, Pentecostals) to unite them for a common Christian purpose.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "In teaching about Christian giving to support the church and those in need (2 Corinthians 9:6-7), Paul wrote that God loves a ________ giver.",
+    "options": {
+      "a": "reluctant",
+      "b": "wealthy",
+      "c": "cheerful",
+      "d": "forceful"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "2 Corinthians 9:7 states: \"Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "To foster unity in the church, Paul encouraged believers in Philippians 2:3 to do nothing from selfish ambition or conceit. Instead, what attitude should they have?",
+    "options": {
+      "a": "They should in humility count others more significant than themselves.",
+      "b": "They should strive to become the wealthiest in the congregation.",
+      "c": "They should debate until one person wins the argument.",
+      "d": "They should ignore anyone who disagrees with them."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Paul emphasizes humility as the key to unity, writing: \"Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "In James 2:14-18, a specific teaching is given to show how Christians should live out their unity and care for one another. James declares that faith by itself, if it does not have works, is ________.",
+    "options": {
+      "a": "still valid",
+      "b": "dead",
+      "c": "asleep",
+      "d": "imperfect but acceptable"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "James 2:17 makes this profound statement: \"So also faith by itself, if it does not have works, is dead.\" Genuine faith must be accompanied by practical actions like caring for the needy.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "According to Matthew 5:16, how should a Christian live among non-Christians in their community?",
+    "options": {
+      "a": "They should hide their faith so they are not persecuted.",
+      "b": "They should condemn non-Christians publicly every day.",
+      "c": "They should let their light shine so others may see their good works and glorify God.",
+      "d": "They should isolate themselves in Christian-only neighborhoods."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Jesus taught, \"In the same way, let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "In 1 Peter 3:8-17, what is the recommended attitude for Christians when facing persecution or insult from non-believers?",
+    "options": {
+      "a": "To retaliate physically and defend their honor",
+      "b": "To sue the offenders in the local courts immediately",
+      "c": "To not repay evil for evil, but on the contrary, to bless them",
+      "d": "To insult them back to prove they are strong"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "1 Peter 3:9 instructs: \"Do not repay evil for evil or reviling for reviling, but on the contrary, bless, for to this you were called, that you may obtain a blessing.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "According to James 1:12, what reward is promised to the Christian who remains steadfast and endures trials and persecution from the world?",
+    "options": {
+      "a": "The crown of life",
+      "b": "Immense earthly riches",
+      "c": "Total political power",
+      "d": "Exemption from paying taxes"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "James 1:12 says: \"Blessed is the man who remains steadfast under trial, for when he has stood the test he will receive the crown of life, which God has promised to those who love him.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "What is the general biblical teaching regarding a Christian's attitude toward non-believing government authorities, assuming they do not force the Christian to disobey God?",
+    "options": {
+      "a": "Christians should actively plot to overthrow them.",
+      "b": "Christians should obey the laws of the land, pay their taxes, and live as good citizens.",
+      "c": "Christians should ignore all civil laws because they only answer to God.",
+      "d": "Christians should refuse to pay taxes to a non-believing ruler."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Based on teachings from Jesus (paying taxes to Caesar) and Paul (Romans 13), Christians are instructed to be peaceful, law-abiding citizens and submit to governing authorities as a testimony to their faith.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "What is the definition of \"peaceful co-existence\" in a diverse society?",
+    "options": {
+      "a": "Living in harmony, tolerance, and peace with people of different beliefs and backgrounds",
+      "b": "Forcing everyone in the community to practice the exact same religion",
+      "c": "Avoiding all contact with anyone who does not share your faith",
+      "d": "Living together but constantly debating and arguing over differences"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Peaceful co-existence refers to the ability of people from different religions, cultures, or backgrounds to live together in a community harmoniously, with mutual respect and tolerance.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "Which two brothers in the Old Testament provided an excellent example of desiring peaceful co-existence by embracing and forgiving each other after years of bitter enmity over a stolen blessing? (Genesis 33)",
+    "options": {
+      "a": "Cain and Abel",
+      "b": "Joseph and Benjamin",
+      "c": "Isaac and Ishmael",
+      "d": "Esau and Jacob"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "In Genesis 33:4, despite Jacob's fears of revenge, \"Esau ran to meet him and embraced him and fell on his neck and kissed him, and they wept.\" This act brought peaceful reconciliation.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "In the New Testament, Paul wrote a letter to Philemon encouraging peaceful co-existence, forgiveness, and settlement of disputes. Who was the other party involved in this dispute with Philemon?",
+    "options": {
+      "a": "Silas, his business partner",
+      "b": "Onesimus, his runaway slave who had become a Christian",
+      "c": "Peter, who had disagreed with him over Jewish laws",
+      "d": "Barnabas, his former missionary companion"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Paul sent Onesimus, a runaway slave, back to his master Philemon, urging Philemon to receive him not as a slave but \"as a beloved brother.\" This is a powerful demonstration of reconciliation.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "Which of the following represents a practical demonstration of how Christians can show a desire for peaceful co-existence with non-Christians today?",
+    "options": {
+      "a": "Calling for dialogue, tolerance, and the amicable settlement of disputes",
+      "b": "Mocking the religious traditions of other faiths publicly",
+      "c": "Refusing to do business with anyone who isn't a Christian",
+      "d": "Using violence to protect church property"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The syllabus emphasizes that Christians show a desire for peace through \"dialogue, tolerance, forgiveness, reconciliation or settlement of disputes.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "In promoting peaceful co-existence between Christians and Muslims in communities, it is often noted that both religions trace their origins to one common patriarch. Who is this father of faith? (Gen. 16, 21)",
+    "options": {
+      "a": "Moses",
+      "b": "David",
+      "c": "Abraham",
+      "d": "Noah"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Both Christianity (through Isaac) and Islam (through Ishmael) recognize Abraham as a foundational father of their faith. Recognizing this shared heritage can serve as a basis for mutual respect and peaceful co-existence.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In His Sermon on the Mount, Jesus taught against seeking revenge. According to Matthew 5:38-39, what did He say a person should do if someone strikes them on the right cheek?",
+    "options": {
+      "a": "Strike them back harder",
+      "b": "Report them to the local authorities",
+      "c": "Turn the other cheek to them also",
+      "d": "Run away immediately"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Jesus taught non-retaliation, saying: \"You have heard that it was said, 'An eye for an eye and a tooth for a tooth.' But I say to you, Do not resist the one who is evil. But if anyone slaps you on the right cheek, turn to him the other also.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "According to Jesus' teaching on forgiveness in Matthew 6:14-15, what is the strict condition for God forgiving our trespasses?",
+    "options": {
+      "a": "We must offer a sin offering at the temple.",
+      "b": "We must fast for forty days.",
+      "c": "We must forgive others their trespasses.",
+      "d": "We must pay all our debts."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Jesus stated clearly: \"For if you forgive others their trespasses, your heavenly Father will also forgive you, but if you do not forgive others their trespasses, neither will your Father forgive your trespasses.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "To cure worrying about earthly needs like food and clothing, what did Jesus instruct His followers to seek first? (Matthew 6:33)",
+    "options": {
+      "a": "Great wealth to secure their future",
+      "b": "The kingdom of God and his righteousness",
+      "c": "Friendship with the Roman rulers",
+      "d": "A steady job in their community"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "After telling them not to be anxious about their life, Jesus gave the solution: \"But seek first the kingdom of God and his righteousness, and all these things will be added to you.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In the Parable of the Talents (Matthew 25:14-30), what did the servant who received one talent do with it?",
+    "options": {
+      "a": "He traded it and made one more talent.",
+      "b": "He dug a hole in the ground and hid his master's money.",
+      "c": "He bought a piece of farmland.",
+      "d": "He lost it to robbers on the road."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Out of fear and laziness, the third servant \"went and dug in the ground and hid his master's money.\" The master later condemned him as a wicked and slothful servant.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In the Parable of the Talents, what commendation did the master give to the servants who successfully multiplied their talents?",
+    "options": {
+      "a": "\"You are now wealthy and free to go.\"",
+      "b": "\"Well done, good and faithful servant.\"",
+      "c": "\"You have defeated all my enemies.\"",
+      "d": "\"You shall rule over the entire Roman Empire.\""
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "To both the five-talent and two-talent servants, the master replied: \"Well done, good and faithful servant. You have been faithful over a little; I will set you over much. Enter into the joy of your master.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In the Parable of the Rich Man and Lazarus (Luke 16:19-31), where was the poor man Lazarus carried by the angels when he died?",
+    "options": {
+      "a": "To the temple in Jerusalem",
+      "b": "To Abraham's side",
+      "c": "To a grand earthly palace",
+      "d": "To the garden of Eden"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Luke 16:22 says, \"The poor man died and was carried by the angels to Abraham's side. The rich man also died and was buried, and in Hades, being in torment, he lifted up his eyes...\"",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "While suffering in Hades, what small mercy did the rich man beg Abraham to send Lazarus to do for him?",
+    "options": {
+      "a": "To sing him a hymn of comfort",
+      "b": "To dip the end of his finger in water and cool his tongue",
+      "c": "To unlock the gates of Hades",
+      "d": "To bring him a piece of bread"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "He called out, \"Father Abraham, have mercy on me, and send Lazarus to dip the end of his finger in water and cool my tongue, for I am in anguish in this flame.\" (Luke 16:24)",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In the Parable of the Prodigal Son (Luke 15), how did the father react when he saw his repentant son returning from a long distance?",
+    "options": {
+      "a": "He ignored him and went inside the house.",
+      "b": "He ordered his servants to throw him out.",
+      "c": "He felt compassion, ran, embraced him, and kissed him.",
+      "d": "He demanded his lost money back before speaking to him."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Luke 15:20 shows God's forgiving love: \"But while he was still a long way off, his father saw him and felt compassion, and ran and embraced him and kissed him.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "How did the older brother in the Parable of the Prodigal Son react when he heard music and found out a celebration was being thrown for his younger brother?",
+    "options": {
+      "a": "He immediately joined the feast in joy.",
+      "b": "He was angry and refused to go in.",
+      "c": "He went to town to buy a welcome gift.",
+      "d": "He hugged his brother and wept."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The older brother represents the self-righteous religious leaders. \"But he was angry and refused to go in. His father came out and entreated him.\" (Luke 15:28)",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "During the miracle of feeding the four thousand (Matthew 15:32-39), which was distinct from the feeding of the five thousand, how many baskets full of broken pieces were collected afterwards?",
+    "options": {
+      "a": "Five",
+      "b": "Seven",
+      "c": "Ten",
+      "d": "Twelve"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "In the feeding of the 4,000, Jesus started with seven loaves and a few small fish. Afterward, \"they took up seven baskets full of the broken pieces left over.\" (Matthew 15:37)",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "When a fierce windstorm struck the Sea of Galilee and waves were breaking into the boat, where was Jesus and what was He doing? (Mark 4:38)",
+    "options": {
+      "a": "He was standing at the front, commanding the wind.",
+      "b": "He was in the stern, asleep on a cushion.",
+      "c": "He was bailing water out with the disciples.",
+      "d": "He was teaching the crowd on the shore."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Despite the raging storm, Mark 4:38 says: \"But he was in the stern, asleep on the cushion. And they woke him and said to him, 'Teacher, do you not care that we are perishing?'\"",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "Because of the massive crowd gathered around Jesus in Capernaum, how did the friends of the paralyzed man successfully bring him to Jesus? (Mark 2:4)",
+    "options": {
+      "a": "They pushed violently through the front door.",
+      "b": "They dug a hole through the roof and let down the bed.",
+      "c": "They yelled loudly from the street until Jesus came out.",
+      "d": "They sent a written letter to Jesus via a Roman soldier."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "When they could not get near him because of the crowd, they removed the roof above him, and when they had made an opening, they let down the bed on which the paralytic lay.",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "When Jesus saw the funeral procession for the widow's son at Nain, He had compassion. What specific action did Jesus take to stop the procession before He commanded the dead man to arise? (Luke 7:14)",
+    "options": {
+      "a": "He shouted with a loud voice to the crowd.",
+      "b": "He touched the bier (coffin), and the bearers stood still.",
+      "c": "He threw his cloak over the dead body.",
+      "d": "He instructed Peter to block the road."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Luke 7:14 details this moment: \"Then he came up and touched the bier, and the bearers stood still. And he said, 'Young man, I say to you, arise.'\" Touching a burial bier would typically render a Jewish person ritually unclean, but Jesus imparted life instead.",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "During the mission of the twelve disciples, Jesus instructed them on what to do if a house or town refused to welcome them or listen to their words. What was this instruction? (Matthew 10:14)",
+    "options": {
+      "a": "To call down fire from heaven to consume the town",
+      "b": "To shake off the dust from their feet as they leave",
+      "c": "To curse the village leaders publicly",
+      "d": "To stay in the town and argue until they listened"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Jesus said, \"And if anyone will not receive you or listen to your words, shake off the dust from your feet when you leave that house or town.\" This act symbolized severing responsibility for their rejection of the gospel.",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "When the seventy disciples returned joyfully from their mission, saying that even demons were subject to them in Jesus' name, how did Jesus describe His spiritual vision of Satan? (Luke 10:18)",
+    "options": {
+      "a": "\"I saw Satan fall like lightning from heaven.\"",
+      "b": "\"I saw Satan bound in chains forever.\"",
+      "c": "\"I saw Satan running away in fear.\"",
+      "d": "\"I saw Satan transformed into an angel of light.\""
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Confirming the disciples' spiritual authority over demonic forces, Jesus replied to them: \"I saw Satan fall like lightning from heaven.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "According to John 2:11, what was the primary spiritual result of Jesus performing His first miracle—turning water into wine at Cana in Galilee?",
+    "options": {
+      "a": "The master of the feast immediately was baptized.",
+      "b": "He manifested His glory, and His disciples believed in Him.",
+      "c": "The Romans attempted to arrest Him for magic.",
+      "d": "The bride and groom offered Him money."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "John carefully notes the purpose of this sign: \"This, the first of his signs, Jesus did at Cana in Galilee, and manifested his glory. And his disciples believed in him.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In the Parable of the Sower (Matthew 13:20-21), what kind of person is represented by the seed sown on rocky ground?",
+    "options": {
+      "a": "One who hears the word and never understands it",
+      "b": "One who hears the word with joy, but has no root and falls away when trouble or persecution arises",
+      "c": "One who bears fruit a hundredfold",
+      "d": "One whose faith is choked by the cares of the world and deceitfulness of riches"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Jesus explained: \"As for what was sown on rocky ground, this is the one who hears the word and immediately receives it with joy, yet he has no root in himself... when tribulation or persecution arises on account of the word, immediately he falls away.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In the Parable of the Unforgiving Steward (Matthew 18:23-27), the first servant fell on his knees because he owed the king a massive, unpayable debt of ten thousand talents. How did the king initially respond?",
+    "options": {
+      "a": "He sold the servant into slavery immediately.",
+      "b": "Out of pity, he released him and forgave the entire debt.",
+      "c": "He ordered the servant's family to work off the debt.",
+      "d": "He gave the servant one more month to pay the debt."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Matthew 18:27 displays the king's incredible mercy: \"And out of pity for him, the master of that servant released him and forgave him the debt.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "To teach the multitudes about counting the cost of discipleship and evaluating their level of commitment, Jesus used the practical example of a person intending to build what? (Luke 14:28-30)",
+    "options": {
+      "a": "A fishing boat",
+      "b": "A new synagogue",
+      "c": "A tower",
+      "d": "A stone wall"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Jesus asked: \"For which of you, desiring to build a tower, does not first sit down and count the cost, whether he has enough to complete it?\" This illustrated the profound commitment required to follow Him.",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In Matthew 5:44, as part of the Beatitudes and Sermon on the Mount, Jesus radically commanded His disciples regarding their attitude towards their enemies. He said: \"Love your enemies and ________ for those who persecute you.\"",
+    "options": {
+      "a": "pray",
+      "b": "fight",
+      "c": "flee",
+      "d": "lay traps"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Replacing the old standard of hating one's enemy, Jesus elevated the law of love: \"But I say to you, Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "After Jesus and His disciples finished the Last Supper, what action did they take before going out to the Mount of Olives? (Matthew 26:30)",
+    "options": {
+      "a": "They sacrificed a young lamb.",
+      "b": "They washed their hands in the bronze basin.",
+      "c": "They sang a hymn together.",
+      "d": "They blew the shofar (trumpet)."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Matthew 26:30 reveals a moment of collective worship before the agony of the garden: \"And when they had sung a hymn, they went out to the Mount of Olives.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "Reflecting on Peter's denial of Jesus, which of the following modern situations is an example of a Christian denying Christ?",
+    "options": {
+      "a": "Attending church every Sunday and joining the choir",
+      "b": "Hiding one's Christian identity out of fear of being mocked or losing a job",
+      "c": "Reading the Bible quietly at home during personal devotions",
+      "d": "Refusing to cheat during an examination"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Just as Peter denied Jesus because he was afraid of the authorities and the crowd, a modern Christian denies Christ when they compromise their faith or hide it out of fear of negative earthly consequences.",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "While suffering on the cross during the ninth hour, Jesus cried out \"Eli, Eli, lema sabachthani?\" (Matthew 27:46). What does this mean?",
+    "options": {
+      "a": "\"Father, into your hands I commit my spirit.\"",
+      "b": "\"It is finished.\"",
+      "c": "\"My God, my God, why have you forsaken me?\"",
+      "d": "\"Father, forgive them, for they know not what they do.\""
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Matthew 27:46 provides the translation for this cry of agony (quoting Psalm 22): \"that is, 'My God, my God, why have you forsaken me?'\"",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "According to Matthew 27:38, who were crucified alongside Jesus?",
+    "options": {
+      "a": "Two Roman soldiers who had abandoned their posts",
+      "b": "Two religious scribes who committed blasphemy",
+      "c": "Two robbers, one on the right and one on the left",
+      "d": "Barabbas and a zealot leader"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Matthew 27:38 records: \"Then two robbers were crucified with him, one on the right and one on the left,\" fulfilling the prophecy that He would be numbered with the transgressors.",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "After His resurrection, Jesus commanded His eleven disciples to travel to a specific region to meet Him for the Great Commission. Where did this meeting take place? (Matthew 28:16)",
+    "options": {
+      "a": "At the temple in Jerusalem",
+      "b": "By the Jordan River where He was baptized",
+      "c": "In the wilderness of Judea",
+      "d": "On a mountain in Galilee to which Jesus had directed them"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Matthew 28:16 states: \"Now the eleven disciples went to Galilee, to the mountain to which Jesus had directed them.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "Christian Religious Studies",
+    "topic": "The Beginning of the Church",
+    "question_text": "In comparing the Early Church in Acts 2:42 to a healthy Christian church today, what core activities must present-day churches continuously devote themselves to?",
+    "options": {
+      "a": "Apostles' teaching, fellowship, breaking of bread, and prayers",
+      "b": "Political debates, financial investments, and entertainment",
+      "c": "Only secret prayer meetings without public worship",
+      "d": "Isolating themselves from all community activities"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Acts 2:42 highlights the four foundational pillars of early church life: \"And they devoted themselves to the apostles' teaching and the fellowship, to the breaking of bread and the prayers.\" These remain the standard for modern churches.",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "Christian Religious Studies",
+    "topic": "The Beginning of the Church",
+    "question_text": "After King Herod killed James the brother of John, what motivated him to proceed to arrest Peter as well? (Acts 12:3)",
+    "options": {
+      "a": "Peter had stolen the king's treasury.",
+      "b": "He saw that the execution of James pleased the Jews.",
+      "c": "Peter threatened to overthrow his government.",
+      "d": "An angel instructed Herod to do so."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Herod was driven by political favor. Acts 12:3 states: \"And when he saw that it pleased the Jews, he proceeded to arrest Peter also. This was during the days of Unleavened Bread.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Peter",
+    "question_text": "When the apostles at Jerusalem heard that Samaria had received the word of God, they sent Peter and John to them. What specific action did Peter and John take upon arrival? (Acts 8:14-17)",
+    "options": {
+      "a": "They collected tithes from the new believers.",
+      "b": "They appointed seven deacons for the Samaritans.",
+      "c": "They prayed for them and laid their hands on them so they might receive the Holy Spirit.",
+      "d": "They commanded them to relocate to Jerusalem."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The Samaritans had only been baptized in the name of Jesus, so Peter and John \"prayed for them that they might receive the Holy Spirit... Then they laid their hands on them and they received the Holy Spirit.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 46,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Peter",
+    "question_text": "As Peter was preaching the gospel in the house of Cornelius, what astonishing event caused the circumcised believers who came with Peter to be amazed? (Acts 10:44-46)",
+    "options": {
+      "a": "The house was suddenly filled with gold coins.",
+      "b": "The Holy Spirit fell on the Gentiles, and they began speaking in tongues and praising God.",
+      "c": "Cornelius resigned from the Roman army instantly.",
+      "d": "Fire came down from heaven and consumed a sacrifice."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The Jewish believers were amazed because the gift of the Holy Spirit was poured out even on the Gentiles, proving God's acceptance of them as evidenced by their speaking in tongues.",
+    "section_id": null
+  },
+  {
+    "question_number": 47,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Peter",
+    "question_text": "When Peter defended his decision to eat with uncircumcised Gentiles before the Jerusalem church, what was his concluding argument that silenced his critics? (Acts 11:17)",
+    "options": {
+      "a": "\"I am the head apostle, and you must obey me without question.\"",
+      "b": "\"The Gentiles offered me money that will help the poor in Jerusalem.\"",
+      "c": "\"If God gave the same gift to them as he gave to us when we believed, who was I that I could stand in God's way?\"",
+      "d": "\"The Roman governor forced me to go to his house.\""
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Peter recounted the events and concluded that God had sovereignly chosen to save the Gentiles, saying, \"If then God gave the same gift to them as he gave to us when we believed in the Lord Jesus Christ, who was I that I could stand in God's way?\" Hearing this, they glorified God.",
+    "section_id": null
+  },
+  {
+    "question_number": 48,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "In 2 Thessalonians 3:6, Paul gives a strict command in the name of the Lord Jesus Christ regarding church members who refuse to work. What does he command the believers to do?",
+    "options": {
+      "a": "To physically force the idle person to work",
+      "b": "To give the idle person money from the church offerings",
+      "c": "To keep away from any brother who is walking in idleness and not in accord with the tradition received",
+      "d": "To promote the idle person to a leadership position"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Paul emphasizes the dignity of labor by instructing the church not to enable laziness: \"Now we command you, brothers, in the name of our Lord Jesus Christ, that you keep away from any brother who is walking in idleness...\"",
+    "section_id": null
+  },
+  {
+    "question_number": 49,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "According to Christian teachings, why should people do their lawful work with honor and diligence?",
+    "options": {
+      "a": "So they can boast about their wealth to others",
+      "b": "Because honest labor is a way to serve God, provide for one's family, and help those in need",
+      "c": "To eventually become powerful enough to oppress their neighbors",
+      "d": "Because it is the only way to earn salvation"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Christianity teaches that work is a dignified and divine mandate. Working with honor allows believers to reflect Christ, meet personal responsibilities, and possess resources to share with others (Ephesians 4:28, Colossians 3:23).",
+    "section_id": null
+  },
+  {
+    "question_number": 50,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "Upon Paul's arrival in Jerusalem (Acts 21:23-24), the church elders advised him to partake in a purification ritual alongside four other men. Why did they ask him to do this?",
+    "options": {
+      "a": "To prove that the rumors were false and that he still respected and lived in observance of the law",
+      "b": "Because Paul had contracted leprosy on his missionary journey",
+      "c": "To prepare him for a political debate with the Roman governor",
+      "d": "Because it was required before anyone could enter the city gates"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "Rumors claimed Paul was teaching Jews to abandon Moses. The elders said: \"Thus all will know that there is nothing in what they have been told about you, but that you yourself also live in observance of the law.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 51,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "While Paul was held in the barracks in Jerusalem, more than forty Jews plotted an ambush to kill him. Who discovered this plot and reported it to the Roman tribune? (Acts 23:16)",
+    "options": {
+      "a": "A sympathetic Pharisee named Gamaliel",
+      "b": "One of the Roman centurions on duty",
+      "c": "The son of Paul's sister (his nephew)",
+      "d": "Silas, who had traveled there to visit him"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Acts 23:16 states: \"Now the son of Paul's sister heard of their ambush, so he went and entered the barracks and told Paul.\" Paul then sent him to the tribune.",
+    "section_id": null
+  },
+  {
+    "question_number": 52,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "When Paul presented the gospel to the Roman Governor Felix and his wife Drusilla, he reasoned about righteousness, self-control, and the coming judgment. What was Felix's immediate reaction? (Acts 24:25)",
+    "options": {
+      "a": "He laughed and mocked Paul's beliefs.",
+      "b": "He immediately repented and was baptized.",
+      "c": "He became alarmed and sent Paul away, saying he would call for him when he had an opportunity.",
+      "d": "He ordered Paul to be executed on the spot."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The conviction of the Holy Spirit made Felix uncomfortable. \"And as he reasoned about righteousness and self-control and the coming judgment, Felix was alarmed and said, 'Go away for the present. When I get an opportunity I will summon you.'\"",
+    "section_id": null
+  },
+  {
+    "question_number": 53,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "Which of the following actions demonstrates a lack of unity and hinders the growth of the Christian church today?",
+    "options": {
+      "a": "Organizing inter-denominational crusades",
+      "b": "Promoting ethnic discrimination and selfish ambition among members",
+      "c": "Praying fervently for one another",
+      "d": "Contributing money to support the less privileged"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The CRS syllabus addresses issues that threaten unity. Discrimination based on tribe, ethnicity, or social class, along with selfish ambition, directly opposes Christ's prayer for unity in John 17 and Paul's commands in Philippians 2.",
+    "section_id": null
+  },
+  {
+    "question_number": 54,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "In Galatians 6:1, Paul provides instruction on how to restore a brother who is caught in a sin to maintain church unity. How should spiritual believers handle such a situation?",
+    "options": {
+      "a": "They should gossip about him to warn others.",
+      "b": "They should restore him in a spirit of gentleness, while keeping watch on themselves.",
+      "c": "They should publicly humiliate him during Sunday service.",
+      "d": "They should physically drive him out of the church building."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Paul emphasizes compassionate discipline: \"Brothers, if anyone is caught in any transgression, you who are spiritual should restore him in a spirit of gentleness. Keep watch on yourself, lest you too be tempted.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 55,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "Christian student organizations in schools (such as the Fellowship of Christian Students, FCS) are primarily established to achieve what goal?",
+    "options": {
+      "a": "To train students on how to fight against non-believers",
+      "b": "To help students pass their promotional examinations using secret answers",
+      "c": "To promote moral uprightness, Bible study, and Christian fellowship among youths",
+      "d": "To protest against the rules of the school principal"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Christian organizations in educational institutions foster spiritual growth, unity among diverse believers, moral discipline, and biblical knowledge in students.",
+    "section_id": null
+  },
+  {
+    "question_number": 56,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "If a secular, non-believing authority issues a command that directly forces a Christian to commit a sin clearly forbidden by God, what is the biblical standard for the Christian's response? (cf. Acts 5:29)",
+    "options": {
+      "a": "They must obey the human authority, as God will understand the pressure.",
+      "b": "They must respectfully obey God rather than men, accepting whatever consequences may follow.",
+      "c": "They must declare war on the local government.",
+      "d": "They should lie to the authority to avoid trouble."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "While Christians are commanded to obey the government (Romans 13), the ultimate authority is God. As Peter declared before the Sanhedrin: \"We must obey God rather than men\" when the two conflict.",
+    "section_id": null
+  },
+  {
+    "question_number": 57,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "An example of desiring peaceful co-existence in the Bible is found in Genesis 26:26-29, when King Abimelech approached Isaac. Why did the Philistine king initiate this meeting?",
+    "options": {
+      "a": "To declare war because Isaac had grown too wealthy",
+      "b": "To make a peace covenant with Isaac, acknowledging that the Lord was clearly with him",
+      "c": "To sell a piece of land to Isaac at an expensive price",
+      "d": "To force Isaac to worship Philistine idols"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Abimelech told Isaac, \"We see plainly that the Lord has been with you. So we said, let there be a sworn pact between us... that you will do us no harm, just as we have not touched you...\" This demonstrated a desire for peaceful co-existence based on mutual respect.",
+    "section_id": null
+  },
+  {
+    "question_number": 58,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In the Beatitudes, Jesus taught: \"Blessed are the pure in heart, for they shall ____________.\" (Matthew 5:8)",
+    "options": {
+      "a": "inherit the earth",
+      "b": "see God",
+      "c": "obtain mercy",
+      "d": "be comforted"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "According to Matthew 5:8, Jesus promises a profound spiritual reward for internal purity: \"Blessed are the pure in heart, for they shall see God.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 59,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "According to the Sermon on the Mount, what title will be given to the \"peacemakers\"? (Matthew 5:9)",
+    "options": {
+      "a": "Prophets of God",
+      "b": "Priests of the Most High",
+      "c": "Sons of God",
+      "d": "Kings of the Earth"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Matthew 5:9 states, \"Blessed are the peacemakers, for they shall be called sons of God.\" Promoting peace reflects the very character of God.",
+    "section_id": null
+  },
+  {
+    "question_number": 60,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In the Parable of the Lost Sheep (Luke 15:3-7), how does the shepherd react when he loses one sheep out of a hundred?",
+    "options": {
+      "a": "He ignores the lost sheep because he still has ninety-nine others.",
+      "b": "He sends his servants to look for it.",
+      "c": "He leaves the ninety-nine in the open country and goes after the lost one until he finds it.",
+      "d": "He buys a new sheep from the market."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "To illustrate God's relentless love for lost sinners, Jesus said the shepherd leaves the ninety-nine in the open country and searches for the one lost sheep until he finds it.",
+    "section_id": null
+  },
+  {
+    "question_number": 61,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In the Parable of the Wheat and the Tares, the master commands his servants NOT to uproot the weeds immediately. What reason does he give? (Matthew 13:24-30)",
+    "options": {
+      "a": "Because the weeds are actually beneficial for the soil",
+      "b": "Because the servants might accidentally uproot the wheat along with the weeds",
+      "c": "Because the master wants to sell the weeds at the market",
+      "d": "Because the weeds will eventually turn into wheat"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The master warned, \"No, lest in gathering the weeds you root up the wheat along with them. Let both grow together until the harvest.\" This signifies that the final judgment and separation will occur at the end of the age.",
+    "section_id": null
+  },
+  {
+    "question_number": 62,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In the Parable of the Lost Coin (Luke 15:8-10), what specific actions does the woman take to find her single lost silver coin?",
+    "options": {
+      "a": "She goes to the marketplace to complain to the merchants.",
+      "b": "She lights a lamp, sweeps the house, and seeks diligently until she finds it.",
+      "c": "She hires a professional investigator.",
+      "d": "She ignores it and goes to sleep."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Luke 15:8 explains her thorough effort: \"Or what woman, having ten silver coins, if she loses one coin, does not light a lamp and sweep the house and seek diligently until she finds it?\"",
+    "section_id": null
+  },
+  {
+    "question_number": 63,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "During the miracle of calming the storm (Mark 4:35-41), what exact words did Jesus use to rebuke the wind and the raging waves?",
+    "options": {
+      "a": "\"Be gone from my sight!\"",
+      "b": "\"Peace! Be still!\"",
+      "c": "\"Winds, bow down to your creator!\"",
+      "d": "\"Halt in the name of the Lord!\""
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Jesus awoke and rebuked the wind, and said to the sea, \"Peace! Be still!\" And the wind ceased, and there was a great calm.",
+    "section_id": null
+  },
+  {
+    "question_number": 64,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "When Peter attempted to walk on water towards Jesus (Matthew 14:28-31), what caused him to become afraid and begin to sink?",
+    "options": {
+      "a": "He looked back at the disciples in the boat.",
+      "b": "A large sea monster appeared beneath him.",
+      "c": "He saw the wind and took his focus off Jesus.",
+      "d": "His clothes became too heavy with water."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Matthew 14:30 records: \"But when he saw the wind, he was afraid, and beginning to sink he cried out, 'Lord, save me.'\" This illustrates the danger of focusing on circumstances rather than maintaining faith in Christ.",
+    "section_id": null
+  },
+  {
+    "question_number": 65,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "In the Garden of Gethsemane, Jesus took three disciples further into the garden with Him while He prayed in deep agony. Who were these three? (Matthew 26:37)",
+    "options": {
+      "a": "Peter, Andrew, and Philip",
+      "b": "Peter and the two sons of Zebedee (James and John)",
+      "c": "Thomas, Matthew, and Judas",
+      "d": "Bartholomew, James, and Thaddaeus"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Matthew 26:37 tells us: \"And taking with him Peter and the two sons of Zebedee, he began to be sorrowful and troubled.\" The sons of Zebedee are James and John.",
+    "section_id": null
+  },
+  {
+    "question_number": 66,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "What deeply symbolic action did Pontius Pilate perform before the crowd to demonstrate that he considered himself innocent of Jesus' blood? (Matthew 27:24)",
+    "options": {
+      "a": "He tore his governor's robe in half.",
+      "b": "He took water and washed his hands before the crowd.",
+      "c": "He released a white dove into the sky.",
+      "d": "He broke a spear over his knee."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Seeing a riot was starting, \"Pilate took water and washed his hands before the crowd, saying, 'I am innocent of this man's blood; see to it yourselves.'\"",
+    "section_id": null
+  },
+  {
+    "question_number": 67,
+    "subject": "Christian Religious Studies",
+    "topic": "The Resurrection and Appearance of Jesus Christ",
+    "question_text": "On the morning of the resurrection, how was the massive stone removed from the entrance of Jesus' tomb? (Matthew 28:2)",
+    "options": {
+      "a": "The Roman soldiers rolled it away.",
+      "b": "A severe earthquake occurred, and an angel of the Lord descended from heaven and rolled back the stone.",
+      "c": "Peter and John pushed it open using heavy wooden levers.",
+      "d": "Mary Magdalene enlisted the help of the temple guards."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Matthew 28:2 describes the supernatural event: \"And behold, there was a great earthquake, for an angel of the Lord descended from heaven and came and rolled back the stone and sat on it.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 68,
+    "subject": "Christian Religious Studies",
+    "topic": "The Beginning of the Church",
+    "question_text": "When the Holy Spirit was poured out on the Day of Pentecost, some mockers accused the believers of being drunk on new wine. How did Peter logically counter this accusation in Acts 2:15?",
+    "options": {
+      "a": "By proving there was no wine stored in the upper room",
+      "b": "By pointing out that it was only the third hour of the day (9:00 AM)",
+      "c": "By showing them empty water jars",
+      "d": "By having a Roman doctor examine them"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Peter stood up and said, \"For these people are not drunk, as you suppose, since it is only the third hour of the day\" (which corresponds to 9:00 AM, an unlikely time for public drunkenness in that culture).",
+    "section_id": null
+  },
+  {
+    "question_number": 69,
+    "subject": "Christian Religious Studies",
+    "topic": "The Beginning of the Church",
+    "question_text": "In his Pentecost sermon, Peter explained the outpouring of the Holy Spirit by quoting an Old Testament prophet who said, \"And in the last days it shall be, God declares, that I will pour out my Spirit on all flesh...\" Which prophet did Peter quote? (Acts 2:16)",
+    "options": {
+      "a": "Isaiah",
+      "b": "Jeremiah",
+      "c": "Joel",
+      "d": "Ezekiel"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Peter specifically identified the source of his quotation: \"But this is what was uttered through the prophet Joel...\" (Acts 2:16, quoting Joel 2:28).",
+    "section_id": null
+  },
+  {
+    "question_number": 70,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Peter",
+    "question_text": "When Peter arrived in Joppa where the beloved disciple Dorcas had died, what were the widows in the upper room doing? (Acts 9:39)",
+    "options": {
+      "a": "They were cooking a large funeral feast.",
+      "b": "They were weeping and showing him tunics and other garments that Dorcas made while she was with them.",
+      "c": "They were singing joyful hymns.",
+      "d": "They were preparing to bury her in a nearby cave."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Acts 9:39 says, \"All the widows stood beside him weeping and showing tunics and other garments that Dorcas made while she was with them.\" This highlighted her life of good works.",
+    "section_id": null
+  },
+  {
+    "question_number": 71,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "In 1 Corinthians 13:1, Paul describes the necessity of love in the Christian walk. He writes that if he speaks in the tongues of men and of angels, but has not love, he is merely what?",
+    "options": {
+      "a": "A false prophet",
+      "b": "A noisy gong or a clanging cymbal",
+      "c": "A blind guide leading the blind",
+      "d": "A wandering star in the night"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Paul emphasizes that spiritual gifts without love are hollow: \"If I speak in the tongues of men and of angels, but have not love, I am a noisy gong or a clanging cymbal.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 72,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "After Paul presented his profound personal testimony and defense before King Agrippa (Acts 26), what memorable response did the king give?",
+    "options": {
+      "a": "\"In a short time would you persuade me to be a Christian?\"",
+      "b": "\"You have convinced me, I will follow your God.\"",
+      "c": "\"You are mad, your great learning is driving you mad!\"",
+      "d": "\"I sentence you to life in a Roman prison.\""
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "While Festus was the one who shouted that Paul's learning was driving him mad, King Agrippa said to Paul, \"In a short time would you persuade me to be a Christian?\" (Acts 26:28).",
+    "section_id": null
+  },
+  {
+    "question_number": 73,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "In Philippians 4:18, Paul thanks the Philippian church for the financial support they sent him through Epaphroditus. How does Paul describe their Christian giving?",
+    "options": {
+      "a": "As a legal requirement they finally fulfilled",
+      "b": "As a fragrant offering, a sacrifice acceptable and pleasing to God",
+      "c": "As a down payment for their heavenly mansions",
+      "d": "As a bribe to the Roman guards"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Paul frames their financial generosity in priestly terms: \"I am well supplied, having received from Epaphroditus the gifts you sent, a fragrant offering, a sacrifice acceptable and pleasing to God.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 74,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "To teach unity through impartiality, James gives an example (James 2:1-4) of two men walking into a church assembly. What two extremes of society did these men represent?",
+    "options": {
+      "a": "A religious Jew and a pagan Gentile",
+      "b": "A master and a runaway slave",
+      "c": "A man with a gold ring in fine clothing, and a poor man in shabby clothing",
+      "d": "A Roman soldier and a Jewish tax collector"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "James rebukes favoritism by setting up this scenario: \"For if a man wearing a gold ring and fine clothing comes into your assembly, and a poor man in shabby clothing also comes in...\" Believers must not show partiality.",
+    "section_id": null
+  },
+  {
+    "question_number": 75,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "Paul reminds Christians of the ultimate reason for submitting to constituted authorities in Romans 13:5. It is not only to avoid God's wrath but also for the sake of what?",
+    "options": {
+      "a": "Personal financial gain",
+      "b": "Political ambition",
+      "c": "Conscience",
+      "d": "Earning favor with the emperor"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Romans 13:5 states: \"Therefore one must be in subjection, not only to avoid God's wrath but also for the sake of conscience.\" Good citizenship is a moral duty for a believer.",
+    "section_id": null
+  },
+  {
+    "question_number": 76,
+    "subject": "Christian Religious Studies",
+    "topic": "Peaceful Co-existence",
+    "question_text": "The BECE syllabus highlights the shared origins of Christianity and Islam as a basis for peaceful co-existence. The two religions trace their physical and spiritual lineage back to Abraham through which two sons? (Genesis 16, 21)",
+    "options": {
+      "a": "Jacob and Esau",
+      "b": "Cain and Abel",
+      "c": "Isaac and Ishmael",
+      "d": "Ephraim and Manasseh"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Judaism and Christianity trace their covenant lineage through Abraham and Sarah's son, Isaac, while Islam traces its origins back through Abraham and Hagar's son, Ishmael. Acknowledging Abraham as a common father fosters mutual respect.",
+    "section_id": null
+  },
+  {
+    "question_number": 77,
+    "subject": "Christian Religious Studies",
+    "topic": "Unity among Christians",
+    "question_text": "According to the teachings on Christian living among non-Christians (Matthew 5:13), Jesus warned that if salt loses its taste, it is no longer good for anything except to be ____________.",
+    "options": {
+      "a": "thrown out and trampled under people's feet",
+      "b": "fed to the swine in the fields",
+      "c": "mixed with soil to help plants grow",
+      "d": "burned in the fire"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Jesus emphasized that Christians must maintain their distinctive character in society: \"But if salt has lost its taste, how shall its saltiness be restored? It is no longer good for anything except to be thrown out and trampled under people's feet.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 78,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In the Parable of the Ten Virgins, when the five foolish virgins finally returned with oil and knocked on the door, what did the bridegroom say to them? (Matthew 25:11-12)",
+    "options": {
+      "a": "\"You are late, but come in and rejoice.\"",
+      "b": "\"Truly, I say to you, I do not know you.\"",
+      "c": "\"You must pay a fine to enter the feast.\"",
+      "d": "\"Go and sleep outside with the animals.\""
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "After the door was shut, the foolish virgins arrived saying, \"Lord, lord, open to us.\" But the bridegroom answered, \"Truly, I say to you, I do not know you.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 79,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "Following the miraculous feeding of the five thousand with five loaves and two fish, how many baskets of broken pieces were left over? (Matthew 14:20)",
+    "options": {
+      "a": "Seven",
+      "b": "Ten",
+      "c": "Twelve",
+      "d": "Fifteen"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Matthew 14:20 records the abundance of God's provision: \"And they all ate and were satisfied. And they took up twelve baskets full of the broken pieces left over.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 80,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "According to the Beatitudes in the Sermon on the Mount (Matthew 5:5), what reward is promised to the meek?",
+    "options": {
+      "a": "They shall see God.",
+      "b": "They shall inherit the earth.",
+      "c": "They shall obtain mercy.",
+      "d": "They shall be called sons of God."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Jesus taught, \"Blessed are the meek, for they shall inherit the earth.\" This emphasizes that God honors humility and gentleness over worldly aggression.",
+    "section_id": null
+  },
+  {
+    "question_number": 81,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "When Jesus called Matthew to be one of His disciples (Matthew 9:9), where was Matthew sitting and what was his occupation?",
+    "options": {
+      "a": "Sitting in a boat, mending fishing nets",
+      "b": "Sitting in the temple, studying the law",
+      "c": "Sitting at the tax booth, working as a tax collector",
+      "d": "Sitting under a fig tree, praying"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Matthew 9:9 says: \"As Jesus passed on from there, he saw a man called Matthew sitting at the tax booth, and he said to him, 'Follow me.' And he rose and followed him.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 82,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "When Jesus sent out the seventy disciples on their mission (Luke 10:2), He compared the world to a field waiting to be gathered. What did He say about the harvest and the laborers?",
+    "options": {
+      "a": "\"The harvest is ruined, for the laborers were lazy.\"",
+      "b": "\"The harvest is plentiful, but the laborers are few.\"",
+      "c": "\"The harvest is small, so only a few laborers are needed.\"",
+      "d": "\"The harvest will wait until the laborers are ready.\""
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Jesus told them, \"The harvest is plentiful, but the laborers are few. Therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 83,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In the Parable of the Sower (Matthew 13:23), what does the seed sown on good soil represent?",
+    "options": {
+      "a": "One who hears the word but forgets it the next day",
+      "b": "One who hears the word, understands it, and bears fruit yielding a hundred, sixty, or thirtyfold",
+      "c": "One who preaches the word but does not practice it",
+      "d": "One who uses the word of God to gain earthly riches"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Jesus explained: \"As for what was sown on good soil, this is the one who hears the word and understands it. He indeed bears fruit and yields, in one case a hundredfold, in another sixty, and in another thirty.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 84,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "While praying in the Garden of Gethsemane, Jesus fell on His face in deep distress. According to Matthew 26:39, what was His prayer to the Father?",
+    "options": {
+      "a": "\"My Father, let fire come down and consume my enemies.\"",
+      "b": "\"My Father, if it be possible, let this cup pass from me; nevertheless, not as I will, but as you will.\"",
+      "c": "\"My Father, send legions of angels to deliver me tonight.\"",
+      "d": "\"My Father, why have you forsaken me?\""
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Demonstrating ultimate submission to God's will despite immense suffering, Jesus prayed: \"My Father, if it be possible, let this cup pass from me; nevertheless, not as I will, but as you will.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 85,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "During the crucifixion of Jesus, a dramatic and eerie supernatural event occurred over the land from the sixth hour until the ninth hour (from noon to 3:00 PM). What was it? (Matthew 27:45)",
+    "options": {
+      "a": "A continuous lightning storm",
+      "b": "An eclipse of the moon",
+      "c": "Darkness over all the land",
+      "d": "A massive swarm of locusts"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Matthew 27:45 records: \"Now from the sixth hour there was darkness over all the land until the ninth hour.\" This darkness symbolized divine judgment and the mourning of creation.",
+    "section_id": null
+  },
+  {
+    "question_number": 86,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "During Jesus' Triumphal Entry, what did the massive crowds do to honor Him as He rode the donkey towards Jerusalem? (Matthew 21:8)",
+    "options": {
+      "a": "They built a wooden chariot for Him.",
+      "b": "They threw gold and silver coins on the path.",
+      "c": "They spread their cloaks on the road and cut branches from the trees to lay before Him.",
+      "d": "They marched ahead of Him with Roman flags."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Matthew 21:8 states: \"Most of the crowd spread their cloaks on the road, and others cut branches from the trees and spread them on the road,\" as a traditional act of welcoming a victorious king.",
+    "section_id": null
+  },
+  {
+    "question_number": 87,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ascension of Jesus Christ",
+    "question_text": "Before Jesus ascended, He gave the disciples a specific instruction in Luke 24:49 regarding their empowerment for ministry. What were they supposed to do?",
+    "options": {
+      "a": "Go immediately to Rome and confront the Emperor.",
+      "b": "Stay in the city until they were clothed with power from on high.",
+      "c": "Disband and return to their fishing businesses.",
+      "d": "Move into the wilderness and build a permanent tabernacle."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Jesus emphasized the absolute necessity of the Holy Spirit's empowerment, saying: \"And behold, I am sending the promise of my Father upon you. But stay in the city until you are clothed with power from on high.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 88,
+    "subject": "Christian Religious Studies",
+    "topic": "The Promise of The Holy Spirit",
+    "question_text": "In Acts 1:8, Jesus explained the specific purpose of the coming of the Holy Spirit. He said, \"But you will receive ____________ when the Holy Spirit has come upon you, and you will be my witnesses...\"",
+    "options": {
+      "a": "wealth",
+      "b": "peace",
+      "c": "power",
+      "d": "long life"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Acts 1:8 famously states: \"But you will receive power when the Holy Spirit has come upon you, and you will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 89,
+    "subject": "Christian Religious Studies",
+    "topic": "Opposition to The Gospel",
+    "question_text": "As Stephen was being stoned to death by his persecutors, he fell to his knees and cried out with a loud voice. What were his final words? (Acts 7:60)",
+    "options": {
+      "a": "\"Father, avenge my blood on this wicked city!\"",
+      "b": "\"Lord, do not hold this sin against them.\"",
+      "c": "\"I will return to judge you all.\"",
+      "d": "\"Take me quickly, O Lord.\""
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Reflecting the very spirit of Christ on the cross, Stephen prayed for his executioners: \"And falling to his knees he cried out with a loud voice, 'Lord, do not hold this sin against them.' And when he had said this, he fell asleep.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 90,
+    "subject": "Christian Religious Studies",
+    "topic": "Opposition to The Gospel",
+    "question_text": "When Peter and John were arrested at the temple (Acts 4:1-2), the priests, the captain of the temple, and the Sadducees were greatly annoyed. What specific teaching of the apostles angered the Sadducees the most?",
+    "options": {
+      "a": "They were teaching that people should not pay temple taxes.",
+      "b": "They were proclaiming in Jesus the resurrection from the dead.",
+      "c": "They were claiming to be the new high priests of Israel.",
+      "d": "They were declaring that the Roman government should be overthrown."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The Sadducees (who doctrinally denied the resurrection) were \"greatly annoyed because they were teaching the people and proclaiming in Jesus the resurrection from the dead.\" (Acts 4:2)",
+    "section_id": null
+  },
+  {
+    "question_number": 91,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Peter",
+    "question_text": "After Peter's miraculous release from prison (Acts 12), he went to the house of Mary, the mother of John Mark. Who answered the door and was so overjoyed that she left him standing outside?",
+    "options": {
+      "a": "Martha",
+      "b": "Lydia",
+      "c": "Rhoda",
+      "d": "Sapphira"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Acts 12:13-14 states: \"And when he knocked at the door of the gateway, a servant girl named Rhoda came to answer. Recognizing Peter's voice, in her joy she did not open the gate but ran in and reported that Peter was standing at the gate.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 92,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "To demonstrate the dignity of labor, Paul reminded the Thessalonian church of his own personal work ethic while living among them. What did he say he did? (2 Thessalonians 3:8)",
+    "options": {
+      "a": "He lived in luxury, supported entirely by wealthy believers.",
+      "b": "He demanded daily wages from the church treasury.",
+      "c": "He worked with his hands in toil and labor night and day so as not to be a burden.",
+      "d": "He refused to work and focused solely on preaching."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Paul led by example, writing: \"...nor did we eat anyone's bread without paying for it, but with toil and labor we worked night and day, that we might not be a burden to any of you.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 93,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "During Paul's imprisonment in Caesarea under Governor Felix (Acts 24:26), Felix sent for Paul frequently and conversed with him. What was Felix secretly hoping to get from Paul?",
+    "options": {
+      "a": "A detailed explanation of Jewish prophecy",
+      "b": "A bribe (money) so that he would release him",
+      "c": "Information about a rebellion against Rome",
+      "d": "A miraculous healing for his sick daughter"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Acts 24:26 exposes the governor's corruption: \"At the same time he hoped that money would be given him by Paul. So he sent for him often and conversed with him.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 94,
+    "subject": "Christian Religious Studies",
+    "topic": "Unity among Christians",
+    "question_text": "In teaching the principle of Christian giving (2 Corinthians 9:6), Paul uses an agricultural metaphor. He writes: \"The point is this: whoever sows sparingly will also reap sparingly, and whoever sows bountifully will also ________.\"",
+    "options": {
+      "a": "have enough to eat",
+      "b": "never work again",
+      "c": "reap bountifully",
+      "d": "feed the whole nation"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Paul assures believers that God honors generous giving by stating: \"...whoever sows bountifully will also reap bountifully.\" This teaches that spiritual and practical generosity results in abundant blessing.",
+    "section_id": null
+  },
+  {
+    "question_number": 95,
+    "subject": "Christian Religious Studies",
+    "topic": "Peaceful Co-existence",
+    "question_text": "In Genesis 13:8, a dispute arose over grazing land between the herdsmen of Abram (Abraham) and his nephew. What was the nephew's name, to whom Abram proposed peaceful co-existence by allowing him to choose land first?",
+    "options": {
+      "a": "Isaac",
+      "b": "Esau",
+      "c": "Lot",
+      "d": "Laban"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Abram modeled peaceful co-existence, saying to Lot: \"Let there be no strife between you and me, and between your herdsmen and my herdsmen, for we are kinsmen. Is not the whole land before you?\"",
+    "section_id": null
+  },
+  {
+    "question_number": 96,
+    "subject": "Christian Religious Studies",
+    "topic": "Christian Living among Non-Christians",
+    "question_text": "According to 1 Peter 3:15, Christians are commanded to always be prepared to make a defense to anyone who asks for a reason for the hope they have. In what manner should this defense be made?",
+    "options": {
+      "a": "With arrogance and loud shouting",
+      "b": "With gentleness and respect",
+      "c": "With physical force and threats",
+      "d": "With silent judgment"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "1 Peter 3:15 highlights the proper Christian attitude towards non-believers: \"always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 97,
+    "subject": "Christian Religious Studies",
+    "topic": "Unity among Christians",
+    "question_text": "In James 2:13, teaching about the necessity of showing love and mercy to all people equally, the apostle states a profound warning: \"For judgment is without mercy to one who has shown no ________.\"",
+    "options": {
+      "a": "courage",
+      "b": "wealth",
+      "c": "mercy",
+      "d": "faith"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "James 2:13 warns against a hard, unforgiving, or prejudiced heart: \"For judgment is without mercy to one who has shown no mercy. Mercy triumphs over judgment.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 98,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In the Parable of the Unforgiving Steward (Matthew 18:28-30), what did the first servant do immediately after the king had mercifully forgiven his massive debt?",
+    "options": {
+      "a": "He went to the temple to offer a sacrifice of thanksgiving.",
+      "b": "He found a fellow servant who owed him a small amount and choked him, demanding payment.",
+      "c": "He threw a large feast for his friends to celebrate his freedom.",
+      "d": "He returned to the king and offered to work for him for free."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Despite being forgiven a debt of ten thousand talents, the servant immediately went out and ruthlessly demanded a hundred denarii from a fellow servant, choking him and throwing him into prison.",
+    "section_id": null
+  },
+  {
+    "question_number": 99,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In the Parable of the Ten Virgins (Matthew 25:8-9), what was the response of the wise virgins when the foolish ones asked to share their oil?",
+    "options": {
+      "a": "They generously shared half of their oil.",
+      "b": "They scolded the foolish virgins for their laziness.",
+      "c": "They told them to go to the dealers and buy for themselves, lest there not be enough for everyone.",
+      "d": "They blew out their own lamps so no one would have light."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The wise virgins replied, \"Since there will not be enough for us and for you, go rather to the dealers and buy for yourselves.\" This illustrates that spiritual preparedness cannot be borrowed from another person.",
+    "section_id": null
+  },
+  {
+    "question_number": 100,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "When Jesus sent out the seventy disciples and they returned with joy, He declared that He had given them a specific kind of authority. What was it? (Luke 10:19)",
+    "options": {
+      "a": "Authority to govern the twelve tribes of Israel",
+      "b": "Authority to collect taxes on His behalf",
+      "c": "Authority to tread on serpents and scorpions, and over all the power of the enemy",
+      "d": "Authority to call down fire from heaven on unbelievers"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Luke 10:19 says: \"Behold, I have given you authority to tread on serpents and scorpions, and over all the power of the enemy, and nothing shall hurt you.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 101,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "Jesus taught that love is the supreme mark of a Christian disciple. In John 13:35, what did He say would be the result if His followers loved one another?",
+    "options": {
+      "a": "The Roman Empire would finally collapse.",
+      "b": "They would never face sickness or poverty.",
+      "c": "All people would know that they are His disciples.",
+      "d": "They would instantly be transported to heaven."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Jesus said, \"By this all people will know that you are my disciples, if you have love for one another.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 102,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "During His Triumphant Entry (Luke 19:41-44), what emotionally profound action did Jesus take as He approached and saw the city of Jerusalem?",
+    "options": {
+      "a": "He laughed in triumph.",
+      "b": "He wept over it, foreseeing its coming destruction.",
+      "c": "He ordered His disciples to build a throne there.",
+      "d": "He refused to enter and turned back to Galilee."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Luke 19:41 tells us: \"And when he drew near and saw the city, he wept over it,\" because the people did not recognize the time of God's coming to them, leading to their eventual destruction by Rome.",
+    "section_id": null
+  },
+  {
+    "question_number": 103,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "When the crowd came to arrest Jesus in the Garden of Gethsemane, one of Jesus' disciples drew a sword and cut off the ear of the high priest's servant. How did Jesus react? (Matthew 26:51-52)",
+    "options": {
+      "a": "He encouraged the other disciples to also draw their swords.",
+      "b": "He told him to put his sword back into its place, stating that all who take the sword will perish by the sword.",
+      "c": "He ran away while the disciple distracted the guards.",
+      "d": "He thanked the disciple for defending Him."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Jesus immediately rebuked the violence, saying, \"Put your sword back into its place. For all who take the sword will perish by the sword,\" and proceeded to heal the servant's ear.",
+    "section_id": null
+  },
+  {
+    "question_number": 104,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "When Jesus was crucified, what was written on the charge placed over His head? (Matthew 27:37)",
+    "options": {
+      "a": "\"This is Jesus, the Carpenter of Nazareth.\"",
+      "b": "\"This is the enemy of the Roman Empire.\"",
+      "c": "\"This is Jesus, the King of the Jews.\"",
+      "d": "\"This man claimed to be God.\""
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Matthew 27:37 states: \"And over his head they put the charge against him, which read, 'This is Jesus, the King of the Jews.'\"",
+    "section_id": null
+  },
+  {
+    "question_number": 105,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "After Jesus resurrected, the Roman guards reported the empty tomb to the chief priests. What deceitful plan did the chief priests devise to cover up the resurrection? (Matthew 28:12-13)",
+    "options": {
+      "a": "They gave the soldiers a large sum of money to say the disciples stole His body while they were asleep.",
+      "b": "They claimed that Jesus had secretly paid the guards to let Him out.",
+      "c": "They told everyone that an earthquake had swallowed the body into the ground.",
+      "d": "They said the body was taken away by a pack of wild animals."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The elders \"gave a sufficient sum of money to the soldiers and said, 'Tell people, His disciples came by night and stole him away while we were asleep.'\"",
+    "section_id": null
+  },
+  {
+    "question_number": 106,
+    "subject": "Christian Religious Studies",
+    "topic": "The Beginning of the Church",
+    "question_text": "When the crowd heard Peter's Pentecost speech, they were \"cut to the heart\" and asked what they should do. What did Peter tell them? (Acts 2:38)",
+    "options": {
+      "a": "\"Go home and wait for another sign from heaven.\"",
+      "b": "\"Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins.\"",
+      "c": "\"Bring all your money and give it to the apostles.\"",
+      "d": "\"Flee from Jerusalem before the Romans destroy it.\""
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Peter replied directly to their conviction: \"Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 107,
+    "subject": "Christian Religious Studies",
+    "topic": "The Beginning of the Church",
+    "question_text": "Who was the highly respected Pharisee and teacher of the law in the Jewish council that advised them to release the apostles, warning them not to \"be found opposing God\"? (Acts 5:34-39)",
+    "options": {
+      "a": "Nicodemus",
+      "b": "Joseph of Arimathea",
+      "c": "Caiaphas",
+      "d": "Gamaliel"
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "Gamaliel, a teacher of the law held in honor by all the people, advised the council: \"...keep away from these men and let them alone, for if this plan or this undertaking is of man, it will fail; but if it is of God, you will not be able to overthrow them.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 108,
+    "subject": "Christian Religious Studies",
+    "topic": "The Beginning of the Church",
+    "question_text": "In Acts 3:1-10, Peter and John encountered a man who had been lame from birth. Where exactly was this man placed daily to ask for alms?",
+    "options": {
+      "a": "At the city gates of Jericho",
+      "b": "At the Beautiful Gate of the temple",
+      "c": "By the Pool of Bethesda",
+      "d": "In the marketplace of Jerusalem"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Acts 3:2 says: \"And a man lame from birth was being carried, whom they laid daily at the gate of the temple that is called the Beautiful Gate to ask alms of those entering the temple.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 109,
+    "subject": "Christian Religious Studies",
+    "topic": "The Beginning of the Church",
+    "question_text": "When Peter entered the house of Cornelius, the Roman centurion fell down at his feet to worship him. How did Peter correct him? (Acts 10:25-26)",
+    "options": {
+      "a": "He accepted the worship because he was the head apostle.",
+      "b": "He lifted him up, saying, \"Stand up; I too am a man.\"",
+      "c": "He demanded that Cornelius bring an offering first.",
+      "d": "He was offended and walked out of the house."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Peter completely rejected being treated as a deity or higher being, stating humbly: \"Stand up; I too am a man.\" This reinforced that only God should be worshipped.",
+    "section_id": null
+  },
+  {
+    "question_number": 110,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "The Apostle Paul taught the dignity of labor and also practiced it himself so he would not be a burden to the churches. What was Paul's trade or occupation? (Acts 18:3)",
+    "options": {
+      "a": "A fisherman",
+      "b": "A tax collector",
+      "c": "A tentmaker",
+      "d": "A carpenter"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "When Paul visited Corinth, he stayed with Aquila and Priscilla, \"and because he was of the same trade he stayed with them and worked, for they were tentmakers by trade.\" (Acts 18:3)",
+    "section_id": null
+  },
+  {
+    "question_number": 111,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "In teaching believers about obedience to constituted authorities in Romans 13:7, Paul said to pay everyone what is owed them. He mentions taxes, revenue, and which two other things?",
+    "options": {
+      "a": "Tithes and offerings",
+      "b": "Sacrifices and burnt offerings",
+      "c": "Respect and honor",
+      "d": "Food and clothing"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Paul wrote: \"Pay to all what is owed to them: taxes to whom taxes are owed, revenue to whom revenue is owed, respect to whom respect is owed, honor to whom honor is owed.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 112,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "During Paul's arrest in Jerusalem, the Roman tribune ordered that he be examined by flogging. What crucial piece of information did Paul reveal that made the soldiers stop immediately? (Acts 22:25-29)",
+    "options": {
+      "a": "He revealed that he was a personal friend of King Herod.",
+      "b": "He stated that he was a Roman citizen by birth.",
+      "c": "He offered the tribune a large bribe of gold.",
+      "d": "He prophesied an impending earthquake."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Paul asked the centurion, \"Is it lawful for you to flog a man who is a Roman citizen and uncondemned?\" When the tribune heard that Paul was a citizen by birth, those who were about to examine him withdrew.",
+    "section_id": null
+  },
+  {
+    "question_number": 113,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "In his renowned chapter on Love (1 Corinthians 13:13), Paul concludes by identifying the three things that will endure forever. They are faith, hope, and love. Which of these does he declare to be the greatest?",
+    "options": {
+      "a": "Faith",
+      "b": "Hope",
+      "c": "Love",
+      "d": "They are perfectly equal."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Paul concludes the chapter profoundly: \"So now faith, hope, and love abide, these three; but the greatest of these is love.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 114,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "In Mark 16:15-16, which is known as part of the Great Commission, what does Jesus state will happen to the one who believes and is baptized, compared to the one who does not believe?",
+    "options": {
+      "a": "Whoever believes will be wealthy, but whoever does not will be poor.",
+      "b": "Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.",
+      "c": "Whoever believes will become a priest, but whoever does not will be a servant.",
+      "d": "Whoever believes will never get sick, but whoever does not will face illness."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Jesus explicitly stated the spiritual consequences of the gospel message: \"Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 115,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "In Galatians 6:2, Paul provides a clear way for Christians to maintain unity and practically show love for one another. He says, \"Bear one another's burdens, and so fulfill the law of ______.\"",
+    "options": {
+      "a": "Moses",
+      "b": "the Prophets",
+      "c": "Christ",
+      "d": "the Church"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "By helping fellow believers with their struggles, Christians fulfill \"the law of Christ,\" which is grounded entirely in self-sacrificial love.",
+    "section_id": null
+  },
+  {
+    "question_number": 116,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "In Matthew 5:23-24, Jesus taught about the priority of peaceful co-existence. What did He say a person must do if they are offering a gift at the altar and remember that their brother has something against them?",
+    "options": {
+      "a": "Offer the gift quickly and then go apologize.",
+      "b": "Leave the gift before the altar, first be reconciled to their brother, and then come and offer the gift.",
+      "c": "Keep the gift and never speak to the brother again.",
+      "d": "Give half the gift to the brother to appease his anger."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Jesus heavily prioritized interpersonal reconciliation over religious ritual, instructing believers to resolve disputes and make peace before offering their worship to God.",
+    "section_id": null
+  },
+  {
+    "question_number": 117,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "When addressing Christian living among non-Christians, the Apostle Peter encourages believers to have unity of mind, sympathy, brotherly love, a tender heart, and a humble mind (1 Peter 3:8). What is the primary purpose of living this way?",
+    "options": {
+      "a": "To ensure they win every political election in their town",
+      "b": "To inherit a blessing from God and be a good testimony to unbelievers",
+      "c": "To prove that they are more intelligent than the rest of society",
+      "d": "To avoid paying civil taxes to the Roman authorities"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Peter urges believers to exhibit these gentle and unifying traits so they might \"inherit a blessing\" (1 Pet 3:9) and live honorably among non-believers, showing the reality of their faith.",
+    "section_id": null
+  },
+  {
+    "question_number": 118,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "The story of Philemon and Onesimus represents a profound lesson on Christian forgiveness and peaceful co-existence. What was the original relationship between these two men before Paul intervened?",
+    "options": {
+      "a": "They were rival kings of neighboring territories.",
+      "b": "Onesimus was Philemon's runaway slave.",
+      "c": "They were brothers fighting over an inheritance.",
+      "d": "Philemon was a Roman judge and Onesimus was a thief."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Onesimus had been a slave who ran away from his master, Philemon. After converting to Christianity, Paul sent him back, urging Philemon to receive him not as a slave, but as a beloved Christian brother.",
+    "section_id": null
+  },
+  {
+    "question_number": 119,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "In 1 Peter 1:6-9, Peter addresses Christians going through various trials and persecutions. He explains that these trials have a specific purpose: to test the genuineness of their ____________.",
+    "options": {
+      "a": "intelligence",
+      "b": "faith",
+      "c": "wealth",
+      "d": "physical strength"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Peter compares their trials to a refining fire: \"so that the tested genuineness of your faith—more precious than gold that perishes though it is tested by fire—may be found to result in praise and glory and honor at the revelation of Jesus Christ.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 120,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "When addressing the Jewish council in Acts 23:3, Paul reacted strongly when the high priest Ananias ordered him to be struck on the mouth. What sharp phrase did Paul use to rebuke him?",
+    "options": {
+      "a": "\"You brood of vipers!\"",
+      "b": "\"God is going to strike you, you whitewashed wall!\"",
+      "c": "\"Woe to you, hypocrite!\"",
+      "d": "\"You son of the devil!\""
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "In a moment of intense provocation, Paul cried out, \"God is going to strike you, you whitewashed wall! Are you sitting to judge me according to the law, and yet contrary to the law you order me to be struck?\"",
+    "section_id": null
+  },
+  {
+    "question_number": 121,
+    "subject": "Christian Religious Studies",
+    "topic": "The Christian Church Today",
+    "question_text": "What practical outcome should arise from Christians demonstrating love, tolerance, and a desire for peaceful co-existence with their Muslim neighbors in Nigeria?",
+    "options": {
+      "a": "A constant battle for supremacy over community resources",
+      "b": "A harmonious society devoid of religious violence and ethnic tension",
+      "c": "The establishment of a nationwide Christian state",
+      "d": "The total separation of communities by religious beliefs"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The ultimate goal of peaceful co-existence taught in the CRS syllabus is for believers to interact harmoniously with non-believers (including those of other faiths like Islam), preventing religious crises and promoting peace and national development.",
+    "section_id": null
+  },
+  {
+    "question_number": 122,
+    "subject": "Christian Religious Studies",
+    "topic": "The Beginning of the Church",
+    "question_text": "In the early church, when Stephen was arrested and brought before the council, the false witnesses claimed he spoke words against the temple and the law. However, what did all who sat in the council notice about Stephen's face? (Acts 6:15)",
+    "options": {
+      "a": "It looked dark and extremely angry.",
+      "b": "It looked like the face of an angel.",
+      "c": "It was covered in tears of fear.",
+      "d": "It became aged and completely white."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Despite being falsely accused and on trial for his life, Acts 6:15 notes: \"And gazing at him, all who sat in the council saw that his face was like the face of an angel,\" reflecting the peace and presence of the Holy Spirit.",
+    "section_id": null
+  },
+  {
+    "question_number": 123,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "In his final defense before Governor Festus and King Agrippa, Paul summarized his entire ministry and the essence of the gospel by declaring that \"the Christ must suffer and that, by being the first to rise from the dead, he would proclaim ________ both to our people and to the Gentiles.\" (Acts 26:23)",
+    "options": {
+      "a": "wealth",
+      "b": "light",
+      "c": "law",
+      "d": "war"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Paul succinctly captures the message of salvation for both Jews and Gentiles by saying: \"...he would proclaim light both to our people and to the Gentiles.\"",
+    "section_id": null
+  }
+]

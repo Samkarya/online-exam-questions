@@ -532,6 +532,20 @@
     "suitePath": "configs/bece.json"
   },
   {
+    "id": "bece_crsPaper2NewTestament0",
+    "title": "BECE CRS: Christian Religious Studies: New Testament Part 1 (Paper 2)",
+    "short_description": "Comprehensive CRS Paper 2 practice covering the Early Life, Ministry of Jesus Christ, and the Life and Teachings of Paul.",
+    "path": "nigeria/BECE/christianReligiousStudies/CRS_paper2_newTestament0.json",
+    "suitePath": "configs/bece.json"
+  },
+  {
+    "id": "bece_crsPaper2NewTestament1",
+    "title": "BECE CRS: Christian Religious Studies: New Testament Part 2 (Paper 2)",
+    "short_description": "Comprehensive CRS Paper 2 practice covering the Christian Church Today, Ministry of Jesus, Passion & Resurrection, and Early Church.",
+    "path": "nigeria/BECE/christianReligiousStudies/CRS_paper2_newTestament1.json",
+    "suitePath": "configs/bece.json"
+  },
+  {
     "id": "hosa_nutrition_physiology",
     "title": "HOSA Nutrition: Nutritional Physiology",
     "short_description": "Contains 48 Questions",
