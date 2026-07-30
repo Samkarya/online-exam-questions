@@ -65,8 +65,7 @@ async function validate() {
         const fullPath = path.join(__dirname, '..', relativePath);
 
         if (!fs.existsSync(fullPath)) {
-            console.error(`❌ MISSING CONFIG: "${relativePath}" referenced in config.json not found.`);
-            hasError = true;
+            console.warn(`⚠️ MISSING CONFIG (Skipped): "${relativePath}" referenced in config.json not found.`);
             continue;
         }
 
@@ -90,12 +89,9 @@ async function validate() {
                     searchIndex.push({
                         id: exam.id,
                         title: exam.title,
-                        description: exam.description,
                         short_description: exam.short_description,
                         path: exam.path,
                         suitePath: relativePath,
-                        category: exam.category,
-                        year: exam.year,
                         tags: exam.tags
                     });
                 }

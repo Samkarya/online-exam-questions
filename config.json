@@ -2732,5 +2732,182 @@
         }
       ]
     }
+  },
+  "nocti-biotechnology-4275": {
+    "path": "configs/nocti-biotechnology-4275.json",
+    "meta": {
+      "examId": "NOCTI_BIOTECH_4275",
+      "fullName": "NOCTI Biotechnology Job Ready Assessment (Test Code 4275)",
+      "shortName": "NOCTI Biotechnology 4275",
+      "category": "Career & Technical Education (CTE) Industry Credential",
+      "conductingBody": "NOCTI (National Occupational Competency Testing Institute)",
+      "country": "USA",
+      "examType": [
+        "Industry Credential",
+        "Job Ready Assessment",
+        "Written + Hands-On Performance"
+      ],
+      "description": "The NOCTI Biotechnology Job Ready Assessment (Test Code 4275, Version 01) is a national industry credential for entry-level biotechnology technicians, developed jointly by secondary, post-secondary, and industry representatives from eight U.S. states. It pairs a 170-question, 3-hour written exam covering ethics, lab math, and molecular biology with a 5-job, 105-minute hands-on performance test scored by independent third-party evaluators. The credential satisfies Perkins V CTE accountability requirements, qualifies candidates for state-level credentials such as the Pennsylvania Skills Certificate, and can earn 3 semester hours of college credit through national credit articulation services.",
+      "officialWebsite": "https://www.nocti.org/blueprint/biotechnology/",
+      "isOfficial": false,
+      "lastUpdated": "2026-07-27",
+      "seoTitle": "NOCTI Biotechnology 4275 (2026): Free Practice Tests, Blueprint & Cut Scores",
+      "seoDescription": "Prepare for NOCTI Biotechnology 4275 with free practice tests, the full written & performance blueprint, domain weights, and 2026 testing windows.",
+      "relatedBlogTags": [
+        "NOCTI",
+        "Biotechnology",
+        "CTE Credential",
+        "Perkins V",
+        "Career and Technical Education"
+      ],
+      "heroStats": [
+        { "label": "Written Questions", "value": "170" },
+        { "label": "Performance Jobs", "value": "5" },
+        { "label": "Total Test Time", "value": "4h 45m" },
+        { "label": "College Credit", "value": "3 Sem. Hrs" }
+      ],
+      "importantDates": [
+        {
+          "event": "PA Spring Summative Testing Window (2026)",
+          "date": "2026-03-03 to 2026-04-30",
+          "note": "Statewide window for Pennsylvania CTE post-testing; other adopting states set their own dates on a similar spring cycle.",
+          "status": "past"
+        },
+        {
+          "event": "Diagnostic Pre-Testing Window",
+          "date": "October (annual)",
+          "note": "Optional baseline test used to identify curricular gaps ahead of summative testing.",
+          "status": "upcoming"
+        },
+        {
+          "event": "Mid-Year Summative Window",
+          "date": "November \u2013 January (annual)",
+          "note": "For block-scheduled or single-semester CTE concentrators graduating mid-year.",
+          "status": "upcoming"
+        },
+        {
+          "event": "Next Spring Summative Window (2027, estimated)",
+          "date": "March \u2013 April/May 2027",
+          "note": "Exact dates are set annually by each state's CTE office \u2014 confirm with your state department of education or program instructor.",
+          "status": "upcoming"
+        }
+      ],
+      "resultInfo": {
+        "info": "NOCTI generates Individual Score Reports showing overall pass/fail status plus percentage breakdowns for each skill standard and performance job. Reports are released to instructors and testing coordinators through the NOCTI Client Services Center rather than directly to candidates.",
+        "url": "https://clientservices.nocti.org/"
+      },
+      "officialLinks": [
+        {
+          "label": "NOCTI Biotechnology Blueprint (Official PDF)",
+          "url": "https://www.nocti.org/wp-content/uploads/Blueprints/JRBiotechnology4275.pdf"
+        },
+        {
+          "label": "NOCTI Credential Blueprints Directory",
+          "url": "https://www.nocti.org/credentials/blueprints/"
+        },
+        {
+          "label": "NOCTI State Programs",
+          "url": "https://www.nocti.org/credentials/state-programs/"
+        },
+        {
+          "label": "Pennsylvania CTE Assessment Information",
+          "url": "https://www.pa.gov/agencies/education/programs-and-services/instruction/career-and-technical-education/assessment-information"
+        }
+      ],
+      "keyFacts": [
+        { "label": "Test Code / Version", "value": "4275 / 01" },
+        { "label": "Format", "value": "Written (MCQ) + Performance (Hands-on)" },
+        { "label": "Written Duration", "value": "3 hours (170 questions)" },
+        { "label": "Performance Duration", "value": "1 hr 45 min (5 jobs)" },
+        { "label": "CIP Codes", "value": "41.0101 & 43-9111.01" },
+        { "label": "Career Cluster", "value": "Health Science" },
+        { "label": "College Credit", "value": "3 semester hours (lower-division)" }
+      ],
+      "eligibility": [
+        "Secondary CTE concentrators/seniors enrolled in an approved biotechnology program in an adopting state",
+        "Post-secondary technical students completing a biotechnology or related life-sciences program",
+        "CTE educator candidates seeking teacher certification/licensure in biotechnology",
+        "No independent public registration \u2014 candidates must test through a NOCTI-registered school, college, or CTE program"
+      ],
+      "examPattern": [
+        { "label": "Written Assessment", "value": "170 multiple-choice questions, 3 hours, delivered online or paper/pencil" },
+        { "label": "Session Flexibility", "value": "1, 2, or 3 sessions for in-person testing; single continuous 3-hour session required for remote proctoring" },
+        { "label": "Calculator Policy", "value": "Integrated four-function calculator only; external scientific or graphing calculators are prohibited" },
+        { "label": "Performance Assessment", "value": "5 hands-on lab jobs, 1 hour 45 minutes total, scored by independent third-party evaluators" },
+        { "label": "Performance Job Weights", "value": "Colony Streaking 29% | Serial Dilution 21% | Molar Solution 19% | Micropipettes 18% | Serological Pipettes 13%" },
+        { "label": "Scoring Standard", "value": "Criterion-referenced tiers: Advanced, Competent, or Basic" }
+      ],
+      "syllabusOverview": [
+        {
+          "subject": "Ethics",
+          "weightage": "32%",
+          "topics": "Bioethics (recombinant DNA, animal testing, stem cells, gene editing), professional conduct & data integrity, conflict-of-interest disclosure, locating and citing peer-reviewed literature"
+        },
+        {
+          "subject": "Laboratory Knowledge & Skills",
+          "weightage": "21%",
+          "topics": "Experimental design (controls, independent/dependent variables, replication), molarity and %w/v \u2044 %v/v calculations, serial dilutions (C1V1=C2V2), PCR (denaturation, annealing, extension), gel electrophoresis, protein separation (chromatography, PAGE), quality control & equipment calibration, graph interpretation"
+        },
+        {
+          "subject": "Knowledge of Biotechnology",
+          "weightage": "12%",
+          "topics": "Applications in agriculture, forensics, environmental bioremediation, medicine, and food processing; the central dogma (DNA \u2192 RNA \u2192 protein); historical milestones and key scientists"
+        },
+        {
+          "subject": "Appropriate Equipment & Instrumentation",
+          "weightage": "11%",
+          "topics": "Micropipettes, graduated cylinders and serological pipettes; compound and inverted microscopy; spectrophotometry; pH meters, analytical balances, water baths, incubators, autoclaves"
+        },
+        {
+          "subject": "Biotechnology in a Regulated Environment",
+          "weightage": "11%",
+          "topics": "FDA, EPA, OSHA and USDA oversight; SOP administration and revision control; laboratory notebook documentation and chain-of-custody"
+        },
+        {
+          "subject": "Aseptic/Sterile Techniques",
+          "weightage": "8%",
+          "topics": "Aseptic method and sterile-zone maintenance; microbial culturing and media preparation; PPE selection; Biosafety Levels BSL-1 through BSL-4; waste management"
+        },
+        {
+          "subject": "Safety in the Biotechnology Laboratory",
+          "weightage": "5%",
+          "topics": "OSHA-aligned personal safety protocols; SDS interpretation; chemical and biohazard handling & disposal; inspection of eyewash stations, safety showers, fume hoods, and biosafety cabinets"
+        }
+      ],
+      "relatedExams": [
+        "bace",
+        "mtel"
+      ],
+      "faqs": [
+        {
+          "question": "What does NOCTI Test Code 4275 measure?",
+          "answer": "It measures entry-level occupational readiness in biotechnology across seven theory domains (via a 170-question written exam) and five standardized hands-on lab tasks (via a performance exam), validating both conceptual knowledge and practical technique against industry-set standards."
+        },
+        {
+          "question": "How is the NOCTI Biotechnology cut score set?",
+          "answer": "NOCTI convenes panels of 10\u201315 subject matter experts. The written exam's passing score uses the Nedelsky method (mean SME reciprocal estimates plus two standard errors of the mean); the performance exam uses the Angoff method (mean of SME 5-point rubric ratings). Cut scores are recalculated whenever the blueprint is revised."
+        },
+        {
+          "question": "Can I use my own calculator on the written exam?",
+          "answer": "No. Only the integrated four-function calculator built into the online testing platform is permitted. External scientific or graphing calculators are not allowed."
+        },
+        {
+          "question": "Who scores the hands-on performance component?",
+          "answer": "Independent, trained third-party evaluators \u2014 typically working biotechnicians, QC managers, or post-secondary faculty \u2014 not the candidate's own classroom instructor, to preserve scoring objectivity."
+        },
+        {
+          "question": "Does passing NOCTI Biotechnology 4275 earn college credit?",
+          "answer": "It can. National credit articulation services recommend 3 semester hours of lower-division baccalaureate/associate credit for a passing score, though acceptance depends on the receiving college \u2014 confirm transfer policy with the specific institution."
+        },
+        {
+          "question": "Which states currently administer this credential?",
+          "answer": "The assessment was developed with representatives from Connecticut, Georgia, Kentucky, New Jersey, New York, Oklahoma, Virginia, and West Virginia, and is also administered statewide in Pennsylvania, Oregon, and Rhode Island, among other adopting states."
+        },
+        {
+          "question": "Can I take the written test remotely?",
+          "answer": "Yes, via virtual remote proctoring, but it must be completed in one continuous 3-hour session rather than split across multiple sittings. The performance component still requires an in-person, physically equipped lab station and cannot be done remotely."
+        }
+      ]
+    }
   }
 }

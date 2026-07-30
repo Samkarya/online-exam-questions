@@ -350,5 +350,53 @@
         "isOfficial": false,
         "seo_title": "BECE Social Studies Practice Test | National Values Education",
         "seo_description": "Prepare for the BECE National Values Education exam with our free Social Studies practice test. Master family structures, marriage readiness, socialization, and social problem solving for Junior WAEC."
-    }
+    },
+    {
+    "id": "bece_crsPaper1OldTestament",
+    "category": "BECE",
+    "year": 2026,
+    "session": null,
+    "date": null,
+    "shift": null,
+    "paperType": "Practice",
+    "title": "BECE CRS: Christian Religious Studies: Old Testament (Paper 1)",
+    "short_description": "Comprehensive CRS paper 1 practice covering the Old Testament curriculum, including God's creation, key relationships, and God's call to His people.",
+    "description": "### Module: Old Testament Studies (Paper 1)\n\n**Focus:** Creation, Relationships & God's Call | **Level:** Junior Secondary (JSS3)\n\nComplete your preparation for Paper 1 of the BECE Christian Religious Studies examination. Featuring **124 comprehensive practice questions**, this module covers the Old Testament curriculum from the creation account through God's dealings with His people.\n\n---\n\n#### Key Curriculum Topics Covered:\n* **His Creation:** Who God is (including indigenous names for God), the Genesis creation account, humanity's role in God's creative activities, disobedience (the Fall), and reconciliation.\n* **Relationship with God and Man:** Relationships in the family, school, community and church, and our relationship with God.\n* **God's Call:** Call to obedience, call to freedom, call to service (e.g. Joseph), and call to repentance (e.g. David, Jonah, John the Baptist).",
+    "path": "nigeria/BECE/christianReligiousStudies/CRS_paper1_oldTestament.json",
+    "isOfficial": false,
+    "seo_title": "BECE CRS Paper 1: Old Testament Practice Test | Christian Religious Studies",
+    "seo_description": "Practice BECE Christian Religious Studies Old Testament questions online. Free practice paper covering creation, relationships, and God's call for Junior WAEC."
+  },
+  {
+    "id": "bece_crsPaper2NewTestament0",
+    "category": "BECE",
+    "year": 2026,
+    "session": null,
+    "date": null,
+    "shift": null,
+    "paperType": "Practice",
+    "title": "BECE CRS: Christian Religious Studies: New Testament Part 1 (Paper 2)",
+    "short_description": "Comprehensive CRS Paper 2 practice covering the Early Life, Ministry of Jesus Christ, and the Life and Teachings of Paul.",
+    "description": "### Module: New Testament Studies Part 1 (Paper 2)\n\n**Focus:** Early Life & Ministry of Jesus, Teachings of Paul | **Level:** Junior Secondary (JSS3)\n\nPrepare for Paper 2 of the BECE Christian Religious Studies examination. Featuring comprehensive practice questions, this module covers the birth and youth of Jesus Christ, His early ministry, and the foundational teachings of the Apostle Paul.\n\n---\n\n#### Key Curriculum Topics Covered:\n* **The Early Life of Jesus Christ:** Annunciation, birth, presentation in the temple, and Jesus at age twelve.\n* **The Ministry of Jesus Christ:** Baptism, temptation, miracles, parables, and ethical teachings on the Mount.\n* **The Life and Teachings of Paul:** Conversion, missionary journeys, trials, and epistles.",
+    "path": "nigeria/BECE/christianReligiousStudies/CRS_paper2_newTestament0.json",
+    "isOfficial": false,
+    "seo_title": "BECE CRS Paper 2: New Testament Part 1 Practice Test",
+    "seo_description": "Practice BECE Christian Religious Studies New Testament Part 1 questions online. Free practice paper covering the life of Jesus and Paul's teachings for Junior WAEC."
+  },
+  {
+    "id": "bece_crsPaper2NewTestament1",
+    "category": "BECE",
+    "year": 2026,
+    "session": null,
+    "date": null,
+    "shift": null,
+    "paperType": "Practice",
+    "title": "BECE CRS: Christian Religious Studies: New Testament Part 2 (Paper 2)",
+    "short_description": "Comprehensive CRS Paper 2 practice covering the Christian Church Today, Ministry of Jesus, Passion & Resurrection, and Early Church.",
+    "description": "### Module: New Testament Studies Part 2 (Paper 2)\n\n**Focus:** The Church Today, Passion & Resurrection, Early Church Ministry | **Level:** Junior Secondary (JSS3)\n\nComplete your preparation for Paper 2 of the BECE Christian Religious Studies examination. This module covers the modern Christian church, peaceful co-existence, the Passion and Resurrection of Jesus, and the growth of the early church through Peter and Paul.\n\n---\n\n#### Key Curriculum Topics Covered:\n* **The Christian Church Today:** Church growth, unity, peaceful co-existence, and inter-denominational relations.\n* **The Ministry of Jesus Christ:** Parables, miracles, compassion, and discipleship.\n* **Passion, Death and Resurrection:** The Last Supper, trial, crucifixion, resurrection, and Great Commission.\n* **The Early Church & Ministry of Peter:** Pentecost, early church fellowship, miracles, and the gospel to the Gentiles.",
+    "path": "nigeria/BECE/christianReligiousStudies/CRS_paper2_newTestament1.json",
+    "isOfficial": false,
+    "seo_title": "BECE CRS Paper 2: New Testament Part 2 Practice Test",
+    "seo_description": "Practice BECE Christian Religious Studies New Testament Part 2 questions online. Free practice paper covering the Church today, Passion of Christ, and the early church."
+  }
 ]

@@ -1,0 +1,1970 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "According to Luke 1:30-33, which angel announced the birth of Jesus Christ to the Virgin Mary?",
+    "options": {
+      "a": "Angel Michael",
+      "b": "Angel Gabriel",
+      "c": "Angel Uriel",
+      "d": "Angel Raphael"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The Annunciation was carried out by the angel Gabriel. According to Luke 1:26-33, God sent the angel Gabriel to Nazareth to a virgin named Mary to announce that she would conceive and give birth to Jesus.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "In Matthew 1:22-23, the prophet Isaiah foretold that the child's name would be called *Emmanuel*, which translated means:",
+    "options": {
+      "a": "Savior of the world",
+      "b": "The Prince of Peace",
+      "c": "God with us",
+      "d": "King of the Jews"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Matthew 1:23 quotes Isaiah's prophecy: \"Behold, the virgin shall conceive and bear a son, and they shall call his name Immanuel\" (which means, God with us).",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "Based on the biblical account in Luke 2, why did Joseph and Mary travel from Nazareth to Judea before the birth of Jesus?",
+    "options": {
+      "a": "To attend the annual Passover feast in Jerusalem",
+      "b": "To escape from King Herod's decree",
+      "c": "To register for the census commanded by Caesar Augustus",
+      "d": "To visit their relative Elizabeth in the hill country"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Caesar Augustus issued a decree that a census should be taken of the entire Roman world. Joseph went to his ancestral town of Bethlehem in Judea to register with Mary (Luke 2:1-5).",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "Who were the first group of people to receive the joyful news of Jesus' birth directly from the angels, according to Luke 2:8-20?",
+    "options": {
+      "a": "The Wise Men from the East",
+      "b": "The Shepherds tending their flocks",
+      "c": "The High Priests in the temple",
+      "d": "The Roman Soldiers stationed in Judea"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "An angel of the Lord appeared to shepherds who were living out in the fields nearby, keeping watch over their flocks at night, to announce the birth of the Savior.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "In Isaiah 9:6-7, several titles are prophesied for the coming Messiah. Which of the following is **NOT** one of those titles?",
+    "options": {
+      "a": "Wonderful Counselor",
+      "b": "Mighty God",
+      "c": "Lily of the Valley",
+      "d": "Everlasting Father"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Isaiah 9:6 states: \"...and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.\" 'Lily of the Valley' is found in Song of Solomon 2:1, but not in this specific prophecy.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "During the visit of the wise men from the East (Matthew 2:1-22), which king was ruling in Judea and felt threatened by the news of a new \"king of the Jews\"?",
+    "options": {
+      "a": "King Saul",
+      "b": "King Agrippa",
+      "c": "King Solomon",
+      "d": "King Herod"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "King Herod (Herod the Great) was the ruler of Judea at the time. When the wise men asked about the newborn King of the Jews, Herod was deeply troubled and secretly plotted to kill the child.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "Which of the following items was **NOT** among the gifts the wise men presented to baby Jesus?",
+    "options": {
+      "a": "Gold",
+      "b": "Silver",
+      "c": "Frankincense",
+      "d": "Myrrh"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "According to Matthew 2:11, the wise men opened their treasures and presented him with gifts of gold, frankincense, and myrrh. Silver was not mentioned.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "In Matthew 1:21, the angel instructed Joseph to name the child Jesus. What was the specific reason given for this name?",
+    "options": {
+      "a": "Because he would overthrow the Roman Empire",
+      "b": "Because it was the traditional name of his ancestors",
+      "c": "Because he would save his people from their sins",
+      "d": "Because he would rebuild the temple in Jerusalem"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The angel said, \"She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.\" The name Jesus (Yeshua) means 'The Lord saves'.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "From a Christian moral perspective, what is a primary value of maintaining virginity before marriage?",
+    "options": {
+      "a": "It guarantees that a person will marry a very wealthy spouse.",
+      "b": "It honors God, ensures moral purity, and prevents premarital consequences like STDs.",
+      "c": "It ensures the individual will eventually become a community leader.",
+      "d": "It guarantees that a person will never experience temptation."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Maintaining virginity before marriage aligns with biblical teachings on sexual purity and self-control. Practically, it honors the sanctity of marriage and prevents issues like unwanted pregnancies and sexually transmitted diseases.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "According to Jewish law (Luke 2:21-24), when was Jesus officially circumcised and given His name?",
+    "options": {
+      "a": "On the very day he was born",
+      "b": "On the eighth day after his birth",
+      "c": "On the twelfth day after his birth",
+      "d": "After forty days of purification"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Luke 2:21 records that at the end of eight days, when he was circumcised, he was called Jesus, the name given by the angel before he was conceived in the womb.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "When presenting Jesus in the temple for the purification rites, Joseph and Mary offered a sacrifice. What did they offer, indicating their humble economic status?",
+    "options": {
+      "a": "A male lamb without blemish",
+      "b": "A measure of fine flour and oil",
+      "c": "A pair of turtledoves or two young pigeons",
+      "d": "A young calf"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "According to Luke 2:24, they offered a sacrifice according to what is stated in the Law of the Lord: \"a pair of turtledoves, or two young pigeons.\" This was the provision in Leviticus 12:8 for those who could not afford a lamb.",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "Who was the righteous and devout man in the temple who took the infant Jesus in his arms and praised God because the Holy Spirit had promised he would not die before seeing the Lord's Christ?",
+    "options": {
+      "a": "Zechariah",
+      "b": "Joseph of Arimathea",
+      "c": "Nicodemus",
+      "d": "Simeon"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Simeon was waiting for the consolation of Israel, and the Holy Spirit was upon him. He took the child Jesus in his arms and praised God, declaring that his eyes had seen God's salvation (Luke 2:25-32).",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "During the presentation of Jesus in the temple, Simeon gave a troubling prophecy directly to Mary. What did he say?",
+    "options": {
+      "a": "That she would be exiled in Egypt for many years",
+      "b": "That a sword will pierce through her own soul also",
+      "c": "That she would lose her son in the wilderness",
+      "d": "That her family would face extreme poverty"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "In Luke 2:34-35, Simeon blessed them and told Mary, \"Behold, this child is appointed for the fall and rising of many in Israel... and a sword will pierce through your own soul also,\" foreshadowing Mary's grief at the crucifixion.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "The prophetess Anna also recognized Jesus during his presentation in the temple. Which tribe of Israel was Anna from?",
+    "options": {
+      "a": "The tribe of Judah",
+      "b": "The tribe of Asher",
+      "c": "The tribe of Levi",
+      "d": "The tribe of Benjamin"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Luke 2:36 explicitly identifies her: \"And there was a prophetess, Anna, the daughter of Phanuel, of the tribe of Asher.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "How is the prophetess Anna described in Luke 2 regarding her lifestyle and devotion?",
+    "options": {
+      "a": "She traveled from city to city preaching the gospel.",
+      "b": "She worked as a servant keeping the holy of holies clean.",
+      "c": "She did not depart from the temple, worshiping with fasting and prayer night and day.",
+      "d": "She collected alms for the poor at the temple gate."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Luke 2:37 states that Anna was a widow until she was eighty-four and that \"She did not depart from the temple, worshiping with fasting and prayer night and day.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "In Matthew 12:46-50, Jesus was told that his mother and brothers were waiting outside to speak to him. What was Jesus' profound teaching about the true meaning of \"family\"?",
+    "options": {
+      "a": "That biological ties are the only important connections in life",
+      "b": "That whoever does the will of his Father in heaven is his brother, sister, and mother",
+      "c": "That his family exclusively consisted of the twelve apostles",
+      "d": "That family matters should always be resolved in private"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Jesus stretched out his hand toward his disciples and redefined spiritual kinship by saying, \"For whoever does the will of my Father in heaven is my brother and sister and mother\" (Matthew 12:50).",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "According to Luke 2, at what age did Jesus accompany his parents to Jerusalem for the Feast of the Passover, where he eventually stayed behind?",
+    "options": {
+      "a": "Eight years old",
+      "b": "Ten years old",
+      "c": "Twelve years old",
+      "d": "Fifteen years old"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Luke 2:41-42 states, \"Now his parents went to Jerusalem every year at the Feast of the Passover. And when he was twelve years old, they went up according to custom.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "After a three-day search, Mary and Joseph finally found the young Jesus in the temple. What was he doing?",
+    "options": {
+      "a": "He was weeping because he was lost and hungry.",
+      "b": "He was working alongside a carpenter making benches.",
+      "c": "He was sitting among the teachers, listening to them and asking them questions.",
+      "d": "He was offering sacrifices at the bronze altar."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Luke 2:46 says, \"After three days they found him in the temple, sitting among the teachers, listening to them and asking them questions.\" Everyone who heard him was amazed at his understanding.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "How does Luke 2:51 describe Jesus' attitude and behavior toward his parents after they found him in the temple and returned to Nazareth?",
+    "options": {
+      "a": "He refused to return and insisted on living in the temple.",
+      "b": "He went down with them and was submissive to them.",
+      "c": "He returned with them but complained about living in Nazareth.",
+      "d": "He became an independent adult and left his family completely."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Luke 2:51 confirms his obedience: \"And he went down with them and came to Nazareth and was submissive to them. And his mother treasured up all these things in her heart.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "Ephesians 6:1-3 instructs children to obey their parents. Which of the following is the specific biblical promise attached to this commandment?",
+    "options": {
+      "a": "That they will become successful business owners in their community",
+      "b": "That it may go well with them and they may live long in the land",
+      "c": "That they will never experience trials or temptations",
+      "d": "That they will instantly gain wisdom and understanding"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Paul quotes the fifth commandment in Ephesians 6:1-3, saying, \"'Honor your father and mother' (this is the first commandment with a promise), 'that it may go well with you and that you may live long in the land.'\"",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "According to Matthew 1:18-25, what was Joseph's initial decision when he discovered that Mary was with child before they came together?",
+    "options": {
+      "a": "He decided to report her to the high priest.",
+      "b": "He resolved to divorce her quietly to avoid public disgrace.",
+      "c": "He decided to marry her immediately.",
+      "d": "He planned to banish her from the city of Nazareth."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Because Joseph her husband was a righteous man and did not want to expose her to public disgrace, he had in mind to **divorce her quietly**. (Matthew 1:19)",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "When King Herod asked the chief priests and scribes where the Christ was to be born, which city did they name based on prophetic scriptures?",
+    "options": {
+      "a": "Nazareth of Galilee",
+      "b": "Jerusalem",
+      "c": "Bethlehem of Judea",
+      "d": "Capernaum"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "They replied, \"In **Bethlehem in Judea**,\" quoting the prophet Micah (Micah 5:2) who stated that a ruler would come from Bethlehem. (Matthew 2:5-6)",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "What does the presentation of Jesus in the temple (Luke 2:21-24) reveal about his earthly parents, Joseph and Mary?",
+    "options": {
+      "a": "They were priests who served in the temple.",
+      "b": "They were obedient observers of the Jewish Law.",
+      "c": "They were extremely wealthy and influential.",
+      "d": "They did not believe in the customs of Israel."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Joseph and Mary presented Jesus to the Lord and offered a sacrifice *\"according to what is stated in the Law of the Lord.\"* This demonstrates their devotion and strict adherence to the religious laws of Moses.",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "What action did the prophetess Anna take immediately after she saw the baby Jesus during his presentation in the temple?",
+    "options": {
+      "a": "She wept bitterly because of the prophecy of Simeon.",
+      "b": "She anointed the baby with holy oil and left the temple.",
+      "c": "She gave thanks to God and spoke about the child to all who were waiting for the redemption of Jerusalem.",
+      "d": "She adopted the child so he could be raised as a priest."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Luke 2:38 records: \"Coming up to them at that very moment, she gave thanks to God and spoke about the child to all who were looking forward to the redemption of Jerusalem.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "In Matthew 12:46-50, Jesus was teaching a crowd when he was informed that his mother and brothers were waiting for him outside. What was the context of this event?",
+    "options": {
+      "a": "They were bringing him his carpentry tools.",
+      "b": "Jesus used the moment to explain that spiritual obedience is the basis of true kinship in God's kingdom.",
+      "c": "Jesus rebuked the crowd and went home immediately.",
+      "d": "They wanted him to pay the temple tax."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Jesus used this interruption as a teaching moment to redefine family. He pointed to his disciples and said, > \"For whoever does the will of my Father in heaven is my brother and sister and mother.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "Christian Religious Studies",
+    "topic": "The Early Life of Jesus Christ",
+    "question_text": "According to Luke 2:52, how did Jesus develop during his youth after returning to Nazareth?",
+    "options": {
+      "a": "He increased in wisdom and in stature, and in favor with God and man.",
+      "b": "He became famous for leading rebellions against Rome.",
+      "c": "He lived in the wilderness and only ate locusts and wild honey.",
+      "d": "He refused to learn the carpentry trade and traveled constantly."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The biblical summary of Jesus' youth states exactly this: *\"And Jesus increased in wisdom and in stature and in favor with God and man.\"* (Luke 2:52)",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "By whom and in which river was Jesus Christ baptized?",
+    "options": {
+      "a": "By Peter in the Sea of Galilee",
+      "b": "By John the Baptist in the River Jordan",
+      "c": "By Zechariah in the River Nile",
+      "d": "By Nicodemus at the Pool of Siloam"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Jesus came from Galilee to the **Jordan River** to be baptized by **John the Baptist**. (Matthew 3:13)",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "Which three supernatural events occurred immediately after Jesus was baptized and came up out of the water?",
+    "options": {
+      "a": "An earthquake, the temple veil tore, and graves opened.",
+      "b": "The water turned to blood, darkness covered the earth, and fire fell.",
+      "c": "The heavens opened, the Spirit of God descended like a dove, and a voice spoke from heaven.",
+      "d": "Angels sang, a star appeared, and wise men visited."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Matthew 3:16-17 outlines three distinct events: \n1. The heavens were opened. \n2. The Spirit of God descended like a dove. \n3. A voice from heaven spoke.",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "During Jesus' baptism, the voice from heaven declared: *\"This is my beloved Son...\"* How did the statement conclude?",
+    "options": {
+      "a": "\"...listen to Him carefully.\"",
+      "b": "\"...with whom I am well pleased.\"",
+      "c": "\"...who will save the world from sin.\"",
+      "d": "\"...He is the king of Israel.\""
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The full declaration from the voice in heaven was: *\"This is my beloved Son, with whom I am well pleased.\"* (Matthew 3:17)",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "What is the primary significance of baptism in the life of a modern Christian?",
+    "options": {
+      "a": "It makes a person immune to sickness and temptation.",
+      "b": "It is a requirement to become a community leader.",
+      "c": "It is a public declaration of faith, symbolizing the washing away of sins and new life in Christ.",
+      "d": "It replaces the need for daily prayer and reading the Bible."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Baptism serves as a public testimony of a believer's faith. It symbolically represents dying to one's old sinful life and rising to walk in the newness of life with Christ.",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "According to the synoptic gospels, what led Jesus into the wilderness where he was tempted by the devil?",
+    "options": {
+      "a": "He ran away to hide from King Herod.",
+      "b": "He was led up by the Holy Spirit.",
+      "c": "He went to look for his lost sheep.",
+      "d": "His disciples encouraged him to go on a retreat."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Matthew 4:1 explicitly states: *\"Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil.\"*",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "After Jesus had fasted for forty days and forty nights, what was the very first temptation presented to Him by Satan?",
+    "options": {
+      "a": "To throw himself down from the pinnacle of the temple",
+      "b": "To bow down and worship the devil",
+      "c": "To turn stones into bread to satisfy his hunger",
+      "d": "To turn water into wine to demonstrate his power"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Knowing Jesus was hungry, the tempter came and said to him, \"If you are the Son of God, command these stones to become loaves of bread.\" (Matthew 4:3)",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "How did Jesus reply to the devil's temptation to turn stones into bread?",
+    "options": {
+      "a": "\"Get behind me, Satan!\"",
+      "b": "\"Man shall not live by bread alone, but by every word that comes from the mouth of God.\"",
+      "c": "\"You shall not put the Lord your God to the test.\"",
+      "d": "\"My food is to do the will of him who sent me.\""
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Jesus answered by quoting Deuteronomy 8:3, emphasizing spiritual sustenance over physical desires: *\"Man shall not live by bread alone, but by every word that comes from the mouth of God.\"*",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "When Satan offered Jesus all the kingdoms of the world and their glory, what condition did the devil attach to this offer?",
+    "options": {
+      "a": "Jesus must perform a miracle for the devil.",
+      "b": "Jesus must fall down and worship him.",
+      "c": "Jesus must jump from the highest mountain.",
+      "d": "Jesus must deny the existence of God."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Satan took him to a very high mountain and showed him all the kingdoms. He said, \"All these I will give you, if you will fall down and worship me.\" (Matthew 4:9)",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "Based on Jesus' victory over Satan, which of the following represents the most biblical ways for a Christian to overcome temptations today?",
+    "options": {
+      "a": "Avoiding the outside world and completely isolating oneself",
+      "b": "Seeking revenge against those who cause the temptation",
+      "c": "Relying on prayer, being strong in faith, and applying the word of God",
+      "d": "Giving in to the temptation once so that it will go away"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Jesus overcame temptation by relying on the Scriptures (quoting God's word). The syllabus also highlights **prayer** and **being strong in faith** as the fundamental ways Christians overcome temptation today.",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "Who were the first two disciples that Jesus called while walking by the Sea of Galilee?",
+    "options": {
+      "a": "James and John",
+      "b": "Philip and Bartholomew",
+      "c": "Matthew and Thomas",
+      "d": "Simon (Peter) and his brother Andrew"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Matthew 4:18 states: \"While walking by the Sea of Galilee, he saw two brothers, Simon (who is called Peter) and Andrew his brother, casting a net into the sea, for they were fishermen.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "When calling his first disciples, Jesus used a metaphor related to their occupation as fishermen. What did He promise to make them?",
+    "options": {
+      "a": "Commanders of angels",
+      "b": "Fishers of men",
+      "c": "Kings of the sea",
+      "d": "Shepherds of the flock"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Jesus said to Peter and Andrew, > \"Follow me, and I will make you **fishers of men**.\" (Matthew 4:19). He used their physical occupation to explain their new spiritual mission.",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "Immediately after calling Peter and Andrew, Jesus saw two other brothers in a boat with their father mending their nets. Who were they?",
+    "options": {
+      "a": "James the son of Zebedee and his brother John",
+      "b": "Judas Iscariot and Simon the Zealot",
+      "c": "Paul and Silas",
+      "d": "Moses and Aaron"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Matthew 4:21 reads: \"And going on from there he saw two other brothers, James the son of Zebedee and John his brother, in the boat with Zebedee their father, mending their nets, and he called them.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In Luke 5:1-11, before calling Peter to be a disciple, Jesus performed a miracle that deeply impacted him. What was this miracle?",
+    "options": {
+      "a": "Jesus calmed a violent storm that threatened their boat.",
+      "b": "Jesus healed Peter's mother-in-law.",
+      "c": "Jesus provided a miraculous catch of fish after Peter had toiled all night and caught nothing.",
+      "d": "Jesus turned a boat full of water into wine."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "After Peter allowed Jesus to preach from his boat, Jesus instructed him to let down his nets. Despite catching nothing all night, the catch was so large that the nets began to tear, prompting Peter to fall at Jesus' knees.",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In teaching what it takes to be a disciple, Jesus said to a man who wanted to say farewell to his family first: \"No one who puts his hand to the plow and looks back is ________.\"",
+    "options": {
+      "a": "Able to see the harvest",
+      "b": "Fit for the kingdom of God",
+      "c": "Worthy to be a fisherman",
+      "d": "Going to find peace"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Luke 9:62 captures Jesus' teaching on total commitment to discipleship: *\"Jesus said to him, 'No one who puts his hand to the plow and looks back is fit for the kingdom of God.'\"*",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "When Jesus sent out the twelve apostles, he instructed them NOT to go among the Gentiles or to any town of the Samaritans. According to Matthew 10:5-6, to whom were they told to go instead?",
+    "options": {
+      "a": "The kings and rulers of the earth",
+      "b": "The lost sheep of the house of Israel",
+      "c": "The Roman soldiers stationed in Judea",
+      "d": "The ends of the earth"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "In His initial commission to the Twelve, Jesus strictly bounded their mission, saying: \"Go nowhere among the Gentiles and enter no town of the Samaritans, but go rather to the lost sheep of the house of Israel.\" (Matthew 10:5-6)",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "What specific instructions did Jesus give the apostles regarding what to pack for their evangelism journey in Matthew 10?",
+    "options": {
+      "a": "They should carry extra gold and silver for emergencies.",
+      "b": "They should take no gold, silver, copper, or extra tunic.",
+      "c": "They should ride on horses to travel faster between villages.",
+      "d": "They must carry a sword to protect themselves."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Jesus taught them to rely entirely on God's provision and the hospitality of the people they preached to, instructing them: \"Acquire no gold or silver or copper for your belts, no knapsack for your journey, or two tunics or sandals or a staff.\" (Matthew 10:9-10)",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "After the seventy disciples returned from their mission with joy, declaring that even demons submitted to them, what did Jesus tell them they should truly rejoice over? (Luke 10:17-20)",
+    "options": {
+      "a": "That they had become famous throughout all of Judea",
+      "b": "That they had healed many sick people",
+      "c": "That their names are written in heaven",
+      "d": "That they were now immune to all illnesses"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Jesus warned them against pride in spiritual power, saying: \"Nevertheless, do not rejoice in this, that the spirits are subject to you, but rejoice that your names are written in heaven.\" (Luke 10:20)",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "According to the Beatitudes taught by Jesus in the Sermon on the Mount, \"Blessed are the merciful, for they shall ____________.\"",
+    "options": {
+      "a": "inherit the earth",
+      "b": "see God",
+      "c": "obtain mercy",
+      "d": "be called sons of God"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Matthew 5:7 states, \"Blessed are the merciful, for they shall receive mercy\" (or obtain mercy, depending on the translation).",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In the Sermon on the Mount (Matthew 5:13-16), Jesus called his disciples the \"salt of the earth\" and what other metaphor?",
+    "options": {
+      "a": "The stars of the sky",
+      "b": "The light of the world",
+      "c": "The shepherds of the flock",
+      "d": "The kings of the nations"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "After declaring them the salt of the earth, Jesus immediately added, \"You are the light of the world. A city set on a hill cannot be hidden.\" (Matthew 5:14)",
+    "section_id": null
+  },
+  {
+    "question_number": 46,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "What was Jesus' main instruction regarding fasting in Matthew 6:16-18?",
+    "options": {
+      "a": "Fasting must be done publicly so others can learn from it.",
+      "b": "Christians should never fast, they only need to pray.",
+      "c": "Believers should wash their faces and not look gloomy, so their fasting is seen only by God.",
+      "d": "Fasting is only required for priests and community leaders."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Jesus rebuked hypocrites who disfigured their faces to look hungry. He commanded, \"But when you fast, anoint your head and wash your face, that your fasting may not be seen by others but by your Father who is in secret.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 47,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In his teaching against the love of money, Jesus declared that \"no one can serve two masters.\" Who are the two masters he referred to in Matthew 6:24?",
+    "options": {
+      "a": "God and the government",
+      "b": "God and money",
+      "c": "Angels and demons",
+      "d": "The synagogue and the temple"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Jesus clearly warned about divided loyalties, concluding the teaching with: \"You cannot serve God and money\" (some versions translate \"money\" as \"mammon\").",
+    "section_id": null
+  },
+  {
+    "question_number": 48,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "To teach his followers not to worry about what they will eat or wear, which elements of nature did Jesus use as examples of God's provision? (Matthew 6:25-34)",
+    "options": {
+      "a": "The lions of the forest and the great cedar trees",
+      "b": "The fish of the sea and the sand on the shore",
+      "c": "The birds of the air and the lilies of the field",
+      "d": "The sheep on the hills and the grass of the pasture"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Jesus said, \"Look at the birds of the air... your heavenly Father feeds them,\" and \"Consider the lilies of the field, how they grow... even Solomon in all his glory was not arrayed like one of these.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 49,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "According to Matthew 13:34-35, why did Jesus often teach the crowds using parables?",
+    "options": {
+      "a": "To entertain the young children who followed him.",
+      "b": "Because it was illegal to preach openly in the region of Galilee.",
+      "c": "To fulfill prophecy and to reveal the secrets of the kingdom of heaven to his disciples while hiding them from unbelievers.",
+      "d": "To prove to the Pharisees that he was a highly educated scholar."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Jesus explained to his disciples that it was granted to them to know the secrets of the kingdom, but not to the crowds. He spoke in parables to fulfill the prophecy: \"I will open my mouth in parables; I will utter what has been hidden since the foundation of the world.\" (Matthew 13:35)",
+    "section_id": null
+  },
+  {
+    "question_number": 50,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In the Parable of the Sower (Matthew 13), what does the seed that fell among thorns represent?",
+    "options": {
+      "a": "Those who hear the word, but the cares of the world and the deceitfulness of riches choke it.",
+      "b": "Those who receive the word with joy but fall away quickly during times of persecution.",
+      "c": "Those who hear the word but do not understand it at all, so the evil one snatches it away.",
+      "d": "Those who hear the word, understand it, and bear much fruit."
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "Jesus interpreted the parable, explaining: \"As for what was sown among thorns, this is the one who hears the word, but the cares of the world and the deceitfulness of riches choke the word, and it proves unfruitful.\" (Matthew 13:22)",
+    "section_id": null
+  },
+  {
+    "question_number": 51,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In the Parable of the Prodigal Son (Luke 15:11-32), what humiliating job was the younger son forced to do after spending his inheritance and experiencing a severe famine?",
+    "options": {
+      "a": "He had to fetch water from a deep well all day.",
+      "b": "He hired himself out to feed pigs in the fields.",
+      "c": "He was forced into slavery making bricks for the governor.",
+      "d": "He became a beggar at the gates of the temple."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "After spending everything, a severe famine arose. \"So he went and hired himself out to one of the citizens of that country, who sent him into his fields to feed pigs.\" This was particularly humiliating for a Jewish man.",
+    "section_id": null
+  },
+  {
+    "question_number": 52,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "What critical mistake did the man make in the Parable of the Rich Fool (Luke 12:13-21)?",
+    "options": {
+      "a": "He refused to pay his legal taxes to Caesar.",
+      "b": "He invested all his money in a barren plot of land.",
+      "c": "He hoarded wealth for himself on earth but was not rich toward God.",
+      "d": "He gave his money away to thieves and robbers."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The rich man planned to build bigger barns and rest for years, ignoring his spiritual state. God called him a fool, warning that his soul would be demanded that night. Jesus concluded: \"So is the one who lays up treasure for himself and is not rich toward God.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 53,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In the Parable of the Ten Virgins (Matthew 25:1-13), what action distinguished the five wise virgins from the five foolish ones?",
+    "options": {
+      "a": "The wise virgins managed to stay awake the entire night without sleeping.",
+      "b": "The wise virgins took extra flasks of oil with their lamps.",
+      "c": "The foolish virgins brought water instead of oil.",
+      "d": "The foolish virgins left the venue to attend a different wedding."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "All ten virgins fell asleep waiting, but the wise were prepared: \"For when the foolish took their lamps, they took no oil with them, but the wise took flasks of oil with their lamps.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 54,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "The Parable of the Unforgiving Steward (Matthew 18:21-35) emphasizes the necessity of forgiveness. How did the king punish the servant who was forgiven a huge debt but refused to forgive his fellow servant's small debt?",
+    "options": {
+      "a": "The king demoted him to work in the fields.",
+      "b": "The king gave him three more days to change his mind.",
+      "c": "The king delivered him to the jailers until he should pay all his original debt.",
+      "d": "The king sent him into permanent exile in a foreign land."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Because of his wicked lack of mercy, the master \"delivered him to the jailers, until he should pay all his debt.\" Jesus warned that God will do the same if we do not forgive from our hearts.",
+    "section_id": null
+  },
+  {
+    "question_number": 55,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "Where did Jesus perform His very first nature miracle by turning water into wine, as recorded in John 2:1-11?",
+    "options": {
+      "a": "At a funeral procession in Nain",
+      "b": "At a wedding feast in Cana of Galilee",
+      "c": "During the Passover in the temple at Jerusalem",
+      "d": "During a storm on the Sea of Galilee"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "John 2 clearly identifies the setting of the miracle: \"On the third day there was a wedding at Cana in Galilee, and the mother of Jesus was there... This, the first of his signs, Jesus did at Cana in Galilee, and manifested his glory.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 56,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "During a fierce windstorm on the sea (Mark 4:35-41), the disciples panicked while Jesus slept. After He awoke and rebuked the wind, what question did the disciples ask one another in awe?",
+    "options": {
+      "a": "\"Who then is this, that even the wind and the sea obey him?\"",
+      "b": "\"Why didn't we bring a larger boat for this journey?\"",
+      "c": "\"When will we reach the other side safely?\"",
+      "d": "\"Who will repair our torn fishing nets?\""
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Filled with great fear, they said to one another, \"Who then is this, that even the wind and the sea obey him?\" (Mark 4:41)",
+    "section_id": null
+  },
+  {
+    "question_number": 57,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In the miracle of the feeding of the five thousand, what was the initial amount of food provided to Jesus before He blessed and multiplied it?",
+    "options": {
+      "a": "Seven loaves of bread and a few small fish",
+      "b": "Five loaves of bread and two fish",
+      "c": "Two loaves of bread and five fish",
+      "d": "Twelve baskets full of bread"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "They replied, \"We have here only five loaves and two fish\" (Matthew 14:17). *Note: The feeding of the 4,000 later involved seven loaves and a few small fish.*",
+    "section_id": null
+  },
+  {
+    "question_number": 58,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "Why did Jesus marvel at the Roman Centurion who asked Him to heal his paralyzed servant (Matthew 8:5-13)?",
+    "options": {
+      "a": "Because the centurion offered Him a large bag of gold for the healing.",
+      "b": "Because the centurion was an expert in Jewish religious laws.",
+      "c": "Because the centurion believed Jesus only needed to speak a word from afar to heal the servant, demonstrating extraordinary faith.",
+      "d": "Because the centurion agreed to abandon the Roman army to follow Him."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The centurion said, \"Lord, I am not worthy to have you come under my roof, but only say the word, and my servant will be healed.\" Jesus marveled, saying He had not found such great faith in all of Israel.",
+    "section_id": null
+  },
+  {
+    "question_number": 59,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In an event showing Jesus subjecting Himself to religious laws (Matthew 17:24-27), He told Peter to pay the temple tax. How did Jesus provide the money for this tax?",
+    "options": {
+      "a": "He told Judas Iscariot to take the money from their shared moneybag.",
+      "b": "He told Peter to cast a hook into the sea and find a coin in the mouth of the first fish caught.",
+      "c": "He turned a piece of stone into a silver coin.",
+      "d": "He asked a wealthy woman passing by to pay it on their behalf."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Jesus told Peter: \"Go to the sea and cast a hook and take the first fish that comes up, and when you open its mouth you will find a shekel. Take that and give it to them for me and for yourself.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 60,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In John 13:34-35, Jesus established a \"new commandment\" which represented love as the supreme law for His followers. What exactly was this commandment?",
+    "options": {
+      "a": "\"That you memorize all the laws of Moses and recite them daily.\"",
+      "b": "\"That you sell all your possessions and give to the poor.\"",
+      "c": "\"That you love one another: just as I have loved you, you also are to love one another.\"",
+      "d": "\"That you build grand churches to honor my name.\""
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Jesus elevated love above rigid laws, declaring: \"A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another. By this all people will know that you are my disciples.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 61,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In the miracle of Jesus walking on the water (Matthew 14:22-33), which of the disciples asked Jesus to command him to come out onto the water?",
+    "options": {
+      "a": "John",
+      "b": "James",
+      "c": "Peter",
+      "d": "Andrew"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "When the disciples saw Jesus walking on the sea, Peter said, \"Lord, if it is you, command me to come to you on the water.\" Jesus said, \"Come,\" and Peter stepped out of the boat.",
+    "section_id": null
+  },
+  {
+    "question_number": 62,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "When four men brought a paralyzed man to Jesus (Matthew 9:1-8), what controversial statement did Jesus make before healing him physically, which the scribes called blasphemy?",
+    "options": {
+      "a": "\"Take up your bed and go home.\"",
+      "b": "\"Take heart, my son; your sins are forgiven.\"",
+      "c": "\"You will walk again in three days.\"",
+      "d": "\"Your faith is greater than that of the Pharisees.\""
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Seeing their faith, Jesus told the paralytic, \"Take heart, my son; your sins are forgiven.\" To prove He had authority on earth to forgive sins, He then healed the man's paralysis.",
+    "section_id": null
+  },
+  {
+    "question_number": 63,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In the healing of the Gerasene demoniac (Mark 5:1-20), the demons begged Jesus not to send them out of the country. Where did Jesus permit them to go instead?",
+    "options": {
+      "a": "Into a nearby lake to be drowned instantly",
+      "b": "Into a flock of sheep grazing on the hillside",
+      "c": "Into a large herd of pigs (swine)",
+      "d": "Into the desert wasteland"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The demons begged him, \"Send us to the pigs; let us enter them.\" Jesus gave them permission, and the unclean spirits entered the herd of about two thousand pigs, which rushed down a steep bank into the sea.",
+    "section_id": null
+  },
+  {
+    "question_number": 64,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "Jesus demonstrated His power over death at the town gate of Nain (Luke 7). Who did Jesus raise from the dead on this occasion?",
+    "options": {
+      "a": "Jairus's twelve-year-old daughter",
+      "b": "The only son of a widow",
+      "c": "His friend Lazarus",
+      "d": "A Roman centurion's servant"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "As Jesus approached the town gate, a dead person was being carried out—the only son of his mother, and she was a widow. Jesus had compassion on her and commanded the young man to get up.",
+    "section_id": null
+  },
+  {
+    "question_number": 65,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "Before Jesus raised Lazarus from the dead (John 11:1-45), how many days had Lazarus already been in the tomb?",
+    "options": {
+      "a": "Two days",
+      "b": "Three days",
+      "c": "Four days",
+      "d": "Seven days"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "When Jesus finally arrived in Bethany, He found that Lazarus had already been in the tomb for **four days**. Martha even warned Jesus about the odor of decay, emphasizing the greatness of the miracle.",
+    "section_id": null
+  },
+  {
+    "question_number": 66,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In Matthew 5:17, Jesus clarified his attitude toward the Civil and Religious laws given to Moses. He stated, \"Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to _________ them.\"",
+    "options": {
+      "a": "destroy",
+      "b": "ignore",
+      "c": "rewrite",
+      "d": "fulfill"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Jesus perfectly kept the requirements of the law and embodied its true meaning. His exact words were: \"...I have not come to abolish them but to fulfill them.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 67,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "When the Pharisees tried to trap Jesus by asking if it was lawful to pay taxes to Caesar (Matthew 22:15-22), what wise answer did Jesus give?",
+    "options": {
+      "a": "\"Therefore render to Caesar the things that are Caesar's, and to God the things that are God's.\"",
+      "b": "\"You must pay no tax, for God is your only King.\"",
+      "c": "\"Pay the temple tax first, and then whatever is left to Caesar.\"",
+      "d": "\"No one can serve two masters, therefore give everything to the poor.\""
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "After asking to see a coin and pointing out Caesar's image on it, Jesus replied, \"Therefore render to Caesar the things that are Caesar's, and to God the things that are God's,\" perfectly navigating their political trap.",
+    "section_id": null
+  },
+  {
+    "question_number": 68,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "Apostle Paul details the qualities of love in 1 Corinthians 13. According to this chapter, which of the following is **NOT** a characteristic of true Christian love?",
+    "options": {
+      "a": "Love is patient and kind.",
+      "b": "Love does not insist on its own way.",
+      "c": "Love bears all things, believes all things.",
+      "d": "Love rejoices at wrongdoing."
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "1 Corinthians 13:6 states clearly that love \"does not rejoice at wrongdoing, but rejoices with the truth.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 69,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "In the Parable of the Wheat and the Tares (Weeds), what do the \"tares\" secretly sown in the field represent? (Matthew 13:36-43)",
+    "options": {
+      "a": "The angels of heaven",
+      "b": "The sons of the evil one (Satan)",
+      "c": "The religious leaders of Jerusalem",
+      "d": "The poor and needy in society"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Jesus explicitly interpreted this parable for His disciples: \"The field is the world, and the good seed is the sons of the kingdom. The weeds are the sons of the evil one, and the enemy who sowed them is the devil.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 70,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Jesus Christ",
+    "question_text": "What is the central shared lesson in the parables of the Lost Sheep and the Lost Coin (Luke 15)?",
+    "options": {
+      "a": "That the wealthy must distribute all their money to the poor.",
+      "b": "That God rejoices greatly over one sinner who repents.",
+      "c": "That careless people will lose their earthly rewards.",
+      "d": "That we must lock our doors against thieves."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Both parables end with a nearly identical summary from Jesus: \"Just so, I tell you, there is joy before the angels of God over one sinner who repents.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 71,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "During Jesus' Triumphant Entry into Jerusalem, which animal did He ride, fulfilling the prophecy of Zechariah?",
+    "options": {
+      "a": "A magnificent white horse",
+      "b": "A young camel",
+      "c": "A donkey and her colt",
+      "d": "A chariot pulled by two oxen"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Matthew 21:5 quotes Zechariah: \"Say to the daughter of Zion, 'Behold, your king is coming to you, humble, and mounted on a donkey, on a colt, the foal of a beast of burden.'\"",
+    "section_id": null
+  },
+  {
+    "question_number": 72,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "As Jesus rode into Jerusalem (Matthew 21:1-11), the crowds spread their cloaks and branches on the road. What traditional phrase did they shout in praise?",
+    "options": {
+      "a": "\"Hail to the King of the Jews!\"",
+      "b": "\"Hosanna to the Son of David!\"",
+      "c": "\"Worthy is the Lamb who was slain!\"",
+      "d": "\"Glory to God in the highest!\""
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The crowds that went before him and that followed were shouting, \"Hosanna to the Son of David! Blessed is he who comes in the name of the Lord! Hosanna in the highest!\"",
+    "section_id": null
+  },
+  {
+    "question_number": 73,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "The Last Supper (Matthew 26:17-30) took place during the preparation for which major Jewish festival?",
+    "options": {
+      "a": "The Feast of Tabernacles",
+      "b": "The Day of Atonement",
+      "c": "The Feast of Pentecost",
+      "d": "The Feast of Unleavened Bread (Passover)"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Matthew 26:17 notes, \"Now on the first day of Unleavened Bread the disciples came to Jesus, saying, 'Where will you have us prepare for you to eat the Passover?'\"",
+    "section_id": null
+  },
+  {
+    "question_number": 74,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "During the Last Supper, Jesus instituted the Holy Communion. What did He say the cup of wine represented?",
+    "options": {
+      "a": "His blood of the covenant, poured out for many for the forgiveness of sins",
+      "b": "His physical suffering and sweat in the Garden of Gethsemane",
+      "c": "The water of life that purifies the disciples",
+      "d": "The bitter tears He would shed in Jerusalem"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Jesus took a cup, and when he had given thanks he gave it to them, saying, \"Drink of it, all of you, for this is my blood of the covenant, which is poured out for many for the forgiveness of sins.\" (Matthew 26:27-28)",
+    "section_id": null
+  },
+  {
+    "question_number": 75,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "Which of Jesus' disciples went to the chief priests and agreed to betray Him for thirty pieces of silver?",
+    "options": {
+      "a": "Simon Peter",
+      "b": "Thomas called the Twin",
+      "c": "Judas Iscariot",
+      "d": "Philip of Bethsaida"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Matthew 26:14-15 identifies the betrayer: \"Then one of the twelve, whose name was Judas Iscariot, went to the chief priests and said, 'What will you give me if I deliver him over to you?' And they paid him thirty pieces of silver.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 76,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "When the armed crowd arrived to arrest Jesus in the garden (Matthew 26:47-56), what predetermined sign did His betrayer use to point Him out?",
+    "options": {
+      "a": "He pointed a spear at Him.",
+      "b": "He washed Jesus' feet.",
+      "c": "He greeted Jesus with a kiss.",
+      "d": "He tied a rope around Jesus' hands."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The betrayer had given them a sign, saying, \"The one I will kiss is the man; seize him.\" He came up to Jesus at once and said, \"Greetings, Rabbi!\" and kissed him.",
+    "section_id": null
+  },
+  {
+    "question_number": 77,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "During Jesus' trial before the Jewish council (Sanhedrin), the high priest put Jesus under oath to say whether He was the Christ, the Son of God. Who was this high priest?",
+    "options": {
+      "a": "Annas",
+      "b": "Caiaphas",
+      "c": "Pontius Pilate",
+      "d": "Herod Antipas"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Matthew 26:57 records that those who had seized Jesus led him to **Caiaphas** the high priest, where the scribes and the elders had gathered.",
+    "section_id": null
+  },
+  {
+    "question_number": 78,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "While Jesus was inside facing the council, Peter was waiting in the courtyard. What did Peter do when recognized by servant girls and bystanders?",
+    "options": {
+      "a": "He drew his sword and fought them.",
+      "b": "He bravely declared his loyalty to Jesus.",
+      "c": "He wept openly and begged for mercy.",
+      "d": "He denied knowing Jesus three times."
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Fulfilling Jesus' exact prediction, Peter was confronted three separate times and denied knowing Him on each occasion before the rooster crowed (Matthew 26:69-75).",
+    "section_id": null
+  },
+  {
+    "question_number": 79,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "As the soldiers led Jesus away to be crucified, they forced a man passing by to carry His cross. What was this man's name? (Matthew 27:32)",
+    "options": {
+      "a": "Joseph of Arimathea",
+      "b": "Simon of Cyrene",
+      "c": "Nicodemus",
+      "d": "Barabbas"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Matthew 27:32 says, \"As they went out, they found a man of Cyrene, Simon by name. They compelled this man to carry his cross.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 80,
+    "subject": "Christian Religious Studies",
+    "topic": "The Passion, Death and Resurrection of Jesus Christ",
+    "question_text": "Immediately after Jesus cried out with a loud voice and yielded up His spirit on the cross, what dramatic physical event happened in the temple at Jerusalem? (Matthew 27:50-51)",
+    "options": {
+      "a": "The bronze altar shattered into pieces.",
+      "b": "All the candles in the temple instantly went out.",
+      "c": "The curtain of the temple was torn in two, from top to bottom.",
+      "d": "The roof of the temple collapsed inward."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "When Jesus died, Matthew 27:51 records: \"And behold, the curtain of the temple was torn in two, from top to bottom. And the earth shook, and the rocks were split.\" This symbolized open access to God through Christ's death.",
+    "section_id": null
+  },
+  {
+    "question_number": 81,
+    "subject": "Christian Religious Studies",
+    "topic": "The Death and Burial of Jesus Christ",
+    "question_text": "According to Matthew 27:57-61, who went to Pontius Pilate to request the body of Jesus for burial?",
+    "options": {
+      "a": "Nicodemus the Pharisee",
+      "b": "Simon of Cyrene",
+      "c": "Joseph of Arimathea",
+      "d": "John the beloved disciple"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "When it was evening, there came a rich man from Arimathea, named Joseph, who also was a disciple of Jesus. He went to Pilate and asked for the body of Jesus.",
+    "section_id": null
+  },
+  {
+    "question_number": 82,
+    "subject": "Christian Religious Studies",
+    "topic": "The Resurrection and Appearance of Jesus Christ",
+    "question_text": "On the morning of the resurrection, who were the first individuals to visit the tomb of Jesus, according to Matthew 28:1?",
+    "options": {
+      "a": "Peter and John",
+      "b": "Mary Magdalene and the other Mary",
+      "c": "Thomas and Matthew",
+      "d": "The Roman guards"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Matthew 28:1 states: \"Now after the Sabbath, toward the dawn of the first day of the week, Mary Magdalene and the other Mary went to see the tomb.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 83,
+    "subject": "Christian Religious Studies",
+    "topic": "The Resurrection and Appearance of Jesus Christ",
+    "question_text": "When the women arrived at the tomb, they found it empty. What message did the angel of the Lord give to them regarding Jesus?",
+    "options": {
+      "a": "\"He has been taken by the high priests.\"",
+      "b": "\"His disciples have moved Him to Galilee.\"",
+      "c": "\"He is not here, for he has risen, as he said.\"",
+      "d": "\"You must wait here until He returns.\""
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The angel said to the women, \"Do not be afraid, for I know that you seek Jesus who was crucified. He is not here, for he has risen, as he said. Come, see the place where he lay.\" (Matthew 28:5-6)",
+    "section_id": null
+  },
+  {
+    "question_number": 84,
+    "subject": "Christian Religious Studies",
+    "topic": "The Resurrection and Appearance of Jesus Christ",
+    "question_text": "In Luke 24:13-35, the resurrected Jesus joined two disciples who were walking on a road discussing all the events that had happened. To which village were they traveling?",
+    "options": {
+      "a": "Bethlehem",
+      "b": "Jericho",
+      "c": "Nazareth",
+      "d": "Emmaus"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "That very day two of them were going to a village named **Emmaus**, about seven miles from Jerusalem.",
+    "section_id": null
+  },
+  {
+    "question_number": 85,
+    "subject": "Christian Religious Studies",
+    "topic": "The Resurrection and Appearance of Jesus Christ",
+    "question_text": "In John 21:1-14, Jesus appeared to His disciples by the Sea of Tiberias (Sea of Galilee). What miraculous event occurred during this appearance?",
+    "options": {
+      "a": "Jesus calmed a massive storm before their eyes.",
+      "b": "He helped them catch a huge number of fish after they had caught nothing all night.",
+      "c": "He walked on the water towards their boat.",
+      "d": "He turned the sea water into fresh drinking water."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Jesus told them to cast the net on the right side of the boat. They caught so many fish (153 large fish) that they were unable to haul the net in, though it was not torn.",
+    "section_id": null
+  },
+  {
+    "question_number": 86,
+    "subject": "Christian Religious Studies",
+    "topic": "The Resurrection and Appearance of Jesus Christ",
+    "question_text": "What is the most critical significance of Jesus Christ's resurrection to Christians today?",
+    "options": {
+      "a": "It proved that Roman methods of execution were ineffective.",
+      "b": "It confirms His victory over sin and death, guaranteeing eternal life for believers.",
+      "c": "It showed that dead bodies could naturally revive after three days.",
+      "d": "It established a new government in Jerusalem."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The resurrection is the cornerstone of Christian faith, signifying that Jesus conquered death and validating His identity as the Son of God. It provides believers with the hope of salvation and eternal life.",
+    "section_id": null
+  },
+  {
+    "question_number": 87,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ascension of Jesus Christ",
+    "question_text": "In what is commonly known as the Great Commission (Matthew 28:19-20), what command did Jesus give to His followers just before His ascension?",
+    "options": {
+      "a": "To go into the wilderness and fast for forty days",
+      "b": "To build magnificent temples in His name across the world",
+      "c": "To stay in Jerusalem permanently to protect the temple",
+      "d": "To go and make disciples of all nations, baptizing and teaching them"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Jesus explicitly commanded: \"Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 88,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ascension of Jesus Christ",
+    "question_text": "According to Luke 24:50-51, where did Jesus lead His disciples just before He lifted up His hands, blessed them, and ascended into heaven?",
+    "options": {
+      "a": "Mount Sinai",
+      "b": "Bethany",
+      "c": "Capernaum",
+      "d": "Samaria"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Luke 24:50 states, \"Then he led them out as far as Bethany, and lifting up his hands he blessed them. While he blessed them, he parted from them and was carried up into heaven.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 89,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ascension of Jesus Christ",
+    "question_text": "According to Mark 16:17-18, Jesus listed several miraculous signs that would accompany those who believe. Which of the following is **NOT** one of those signs?",
+    "options": {
+      "a": "They will cast out demons in His name.",
+      "b": "They will speak in new tongues.",
+      "c": "They will become rich and politically powerful on earth.",
+      "d": "They will lay their hands on the sick, and they will recover."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The signs Jesus mentioned included casting out demons, speaking in tongues, picking up serpents, drinking deadly poison without harm, and healing the sick. Wealth and political power were not promised as signs of belief.",
+    "section_id": null
+  },
+  {
+    "question_number": 90,
+    "subject": "Christian Religious Studies",
+    "topic": "The Promise of The Holy Spirit",
+    "question_text": "In John 14:26, Jesus spoke of the Holy Spirit as the \"Helper\" or \"Comforter.\" What did He say the Holy Spirit would specifically do for the disciples?",
+    "options": {
+      "a": "Destroy the Roman Empire to establish Israel",
+      "b": "Teach them all things and bring to remembrance all He had said to them",
+      "c": "Give them infinite wealth to spread the gospel",
+      "d": "Turn all their enemies into pillars of salt"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Jesus comforted them by saying: \"But the Helper, the Holy Spirit, whom the Father will send in my name, he will teach you all things and bring to your remembrance all that I have said to you.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 91,
+    "subject": "Christian Religious Studies",
+    "topic": "The Promise of The Holy Spirit",
+    "question_text": "Before ascending to heaven (Acts 1:4-5), Jesus gave the apostles a strict instruction regarding their location. He commanded them not to depart from ________, but to wait for the promise of the Father.",
+    "options": {
+      "a": "Jericho",
+      "b": "Galilee",
+      "c": "Jerusalem",
+      "d": "Bethlehem"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Acts 1:4 states: \"And while staying with them he ordered them not to depart from Jerusalem, but to wait for the promise of the Father... for John baptized with water, but you will be baptized with the Holy Spirit.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 92,
+    "subject": "Christian Religious Studies",
+    "topic": "The Promise of The Holy Spirit",
+    "question_text": "On which prominent Jewish festival did the Holy Spirit dramatically descend upon the apostles gathered in the upper room?",
+    "options": {
+      "a": "The Feast of Tabernacles",
+      "b": "The Day of Pentecost",
+      "c": "The Day of Atonement",
+      "d": "The Feast of Trumpets"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Acts 2:1 confirms this exact timing: \"When the day of Pentecost arrived, they were all together in one place.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 93,
+    "subject": "Christian Religious Studies",
+    "topic": "The Promise of The Holy Spirit",
+    "question_text": "When the Holy Spirit descended on the believers in Acts 2, two dramatic physical signs accompanied His arrival. One was a sound like a mighty rushing wind. What was the other?",
+    "options": {
+      "a": "An earthquake that shook the foundations of the house",
+      "b": "Divided tongues as of fire resting on each of them",
+      "c": "A thick cloud of white smoke filling the room",
+      "d": "A rain shower inside the upper room"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Acts 2:2-3 describes the event: \"And suddenly there came from heaven a sound like a mighty rushing wind... And divided tongues as of fire appeared to them and rested on each one of them.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 94,
+    "subject": "Christian Religious Studies",
+    "topic": "The Promise of The Holy Spirit",
+    "question_text": "Following the outpouring of the Holy Spirit on Pentecost, Peter delivered a powerful sermon. What was the tremendous numerical effect of this first speech on the church? (Acts 2:41)",
+    "options": {
+      "a": "About a hundred people were baptized.",
+      "b": "About three thousand souls were added to their number that day.",
+      "c": "Exactly twelve new disciples joined them.",
+      "d": "Over ten thousand people were instantly converted."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The text states: \"So those who received his word were baptized, and there were added that day about three thousand souls.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 95,
+    "subject": "Christian Religious Studies",
+    "topic": "Fellowship in The Early Church",
+    "question_text": "Which of the following descriptions best explains the social and economic fellowship of the Early Church as recorded in Acts 2:44-45?",
+    "options": {
+      "a": "Believers lived independently and only met for worship once a year.",
+      "b": "They charged each other money for food and housing to grow the church fund.",
+      "c": "They strictly separated the rich believers from the poor believers.",
+      "d": "They had all things in common and sold their possessions to share with anyone who had need."
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "The early Christians practiced a radical form of togetherness: \"And all who believed were together and had all things in common. And they were selling their possessions and belongings and distributing the proceeds to all, as any had need.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 96,
+    "subject": "Christian Religious Studies",
+    "topic": "Fellowship in The Early Church",
+    "question_text": "In Acts 5:1-11, Ananias and Sapphira sold a piece of property but kept back some of the proceeds while presenting it as the full amount. What was the severe consequence of lying to the Holy Spirit?",
+    "options": {
+      "a": "They were expelled from Jerusalem permanently.",
+      "b": "They were made to serve the apostles as slaves for seven years.",
+      "c": "They fell down and died instantly.",
+      "d": "They were struck with leprosy."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Peter rebuked Ananias for lying to the Holy Spirit, and immediately Ananias fell down and breathed his last. About three hours later, his wife Sapphira did the same and suffered the identical fate.",
+    "section_id": null
+  },
+  {
+    "question_number": 97,
+    "subject": "Christian Religious Studies",
+    "topic": "Fellowship in The Early Church",
+    "question_text": "What specific internal dispute caused the apostles to recognize the need to select deacons in the early church? (Acts 6:1)",
+    "options": {
+      "a": "A disagreement over whether Gentile converts should be circumcised",
+      "b": "The Hellenists (Greek-speaking Jews) murmured that their widows were being neglected in the daily distribution.",
+      "c": "Some disciples wanted to appoint a new king for Israel.",
+      "d": "A debate arose about where the church should hold its Sunday meetings."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Acts 6:1 explains the root of the murmuring: \"Now in these days when the disciples were increasing in number, a complaint by the Hellenists arose against the Hebrews because their widows were being neglected in the daily distribution.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 98,
+    "subject": "Christian Religious Studies",
+    "topic": "Fellowship in The Early Church",
+    "question_text": "When selecting the seven deacons for the daily distribution, the apostles requested men of \"good repute\" who also possessed what two critical spiritual qualities?",
+    "options": {
+      "a": "Wealth and political influence",
+      "b": "Physical strength and courage",
+      "c": "Full of the Spirit and of wisdom",
+      "d": "Deep knowledge of Roman law and Greek philosophy"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The apostles instructed the congregation, \"Therefore, brothers, pick out from among you seven men of good repute, full of the Spirit and of wisdom, whom we will appoint to this duty.\" (Acts 6:3)",
+    "section_id": null
+  },
+  {
+    "question_number": 99,
+    "subject": "Christian Religious Studies",
+    "topic": "Opposition to The Gospel",
+    "question_text": "The first major opposition from the religious authorities resulted in the arrest of Peter and John. What public miracle performed by them triggered this arrest? (Acts 3-4)",
+    "options": {
+      "a": "Turning stones into bread at the temple gates",
+      "b": "Raising a young girl from the dead in the marketplace",
+      "c": "Healing a man lame from birth at the Beautiful Gate of the temple",
+      "d": "Calling down fire from heaven on a Roman soldier"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Peter and John healed the lame beggar in the name of Jesus Christ of Nazareth. The resulting crowd and Peter's preaching disturbed the priests and the Sadducees, leading them to arrest the apostles (Acts 4:1-3).",
+    "section_id": null
+  },
+  {
+    "question_number": 100,
+    "subject": "Christian Religious Studies",
+    "topic": "Opposition to The Gospel",
+    "question_text": "Who is recorded in the book of Acts as the first Christian martyr, executed for his bold defense of the gospel before the council? (Acts 7:54-60)",
+    "options": {
+      "a": "Apostle James",
+      "b": "Stephen",
+      "c": "Philip the Evangelist",
+      "d": "Apostle Andrew"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Stephen, one of the seven deacons, gave a powerful historical defense of the faith before the Sanhedrin. Enraged by his words, the council dragged him out of the city and stoned him to death, making him the first Christian martyr.",
+    "section_id": null
+  },
+  {
+    "question_number": 101,
+    "subject": "Christian Religious Studies",
+    "topic": "Opposition to The Gospel",
+    "question_text": "During the stoning of Stephen, the witnesses laid their garments at the feet of a young man who aggressively persecuted the early church. What was his name before his conversion?",
+    "options": {
+      "a": "Silas",
+      "b": "Barnabas",
+      "c": "Saul",
+      "d": "Timothy"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Acts 7:58 mentions, \"Then they cast him out of the city and stoned him. And the witnesses laid down their garments at the feet of a young man named Saul.\" Saul later became known as Paul after his conversion.",
+    "section_id": null
+  },
+  {
+    "question_number": 102,
+    "subject": "Christian Religious Studies",
+    "topic": "Opposition to The Gospel",
+    "question_text": "In Acts 9, Saul was on his way to arrest Christians when he was surrounded by a light from heaven and fell to the ground. To which city was he traveling?",
+    "options": {
+      "a": "Damascus",
+      "b": "Antioch",
+      "c": "Ephesus",
+      "d": "Jerusalem"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Saul approached the high priest and asked for letters to the synagogues at **Damascus**, so that if he found any belonging to the Way, he might bring them bound to Jerusalem (Acts 9:1-2).",
+    "section_id": null
+  },
+  {
+    "question_number": 103,
+    "subject": "Christian Religious Studies",
+    "topic": "Opposition to The Gospel",
+    "question_text": "About that time, King Herod laid violent hands upon some who belonged to the church. Who did he kill with the sword, making him the first apostle to be martyred? (Acts 12:1-2)",
+    "options": {
+      "a": "Matthew",
+      "b": "Philip",
+      "c": "Peter",
+      "d": "James the brother of John"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Acts 12:1-2 records: \"About that time Herod the king laid violent hands on some who belonged to the church. He killed James the brother of John with the sword.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 104,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Peter",
+    "question_text": "When Peter and John laid hands on believers in Samaria to receive the Holy Spirit, Simon the Magician saw this and offered them what?",
+    "options": {
+      "a": "His book of magical arts",
+      "b": "Money, to buy the power to impart the Holy Spirit",
+      "c": "To become a full-time servant of the apostles",
+      "d": "Land to build a new church"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Simon offered them money, saying, \"Give me this power also, so that anyone on whom I lay my hands may receive the Holy Spirit.\" (Acts 8:18-19). This incident gave rise to the term 'simony'.",
+    "section_id": null
+  },
+  {
+    "question_number": 105,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Peter",
+    "question_text": "How did Peter sternly rebuke Simon the Magician for his foolish offer? (Acts 8:20)",
+    "options": {
+      "a": "\"May your silver perish with you, because you thought you could obtain the gift of God with money!\"",
+      "b": "\"You shall be blind and not see the sun for a season.\"",
+      "c": "\"Depart from us, for you are a worker of iniquity!\"",
+      "d": "\"You will be cast into the outer darkness!\""
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Peter rebuked his wicked heart, stating: \"May your silver perish with you, because you thought you could obtain the gift of God with money! You have neither part nor lot in this matter...\" (Acts 8:20-21).",
+    "section_id": null
+  },
+  {
+    "question_number": 106,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Peter",
+    "question_text": "In Acts 9:32-35, Peter visited the saints living in Lydda. Whom did he heal there after the man had been bedridden for eight years?",
+    "options": {
+      "a": "Bartimaeus",
+      "b": "Lazarus",
+      "c": "Aeneas",
+      "d": "Jairus"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "There he found a man named Aeneas, bedridden for eight years, who was paralyzed. Peter said to him, \"Aeneas, Jesus Christ heals you; rise and make your bed.\" And immediately he rose.",
+    "section_id": null
+  },
+  {
+    "question_number": 107,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Peter",
+    "question_text": "While in Joppa, Peter raised a devoted Christian woman from the dead who was full of good works and acts of charity. What was her name?",
+    "options": {
+      "a": "Lydia",
+      "b": "Priscilla",
+      "c": "Dorcas (Tabitha)",
+      "d": "Phoebe"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Now there was in Joppa a disciple named Tabitha, which, translated, means Dorcas. She was full of good works and acts of charity. Peter prayed, and she was raised back to life (Acts 9:36-42).",
+    "section_id": null
+  },
+  {
+    "question_number": 108,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Peter",
+    "question_text": "Who was Cornelius in Acts 10:1-2?",
+    "options": {
+      "a": "A devout Jewish high priest in Jerusalem",
+      "b": "A centurion of the Italian Cohort in Caesarea who feared God",
+      "c": "A silversmith in Ephesus who caused a riot",
+      "d": "A tax collector from Jericho"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "At Caesarea there was a man named Cornelius, a centurion of what was known as the Italian Cohort, a devout man who feared God with all his household, gave alms generously, and prayed continually.",
+    "section_id": null
+  },
+  {
+    "question_number": 109,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Peter",
+    "question_text": "Before Peter went to the house of Cornelius, he had a vision of a great sheet descending from heaven containing all kinds of animals. What was the central lesson God taught Peter through this vision?",
+    "options": {
+      "a": "That Christians should no longer eat meat at all",
+      "b": "That God wanted him to become a farmer",
+      "c": "That Peter should start a business trading exotic animals",
+      "d": "That what God has made clean, Peter must not call common or unclean"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "The voice said, \"What God has made clean, do not call common.\" This vision was a metaphor teaching Peter that the gospel was for the Gentiles as well, and they should not be considered unclean.",
+    "section_id": null
+  },
+  {
+    "question_number": 110,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Peter",
+    "question_text": "When Peter returned to Jerusalem, the \"circumcision party\" criticized him (Acts 11:1-3). What was their primary accusation against Peter?",
+    "options": {
+      "a": "He had gone to uncircumcised men and eaten with them.",
+      "b": "He charged money for healing people in Caesarea.",
+      "c": "He refused to pray at the temple.",
+      "d": "He allowed women to preach in the synagogue."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "They criticized him, saying, \"You went to uncircumcised men and ate with them.\" Strict Jewish tradition forbade such close fellowship with Gentiles.",
+    "section_id": null
+  },
+  {
+    "question_number": 111,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Peter",
+    "question_text": "King Herod arrested Peter and imprisoned him, intending to bring him out to the people after the Passover. How was Peter miraculously released? (Acts 12:6-11)",
+    "options": {
+      "a": "An earthquake shook the prison doors open.",
+      "b": "An angel of the Lord woke him, his chains fell off, and they walked past the guards.",
+      "c": "The Roman governor ordered his release due to a lack of evidence.",
+      "d": "The early church bribed the guards to let him go."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "While Peter was sleeping between two soldiers, an angel of the Lord stood next to him, and a light shone. The angel woke him, the chains fell off his hands, and the iron gate opened of its own accord.",
+    "section_id": null
+  },
+  {
+    "question_number": 112,
+    "subject": "Christian Religious Studies",
+    "topic": "The Ministry of Peter",
+    "question_text": "How did King Herod die shortly after he had accepted the crowd shouting that his voice was \"the voice of a god, and not of a man\"? (Acts 12:21-23)",
+    "options": {
+      "a": "He was struck by lightning in the palace courtyard.",
+      "b": "He was assassinated by his own bodyguards.",
+      "c": "He fell from a great height during a public speech.",
+      "d": "He was struck down by an angel and eaten by worms because he did not give God the glory."
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Immediately an angel of the Lord struck him down, because he did not give God the glory, and he was eaten by worms and breathed his last.",
+    "section_id": null
+  },
+  {
+    "question_number": 113,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "In 2 Thessalonians 3:10, Paul explicitly outlines a principle regarding the dignity of labor. He commands: \"If anyone is not willing to work, let him not ______.\"",
+    "options": {
+      "a": "speak",
+      "b": "pray",
+      "c": "eat",
+      "d": "sleep"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Paul condemned idleness among believers, stating firmly: \"For even when we were with you, we would give you this command: If anyone is not willing to work, let him not eat.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 114,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "According to Paul's teaching in Colossians 3:23, whatever work a person does, they should work heartily, as for ______ and not for men.",
+    "options": {
+      "a": "themselves",
+      "b": "the church",
+      "c": "their family",
+      "d": "the Lord"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Paul dignifies all honest labor by elevating its purpose: \"Whatever you do, work heartily, as for the Lord and not for men, knowing that from the Lord you will receive the inheritance as your reward.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 115,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "In Romans 13:1-7, what profound reason does Paul give for why every Christian must be subject to the governing authorities?",
+    "options": {
+      "a": "Because the governing authorities always make perfect laws",
+      "b": "Because there is no authority except from God, and those that exist have been instituted by God",
+      "c": "Because it is the only way to avoid paying taxes",
+      "d": "Because authorities will eventually become Christians"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Paul teaches obedience to constituted authority by pointing to God's sovereignty: \"Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 116,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "In Paul's letter to the Ephesians (Eph 6:5-8), he instructs servants to obey their earthly masters with fear and trembling, with a sincere heart, as they would obey ________.",
+    "options": {
+      "a": "Christ",
+      "b": "Caesar",
+      "c": "the apostles",
+      "d": "angels"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Ephesians 6:5 states: \"Bondservants, obey your earthly masters with fear and trembling, with a sincere heart, as you would Christ.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 117,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "In Romans 13:8-10, Paul summarizes the commandments such as \"You shall not commit adultery\" and \"You shall not steal\" into one phrase. What is this phrase?",
+    "options": {
+      "a": "\"You shall honor the temple of the Lord.\"",
+      "b": "\"You shall pay your tithes regularly.\"",
+      "c": "\"You shall love your neighbor as yourself.\"",
+      "d": "\"You shall keep the Sabbath holy.\""
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Paul states that \"he who loves another has fulfilled the law,\" summarizing it with the commandment, \"You shall love your neighbor as yourself. Love does no wrong to a neighbor; therefore love is the fulfilling of the law.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 118,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "When Paul arrived in Jerusalem (Acts 21), a violent riot broke out in the temple and he was dragged out. What false accusation sparked this mob against him?",
+    "options": {
+      "a": "That he was planning to assassinate the High Priest",
+      "b": "That he brought Greeks into the temple and defiled the holy place",
+      "c": "That he had stolen gold from the temple treasury",
+      "d": "That he claimed to be the Messiah"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Jews from Asia stirred up the crowd, crying out, \"...he has even brought Greeks into the temple and has defiled this holy place.\" They wrongly assumed he brought Trophimus the Ephesian inside.",
+    "section_id": null
+  },
+  {
+    "question_number": 119,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "During Paul's trial before the Sanhedrin (Acts 23:6), he cleverly divided the council by crying out that he was on trial with respect to the hope of ________.",
+    "options": {
+      "a": "the rebuilding of the temple",
+      "b": "the resurrection of the dead",
+      "c": "the arrival of Elijah",
+      "d": "the destruction of the Roman Empire"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Perceiving that one part were Sadducees and the other Pharisees, Paul cried out, \"Brothers, I am a Pharisee... It is with respect to the hope and the resurrection of the dead that I am on trial.\" This caused a violent dispute since Sadducees did not believe in resurrection.",
+    "section_id": null
+  },
+  {
+    "question_number": 120,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "Following Paul's appearance before the Jewish Council, a group of more than forty Jews formed a conspiracy. What did they bind themselves under an oath to do? (Acts 23:12-14)",
+    "options": {
+      "a": "To neither eat nor drink until they had killed Paul",
+      "b": "To leave Jerusalem and never return",
+      "c": "To fast for forty days in the wilderness until Paul was released",
+      "d": "To offer continuous sacrifices until Paul was executed by Rome"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "They made a plot and bound themselves by an oath neither to eat nor drink till they had killed Paul. This plot was foiled when Paul's nephew overheard them and warned the Roman tribune.",
+    "section_id": null
+  },
+  {
+    "question_number": 121,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "After being secretly moved from Jerusalem under heavy military guard to Caesarea, who was the first Roman governor that heard Paul's case?",
+    "options": {
+      "a": "Pontius Pilate",
+      "b": "Felix",
+      "c": "Festus",
+      "d": "Agrippa"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Paul was brought by night to Caesarea and presented to **Felix** the governor (Acts 23:33). Felix kept Paul in custody for two years, hoping for a bribe.",
+    "section_id": null
+  },
+  {
+    "question_number": 122,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "When Porcius Festus succeeded Felix, he wanted to do the Jews a favor and suggested Paul be tried in Jerusalem. How did Paul dramatically escape this trap? (Acts 25:10-11)",
+    "options": {
+      "a": "He bribed Festus with money.",
+      "b": "He invoked his rights as a Roman citizen and appealed to Caesar.",
+      "c": "He proved his absolute innocence from the Scriptures.",
+      "d": "He requested a trial by combat against the High Priest."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "As a Roman citizen, Paul had the right to demand trial in Rome. He stated, \"I am standing before Caesar's tribunal... I appeal to Caesar.\" Festus replied, \"To Caesar you have appealed; to Caesar you shall go.\"",
+    "section_id": null
+  },
+  {
+    "question_number": 123,
+    "subject": "Christian Religious Studies",
+    "topic": "The Life and Teachings of Paul",
+    "question_text": "While Paul was waiting in Caesarea to be sent to Rome, Festus invited a visiting royal dignitary to hear Paul speak. Who was this royal guest?",
+    "options": {
+      "a": "King Herod the Great",
+      "b": "Emperor Nero",
+      "c": "King Agrippa",
+      "d": "Queen Esther"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Acts 25:13 states: \"Now when some days had passed, Agrippa the king and Bernice arrived at Caesarea and greeted Festus.\" Paul later gave his famous defense before King Agrippa (Acts 26).",
+    "section_id": null
+  }
+]
