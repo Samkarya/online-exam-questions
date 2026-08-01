@@ -1,0 +1,354 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Biotechnology",
+    "topic": "Agricultural",
+    "question_text": "The mass production of transgenic crops like Roundup Ready soybeans relies heavily on biological vectors to insert recombinant DNA into plant genomes. Which naturally occurring soil bacterium is famous for its large Ti (Tumor-inducing) plasmid, which biotechnologists routinely hijack to insert novel traits into dicotyledonous agricultural plants?",
+    "options": {
+      "a": "*Escherichia coli*",
+      "b": "*Agrobacterium tumefaciens*",
+      "c": "*Thermus aquaticus*",
+      "d": "*Bacillus subtilis*"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "***Agrobacterium tumefaciens*** is known as \"Nature's genetic engineer.\" \n\nIn the wild, it infects plants by transferring a piece of its Ti plasmid (the T-DNA) directly into the plant's chromosomes, forcing the plant to grow a tumor (crown gall) that feeds the bacteria. Biotechnologists disarm this plasmid by removing the tumor-causing genes and replacing them with desirable agricultural genes (like herbicide or drought resistance), allowing the bacterium to perfectly splice the new traits into the plant crop.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Biotechnology",
+    "topic": "Agricultural",
+    "question_text": "One of the most widespread agricultural biotechnology applications is the planting of \"Bt corn\" and \"Bt cotton.\" These transgenic crops have been genetically engineered to express the *cry* gene isolated from the soil bacterium *Bacillus thuringiensis*. What specific agricultural advantage does the expression of this recombinant gene confer to the crop?",
+    "options": {
+      "a": "It allows the plant to fix atmospheric nitrogen directly in its roots, eliminating the need for synthetic fertilizers.",
+      "b": "It produces a crystalline endotoxin in the plant tissues that is highly lethal to specific destructive lepidopteran insect pests (caterpillars).",
+      "c": "It confers total resistance to glyphosate-based herbicides, allowing farmers to spray fields without killing the crop.",
+      "d": "It dramatically slows the ripening process of the fruit by blocking the expression of ethylene gas."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Bt crops** are engineered with genes from *Bacillus thuringiensis*, which code for Cry (crystal) proteins. \n\nWhen specific pests (like the European corn borer or cotton bollworm) eat the crop, the alkaline environment of the insect's gut activates the Cry protein into a toxin, destroying the gut lining and killing the pest. It acts as a highly specific biological insecticide integrated directly into the plant. \n> Option 'a' relates to nitrogen fixation.\n> Option 'c' describes \"Roundup Ready\" crops.\n> Option 'd' describes the technology behind the Flavr Savr tomato.",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Biotechnology",
+    "topic": "Forensic",
+    "question_text": "A forensic scientist is processing a minute, partially degraded blood sample recovered from a crime scene. To successfully generate a genetic profile that can be uploaded to the FBI's CODIS database, which specific molecular biotechnology approach is the current industry standard?",
+    "options": {
+      "a": "Digesting the entire genome with restriction enzymes to create a Restriction Fragment Length Polymorphism (RFLP) Southern blot.",
+      "b": "Performing a multiplex PCR to simultaneously amplify 20 standard Short Tandem Repeat (STR) loci, followed by capillary electrophoresis.",
+      "c": "Utilizing CRISPR-Cas9 to specifically edit and identify the mutated alleles in the suspect's genomic DNA.",
+      "d": "Conducting whole-genome shotgun sequencing on the sample using Next-Generation Sequencing (NGS) platforms."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The modern standard for forensic DNA fingerprinting is the amplification of **Short Tandem Repeats (STRs)**. \n\nBecause forensic samples are often tiny and degraded, PCR is required to amplify the DNA. Scientists use multiplex PCR to amplify exactly 20 specific, highly variable STR loci defined by the **CODIS** system. The amplified fragments are then rapidly sorted by size using automated capillary electrophoresis. \n> RFLP (Option 'a') is a historically important but obsolete technique that requires massive amounts of pristine DNA. NGS (Option 'd') is generally too slow, expensive, and unnecessary for basic identification.",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Biotechnology",
+    "topic": "Forensic",
+    "question_text": "Forensic anthropologists working on a 50-year-old cold case recover heavily weathered, sun-bleached bone fragments from a desert. Standard nuclear STR profiling fails entirely due to massive DNA degradation. Why would the forensic team pivot to analyzing the mitochondrial DNA (mtDNA) instead?",
+    "options": {
+      "a": "Mitochondrial DNA is chemically composed of highly stable RNA bases, making it immune to environmental UV degradation.",
+      "b": "Mitochondrial DNA contains massively long tandem repeats that are easier to amplify than nuclear DNA.",
+      "c": "A single human cell contains hundreds to thousands of copies of the mitochondrial genome, statistically increasing the chance that intact fragments survive.",
+      "d": "Mitochondrial DNA is encapsulated in a protective thick peptidoglycan cell wall inside the human cell."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The primary advantage of **mitochondrial DNA (mtDNA)** in forensics is its **high copy number**. \n\nWhile a cell only has two copies of nuclear DNA (one from each parent), it has hundreds of mitochondria, each containing multiple copies of the mtDNA genome. In severely degraded samples (old bones, hair shafts, teeth), the sheer abundance of mtDNA makes it much more likely that some intact fragments survive to be sequenced. Notably, mtDNA only provides maternal lineage, making it less specific than nuclear STRs, but invaluable when nuclear DNA is destroyed.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Biotechnology",
+    "topic": "Environmental",
+    "question_text": "Following a massive marine crude oil spill, environmental biotechnologists spray the floating oil slicks with a mixture of inorganic nitrogen and phosphorus fertilizers. They do not add any external lab-grown bacteria. What is the specific name of this bioremediation strategy, and how does it work?",
+    "options": {
+      "a": "**Bioaugmentation**; the fertilizers directly mutate the oil molecules into harmless salts.",
+      "b": "**Biostimulation**; the fertilizers provide rate-limiting nutrients that trigger massive population growth in the ocean's native oil-degrading bacteria.",
+      "c": "**Phytoremediation**; the fertilizers rapidly grow marine kelp that traps the oil mechanically.",
+      "d": "**Bioleaching**; the fertilizers oxidize the crude oil into a heavy metal sludge that sinks to the seafloor."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "This technique is called **Biostimulation**. \n\nThe ocean naturally contains trace amounts of oil-eating bacteria (like *Alcanivorax*). During an oil spill, their food source (carbon from the oil) is effectively infinite, but their population growth is blocked because they run out of nitrogen and phosphorus. Spraying fertilizer removes this bottleneck, \"stimulating\" the native bacteria to rapidly multiply and digest the spill. \n> Adding new, lab-grown microbes to the environment would be called *Bioaugmentation* (Option 'a').",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Biotechnology",
+    "topic": "Environmental",
+    "question_text": "In the environmental application of biomining, specialized lithoautotrophic bacteria (such as *Acidithiobacillus ferrooxidans*) are sprayed over massive heaps of low-grade copper ore. What exact biochemical role do these bacteria play in the extraction of the valuable metal?",
+    "options": {
+      "a": "They physically ingest solid rock and secrete pure copper pellets as a metabolic waste product.",
+      "b": "They oxidize insoluble metal sulfides into highly soluble metal sulfates, allowing the copper to be easily washed out of the rock in an aqueous solution.",
+      "c": "They secrete strong alkaline bases that dissolve the surrounding rock matrix while precipitating the metal out of the water.",
+      "d": "They perform reverse transcription to bind copper ions directly to their DNA backbone, which is later harvested."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "**Bioleaching (biomining)** utilizes microbes to extract metals from low-grade ores where traditional smelting is too expensive. \n\nBacteria like *Acidithiobacillus* thrive in extremely acidic environments and gain their energy by chemically **oxidizing inorganic compounds** (like sulfur and iron). When applied to copper sulfide ores, they oxidize the insoluble sulfide into a water-soluble sulfate. This biochemical reaction releases the trapped copper ions into the water, which trickles down the ore heap and is collected for processing.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Biotechnology",
+    "topic": "Medical",
+    "question_text": "A patient diagnosed with HER2-positive breast cancer is prescribed the biopharmaceutical drug Trastuzumab (Herceptin). This drug specifically binds to the HER2 receptors on the surface of the cancer cells, flagging them for destruction by the immune system. What specific class of biotechnological therapeutic is Trastuzumab?",
+    "options": {
+      "a": "A small-molecule competitive inhibitor",
+      "b": "An RNA-interference (RNAi) silencing complex",
+      "c": "A Monoclonal Antibody (mAb)",
+      "d": "A live-attenuated viral vaccine"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Trastuzumab (and most therapeutics ending in the suffix **-mab**) is a **Monoclonal Antibody**. \n\nMonoclonal antibodies are highly specific proteins cloned and mass-produced in biomanufacturing facilities (typically using CHO cell lines). They are engineered to bind perfectly to one specific target antigen (like the HER2 receptor overexpressed on certain cancer cells), delivering highly targeted therapy without the systemic, wide-ranging toxicity of traditional chemical chemotherapy (small molecules).",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Biotechnology",
+    "topic": "Medical",
+    "question_text": "Prior to prescribing a standard dose of the blood-thinning drug Warfarin, a physician orders a microarray analysis of the patient's *CYP2C9* and *VKORC1* genes. The physician is using genetic information to predict how rapidly the patient's liver will metabolize the drug to prevent accidental overdose. This practice falls under which modern medical biotechnology sector?",
+    "options": {
+      "a": "Gene Therapy",
+      "b": "Pharmacogenomics",
+      "c": "Xenotransplantation",
+      "d": "Proteomics"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Pharmacogenomics** is the study of how an individual's unique genetic makeup influences their physiological response to medications. \n\nBecause different patients have different alleles for liver enzymes (like the Cytochrome P450 family), they process drugs at different speeds. By analyzing the genes beforehand, doctors can customize the dosage—moving away from \"one-size-fits-all\" medicine to precision medicine. \n> *Gene therapy* (Option 'a') actively alters the patient's DNA to cure disease.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Biotechnology",
+    "topic": "Food processing",
+    "question_text": "For centuries, cheese manufacturing required the slaughter of unweaned calves to extract the milk-curdling enzyme rennet from their stomachs. Today, over $90\\%$ of commercial hard cheeses are made using a recombinant enzyme produced by genetically modified bacteria and fungi (such as *Aspergillus niger*). What is the name of this biotechnologically produced enzyme?",
+    "options": {
+      "a": "Amylase",
+      "b": "Cellulase",
+      "c": "Chymosin (FPC)",
+      "d": "Lactase"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The active curdling enzyme historically found in calf stomachs is **chymosin**. \n\nBiotechnologists isolated the cow gene for chymosin and inserted it into microorganisms to create **Fermentation-Produced Chymosin (FPC)**. In 1990, FPC became the very first artificially produced recombinant enzyme approved by the FDA for use in food. This advancement stabilized the global cheese supply chain and allows for strictly vegetarian cheeses. \n> *Lactase* (Option 'd') breaks down milk sugars (lactose), but does not curdle proteins for cheese.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Biotechnology",
+    "topic": "Food processing",
+    "question_text": "During the industrial production of yogurt and sauerkraut, wild or engineered strains of Lactic Acid Bacteria (LAB) undergo strictly anaerobic fermentation. Biochemically, how does this fermentation process inherently preserve the food and prevent the growth of deadly spoilage organisms like *Clostridium botulinum*?",
+    "options": {
+      "a": "The bacteria secrete broad-spectrum penicillin that destroys the cell walls of competing microbes.",
+      "b": "The bacteria rapidly metabolize free sugars into lactic acid, drastically dropping the pH of the food into an acidic, inhospitable range.",
+      "c": "The bacteria perform oxidative phosphorylation to boil the water out of the food matrix, creating a dry, desiccated environment.",
+      "d": "The bacteria bind all the free nitrogen gas in the food, starving spoilage organisms of vital atmospheric nutrients."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Food preservation via fermentation works primarily through **acidification**. \n\nUnder anaerobic conditions, Lactic Acid Bacteria (like *Lactobacillus* species) convert simple carbohydrates into **lactic acid** as a metabolic waste product. This rapid accumulation of acid drastically lowers the pH of the food environment (usually below $4.6$). Highly pathogenic and spoilage microbes (especially *C. botulinum* spores) cannot survive or germinate in high-acid environments, rendering the fermented food safe and shelf-stable.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Biotechnology",
+    "topic": "DNA -> RNA -> Protein flow",
+    "question_text": "The foundational 'Central Dogma' proposed by Francis Crick describes the strict, one-way flow of genetic information within a biological system. Which of the following sequences represents the correct standard flow of this genetic information in a typical eukaryotic cell?",
+    "options": {
+      "a": "Protein $\\rightarrow$ RNA $\\rightarrow$ DNA",
+      "b": "RNA $\\rightarrow$ DNA $\\rightarrow$ Protein",
+      "c": "DNA $\\rightarrow$ RNA $\\rightarrow$ Protein",
+      "d": "DNA $\\rightarrow$ Protein $\\rightarrow$ RNA"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **Central Dogma of Molecular Biology** dictates that genetic information flows from **DNA to RNA to Protein**. \n\nSpecifically: \n1. Information stored in **DNA** is transcribed into messenger **RNA** (mRNA). \n2. The **RNA** transcript is translated by ribosomes into an amino acid sequence, forming a functional **Protein**. \nWhile exceptions exist (like retroviruses reversing RNA to DNA), the standard biological mechanism strictly follows the DNA $\\rightarrow$ RNA $\\rightarrow$ Protein pathway.",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Biotechnology",
+    "topic": "DNA -> RNA -> Protein flow",
+    "question_text": "A biotechnologist isolates a section of the native human genome known to code for a vital hormone and inserts the sequence directly into an *E. coli* expression plasmid. The bacterium successfully transcribes the DNA into mRNA, but produces a completely non-functional, oversized string of gibberellic amino acids rather than the correct human protein. What key difference in eukaryotic vs. prokaryotic central dogma processing caused this failure?",
+    "options": {
+      "a": "Bacteria utilize an entirely different universal genetic code; the codon 'AUG' codes for a stop signal in bacteria.",
+      "b": "Bacteria lack the spliceosome machinery required to cut non-coding introns out of the raw eukaryotic mRNA transcript.",
+      "c": "Bacterial ribosomes operate strictly inside the nucleus, whereas eukaryotic translation happens in the cytoplasm.",
+      "d": "Bacterial DNA polymerases synthesize DNA in a 3' to 5' direction, reading the human gene backward."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "This is a fundamental hurdle in recombinant biomanufacturing. Human (eukaryotic) genes contain **introns**—vast stretches of non-coding \"junk\" DNA nested inside the functional gene. \n\nEukaryotic cells transcribe everything into pre-mRNA and then use complex spliceosomes to cut out the introns before translation. **Bacteria (prokaryotes) do not possess introns or splicing machinery**. If you insert raw human genomic DNA into *E. coli*, it will translate the introns alongside the exons, resulting in a massively mutated, useless protein. To fix this, scientists must use synthetic **cDNA** (where the introns have already been reverse-transcribed out) when programming bacteria.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Biotechnology",
+    "topic": "DNA -> RNA -> Protein flow",
+    "question_text": "The traditional Central Dogma outlines the flow of information from DNA to RNA to Protein. However, biotechnologists frequently exploit a unique biological deviation from this rule to create stable, intron-free templates for bacterial expression. Which viral enzyme is utilized in the laboratory to effectively reverse the central dogma by synthesizing complementary DNA (cDNA) from an mRNA template?",
+    "options": {
+      "a": "DNA Ligase",
+      "b": "Reverse Transcriptase",
+      "c": "RNA Polymerase II",
+      "d": "Helicase"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Reverse Transcriptase** is an enzyme naturally found in retroviruses (like HIV). \n\nAs its name implies, it performs \"reverse transcription\"—reading an RNA molecule and building a complementary strand of DNA (cDNA). Biotechnologists use this enzyme extensively in RT-PCR to capture eukaryotic mRNA and lock it into stable DNA format for analysis or biomanufacturing. \n> *Ligase* (Option 'a') seals nicks in DNA. \n> *RNA Polymerase* (Option 'c') performs standard transcription (DNA $\\rightarrow$ RNA). \n> *Helicase* (Option 'd') unwinds the double helix.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Biotechnology",
+    "topic": "Replication, transcription, translation",
+    "question_text": "During the initiation phase of transcription in a bacterial cell, where exactly does the RNA polymerase holoenzyme bind to the DNA molecule to begin synthesizing the messenger RNA transcript?",
+    "options": {
+      "a": "The Promoter region",
+      "b": "The Start Codon (AUG)",
+      "c": "The Origin of Replication (OriC)",
+      "d": "The 5' Telomere cap"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Transcription begins when RNA polymerase recognizes and binds to a specific regulatory sequence of DNA known as the **Promoter** (located upstream of the actual gene). \n\nOnce bound, the enzyme unwinds the DNA and begins building the mRNA. \n> The *Start Codon* (Option 'b') is where a ribosome begins *translation*, not transcription. \n> The *Origin of Replication* (Option 'c') is where DNA polymerase begins *replication*. \n> Bacteria do not possess linear *telomeres* (Option 'd').",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Biotechnology",
+    "topic": "Replication, transcription, translation",
+    "question_text": "During the process of translation at the ribosome, how do Transfer RNA (tRNA) molecules ensure that the precise, genetically encoded amino acid is added to the growing polypeptide chain?",
+    "options": {
+      "a": "By using their anticodon loop to form complementary hydrogen bonds with the specific codon on the mRNA transcript.",
+      "b": "By temporarily binding directly to the template DNA strand to read the gene's sequence in real time.",
+      "c": "By covalently bonding their attached amino acid to the ribosomal RNA (rRNA) structural scaffold.",
+      "d": "By actively proofreading the newly synthesized protein structure using specialized zinc-finger motifs."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Translation relies on the matching of codons and anticodons inside the ribosome. \n\nThe messenger RNA (mRNA) provides three-letter codes called **codons**. Each **tRNA** molecule carries one specific amino acid and has a complementary three-letter **anticodon**. The ribosome facilitates the temporary hydrogen bonding between the mRNA codon and the tRNA anticodon (e.g., AUG pairs with UAC). If the pairing is a perfect match, the ribosome links the tRNA's amino acid to the chain.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Biotechnology",
+    "topic": "Replication, transcription, translation",
+    "question_text": "DNA replication is a highly coordinated process. Because DNA polymerase can only synthesize DNA in the $5' \\rightarrow 3'$ direction, the replication fork possesses both a \"leading\" and a \"lagging\" strand. Which specific structural feature characterizes the synthesis of the lagging strand?",
+    "options": {
+      "a": "It is synthesized continuously without the need for RNA primers.",
+      "b": "It is synthesized exclusively from RNA nucleotides rather than DNA nucleotides.",
+      "c": "It is synthesized discontinuously in short, separated segments known as Okazaki fragments.",
+      "d": "It is synthesized by reverse transcriptase enzymes outside of the nucleus."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Because the two strands of the DNA double helix are anti-parallel (running in opposite directions), the replication machinery faces a geometric problem. \n\nDNA polymerase can only travel in one direction ($5' \\rightarrow 3'$). As the replication fork unzips, the **leading strand** is synthesized continuously. However, the **lagging strand** must be synthesized discontinuously in short bursts (backing up and starting again as the fork opens further). These short, distinct segments of newly synthesized DNA are called **Okazaki fragments**, which are later stitched together by DNA ligase.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Biotechnology",
+    "topic": "Key milestones and pioneering scientists",
+    "question_text": "The dawn of the modern antibiotic era was catalyzed in 1928 by a fortuitous accident. A mold spore contaminated an open *Staphylococcus* agar plate, resulting in a clear zone where the bacteria were inhibited from growing. Which pioneering scientist is credited with this observation and the subsequent discovery of penicillin?",
+    "options": {
+      "a": "Louis Pasteur",
+      "b": "Robert Koch",
+      "c": "Alexander Fleming",
+      "d": "Jonas Salk"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Alexander Fleming** was a Scottish researcher who returned from vacation in 1928 to find that a *Penicillium* mold had contaminated his bacterial culture plates and was actively killing the *Staphylococcus* colonies. This serendipitous discovery led to the mass production of penicillin (the world's first true antibiotic), profoundly shaping human medicine and early biotechnology.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Biotechnology",
+    "topic": "Key milestones and pioneering scientists",
+    "question_text": "In 1973, researchers Stanley Cohen and Herbert Boyer achieved a monumental milestone that essentially launched the modern biotechnology industry. Which of the following accurately describes their revolutionary breakthrough?",
+    "options": {
+      "a": "They successfully cloned the first adult mammal (Dolly the sheep) using somatic cell nuclear transfer.",
+      "b": "They constructed the first functional recombinant DNA molecule by splicing an amphibian gene into a bacterial plasmid.",
+      "c": "They completed the first fully automated draft sequence of the human genome.",
+      "d": "They discovered and mapped the CRISPR-Cas9 adaptive immune system in *Streptococcus pyogenes*."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Cohen and Boyer are recognized as the fathers of genetic engineering. \n\nIn 1973, they used newly discovered restriction enzymes (EcoRI) and DNA ligase to cut a ribosomal RNA gene out of a frog (*Xenopus*) and paste it into a bacterial plasmid. They then inserted this plasmid into *E. coli*, successfully creating the very first functional **recombinant DNA (rDNA) organism**. \n> Option 'a' was Ian Wilmut (1996). \n> Option 'c' was the Human Genome Project (2001). \n> Option 'd' relates to Doudna and Charpentier (2012).",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Biotechnology",
+    "topic": "Key milestones and pioneering scientists",
+    "question_text": "Which scientist was awarded the Nobel Prize in Chemistry for conceptualizing the Polymerase Chain Reaction (PCR) in 1983—a breakthrough that transformed molecular biology from a slow, painstaking process into a fast, exponential amplification system?",
+    "options": {
+      "a": "Frederick Sanger",
+      "b": "Rosalind Franklin",
+      "c": "Barbara McClintock",
+      "d": "Kary Mullis"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Kary Mullis** conceived the idea for the Polymerase Chain Reaction (PCR) while working at the Cetus Corporation in 1983. \n\nHis realization that repeated cycles of heating and cooling in the presence of primers and a polymerase could exponentially amplify targeted DNA segments revolutionized DNA fingerprinting, diagnostics, and genetic cloning. \n> Sanger (Option 'a') invented DNA sequencing. \n> Franklin (Option 'b') provided X-ray crystallography of DNA. \n> McClintock (Option 'c') discovered transposons (\"jumping genes\").",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Biotechnology",
+    "topic": "Genetics, microbiology, sterilization landmarks",
+    "question_text": "Prior to the late 19th century, many believed that microbes simply appeared out of thin air via \"spontaneous generation.\" Which historical experiment definitively debunked this theory and proved that airborne contamination causes microbial growth, establishing the foundation for modern aseptic technique and sterilization?",
+    "options": {
+      "a": "Gregor Mendel's mathematical modeling of trait inheritance in garden peas.",
+      "b": "Louis Pasteur's famous swan-neck flask experiments with sterilized broth.",
+      "c": "James Watson and Francis Crick's publication on the double-helix geometry of DNA.",
+      "d": "Antonie van Leeuwenhoek's initial discovery of bacteria using a rudimentary microscope."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "In 1859, **Louis Pasteur** utilized swan-neck (S-shaped) glass flasks filled with sterilized broth to trap airborne dust and microbes in the bend of the neck, keeping the broth sterile indefinitely despite being exposed to air. \n\nThis elegant experiment definitively disproved spontaneous generation and formed the fundamental basis for the \"Germ Theory of Disease\" and modern lab sterilization protocols (like pasteurization and autoclaving).",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Biotechnology",
+    "topic": "Genetics, microbiology, sterilization landmarks",
+    "question_text": "For decades, scientists debated whether complex proteins or simple DNA carried genetic information. The definitive experiment settling this debate utilized bacteriophages radioactively labeled with Phosphorus-32 (to track DNA) and Sulfur-35 (to track protein) to see which molecule entered the bacterial host cell. This landmark 1952 study is known as the:",
+    "options": {
+      "a": "Hershey-Chase Experiment",
+      "b": "Griffith Transformation Experiment",
+      "c": "Meselson-Stahl Experiment",
+      "d": "Avery-MacLeod-McCarty Experiment"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "The **Hershey-Chase blender experiment** provided the final, undeniable proof that DNA is the genetic material. \n\nBy labeling viral DNA with radioactive Phosphorus ($^{32}P$) and the viral protein coat with radioactive Sulfur ($^{35}S$), they infected bacteria and spun them in a centrifuge. They found only the $^{32}P$ (DNA) inside the bacterial cells, proving the virus injected DNA—not protein—to program the bacteria to build more viruses. \n> *Meselson-Stahl* (Option 'c') proved semi-conservative replication. \n> *Griffith/Avery* (Options 'b', 'd') showed DNA was the \"transforming principle\" earlier, but lacked the finality of Hershey-Chase.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Biotechnology",
+    "topic": "Genetics, microbiology, sterilization landmarks",
+    "question_text": "In 1982, the FDA issued its very first approval for a commercially available recombinant DNA pharmaceutical. This vital biologic drug was synthesized in engineered *E. coli*, replacing the historical need to extract the protein from the pancreases of slaughtered pigs and cattle. What was this landmark product?",
+    "options": {
+      "a": "Recombinant human insulin (Humulin)",
+      "b": "Recombinant Hepatitis B vaccine",
+      "c": "Tissue plasminogen activator (tPA)",
+      "d": "Monoclonal antibody therapy (Herceptin)"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "In 1982, Genentech and Eli Lilly achieved FDA approval for **Humulin (recombinant human insulin)**. \n\nPrior to this, diabetics relied on insulin extracted from pig and cow pancreases, which was inefficient and caused allergic reactions in some patients. Synthesizing the exact human insulin sequence in *E. coli* proved that genetically engineered bacteria could serve as pharmaceutical \"factories,\" permanently changing the landscape of drug manufacturing.",
+    "section_id": null
+  }
+]

@@ -873,5 +873,54 @@
     "short_description": "RRB Group D 2025 CBT paper, covering General Science, Math, and Reasoning.",
     "path": "India/government/RRB_Group_D/28Nov2025shift1paper.json",
     "suitePath": "configs/rrb-group-d.json"
+  },
+  {
+    "id": "nocti_biotechnology_4275_ethics",
+    "title": "NOCTI Biotechnology 4275: Ethics",
+    "short_description": "36-question section covering NOCTI Biotechnology 4275 Ethics (recombinant DNA, animal testing, stem cells, gene editing), professional conduct, data integrity, and information literacy.",
+    "path": "usa/nocti/biotechnology4275/nocti_ethics.json",
+    "suitePath": "configs/nocti-biotechnology-4275.json"
+  },
+  {
+    "id": "nocti_biotechnology_4275_lab_skills",
+    "title": "NOCTI Biotechnology 4275: Laboratory Knowledge & Skills",
+    "short_description": "62-question section covering NOCTI Biotechnology 4275 experimental design, laboratory mathematics (molarity, dilutions, % concentration), PCR, electrophoresis, protein isolation, and quality control.",
+    "path": "usa/nocti/biotechnology4275/nocti_lab_skills.json",
+    "suitePath": "configs/nocti-biotechnology-4275.json"
+  },
+  {
+    "id": "nocti_biotechnology_4275_biotech_knowledge",
+    "title": "NOCTI Biotechnology 4275: Knowledge of Biotechnology",
+    "short_description": "22-question section covering NOCTI Biotechnology 4275 real-world applications, the central dogma, and the history of biotechnology.",
+    "path": "usa/nocti/biotechnology4275/nocti_biotech_knowledge.json",
+    "suitePath": "configs/nocti-biotechnology-4275.json"
+  },
+  {
+    "id": "nocti_biotechnology_4275_equipment",
+    "title": "NOCTI Biotechnology 4275: Appropriate Equipment & Instrumentation",
+    "short_description": "23-question section covering NOCTI Biotechnology 4275 micropipettes, volumetric glassware, microscopy, spectrophotometry, and general lab instrumentation.",
+    "path": "usa/nocti/biotechnology4275/nocti_equipment.json",
+    "suitePath": "configs/nocti-biotechnology-4275.json"
+  },
+  {
+    "id": "nocti_biotechnology_4275_regulated_environment",
+    "title": "NOCTI Biotechnology 4275: Biotechnology in a Regulated Environment",
+    "short_description": "22-question section covering NOCTI Biotechnology 4275 FDA/EPA/OSHA/USDA oversight, SOPs, and legal recordkeeping.",
+    "path": "usa/nocti/biotechnology4275/nocti_regulated_environment.json",
+    "suitePath": "configs/nocti-biotechnology-4275.json"
+  },
+  {
+    "id": "nocti_biotechnology_4275_aseptic_technique",
+    "title": "NOCTI Biotechnology 4275: Aseptic/Sterile Techniques",
+    "short_description": "21-question section covering NOCTI Biotechnology 4275 sterile technique, microbial culturing, and biosafety level classification.",
+    "path": "usa/nocti/biotechnology4275/nocti_aseptic_technique.json",
+    "suitePath": "configs/nocti-biotechnology-4275.json"
+  },
+  {
+    "id": "nocti_biotechnology_4275_safety",
+    "title": "NOCTI Biotechnology 4275: Safety in the Biotechnology Laboratory",
+    "short_description": "19-question section covering NOCTI Biotechnology 4275 OSHA safety protocols, SDS interpretation, and facility safety equipment.",
+    "path": "usa/nocti/biotechnology4275/nocti_safety.json",
+    "suitePath": "configs/nocti-biotechnology-4275.json"
   }
 ]
