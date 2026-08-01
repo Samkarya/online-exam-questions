@@ -1,0 +1,994 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Biotechnology",
+    "topic": "Hypothesis formulation",
+    "question_text": "A biomanufacturing laboratory is investigating the effect of incubation temperature on the enzymatic activity of *Taq* polymerase. Which of the following statements represents a properly formatted, testable scientific hypothesis for this study?",
+    "options": {
+      "a": "Taq polymerase is fundamentally the most important enzyme used in modern molecular biology today.",
+      "b": "Why does the three-dimensional protein structure of Taq polymerase denature rapidly at extremely high temperatures?",
+      "c": "If the incubation temperature is raised above $95^\\circ\\text{C}$, then the enzymatic activity of Taq polymerase will decrease due to protein denaturation.",
+      "d": "Taq polymerase activity changes whenever the environmental temperature is altered."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A strong scientific hypothesis must be **testable, falsifiable, and specific**, often formatted as an \"If/then\" statement that predicts a relationship between variables.\n\n> Option 'c' explicitly predicts how the independent variable (temperature $>95^\\circ\\text{C}$) will affect the dependent variable (decreased enzymatic activity) and provides a mechanistic rationale. \n> Option 'a' is a subjective opinion. \n> Option 'b' is a research question, not a statement. \n> Option 'd' is far too vague and broad to be rigorously tested.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Biotechnology",
+    "topic": "Hypothesis formulation",
+    "question_text": "A team of researchers is testing a novel bioreactor impeller design to see if it increases the cellular growth rate of a Chinese Hamster Ovary (CHO) cell line compared to the industry-standard impeller. What is the correct **null hypothesis** ($H_0$) for this experiment?",
+    "options": {
+      "a": "The novel impeller design will produce a statistically significant increase in the CHO cell growth rate.",
+      "b": "There will be no statistically significant difference in CHO cell growth rate between the novel impeller and the standard impeller.",
+      "c": "The novel impeller design will decrease the amount of physical shear stress on the CHO cells.",
+      "d": "The standard impeller is defective and must be entirely replaced to achieve maximum CHO cell viability."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "In experimental design and statistics, the **null hypothesis** ($H_0$) asserts that there is no effect, no relationship, or no difference between the groups being tested. \n\nIt is the default position that the researcher attempts to disprove or reject. Therefore, stating that there is \"no statistically significant difference\" between the two impellers correctly represents the null hypothesis. Option 'a' represents the *alternative hypothesis* ($H_A$).",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Biotechnology",
+    "topic": "Hypothesis formulation",
+    "question_text": "A plant geneticist formulates the following hypothesis: *\"The application of exogenous gibberellic acid (GA) stimulates early seed germination in Arabidopsis thaliana.\"* To adequately test this specific hypothesis, which parameter must the researchers accurately measure?",
+    "options": {
+      "a": "The final dry biomass of the adult *Arabidopsis* plants after 8 weeks of growth.",
+      "b": "The internal concentration of endogenous GA naturally produced by the wild-type seeds.",
+      "c": "The time required (in days) for radicle emergence in GA-treated seeds compared to untreated control seeds.",
+      "d": "The shift in soil pH levels before and after planting the *Arabidopsis* seeds."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Experimental design requires the selected metric (the dependent variable) to directly answer the hypothesis. \n\nThe hypothesis focuses on **\"early seed germination.\"** The standard biological marker for seed germination is radicle (root) emergence. Therefore, measuring the *time* (days to emergence) directly tests if the process is \"early\" (accelerated). Measuring final plant weight (Option 'a') or soil pH (Option 'd') tests different developmental or environmental phases completely unrelated to the initial germination timing.",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Biotechnology",
+    "topic": "Independent vs. dependent variables",
+    "question_text": "An environmental toxicology technician conducts a 48-hour bioassay to determine how five different concentrations of copper sulfate ($\\text{CuSO}_4$) affect the survival rate of *Daphnia magna* (water fleas). In this experimental design, what is the **independent variable**?",
+    "options": {
+      "a": "The percentage of *Daphnia magna* that survive the 48-hour period",
+      "b": "The specific concentration of $\\text{CuSO}_4$ applied to the water",
+      "c": "The 48-hour time limit imposed on the bioassay",
+      "d": "The initial volume of freshwater placed in each testing beaker"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "In an experiment, the **independent variable** is the factor that the researcher intentionally manipulates or changes across experimental groups to observe an effect. \n\nHere, the researcher is controlling and changing the concentration of $\\text{CuSO}_4$ (Option 'b'). The resulting survival rate (Option 'a') is what is being measured in response to that change, making it the **dependent variable**. Time limits and water volumes (Options 'c' and 'd') should be kept constant for all groups, making them **controlled variables** (constants).",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Biotechnology",
+    "topic": "Independent vs. dependent variables",
+    "question_text": "A biomanufacturing team is trying to optimize the production of recombinant human insulin in *E. coli*. They set up four parallel fermentation bioreactors, each utilizing a different concentration of the inducer molecule IPTG ($0.1 \\text{ mM}$, $0.5 \\text{ mM}$, $1.0 \\text{ mM}$, and $2.0 \\text{ mM}$). After 24 hours, they harvest the cells and measure the total milligrams of insulin produced per liter of culture. In this experimental design, what is the **dependent variable**?",
+    "options": {
+      "a": "The concentration of the IPTG inducer",
+      "b": "The total milligrams of insulin produced per liter",
+      "c": "The 24-hour incubation time",
+      "d": "The specific strain of *E. coli* utilized"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **dependent variable** is the outcome being measured or the variable that \"depends\" on the changes made by the scientist. \n\nBecause the team is measuring the final amount of insulin produced in response to the inducer, the insulin yield is the dependent variable (Option 'b'). The IPTG concentration (Option 'a') is what the team intentionally manipulated, making it the **independent variable**. Time and bacterial strain (Options 'c' and 'd') are kept the same across all reactors, making them **controlled variables (constants)**.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Biotechnology",
+    "topic": "Independent vs. dependent variables",
+    "question_text": "A laboratory technician is assessing the biocidal efficacy of a UV-C sterilizing hood. They place identical open agar plates spread with *Bacillus subtilis* into the hood and expose them to UV-C light for 5, 10, 15, and 20 minutes, respectively. Afterward, they incubate the plates and count the number of surviving Colony Forming Units (CFUs). Which of the following must act as a strict **controlled variable (constant)** to ensure the validity of this specific experiment?",
+    "options": {
+      "a": "The amount of time the plates are exposed to the UV-C light",
+      "b": "The final count of surviving CFUs on each plate",
+      "c": "The genetic mutation rate of the surviving *B. subtilis* cells",
+      "d": "The initial density and volume of the bacterial suspension plated on each agar plate"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "A **controlled variable** is a factor that must be kept identical across all experimental groups so it does not inadvertently affect the outcome. \n\nIf the technician started with vastly different amounts of bacteria on each plate (Option 'd'), they would not know if a high final CFU count was due to short UV exposure or just starting with more bacteria. Therefore, the initial plating density *must* be constant. \n> UV-C time is the *independent* variable. \n> CFU count is the *dependent* variable.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Biotechnology",
+    "topic": "Positive and negative controls",
+    "question_text": "A scientist is setting up a Polymerase Chain Reaction (PCR) to detect the presence of a specific viral pathogen in clinical blood samples. They prepare a \"No Template Control\" (NTC) tube by mixing the master mix, primers, and DNA polymerase, but add sterile, nuclease-free water instead of patient DNA. What is the primary purpose of this specific negative control?",
+    "options": {
+      "a": "To prove that the thermal cycler is capable of reaching the required denaturation temperature.",
+      "b": "To detect if any of the PCR reagents or the laboratory environment have been contaminated with stray target DNA.",
+      "c": "To ensure that the specific primers effectively bind to the target viral DNA sequence.",
+      "d": "To provide a standard reference band size for the agarose gel electrophoresis."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **No Template Control (NTC)** is a critical negative control in PCR. \n\nBecause PCR exponentially amplifies DNA, even a microscopic speck of DNA contamination in the water, pipette tips, or master mix can cause a false positive. If a band appears in the NTC (where no DNA was added), the scientist immediately knows their reagents or workspace are contaminated. \n> Option 'c' describes the purpose of a *positive* control. \n> Option 'd' describes a *DNA ladder*.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Biotechnology",
+    "topic": "Positive and negative controls",
+    "question_text": "A technician is utilizing a rapid lateral flow assay (similar to an at-home COVID-19 or pregnancy test) to detect a protein biomarker in patient serum. After 15 minutes, the test strip is entirely blank: neither the \"Test\" (T) line nor the \"Control\" (C) line has appeared. What is the most scientifically sound interpretation of this result?",
+    "options": {
+      "a": "The patient is definitively negative for the targeted protein biomarker.",
+      "b": "The patient has an extraordinarily high concentration of the biomarker, resulting in a false-negative hook effect.",
+      "c": "The assay has failed or the reagents are compromised; the result is invalid and must be repeated.",
+      "d": "The secondary antibody successfully bound to the biomarker, but the primary antibody failed to attach."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **control line (C)** on a diagnostic test acts as an internal positive control; it contains antibodies designed to bind directly to the mobile testing particles regardless of whether the target antigen is present or not. \n\nIf the control line fails to appear, it indicates that the fundamental chemistry of the test has failed (e.g., fluid didn't wick properly, reagents degraded, or expired test). Because the positive control failed, the entire test is **invalid**, and no medical conclusions (like Options 'a' or 'b') can be drawn.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Biotechnology",
+    "topic": "Positive and negative controls",
+    "question_text": "During an antimicrobial susceptibility test (Kirby-Bauer disc diffusion assay), a researcher plates a highly pathogenic strain of *Staphylococcus aureus* on a large agar plate and drops four different experimental antibiotic discs onto the surface. Which of the following serves as the best **positive growth control** for this specific experiment to ensure the experimental design is valid?",
+    "options": {
+      "a": "An uninoculated agar plate incubated under the exact same temperature conditions.",
+      "b": "A paper disc soaked in sterile water placed directly on the inoculated agar plate.",
+      "c": "A section of the inoculated agar plate that contains no paper discs, observed for robust bacterial lawn formation.",
+      "d": "A separate agar plate inoculated with a completely harmless strain of *E. coli*."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "To validate an antibiotic test, the researcher must prove two things: that the antibiotic stopped the bacteria, and that the bacteria *would have grown* otherwise. \n\nA **positive growth control** proves that the bacteria were viable, the incubation temperature was correct, and the media supported their growth. Leaving a section of the plate completely free of antibiotic discs (Option 'c') should result in a solid bacterial lawn, confirming that any zones of inhibition around the discs were genuinely caused by the antibiotic, not because the bacteria were dead from the start.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Biotechnology",
+    "topic": "Replication strategies",
+    "question_text": "When designing a statistically rigorous experiment, researchers must distinguish between biological and technical replicates. Which of the following scenarios specifically describes the use of **biological replicates**?",
+    "options": {
+      "a": "A technician extracts RNA from a single cancerous mouse tumor and runs the RNA extract through three separate qPCR reactions.",
+      "b": "A scientist measures the absorbance of a single enzyme sample three times in a row using the exact same spectrophotometer cuvette.",
+      "c": "A researcher treats three separate groups of uniquely genetically diverse mice with the same experimental drug and measures their individual responses.",
+      "d": "A laboratory worker prepares a bulk Master Mix and pipettes it evenly into a 96-well plate to test pipetting accuracy."
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "**Biological replicates** involve performing the same test on entirely separate biological entities (like different mice, different plants, or independent cell cultures) to account for natural biological variation. Option 'c' fits this perfectly. \n\n**Technical replicates**, on the other hand, involve testing the exact same biological sample multiple times (like Options 'a', 'b', and 'd') to measure the precision and reproducibility of the laboratory equipment and human pipetting technique. Technical replicates cannot account for biological variation.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Biotechnology",
+    "topic": "Replication strategies",
+    "question_text": "A student aims to evaluate the protein content in locally grown soybeans. They mash a single soybean, extract the protein into a $10 \\text{ mL}$ solution, and then prepare 5 identical Bradford assay tubes from that single $10 \\text{ mL}$ source tube. What type of replication strategy does this represent, and what specific source of error does it measure?",
+    "options": {
+      "a": "Biological replicates; measures the natural genetic variation between different soybeans.",
+      "b": "Technical replicates; measures the variability and precision of the assay protocol and equipment.",
+      "c": "Positive controls; ensures that the Bradford reagent is successfully binding to proteins.",
+      "d": "Longitudinal replicates; measures the degradation of the protein over a specified time course."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Because all 5 tests came from the exact same starting source (one single mashed soybean), these are **technical replicates**. \n\nTechnical replicates cannot tell you anything about soybeans as a population (which rules out Option 'a'). Instead, they evaluate the repeatability of the measurement itself—testing whether the student pipetted accurately, whether the spectrophotometer gave consistent readings, and whether the Bradford reagent reacted consistently.",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Biotechnology",
+    "topic": "Replication strategies",
+    "question_text": "In biomanufacturing, it is universally recommended that experiments utilize a sample size ($N$) of at least $3$ independent replicates ($N \\ge 3$). From a data analysis perspective, what is the primary mathematical reason a minimum of three biological replicates is required?",
+    "options": {
+      "a": "Three replicates are strictly required by the FDA to file an investigational new drug (IND) application.",
+      "b": "Three replicates mathematically eliminate 100% of human error during sample preparation.",
+      "c": "$N=3$ is the absolute minimum number required to calculate a standard deviation and perform reliable statistical significance testing (like a t-test).",
+      "d": "It provides enough pooled volume to ensure the final sample can be detected by standard analytical balances."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "While an $N=1$ gives you a single data point, and an $N=2$ allows you to calculate a simple average (mean) or range, you cannot reliably calculate variance or a **standard deviation** with fewer than three distinct points. \n\nWithout standard deviation, you cannot perform statistical tests (like t-tests or ANOVA) to determine if a result is statistically significant, or if the variance simply represents random noise. Therefore, $N=3$ is the minimum baseline for basic statistical rigor in biological science.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Biotechnology",
+    "topic": "Molarity calculations",
+    "question_text": "A technician needs to prepare $2.0 \\text{ Liters}$ of a $0.5 \\text{ M}$ (Molar) sodium chloride (NaCl) solution. The molar mass of NaCl is $58.5 \\text{ g/mol}$. Using the molarity equation, how many grams of solid NaCl must be weighed out to create this solution?",
+    "options": {
+      "a": "$29.25 \\text{ g}$",
+      "b": "$58.5 \\text{ g}$",
+      "c": "$117.0 \\text{ g}$",
+      "d": "$234.0 \\text{ g}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The formula to calculate the required mass for a specific molarity is:\n\n$$\\text{Mass (g)} = \\text{Molarity (mol/L)} \\times \\text{Volume (L)} \\times \\text{Molar Mass (g/mol)}$$\n\n1. Identify the given values:\n   - $\\text{Molarity} = 0.5 \\text{ mol/L}$\n   - $\\text{Volume} = 2.0 \\text{ L}$\n   - $\\text{Molar Mass} = 58.5 \\text{ g/mol}$\n2. Multiply the values together:\n   $$\\text{Mass} = 0.5 \\times 2.0 \\times 58.5$$\n   $$\\text{Mass} = 1.0 \\times 58.5 = 58.5 \\text{ g}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Biotechnology",
+    "topic": "Molarity calculations",
+    "question_text": "A researcher dissolves $40.0 \\text{ g}$ of sodium hydroxide (NaOH) powder into enough water to make exactly $500 \\text{ mL}$ of total solution. The molar mass of NaOH is $40.0 \\text{ g/mol}$. What is the final molarity ($M$) of this solution?",
+    "options": {
+      "a": "$0.5 \\text{ M}$",
+      "b": "$1.0 \\text{ M}$",
+      "c": "$2.0 \\text{ M}$",
+      "d": "$4.0 \\text{ M}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Molarity is defined as moles of solute per liter of solution ($\\text{mol/L}$).\n\n**Step 1: Convert grams to moles.**\n$$\\text{Moles} = \\frac{\\text{Mass}}{\\text{Molar Mass}}$$\n$$\\text{Moles} = \\frac{40.0 \\text{ g}}{40.0 \\text{ g/mol}} = 1.0 \\text{ mole}$$\n\n**Step 2: Convert volume to Liters.**\n$$500 \\text{ mL} = 0.5 \\text{ L}$$\n\n**Step 3: Calculate Molarity.**\n$$\\text{Molarity} = \\frac{\\text{Moles}}{\\text{Liters}}$$\n$$\\text{Molarity} = \\frac{1.0 \\text{ mol}}{0.5 \\text{ L}} = 2.0 \\text{ M}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Biotechnology",
+    "topic": "Molarity calculations",
+    "question_text": "A student dissolves $90.0 \\text{ g}$ of glucose ($C_6H_{12}O_6$) into distilled water, bringing the final volume to $1.0 \\text{ L}$. If the molar mass of glucose is $180.0 \\text{ g/mol}$, what is the final molarity of the solution?",
+    "options": {
+      "a": "$0.25 \\text{ M}$",
+      "b": "$0.50 \\text{ M}$",
+      "c": "$1.00 \\text{ M}$",
+      "d": "$2.00 \\text{ M}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "To find molarity, first convert the mass of the solute into moles, then divide by the total volume in liters.\n\n**Step 1: Calculate moles of glucose**\n$$ \\text{Moles} = \\frac{\\text{Mass}}{\\text{Molar Mass}} = \\frac{90.0 \\text{ g}}{180.0 \\text{ g/mol}} = 0.50 \\text{ moles} $$\n\n**Step 2: Calculate Molarity**\n$$ \\text{Molarity} = \\frac{\\text{Moles}}{\\text{Volume (L)}} = \\frac{0.50 \\text{ moles}}{1.0 \\text{ L}} = 0.50 \\text{ M} $$",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Biotechnology",
+    "topic": "Molarity calculations",
+    "question_text": "How many grams of Tris base (molar mass = $121.1 \\text{ g/mol}$) must a technician weigh out to prepare exactly $500 \\text{ mL}$ of a $0.2 \\text{ M}$ Tris buffer solution?",
+    "options": {
+      "a": "$6.05 \\text{ g}$",
+      "b": "$12.11 \\text{ g}$",
+      "c": "$24.22 \\text{ g}$",
+      "d": "$121.10 \\text{ g}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Use the molarity formula solved for mass:\n$$ \\text{Mass (g)} = \\text{Molarity (mol/L)} \\times \\text{Volume (L)} \\times \\text{Molar Mass (g/mol)} $$\n\n1. Identify the given values:\n   - $\\text{Molarity} = 0.2 \\text{ mol/L}$\n   - $\\text{Volume} = 500 \\text{ mL} = 0.5 \\text{ L}$\n   - $\\text{Molar Mass} = 121.1 \\text{ g/mol}$\n2. Multiply the values together:\n   $$ \\text{Mass} = 0.2 \\times 0.5 \\times 121.1 $$\n   $$ \\text{Mass} = 0.1 \\times 121.1 = 12.11 \\text{ g} $$",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Biotechnology",
+    "topic": "Molarity calculations",
+    "question_text": "A biomanufacturing protocol requires exactly $3.0 \\text{ moles}$ of magnesium chloride ($MgCl_2$). You have a large carboy containing a $1.5 \\text{ M}$ stock solution of $MgCl_2$. What volume of this stock solution must you dispense to obtain the required number of moles?",
+    "options": {
+      "a": "$0.5 \\text{ L}$",
+      "b": "$1.5 \\text{ L}$",
+      "c": "$2.0 \\text{ L}$",
+      "d": "$4.5 \\text{ L}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Molarity is defined as moles divided by volume ($M = \\frac{n}{V}$). To find the required volume, rearrange the formula to solve for volume ($V = \\frac{n}{M}$).\n\n$$ \\text{Volume (L)} = \\frac{3.0 \\text{ moles}}{1.5 \\text{ moles/L}} = 2.0 \\text{ L} $$\n\nDispensing $2.0 \\text{ Liters}$ of the $1.5 \\text{ M}$ solution will provide exactly $3.0 \\text{ moles}$ of the solute.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Biotechnology",
+    "topic": "Molarity calculations",
+    "question_text": "A technician weighs out $14.9 \\text{ g}$ of potassium chloride (KCl, molar mass = $74.5 \\text{ g/mol}$) and brings it to a final volume of $250 \\text{ mL}$ with deionized water. What is the resulting molarity of this solution?",
+    "options": {
+      "a": "$0.2 \\text{ M}$",
+      "b": "$0.4 \\text{ M}$",
+      "c": "$0.8 \\text{ M}$",
+      "d": "$1.2 \\text{ M}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "This requires converting mass to moles and milliliters to liters before dividing.\n\n**Step 1: Calculate moles**\n$$ \\frac{14.9 \\text{ g}}{74.5 \\text{ g/mol}} = 0.2 \\text{ moles} $$\n*(Tip: $7.45 \\times 2 = 14.9$, so $14.9 \\div 74.5 = 0.2$)*\n\n**Step 2: Convert volume to liters**\n$$ 250 \\text{ mL} = 0.25 \\text{ L} $$\n\n**Step 3: Calculate Molarity**\n$$ \\text{Molarity} = \\frac{0.2 \\text{ moles}}{0.25 \\text{ L}} = 0.8 \\text{ M} $$",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Biotechnology",
+    "topic": "Molarity calculations",
+    "question_text": "An upstream processing experiment calls for a final bioreactor concentration of $100 \\text{ mM}$ (millimolar) calcium chloride ($CaCl_2$) in a $2.0 \\text{ L}$ working volume. The molar mass of $CaCl_2$ is $111.0 \\text{ g/mol}$. How many grams of $CaCl_2$ powder must be added?",
+    "options": {
+      "a": "$11.1 \\text{ g}$",
+      "b": "$22.2 \\text{ g}$",
+      "c": "$111.0 \\text{ g}$",
+      "d": "$222.0 \\text{ g}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "First, convert the millimolar (mM) concentration to molar (M).\n$$ 100 \\text{ mM} = 0.1 \\text{ M (mol/L)} $$\n\nNext, calculate the total moles required for the $2.0 \\text{ L}$ volume:\n$$ 0.1 \\text{ mol/L} \\times 2.0 \\text{ L} = 0.2 \\text{ moles} $$\n\nFinally, multiply the moles by the molar mass to find the grams:\n$$ 0.2 \\text{ moles} \\times 111.0 \\text{ g/mol} = 22.2 \\text{ g} $$",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Biotechnology",
+    "topic": "% concentration: w/v and v/v",
+    "question_text": "To cast a gel for DNA electrophoresis, a technician needs to prepare $40 \\text{ mL}$ of a $1.5\\% \\text{ (w/v)}$ agarose solution. How many grams of agarose powder should be weighed out?",
+    "options": {
+      "a": "$0.15 \\text{ g}$",
+      "b": "$0.60 \\text{ g}$",
+      "c": "$1.50 \\text{ g}$",
+      "d": "$6.00 \\text{ g}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A weight-to-volume percentage (w/v) represents the number of grams of solute per $100 \\text{ mL}$ of solution.\n\nA $1.5\\% \\text{ (w/v)}$ solution contains $1.5 \\text{ g}$ per $100 \\text{ mL}$. To find the amount for $40 \\text{ mL}$, set up a proportion:\n$$ \\frac{1.5 \\text{ g}}{100 \\text{ mL}} = \\frac{x \\text{ g}}{40 \\text{ mL}} $$\n$$ 100x = 60 $$\n$$ x = 0.6 \\text{ g} $$",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Biotechnology",
+    "topic": "% concentration: w/v and v/v",
+    "question_text": "A standard operating procedure (SOP) requires $500 \\text{ mL}$ of a $70\\% \\text{ (v/v)}$ ethanol solution to sanitize biological safety cabinets. Assuming you are starting with $100\\% \\text{ absolute ethanol}$, which of the following describes the correct preparation method?",
+    "options": {
+      "a": "Measure $350 \\text{ mL}$ of ethanol and add it to exactly $500 \\text{ mL}$ of water.",
+      "b": "Measure $350 \\text{ mL}$ of ethanol and bring the total volume up to $500 \\text{ mL}$ with water.",
+      "c": "Measure $70 \\text{ mL}$ of ethanol and bring the total volume up to $500 \\text{ mL}$ with water.",
+      "d": "Measure $35 \\text{ mL}$ of ethanol and add it to $465 \\text{ mL}$ of water."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A volume-to-volume percentage (v/v) indicates the volume of solute per $100 \\text{ mL}$ of the **total** solution. \n\nFor a $70\\% \\text{ (v/v)}$ solution, you need $70 \\text{ mL}$ of ethanol for every $100 \\text{ mL}$ of final volume. \n$$ \\frac{70 \\text{ mL}}{100 \\text{ mL}} \\times 500 \\text{ mL} = 350 \\text{ mL of ethanol} $$\n\nTo ensure the final concentration is perfectly accurate, you measure $350 \\text{ mL}$ of ethanol and \"bring to volume\" (q.s.) with water until the **total volume** reaches $500 \\text{ mL}$. Adding exactly $500 \\text{ mL}$ of water (Option 'a') would result in an incorrect total volume of roughly $850 \\text{ mL}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Biotechnology",
+    "topic": "% concentration: w/v and v/v",
+    "question_text": "A technician dissolves $5.0 \\text{ g}$ of sodium dodecyl sulfate (SDS) powder into distilled water, adjusting the final total volume to $200 \\text{ mL}$. What is the final weight-to-volume percentage ($\\text{w/v}\\%$) of this SDS solution?",
+    "options": {
+      "a": "$1.0\\%$",
+      "b": "$2.5\\%$",
+      "c": "$5.0\\%$",
+      "d": "$10.0\\%$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The formula for weight-to-volume percentage (w/v) is:\n$$ \\% \\text{ (w/v)} = \\left( \\frac{\\text{Mass of Solute (g)}}{\\text{Total Volume of Solution (mL)}} \\right) \\times 100 $$\n\nPlugging in the values:\n$$ \\% \\text{ (w/v)} = \\left( \\frac{5.0 \\text{ g}}{200 \\text{ mL}} \\right) \\times 100 $$\n$$ \\% \\text{ (w/v)} = 0.025 \\times 100 = 2.5\\% $$",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "Biotechnology",
+    "topic": "% concentration: w/v and v/v",
+    "question_text": "To create a membrane-washing buffer for a Western blot, a student needs to make $2.0 \\text{ Liters}$ of a $0.1\\% \\text{ (v/v)}$ Tween-20 solution. How many milliliters ($\\text{mL}$) of pure liquid Tween-20 detergent should be added to the mixture?",
+    "options": {
+      "a": "$0.2 \\text{ mL}$",
+      "b": "$2.0 \\text{ mL}$",
+      "c": "$20.0 \\text{ mL}$",
+      "d": "$200.0 \\text{ mL}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A $0.1\\% \\text{ (v/v)}$ solution contains $0.1 \\text{ mL}$ of solute per $100 \\text{ mL}$ of solution. \n\nFirst, convert the total target volume from liters to milliliters:\n$$ 2.0 \\text{ Liters} = 2000 \\text{ mL} $$\n\nNext, set up the proportion:\n$$ \\frac{0.1 \\text{ mL}}{100 \\text{ mL}} = \\frac{x \\text{ mL}}{2000 \\text{ mL}} $$\n$$ x = 0.001 \\times 2000 $$\n$$ x = 2.0 \\text{ mL} $$\n\nThe student must pipet $2.0 \\text{ mL}$ of pure Tween-20 into the total $2.0 \\text{ L}$ solution.",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "Biotechnology",
+    "topic": "% concentration: w/v and v/v",
+    "question_text": "A standard ELISA protocol requires the preparation of $100 \\text{ mL}$ of a $5\\% \\text{ (w/v)}$ Bovine Serum Albumin (BSA) blocking buffer. If the laboratory's precision analytical balance is currently calibrated to display mass in milligrams ($\\text{mg}$), what value must the balance read when weighing out the required BSA powder?",
+    "options": {
+      "a": "$50 \\text{ mg}$",
+      "b": "$500 \\text{ mg}$",
+      "c": "$5000 \\text{ mg}$",
+      "d": "$50000 \\text{ mg}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "A $5\\% \\text{ (w/v)}$ solution inherently means $5 \\text{ grams}$ of solute per $100 \\text{ mL}$ of solution.\n\nSince the protocol directly asks for a total volume of $100 \\text{ mL}$, exactly $5 \\text{ grams}$ of BSA powder is required. \n\nNext, perform a metric unit conversion from grams to milligrams:\n$$ 1 \\text{ gram} = 1000 \\text{ milligrams} $$\n$$ 5 \\text{ grams} = 5 \\times 1000 = 5000 \\text{ mg} $$",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "Biotechnology",
+    "topic": "% concentration: w/v and v/v",
+    "question_text": "A standard laboratory stock of sodium chloride (NaCl) is kept at a $10\\% \\text{ (w/v)}$ concentration. If an assay protocol calls for the addition of exactly $2.5 \\text{ g}$ of NaCl, how many milliliters ($\\text{mL}$) of this stock solution must the technician dispense?",
+    "options": {
+      "a": "$0.25 \\text{ mL}$",
+      "b": "$2.5 \\text{ mL}$",
+      "c": "$25.0 \\text{ mL}$",
+      "d": "$250.0 \\text{ mL}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A $10\\% \\text{ (w/v)}$ solution means there are $10 \\text{ grams}$ of solute in every $100 \\text{ mL}$ of solution. \n\nWe can set up a simple proportion to solve for the unknown volume ($V$):\n$$ \\frac{10 \\text{ g}}{100 \\text{ mL}} = \\frac{2.5 \\text{ g}}{V \\text{ mL}} $$\nCross-multiply and solve for $V$:\n$$ 10 \\times V = 250 $$\n$$ V = 25.0 \\text{ mL} $$\nDispensing $25.0 \\text{ mL}$ of the stock will provide exactly $2.5 \\text{ g}$ of NaCl.",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "Biotechnology",
+    "topic": "% concentration: w/v and v/v",
+    "question_text": "A technician needs to prepare $250 \\text{ mL}$ of a $10\\% \\text{ (v/v)}$ bleach solution to decontaminate a biological safety cabinet. The laboratory provides a bottle of standard $100\\% $ concentrated laboratory bleach. Which of the following procedures correctly prepares this solution?",
+    "options": {
+      "a": "Mix $10 \\text{ mL}$ of concentrated bleach with $240 \\text{ mL}$ of deionized water.",
+      "b": "Mix $25 \\text{ mL}$ of concentrated bleach with $250 \\text{ mL}$ of deionized water.",
+      "c": "Mix $25 \\text{ mL}$ of concentrated bleach with $225 \\text{ mL}$ of deionized water.",
+      "d": "Mix $250 \\text{ mL}$ of concentrated bleach with $10 \\text{ mL}$ of deionized water."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A $10\\% \\text{ (v/v)}$ solution requires $10\\% $ of the total final volume to be the solute (bleach).\n\nFirst, find the required volume of bleach:\n$$ 0.10 \\times 250 \\text{ mL} = 25 \\text{ mL of bleach} $$\n\nThe remainder of the volume must be the solvent (water) to reach the $250 \\text{ mL}$ final mark:\n$$ 250 \\text{ mL total} - 25 \\text{ mL bleach} = 225 \\text{ mL water} $$\n\nTherefore, the correct mixture is $25 \\text{ mL}$ bleach + $225 \\text{ mL}$ water (Option 'c').",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "Biotechnology",
+    "topic": "Mass concentration and unit conversions",
+    "question_text": "Following a plasmid DNA miniprep, a researcher uses a NanoDrop spectrophotometer to measure the DNA concentration. The software reports a concentration of $250 \\text{ ng/}\\mu\\text{L}$. What is this exact concentration expressed in micrograms per milliliter ($\\mu\\text{g/mL}$)?",
+    "options": {
+      "a": "$2.5 \\ \\mu\\text{g/mL}$",
+      "b": "$25.0 \\ \\mu\\text{g/mL}$",
+      "c": "$250.0 \\ \\mu\\text{g/mL}$",
+      "d": "$2500.0 \\ \\mu\\text{g/mL}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Concentrations expressed in $\\text{ng/}\\mu\\text{L}$ are numerically identical (a 1:1 ratio) to $\\mu\\text{g/mL}$ because both the numerator and denominator are multiplied by 1,000.\n\nLet's prove it with dimensional analysis:\n$$ \\frac{250 \\text{ ng}}{1 \\ \\mu\\text{L}} \\times \\frac{1 \\ \\mu\\text{g}}{1000 \\text{ ng}} \\times \\frac{1000 \\ \\mu\\text{L}}{1 \\text{ mL}} = 250 \\ \\mu\\text{g/mL} $$\nThus, $250 \\text{ ng/}\\mu\\text{L}$ is equivalent to $250 \\ \\mu\\text{g/mL}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "Biotechnology",
+    "topic": "Mass concentration and unit conversions",
+    "question_text": "You are supplied with a $1.5 \\text{ mL}$ microcentrifuge tube containing $800 \\ \\mu\\text{L}$ of an antibody solution. The label indicates a concentration of $2.5 \\text{ mg/mL}$. What is the absolute total mass of antibody contained within the tube?",
+    "options": {
+      "a": "$0.2 \\text{ mg}$",
+      "b": "$2.0 \\text{ mg}$",
+      "c": "$20.0 \\text{ mg}$",
+      "d": "$2000.0 \\text{ mg}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "To find the total mass, you must multiply the concentration by the volume, ensuring the volume units match.\n\n**Step 1:** Convert the volume from microliters ($\\mu\\text{L}$) to milliliters ($\\text{mL}$).\n$$ 800 \\ \\mu\\text{L} = 0.8 \\text{ mL} $$\n\n**Step 2:** Multiply volume by concentration.\n$$ \\text{Total Mass} = 0.8 \\text{ mL} \\times 2.5 \\text{ mg/mL} = 2.0 \\text{ mg} $$",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "Biotechnology",
+    "topic": "Mass concentration and unit conversions",
+    "question_text": "An animal study protocol calls for injecting a mouse with a $50 \\ \\mu\\text{g}$ dose of a recombinant therapeutic cytokine. The stock vial of the cytokine has a certified concentration of $0.1 \\text{ mg/mL}$. How many microliters ($\\mu\\text{L}$) should the technician draw into the syringe to deliver the exact required dose?",
+    "options": {
+      "a": "$5.0 \\ \\mu\\text{L}$",
+      "b": "$50.0 \\ \\mu\\text{L}$",
+      "c": "$500.0 \\ \\mu\\text{L}$",
+      "d": "$5000.0 \\ \\mu\\text{L}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "This requires converting between milligrams (mg) and micrograms ($\\mu\\text{g}$), as well as milliliters (mL) and microliters ($\\mu\\text{L}$).\n\n**Step 1:** Convert the stock concentration to match the desired mass unit ($\\mu\\text{g}$).\n$$ 0.1 \\text{ mg/mL} = 100 \\ \\mu\\text{g/mL} $$\n\n**Step 2:** Calculate the required volume in mL.\n$$ \\frac{50 \\ \\mu\\text{g}}{100 \\ \\mu\\text{g/mL}} = 0.5 \\text{ mL} $$\n\n**Step 3:** Convert the final volume from mL to $\\mu\\text{L}$.\n$$ 0.5 \\text{ mL} \\times 1000 = 500 \\ \\mu\\text{L} $$",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "Biotechnology",
+    "topic": "Mass concentration and unit conversions",
+    "question_text": "A High-Performance Liquid Chromatography (HPLC) system is programmed with a mobile phase flow rate of $0.12 \\text{ Liters per minute (L/min)}$. To troubleshoot a column pressure issue, the technician must convert this metric. What is this flow rate expressed in microliters per second ($\\mu\\text{L/sec}$)?",
+    "options": {
+      "a": "$200 \\ \\mu\\text{L/sec}$",
+      "b": "$2000 \\ \\mu\\text{L/sec}$",
+      "c": "$12000 \\ \\mu\\text{L/sec}$",
+      "d": "$72000 \\ \\mu\\text{L/sec}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "This is a two-step dimensional analysis problem covering both volume and time conversions.\n\n**Step 1:** Convert Liters to microliters ($\\mu\\text{L}$).\n$$ 0.12 \\text{ L/min} \\times 1,000,000 \\ \\mu\\text{L/L} = 120,000 \\ \\mu\\text{L/min} $$\n\n**Step 2:** Convert minutes to seconds.\n$$ \\frac{120,000 \\ \\mu\\text{L}}{60 \\text{ seconds}} = 2000 \\ \\mu\\text{L/sec} $$",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "Biotechnology",
+    "topic": "Mass concentration and unit conversions",
+    "question_text": "In environmental biotechnology, trace toxic contaminants are often reported in parts per million (ppm). If an analytical report states that a wastewater sample contains $5.0 \\text{ ppm}$ of dissolved lead, what is the equivalent concentration in standard laboratory mass/volume units?",
+    "options": {
+      "a": "$5.0 \\ \\mu\\text{g/L}$",
+      "b": "$5.0 \\text{ mg/L}$",
+      "c": "$5.0 \\text{ g/L}$",
+      "d": "$50.0 \\text{ mg/mL}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "In aqueous solutions, $1 \\text{ Liter}$ of water weighs approximately $1 \\text{ kilogram} (1,000,000 \\text{ milligrams})$. \n\nTherefore, $1 \\text{ milligram}$ dissolved in $1 \\text{ Liter}$ is literally $1$ part per $1,000,000$ parts. \n\nThis means that **parts per million (ppm)** is directly equivalent to **milligrams per liter (mg/L)**. So, $5.0 \\text{ ppm}$ is identically equal to $5.0 \\text{ mg/L}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "Biotechnology",
+    "topic": "Mass concentration and unit conversions",
+    "question_text": "A quantitative PCR (qPCR) assay protocol requires the addition of exactly $15 \\text{ picograms (pg)}$ of template DNA per reaction well. To properly perform the serial dilution from the nanogram-scale stock solution, the technician must recall the metric scale. How many picograms (pg) are in $1 \\text{ nanogram (ng)}$?",
+    "options": {
+      "a": "$10 \\text{ pg}$",
+      "b": "$100 \\text{ pg}$",
+      "c": "$1,000 \\text{ pg}$",
+      "d": "$1,000,000 \\text{ pg}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The SI prefixes scale by factors of 1,000 in standard laboratory usage. \n\n- Milli ($10^{-3}$)\n- Micro ($10^{-6}$)\n- Nano ($10^{-9}$)\n- Pico ($10^{-12}$)\n\nBecause Pico is one step ($1,000\\times$) smaller than Nano, there are exactly **1,000 picograms in 1 nanogram**.",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "Biotechnology",
+    "topic": "Mass concentration and unit conversions",
+    "question_text": "A technician is performing an organic extraction using chloroform, which has a known density of $1.49 \\text{ g/mL}$ at room temperature. If they measure out exactly $10.0 \\text{ mL}$ of chloroform using a serological pipette, what is the absolute mass of the solvent transferred?",
+    "options": {
+      "a": "$1.49 \\text{ g}$",
+      "b": "$6.71 \\text{ g}$",
+      "c": "$14.90 \\text{ g}$",
+      "d": "$149.0 \\text{ g}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Density relates the mass of a substance to its volume via the formula: \n$$ \\text{Mass} = \\text{Density} \\times \\text{Volume} $$\n\nPlugging in the known values:\n$$ \\text{Mass} = 1.49 \\text{ g/mL} \\times 10.0 \\text{ mL} $$\n$$ \\text{Mass} = 14.90 \\text{ g} $$",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "Biotechnology",
+    "topic": "Dilution equations (C1V1 = C2V2)",
+    "question_text": "A technician needs to prepare $500 \\text{ mL}$ of a $1\\times$ working concentration of TAE buffer for an agarose gel electrophoresis run. They are provided with a commercial carboy containing a $50\\times$ TAE concentrated stock solution. Using the dilution equation ($C_1V_1 = C_2V_2$), how much of the $50\\times$ stock solution must be used?",
+    "options": {
+      "a": "$1.0 \\text{ mL}$",
+      "b": "$10.0 \\text{ mL}$",
+      "c": "$50.0 \\text{ mL}$",
+      "d": "$100.0 \\text{ mL}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The dilution equation is $C_1V_1 = C_2V_2$, where:\n- $C_1 = 50\\times$ (stock concentration)\n- $V_1 =$ unknown volume of stock\n- $C_2 = 1\\times$ (final desired concentration)\n- $V_2 = 500 \\text{ mL}$ (final desired volume)\n\nSet up the equation:\n$$ 50 \\times V_1 = 1 \\times 500 $$\n$$ V_1 = \\frac{500}{50} $$\n$$ V_1 = 10.0 \\text{ mL} $$\n\nThe technician will mix $10.0 \\text{ mL}$ of the $50\\times$ stock with $490 \\text{ mL}$ of water to reach the final $500 \\text{ mL}$ volume.",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "Biotechnology",
+    "topic": "Dilution equations (C1V1 = C2V2)",
+    "question_text": "A technician starts with $25 \\text{ mL}$ of a $10 \\text{ M}$ sodium hydroxide (NaOH) stock solution. If they dilute this solution until the final concentration reaches $2 \\text{ M}$, what will be the final total volume ($V_2$) of the solution?",
+    "options": {
+      "a": "$50 \\text{ mL}$",
+      "b": "$100 \\text{ mL}$",
+      "c": "$125 \\text{ mL}$",
+      "d": "$250 \\text{ mL}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Using the dilution equation $C_1V_1 = C_2V_2$:\n- $C_1 = 10 \\text{ M}$\n- $V_1 = 25 \\text{ mL}$\n- $C_2 = 2 \\text{ M}$\n- $V_2 = ?$ (Unknown)\n\nSet up the equation:\n$$ 10 \\times 25 = 2 \\times V_2 $$\n$$ 250 = 2 \\times V_2 $$\n$$ V_2 = \\frac{250}{2} = 125 \\text{ mL} $$",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "Biotechnology",
+    "topic": "Dilution equations (C1V1 = C2V2)",
+    "question_text": "A biomanufacturing protocol requires $300 \\text{ mL}$ of a $5 \\text{ mg/mL}$ protein solution. You currently have a purified stock at a concentration of $15 \\text{ mg/mL}$. To prepare this mixture correctly, how much **diluent (buffer)** must you add to the required volume of the stock solution?",
+    "options": {
+      "a": "$100 \\text{ mL}$",
+      "b": "$150 \\text{ mL}$",
+      "c": "$200 \\text{ mL}$",
+      "d": "$300 \\text{ mL}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "First, use $C_1V_1 = C_2V_2$ to find the volume of the stock ($V_1$) needed:\n$$ 15 \\times V_1 = 5 \\times 300 $$\n$$ 15 \\times V_1 = 1500 $$\n$$ V_1 = 100 \\text{ mL} $$\n\nYou need $100 \\text{ mL}$ of the stock solution. However, the question specifically asks for the volume of the **diluent** to be added. \n\nThe diluent volume is the total final volume minus the stock volume:\n$$ \\text{Diluent} = V_2 - V_1 $$\n$$ \\text{Diluent} = 300 \\text{ mL} - 100 \\text{ mL} = 200 \\text{ mL} $$",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "Biotechnology",
+    "topic": "Dilution equations (C1V1 = C2V2)",
+    "question_text": "A microbiologist performs a standard serial dilution. They transfer $1.0 \\text{ mL}$ of an original cell culture ($50,000 \\text{ cells/mL}$) into a tube containing $9.0 \\text{ mL}$ of sterile broth, mix it, and then repeat this exact transfer step two more times (for a total of 3 dilution steps). What is the final cellular concentration in the third tube?",
+    "options": {
+      "a": "$50 \\text{ cells/mL}$",
+      "b": "$500 \\text{ cells/mL}$",
+      "c": "$5,000 \\text{ cells/mL}$",
+      "d": "$5 \\text{ cells/mL}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "Each transfer of $1.0 \\text{ mL}$ into $9.0 \\text{ mL}$ of broth creates a $10 \\text{ mL}$ total volume, resulting in a **$1:10$ dilution** ($10^{-1}$).\n\nIf this is performed 3 times successively, the total dilution factor is $10 \\times 10 \\times 10 = 1,000$ ($10^{-3}$).\n\nTo find the final concentration, divide the original concentration by the total dilution factor:\n$$ \\frac{50,000 \\text{ cells/mL}}{1,000} = 50 \\text{ cells/mL} $$",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "Biotechnology",
+    "topic": "Dilution equations (C1V1 = C2V2)",
+    "question_text": "A facility needs $4.0 \\text{ Liters}$ of a $10\\% \\text{ (v/v)}$ bleach solution to sanitize the floors. The stockroom only contains industrial bleach concentrated at $50\\% \\text{ (v/v)}$. Using the $C_1V_1 = C_2V_2$ formula, how many milliliters of the $50\\%$ stock bleach are required?",
+    "options": {
+      "a": "$400 \\text{ mL}$",
+      "b": "$800 \\text{ mL}$",
+      "c": "$2,000 \\text{ mL}$",
+      "d": "$4,000 \\text{ mL}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "First, ensure volume units are consistent. Convert the desired final volume to milliliters: $V_2 = 4.0 \\text{ L} = 4,000 \\text{ mL}$.\n\nApply the $C_1V_1 = C_2V_2$ equation:\n- $C_1 = 50\\%$\n- $V_1 = ?$\n- $C_2 = 10\\%$\n- $V_2 = 4,000 \\text{ mL}$\n\n$$ 50 \\times V_1 = 10 \\times 4,000 $$\n$$ 50 \\times V_1 = 40,000 $$\n$$ V_1 = \\frac{40,000}{50} = 800 \\text{ mL} $$",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "Biotechnology",
+    "topic": "Dilution equations (C1V1 = C2V2)",
+    "question_text": "To measure a highly concentrated DNA extract without maxing out the spectrophotometer, a researcher pipettes $50 \\ \\mu\\text{L}$ of the original DNA into $450 \\ \\mu\\text{L}$ of elution buffer. The spectrophotometer reports the concentration of this newly diluted mixture as $25 \\text{ ng/}\\mu\\text{L}$. What was the concentration of the original, undiluted DNA sample?",
+    "options": {
+      "a": "$2.5 \\text{ ng/}\\mu\\text{L}$",
+      "b": "$125 \\text{ ng/}\\mu\\text{L}$",
+      "c": "$250 \\text{ ng/}\\mu\\text{L}$",
+      "d": "$500 \\text{ ng/}\\mu\\text{L}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "You can solve this by finding the dilution factor or using $C_1V_1 = C_2V_2$.\n\n**Method 1 (Dilution Factor):**\nThe final volume is $50 \\ \\mu\\text{L} + 450 \\ \\mu\\text{L} = 500 \\ \\mu\\text{L}$. \nThe dilution factor is $\\frac{500}{50} = 10$. \nMultiply the diluted read by the factor: $25 \\times 10 = 250 \\text{ ng/}\\mu\\text{L}$.\n\n**Method 2 ($C_1V_1$ equation):**\n$$ C_1 \\times 50 = 25 \\times 500 $$\n$$ C_1 \\times 50 = 12,500 $$\n$$ C_1 = 250 \\text{ ng/}\\mu\\text{L} $$",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "Biotechnology",
+    "topic": "Dilution equations (C1V1 = C2V2)",
+    "question_text": "A mammalian cell culture protocol specifies the addition of exactly $100 \\text{ mL}$ of a $20 \\ \\mu\\text{g/mL}$ ampicillin solution. The freezer contains a concentrated ampicillin stock at $10 \\text{ mg/mL}$. How many microliters ($\\mu\\text{L}$) of this concentrated stock should be used to achieve the correct final concentration?",
+    "options": {
+      "a": "$20 \\ \\mu\\text{L}$",
+      "b": "$200 \\ \\mu\\text{L}$",
+      "c": "$2,000 \\ \\mu\\text{L}$",
+      "d": "$0.02 \\ \\mu\\text{L}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Before using $C_1V_1 = C_2V_2$, the concentration units must be identical. Let's convert $C_2$ ($20 \\ \\mu\\text{g/mL}$) to $\\text{mg/mL}$ to match the stock.\n$$ 20 \\ \\mu\\text{g/mL} = 0.02 \\text{ mg/mL} $$\n\nNow, plug into $C_1V_1 = C_2V_2$:\n- $C_1 = 10 \\text{ mg/mL}$\n- $V_1 = ?$\n- $C_2 = 0.02 \\text{ mg/mL}$\n- $V_2 = 100 \\text{ mL}$\n\n$$ 10 \\times V_1 = 0.02 \\times 100 $$\n$$ 10 \\times V_1 = 2 $$\n$$ V_1 = 0.2 \\text{ mL} $$\n\nConvert the required volume from $\\text{mL}$ back to $\\mu\\text{L}$:\n$$ 0.2 \\text{ mL} \\times 1,000 = 200 \\ \\mu\\text{L} $$",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "Biotechnology",
+    "topic": "PCR: denaturation, annealing, extension",
+    "question_text": "A standard Polymerase Chain Reaction (PCR) consists of 30-40 repeating cycles of three distinct temperature steps. During the first step, the thermal cycler aggressively heats the sample to $94^\\circ\\text{C}-98^\\circ\\text{C}$. What is the specific molecular purpose of this high-temperature step?",
+    "options": {
+      "a": "To provide the optimal activation energy for *Taq* polymerase to synthesize new DNA strands.",
+      "b": "To allow the short oligonucleotide primers to form stable base-pairs with the target sequence.",
+      "c": "To break the hydrogen bonds between the complementary nitrogenous bases, separating the double-stranded DNA into single strands.",
+      "d": "To permanently break the phosphodiester bonds on the sugar-phosphate backbone, degrading non-target DNA."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The first step of PCR is **Denaturation**. \n\nHeating the sample to $94^\\circ\\text{C}-98^\\circ\\text{C}$ provides enough thermal energy to break the weak **hydrogen bonds** holding the two DNA strands together, yielding the single-stranded DNA required for the primers to bind in the next step. It does not break the covalent phosphodiester backbone (Option 'd'), which would destroy the DNA sequence.",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "Biotechnology",
+    "topic": "PCR: denaturation, annealing, extension",
+    "question_text": "A researcher designs a new pair of forward and reverse primers for a PCR assay. Bioinformatic software calculates the melting temperature ($T_m$) of these primers to be exactly $62^\\circ\\text{C}$. Which specific parameter in the thermal cycler protocol must the researcher dynamically program based on this calculated $T_m$ to ensure specific binding?",
+    "options": {
+      "a": "The Denaturation temperature",
+      "b": "The Annealing temperature",
+      "c": "The Extension temperature",
+      "d": "The Final Hold temperature"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **Annealing step** is when the primers bind to the single-stranded DNA template. \n\nThe optimal temperature for this step is entirely dependent on the specific sequence of the primers (particularly the G-C content). Researchers typically program the annealing temperature to be roughly $3^\\circ\\text{C}-5^\\circ\\text{C}$ below the calculated $T_m$ of the primers (e.g., $57^\\circ\\text{C}-59^\\circ\\text{C}$). Denaturation ($95^\\circ\\text{C}$) and extension ($72^\\circ\\text{C}$) temperatures are generally kept standard regardless of the primer sequence.",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "Biotechnology",
+    "topic": "PCR: denaturation, annealing, extension",
+    "question_text": "A technician is attempting to amplify a massive $2,000 \\text{ base pair (bp)}$ genomic target sequence. Knowing that standard *Taq* DNA polymerase synthesizes DNA at a rate of approximately $1,000 \\text{ bases per minute}$, what is the most scientifically appropriate duration for the **extension** step of each cycle?",
+    "options": {
+      "a": "$30 \\text{ seconds}$",
+      "b": "$1 \\text{ minute}$",
+      "c": "$2 \\text{ minutes}$",
+      "d": "$5 \\text{ minutes}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **Extension step** (usually performed at $72^\\circ\\text{C}$) provides time for *Taq* polymerase to build the new complementary strand. \n\nThe required time depends entirely on the length of the target amplicon. Since the target is $2,000 \\text{ bp}$ long, and the enzyme's processing speed is $1,000 \\text{ bp}$ per minute, the thermal cycler must be programmed to remain at the extension temperature for at least **2 minutes** per cycle. ($2000 \\div 1000 = 2$). Programming too short a time would result in truncated, incomplete DNA fragments.",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "Biotechnology",
+    "topic": "PCR: denaturation, annealing, extension",
+    "question_text": "PCR relies on exponential amplification to rapidly copy target sequences. If a technician starts a reaction with exactly $10 \\text{ copies}$ of the target double-stranded DNA molecule, and the reaction proceeds with perfect $100\\%$ amplification efficiency, how many copies of the target sequence will exist after exactly $5 \\text{ cycles}$?",
+    "options": {
+      "a": "$50 \\text{ copies}$",
+      "b": "$100 \\text{ copies}$",
+      "c": "$320 \\text{ copies}$",
+      "d": "$500 \\text{ copies}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "PCR amplification follows the exponential formula:\n$$ \\text{Final Copies} = \\text{Initial Copies} \\times 2^n $$\nwhere $n$ is the number of cycles.\n\n1. Calculate the multiplication factor for 5 cycles:\n   $$ 2^5 = 2 \\times 2 \\times 2 \\times 2 \\times 2 = 32 $$\n2. Multiply by the initial number of copies:\n   $$ 10 \\times 32 = 320 \\text{ copies} $$\nAfter 5 cycles, the 10 initial templates will have amplified into 320 copies.",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "Biotechnology",
+    "topic": "PCR: denaturation, annealing, extension",
+    "question_text": "A student prepares a PCR Master Mix but accidentally omits the magnesium chloride ($MgCl_2$). After running the thermal cycler for 35 cycles and visualizing the reaction on an agarose gel, no bands are visible. What is the molecular role of $MgCl_2$ in PCR that explains this assay failure?",
+    "options": {
+      "a": "It lowers the melting temperature of the DNA double helix to assist with the denaturation step.",
+      "b": "It serves as an essential positively charged cofactor required for the catalytic activity of *Taq* DNA polymerase.",
+      "c": "It provides the raw nucleotide building blocks (dNTPs) required for the extension phase.",
+      "d": "It physically links the oligonucleotide primers to the template strand during the annealing phase."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Magnesium ions ($Mg^{2+}$) act as a vital **cofactor** for *Taq* DNA polymerase. \n\nThe enzyme requires the positively charged magnesium ions to stabilize the highly negative phosphate groups on the dNTPs and the DNA backbone during strand synthesis. Without magnesium chloride in the buffer, *Taq* polymerase is completely enzymatically inactive, resulting in absolutely zero DNA amplification. \n> Nucleotides are supplied by dNTPs (Option 'c'). \n> Primer binding relies on hydrogen bonds and correct temperature, not a chemical linkage (Option 'd').",
+    "section_id": null
+  },
+  {
+    "question_number": 46,
+    "subject": "Biotechnology",
+    "topic": "Agarose gel electrophoresis",
+    "question_text": "Agarose gel electrophoresis is a fundamental technique used to isolate genetic material. It separates DNA molecules by forcing them through a porous matrix primarily based on which two fundamental physical characteristics of the DNA?",
+    "options": {
+      "a": "Molecular weight (size) and inherent negative electrical charge",
+      "b": "G-C base pair ratio and complex secondary folding structures",
+      "c": "Intrinsic radioactivity and hydrophobic molecular interactions",
+      "d": "Isoelectric point and localized positive electrical charges"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Agarose gel electrophoresis separates molecules based on **charge and size (molecular weight)**. \n\nThe phosphate groups embedded in the DNA backbone give the molecule a uniform **negative electrical charge**. When an electric current is applied, the DNA is universally drawn toward the positive electrode (anode). Because the agarose forms a dense web-like matrix, smaller fragments can navigate the pores easily and travel faster, while larger fragments get tangled and lag behind, separating the DNA strictly by its size.",
+    "section_id": null
+  },
+  {
+    "question_number": 47,
+    "subject": "Biotechnology",
+    "topic": "Agarose gel electrophoresis",
+    "question_text": "A researcher needs to resolve two very small, closely sized PCR products ($150 \\text{ bp}$ and $175 \\text{ bp}$) on a gel. To achieve the highest visual resolution and effectively separate these two bands, how should the researcher adjust the standard gel pouring protocol?",
+    "options": {
+      "a": "Decrease the applied running voltage to less than $10 \\text{ V}$.",
+      "b": "Use a significantly lower concentration of agarose (e.g., $0.5\\%$) so the fragments can travel completely unimpeded.",
+      "c": "Use a significantly higher concentration of agarose (e.g., $2.0\\%$) to create a tighter matrix with smaller pores.",
+      "d": "Omit the DNA loading dye entirely, as the heavy glycerol will artificially weigh down small fragments."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The concentration of agarose directly dictates the pore size of the resulting gel matrix. \n\nLower concentrations (e.g., $0.7\\%-1.0\\%$) have large pores and are ideal for large genomic fragments. Higher concentrations (e.g., $2.0\\%-3.0\\%$) create a much tighter, denser matrix (Option 'c'). This dense matrix increases the friction acting against the DNA fragments, which is essential to create enough \"drag\" to successfully tease apart very small, similarly sized fragments like a $150 \\text{ bp}$ and $175 \\text{ bp}$ band.",
+    "section_id": null
+  },
+  {
+    "question_number": 48,
+    "subject": "Biotechnology",
+    "topic": "Agarose gel electrophoresis",
+    "question_text": "Prior to pipetting DNA samples into the wells of an agarose gel, a technician mixes each sample with a small volume of a $6\\times$ Loading Dye. What is the primary dual purpose of using this standard loading dye?",
+    "options": {
+      "a": "To permanently stain the DNA backbone for UV visualization and to buffer the pH of the sample.",
+      "b": "To provide density (via glycerol) so the sample sinks into the well, and to provide visible color tracking fronts to monitor the run.",
+      "c": "To covalently attach fluorescent tags to the DNA and digest any contaminating RNA molecules.",
+      "d": "To carry the electrical current into the well and prevent the localized heating of the agarose matrix."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Loading dyes serve two mechanical purposes: \n1. **Density:** They contain heavy sugar derivatives like glycerol or Ficoll, which weigh the DNA sample down so it drops neatly into the submerged well rather than floating away into the running buffer. \n2. **Visual Tracking:** They contain colored dyes (like bromophenol blue or xylene cyanol) that run ahead of or alongside the DNA, allowing the technician to monitor the progress of the electrophoresis run with the naked eye. \n> The dye does *not* stain the DNA itself for final visualization; that is the job of intercalating dyes like Ethidium Bromide.",
+    "section_id": null
+  },
+  {
+    "question_number": 49,
+    "subject": "Biotechnology",
+    "topic": "Agarose gel electrophoresis",
+    "question_text": "To visualize the separated DNA fragments after running a gel, the agarose must contain an intercalating agent like Ethidium Bromide (EtBr), SYBR Safe, or GelRed. How does a chemical intercalating dye interact with the DNA molecule to permit visualization?",
+    "options": {
+      "a": "It covalently bonds to the exposed terminal 5' phosphate group of each strand, creating a luminescent tail.",
+      "b": "It slides physically between the stacked nitrogenous base pairs of the DNA double helix.",
+      "c": "It rapidly degrades the sugar-phosphate backbone, releasing measurable bursts of fluorescent photons in the process.",
+      "d": "It binds strictly to the short, single-stranded primer overhangs created during the PCR cycles."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The term **intercalation** refers to the physical insertion of a molecule into the spaces between other structures. \n\nDyes like Ethidium Bromide feature planar (flat) chemical ring structures that perfectly match the spacing between the \"rungs\" of the DNA ladder. They slide directly between the stacked, complementary nitrogenous bases of double-stranded DNA. Once trapped inside the hydrophobic interior of the helix, the dye's fluorescence is massively amplified when exposed to UV light, allowing scientists to see the bands.",
+    "section_id": null
+  },
+  {
+    "question_number": 50,
+    "subject": "Biotechnology",
+    "topic": "Agarose gel electrophoresis",
+    "question_text": "A student connects an electrophoresis chamber to a standard DC power supply and runs a gel for 45 minutes. Upon placing the gel on a UV transilluminator, the student discovers that all the sample wells are entirely empty and no DNA bands are visible on the gel. Upon reviewing their setup, what mechanical error most likely caused the DNA to run backward out of the wells and into the buffer?",
+    "options": {
+      "a": "The gel was accidentally cast using distilled water rather than standard TAE buffer.",
+      "b": "The agarose concentration was drastically too high, causing a physical blockade.",
+      "c": "The power supply electrodes were reversed, placing the positive red anode directly behind the wells.",
+      "d": "The student set the power supply to AC (alternating current) instead of DC (direct current)."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "DNA is negatively charged and will unequivocally travel toward the positive pole (the red anode). \n\nThe standard phrase in biotechnology is **\"Run toward red.\"** The wells must be positioned near the negative pole (the black cathode). If a student plugs the lid in backward, positioning the positive red electrode *behind* the wells, the negatively charged DNA will simply exit the back of the well and float away into the surrounding buffer chamber.",
+    "section_id": null
+  },
+  {
+    "question_number": 51,
+    "subject": "Biotechnology",
+    "topic": "Protein isolation (chromatography, PAGE)",
+    "question_text": "In Sodium Dodecyl Sulfate Polyacrylamide Gel Electrophoresis (SDS-PAGE), the sample buffer contains SDS, and the protein mixtures are heated to $95^\\circ\\text{C}$ prior to loading. What is the essential scientific purpose of treating the proteins with the SDS detergent?",
+    "options": {
+      "a": "To preserve the native, highly folded tertiary structure of the protein for downstream functional assays.",
+      "b": "To aggressively denature the protein and coat it in a uniform negative charge so it separates exclusively based on molecular mass.",
+      "c": "To systematically cleave the protein into its constituent individual amino acids for mass spectrometry.",
+      "d": "To bind specifically to the protein's heavy metals, acting as a visible tracking dye during the gel run."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Unlike DNA, naturally occurring proteins possess complex 3D shapes and vastly differing intrinsic electrical charges based on their unique amino acid sequences. If run in their native state, proteins would separate chaotically. \n\n**SDS** (an anionic detergent) unfolds the proteins (denaturation) and comprehensively coats them in a **strong negative charge** that masks the protein's native charge. Because all proteins are now linear strings with the same charge-to-mass ratio, the polyacrylamide gel can separate them solely by their size (molecular mass).",
+    "section_id": null
+  },
+  {
+    "question_number": 52,
+    "subject": "Biotechnology",
+    "topic": "Protein isolation (chromatography, PAGE)",
+    "question_text": "A biomanufacturing team must separate a massive, assembled $150 \\text{ kDa}$ monoclonal antibody from small $20 \\text{ kDa}$ host cell protein contaminants. They run the mixture through a Size-Exclusion Chromatography (SEC) column packed with highly porous microscopic resin beads. Which of the following accurately describes the resulting elution profile?",
+    "options": {
+      "a": "The $20 \\text{ kDa}$ contaminant proteins will easily bypass all pores and elute from the bottom of the column first.",
+      "b": "Both proteins will bind tightly to the outside of the resin beads and wait to be released by a high-salt elution buffer.",
+      "c": "The column utilizes electrical polarity; therefore, elution order is determined entirely by the isoelectric point, not size.",
+      "d": "The massive $150 \\text{ kDa}$ antibody is physically excluded from entering the bead pores and will travel quickly around the beads, eluting first."
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "In **Size-Exclusion Chromatography (SEC)** (also known as Gel Filtration), the resin is composed of beads riddled with microscopic \"caves\" or pores. \n\nCounter-intuitively, the **largest molecules elute first**. The massive $150 \\text{ kDa}$ antibodies are too large to fit into the pores, so they simply flow around the outside of the beads and flush quickly through the column. The small $20 \\text{ kDa}$ contaminants, however, can enter the porous labyrinth inside the beads, slowing their journey immensely. Therefore, Option 'd' is the correct mechanism.",
+    "section_id": null
+  },
+  {
+    "question_number": 53,
+    "subject": "Biotechnology",
+    "topic": "Protein isolation (chromatography, PAGE)",
+    "question_text": "Recombinant proteins are frequently engineered with a terminal string of six histidine amino acids (a \"His-tag\") to permit extremely rapid, single-step purification from bacterial lysate via Affinity Chromatography. Which specific immobilized metal ion is most commonly bonded to the chromatography resin to capture these engineered His-tags?",
+    "options": {
+      "a": "Sodium ($Na^+$)",
+      "b": "Calcium ($Ca^{2+}$)",
+      "c": "Nickel ($Ni^{2+}$)",
+      "d": "Potassium ($K^+$)"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The purification method relies on Immobilized Metal Affinity Chromatography (IMAC). \n\nThe imidazole rings on the side chains of histidine amino acids form exceptionally strong coordinate-covalent bonds with transition metals, most notably **Nickel ($Ni^{2+}$)** or Cobalt ($Co^{2+}$). The resin beads are coated in Nickel, which snags the His-tagged target protein out of the crude mixture as the lysate flows past, while the untagged bacterial proteins wash straight through.",
+    "section_id": null
+  },
+  {
+    "question_number": 54,
+    "subject": "Biotechnology",
+    "topic": "Protein isolation (chromatography, PAGE)",
+    "question_text": "During the final step of Immobilized Metal Affinity Chromatography (IMAC) for His-tagged proteins, the captured target protein must be actively released (eluted) from the column so it can be collected in the fraction tubes. Which chemical reagent is flushed through the column in high concentrations to physically outcompete the His-tag and free the bound target protein?",
+    "options": {
+      "a": "Isopropyl $\\beta$-D-1-thiogalactopyranoside (IPTG)",
+      "b": "Imidazole",
+      "c": "Coomassie Brilliant Blue",
+      "d": "Ammonium Persulfate (APS)"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Imidazole** is the structural chemical analog to the side chain of the histidine amino acid. \n\nBy pumping a buffer containing a massive concentration of imidazole ($>250 \\text{ mM}$) into the column, the free imidazole outcompetes the His-tagged protein for the binding sites on the Nickel resin. The column becomes flooded with imidazole, dislodging the target protein and forcing it to elute out of the column into the collection tube.",
+    "section_id": null
+  },
+  {
+    "question_number": 55,
+    "subject": "Biotechnology",
+    "topic": "Equipment calibration & validation",
+    "question_text": "To strictly adhere to Good Laboratory Practices (GLP), a technician must validate the volumetric accuracy of a P1000 micropipette prior to an audited biomanufacturing run. They set the dial to $1000 \\ \\mu\\text{L}$ and dispense high-purity deionized water onto an analytical balance at standard room temperature ($22^\\circ\\text{C}$). According to gravimetric calibration principles, what specific mass should the analytical balance display if the pipette is perfectly calibrated?",
+    "options": {
+      "a": "$0.100 \\text{ g}$",
+      "b": "$1.000 \\text{ g}$",
+      "c": "$10.00 \\text{ g}$",
+      "d": "$100.0 \\text{ g}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Gravimetric calibration** relies on the known physical density of water. \n\nAt standard room temperature, the density of pure liquid water is extremely close to $1.0 \\text{ g/mL}$. Because $1000 \\ \\mu\\text{L}$ is exactly equal to $1.0 \\text{ mL}$, pipetting this volume of water onto an analytical balance should yield a mass of precisely **$1.000 \\text{ g}$**. If the balance consistently reads significantly higher or lower (e.g., $0.950 \\text{ g}$), the pipette is out of calibration.",
+    "section_id": null
+  },
+  {
+    "question_number": 56,
+    "subject": "Biotechnology",
+    "topic": "Equipment calibration & validation",
+    "question_text": "Before preparing chemical buffers, a technician must perform a routine multi-point calibration on a laboratory pH meter using traceable standard solutions. What is the fundamental scientific purpose of utilizing a **three-point calibration** ($pH\\ 4.0, 7.0, \\text{ and } 10.0$) rather than simply calibrating the meter exclusively with neutral deionized water ($pH\\ 7.0$)?",
+    "options": {
+      "a": "To permanently alter the internal electrical resistance of the glass electrode to match room temperature.",
+      "b": "To physically sterilize the sensitive glass bulb from acidophilic and alkaliphilic bacteria.",
+      "c": "To establish a linear slope across a wide pH range, ensuring the meter can accurately calculate measurements in both acidic and basic unknown samples.",
+      "d": "To saturate the internal silver chloride reference solution so the electrode does not dry out during the week."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A pH meter measures the tiny voltage difference created by hydrogen ions and calculates the pH based on a mathematical formula (the Nernst equation). \n\nBy testing three known points ($4.0$, $7.0$, $10.0$), the meter's internal software can calculate a precise **linear slope (calibration curve)**. If calibrated *only* at $pH\\ 7.0$ (a single-point calibration), the meter has no reference line and cannot accurately determine if an unknown sample is highly acidic or highly basic. It only knows what neutral is.",
+    "section_id": null
+  },
+  {
+    "question_number": 57,
+    "subject": "Biotechnology",
+    "topic": "Equipment calibration & validation",
+    "question_text": "A standard autoclave uses pressurized steam ($121^\\circ\\text{C}$ at $15 \\text{ psi}$) to achieve absolute sterilization of media and equipment. To routinely validate that the autoclave is functioning correctly and actually achieving lethal sterilizing conditions, which specific Quality Control (QC) indicator must the laboratory deploy?",
+    "options": {
+      "a": "Striped autoclave indicator tape affixed to the outside of every flask",
+      "b": "Biological indicator vials containing *Geobacillus stearothermophilus* endospores",
+      "c": "A digital countdown timer verified by a secondary atomic clock",
+      "d": "A visual inspection of the agar for boiling bubbles immediately upon removal"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "To truly validate sterilization, the laboratory must prove lethality, not just heat exposure. \n\nAutoclave tape (Option 'a') is a *chemical* indicator; its stripes turn black when exposed to high heat, but this happens almost instantly and does not prove the heat lasted long enough to kill microbes. **Biological indicators (BIs)** containing the highly heat-resistant endospores of *Geobacillus stearothermophilus* are placed in the load. If these extremely tough spores are killed, it proves the autoclave successfully achieved true sterilization parameters.",
+    "section_id": null
+  },
+  {
+    "question_number": 58,
+    "subject": "Biotechnology",
+    "topic": "Standard curve construction",
+    "question_text": "A technician is constructing a standard curve to quantify the protein concentration of an unknown sample using the Bradford assay. When plotting the linear regression graph using spreadsheet software, how must the variables be assigned to the $X$ and $Y$ axes to correctly calculate the unknown?",
+    "options": {
+      "a": "X-axis = Absorbance (Optical Density) at $595 \\text{ nm}$; Y-axis = Known BSA standard concentration",
+      "b": "X-axis = Known BSA standard concentration; Y-axis = Absorbance (Optical Density) at $595 \\text{ nm}$",
+      "c": "X-axis = Time of incubation in minutes; Y-axis = Total volume of the assay well",
+      "d": "X-axis = Path length of the cuvette ($1 \\text{ cm}$); Y-axis = Fluorescent emission"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "In standard curve construction, the general scientific convention is to plot the **independent variable** (the values you purposefully control and know) on the **X-axis**, and the **dependent variable** (the experimental measurement that changes in response) on the **Y-axis**. \n\nThe technician mixes known concentrations of the Bovine Serum Albumin (BSA) standard (X-axis), and the spectrophotometer measures the resulting absorbance (Y-axis). Using the resulting equation ($y = mx + b$), the technician can plug in the unknown sample's absorbance as $y$ and solve for $x$ (concentration).",
+    "section_id": null
+  },
+  {
+    "question_number": 59,
+    "subject": "Biotechnology",
+    "topic": "Standard curve construction",
+    "question_text": "After generating a standard curve for a spectrophotometric enzyme assay, a technician reviews the linear trendline and observes that the coefficient of determination ($R^2$) is $0.814$. According to standard QC acceptance criteria in biomanufacturing, how should the technician proceed?",
+    "options": {
+      "a": "Proceed immediately; an $R^2$ value above $0.500$ indicates perfect correlation between concentration and absorbance.",
+      "b": "Reject the standard curve; the value indicates significant variance (poor pipetting or assay failure), and the standards must be remade.",
+      "c": "Subtract the $0.814$ value from all unknown sample absorbance readings to normalize the baseline drift.",
+      "d": "Adjust the spectrophotometer wavelength down by $81.4 \\text{ nm}$ to recapture the missing absorbance."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **coefficient of determination ($R^2$)** measures how well the regression line fits the data points. A value of $1.000$ is a perfect, straight-line fit. \n\nIn analytical laboratory settings, standard curves typically require an $R^2$ of **$\\ge 0.990$** (and often higher) to be considered valid for calculating unknown samples. An $R^2$ of $0.814$ shows highly scattered data, almost always indicating sloppy pipetting, expired reagents, or improperly mixed standards. The assay is invalid and must be repeated.",
+    "section_id": null
+  },
+  {
+    "question_number": 60,
+    "subject": "Biotechnology",
+    "topic": "Standard curve construction",
+    "question_text": "A standard curve for an ELISA is validated with a highly linear range covering target antigen concentrations from $5 \\text{ pg/mL}$ up to $100 \\text{ pg/mL}$ (reaching a maximum reliable absorbance of $2.20 \\text{ Abs}$). An unknown patient sample is tested, yielding a massive absorbance reading of $3.15 \\text{ Abs}$. To obtain a valid, GLP-compliant concentration for this patient, what must the technician do?",
+    "options": {
+      "a": "Simply plug $3.15$ into the standard curve equation ($y = mx + b$) and mathematically extrapolate the higher concentration.",
+      "b": "Subtract the maximum valid absorbance ($2.20$) from the sample absorbance ($3.15$) and extrapolate the difference.",
+      "c": "Dilute the patient sample with assay buffer, repeat the ELISA so the reading falls within the established curve, and then multiply the result by the dilution factor.",
+      "d": "Increase the incubation temperature of the microplate by $10^\\circ\\text{C}$ to forcibly degrade the excess antigen."
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "You can **never** confidently extrapolate a value that falls outside the proven upper bounds of a standard curve. \n\nBeyond the highest standard (in this case, above $2.20 \\text{ Abs}$), the assay's chemistry often becomes non-linear due to reagent depletion or detector saturation (the Hook effect). The only scientifically valid action is to **dilute the sample** so its signal drops into the reliable, proven linear range ($5$ to $100 \\text{ pg/mL}$), calculate the concentration from the curve, and multiply by the dilution factor.",
+    "section_id": null
+  },
+  {
+    "question_number": 61,
+    "subject": "Biotechnology",
+    "topic": "Graphical data interpretation",
+    "question_text": "When analyzing an agarose gel to determine the base-pair length of an unknown DNA fragment, a technician constructs a plot using the DNA ladder's known bands. Because the relationship between a DNA fragment's size and its migration distance through the gel is NOT linear, what specific graph axes format must be utilized to create a straight standard line?",
+    "options": {
+      "a": "A standard Cartesian plot: Migration distance on X; Fragment size (bp) on Y.",
+      "b": "A semi-logarithmic plot: Migration distance on a linear X-axis; $\\log_{10}$ of Fragment size (bp) on a logarithmic Y-axis.",
+      "c": "An inverse-square plot: Time in the chamber on X; Square root of Migration distance on Y.",
+      "d": "A full logarithmic plot: $\\log_{10}$ of Migration distance on X; $\\log_{10}$ of voltage on Y."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The physical migration distance of DNA in an agarose gel is **inversely proportional to the $\\log_{10}$ of its molecular weight (size)**. \n\nIf you plot fragment size directly against distance on standard linear graph paper, it yields a harsh curve, making it difficult to accurately estimate unknown bands. By plotting the size on a **logarithmic axis (Y-axis)** and the migration distance on a **linear axis (X-axis)**, the exponential decay is straightened into a reliable linear trendline.",
+    "section_id": null
+  },
+  {
+    "question_number": 62,
+    "subject": "Biotechnology",
+    "topic": "Graphical data interpretation",
+    "question_text": "A biomanufacturing facility tracks the Optical Density ($OD_{600}$) of a bioreactor over 36 hours, generating a standard sigmoidal (S-shaped) bacterial growth curve. To extract the absolute maximum yield of actively dividing, healthy cells, at which graphical phase of the growth curve should the technician initiate the harvest?",
+    "options": {
+      "a": "During the initial Lag Phase, immediately following inoculation.",
+      "b": "At the late Log (Exponential) Phase, just prior to the flattening of the curve.",
+      "c": "Deep in the Stationary Phase, once the curve has remained perfectly flat for 12 hours.",
+      "d": "During the Death Phase, once the OD reading definitively begins to plummet."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The standard microbial growth curve consists of four phases: Lag, Log (Exponential), Stationary, and Death. \n\nThe maximum concentration of highly active, viable, rapidly dividing cells occurs at the **late Log Phase**. Once the curve hits the *Stationary Phase*, nutrients are depleting, toxic waste products are building up, and the cells are shutting down primary metabolism. Harvesting late in the exponential phase ensures massive biomass before the culture starts starving or dying.",
+    "section_id": null
+  }
+]

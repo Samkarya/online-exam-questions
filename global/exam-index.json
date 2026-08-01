@@ -123,5 +123,12 @@
   "wassce_further_maths_statistics_probability": "configs/wassce.json",
   "wassce_further_maths_vectors_mechanics": "configs/wassce.json",
   "rrb-group-d_2025_nov27_shift1": "configs/rrb-group-d.json",
-  "rrb-group-d_2025_nov28_shift1": "configs/rrb-group-d.json"
+  "rrb-group-d_2025_nov28_shift1": "configs/rrb-group-d.json",
+  "nocti_biotechnology_4275_ethics": "configs/nocti-biotechnology-4275.json",
+  "nocti_biotechnology_4275_lab_skills": "configs/nocti-biotechnology-4275.json",
+  "nocti_biotechnology_4275_biotech_knowledge": "configs/nocti-biotechnology-4275.json",
+  "nocti_biotechnology_4275_equipment": "configs/nocti-biotechnology-4275.json",
+  "nocti_biotechnology_4275_regulated_environment": "configs/nocti-biotechnology-4275.json",
+  "nocti_biotechnology_4275_aseptic_technique": "configs/nocti-biotechnology-4275.json",
+  "nocti_biotechnology_4275_safety": "configs/nocti-biotechnology-4275.json"
 }

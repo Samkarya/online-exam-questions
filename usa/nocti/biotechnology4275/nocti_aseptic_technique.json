@@ -1,0 +1,338 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Biotechnology",
+    "topic": "Sterile zone creation & environmental monitoring",
+    "question_text": "A Class II Biological Safety Cabinet (BSC) provides both personnel and product protection during mammalian cell culture. What is the primary physical mechanism that the BSC uses to create this sterile work zone and prevent cross-contamination?",
+    "options": {
+      "a": "It continuously blasts the work surface with lethal levels of ultraviolet (UV-C) light while the technician's hands are actively working.",
+      "b": "It pumps high concentrations of ethylene oxide gas directly over the open culture flasks to actively sterilize the media.",
+      "c": "It creates a highly controlled, unidirectional downward flow of sterile, HEPA-filtered air that acts as a physical curtain against airborne contaminants.",
+      "d": "It relies entirely on a deep vacuum pressure that violently sucks all air out of the cabinet into the surrounding laboratory."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A Biological Safety Cabinet (BSC) relies entirely on carefully engineered fluid dynamics—specifically, **unidirectional (laminar) airflow**. \n\nAir is drawn into the cabinet, forced through a High-Efficiency Particulate Air (HEPA) filter to remove $99.97\\%$ of airborne microbes and dust, and then blown straight down over the work surface in a smooth sheet. This sterile air curtain prevents contaminated room air from entering and prevents biohazardous aerosols from escaping. \n> UV light (Option 'a') is only used when the cabinet is empty and the sash is closed, as it damages human skin and eyes.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Biotechnology",
+    "topic": "Sterile zone creation & environmental monitoring",
+    "question_text": "To maintain the sterile, protective air curtain inside a Biological Safety Cabinet, a technician must adhere to strict spatial organization rules. Which of the following physical actions severely disrupts the airflow dynamics, drastically increasing the risk of contamination?",
+    "options": {
+      "a": "Wiping down the stainless steel surfaces with $70\\%$ isopropyl alcohol prior to introducing any materials.",
+      "b": "Moving arms and hands slowly and straight in and out, rather than making rapid, sweeping lateral motions.",
+      "c": "Resting large reagent bottles, notebooks, or biohazard waste bins directly on top of the front or rear perforated intake grilles.",
+      "d": "Operating the cabinet while the glass sash is pulled completely down to the manufacturer's certified operating height mark."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The safety of a BSC depends on uninterrupted air flowing smoothly into the front and rear perforated grilles. \n\nIf a technician **blocks these grilles** by resting equipment, arms, or trash bins on them, the air hits a physical wall and \"bounces\" back. This turbulence destroys the protective air curtain, allowing unfiltered room air to wash over the sterile cell cultures, and allowing dangerous aerosols from inside the hood to blow out into the technician's face.",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Biotechnology",
+    "topic": "Sterile zone creation & environmental monitoring",
+    "question_text": "A biomanufacturing Cleanroom is actively monitored for airborne microbial contamination to ensure a sterile environment. Which of the following environmental monitoring techniques relies exclusively on ambient gravity to continuously collect viable microbes over a long work shift?",
+    "options": {
+      "a": "Swabbing the stainless steel laboratory bench with a sterile cotton tip.",
+      "b": "Utilizing an active, motorized volumetric air sampler that forcefully pulls exactly $100 \\text{ Liters}$ of air through a filter membrane.",
+      "c": "Exposing open Tryptic Soy Agar (TSA) settling plates to the ambient air on the benchtop for up to 4 hours.",
+      "d": "Testing the facility's incoming distilled water lines for endotoxin using a Limulus Amebocyte Lysate (LAL) assay."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Environmental monitoring relies on both active and passive air sampling. \n\n**Settling plates** (Option 'c') are a form of *passive* monitoring. Standard agar plates are simply opened and placed on work surfaces. Gravity pulls ambient dust particles and microbes down onto the agar over the course of hours. After incubation, the Colony Forming Units (CFUs) are counted. \n> Option 'b' describes an *active* air sampler, which mechanically pulls a specific volume of air, independent of gravity.",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Biotechnology",
+    "topic": "Sterile zone creation & environmental monitoring",
+    "question_text": "Following the final chemical sanitization of a stainless steel bioreactor surface, a Quality Control technician applies a specialized, convex agar plate (a RODAC plate) directly against the metal wall for five seconds, and then incubates the plate. What specific parameter of the cleanroom is this environmental monitoring technique evaluating?",
+    "options": {
+      "a": "The structural integrity and fatigue limit of the stainless steel alloy.",
+      "b": "Airborne viable particulate counts floating in the HVAC system.",
+      "c": "The absolute pH level of the residual cleaning chemicals left on the tank.",
+      "d": "Surface microbial contamination (viable counts on the equipment itself)."
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "A Replicate Organism Detection and Counting **(RODAC) plate** is specifically designed with a bulging, convex agar surface. \n\nBecause the agar protrudes past the plastic rim, the technician can physically press the agar directly against a flat surface (like a benchtop, bioreactor wall, or worker's glove). This transfers any surviving microbes from the surface onto the agar. It is the gold standard for testing the efficacy of surface cleaning and monitoring **surface microbial contamination**.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Biotechnology",
+    "topic": "Sterile zone creation & environmental monitoring",
+    "question_text": "When transitioning materials into a sterile Biological Safety Cabinet, standard operating procedures dictate thoroughly spraying and wiping all incoming bottles with a $70\\%$ Isopropyl Alcohol (IPA) solution rather than $100\\%$ absolute IPA. Why is the $70\\%$ aqueous solution biochemically a more effective biocidal agent for aseptic control?",
+    "options": {
+      "a": "The $30\\%$ water content slows the rapid flash-evaporation of the alcohol, providing sufficient wet contact time for the IPA to penetrate and permanently denature microbial cell walls.",
+      "b": "$100\\%$ IPA immediately causes the plastic walls of standard cell culture flasks to melt and leach toxic bisphenol-A chemicals.",
+      "c": "The added laboratory water naturally contains trace amounts of hypochlorous acid that actively seek out and destroy tough bacterial endospores.",
+      "d": "$70\\%$ IPA is highly alkaline, raising the ambient pH to a level that instantly combusts all gram-negative microbial membranes."
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "Alcohol kills bacteria primarily by denaturing proteins and dissolving lipids. However, to do this, it needs **water** to facilitate penetration and it needs **time**. \n\nIf $100\\%$ (absolute) alcohol is used, it evaporates so quickly off the surface that it does not have enough contact time to kill the microbes, and it only coagulates the very outer surface of the bacterial cell wall, creating a protective crust. The $30\\%$ water in **$70\\%$ IPA** slows down evaporation, extending the contact time on the surface and acting as a catalyst for complete internal protein denaturation.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Biotechnology",
+    "topic": "Media formulation, agar plate preparation",
+    "question_text": "A technician is preparing Luria-Bertani (LB) agar plates supplemented with the antibiotic ampicillin. After autoclaving the liquid agar media at $121^\\circ\\text{C}$, they must wait for the flask to cool before adding the ampicillin and pouring the plates. What is the optimal temperature range to add the antibiotic and pour the plates to prevent both antibiotic degradation and premature agar solidification?",
+    "options": {
+      "a": "$20^\\circ\\text{C}$ to $25^\\circ\\text{C}$",
+      "b": "$45^\\circ\\text{C}$ to $55^\\circ\\text{C}$",
+      "c": "$70^\\circ\\text{C}$ to $80^\\circ\\text{C}$",
+      "d": "$95^\\circ\\text{C}$ to $100^\\circ\\text{C}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Agar physically solidifies (gels) when it cools to approximately $40^\\circ\\text{C}$ to $45^\\circ\\text{C}$. \n\nIf a technician attempts to add antibiotics while the media is too hot (e.g., $80^\\circ\\text{C}$), the intense heat will thermally degrade and destroy the antibiotic's efficacy (Option 'c' and 'd'). If they wait until it hits room temperature (Option 'a'), the agar will have already hardened into a solid block in the flask. Therefore, the optimal \"pouring temperature\" is the sweet spot between $45^\\circ\\text{C}$ and $55^\\circ\\text{C}$ (often described as being able to hold the flask comfortably against the inside of your forearm).",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Biotechnology",
+    "topic": "Media formulation, agar plate preparation",
+    "question_text": "When preparing a standard batch of Luria-Bertani (LB) broth for recombinant bacterial culture, which essential microbiological ingredient provides the primary source of organic nitrogen, amino acids, and small peptides required to support robust exponential growth?",
+    "options": {
+      "a": "Sodium chloride (NaCl)",
+      "b": "Bacto-Tryptone (or peptone)",
+      "c": "Purified Agarose powder",
+      "d": "Distilled water"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Standard LB broth consists of three main ingredients: Tryptone, Yeast Extract, and Sodium Chloride. \n\n**Tryptone (peptone)** is an enzymatic digest of casein (milk protein) and provides a massive supply of ready-to-use amino acids and nitrogen. Yeast extract provides vitamins and trace minerals, while sodium chloride (NaCl) maintains the osmotic balance. Agarose is only used to solidify the media into plates, but provides zero nutritional value.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Biotechnology",
+    "topic": "Media formulation, agar plate preparation",
+    "question_text": "A researcher streaks a mixed microbial environmental sample onto a MacConkey agar plate. After a 24-hour incubation, they observe bright pink bacterial colonies thriving alongside colorless colonies, while many gram-positive species failed to grow entirely. Based on this formulation's selective ingredients and internal pH indicator, how is MacConkey agar functionally classified?",
+    "options": {
+      "a": "Strictly as a general-purpose, non-selective nutrient media.",
+      "b": "Exclusively as a transport media intended to keep fastidious cells dormant.",
+      "c": "As both a selective and differential media.",
+      "d": "As a synthetic minimal media utilized purely for auxotrophic starvation."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "MacConkey agar serves a dual microbiological purpose. \n\n1. It is **selective** because it contains bile salts and crystal violet, which actively kill or inhibit the growth of Gram-positive bacteria, selecting only for Gram-negative organisms. \n2. It is **differential** because it contains lactose and a pH indicator (neutral red). Bacteria that can ferment lactose produce acid, turning their colonies bright pink, differentiating them visually from non-fermenting colorless colonies.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Biotechnology",
+    "topic": "Media formulation, agar plate preparation",
+    "question_text": "A student technician repeatedly experiences massive condensation (heavy water droplets) forming on the inner lids of their freshly poured agar plates, which subsequently drips down and ruins their streak patterns. What specific procedural error most likely caused this excessive condensation?",
+    "options": {
+      "a": "Pouring the agar into the petri dishes while the media was still far too hot (e.g., $>75^\\circ\\text{C}$).",
+      "b": "Incubating the solidified plates in an inverted (upside-down) orientation.",
+      "c": "Adding a higher concentration of agar powder than specified by the manufacturer.",
+      "d": "Storing the poured plates at standard room temperature for three days prior to use."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Condensation on the lid of a petri dish is a classic consequence of pouring agar while it is **too hot**. \n\nThe extreme heat differential between the near-boiling liquid and the room-temperature plastic lid forces rapid evaporation and immediate condensation on the lid. \n> *Incubating inverted* (Option 'b') is actually the correct preventative standard practice to ensure any condensation that *does* form stays on the lid and doesn't drip onto the bacterial colonies.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Biotechnology",
+    "topic": "Cell line maintenance",
+    "question_text": "Adherent mammalian cell lines, such as HeLa or CHO cells, must be routinely \"passaged\" (subcultured) when they reach $80\\%-90\\%$ confluency to prevent overgrowth, nutrient starvation, and cell death. Which specific enzymatic reagent is standardly added to the culture flask to actively cleave focal adhesion proteins and detach the cells from the plastic surface?",
+    "options": {
+      "a": "Luria Broth (LB)",
+      "b": "Dimethyl sulfoxide (DMSO)",
+      "c": "Trypsin-EDTA",
+      "d": "Taq Polymerase"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Trypsin** is a proteolytic enzyme (a protease) that aggressively cleaves the integrins and cell-surface proteins that mammalian cells use to anchor themselves to the culture flask. \n\nIt is almost always combined with **EDTA**, a chelating agent that binds calcium and magnesium ions (which are required for cell adhesion), aiding the detachment process. Once detached and floating, the cells can be centrifuged, diluted, and transferred to fresh flasks. \n> *DMSO* (Option 'b') is a freezing agent.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Biotechnology",
+    "topic": "Cell line maintenance",
+    "question_text": "When freezing a valuable mammalian cell line for long-term cryogenic storage in a $-196^\\circ\\text{C}$ liquid nitrogen dewar, a highly specific chemical such as $10\\%$ Dimethyl sulfoxide (DMSO) or glycerol is added to the freezing media. What is the fundamental biophysical function of DMSO in this protocol?",
+    "options": {
+      "a": "It acts as a potent, broad-spectrum antibiotic to prevent fungal contamination during the deep-freeze storage.",
+      "b": "It serves as an intracellular cryoprotectant, displacing water to prevent the formation of massive, lethal, piercing ice crystals.",
+      "c": "It provides a highly concentrated source of continuous carbon metabolism for the cells while they are stored in liquid nitrogen.",
+      "d": "It physically digests the rigid cell wall, allowing the cell to rapidly expand like a balloon during the freezing process."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "DMSO is a **cryoprotectant**. \n\nBecause mammalian cells are primarily water, freezing them normally causes the water to form large, jagged ice crystals that spear through and rip apart the cellular membrane, killing the cell. DMSO is a small molecule that readily crosses the cell membrane, displacing some of the intracellular water. This disrupts the crystallization lattice, causing the remaining water to freeze into a safer, more \"glass-like\" state (vitrification), protecting the integrity of the cell membrane.",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Biotechnology",
+    "topic": "Cell line maintenance",
+    "question_text": "A technician is evaluating the viability of a mammalian cell suspension prior to scaling up into a bioreactor. They mix the cell suspension with Trypan Blue dye in a 1:1 ratio and examine it under an inverted phase-contrast microscope using a hemocytometer. How does Trypan Blue biochemically differentiate between live and dead cells?",
+    "options": {
+      "a": "The dye is selectively excluded by intact lipid membranes; therefore, live cells remain clear and highly refractive, while dead, compromised cells turn visibly dark blue.",
+      "b": "The dye is an active metabolic indicator that is actively metabolized by the mitochondria of healthy, living cells, turning them bright blue.",
+      "c": "The dye chemically cross-links exclusively with the rapidly synthesizing DNA of healthy dividing cells, causing them to emit a localized blue fluorescence.",
+      "d": "The dye severely precipitates in the presence of acidic waste products secreted by dying cells, forming a thick blue halo around their perimeter."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Trypan blue relies on the principle of **dye exclusion**. \n\nA healthy, living cell possesses a fully intact, selectively permeable cell membrane that completely blocks the large Trypan blue molecules from entering. Therefore, live cells appear clear or slightly glowing under the microscope. When a cell dies, its lipid membrane degrades and becomes porous, allowing the dye to flood into the cytoplasm, staining the dead cell a dark, distinctive blue.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Biotechnology",
+    "topic": "Cell line maintenance",
+    "question_text": "During routine morning observation, a technician notices that the phenol red indicator in their T-75 mammalian cell culture flask has suddenly turned bright yellow. Additionally, the media appears distinctly hazy and turbid when held up to the light, and under the microscope, thousands of tiny, rapidly vibrating specks are visible surrounding the mammalian cells. What is the most scientifically sound explanation for these observations?",
+    "options": {
+      "a": "The incubator's atmospheric $CO_2$ tank has unexpectedly emptied, causing the media to become dangerously alkaline.",
+      "b": "The mammalian cells are perfectly healthy but have reached maximum confluency, causing them to secrete a yellow enzyme.",
+      "c": "The flask is suffering from severe bacterial contamination, causing a rapid accumulation of acidic metabolic waste and physical turbidity.",
+      "d": "The Trypsin-EDTA added the previous day has finally reached its maximum enzymatic activation state, clouding the media."
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "These are the classic, catastrophic hallmarks of **bacterial contamination**. \n\nMammalian cell media is rich in nutrients without antibiotics. If contaminated, bacteria multiply incredibly rapidly (causing the hazy **turbidity** and the vibrating \"specks\" which are the bacteria themselves). Their runaway metabolism produces massive amounts of acidic waste (like lactic acid). The phenol red pH indicator in the media responds to this sharp drop in pH (acidification) by changing from a healthy pink/red to a **bright, sickly yellow**.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Biotechnology",
+    "topic": "Biosafety Levels BSL-1 through BSL-4",
+    "question_text": "The CDC standardizes laboratory environments by categorizing biological agents into four distinct Biosafety Levels (BSLs). A high school biotechnology class is working with an engineered, non-pathogenic laboratory strain of *Escherichia coli* (K-12) that poses minimal known hazard to healthy adults. What is the appropriate minimum Biosafety Level required for handling this specific organism?",
+    "options": {
+      "a": "BSL-1",
+      "b": "BSL-2",
+      "c": "BSL-3",
+      "d": "BSL-4"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**BSL-1** represents the lowest level of containment and is suitable for work involving well-characterized biological agents that are not known to consistently cause disease in immunocompetent, healthy adults (e.g., *E. coli* K-12, *Saccharomyces cerevisiae*). \n\nStandard microbiology practices (like washing hands, wearing a lab coat, and not eating in the lab) are sufficient; no specialized containment equipment like a biosafety cabinet is strictly required for BSL-1.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Biotechnology",
+    "topic": "Biosafety Levels BSL-1 through BSL-4",
+    "question_text": "The pathogen *Mycobacterium tuberculosis* is known to cause severe, potentially lethal human respiratory disease through highly infectious aerosol transmission. However, established medical treatments and viable antibiotics exist for the infection. Under which Biosafety Level (BSL) must laboratory technicians strictly culture and manipulate this pathogen to ensure compliance with CDC guidelines?",
+    "options": {
+      "a": "BSL-1",
+      "b": "BSL-2",
+      "c": "BSL-3",
+      "d": "BSL-4"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Organisms that cause serious, potentially lethal diseases through **inhalation (aerosol) routes** but for which effective treatments or vaccines exist are strictly categorized as **BSL-3**. \n\nThis requires intense facility design, including sustained directional negative pressure, HEPA-filtered exhaust air, and full primary containment inside a biosafety cabinet. \n> BSL-2 is typically for diseases spread by blood or ingestion (e.g., HIV, Salmonella). \n> BSL-4 is reserved for extreme, lethal airborne agents for which *no* known treatments or vaccines exist (e.g., Ebola, Marburg virus).",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Biotechnology",
+    "topic": "Biosafety Levels BSL-1 through BSL-4",
+    "question_text": "A virology laboratory at the CDC is designated to culture the Ebola virus, a highly infectious, lethal pathogen with no reliable treatment or vaccine. Which of the following primary engineering controls uniquely characterizes the extreme containment requirements of a **BSL-4** facility compared to a BSL-3 laboratory?",
+    "options": {
+      "a": "The use of a certified Class II Biological Safety Cabinet for all aerosol-generating procedures.",
+      "b": "The installation of HEPA filters on the building's exhaust air system.",
+      "c": "The mandatory use of positive-pressure supplied-air (space) suits or completely enclosed Class III glove-box cabinets.",
+      "d": "The presence of a functioning autoclave located somewhere within the same building footprint."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Biosafety Level 4 (**BSL-4**) is reserved for the most dangerous, exotic, and lethal pathogens known to humanity. \n\nBecause these agents are highly infectious via aerosols and lack medical countermeasures, absolute physical separation is required. Personnel must wear completely sealed, **positive-pressure supplied-air suits** (space suits) so that if a tear occurs, air rushes out rather than pathogens rushing in. Alternatively, the work must be done inside a totally enclosed, gas-tight **Class III Biosafety Cabinet** (glove box). \n> Options 'a' and 'b' are standard requirements for BSL-2 and BSL-3 facilities.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Biotechnology",
+    "topic": "Biosafety Levels BSL-1 through BSL-4",
+    "question_text": "A laboratory facility is upgrading its operations from manipulating benign *Saccharomyces cerevisiae* (yeast) to processing uncharacterized human blood samples and clinical isolates of *Staphylococcus aureus*. Which physical engineering control becomes explicitly required under **BSL-2** guidelines that was not mandated for BSL-1 operations?",
+    "options": {
+      "a": "A dedicated effluent decontamination system to boil and sterilize all sink wastewater.",
+      "b": "A rigid double-door airlock entry with a mandatory full-body shower-out protocol.",
+      "c": "A Class II Biological Safety Cabinet (BSC) for procedures that may generate splashes or infectious aerosols.",
+      "d": "A handwashing sink and solid doors equipped with standard locks."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The jump from BSL-1 to **BSL-2** is primarily triggered by working with agents that pose a moderate hazard to personnel, particularly human-derived materials (blood, tissues) that carry bloodborne pathogen risks. \n\nThe defining primary engineering control added at BSL-2 is the **Biological Safety Cabinet (BSC)**. While BSL-1 work can be safely performed on an open benchtop, BSL-2 mandates that any procedure liable to create infectious aerosols or splashes (centrifuging, pipetting, vortexing) *must* be conducted inside a BSC. \n> Option 'd' (a sink and doors) is already required at BSL-1. \n> Options 'a' and 'b' describe extreme BSL-3/4 level containment.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Biotechnology",
+    "topic": "PPE selection, waste management",
+    "question_text": "A technician is preparing to dispose of fifty plastic petri dishes containing overgrown colonies of *Bacillus subtilis*. Which of the following describes the correct, OSHA-compliant protocol for managing this solid biological waste?",
+    "options": {
+      "a": "Discard the plates directly into the standard municipal trash bin, provided they are securely taped shut with Parafilm.",
+      "b": "Place the plates inside a prominently labeled, red biohazard autoclave bag, thermally sterilize them via an autoclave, and then dispose of the bag according to facility protocol.",
+      "c": "Soak the closed plates overnight in a $50\\%$ bleach solution, then dispose of them in a clear glass recycling bin.",
+      "d": "Incinerate the plastic plates immediately inside the laboratory's sterile Biological Safety Cabinet using an open Bunsen burner flame."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Solid biohazardous waste (like agar plates, contaminated gloves, and culture flasks) cannot be thrown in the standard municipal trash (Option 'a'). \n\nThe universal protocol is to place these materials into designated **red or orange biohazard autoclave bags**. These bags are then processed through a validated steam autoclave cycle (typically $121^\\circ\\text{C}$ for at least $30\\text{-}60$ minutes) to render all microbial life completely dead. Once validated as sterile, the \"melted\" waste is generally placed into a secondary opaque trash bag and disposed of as regular solid waste.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Biotechnology",
+    "topic": "PPE selection, waste management",
+    "question_text": "Following a tissue extraction procedure, a technician is holding a contaminated disposable surgical scalpel and a shattered glass capillary tube. According to the OSHA Bloodborne Pathogens Standard, how must these specific items be safely discarded?",
+    "options": {
+      "a": "Dropped immediately into a rigid, puncture-resistant, leak-proof, red plastic \"Sharps\" container without manually bending or breaking them.",
+      "b": "Tossed loosely into a standard soft, red biohazard bag to be safely melted down in the autoclave.",
+      "c": "Manually snapped in half by the technician to ensure they cannot be reused, then placed in a heavy-duty cardboard box.",
+      "d": "Washed thoroughly with $70\\%$ IPA to remove biological matter and thrown directly into the regular municipal trash bin."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Scalpels, needles, broken glass, and capillary tubes are classified as **Sharps**. \n\nBecause they can easily puncture human skin and soft plastic bags (posing a severe needle-stick and bloodborne pathogen risk to waste handlers), OSHA explicitly forbids placing them into standard soft biohazard bags (Option 'b'). They must be dropped immediately into rigid, puncture-proof **Sharps containers**. Furthermore, technicians are strictly forbidden from bending, breaking (Option 'c'), or recapping sharps prior to disposal.",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Biotechnology",
+    "topic": "PPE selection, waste management",
+    "question_text": "A $2.0 \\text{ Liter}$ Erlenmeyer flask of mammalian CHO cell liquid culture media has become contaminated with a pathogenic bacteria and must be discarded. What is the standard, compliant procedure for the deactivation and disposal of this large volume of liquid biological waste?",
+    "options": {
+      "a": "Pour the raw media directly down the municipal sink drain while running cold tap water to dilute it.",
+      "b": "Evaporate the liquid entirely using a benchtop hot plate until only a solid crust remains, then dispose of the glass flask in the trash.",
+      "c": "Treat the liquid with a concentrated sodium hypochlorite (bleach) solution to achieve a final concentration of $10\\%$, allow at least $30 \\text{ minutes}$ of contact time, and then pour down the designated sink.",
+      "d": "Freeze the liquid media at $-80^\\circ\\text{C}$ until it is a solid block, then place the frozen flask into the standard landfill trash."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Large volumes of **liquid biological waste** cannot be directly autoclaved easily without boil-over risks, and they cannot be poured down the drain raw (Option 'a'). \n\nThe industry standard is chemical decontamination using bleach. The technician must add enough concentrated sodium hypochlorite to achieve a **final concentration of roughly $10\\%$ bleach** in the liquid volume. After allowing a **$30\\text{-minute}$ contact time** to ensure complete microbial kill, the deactivated, sterile liquid can safely be poured down a designated laboratory sink with running water.",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Biotechnology",
+    "topic": "PPE selection, waste management",
+    "question_text": "A lab technician has finished working with an infectious biological agent in a Biosafety Level 2 (BSL-2) cabinet and is preparing to leave the laboratory. What is the safest, standardly accepted technique for doffing (removing) potentially contaminated nitrile laboratory gloves?",
+    "options": {
+      "a": "Wash the gloved hands vigorously with soap and warm water for two minutes before attempting to peel them off.",
+      "b": "Pull each glove off by firmly pinching the fingertips and sliding them directly forward to maintain their structural integrity.",
+      "c": "Grasp the outside of the first glove near the wrist, peel it off inside out, hold it in the remaining gloved hand, and then slide an ungloved finger under the wrist of the second glove to peel it over the first.",
+      "d": "Use sterile forceps to carefully slice the gloves down the palm to avoid skin contact with the exterior rubber."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The goal of **doffing gloves** is to ensure that bare skin never touches the contaminated exterior of the glove. \n\nThis is achieved via the \"glove-in-glove\" or \"bird-beak\" peeling technique (Option 'c'). \n1. Pinch the outside of the first glove at the palm/wrist and peel it off **inside out**.\n2. Crumple that removed glove into the palm of the hand that is still gloved.\n3. Slide an ungloved, clean finger *under* the cuff of the second glove and peel it off inside out, trapping the first glove entirely inside the second.",
+    "section_id": null
+  }
+]
