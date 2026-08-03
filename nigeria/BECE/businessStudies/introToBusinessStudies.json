@@ -1,0 +1,242 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Business Studies",
+    "topic": "Introduction to Business Studies",
+    "question_text": "The subject which provides basic knowledge and skills for business operations and self-reliance is called",
+    "options": {
+      "a": "Commerce",
+      "b": "Business Studies",
+      "c": "Economics",
+      "d": "Accounting"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Business Studies** is an overarching subject taught at the junior secondary level to provide basic knowledge and skills in business operations. *Source: Theme 1, Objective I(a): Meaning of business studies.*",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Business Studies",
+    "topic": "Introduction to Business Studies",
+    "question_text": "Which of the following is NOT a component of Business Studies?",
+    "options": {
+      "a": "Book-keeping",
+      "b": "Commerce",
+      "c": "Civic Education",
+      "d": "Office Practice"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The core components of Business Studies according to the syllabus are **Office practice**, **Commerce**, **Book-keeping**, and **Keyboarding/Computer**. Civic Education is an entirely different subject. *Source: Theme 1, Objective I(c): Components of business studies.*",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Business Studies",
+    "topic": "Introduction to Business Studies",
+    "question_text": "The systematic recording of day-to-day financial transactions of a business is handled by which component of Business Studies?",
+    "options": {
+      "a": "Keyboarding",
+      "b": "Book-keeping",
+      "c": "Office Practice",
+      "d": "Commerce"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Book-keeping** is the specific component that deals with the regular, systematic recording of financial transactions (money received and paid out) in a business. *Source: Theme 1, Objective I(c): Components of business studies.*",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Business Studies",
+    "topic": "Introduction to Business Studies",
+    "question_text": "The component of Business Studies that deals with the buying, selling, and distribution of goods and services is",
+    "options": {
+      "a": "Keyboarding",
+      "b": "Book-keeping",
+      "c": "Commerce",
+      "d": "Office Practice"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Commerce** encompasses trade (buying and selling) and all activities that aid trade (like transportation, insurance, and banking). *Source: Theme 1, Objective I(c): Components of business studies.*",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Business Studies",
+    "topic": "Introduction to Business Studies",
+    "question_text": "A student who excels in the keyboarding and computer component of Business Studies is most likely to pursue a career as a",
+    "options": {
+      "a": "Medical Doctor",
+      "b": "Secretary",
+      "c": "Trader",
+      "d": "Storekeeper"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Keyboarding equips a student with the typing skills necessary for secretarial duties, making **Secretary** or Typist the most direct career path from this component. *Source: Theme 1, Objective I(d): Career opportunities.*",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Business Studies",
+    "topic": "Introduction to Business Studies",
+    "question_text": "One of the main reasons for studying Business Studies in Junior Secondary School is to",
+    "options": {
+      "a": "Enable students to manufacture chemicals",
+      "b": "Prepare students for careers in the sciences",
+      "c": "Equip students with basic entrepreneurial skills",
+      "d": "Teach students how to repair heavy machinery"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A primary importance of Business Studies is to build a foundation for self-employment and equip students with **basic entrepreneurial skills**. *Source: Theme 1, Objective I(b): Importance of business studies.*",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Business Studies",
+    "topic": "Introduction to Business Studies",
+    "question_text": "Which aspect of Business Studies provides knowledge on how to receive visitors and file documents properly?",
+    "options": {
+      "a": "Office Practice",
+      "b": "Commerce",
+      "c": "Book-keeping",
+      "d": "Computer Appreciation"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Office Practice** is the component that focuses on the daily administrative and clerical duties required to run an office smoothly, such as filing and receiving visitors. *Source: Theme 1, Objective I(c): Components of business studies.*",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Business Studies",
+    "topic": "Introduction to Business Studies",
+    "question_text": "All of the following are career opportunities available to someone who studied Business Studies EXCEPT",
+    "options": {
+      "a": "Accounting",
+      "b": "Banking",
+      "c": "Architecture",
+      "d": "Office Management"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Accounting, Banking, and Office Management are direct career opportunities branching from Business Studies. **Architecture** relates more to technical drawing, engineering, and arts. *Source: Theme 1, Objective I(d): Career opportunities.*",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Business Studies",
+    "topic": "Introduction to Business Studies",
+    "question_text": "The knowledge of Business Studies is beneficial to the society because it",
+    "options": {
+      "a": "Increases the rate of school dropouts",
+      "b": "Promotes the production of goods and wealth creation",
+      "c": "Encourages students to depend entirely on the government for jobs",
+      "d": "Focuses only on foreign trade"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Business Studies helps individuals start businesses, create jobs, and understand the economy, which collectively **promotes wealth creation and production** in society. *Source: Theme 1, Objective I(b): Importance of business studies.*",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Business Studies",
+    "topic": "Introduction to Business Studies",
+    "question_text": "Which combination best represents the inter-related components of Business Studies?",
+    "options": {
+      "a": "Commerce, Typing, Civics, and Accounting",
+      "b": "Office Practice, Commerce, Book-keeping, and Keyboarding",
+      "c": "Book-keeping, Economics, Geography, and Keyboarding",
+      "d": "Office Practice, Law, Book-keeping, and Commerce"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The exact four components outlined in the junior secondary syllabus are **Office practice, Commerce, Book keeping, and Keyboarding/Computer**. *Source: Theme 1, Objective I(c): Components of business studies.*",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Business Studies",
+    "topic": "Introduction to Business Studies",
+    "question_text": "A person who sets up a business, takes on financial risks, and hopes to make a profit is a(n)",
+    "options": {
+      "a": "Clerk",
+      "b": "Receptionist",
+      "c": "Entrepreneur",
+      "d": "Typist"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "An **Entrepreneur** is someone who starts and runs a business, taking on financial risks with the goal of earning profit. Becoming an entrepreneur is a major career opportunity encouraged by Business Studies. *Source: Theme 1, Objective I(d): Career opportunities.*",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Business Studies",
+    "topic": "Introduction to Business Studies",
+    "question_text": "An understanding of Book-keeping is primarily important because it helps a business owner to",
+    "options": {
+      "a": "Determine if the business is making a profit or loss",
+      "b": "Type letters at a very fast speed",
+      "c": "Transport goods from the factory to the consumer",
+      "d": "Design the structure of the office building"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "The fundamental purpose of keeping systematic financial records (Book-keeping) is to be able to assess the financial health of the enterprise, specifically whether it is **making a profit or a loss**. *Source: Theme 1, Objective I(b) & (c).* ",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Business Studies",
+    "topic": "Introduction to Business Studies",
+    "question_text": "The skills acquired from learning Keyboarding and Computer in Business Studies are crucial for",
+    "options": {
+      "a": "Manual crop production",
+      "b": "Electronic data processing and document preparation",
+      "c": "Calculating complex mathematical equations manually",
+      "d": "Loading and offloading warehouse goods"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Keyboarding/Computer skills are primarily used in the modern office for **electronic data processing and document preparation** (e.g., typing letters, memos, and handling emails). *Source: Theme 1, Objective I(c): Components of business studies.*",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Business Studies",
+    "topic": "Introduction to Business Studies",
+    "question_text": "A career path that specifically involves the selling of manufactured goods to the final consumer is an offshoot of which Business Studies component?",
+    "options": {
+      "a": "Office Practice",
+      "b": "Keyboarding",
+      "c": "Commerce",
+      "d": "Book-keeping"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Retailing and selling goods falls under trade, which is the central core of **Commerce**. Therefore, a career in retail or sales is directly tied to the Commerce component. *Source: Theme 1, Objective I(c) & (d).* ",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Business Studies",
+    "topic": "Introduction to Business Studies",
+    "question_text": "Business Studies contributes to national development by teaching students how to",
+    "options": {
+      "a": "Avoid paying appropriate taxes to the government",
+      "b": "Consume only foreign imported goods",
+      "c": "Become responsible consumers and wealth creators",
+      "d": "Smuggle goods across borders safely"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "One of the broad importances of Business Studies is equipping citizens with the right attitudes to work, consumption, and enterprise, thereby helping them become **responsible consumers and wealth creators**. *Source: Theme 1, Objective I(b): Importance of business studies.*",
+    "section_id": null
+  }
+]
