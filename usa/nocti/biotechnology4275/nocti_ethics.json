@@ -1,0 +1,578 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Biotechnology",
+    "topic": "Recombinant DNA technology",
+    "question_text": "A biotechnology corporation is developing a recombinant strain of *Pseudomonas* bacteria engineered to efficiently degrade marine oil spills. During the environmental impact assessment, what is the primary ethical and ecological concern regarding the open-field release of this genetically modified organism (GMO)?",
+    "options": {
+      "a": "Reduced efficacy over time due to spontaneous genetic mutation",
+      "b": "High downstream production costs for large-scale bioreactors",
+      "c": "Unintended horizontal gene transfer to native environmental microbiota",
+      "d": "Violation of informed consent protocols for local coastal residents"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "When releasing recombinant organisms into open environments, the paramount ecological and ethical concern is **horizontal gene transfer**. \n\nUnlike controlled lab environments, the wild poses a risk that the genetically engineered traits could be passed to naturally occurring microbes via plasmids, potentially creating unpredictable ecological imbalances. Option 'd' relates to human subjects, not environmental release. Options 'a' and 'b' are practical/economic concerns rather than primary ethical or ecological ones.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Biotechnology",
+    "topic": "Recombinant DNA technology",
+    "question_text": "The 1975 Asilomar Conference on Recombinant DNA was a landmark event in the history of bioethics. What was the primary outcome of this conference?",
+    "options": {
+      "a": "The issuance of the first commercial patent for recombinant human insulin",
+      "b": "The establishment of voluntary guidelines and biohazard containment levels for rDNA research",
+      "c": "An international treaty banning all eukaryotic rDNA experiments indefinitely",
+      "d": "The definition of the modern parameters for human subject informed consent"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Asilomar Conference** was organized by scientists (including Paul Berg) to address the potential biohazards of the newly discovered recombinant DNA technology. \n\nIts primary outcome was an unprecedented agreement among scientists to establish **voluntary guidelines and strict physical/biological containment levels** (which later shaped NIH guidelines) before continuing certain types of rDNA research. It did not ban the research entirely (Option 'c'), nor did it focus on patents (Option 'a') or human trials (Option 'd').",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Biotechnology",
+    "topic": "Recombinant DNA technology",
+    "question_text": "An agricultural biotechnology researcher isolates a naturally occurring DNA sequence that confers extreme drought resistance in a wild species of wheat. The researcher's parent company immediately attempts to patent this specific, unaltered genetic sequence. Based on modern intellectual property and bioethical standards (such as the precedent set by *Association for Molecular Pathology v. Myriad Genetics*), what is the most likely legal standing of this patent application?",
+    "options": {
+      "a": "It will be rejected because naturally occurring DNA sequences are considered products of nature and are not patent-eligible.",
+      "b": "It will be rejected because the target gene was not initially cloned into an expression vector.",
+      "c": "It will be approved because the researcher was the first to identify and sequence the gene's exact base pairs.",
+      "d": "It will be approved because plant-derived genetics are universally exempt from standard intellectual property restrictions."
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "According to the Supreme Court ruling in *Association for Molecular Pathology v. Myriad Genetics (2013)*, **naturally occurring DNA segments** are products of nature and cannot be patented simply because they have been isolated. \n\nHowever, complementary DNA (cDNA) or DNA sequences heavily modified by scientists (recombinant DNA) *can* be patented because they are not naturally occurring. Because the researcher in the scenario attempted to patent an \"unaltered\" natural sequence, the patent would be rejected.",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Biotechnology",
+    "topic": "Animal testing standards",
+    "question_text": "Researchers utilizing animal models must adhere to ethical standards enforced by Institutional Animal Care and Use Committees (IACUC). Which of the following correctly identifies the fundamental \"3 Rs\" of ethical animal testing?",
+    "options": {
+      "a": "Replication, Randomization, Reliability",
+      "b": "Reuse, Recycle, Reduce",
+      "c": "Replacement, Reduction, Refinement",
+      "d": "Recording, Reporting, Regulation"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The ethical framework for animal research is guided by the **3 Rs**: \n\n1. **Replacement**: Substituting animals with non-animal models (e.g., cell cultures, computer models) when possible.\n2. **Reduction**: Using the minimum number of animals necessary to achieve statistically significant results.\n3. **Refinement**: Modifying procedures to minimize pain, suffering, and distress to the animals used.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Biotechnology",
+    "topic": "Animal testing standards",
+    "question_text": "A toxicologist is designing an $LD_{50}$ (Lethal Dose 50%) study for a novel biopesticide compound. To specifically adhere to the ethical principle of **Reduction** mandated by the IACUC, which methodological action should the toxicologist take during the experimental design phase?",
+    "options": {
+      "a": "Substitute the murine (mouse) model entirely with a computational *in silico* toxicology simulation.",
+      "b": "Routinely administer non-interfering analgesics to the mice to minimize physical pain and distress.",
+      "c": "Perform the experiment using significantly lower concentrations of the biopesticide.",
+      "d": "Utilize rigorous statistical power analysis to determine the absolute minimum number of mice required to achieve a valid $p$-value."
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "The principle of **Reduction** refers specifically to methods that allow researchers to obtain comparable levels of information from fewer animals. \n\n> **Statistical power analysis** (Option 'd') calculates the exact minimum sample size needed, directly fulfilling the Reduction mandate. \n> Option 'a' represents *Replacement*. \n> Option 'b' represents *Refinement*. \n> Option 'c' alters the experimental parameters rather than addressing the ethical requirement for animal quantities.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Biotechnology",
+    "topic": "Animal testing standards",
+    "question_text": "Upon arriving at the vivarium, a laboratory technician discovers that a cohort of experimental rats has been left in highly restrictive metabolic monitoring cages for 48 consecutive hours. The IACUC-approved protocol explicitly limits continuous confinement to a maximum of 24 hours. What is the most appropriate and ethical immediate action for the technician to take?",
+    "options": {
+      "a": "Document the protocol deviation in the laboratory notebook and immediately report the incident to both the Principal Investigator and the IACUC.",
+      "b": "Release the rats to standard housing and manually adjust the experimental data to extrapolate and account for the extra 24 hours of output.",
+      "c": "Submit an urgent request to modify the IACUC protocol retrospectively to authorize a 48-hour confinement period.",
+      "d": "Omit the deviation from the official report provided that the animals exhibit no visible physical signs of distress or dehydration."
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "In regulated laboratory environments, **strict adherence to approved SOPs and IACUC protocols** is mandatory. \n\nAny deviation—whether intentional or accidental—must be documented immediately without altering data, and reported up the chain of command to the Principal Investigator and the regulatory committee (IACUC). Falsifying data (Option 'b'), altering protocols retroactively (Option 'c'), or ignoring the deviation (Option 'd') represent severe scientific misconduct and ethical breaches.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Biotechnology",
+    "topic": "Human cell line use & informed consent",
+    "question_text": "The HeLa cell line is one of the most important immortalized human cell lines in medical research history. However, its origin remains a foundational case study in bioethics. By today's clinical research standards, what was the primary ethical breach regarding the procurement of these cells in 1951?",
+    "options": {
+      "a": "The cell line was intentionally infected with an infectious agent without biosafety oversight.",
+      "b": "The cervical biopsy tissue was harvested and widely commercialized without the patient's knowledge or informed consent.",
+      "c": "The cells were originally patented as a genetically modified agricultural organism.",
+      "d": "The researchers actively falsified the clinical trial data to secure pharmaceutical funding."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **HeLa cell line** was derived from cervical cancer cells taken from a patient named Henrietta Lacks in 1951. \n\nAt the time, there were no regulations requiring researchers to inform patients or seek permission to use their discarded tissue for research. Today, the lack of **informed consent** and the subsequent global commercialization of her cells without her family's knowledge represents a major ethical breach, serving as a catalyst for modern tissue-donation regulations.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Biotechnology",
+    "topic": "Human cell line use & informed consent",
+    "question_text": "A clinical genomics team wishes to use leftover human blood serum samples from a recently concluded, routine cholesterol study to conduct a new, unrelated genetic screening for Alzheimer's risk alleles. Under the federal \"Common Rule\" governing human subjects research, under what specific condition can these leftover biospecimens typically be used for secondary research *without* tracking down the patients for a new informed consent form?",
+    "options": {
+      "a": "The secondary genetic screening project is exclusively funded by a federal health grant rather than private industry.",
+      "b": "The patients originally signed a standard HIPAA privacy form stating their medical records would remain legally confidential.",
+      "c": "The leftover samples are entirely anonymized and stripped of all personally identifiable information (de-identified) before the secondary researchers receive them.",
+      "d": "The genetic screening project is strictly limited to identifying alleles in the non-coding intronic regions of the human genome."
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Under the US **Common Rule** and related bioethical frameworks, secondary research on existing human biospecimens often does not require fresh informed consent if the samples are strictly **de-identified**. \n\nThis means all linkages between the specimen and the original donor's identity (name, SSN, date of birth, etc.) have been completely severed before the new researcher interacts with the material. HIPAA (Option 'b') governs data privacy but does not act as blanket consent for future genetic research.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Biotechnology",
+    "topic": "Human cell line use & informed consent",
+    "question_text": "The doctrine of informed consent for human subjects requires three core elements: Information, Comprehension, and Voluntariness. Which of the following scenarios describes a failure to meet the **Comprehension** requirement of informed consent?",
+    "options": {
+      "a": "A subject legally withdraws from a five-year longitudinal trial after experiencing mild, documented side effects.",
+      "b": "A vulnerable demographic is coerced into participating through the offering of a massive financial stipend that they cannot realistically refuse.",
+      "c": "A subject is intentionally misled regarding the physical location of the Phase III testing facilities.",
+      "d": "A prospective subject signs a highly technical, 30-page legal disclosure document written entirely in specialized scientific jargon that they do not understand."
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Comprehension** dictates that the information provided must be adapted to the participant's level of understanding. \n\nHanding a layperson a complex, jargon-heavy document (Option 'd') means they are legally consenting but ethically uninformed because they do not grasp the risks. \n> Option 'b' is a failure of *Voluntariness* (coercion/undue influence). \n> Option 'c' is a failure of *Information* (withholding or providing false details). \n> Option 'a' is a valid exercise of a subject's rights.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Biotechnology",
+    "topic": "Stem cell research",
+    "question_text": "Stem cell technology encompasses multiple cell derivation techniques. Which of the following statements most accurately describes the primary reason the extraction of human embryonic stem cells (hESCs) generates more intense bioethical controversy than the isolation of adult somatic stem cells?",
+    "options": {
+      "a": "Isolating hESCs inherently requires the destruction of a human blastocyst, whereas adult stem cells can be safely harvested without destroying the donor.",
+      "b": "hESCs possess a high propensity to spontaneously mutate into infectious viral particles, posing a severe biocontainment risk.",
+      "c": "Adult stem cells inherently possess the capability to spontaneously clone an entire organism in vitro, violating international reproductive laws.",
+      "d": "The specialized protocol for isolating hESCs is exclusively patented by a single corporate entity, creating a monopoly that violates antitrust regulations."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The core ethical debate surrounding stem cells centers on the source of the cells. \n\n**Human Embryonic Stem Cells (hESCs)** are derived from the inner cell mass of a pre-implantation embryo (blastocyst). Harvesting these cells results in the destruction of the blastocyst, raising moral questions regarding the moral status of the embryo. In contrast, **adult (somatic) stem cells** (e.g., from bone marrow or adipose tissue) can be extracted with minimal harm and with the informed consent of a living donor.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Biotechnology",
+    "topic": "Stem cell research",
+    "question_text": "A research team wants to study patient-specific neurological diseases using pluripotent stem cells. However, they want to bypass the ethical controversies and strict federal funding restrictions associated with destroying human embryos. Which biotechnology technique provides the most ethically unproblematic source of pluripotent cells for this specific application?",
+    "options": {
+      "a": "Harvesting multipotent stem cells from the patient's own adult bone marrow",
+      "b": "Creating induced pluripotent stem cells (iPSCs) by reprogramming the patient's adult somatic cells",
+      "c": "Utilizing somatic cell nuclear transfer (SCNT) to create a cloned human blastocyst",
+      "d": "Extracting neural crest cells from anonymized, aborted fetal tissue"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Induced pluripotent stem cells (iPSCs)** are created by taking mature, differentiated adult cells (like skin fibroblasts) and introducing specific transcription factors (Yamanaka factors) to reprogram them back to an embryonic-like, pluripotent state. \n\nThis method allows researchers to generate patient-specific pluripotent cells (valuable for modeling disease) entirely avoiding the destruction of embryos, which makes it an ethically preferable alternative to human embryonic stem cells (hESCs). \n> Option 'a' provides *multipotent* cells, not pluripotent. \n> Options 'c' and 'd' introduce severe ethical and regulatory controversies.",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Biotechnology",
+    "topic": "Stem cell research",
+    "question_text": "In the United States, federal policies and legislative amendments (such as the Dickey-Wicker Amendment) impose strict regulations on stem cell research funding. Based on current standard guidelines, which of the following stem cell research activities is legally eligible to receive direct financial support from the National Institutes of Health (NIH)?",
+    "options": {
+      "a": "The artificial creation of a human embryo specifically for the purpose of deriving a new stem cell line.",
+      "b": "The derivation of a new embryonic stem cell line from discarded IVF (In Vitro Fertilization) embryos.",
+      "c": "Research utilizing exclusively adult mesenchymal stem cells and previously established, NIH-registered human embryonic stem cell (hESC) lines.",
+      "d": "The therapeutic cloning of human embryos via Somatic Cell Nuclear Transfer (SCNT)."
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Federal law in the US (specifically the Dickey-Wicker Amendment) prohibits the use of federal funds for the *creation* or *destruction* of human embryos for research purposes. \n\nTherefore, federal funds (like an NIH grant) cannot be used to extract new hESCs (Option 'b'), clone embryos (Option 'd'), or artificially create embryos (Option 'a'). However, researchers *can* use federal funds to conduct experiments on **already established hESC lines** that are listed on the official NIH registry, as well as on adult stem cells.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Biotechnology",
+    "topic": "Gene editing platforms (e.g., CRISPR)",
+    "question_text": "A biotechnology startup is planning human clinical trials using the CRISPR-Cas9 system to treat a rare genetic muscular dystrophy by editing somatic cells. What is the most significant bioethical and safety concern regarding the *molecular precision* of CRISPR-Cas9 that regulatory agencies will require the company to extensively evaluate prior to human trials?",
+    "options": {
+      "a": "The Cas9 endonuclease may cleave unintended, but highly homologous, DNA sequences elsewhere in the genome, known as off-target effects.",
+      "b": "The guide RNA (gRNA) has a high probability of permanently integrating into the host cell's mitochondrial genome.",
+      "c": "CRISPR-Cas9 can only target and degrade messenger RNA (mRNA), making it ineffective for permanent genomic modifications.",
+      "d": "The bacterial origin of the Cas9 protein guarantees a lethal anaphylactic immune response in all human patients upon first exposure."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The primary technical and safety concern with the CRISPR-Cas9 system is the potential for **off-target effects**. \n\nThe guide RNA (gRNA) may recognize and bind to DNA sequences that are very similar (homologous), but not identical, to the target gene. If the Cas9 enzyme cuts the DNA at these unintended locations, it could introduce dangerous mutations, including the potential activation of oncogenes (causing cancer). Regulatory bodies require rigorous mapping of these off-target cleavage events.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Biotechnology",
+    "topic": "Gene editing platforms (e.g., CRISPR)",
+    "question_text": "While gene editing in human patients offers massive therapeutic potential, international scientific consensus draws a rigid ethical line between two types of editing. Which of the following applications of CRISPR technology is currently subject to the strictest international moratoriums and widespread ethical bans?",
+    "options": {
+      "a": "Modifying a patient's autologous T-cells *ex vivo* to target and destroy leukemia cells.",
+      "b": "Using a viral vector to deliver CRISPR components to the lung epithelium of a cystic fibrosis patient.",
+      "c": "Altering the genome of early human embryos during *in vitro* fertilization to confer resistance to HIV.",
+      "d": "Engineering human induced pluripotent stem cells (iPSCs) in a laboratory culture to model neurodegenerative disease."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "There is a strict international consensus against **human germline editing**. \n\nEditing human embryos, sperm, or eggs (Option 'c') means the genetic modifications will be heritable and passed down to all future generations, carrying unpredictable long-term evolutionary and ethical consequences. Editing somatic (non-reproductive) cells (Options 'a' and 'b') only affects the individual patient and is the basis of currently approved gene therapies.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Biotechnology",
+    "topic": "Gene editing platforms (e.g., CRISPR)",
+    "question_text": "Ecologists and geneticists are debating the release of genetically modified *Anopheles* mosquitoes engineered with a CRISPR-Cas9 \"gene drive.\" This gene drive is designed to spread a sterility gene to 100% of the offspring, rapidly collapsing the wild mosquito population to halt malaria transmission. What is the primary ecological ethics concern regarding the use of gene drive technology in the wild?",
+    "options": {
+      "a": "The CRISPR-Cas9 components will immediately transfer horizontally into the *Plasmodium* parasite, making malaria untreatable.",
+      "b": "The intentional local or global eradication of a wild species could trigger unpredictable and irreversible cascades within the ecosystem's food web.",
+      "c": "Gene drives are economically inviable because they require researchers to constantly re-release modified organisms every generation.",
+      "d": "The sterility gene relies on toxic heavy metal expression, which will subsequently poison agricultural water supplies."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "A **gene drive** is a genetic engineering technology that biases inheritance so a specific trait is passed to nearly 100% of offspring, spreading rapidly through a wild population. \n\nThe central ethical and ecological concern is that eliminating an entire species (like a specific mosquito) is virtually **irreversible** once released and could severely disrupt local ecosystems (e.g., removing a food source for fish/birds or eliminating a pollinator) in ways we cannot accurately model in advance.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Biotechnology",
+    "topic": "Data protection and integrity",
+    "question_text": "During a routine spectrophotometer assay to determine protein concentration, a technician notices that well $A3$ contains an obvious air bubble. Predictably, the absorbance reading for well $A3$ is drastically lower than its technical replicates. To maintain strict data integrity according to Good Laboratory Practices (GLP), how should the technician handle this anomalous reading?",
+    "options": {
+      "a": "Delete the well $A3$ reading from the software completely so the final report only displays the visually consistent replicates.",
+      "b": "Record all raw data in the lab notebook, explicitly document the air bubble as a known protocol deviation, and provide statistical justification if excluding it from the final mean.",
+      "c": "Manually adjust the raw absorbance value of well $A3$ in the spreadsheet to match the mathematical average of the successful replicates.",
+      "d": "Discard the entire plate without documenting the failure and discreetly run a fresh assay later in the day."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Core principles of **data integrity (such as ALCOA+)** dictate that *all* raw data must be recorded exactly as generated. \n\nDeleting data (Option 'a'), altering data to look better (Option 'c'), or hiding failed runs (Option 'd') constitutes scientific misconduct and data falsification. The ethical and GLP-compliant action is to record the anomalous reading but document the physical cause (the bubble) in the lab notebook, which legally and scientifically justifies excluding that specific outlier during final statistical analysis.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Biotechnology",
+    "topic": "Data protection and integrity",
+    "question_text": "A biomanufacturing facility utilizes an Electronic Laboratory Notebook (ELN) and a Laboratory Information Management System (LIMS) for all quality control data. To comply with FDA regulations regarding electronic data integrity (specifically 21 CFR Part 11), which of the following features is absolutely mandatory for these software systems?",
+    "options": {
+      "a": "A secure, time-stamped audit trail that tracks the identity of the user creating, modifying, or deleting any record.",
+      "b": "An automated data-smoothing algorithm that automatically removes statistical outliers prior to saving the file.",
+      "c": "An open-access portal allowing anyone on the facility's local network to overwrite unapproved data files.",
+      "d": "A rolling purge feature that permanently deletes raw assay data older than 90 days to preserve server space."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Under the FDA's **21 CFR Part 11**, electronic records and signatures must be trustworthy and reliable equivalents to paper records. \n\nThe most critical requirement is a secure, computer-generated, time-stamped **audit trail**. This trail independently records the date, time, and identity of operators creating or modifying records, and prevents users from altering data without leaving a permanent digital footprint. Deleting old data (Option 'd') or altering data automatically (Option 'b') directly violates FDA retention and integrity mandates.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Biotechnology",
+    "topic": "Data protection and integrity",
+    "question_text": "A principal investigator runs a massive high-throughput screening assay testing 100 different plant extracts for antimicrobial properties. Only Extract #42 shows a statistically significant zone of inhibition ($p < 0.05$). The investigator subsequently publishes a paper stating that the experiment was explicitly designed solely to test Extract #42, omitting any mention of the other 99 failed extracts. Which specific breach of research ethics has occurred?",
+    "options": {
+      "a": "Data fabrication",
+      "b": "Plagiarism",
+      "c": "Selective reporting (HARKing / P-hacking)",
+      "d": "Conflict of interest"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "This scenario describes **selective reporting**, specifically a form of data dredging often related to HARKing (Hypothesizing After the Results are Known) or \"cherry-picking.\"\n\nBy testing 100 random compounds, standard probability dictates a few might show a false-positive significant result just by chance ($100 \\times 0.05 = 5$ expected false positives). By omitting the 99 negative results and pretending the study only looked at the successful one, the investigator is misrepresenting the statistical validity of the finding. The data wasn't made up (fabrication), stolen (plagiarism), or driven by financial gain (COI), but it was unethically filtered.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Biotechnology",
+    "topic": "Conflict-of-interest disclosure",
+    "question_text": "A clinical research director is leading a Phase II clinical trial evaluating the efficacy of a novel monoclonal antibody against rheumatoid arthritis. Which of the following relationships represents a direct **financial conflict of interest (COI)** that must be formally disclosed to the Institutional Review Board (IRB)?",
+    "options": {
+      "a": "The director previously published three peer-reviewed review articles regarding the general pathophysiology of rheumatoid arthritis.",
+      "b": "The director's spouse holds $500,000 in equity shares in the pharmaceutical company manufacturing the monoclonal antibody.",
+      "c": "The director uses a portion of their government grant money to purchase routine pipettes from a major lab supply corporation.",
+      "d": "The director serves as an unpaid mentor to graduate students studying autoimmune disorders at the local university."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **Conflict of Interest (COI)** occurs when a researcher's primary professional judgment could be influenced by a secondary interest, such as financial gain. \n\nThe equity holdings of a spouse (Option 'b') directly tie the financial well-being of the researcher's family to the successful outcome of the trial, creating a major financial COI that requires disclosure and management. The other options represent standard academic or professional activities without direct, undue financial influence over the specific trial's outcome.",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Biotechnology",
+    "topic": "Conflict-of-interest disclosure",
+    "question_text": "A university professor invents a proprietary microfluidic diagnostic chip and launches a private spin-off company to commercialize it. The professor proposes assigning their university graduate students to conduct the clinical validation assays for the chip to support the company's FDA submission. Why does this scenario present a critical ethical conflict, and how is it typically managed by a university?",
+    "options": {
+      "a": "It constitutes a violation of federal insider trading laws; the professor must immediately resign from the university to continue the research.",
+      "b": "It presents a conflict of commitment and potential student exploitation; it requires a formal management plan, often involving independent academic oversight of the students.",
+      "c": "It violates international intellectual property laws; all university research is strictly open-source and cannot be commercialized by faculty.",
+      "d": "It is ethically sound and requires no management, provided the graduate students sign a standard Non-Disclosure Agreement (NDA) with the private company."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "This scenario highlights a severe **conflict of commitment and interest**. \n\nThe professor has conflicting roles: an academic mentor obligated to ensure the students' open educational progress, and a company founder motivated to keep data secret and advance commercial goals. There is a high risk of exploiting the students' cheap labor for private gain or delaying their graduation/publications due to corporate NDAs. \n\nUniversities do not forbid spin-offs (which invalidates Option 'a' and 'c'), but they strictly require a **Conflict of Interest Management Plan** (Option 'b'), usually assigning an independent faculty member to monitor the students' progress and ensure their academic freedom is protected.",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Biotechnology",
+    "topic": "Conflict-of-interest disclosure",
+    "question_text": "An academic principal investigator (PI) is invited by a journal editor to anonymously peer-review a submitted manuscript. Upon reading the abstract, the PI realizes the manuscript was written by a direct laboratory competitor and contains a highly efficient proprietary method that the PI's own lab has been struggling to develop. What is the mandatory ethical action the PI must take?",
+    "options": {
+      "a": "Delay the review process as long as possible while having their own lab replicate the competitor's method.",
+      "b": "Reject the manuscript with overly harsh criticism to protect their own laboratory's competitive advantage.",
+      "c": "Read the method section, memorize the protocol, and then decline the review claiming a lack of time.",
+      "d": "Immediately contact the journal editor, disclose the conflict of interest, and recuse themselves from reviewing the manuscript."
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "The peer-review process relies entirely on objectivity and confidentiality. Being in direct competition with the authors constitutes a major **professional conflict of interest**. \n\nThe only ethical path is to immediately disclose this conflict to the editor and step down from the review process (Option 'd'). Using the confidential review process to stall competitors (Option 'a' and 'b') or to steal unpublished intellectual property (Option 'c') represents severe scientific misconduct.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Biotechnology",
+    "topic": "Prevention of scientific misconduct",
+    "question_text": "A graduate student is preparing a Western blot image for a high-impact journal publication. The target protein band is visible, but there are multiple faint background bands caused by non-specific antibody binding. The student uses photo-editing software to selectively erase only the background bands, leaving the target band untouched to make the data look \"cleaner.\" Which specific category of scientific misconduct does this action fall under?",
+    "options": {
+      "a": "Plagiarism",
+      "b": "Falsification",
+      "c": "Fabrication",
+      "d": "Conflict of Commitment"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "According to the US Office of Research Integrity (ORI), scientific misconduct is divided into three main categories: Fabrication, Falsification, and Plagiarism (FFP).\n\n**Falsification** involves manipulating research materials, equipment, or processes, or changing/omitting data such that the research is not accurately represented. By selectively erasing background bands, the student is altering genuine data to misrepresent the actual assay results. \n> *Fabrication* (Option 'c') is making up data entirely from scratch.\n> *Plagiarism* (Option 'a') is stealing someone else's work.",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "Biotechnology",
+    "topic": "Prevention of scientific misconduct",
+    "question_text": "During an enzyme-linked immunosorbent assay (ELISA), a laboratory technician realizes they forgot to load the negative control samples into the designated wells. To save time and avoid restarting the four-hour protocol, the technician simply copies the baseline absorbance values from yesterday's assay and enters them into today's digital report. What specific ethical violation has the technician committed?",
+    "options": {
+      "a": "Data Fabrication",
+      "b": "Intellectual Property Theft",
+      "c": "Data Falsification",
+      "d": "Inadvertent Protocol Deviation"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Fabrication** is the act of making up data or results and recording or reporting them. \n\nBecause the negative control samples were never actually run in today's assay, entering numbers for them constitutes creating data out of thin air. Even if the copied numbers are plausible or realistic, creating a record of an event that did not happen is fabrication. (Falsification would be altering data that *was* actually generated today).",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "Biotechnology",
+    "topic": "Prevention of scientific misconduct",
+    "question_text": "A junior researcher suspects that their postdoctoral supervisor is systematically altering raw mass spectrometry data to support a failing hypothesis. What is the most ethically appropriate and professional initial mechanism for the junior researcher to address this suspected scientific misconduct?",
+    "options": {
+      "a": "Immediately post the raw and altered datasets to anonymous social media platforms to expose the supervisor publicly.",
+      "b": "Secretly delete the altered data files from the laboratory's shared server to prevent publication.",
+      "c": "Report the documented evidence confidentially to the institution's designated Research Integrity Officer (RIO) or ombudsman.",
+      "d": "Confront the supervisor in a crowded laboratory space and demand an immediate public apology."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "When dealing with suspected scientific misconduct, institutional protocols and whistleblower protections must be followed. \n\nThe proper channel is to report concerns confidentially to the **Research Integrity Officer (RIO)** or an institutional ombudsman. These officials are trained to handle allegations impartially, protect the whistleblower from retaliation, and conduct formal investigations. Vigilante actions (Options 'a' and 'b') or unprofessional confrontations (Option 'd') are inappropriate and can jeopardize the integrity of the investigation.",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "Biotechnology",
+    "topic": "Maintaining objective observation records",
+    "question_text": "While recording the mass of a chemical powder in a strictly regulated GLP (Good Laboratory Practice) lab notebook, a technician accidentally writes $14.5 \\text{ g}$ instead of the correct value of $1.45 \\text{ g}$ shown on the analytical balance. Which procedure is the correct, compliant method for correcting this written error?",
+    "options": {
+      "a": "Apply white-out correction fluid over the error, let it dry, and write $1.45 \\text{ g}$ over it.",
+      "b": "Scribble over the incorrect number heavily in black ink so it cannot be read, then write the correct number in the margin.",
+      "c": "Draw a single strike-through line across $14.5 \\text{ g}$, write the correct $1.45 \\text{ g}$ beside it, and include the technician's initials and the current date.",
+      "d": "Carefully trace over the '4' to make it look like a '1', and insert a new decimal point in the correct location."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Under GLP and standard laboratory auditing guidelines (such as ALCOA+), all original data must remain legible, even if incorrect. \n\nThe strict industry standard for correcting physical errors is to draw a **single horizontal line** through the mistake (so the original text is still visible), write the correct value next to it, and authenticate the change with the corrector's **initials and the date**. Sometimes a brief explanation code (e.g., \"SE\" for spelling error or \"RE\" for recording error) is also required. Using white-out, scribbling, or overwriting is strictly forbidden as they destroy the original record.",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "Biotechnology",
+    "topic": "Maintaining objective observation records",
+    "question_text": "Good Laboratory Practice requires all physical observations to be recorded objectively, utilizing unambiguous, quantitative language whenever possible. Which of the following lab notebook entries best meets the standard for an objective observation record?",
+    "options": {
+      "a": "The bacterial pellet appeared normal in size and was a good shade of white.",
+      "b": "Following centrifugation at $4000 \\times g$ for 10 minutes, an off-white pellet measuring approximately $2 \\text{ mm}$ in diameter was visible at the bottom of the tube.",
+      "c": "The centrifugation step yielded a lot of precipitate, proving that the cellular lysis step worked perfectly.",
+      "d": "A huge, healthy-looking cellular pellet was successfully formed after spinning the sample."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Objective documentation must avoid subjective interpretations (like \"normal,\" \"good,\" \"huge,\" \"a lot,\" or \"healthy-looking\"). \n\nOption 'b' is the only choice that provides factual, measurable data: it states the conditions ($4000 \\times g$ for 10 minutes), color (\"off-white\"), and a quantitative estimate of size (\"approximately $2 \\text{ mm}$\"), leaving no room for subjective misinterpretation by future readers.",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "Biotechnology",
+    "topic": "Maintaining objective observation records",
+    "question_text": "To prevent biological contamination during a sensitive mammalian cell culture procedure, a technician writes their volume calculations and timepoints on the paper sleeve of a sterile pipette, intending to transfer the data into the official laboratory notebook at the end of the week. Which core principle of data integrity does this practice most directly violate?",
+    "options": {
+      "a": "Data must be Legible.",
+      "b": "Data must be Contemporaneous.",
+      "c": "Data must be Original.",
+      "d": "Data must be Attributable."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "This practice violates the principle that data must be **Contemporaneous** (the 'C' in ALCOA). \n\nContemporaneous means data must be recorded in the official designated system *at the exact time* the work is performed. Writing notes on scraps of paper, gloves, or pipette sleeves to transcribe days later creates massive risks for memory errors, transcription errors, or lost data. While it also touches on 'Original' (since the pipette sleeve becomes the uncontrolled original record), the delayed transcription is a primary violation of contemporaneous recording.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "Biotechnology",
+    "topic": "Locating peer-reviewed scientific literature",
+    "question_text": "A student researcher is tasked with recreating a novel plasmid extraction protocol. They need a source that provides explicit step-by-step methodology, raw data figures, and was subjected to blind review by field experts prior to publication. Which type of scientific literature should the student seek?",
+    "options": {
+      "a": "A secondary literature review article published in *Annual Reviews of Genetics*",
+      "b": "A primary literature research article published in *Journal of Molecular Biology*",
+      "c": "A biotechnology textbook chapter summarizing extraction techniques",
+      "d": "An editorial commentary published in *Nature*"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Primary research articles** (Option 'b') are original, peer-reviewed reports containing first-hand data, detailed Materials and Methods sections, and novel findings. \n\nReview articles (Option 'a') and textbooks (Option 'c') are secondary/tertiary sources; they summarize and synthesize primary data but do not contain original experimental raw data or the detailed protocols used to generate it. Editorials (Option 'd') are opinion or commentary pieces.",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "Biotechnology",
+    "topic": "Locating peer-reviewed scientific literature",
+    "question_text": "A researcher is using PubMed to conduct a literature search on the use of CRISPR for treating human cystic fibrosis, but the search results are currently flooded with irrelevant articles regarding CRISPR use in agricultural crops. Which Boolean search string should the researcher employ to most effectively narrow the database results?",
+    "options": {
+      "a": "(CRISPR OR Cystic Fibrosis) AND Agriculture",
+      "b": "CRISPR AND Cystic Fibrosis AND Plants",
+      "c": "CRISPR AND Cystic Fibrosis NOT (Plants OR Agriculture)",
+      "d": "CRISPR NOT Cystic Fibrosis AND Plants"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Information literacy requires the effective use of **Boolean logic operators** (AND, OR, NOT) in academic databases. \n\nTo find overlapping topics, you use **AND** (CRISPR AND Cystic Fibrosis). To exclude a specific topic that is flooding results, you use the **NOT** operator (NOT Plants or Agriculture). Option 'c' perfectly combines these parameters to isolate human disease applications while stripping out agricultural papers.",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "Biotechnology",
+    "topic": "Critically evaluating experimental data sources",
+    "question_text": "While compiling a bibliography for a literature review on vaccine efficacy, a researcher finds a compelling manuscript published on *bioRxiv*. The manuscript contains extensive data but features a disclaimer that it has not yet undergone formal peer review. What is the standard scientific classification for this type of document, and how should it be treated?",
+    "options": {
+      "a": "It is a **preprint**; it allows rapid dissemination of data but its findings should be treated as preliminary and unverified.",
+      "b": "It is a **predatory publication**; it indicates the authors paid a bribe to bypass peer review and the data is fraudulent.",
+      "c": "It is a **tertiary source**; it is fully validated and intended primarily for general public consumption rather than scientists.",
+      "d": "It is a **monograph**; it serves as a legally binding document of patent priority rather than scientific data."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Platforms like *bioRxiv* or *medRxiv* host **preprints**. \n\nA preprint is a full draft of a research paper that is shared publicly *before* it has been peer-reviewed. Preprints are an accepted and valuable part of modern science for rapid communication (especially during crises like pandemics), but because independent experts have not yet validated the methodology or statistical analyses, the conclusions must be evaluated critically and considered preliminary.",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "Biotechnology",
+    "topic": "Locating peer-reviewed scientific literature",
+    "question_text": "An undergraduate researcher needs to find full-text, open-access biomedical literature regarding the metabolic pathways of human embryonic kidney (HEK293) cells. Which database is managed by the US National Institutes of Health (NIH) specifically to provide free access to federally funded, peer-reviewed biomedical research articles?",
+    "options": {
+      "a": "PubMed Central (PMC)",
+      "b": "GenBank",
+      "c": "The Basic Local Alignment Search Tool (BLAST)",
+      "d": "Web of Science"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**PubMed Central (PMC)** is a free full-text archive of biomedical and life sciences journal literature at the U.S. National Institutes of Health's National Library of Medicine (NIH/NLM). \n\nWhile *PubMed* provides abstracts and citations, *PMC* provides the open-access full text. \n> Option 'b' (GenBank) is a database for nucleotide sequences.\n> Option 'c' (BLAST) is a software tool for comparing sequence alignments.\n> Option 'd' (Web of Science) is a comprehensive citation database, but typically requires a paid institutional subscription.",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "Biotechnology",
+    "topic": "Critically evaluating experimental data sources",
+    "question_text": "A scientist is conducting a literature review and finds an online journal article claiming a radical new cure for antibiotic-resistant staphylococcus. Upon investigating the journal, the scientist notes that it charges authors a massive publishing fee, guarantees publication within 48 hours without requesting revisions, and lists editorial board members who do not actually exist. What is the standard classification for this type of publication?",
+    "options": {
+      "a": "A high-impact Tier 1 scientific journal",
+      "b": "A predatory journal",
+      "c": "An open-source preprint server",
+      "d": "A peer-reviewed primary literature source"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **predatory journal** is a deceptive publishing model that exploits the open-access system. \n\nThey charge authors high publication fees (Article Processing Charges, APCs) but entirely bypass the rigorous peer-review and editorial oversight required to validate scientific claims. Because they publish essentially anything for money, data sourced from them cannot be trusted as valid scientific literature. *Preprint servers* (Option 'c') also lack peer review but are free, transparent about their status, and exist to share preliminary data ethically.",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "Biotechnology",
+    "topic": "Critically evaluating experimental data sources",
+    "question_text": "You are evaluating a published toxicological study concluding that a novel, synthetic pesticide exhibits absolutely no off-target toxicity to native bee populations. In the 'Declarations' section at the end of the manuscript, you observe that the research was fully funded by the agrochemical corporation that manufactures the pesticide. How should a scientifically literate reader handle this information?",
+    "options": {
+      "a": "Discard the study entirely; corporate-funded research is legally classified as data fabrication.",
+      "b": "Scrutinize the experimental methodology and statistical analysis with heightened awareness for potential industry bias.",
+      "c": "Accept the conclusions unquestioningly, as the peer-review process mathematically guarantees the elimination of all bias.",
+      "d": "Report the authors to the federal Office of Research Integrity for violating anti-trust research laws."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Corporate funding is highly common in biotechnology and does *not* automatically mean the data is fraudulent or fabricated. \n\nHowever, it represents a significant **Conflict of Interest (COI)**. A scientifically literate reader must not accept it blindly (Option 'c') nor discard it as illegal (Options 'a' and 'd'). The correct approach is to carefully evaluate the study design—looking for subtle biases like weak controls, cherry-picked data, or inappropriate statistical methods designed to favor the sponsor's product.",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "Biotechnology",
+    "topic": "Proper citation formats",
+    "question_text": "When formatting a bibliography entry for a primary research article in standard scientific formats (such as Council of Science Editors (CSE) or APA), which piece of information is critical for unambiguously identifying the specific digital location of the article so future readers can retrieve it?",
+    "options": {
+      "a": "The corresponding author's institutional email address",
+      "b": "The Digital Object Identifier (DOI)",
+      "c": "The federal grant number that funded the research",
+      "d": "The total number of citations the paper has received"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Digital Object Identifier (DOI)** is a unique alphanumeric string assigned to a digital document (like a journal article) that provides a persistent link to its location on the internet. \n\nUnlike URLs, which can break or change, a DOI remains permanently tied to the document. It is a mandatory component in modern scientific citation formats to ensure readers can easily locate the source material.",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "Biotechnology",
+    "topic": "Proper citation formats",
+    "question_text": "In the introduction of a molecular biology manuscript, the author writes: *\"CRISPR-Cas9 mediated knockout of the p53 gene has been shown to accelerate tumor progression in murine models [4].\"* What is the primary ethical and functional purpose of the bracketed number `[4]` in this sentence?",
+    "options": {
+      "a": "To indicate that the sentence is a direct, word-for-word quotation from the original author.",
+      "b": "To signify that the journal has ranked this claim as the fourth most important finding of the decade.",
+      "c": "To direct the reader to the corresponding entry in the bibliography, properly attributing the idea to its original discoverers.",
+      "d": "To indicate the exact lab notebook page where the author recorded this observation."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "In scientific writing (which heavily uses numbered citation styles like IEEE, Nature, or AMA), a bracketed or superscript number in the text is an **in-text citation**. \n\nIts purpose is to provide immediate, traceable credit to the researchers who originally generated the data or concept, while directing the reader to the full reference details in the bibliography at the end of the document. Standard scientific writing rarely uses direct quotes (making Option 'a' incorrect), relying instead on paraphrased summaries with citation.",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "Biotechnology",
+    "topic": "Proper citation formats",
+    "question_text": "A student copies a dense paragraph detailing the chemical mechanism of DNA polymerase directly from a textbook into their laboratory report. To avoid plagiarizing, the student changes three or four verbs to synonyms, leaves the sentence structure intact, and places a standard citation at the end of the paragraph. According to academic integrity standards, why is this practice still considered a form of plagiarism?",
+    "options": {
+      "a": "The student committed \"patchwriting\" (mosaic plagiarism) by failing to synthesize and significantly restructure the original author's words.",
+      "b": "Textbooks are classified as tertiary sources and therefore cannot be legally cited in an academic document.",
+      "c": "The student failed to bold the replaced synonyms to indicate they had altered the text.",
+      "d": "DNA replication mechanisms are patented, requiring legal permission rather than a simple citation."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Replacing just a few words with synonyms while maintaining the original sentence structure is known as **patchwriting or mosaic plagiarism**. \n\nEven if a citation is provided at the end, presenting another author's exact phrasing (or heavily mimicking it) as your own writing is considered plagiarism in the scientific community. To paraphrase correctly, a writer must completely synthesize the information and rewrite it in their own distinct sentence structure and voice.",
+    "section_id": null
+  }
+]

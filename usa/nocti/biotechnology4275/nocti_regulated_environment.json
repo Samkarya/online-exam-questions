@@ -1,0 +1,354 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Biotechnology",
+    "topic": "FDA, EPA, OSHA, USDA",
+    "question_text": "A biomanufacturing company has successfully developed a novel gene therapy utilizing a modified adeno-associated virus (AAV) vector to treat a rare genetic blindness. Before this biologic can be marketed to patients in the United States, which specific federal regulatory agency holds sole jurisdiction to evaluate its safety, efficacy, and clinical trial data?",
+    "options": {
+      "a": "Occupational Safety and Health Administration (OSHA)",
+      "b": "United States Department of Agriculture (USDA)",
+      "c": "Food and Drug Administration (FDA)",
+      "d": "Environmental Protection Agency (EPA)"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **Food and Drug Administration (FDA)**—specifically its Center for Biologics Evaluation and Research (CBER)—holds strict regulatory authority over the approval, manufacturing, and marketing of all biologics, human drugs, vaccines, blood products, and gene therapies in the United States. They enforce clinical trial standards to guarantee the drug is safe and effective for patients.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Biotechnology",
+    "topic": "FDA, EPA, OSHA, USDA",
+    "question_text": "An agricultural biotechnology firm has engineered a new transgenic variety of wheat that expresses extreme drought tolerance. Prior to planting this experimental crop in an open-air field test, the firm must secure an environmental release permit. Which federal agency acts as the primary regulator for the open release of genetically engineered plants to ensure they do not pose a \"plant pest\" risk to national agriculture?",
+    "options": {
+      "a": "FDA (Food and Drug Administration)",
+      "b": "USDA (United States Department of Agriculture)",
+      "c": "OSHA (Occupational Safety and Health Administration)",
+      "d": "CDC (Centers for Disease Control and Prevention)"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **United States Department of Agriculture (USDA)**, specifically through its Animal and Plant Health Inspection Service (APHIS), is tasked with protecting US agriculture. \n\nThey legally regulate the importation, interstate movement, and field testing (environmental release) of any genetically engineered organism that could potentially act as a \"plant pest\" or disrupt the health of existing agricultural ecosystems and native plant varieties.",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Biotechnology",
+    "topic": "FDA, EPA, OSHA, USDA",
+    "question_text": "A synthetic biology startup engineers a highly customized strain of *Pseudomonas putida* capable of rapidly degrading toxic industrial plastics. The startup intends to spray hundreds of gallons of these live, recombinant bacteria directly into a polluted municipal river. Which federal agency holds primary jurisdiction over the environmental release of novel, engineered microbes intended for bioremediation or pesticidal use?",
+    "options": {
+      "a": "EPA (Environmental Protection Agency)",
+      "b": "FDA (Food and Drug Administration)",
+      "c": "USDA (United States Department of Agriculture)",
+      "d": "OSHA (Occupational Safety and Health Administration)"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Under the Toxic Substances Control Act (TSCA), the **Environmental Protection Agency (EPA)** regulates the commercial use and environmental release of \"intergeneric\" (recombinant) microorganisms. \n\nBecause the startup is planning a massive, open-water release of a modified organism designed to break down chemicals, the EPA must first evaluate its potential toxicity and broader ecological impact before approving the bioremediation effort.",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Biotechnology",
+    "topic": "FDA, EPA, OSHA, USDA",
+    "question_text": "A clinical diagnostic laboratory performs hundreds of high-throughput ELISA tests on human blood serum every day. To protect laboratory technicians from exposure to HIV and Hepatitis B, the facility requires the strict use of localized biosafety cabinets and rigorously enforced PPE policies. These specific workplace safety standards and bloodborne pathogen protocols are legally mandated and inspected by which federal entity?",
+    "options": {
+      "a": "FDA",
+      "b": "USDA",
+      "c": "OSHA",
+      "d": "EPA"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **Occupational Safety and Health Administration (OSHA)** is the federal agency dedicated exclusively to ensuring safe and healthy working conditions for employees. \n\nWithin biotechnology, OSHA enforces standards regarding chemical hazard communication, emergency safety equipment, the use of Personal Protective Equipment (PPE), and strict adherence to the Bloodborne Pathogens Standard to protect lab workers from occupational exposures.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Biotechnology",
+    "topic": "FDA, EPA, OSHA, USDA",
+    "question_text": "In the United States, the \"Coordinated Framework for the Regulation of Biotechnology\" dictates how federal agencies oversee biotechnology products. If a company develops a genetically modified tomato that is specifically engineered to internally produce a novel bacterial insecticide, how is regulatory jurisdiction typically handled before this product hits grocery store shelves?",
+    "options": {
+      "a": "Only the USDA evaluates the product since it is fundamentally an agricultural crop.",
+      "b": "Jurisdiction is strictly separated; the company randomly chooses one agency to submit their dossier to.",
+      "c": "The product is simultaneously regulated by the USDA, the EPA, and the FDA due to overlapping jurisdictions.",
+      "d": "A new, specialized \"Biotech Oversight Board\" takes complete control, superseding the FDA, EPA, and USDA entirely."
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "The US Coordinated Framework is famously complex because jurisdiction is based on the *intended use* and *characteristics* of the final product, which often results in overlapping authority. \n\nA pesticidal GM food crop falls under all three primary agencies: \n1. **USDA**: Must ensure it is safe to grow agriculturally without becoming a weed/pest. \n2. **EPA**: Must evaluate the safety of the built-in pesticide for the broader environment. \n3. **FDA**: Must evaluate whether the final modified tomato is biochemically safe for human consumption.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Biotechnology",
+    "topic": "FDA, EPA, OSHA, USDA",
+    "question_text": "A large pharmaceutical corporation produces a highly purified, recombinant insulin for human use. During a surprise facility inspection, an auditor notes that the corporation is repeatedly failing to properly document its equipment cleaning logs, thereby violating Current Good Manufacturing Practices (cGMP). Which agency conducts these inspections and possesses the legal authority to halt the sale of this biologic drug?",
+    "options": {
+      "a": "The Environmental Protection Agency (EPA)",
+      "b": "The Food and Drug Administration (FDA)",
+      "c": "The Centers for Disease Control and Prevention (CDC)",
+      "d": "The Occupational Safety and Health Administration (OSHA)"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **FDA** establishes, updates, and legally enforces Current Good Manufacturing Practices (cGMP) for all human and veterinary pharmaceuticals, biologics, and medical devices under Title 21 of the Code of Federal Regulations (CFR). \n\nFDA investigators routinely conduct unannounced audits of biomanufacturing facilities. If they find gross deviations from cGMP (like missing logs or adulterated products), they have the immediate authority to issue warning letters (Form 483), seize products, or entirely shut down manufacturing.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Biotechnology",
+    "topic": "FDA, EPA, OSHA, USDA",
+    "question_text": "While reviewing facility compliance, a biotechnology manager must separate federal directives based on the targeted protected population. Which statement accurately distinguishes the primary regulatory missions of the FDA and OSHA within a pharmaceutical manufacturing plant?",
+    "options": {
+      "a": "The FDA acts to protect the final consumer from unsafe drugs, whereas OSHA acts to protect the facility employees from workplace hazards.",
+      "b": "OSHA acts to protect the final consumer from unsafe drugs, whereas the FDA acts to protect the facility employees from workplace hazards.",
+      "c": "The FDA regulates the proper disposal of environmental chemical waste, whereas OSHA dictates the marketing strategies for the final drug.",
+      "d": "Both agencies share an identical primary mission regarding the enforcement of patient privacy rights under HIPAA."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "This fundamental distinction dictates how a facility prepares for audits. \n\n- The **FDA** acts on behalf of the public/patient (the *end-user* of the product). Their sole focus is ensuring the drug is pure, safe, and effective when taken. \n- **OSHA** acts on behalf of the worker (the *creator* of the product). Their sole focus is ensuring the manufacturing process itself does not injure the employees through chemical exposure, biohazards, or unsafe machinery.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Biotechnology",
+    "topic": "FDA, EPA, OSHA, USDA",
+    "question_text": "An animal health biotechnology company successfully engineers a novel recombinant DNA vaccine designed to protect commercial poultry from a highly pathogenic strain of avian influenza. Which specific federal agency is legally responsible for evaluating and approving the marketing of this veterinary biologic?",
+    "options": {
+      "a": "Food and Drug Administration (FDA)",
+      "b": "United States Department of Agriculture (USDA)",
+      "c": "Environmental Protection Agency (EPA)",
+      "d": "Centers for Disease Control and Prevention (CDC)"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "While the **FDA** regulates human drugs, vaccines, and animal *drugs* (like antibiotics for pets), the **USDA**—specifically the Center for Veterinary Biologics (CVB) under APHIS—holds strict legal authority over veterinary *biologics*. This includes all vaccines, bacterins, and diagnostic kits intended for the treatment or prevention of animal diseases, pursuant to the Virus-Serum-Toxin Act.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Biotechnology",
+    "topic": "Protocol adherence",
+    "question_text": "During a routine cell lysis procedure in a cGMP facility, a technician discovers that extending the designated sonication time by 10 seconds results in a visibly clearer supernatant and potentially higher protein yield. How must the technician proceed regarding the active Standard Operating Procedure (SOP)?",
+    "options": {
+      "a": "Immediately implement the new 10-second extension for all future batches to maximize facility output.",
+      "b": "Maintain the currently written SOP times; if an improvement is desired, they must submit a formal request through the facility's Change Control system.",
+      "c": "Verbally instruct the rest of the laboratory team to add 10 seconds, but leave the official written SOP unchanged.",
+      "d": "Pencil in the new time on the master SOP binder and initial it so operators on the next shift are aware."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "In a regulated cGMP environment, **strict adherence to the approved SOP is an absolute legal requirement**. \n\nOperators cannot unilaterally change a procedure, even if the change appears to improve the process. Unvalidated changes can have catastrophic downstream effects on drug safety or purity. To legally alter a protocol, the technician must submit a formal proposal to the **Change Control** board, which will require rigorous testing, QA review, and official retraining before the SOP is updated.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Biotechnology",
+    "topic": "Protocol adherence",
+    "question_text": "While executing a validated media preparation SOP, a technician realizes they accidentally incubated a heat-sensitive solution at $37^\\circ\\text{C}$ for $45 \\text{ minutes}$ instead of the explicitly stated $30 \\text{ minutes}$. According to strictly regulated laboratory protocols, what is the mandatory immediate action?",
+    "options": {
+      "a": "Record the time as $30 \\text{ minutes}$ in the batch record, since $15 \\text{ minutes}$ is biologically insignificant for media.",
+      "b": "Place the solution in an ice bath for $15 \\text{ minutes}$ to mathematically offset the excess heating time.",
+      "c": "Document the event as a formal Protocol Deviation, notify a supervisor or Quality Assurance, and quarantine the media until its validity is reviewed.",
+      "d": "Discard the current SOP entirely and print a new version from the network drive."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Any failure to follow an SOP exactly as written is classified as a **Protocol Deviation**. \n\nThe technician must never hide or falsify the mistake (Option 'a') or attempt an unauthorized fix (Option 'b'). Under Good Manufacturing Practices (cGMP), the deviation must be documented exactly as it occurred and flagged for review by the **Quality Assurance (QA)** department, who will determine if the media must be discarded or if the deviation had no material impact on product safety.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Biotechnology",
+    "topic": "Protocol adherence",
+    "question_text": "Biomanufacturing facilities rely extensively on Standard Operating Procedures (SOPs) for every aspect of production and analysis. What is the fundamental, primary objective of implementing an SOP for a repetitive analytical assay?",
+    "options": {
+      "a": "To ensure absolute consistency, reproducibility, and uniform quality regardless of which trained operator performs the assay.",
+      "b": "To entirely eliminate the need for supervisory oversight and basic employee training.",
+      "c": "To provide scientists with the underlying theoretical physics equations regarding the assay's mechanism of action.",
+      "d": "To act as a flexible set of suggestions that allow technicians to experiment with new chemical ratios."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The core purpose of a **Standard Operating Procedure (SOP)** is to guarantee **consistency and reproducibility**. \n\nBy providing a highly detailed, step-by-step set of instructions that leaves no room for subjective interpretation, an SOP ensures that whether Technician A performs the assay on Monday or Technician B performs it on Friday, the process is executed identically. SOPs are not flexible suggestions (Option 'd') nor are they theoretical textbooks (Option 'c').",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Biotechnology",
+    "topic": "Controlled documentation & revision management",
+    "question_text": "A biomanufacturing facility upgrades its downstream purification hardware, resulting in the issuance of Revision 03 of the chromatography SOP. Under cGMP Document Control standards, what must explicitly happen to all physical laboratory copies of Revision 02?",
+    "options": {
+      "a": "They must be left in the active laboratory binders so technicians can compare the old method to the new method.",
+      "b": "They must be gathered up, officially retired, and physically removed from active use to prevent accidental execution of the obsolete procedure.",
+      "c": "They must be shipped directly to the regional EPA office for long-term copyright archiving.",
+      "d": "They must be digitally scanned and posted to public scientific preprint servers for peer review."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A critical tenet of **Document Control** is preventing the accidental use of obsolete, unapproved, or recalled procedures. \n\nWhen a new revision is issued (e.g., Revision 03), the Document Control unit must systematically retrieve and remove every single physical copy of Revision 02 from the active floor. The master copy of Revision 02 is stamped \"OBSOLETE\" and securely archived in a restricted QA vault for historical auditing purposes, while floor copies are typically shredded.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Biotechnology",
+    "topic": "Controlled documentation & revision management",
+    "question_text": "Before a newly drafted Standard Operating Procedure (SOP) can transition from \"Draft\" status to \"Effective\" and be utilized on the manufacturing floor, it requires formal routing for signatures. Which internal department serves as the final authority, signing off to legally release the controlled document into circulation?",
+    "options": {
+      "a": "Human Resources (HR)",
+      "b": "Research and Development (R&D)",
+      "c": "Quality Assurance (QA)",
+      "d": "Information Technology (IT)"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "In any regulated FDA/cGMP environment, the **Quality Assurance (QA)** department functions as the independent policing body of the facility. \n\nWhile subject matter experts in R&D or Manufacturing may *author* or technically *review* the document, QA holds the ultimate executive authority. QA's final signature verifies that the SOP complies with all federal regulations and internal quality policies before it is officially released for active use.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Biotechnology",
+    "topic": "Controlled documentation & revision management",
+    "question_text": "To guarantee document integrity in the event that a multi-page SOP is dropped or pages are separated, controlled documentation standards require specific metadata to be printed on every single page (usually in the header or footer). Which combination of elements is mandatory for every page?",
+    "options": {
+      "a": "The author's home address, the facility's tax ID number, and the patent expiration date.",
+      "b": "The unique Document ID number, the current Revision Level, and Pagination (e.g., Page 3 of 5).",
+      "c": "A complete bibliography of scientific references and the exact GPS coordinates of the laboratory.",
+      "d": "The CEO's digital signature, the annual corporate budget, and the daily timestamp."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "To maintain strict **Document Control**, an auditor (or technician) must be able to pick up a single stray piece of paper and immediately know exactly what it belongs to and whether it is complete. \n\nTherefore, every single page of a controlled SOP must display the **Document ID** (identifying the procedure), the **Revision Level** (proving it is the most current version), and strict **Pagination** (e.g., Page 3 of 5) to prove no pages are missing.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Biotechnology",
+    "topic": "Lab notebook entry protocols",
+    "question_text": "A researcher finishes their daily experiment, signs their work, and realizes that the bottom half of their official, bound laboratory notebook page is completely empty. To strictly adhere to legal and intellectual property guidelines, how must the researcher handle this blank space?",
+    "options": {
+      "a": "Leave the space completely blank so they can add tomorrow's data to the same page to save paper.",
+      "b": "Use scissors to cut out the blank half of the page to reduce the physical weight of the notebook.",
+      "c": "Draw a single, solid diagonal line through the blank space, and sign and date across the line.",
+      "d": "Cover the blank space entirely with white-out correction fluid so nothing can be written there."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A laboratory notebook is a legally binding document that can be subpoenaed in court to prove patent priority (who invented what first) or regulatory compliance. \n\nBlank spaces create an opportunity for someone to retroactively and fraudulently add data days or months later. To secure the chronological integrity of the record, researchers must draw a **single diagonal strike-through line** across any significant empty space, accompanied by their **signature (or initials) and the date**, proving the page was sealed exactly when the work was finished.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Biotechnology",
+    "topic": "Lab notebook entry protocols",
+    "question_text": "According to universal Good Documentation Practices (GDP), why is the use of pencils, erasable pens, or water-soluble markers strictly prohibited when recording raw data in an official laboratory notebook?",
+    "options": {
+      "a": "Pencil graphite physically interferes with the highly sensitive electromagnetic sensors inside analytical balances.",
+      "b": "Only data recorded in indelible, permanent ink guarantees that the record cannot be covertly erased, altered, or forged after the initial entry.",
+      "c": "Erasable inks and graphite undergo rapid, explosive chemical reactions when exposed to standard autoclaving temperatures.",
+      "d": "Standard FDA optical scanning software is electronically programmed to ignore non-ink written text."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Good Documentation Practices (GDP) mandate that all scientific and manufacturing records must be permanent and legible. \n\nThe strict requirement for **indelible, permanent ink (usually blue or black)** prevents data falsification. If a pencil is used, a technician could secretly erase failing results and rewrite passing ones, destroying the legal and scientific integrity of the data. Ink ensures that any mistakes made must be formally crossed out, leaving the original data visible and accountable.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Biotechnology",
+    "topic": "Error correction standards",
+    "question_text": "While auditing a colleague's completed batch manufacturing record, a Quality Control inspector observes four distinct physical error corrections. Which of the following corrections is a severe violation of ALCOA+ data integrity principles and Good Documentation Practices (GDP)?",
+    "options": {
+      "a": "A transposed temperature reading ($37^\\circ\\text{C}$ written as $73^\\circ\\text{C}$) that has been violently scribbled over with a heavy black marker so the original \"73\" is completely illegible.",
+      "b": "A wrong date crossed out with a single thin line, with the correct date, the technician's initials, and today's date written clearly beside it.",
+      "c": "A skipped data field crossed out with a single diagonal line, explicitly marked with \"N/A\", and accompanied by a signature.",
+      "d": "A spelling error corrected via a single strike-through line, initialed, dated, and accompanied by the abbreviation \"SE\" (Spelling Error)."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "A core tenet of data integrity is that **the original recorded data must always remain legible**, even if it was completely wrong. \n\nScribbling over an error (Option 'a'), using correction fluid (white-out), or heavily overwriting a number destroys the original data record. This raises immediate red flags to FDA auditors, as it looks like the technician is attempting to hide falsified data. The legally required correction method is always a **single horizontal line** through the error (Option 'b', 'c', and 'd'), so the original mistake is fully transparent.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Biotechnology",
+    "topic": "Error correction standards",
+    "question_text": "A technician reviews their batch manufacturing record from three days ago and notices they failed to record the final pH value, leaving a blank field. They still possess the original printout from the pH meter confirming the exact value. When making the late entry correction in the official record, which date must the technician write next to their signature and the new data?",
+    "options": {
+      "a": "The original date the pH was actually measured, to maintain strict chronological consistency on the page.",
+      "b": "Today's current date (the date the correction is actually being physically written).",
+      "c": "No date is required for late omissions; dates are only required for correcting existing, scribbled mistakes.",
+      "d": "The projected final expiration date of the manufactured biologic."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A paramount rule of Good Documentation Practices (GDP) is **\"never backdate.\"** \n\nIf you discover an omission or an error days later, you must enter the correction alongside your initials and **today's date** (the exact date the pen is touching the paper). Writing the past date constitutes backdating, which is treated by federal auditors as data falsification. A late entry is often accompanied by a brief explanation code (e.g., \"LE\" for Late Entry) to clarify why the date is out of chronological order.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Biotechnology",
+    "topic": "Error correction standards",
+    "question_text": "A laboratory technician notices a minor calculation error in a colleague's official lab notebook while the colleague is away on a two-week vacation. To be helpful and keep the project moving, the technician draws a single line through the error, writes the correct number, and initials it. Why is this specific action a violation of Good Documentation Practices (GDP)?",
+    "options": {
+      "a": "The technician used a single line instead of completely obscuring the original mistaken number.",
+      "b": "An individual is strictly prohibited from altering or correcting another person's official laboratory record without explicit documented authorization.",
+      "c": "Corrections to mathematical calculations must be executed exclusively in red ink.",
+      "d": "Lab notebooks cannot be corrected once they are closed; a completely new page must be started."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "In a regulated environment, an individual is legally responsible for their own data. \n\n**You can only correct your own entries.** Unauthorized personnel—even supervisors—cannot cross out and alter another person's legal record, as this breaks the attribution (the \"A\" in ALCOA+) of the data. If an absent employee's record must be corrected to save a batch, standard GDP requires a supervisor or authorized QA person to document the correction in a separate memo or entry, explicitly stating the original author is unavailable.",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Biotechnology",
+    "topic": "Chain-of-custody tracking",
+    "question_text": "In forensic and clinical biotechnology, what is the primary legal and scientific purpose of maintaining a strict \"Chain of Custody\" document for an evidence or diagnostic sample?",
+    "options": {
+      "a": "To provide the sequential temperature and humidity logs of the incubators where the sample was stored.",
+      "b": "To legally document the unbroken chronological history of a sample's physical possession, transfer, and storage from collection to disposal.",
+      "c": "To track the hierarchy of supervisory signatures required to approve a clinical batch record for commercial release.",
+      "d": "To dictate the specific order in which chemical reagents must be added to the sample during DNA extraction."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Chain of Custody (CoC)** is the chronological documentation that records the sequence of custody, control, transfer, analysis, and disposition of physical evidence or critical samples. \n\nIts sole purpose is to prove beyond a reasonable doubt who possessed the sample at every given second. This guarantees that the sample was never left unattended, tampered with, or swapped, ensuring the integrity of the downstream analytical results (like DNA fingerprinting or drug testing).",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Biotechnology",
+    "topic": "Chain-of-custody tracking",
+    "question_text": "A highly sensitive biopsy sample arrives at the accessioning department of a molecular diagnostics lab. During the processing of this sample, at which of the following moments must the Chain of Custody (CoC) log be officially updated with signatures and timestamps?",
+    "options": {
+      "a": "Only when the sample initially arrives at the building, and once more when the final results are mailed out.",
+      "b": "Exactly once every 24 hours while the sample remains in the facility, regardless of who interacts with it.",
+      "c": "Every single time physical possession of the sample transfers from one person to another, or when it is moved in or out of a secure storage unit.",
+      "d": "Only if the sample is physically shipped via a third-party courier (like FedEx) between different states."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Chain of Custody requires a continuously updated trail of accountability. \n\nAny time a sample changes hands (e.g., Technician A hands it to Technician B) or changes location (e.g., Technician B places it into the locked $-80^\\circ\\text{C}$ freezer), the log must be signed and time-stamped. This ensures there are absolutely no unexplained \"gaps\" in the timeline where the sample could have been accessed by unauthorized personnel.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Biotechnology",
+    "topic": "Chain-of-custody tracking",
+    "question_text": "A forensic laboratory receives a blood sample for high-profile DNA testing. A technician extracts the DNA on Friday evening, but forgets to sign the Chain of Custody (CoC) form before locking the sample in the freezer for the weekend. The following Monday, the technician realizes the mistake and retroactively signs the log. In a court of law, what is the most likely outcome of this specific documentation failure?",
+    "options": {
+      "a": "The evidence may be deemed legally inadmissible and thrown out because the unbroken chronological integrity of possession cannot be verified.",
+      "b": "The DNA test results will be considered mathematically flawless regardless of the paperwork, due to the extreme cold storage.",
+      "c": "The technician will be required to sequence the DNA twice to mathematically compensate for the documentation gap.",
+      "d": "The court will automatically substitute the missing CoC signature with the laboratory director's digital signature."
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "If the Chain of Custody is broken—meaning there is an undocumented gap in time where the sample's whereabouts or handler cannot be proven—the legal integrity of the sample is destroyed. \n\nEven if the scientific analysis was performed flawlessly, the opposing legal counsel can successfully argue that the sample could have been tampered with or swapped during that undocumented weekend. In forensics and heavily regulated diagnostics, a broken CoC usually renders the evidence completely **inadmissible**.",
+    "section_id": null
+  }
+]

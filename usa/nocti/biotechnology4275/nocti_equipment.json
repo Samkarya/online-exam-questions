@@ -1,0 +1,370 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Biotechnology",
+    "topic": "Micropipettes (first/second stop)",
+    "question_text": "When aspirating a $25 \\ \\mu\\text{L}$ sample of buffer using a P200 micropipette, at what specific point in the procedure should the technician depress the plunger to the **first stop**?",
+    "options": {
+      "a": "Before submerging the pipette tip into the source liquid.",
+      "b": "Immediately after submerging the pipette tip deep into the source liquid.",
+      "c": "Only when attempting to expel the liquid into the destination tube.",
+      "d": "After drawing the liquid up, to push out any accidentally trapped air bubbles."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Correct pipetting technique requires depressing the plunger to the **first stop** (the point of initial resistance) *before* the tip enters the liquid. \n\nPushing to the first stop displaces exactly the calibrated volume of air ($25 \\ \\mu\\text{L}$ in this case). Once the tip is submerged, the plunger is slowly released, creating a vacuum that draws exactly $25 \\ \\mu\\text{L}$ of liquid into the tip. If you depress the plunger *after* submerging (Option 'b'), you will blow air bubbles into the sample, which can cause foaming or spillover.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Biotechnology",
+    "topic": "Micropipettes (first/second stop)",
+    "question_text": "During the dispensing phase of micropipetting, what is the specific mechanical purpose of depressing the plunger past the initial resistance point to the **second stop**?",
+    "options": {
+      "a": "To draw the precise target volume of liquid up into the tip.",
+      "b": "To eject the contaminated plastic pipette tip directly into the biohazard waste bin.",
+      "c": "To violently mix the contents of the destination tube by bubbling air through the solution.",
+      "d": "To force a final blast of air through the tip, expelling any residual liquid clinging to the inside."
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "The **second stop** on a micropipette is specifically designed for the \"blow-out\" phase. \n\nWhen dispensing, the technician depresses the plunger to the first stop, which pushes out the measured liquid. However, due to surface tension, a tiny droplet often remains inside the very end of the plastic tip. Pushing all the way down to the second stop forces a final surge of air through the tip, blowing out that last residual drop and ensuring the complete, accurate volume is delivered. \n> Option 'b' describes the tip ejector button, not the plunger.",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Biotechnology",
+    "topic": "Micropipettes",
+    "question_text": "A technician needs to measure exactly $14.5 \\ \\mu\\text{L}$ of a DNA polymerase master mix. They select a P20 micropipette (which measures from $2 \\ \\mu\\text{L}$ to $20 \\ \\mu\\text{L}$). When adjusting the volume dial, what digits should appear on the three-digit vertical display window (read from top to bottom)?",
+    "options": {
+      "a": "Top: **1**, Middle: **4**, Bottom: **5**",
+      "b": "Top: **0**, Middle: **1**, Bottom: **4** (with the dial turned halfway to 5)",
+      "c": "Top: **1**, Middle: **4**, Bottom: **0**",
+      "d": "Top: **1**, Middle: **4**, Bottom: **5** (with a zero implied at the end for thousands)"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "To correctly set a micropipette, you must know what order of magnitude the top digit represents. \n\nOn a **P20 micropipette**, the maximum volume is $20.0 \\ \\mu\\text{L}$. \n- The top digit represents **tens**.\n- The middle digit represents **ones**.\n- The bottom digit (often colored red or separated by a horizontal line) represents **tenths** ($0.1 \\ \\mu\\text{L}$).\nTherefore, to dial in $14.5 \\ \\mu\\text{L}$, the window must explicitly read 1 (tens), 4 (ones), 5 (tenths).",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Biotechnology",
+    "topic": "Micropipettes",
+    "question_text": "A student researcher requires $1,150 \\ \\mu\\text{L}$ of sterile water for a dilution. To save time from performing two separate pipetting steps, they take a standard P1000 micropipette and forcibly crank the volume dial up past its maximum limit to read '115'. What is the most severe consequence of this action?",
+    "options": {
+      "a": "The pipette will accurately dispense $1,150 \\ \\mu\\text{L}$, but the tip will heavily overflow, contaminating the barrel.",
+      "b": "The internal piston mechanism will break or strip, permanently destroying the calibration and accuracy of the instrument.",
+      "c": "The internal HEPA filter will rupture due to over-pressurization.",
+      "d": "The instrument will automatically switch to a low-viscosity continuous-flow mode."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Micropipettes are highly sensitive, precision-machined instruments. \n\nCranking the dial beyond the manufacturer's maximum (or minimum) stated volume forces the internal threaded piston outside of its physical design limits. This strips the gears, jams the spring mechanism, and completely destroys the calibration. A P1000 cannot safely draw or measure above $1000 \\ \\mu\\text{L}$ under any circumstances; the technician must either use a larger device (like a serological pipette) or perform two separate pipetting actions.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Biotechnology",
+    "topic": "Graduated cylinders, serological pipettes",
+    "question_text": "When utilizing a sterile $10 \\text{ mL}$ serological pipette and a motorized pipette controller to transfer mammalian cell culture media, which of the following operational practices ensures the media remains uncontaminated and the controller functions properly?",
+    "options": {
+      "a": "Drawing the liquid up extremely rapidly until it deliberately saturates the cotton plug at the top of the pipette.",
+      "b": "Keeping the pipette in a perfectly vertical orientation and ensuring the liquid never touches the internal cotton filter plug.",
+      "c": "Removing the cotton plug with sterile forceps prior to the draw to prevent air bubbles from forming in the media.",
+      "d": "Inverting the pipette completely once filled to thoroughly mix the media before dispensing."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Serological pipettes are equipped with a cotton filter plug at the top specifically to act as a barrier, preventing aerosols or fluid from entering and destroying the motorized pipette controller. \n\nIf the technician allows liquid to rise too high and wet the cotton plug (Option 'a'), the filter is ruined, liquid is pulled into the motorized pump (causing cross-contamination and mechanical failure), and the pipette itself loses accurate calibration. The device must be held vertically (Option 'b') to safely control the meniscus and avoid splashing the filter.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Biotechnology",
+    "topic": "Graduated cylinders, serological pipettes",
+    "question_text": "A technician is dispensing $5.0 \\text{ mL}$ of an enzyme reagent using a glass serological pipette that features two prominent frosted rings etched near the mouthpiece. What do these specific etched rings indicate regarding the required dispensing technique?",
+    "options": {
+      "a": "The pipette is classified \"To Contain\" (TC) and must be rigorously rinsed with solvent to yield the true volume.",
+      "b": "It is a \"blow-out\" pipette, meaning the remaining drop of liquid in the tip must be forcefully expelled to deliver the full calibrated volume.",
+      "c": "The pipette is constructed from heat-tempered borosilicate glass and is safe for direct open-flame sterilization.",
+      "d": "The liquid must be allowed to drain exclusively by natural gravity without any applied air pressure."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Volumetric glassware uses standardized visual cues. \n\nOne or two **frosted (or etched) bands** near the upper end of a serological pipette indicate that it is a **\"blow-out\" pipette** (often marked \"To Deliver\" or TD). Because the volume graduations run all the way down to the very tip, simply letting gravity drain the liquid will leave a final unmeasured drop trapped by capillary action. The technician must use a bulb or motorized controller to push a final blast of air through the tip to \"blow out\" that last drop to achieve the true $5.0 \\text{ mL}$ volume.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Biotechnology",
+    "topic": "Graduated cylinders, serological pipettes",
+    "question_text": "A laboratory technician must prepare exactly $1.00 \\text{ Liter}$ of a highly accurate $1\\times$ Phosphate Buffered Saline (PBS) solution from a solid powder. To dissolve the powder and bring the total final volume to exactly $1000 \\text{ mL}$ with the highest degree of quantitative precision, which piece of glassware is uniquely engineered for this specific task?",
+    "options": {
+      "a": "A $1000 \\text{ mL}$ Griffin beaker",
+      "b": "A $1000 \\text{ mL}$ Erlenmeyer flask",
+      "c": "A $1000 \\text{ mL}$ Volumetric flask",
+      "d": "A $1000 \\text{ mL}$ Graduated cylinder"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **volumetric flask** features a wide base for mixing and a highly narrowed, elongated neck with a single precisely etched calibration mark. \n\nBecause the neck is so narrow, the meniscus is extremely distinct, allowing for an incredibly precise measurement of a single specified volume (e.g., $1000 \\text{ mL}$). Beakers and Erlenmeyer flasks (Options 'a' and 'b') are meant for mixing or boiling, and their markings are only estimates (usually $\\pm 5\\%$ error). Graduated cylinders (Option 'd') are accurate for transferring varying amounts of liquid, but not as highly calibrated as a volumetric flask for making standard solutions.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Biotechnology",
+    "topic": "Meniscus reading & volume adjustment",
+    "question_text": "When measuring an aqueous solution in a standard glass graduated cylinder, surface tension causes the liquid to \"climb\" the walls, forming a concave curve known as a meniscus. To achieve a valid volumetric reading, where exactly should the technician visually align the measurement marking?",
+    "options": {
+      "a": "At the highest edge where the liquid physically touches the glass wall.",
+      "b": "Exactly in the midpoint between the upper edge and the bottom curve.",
+      "c": "At the absolute lowest point (the center) of the meniscus, viewing the curve strictly at eye level.",
+      "d": "At the upper edge of the meniscus while looking down into the cylinder from a $45^\\circ$ angle."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Aqueous solutions \"wet\" glass, pulling the edges of the liquid up due to adhesion and forming a concave meniscus. \n\nThe true volume of the bulk liquid is determined by reading the **very bottom of the curve**. Furthermore, to avoid a parallax error (an optical illusion that alters the apparent position of the meniscus), the technician must lower their head so the marking is exactly at horizontal **eye level**. Looking from above (Option 'd') will result in an artificially high reading.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Biotechnology",
+    "topic": "Meniscus reading & volume adjustment",
+    "question_text": "While \"bringing to volume\" (q.s.) a $500 \\text{ mL}$ analytical standard solution in a volumetric flask, a technician accidentally dispenses too much distilled water. The bottom of the meniscus is now situated distinctly above the etched calibration line on the flask's neck. What is the mandatory, GLP-compliant corrective action for this overshoot?",
+    "options": {
+      "a": "Use a sterile micropipette to carefully withdraw the excess liquid from the neck until the meniscus drops perfectly down to the line.",
+      "b": "Gently heat the volumetric flask over a Bunsen burner until the excess solvent evaporates.",
+      "c": "Record the volume as roughly $502 \\text{ mL}$ and manually adjust all subsequent molarity calculations on the fly.",
+      "d": "Discard the entire solution and start the preparation completely over from scratch."
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "In analytical chemistry and biomanufacturing, overshooting a volumetric mark fundamentally ruins the known concentration of the solution. \n\nIf you simply withdraw the excess fluid (Option 'a'), you are not just removing water; you are also removing dissolved solute (the standard), irreparably altering the final concentration. Volumetric flasks are calibrated strictly \"To Contain\" (TC) a precise volume, so guessing the overshoot (Option 'c') is invalid. Therefore, the **only** correct action is to discard the batch and remake the solution correctly.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Biotechnology",
+    "topic": "Compound and inverted microscopes",
+    "question_text": "A biomanufacturing facility uses an inverted phase-contrast microscope rather than a standard upright compound microscope in their mammalian cell culture suite. What is the primary functional advantage of the inverted microscope design for monitoring these specific cell cultures?",
+    "options": {
+      "a": "The objective lenses are situated below the stage, allowing the technician to easily view living cells clinging to the bottom of large, thick plastic culture flasks.",
+      "b": "The light source is located beneath the stage, perfectly mimicking a dark-field environment without needing an annular ring.",
+      "c": "It completely flips the image laterally, making it significantly easier for right-handed technicians to physically dissect tissues under the lens.",
+      "d": "It physically shields the ocular eyepieces from intense biological cabinet airflow, preventing the lenses from drying out."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Mammalian cells in culture typically grow as adherent monolayers, sinking to the very bottom of the liquid media and permanently attaching to the thick plastic floor of a cell culture flask (like a T-75). \n\nA standard upright microscope requires placing the glass slide very close to the objective lens on top, which is impossible with a tall, liquid-filled plastic flask. An **inverted microscope** places the light source on top and the **objective lenses underneath the stage**, allowing them to focus directly through the thin bottom of the culture flask onto the living cells attached there.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Biotechnology",
+    "topic": "Compound and inverted microscopes",
+    "question_text": "Which of the following biological specimens would be most appropriately viewed using a standard upright compound light microscope rather than an inverted microscope or a dissecting stereomicroscope?",
+    "options": {
+      "a": "A thick, opaque sample of a whole leaf to visually examine its intact surface topography.",
+      "b": "A living, confluent layer of CHO (Chinese Hamster Ovary) cells submerged under $20 \\text{ mL}$ of liquid media in a plastic T-75 culture flask.",
+      "c": "A chemically fixed and deeply stained section of mammalian liver tissue measuring only $10 \\ \\mu\\text{m}$ thick, mounted flat on a glass slide.",
+      "d": "A macroscopic, intact fruit fly being physically manipulated with fine forceps to sort male and female phenotypes."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **standard upright compound microscope** is designed specifically to transmit light up through a highly transparent, incredibly thin sample mounted on a flat glass slide (Option 'c'). \n\n> Option 'b' describes living cells in a thick plastic flask, which requires an *inverted* microscope (where objectives are below the stage). \n> Options 'a' and 'd' describe macroscopic, solid objects that require reflected light and lower magnification, which are best viewed with a *dissecting stereomicroscope*.",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Biotechnology",
+    "topic": "Total magnification, oil immersion",
+    "question_text": "A microbiologist is observing a Gram-stained smear of *E. coli* utilizing a standard brightfield compound microscope. They are looking through standard $10\\times$ ocular eyepieces and have rotated the turret to engage the high-power $40\\times$ objective lens. What is the **total optical magnification** of the final image reaching the observer's retina?",
+    "options": {
+      "a": "$4\\times$",
+      "b": "$40\\times$",
+      "c": "$400\\times$",
+      "d": "$4,000\\times$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Total magnification in a compound microscope is calculated by multiplying the magnification power of the **ocular lens (eyepiece)** by the power of the **objective lens**. \n\n$$ \\text{Total Magnification} = 10\\times (\\text{Ocular}) \\times 40\\times (\\text{Objective}) = 400\\times $$ \nAt this magnification, the image appears $400$ times larger than its actual size.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Biotechnology",
+    "topic": "Total magnification, oil immersion",
+    "question_text": "When attempting to observe individual bacterial cells, a technician must rotate the turret to the $100\\times$ objective lens and place a single drop of immersion oil directly between the glass slide and the lens. What is the fundamental optical physics principle behind utilizing this specialized oil?",
+    "options": {
+      "a": "The oil shares the same refractive index as glass, preventing the light rays from scattering or bending outward as they pass through the air gap, thus capturing more light into the narrow objective lens.",
+      "b": "The oil inherently acts as a secondary fluid convex lens, magically providing a direct $10\\times$ multiplicative boost to the magnification.",
+      "c": "The oil physically cools the fragile glass slide by dissipating the intense heat generated by the halogen lamp.",
+      "d": "The oil selectively absorbs and filters out the blue wavelengths of light, drastically increasing the structural contrast of Gram-negative bacteria."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The resolution of a microscope at extreme magnifications is severely limited by the refraction (bending) of light as it transitions from the glass slide into the less dense air. \n\n**Immersion oil** has roughly the exact same **refractive index** ($\\approx 1.51$) as the glass slide and the objective lens. By creating a continuous physical bridge of oil, the light rays travel straight through the slide, into the oil, and up into the lens without scattering, which massively increases the resolution and clarity of the image at $1000\\times$ total magnification.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Biotechnology",
+    "topic": "Total magnification, oil immersion",
+    "question_text": "Following a microscopy session using the $100\\times$ oil immersion objective, strict optical care protocols dictate that the lens must be immediately and thoroughly cleaned. Which material represents the **only** acceptable item a technician should use to wipe the immersion oil off the objective lens?",
+    "options": {
+      "a": "A standard laboratory paper towel moistened lightly with warm, deionized water.",
+      "b": "A coarse industrial Kimwipe specifically engineered for scrubbing acidic benchtop spills.",
+      "c": "High-quality, non-abrasive optical lens paper, utilized either dry or with specialized lens cleaning solution.",
+      "d": "A highly concentrated $70\\%$ ethanol wipe commonly used to sterilize biological safety cabinets."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Microscope objective lenses feature incredibly delicate, highly engineered optical anti-reflective coatings. \n\nUsing paper towels, bench wipes, or aggressive solvents will easily scratch these microscopic coatings and permanently ruin the optical clarity of a very expensive lens. The **only** appropriate material for cleaning microscope optics is specially manufactured **lens paper**, optionally paired with a manufacturer-approved optical lens cleaning fluid.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Biotechnology",
+    "topic": "Spectrophotometers",
+    "question_text": "Prior to analyzing the absorbance of a colorimetric protein assay (such as a Bradford assay) in a spectrophotometer, a technician must first \"blank\" or \"zero\" the machine utilizing a cuvette that contains the assay buffer and reagent, but completely lacks the target protein. What is the core scientific purpose of this mandatory blanking step?",
+    "options": {
+      "a": "To intentionally maximize and test the total output wattage of the spectrophotometer's tungsten lamp.",
+      "b": "To mathematically deduct the background absorbance caused by the solvent, the dye, and the plastic cuvette itself, ensuring the final reading represents solely the protein.",
+      "c": "To calibrate the wavelength selection dial to ensure the internal diffraction grating is actively isolating the correct spectrum of light.",
+      "d": "To saturate the detector's photomultiplier tube, pushing it into its maximum operational linear sensitivity range."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A spectrophotometer simply measures the amount of light that makes it through a cuvette. \n\nHowever, the plastic of the cuvette, the water, and the chemical reagents themselves inherently absorb a small fraction of light. By inserting a **\"blank\"**, the technician tells the machine's software to read that background interference and mathematically set it to $0.000 \\text{ Absorbance}$. This ensures that when the real sample is inserted, any positive reading is exclusively attributed to the presence of the target protein, not the background materials.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Biotechnology",
+    "topic": "Spectrophotometers",
+    "question_text": "A researcher wishes to quickly determine both the concentration and purity of a freshly extracted batch of plasmid DNA without running an agarose gel. To do this using a UV-Vis spectrophotometer (such as a NanoDrop), the researcher must measure the sample's peak absorbance. What specific ultraviolet wavelength is internationally standardized for detecting nucleic acids?",
+    "options": {
+      "a": "$260 \\text{ nm}$",
+      "b": "$280 \\text{ nm}$",
+      "c": "$595 \\text{ nm}$",
+      "d": "$600 \\text{ nm}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "In molecular biology, different macromolecules absorb light maximally at very specific wavelengths across the spectrum. \n\nNucleic acids (DNA and RNA) strongly absorb ultraviolet light peaking specifically at **$260 \\text{ nm}$**, due to the resonance in their purine and pyrimidine nitrogenous bases. \n> **$280 \\text{ nm}$** is the peak absorbance for proteins (due to aromatic amino acids). \n> **$595 \\text{ nm}$** is the visible blue wavelength used in Bradford protein assays. \n> **$600 \\text{ nm}$** is used to measure bacterial culture density ($OD_{600}$).",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Biotechnology",
+    "topic": "Spectrophotometers",
+    "question_text": "A student attempts to measure a purified DNA sample at $260 \\text{ nm}$ using an older cuvette-based UV spectrophotometer. They pipet the DNA into a standard, inexpensive polystyrene (plastic) cuvette and load it into the machine, but the digital display returns a totally saturated error reading of $>3.00 \\text{ Abs}$. Assuming the DNA concentration is actually well within normal testing limits, what physical error caused this assay failure?",
+    "options": {
+      "a": "The double-stranded DNA must be heated to $95^\\circ\\text{C}$ to become single-stranded before any light can successfully pass through the helix.",
+      "b": "The technician utilized an improper calibration blank constructed entirely of dense borosilicate glass.",
+      "c": "Standard polystyrene plastic highly absorbs UV light; a specialized quartz cuvette or UV-transparent plastic must be utilized to transmit light at $260 \\text{ nm}$.",
+      "d": "The DNA sample requires the addition of a visible tracking dye, such as bromophenol blue, to interact properly with the spectrophotometer's laser."
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "The physical material composing a cuvette dramatically impacts its optical properties. \n\nStandard glass and common plastics (like polystyrene) strongly absorb ultraviolet light below $300 \\text{ nm}$. If you put a plastic cuvette into a machine trying to shine $260 \\text{ nm}$ UV light through it, the plastic simply blocks all the light, tricking the machine into reporting an intensely high absorbance. Assays conducted in the UV range strictly require **quartz cuvettes** or specialized UV-transparent acrylic cuvettes, which allow the high-energy wavelengths to pass unimpeded.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Biotechnology",
+    "topic": "pH meters, analytical balances",
+    "question_text": "After successfully utilizing a digital pH meter to adjust the acidity of a Tris-HCl buffer, the laboratory technician must properly clean and store the fragile glass electrode. To actively maintain the electrolytic integrity of the electrode's internal reference junction, how must the glass bulb be stored overnight?",
+    "options": {
+      "a": "Completely dry, exposed to ambient laboratory air on the benchtop to effectively prevent microbial growth.",
+      "b": "Fully immersed in pure, high-resistance deionized (DI) water.",
+      "c": "Fully immersed in a dedicated high-concentration salt storage solution, typically $3 \\text{ M}$ Potassium Chloride (KCl).",
+      "d": "Fully immersed in $100\\%$ absolute ethanol to rapidly dehydrate and sterilize the porous glass matrix."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A pH probe operates via a delicate internal salt solution (usually Potassium Chloride) that interacts with the sample through a microscopic porous junction in the glass bulb. \n\nIf the probe is stored dry (Option 'a'), the bulb cracks and the internal salt dries out, destroying the electrode. If it is stored in DI water (Option 'b'), osmosis will violently pull the ions out of the internal solution, rendering the probe deaf to voltage changes. Therefore, it must be stored in a matching, ion-rich **electrode storage solution** (typically $3 \\text{ M}$ or $4 \\text{ M}$ KCl) to preserve the junction's ionic balance.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Biotechnology",
+    "topic": "pH meters, analytical balances",
+    "question_text": "A quality control technician is operating a highly sensitive analytical balance, attempting to weigh out exactly $1.5000 \\text{ g}$ of a fine chemical powder. The digital readout on the balance is highly unstable, constantly fluctuating randomly between $1.4985 \\text{ g}$ and $1.5032 \\text{ g}$ over a period of three minutes. Which of the following is the most likely physical cause of this measurement instability?",
+    "options": {
+      "a": "The technician inadvertently left the sliding glass draft shield doors open, allowing imperceptible room air currents to strike and push against the weighing pan.",
+      "b": "The ambient laboratory humidity has dropped significantly below $80\\%$, causing the crystalline powder to undergo rapid and violent sublimation.",
+      "c": "The technician foolishly used a lightweight plastic weigh boat instead of a heavy-duty borosilicate glass beaker.",
+      "d": "The specific chemical powder possesses a localized magnetic field that is actively short-circuiting the balance's internal digital motherboard."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Analytical balances are engineered to be sensitive down to fractions of a milligram ($0.0001 \\text{ g}$). \n\nBecause of this extreme sensitivity, the physical downward force of a minor air current (such as HVAC vents, someone walking by, or simply warm air rising) is sufficient to wildly alter the readings on the weighing pan. This is exactly why all analytical balances are encased in a **glass draft shield**, and all measurements must be taken with the sliding doors completely shut to seal out atmospheric disturbances.",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Biotechnology",
+    "topic": "pH meters, analytical balances",
+    "question_text": "A standard operating procedure (SOP) explicitly instructs a researcher to place a clean weigh boat on the balance pan and press the \"Tare\" (or \"Zero\") button prior to adding their powdered chemical. What is the precise quantitative function of executing this \"Tare\" command?",
+    "options": {
+      "a": "It actively recalibrates the balance's internal load cell against standard regional gravity constants based on geographic location.",
+      "b": "It mathematically instructs the balance to subtract the exact empty weight of the container, ensuring only the true net mass of the added chemical is recorded.",
+      "c": "It forces the digital display unit to seamlessly convert internal data from Imperial units (ounces) to standard SI metric units (grams).",
+      "d": "It electrically heats the weighing pan for five seconds to thoroughly evaporate any ambient microscopic moisture condensed on the surface."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "When preparing chemical solutions, scientists need to know the mass of the chemical alone, without including the weight of the plastic weigh boat or beaker holding it. \n\nPressing the **Tare** (or Zero) button electronically subtracts the current mass sitting on the pan, resetting the digital display to exactly $0.000 \\text{ g}$. When the chemical powder is subsequently added to the container, the balance calculates only the newly added net mass, simplifying the procedure and minimizing arithmetic errors.",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Biotechnology",
+    "topic": "Water baths, incubators, autoclaves",
+    "question_text": "Mammalian cell culture incubators are tightly sealed systems typically hooked up to a regulated carbon dioxide ($CO_2$) gas supply, maintaining a constant internal $CO_2$ concentration of exactly $5\\%$. What is the critical physiological and biochemical purpose of this elevated gas level?",
+    "options": {
+      "a": "It acts as the primary carbon source for the cells to perform basic photosynthesis.",
+      "b": "It interacts directly with sodium bicarbonate in the culture media to maintain the precise physiological pH of the fluid.",
+      "c": "It competitively inhibits the growth of strictly aerobic contaminating bacteria and molds.",
+      "d": "It provides the raw gaseous material needed for cellular respiration in the mitochondria."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Mammalian cells in culture require a strict, stable physiological pH (typically around $7.4$). \n\nTo achieve this, cell culture media is heavily buffered with **sodium bicarbonate**. When exposed to a specific concentration of atmospheric $CO_2$ (usually $5\\%$), the $CO_2$ dissolves into the liquid, forming carbonic acid, which balances the bicarbonate buffer system. If the $CO_2$ levels drop, the media rapidly becomes overly alkaline, turning purple and quickly killing the delicate cells.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Biotechnology",
+    "topic": "Water baths, incubators, autoclaves",
+    "question_text": "An autoclave utilizes high-pressure saturated steam (typically $15 \\text{ psi}$ and $121^\\circ\\text{C}$) to perform laboratory sterilization. Biologically, what is the primary mechanism by which this high-temperature, high-moisture environment reliably destroys highly resistant bacterial endospores?",
+    "options": {
+      "a": "It physically ruptures the bacterial cell wall via hypertonic osmotic shock.",
+      "b": "It completely oxidizes the outer lipid membrane into a brittle, carbonized ash.",
+      "c": "It causes the rapid, irreversible denaturation and coagulation of all internal cellular proteins and essential enzymes.",
+      "d": "It forces lethal heavy metal ions from the stainless steel chamber directly into the microbial cytoplasm."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Autoclaving is the gold standard of \"moist heat\" sterilization. \n\nMoist heat efficiently transfers thermal energy directly to the biological molecules. The extreme heat and moisture break hydrogen bonds, causing the rapid, irreversible **denaturation and coagulation (clumping) of cellular proteins** and enzymes. This is the exact same chemical process that occurs when frying a liquid egg white into a solid mass. \n> Oxidation (burning to ash) is the mechanism of *dry heat* sterilization (like a Bunsen burner flame).",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "Biotechnology",
+    "topic": "Water baths, incubators, autoclaves",
+    "question_text": "When reviving a cryopreserved mammalian cell line stored in liquid nitrogen, the standard protocol dictates that the cryogenic vial must be plunged directly into a $37^\\circ\\text{C}$ circulating water bath. What is the biophysical reasoning for ensuring this thawing process is as rapid as possible?",
+    "options": {
+      "a": "To prevent the extracellular cryoprotectant (e.g., DMSO) from prematurely vaporizing and causing a sudden vacuum.",
+      "b": "To minimize the time cells spend in the critical temperature zone where jagged, lethal intracellular ice crystals can reform and expand.",
+      "c": "To quickly activate the heat-shock proteins required to instantly restart cellular mitosis.",
+      "d": "To rapidly expand the plastic walls of the cryogenic vial, preventing it from violently shattering under pressure."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "A core tenet of mammalian cell culture is: **\"Freeze slow, thaw fast.\"** \n\nWhen thawing cells, they pass through a highly dangerous intermediate temperature range (between $-50^\\circ\\text{C}$ and $0^\\circ\\text{C}$). In this \"danger zone,\" microscopic ice crystals can undergo recrystallization, fusing together to form massive, sharp ice shards that easily spear and rip open the delicate cellular membranes. Rapidly immersing the vial in a $37^\\circ\\text{C}$ water bath accelerates the cells past this zone so fast that lethal ice structures do not have time to form.",
+    "section_id": null
+  }
+]

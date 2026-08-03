@@ -1,0 +1,306 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Biotechnology",
+    "topic": "OSHA compliance",
+    "question_text": "A newly hired biomanufacturing employee is instructed by their manager to transfer a gallon of highly concentrated hydrochloric acid (HCl). The employee refuses, stating they have not yet received any training on the specific hazards of this chemical. Under the OSHA Hazard Communication Standard (often called the \"Right-to-Know\" law), which of the following statements is legally accurate?",
+    "options": {
+      "a": "The employee can be legally terminated immediately for insubordination, as training is only required for biologics, not standard chemistry lab reagents.",
+      "b": "The employer is legally obligated to provide comprehensive safety training and immediate access to the Safety Data Sheet (SDS) for HCl before the employee handles the chemical.",
+      "c": "The employee is solely responsible for researching chemical hazards on their own time at the local library before accepting the laboratory position.",
+      "d": "Federal hazardous chemical regulations apply only to state-run universities, not to private, for-profit biomanufacturing companies."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The core tenet of the **OSHA Hazard Communication Standard (HCS)** is the employee's \"Right to Know.\" \n\nBy federal law, employers are **strictly mandated** to provide comprehensive hazard training and unhindered access to Safety Data Sheets (SDSs) for *all* hazardous chemicals present in the workplace *before* an employee is exposed to or asked to handle them. The employer bears the burden of ensuring safety communication, not the employee.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Biotechnology",
+    "topic": "OSHA compliance",
+    "question_text": "A technician prepares a $1.0 \\text{ M}$ solution of Sodium Hydroxide (NaOH) from powder and stores it in a $500 \\text{ mL}$ secondary spray bottle for benchtop use over the next few weeks. According to OSHA Secondary Labeling standards (such as the GHS system), which of the following combinations of information is absolutely required on the newly filled spray bottle?",
+    "options": {
+      "a": "The exact date the raw chemical powder was originally purchased from the supplier.",
+      "b": "Only the chemical formula ($NaOH$); words are optional for experienced chemists.",
+      "c": "The full chemical name (\"Sodium Hydroxide\"), the concentration, and the primary hazard warnings (e.g., \"Corrosive\").",
+      "d": "A complete 16-section printed Safety Data Sheet (SDS) folded and taped physically to the outside of the bottle."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "When transferring a hazardous chemical from a manufacturer's primary container into a **secondary container** (like a spray bottle or Erlenmeyer flask) that will be used by multiple people or over multiple days, OSHA mandates strict labeling. \n\nThe secondary label must contain, at a minimum: \n1. The **full identity** of the chemical (no abbreviations or just formulas, so Option 'b' is wrong). \n2. The **hazard warnings** (words or pictograms indicating corrosivity, flammability, etc.). \nWhile writing the concentration and the preparer's initials is an industry best practice, hiding the identity behind an unreadable formula is an OSHA violation.",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Biotechnology",
+    "topic": "OSHA compliance",
+    "question_text": "While carrying a large glass Winchester bottle of phenol, a laboratory worker slips on a wet floor, breaking the bottle and severely chemically burning their leg. An ambulance is called, and the worker is immediately admitted to the local hospital as an inpatient. Under strict OSHA regulations, what is the employer's legal timeline for reporting this severe workplace injury?",
+    "options": {
+      "a": "The incident must be formally reported to OSHA within $24 \\text{ hours}$ of the inpatient hospitalization.",
+      "b": "The incident must be reported at the end of the fiscal quarter during the mandatory annual safety audit.",
+      "c": "Reporting to the government is entirely voluntary unless the employee decides to file a civil lawsuit.",
+      "d": "The incident must be reported within exactly $30 \\text{ days}$ to avoid severe monetary fines."
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "OSHA mandates highly accelerated reporting timelines for severe workplace incidents. \n\nBy law, employers must report any work-related **inpatient hospitalization, amputation, or loss of an eye within 24 hours**. \nFurthermore, if the workplace incident results in an employee **fatality**, the employer must report it to OSHA within a drastically shortened window of just **8 hours**.",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Biotechnology",
+    "topic": "Chemical hazard classification & handling",
+    "question_text": "A technician needs to prepare a highly dilute sulfuric acid ($H_2SO_4$) solution by mixing a volume of $18 \\text{ M}$ concentrated acid stock with distilled water. Due to the extreme exothermic nature of this reaction, which of the following describes the only safe and widely accepted procedural sequence for mixing these two liquids?",
+    "options": {
+      "a": "Rapidly dump the required volume of water directly into the flask containing the concentrated acid.",
+      "b": "Slowly add the concentrated acid down the side of the flask into the large volume of water while gently stirring.",
+      "c": "Mix the liquids rapidly in a completely sealed, airtight glass vessel to prevent the escape of toxic fumes.",
+      "d": "Heat both liquids to $60^\\circ\\text{C}$ before mixing to prevent thermal shock from shattering the borosilicate glassware."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Mixing strong concentrated acids (like sulfuric or nitric acid) with water generates a massive amount of heat (a highly exothermic reaction). \n\nIf you pour water *into* acid, the water instantly boils on the surface of the dense acid, violently splattering boiling, concentrated acid everywhere. The universal chemistry safety rule is **\"Always Add Acid\"** (or *\"Do as you oughta, add acid to water\"*). By slowly adding the dense acid into the larger pool of water, the massive heat capacity of the water safely dissipates the generated heat.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Biotechnology",
+    "topic": "Chemical hazard classification & handling",
+    "question_text": "A technician encounters a chemical bottle with a National Fire Protection Association (NFPA) 704 \"fire diamond\" label. The blue quadrant on the left side of the diamond contains a boldly printed \"4\". What specific hazard does this quadrant represent, and how severe is the risk?",
+    "options": {
+      "a": "Fire hazard; the chemical is extremely flammable and flashes below $73^\\circ\\text{F}$.",
+      "b": "Health hazard; short exposure to the chemical could cause death or major residual injury.",
+      "c": "Instability hazard; the chemical is highly capable of detonation or explosive decomposition at room temperature.",
+      "d": "Specific hazard; the chemical reacts violently or explosively when exposed to water."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **NFPA 704 diamond** provides a quick, visual warning system for chemical hazards. \n\nIt is divided into four color-coded quadrants, rated on a scale of 0 (no hazard) to 4 (extreme hazard): \n- **Blue (Left)**: Health Hazard ($4 =$ Deadly/Extreme risk). \n- **Red (Top)**: Flammability. \n- **Yellow (Right)**: Instability / Reactivity. \n- **White (Bottom)**: Special Hazards (e.g., Oxidizer, reacts with water).",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Biotechnology",
+    "topic": "Chemical hazard classification & handling",
+    "question_text": "According to standard chemical compatibility and safe laboratory storage protocols, which of the following chemical pairs should **NEVER** be stored together in the same flammable safety cabinet?",
+    "options": {
+      "a": "Methanol and absolute Ethanol",
+      "b": "Concentrated Nitric Acid ($HNO_3$) and absolute Ethanol",
+      "c": "Concentrated Hydrochloric Acid ($HCl$) and concentrated Sulfuric Acid ($H_2SO_4$)",
+      "d": "Solid Sodium Chloride ($NaCl$) and liquid distilled water"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Chemical storage relies heavily on separating incompatible classes to prevent catastrophic reactions. \n\n**Nitric acid** is a potent **oxidizer**. **Ethanol** is a highly volatile **flammable solvent**. Storing strong oxidizers alongside flammables creates a severe fire and explosion risk, as the oxidizer will rapidly fuel combustion. Flammables (like methanol and ethanol) can be stored together, and strong inorganic acids (like HCl and $H_2SO_4$) are often stored together in dedicated, corrosion-resistant acid cabinets.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Biotechnology",
+    "topic": "Storage, compatibility, disposal interpretation",
+    "question_text": "A new reagent arrives with a Globally Harmonized System (GHS) label featuring a specific red-bordered pictogram: a black flame situated directly over a circle (an \"O\" with flames). What specific chemical hazard does this pictogram communicate?",
+    "options": {
+      "a": "It is a highly flammable organic solvent that will ignite at room temperature.",
+      "b": "It is an oxidizing liquid or solid that can readily release oxygen, greatly accelerating fires.",
+      "c": "It is a corrosive agent that will destroy heavy metal structures and cause severe skin burns.",
+      "d": "It is a pressurized gas cylinder that poses a massive explosion hazard if heated."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The GHS standardizes chemical hazard pictograms globally. \n\nThe \"Flame over Circle\" pictogram specifically denotes an **Oxidizer**. Oxidizing chemicals (like hydrogen peroxide, potassium permanganate, or nitric acid) supply their own oxygen to a chemical reaction, meaning they can initiate or massively intensify a fire, even in an oxygen-depleted environment. \n> The standard \"Flame\" (without the circle) denotes flammables (Option 'a').",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Biotechnology",
+    "topic": "Storage, compatibility, disposal interpretation",
+    "question_text": "A technician accidentally splashes an unlabeled, highly alkaline chemical into their eyes. While a coworker immediately escorts them to the plumbed eyewash station, another technician immediately pulls the Safety Data Sheet (SDS) for the suspected chemical. Which specific section of the 16-part SDS must they quickly reference to relay the correct medical response instructions to incoming emergency personnel?",
+    "options": {
+      "a": "Section 1: Identification",
+      "b": "Section 4: First-Aid Measures",
+      "c": "Section 8: Exposure Controls / Personal Protection",
+      "d": "Section 13: Disposal Considerations"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Under the OSHA-mandated GHS format, all Safety Data Sheets feature a strictly standardized 16-section layout. \n\n**Section 4: First-Aid Measures** explicitly outlines the necessary immediate medical response (for eye contact, skin contact, inhalation, and ingestion), as well as any delayed symptoms the responding paramedics or doctors must anticipate. \n> Section 8 covers how to *prevent* the exposure in the first place via PPE and ventilation.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Biotechnology",
+    "topic": "Storage, compatibility, disposal interpretation",
+    "question_text": "While reviewing the Safety Data Sheet (SDS) for a volatile organic solvent (such as Chloroform), a laboratory manager notes that the Permissible Exposure Limit (PEL) is strictly set to $50 \\text{ ppm}$ (parts per million) for an 8-hour shift. Which federal agency establishes and enforces this PEL, and what action must be taken if the ambient laboratory air exceeds this threshold?",
+    "options": {
+      "a": "The EPA; the facility must immediately halt all operations and declare an environmental airborne disaster.",
+      "b": "OSHA; the facility must immediately improve ventilation engineering controls (like fume hoods) or provide certified respiratory PPE to the workers.",
+      "c": "The FDA; the solvent must be legally banned from all pharmaceutical manufacturing and drug formulations.",
+      "d": "The USDA; all agricultural testing within the entire building must be quarantined and destroyed."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **Permissible Exposure Limit (PEL)** is a legally enforceable occupational exposure limit established by the **Occupational Safety and Health Administration (OSHA)**. \n\nIt dictates the maximum amount or concentration of a chemical that a worker may be safely exposed to (usually measured as a Time-Weighted Average over an 8-hour shift). If PELs are exceeded, the employer is legally obligated to implement engineering controls (improving ventilation/fume hoods) or administrative controls, or provide respirators to protect the employees.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Biotechnology",
+    "topic": "Storage, compatibility, disposal interpretation",
+    "question_text": "A laboratory routinely performs DNA extractions utilizing a Phenol-Chloroform-Isoamyl alcohol mixture. When consulting the SDS for disposal instructions, the technician is directed never to pour this solvent down the sink. Based on environmental safety standards and its chemical classification, how must this specific chemical waste be handled?",
+    "options": {
+      "a": "It must be completely sterilized in an autoclave at $121^\\circ\\text{C}$ for $60 \\text{ minutes}$ and then safely poured down the municipal sewer drain.",
+      "b": "It must be collected in a designated, chemically compatible, clearly labeled \"Halogenated Organic Waste\" carboy for subsequent commercial hazardous waste pickup.",
+      "c": "It must be heavily diluted with standard bleach until the color disappears, rendering it totally safe for the standard laboratory sink.",
+      "d": "It must be neutralized with a strong acid to a final pH of 7.0 and then simply allowed to evaporate naturally inside an active fume hood."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Phenol-Chloroform is a highly toxic, volatile organic solvent mixture. \n\nBecause chloroform contains chlorine, it is specifically classified as **halogenated organic waste**. It poses severe environmental hazards and must never be poured down a drain, autoclaved (which would create deadly pressurized gas clouds, negating Option 'a'), or left to evaporate into the atmosphere (illegal dumping, negating Option 'd'). It must be sequestered in a dedicated, heavy-duty halogenated waste container and hauled away by specialized hazardous waste contractors.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Biotechnology",
+    "topic": "Storage, compatibility, disposal interpretation",
+    "question_text": "A researcher needs to know if a specific crystalline chemical reagent will violently polymerize or rapidly release toxic gases when accidentally exposed to atmospheric moisture or direct UV sunlight. Which section of the internationally standardized 16-part Safety Data Sheet (SDS) provides this explicit chemical incompatibility information?",
+    "options": {
+      "a": "Section 2: Hazard(s) Identification",
+      "b": "Section 3: Composition / Information on Ingredients",
+      "c": "Section 10: Stability and Reactivity",
+      "d": "Section 14: Transport Information"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Section 10: Stability and Reactivity** provides critical details on chemical stability. \n\nIt outlines conditions to strictly avoid (like static discharge, heat, vibration, or moisture), incompatible materials (which chemicals it should never touch), and any hazardous decomposition products that might be generated if the chemical degrades over time or burns.",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Biotechnology",
+    "topic": "Emergency showers, eyewash stations",
+    "question_text": "A technician accidentally splashes a dilute basic solution ($0.1 \\text{ M NaOH}$) into their unprotected eyes. They rapidly run to the plumbed facility eyewash station, turn on the water, and hold their eyelids completely open in the stream. What is the standard, OSHA-mandated minimum duration the technician must continuously flush their eyes?",
+    "options": {
+      "a": "$1 \\text{ to } 2 \\text{ minutes}$",
+      "b": "$5 \\text{ minutes}$",
+      "c": "$15 \\text{ minutes}$",
+      "d": "$60 \\text{ minutes}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "According to the American National Standards Institute (ANSI) Z358.1, which is heavily enforced by OSHA, emergency eyewash stations and safety showers must be capable of providing a massive, uninterrupted flow of tepid flushing fluid for a minimum of **15 continuous minutes**. \n\nFlushing for less than 15 minutes significantly increases the risk that trace amounts of the chemical (especially tissue-destroying bases like NaOH) remain trapped deep in the mucous membranes of the eye, continuing to cause permanent thermal and chemical burns.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Biotechnology",
+    "topic": "Emergency showers, eyewash stations",
+    "question_text": "A large volume of a highly corrosive acid accidentally spills off a bench, splashing directly onto a technician's chest and completely soaking through their cotton lab coat into their underlying clothing. The technician immediately steps under the laboratory's emergency safety shower and pulls the overhead activation handle. What is the critical next step the technician must take while standing under the flowing water?",
+    "options": {
+      "a": "Wait patiently for the flowing water to chemically neutralize the acid before attempting to touch or remove any clothing.",
+      "b": "Actively and rapidly remove all contaminated clothing, including the lab coat, shirt, and shoes, while the massive volume of water continues to flush the skin.",
+      "c": "Use a specialized chemical absorbent spill pillow to physically scrub the acid off the fabric while remaining under the water.",
+      "d": "Turn off the water after exactly 30 seconds to prevent environmental runoff from flooding the laboratory floor, then gently undress."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "During a massive chemical exposure, contaminated clothing essentially acts as a chemical sponge, pressing the burning agent tightly against the skin. \n\nThe safety shower exists to physically wash the chemical off the body (dilution), but it cannot penetrate heavily soaked clothing quickly enough to stop the burn. The operator must **strip off all contaminated clothing** as rapidly as possible while standing directly under the deluge of the running shower. Privacy is completely secondary to preventing a severe chemical burn.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Biotechnology",
+    "topic": "Emergency showers, eyewash stations",
+    "question_text": "According to strict safety compliance guidelines (such as ANSI Z358.1), plumbed emergency eyewash stations must be mechanically activated and visually inspected by laboratory personnel on a rigid routine schedule. What is the required frequency for this preventative testing, and what is its primary operational purpose?",
+    "options": {
+      "a": "Annually; to test the entire laboratory building's maximum water pressure limits and structural pipe integrity.",
+      "b": "Monthly; to mechanically clear the connected sink drain trap of accidentally dropped pipettes and glassware.",
+      "c": "Weekly; to verify instant mechanical operation and to physically flush out stagnant water, rust, and potentially infectious microbial buildup from the feed pipes.",
+      "d": "Daily; to ensure the internal water temperature rapidly reaches a sterilizing threshold of $100^\\circ\\text{C}$ before use."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Plumbed eyewash stations must be flushed **weekly**. \n\nBecause they are rarely used during normal operations, the \"dead leg\" pipes feeding the station collect stagnant water. This stagnation promotes the growth of dangerous microbes (like *Acanthamoeba* or *Legionella*), as well as the accumulation of sediment and rust. Flushing the station weekly for 1-3 minutes ensures that if a technician splashes acid in their eyes, they are flushing their open wounds with clean water, not a stagnant pool of infectious bacteria.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Biotechnology",
+    "topic": "Chemical fume hoods, biological safety cabinets",
+    "question_text": "Which of the following highly specific laboratory procedures MUST strictly be performed inside a certified Chemical Fume Hood rather than a Class II Biological Safety Cabinet (BSC)?",
+    "options": {
+      "a": "Extracting total RNA from human tissue using a lysis buffer containing a highly volatile and deeply toxic organic solvent like beta-mercaptoethanol.",
+      "b": "Aseptically passaging a fully characterized human HeLa cell line into a new, sterile T-75 culture flask.",
+      "c": "Preparing a standard, non-toxic batch of liquid Luria-Bertani (LB) agar in a glass flask to pour plastic petri dishes.",
+      "d": "Performing a routine polymerase chain reaction (PCR) utilizing totally harmless, synthetic oligonucleotide DNA primers."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "A standard **Class II Biological Safety Cabinet (BSC)** protects the worker and the sample from biological particulates, but it recirculates a portion of the HEPA-filtered air back into the room. Because HEPA filters do *not* capture chemical gases, attempting to evaporate volatile, toxic organics (like beta-mercaptoethanol or chloroform) inside a standard BSC will actively pump toxic fumes directly into the technician's face. \n\nA **Chemical Fume Hood** is hard-ducted, pulling air away from the user and safely exhausting $100\\%$ of the toxic vapors entirely outside the building.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Biotechnology",
+    "topic": "Chemical fume hoods, biological safety cabinets",
+    "question_text": "To ensure a Chemical Fume Hood provides maximum aerodynamic protection to the operator during chemical manipulation, the sliding glass front window (the sash) must be correctly positioned. Where is the absolute safest operational height for the sash during active experimental work?",
+    "options": {
+      "a": "Completely open to the highest possible vertical point, mathematically maximizing the intake of fresh room air.",
+      "b": "Pulled down exactly to the designated, certified operational sticker marking (usually leaving an 18-inch opening).",
+      "c": "Closed completely tight so that the operator is forced to awkwardly reach under the glass frame to manipulate the chemicals.",
+      "d": "Raised to the halfway mark strictly during summer months to help cool the ambient laboratory environment."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A fume hood's protective capability is dictated entirely by its \"face velocity\"—the speed at which air is actively pulled past the technician and into the hood. \n\nIf the sash is wide open (Option 'a'), the face velocity drops, allowing toxic fumes to easily spill out into the room. If it is completely closed, the technician cannot work. Annual safety certifiers mathematically balance the airflow and place a specific **certified operational sticker** on the side of the hood (usually around 18 inches). The sash must remain precisely at this height during work to guarantee safe vapor capture and provide a physical splash barrier to the face.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Biotechnology",
+    "topic": "Chemical fume hoods, biological safety cabinets",
+    "question_text": "A novice technician mistakenly attempts to evaporate a large open beaker of highly toxic, highly volatile chloroform inside a standard Class II Biological Safety Cabinet (BSC) instead of a chemical fume hood. Why does the BSC critically fail to protect the technician's health in this specific scenario?",
+    "options": {
+      "a": "The BSC operates with continuous positive pressure, which forcibly blows the fumes directly outward into the technician's face like a fan.",
+      "b": "The BSC relies entirely on HEPA filters; these filters effortlessly trap physical biological particulates but are completely incapable of capturing or stopping molecular hazardous chemical vapors.",
+      "c": "The BSC lacks the heavy steel structural integrity to withstand the rapid expansion of evaporating solvent, creating an immense explosion risk.",
+      "d": "The BSC continuously utilizes an internal UV Bunsen burner to sterilize the air, which will immediately and catastrophically ignite the chloroform."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Standard Class II BSCs rely exclusively on **High-Efficiency Particulate Air (HEPA) filters**. \n\nHEPA filters are woven webs of fiberglass designed to trap physical *particulates* (like dust, spores, and bacteria) larger than $0.3 \\ \\mu\\text{m}$. Chemical vapors and toxic gases exist at the molecular level, far smaller than the microscopic web of the filter. Therefore, toxic gases flow perfectly unobstructed straight through the HEPA filter and are exhausted right back into the laboratory, poisoning the technician.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Biotechnology",
+    "topic": "Emergency showers, eyewash stations",
+    "question_text": "An aging piece of electrical equipment in the laboratory violently short-circuits, sparking an aggressive electrical fire inside its internal wiring. Which strict classification of fire extinguisher is specifically rated, required, and safe to use when combating an actively energized electrical fire?",
+    "options": {
+      "a": "Class A (Pressurized Water)",
+      "b": "Class B (Chemical Foam)",
+      "c": "Class C (Carbon Dioxide or Dry Chemical)",
+      "d": "Class D (Dry Powder for Combustible Metals)"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Using the wrong fire extinguisher can be fatal. \n\nShooting pressurized water (Class A) or wet foam (Class B) onto an energized electrical fire will conduct the current directly back up the stream of water, severely electrocuting the user. **Class C** extinguishers (often filled with non-conductive Carbon Dioxide or inert dry chemicals) are specifically formulated to smother electrical fires without conducting lethal currents back to the operator.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Biotechnology",
+    "topic": "OSHA compliance",
+    "question_text": "A technician drops a $500 \\text{ mL}$ glass Erlenmeyer flask containing a dense liquid culture of *Staphylococcus aureus* onto the laboratory floor. The glass completely shatters, splashing the biohazardous liquid heavily across the tiles. According to standard biological spill protocols, which sequential set of actions represents the safest and most effective strategy to manage this spill?",
+    "options": {
+      "a": "Immediately pick up the large chunks of broken glass by hand to prevent accidental cuts, then rapidly mop up the liquid utilizing standard industrial dish soap.",
+      "b": "Spray the spill aggressively with $70\\%$ ethanol to rapidly disperse the liquid, then wipe it immediately with a handful of thin paper towels.",
+      "c": "Evacuate the immediate area to let infectious aerosols settle, don appropriate PPE, completely cover the spill with absorbent paper towels, carefully pour $10\\%$ bleach over the towels starting from the outside edge moving inward, wait $20 \\text{ minutes}$, and finally recover the glass using mechanical tongs.",
+      "d": "Activate the building's central fire alarm to trigger the overhead sprinkler system, safely washing the dangerous bacteria down the laboratory floor drains."
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "A massive biological spill in the open laboratory generates a cloud of dangerous microscopic aerosols upon impact. \n\nThe area must first be **vacated for 20-30 minutes** to allow the aerosols to settle. Next, wearing full PPE, the technician covers the spill to prevent further splashing and applies a powerful disinfectant (like **$10\\%$ bleach**) from the perimeter inward. Following a strict **20-minute contact time** to kill the microbes, the mess is cleaned up. Importantly, contaminated sharps (glass) must *never* be touched by hand (negating Option 'a'); they must be scooped up mechanically using tongs or a dustpan.",
+    "section_id": null
+  }
+]
