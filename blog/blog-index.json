@@ -27,7 +27,8 @@
     "author": "The ExamOven Team",
     "excerpt": "Dominate the HOSA Forensic Science event. Get the 2025-2026 guidelines, textbook breakdowns, and take free Round 1 mock exams on ExamOven.",
     "tags": ["HOSA", "Health Science Competition", "Forensic Science", "Nutrition Science", "Exam Prep"],
-    "mdFilePath": "/blog/hosa-forensic-science-study-guide-2026.md"
+    "mdFilePath": "/blog/hosa-forensic-science-study-guide-2026.md",
+    "targetExamId": "hosa-forensic-science"
   },
   {
     "slug": "hosa-nutrition-event-study-guide-2026",
@@ -37,7 +38,8 @@
     "author": "The ExamOven Team",
     "excerpt": "Dominate the HOSA Nutrition event with our 2025-2026 guide. Master the 50-question exam, the clinical tie-breaker essay, and the official textbooks with our proven study plan.",
     "tags": ["HOSA", "Health Science Competition", "Forensic Science", "Nutrition Science", "Exam Prep"],
-    "mdFilePath": "/blog/hosa-nutrition-event-study-guide-2026.md"
+    "mdFilePath": "/blog/hosa-nutrition-event-study-guide-2026.md",
+    "targetExamId": "hosa-nutrition"
   },
   {
     "slug": "panduan-lengkap-materi-ujian-pjok-kelas-5-kurikulum-merdeka-2026",
@@ -47,7 +49,8 @@
     "author": "Tim Penulis Edukasi",
     "excerpt": "Kuasai materi PJOK Kelas 5 SD Kurikulum Merdeka. Panduan mendalam mengenai teknik bola besar, atletik, senam irama, hingga persiapan ujian praktik dan teori untuk nilai rapor sempurna.",
     "tags": ["PJOK", "School Exams", "Study Guides"],
-    "mdFilePath": "/blog/panduan-lengkap-materi-ujian-pjok-kelas-5-kurikulum-merdeka-2026.md"
+    "mdFilePath": "/blog/panduan-lengkap-materi-ujian-pjok-kelas-5-kurikulum-merdeka-2026.md",
+    "targetExamId": "pjok-kelas-5"
   },
   {
     "slug": "cppb-exam-guide-2026",
@@ -57,7 +60,8 @@
     "author": "The ExamOven Team",
     "excerpt": "Preparing for the Certified Professional Public Buyer (CPPB) exam? Discover 2026 test dates, eligibility rules, the updated BoK-C syllabus, and study strategies to pass on your first try.",
     "tags": ["CPPB", "Public Procurement", "Government Purchasing", "UPPCC"],
-    "mdFilePath": "/blog/cppb-exam-guide-2026.md"
+    "mdFilePath": "/blog/cppb-exam-guide-2026.md",
+    "targetExamId": "cppb"
   },
   {
     "slug": "fbla-intro-marketing-2026",
@@ -67,7 +71,8 @@
     "author": "ExamOven Team",
     "excerpt": "50 minutes, 100 questions, a shot at nationals — everything you need to score big on FBLA's Introduction to Marketing Concepts, backed by the official 2025–2026 guidelines.",
     "tags": ["FBLA", "Business Competition", "Marketing Fundamentals", "Exam Prep"],
-    "mdFilePath": "/blog/fbla-intro-marketing-2026.md"
+    "mdFilePath": "/blog/fbla-intro-marketing-2026.md",
+    "targetExamId": "fbla-intro-marketing"
   },
   {
     "slug": "neco-bece-2026-complete-guide",
@@ -77,7 +82,8 @@
     "author": "ExamOven Team",
     "excerpt": "Get all the details on the 2026 NECO BECE (JSS3 exams) including official timetable dates, syllabus requirements, registration deadlines, and grading system.",
     "tags": ["WAEC", "WASSCE", "NECO", "BECE", "Junior WAEC", "Senior Secondary", "Nigerian Education", "Exam Prep"],
-    "mdFilePath": "/blog/neco-bece-2026-complete-guide.md"
+    "mdFilePath": "/blog/neco-bece-2026-complete-guide.md",
+    "targetExamId": "bece"
   },
   {
     "slug": "ielts-2026-complete-guide",
@@ -87,7 +93,8 @@
     "author": "ExamOven Team",
     "excerpt": "Everything you need to know about IELTS in 2026 — including the biggest format change in 35 years, updated fees, syllabus, and a structured prep plan.",
     "tags": ["IELTS", "English Proficiency", "Study Abroad", "Exam Prep"],
-    "mdFilePath": "/blog/ielts-2026-complete-guide.md"
+    "mdFilePath": "/blog/ielts-2026-complete-guide.md",
+    "targetExamId": "ielts"
   },
   {
     "slug": "cat-2026-complete-guide",
@@ -97,7 +104,8 @@
     "author": "ExamOven Team",
     "excerpt": "The CAT 2026 notification is officially out. Confirmed exam date, registration window, fee (which went up this year), eligibility, syllabus, and a phased preparation strategy.",
     "tags": ["CAT","MBA Entrance","IIM","Exam Prep"],
-    "mdFilePath": "/blog/cat-2026-complete-guide.md"
+    "mdFilePath": "/blog/cat-2026-complete-guide.md",
+    "targetExamId": "cat"
   },
   {
     "slug": "act-2026-updated-guide",
@@ -107,7 +115,8 @@
     "author": "ExamOven",
     "excerpt": "The ACT changed significantly in 2025. If you're prepping with old materials, you could be drilling for a test that no longer exists. Here's what's actually true today.",
     "tags": ["ACT", "College Admissions", "Standardized Testing", "Exam Prep"],
-    "mdFilePath": "/blog/act-2026-updated-guide.md"
+    "mdFilePath": "/blog/act-2026-updated-guide.md",
+    "targetExamId": "act"
   },
   {
     "slug": "belgium-medicine-dentistry-exam-2026",
@@ -118,7 +127,8 @@
     "author": "ExamOven",
     "excerpt": "5,294 deliberated, 1,648 admitted in 2025 (31%). Everything about the ARES concours médecine Belgique 2026 — August 27 exam date, 80 MCQs on 160 pts, confirmed negative marking, non-resident quota, syllabus, and preparation strategy.",
     "tags": ["Concours Médecine Belgique", "ARES FWB", "Études de Médecine", "Préparation Concours", "Belgium Medicine Entrance Exam", "ARES exam 2026", "Concours MD Belgium", "medicine entrance exam Belgium", "dentistry entrance exam Belgium"],
-    "mdFilePath": "/blog/belgium-medicine-dentistry-exam-2026.md"
+    "mdFilePath": "/blog/belgium-medicine-dentistry-exam-2026.md",
+    "targetExamId": "examen_médical_et_dentaire"
   },
   {
     "slug": "lso-paralegal-licensing-exam-2026",
@@ -128,7 +138,8 @@
     "author": "ExamOven",
     "excerpt": "Everything you need for the 2026 LSO P1 Paralegal Licensing Exam — confirmed fees ($1,460 + HST), exam dates, format, permitted materials, and a study strategy that actually works. Fact-checked July 2026.",
     "tags": ["LSO", "Paralegal", "P1 Exam", "Law Society of Ontario", "Ontario Licensing"],
-    "mdFilePath": "/blog/lso-paralegal-licensing-exam-2026.md"
+    "mdFilePath": "/blog/lso-paralegal-licensing-exam-2026.md",
+    "targetExamId": "lso_paralegal"
   },
   {
     "slug": "exam-simulator-mock-exam-2026",
@@ -158,7 +169,8 @@
     "author": "ExamOven Team",
     "excerpt": "Looking for the official WASSCE 2026 timetable? Get verified WAEC 2026 exam dates (April 21 – June 19), registration fees (₦37,500), and latest CBT updates. Learn how to pass your exams with tips from the Chief Examiners' Report.",
     "tags": ["WAEC", "WASSCE", "NECO", "BECE", "Junior WAEC", "Senior Secondary", "Nigerian Education", "Exam Prep"],
-    "mdFilePath": "/blog/wassce-2026-official-updates-cbt-dates-fees-guide.md"
+    "mdFilePath": "/blog/wassce-2026-official-updates-cbt-dates-fees-guide.md",
+    "targetExamId": "wassce"
   },
   {
     "slug": "bace-exam-guide",
@@ -169,7 +181,8 @@
     "author": "ExamOven Team",
     "excerpt": "Everything about the Biotechnician Assistant Credentialing Exam (BACE): 116 practice questions, 80% passing score, pass rate details, 8 topic categories, and study guide tips.",
     "tags": ["BACE", "bace exam", "bace certification", "bace practice exam", "bace exam practice test", "bace study guide", "biotechnician assistant credentialing exam", "biotechnology aptitude and competency exam", "Biotility"],
-    "mdFilePath": "/blog/bace-exam-guide.md"
+    "mdFilePath": "/blog/bace-exam-guide.md",
+    "targetExamId": "bace"
   },
   {
     "slug": "examen-medecine-dentisterie-belgique-2026",
@@ -180,7 +193,8 @@
     "author": "ExamOven",
     "excerpt": "5 294 candidats, 1 648 admis en 2025 (31 %). Tout sur le concours médecine Belgique 2026 : date du 27 août à Brussels Expo, 80 QCM sur 160 pts, cotation à points négatifs confirmée, quotas non-résidents, annales PDF et stratégie ARES.",
     "tags": ["Concours Médecine Belgique", "ARES FWB", "Études de Médecine", "Préparation Concours", "Concours Entrée Médecine", "examen d'entrée médecine belgique", "annales concours médecine belgique", "QCM médecine belgique", "concoursmd", "concours dentisterie belgique 2026", "résultats concours médecine 2025"],
-    "mdFilePath": "/blog/examen-medecine-dentisterie-belgique-2026.md"
+    "mdFilePath": "/blog/examen-medecine-dentisterie-belgique-2026.md",
+    "targetExamId": "examen_médical_et_dentaire"
   },
   {
     "slug": "rrb-group-d-2026-exam-date-syllabus-eligibility-guide",
@@ -190,7 +204,8 @@
     "author": "ExamOven Team",
     "excerpt": "Everything confirmed about RRB Group D 2026 — the official CBT dates (Aug 3–21), 22,195 vacancies, age limit, exam pattern, syllabus, PET standards and fees — fact-checked against RRB's July 3, 2026 notice. Also clears up the CEN 09/2025 vs CEN 08/2024 confusion.",
     "tags": ["RRB Group D", "Railway Recruitment", "CEN 09/2025", "Indian Railways", "Government Jobs India", "Level 1 Posts", "Exam Prep"],
-    "mdFilePath": "/blog/rrb-group-d-2026-exam-date-syllabus-eligibility-guide.md"
+    "mdFilePath": "/blog/rrb-group-d-2026-exam-date-syllabus-eligibility-guide.md",
+    "targetExamId": "rrb-group-d"
   },
   {
     "slug": "cat-previous-year-papers-free-mock-test",
@@ -200,7 +215,8 @@
     "author": "ExamOven Team",
     "excerpt": "Free CAT previous year papers (2021–2025) in a real exam-style timed interface — topic-wise practice, negative marking, and instant explanations.",
     "tags": ["CAT", "CAT PYQ", "CAT Mock Test", "Previous Year Papers", "Free Practice", "CAT 2026"],
-    "mdFilePath": "/blog/cat-previous-year-papers-free-mock-test.md"
+    "mdFilePath": "/blog/cat-previous-year-papers-free-mock-test.md",
+    "targetExamId": "cat"
   },
   {
     "slug": "nocti-biotechnology-4275-guide",
@@ -210,6 +226,7 @@
     "author": "ExamOven Team",
     "excerpt": "Picture this: you're standing at a lab bench, gloves on, an agar plate and an inoculating loop in front of you — and a stranger with a clipboard is timing you. That's day one of the performance component of NOCTI Biotechnology, Test Code 4275.",
     "tags": ["NOCTI", "Biotechnology", "CTE Credential", "Perkins V", "Career and Technical Education"],
-    "mdFilePath": "/blog/nocti-biotechnology-4275-guide.md"
+    "mdFilePath": "/blog/nocti-biotechnology-4275-guide.md",
+    "targetExamId": "nocti-biotechnology-4275"
   }
 ]
