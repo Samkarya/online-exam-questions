@@ -1,0 +1,2098 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Office",
+    "question_text": "A place where administrative and clerical duties are performed to achieve the objectives of an organization is referred to as an",
+    "options": {
+      "a": "industry",
+      "b": "market",
+      "c": "office",
+      "d": "establishment"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "An **office** is formally defined as a place, room, or building where administrative, clerical, and information-handling duties are carried out to achieve organizational goals.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Office",
+    "question_text": "According to structural size and capacity, the two main types of offices are",
+    "options": {
+      "a": "open and closed offices",
+      "b": "small and large offices",
+      "c": "private and general offices",
+      "d": "formal and informal offices"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The basic classification of offices based on size and operational scale highlights two main types: **Small office** and **Large office**.",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Office",
+    "question_text": "An office that is typically run by a sole proprietor with very few clerical staff and a simple structure is a",
+    "options": {
+      "a": "large office",
+      "b": "departmental office",
+      "c": "public office",
+      "d": "small office"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "A **small office** is usually characterized by few employees, less floor space, and a simple management structure (often run by a sole proprietor).",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Office",
+    "question_text": "Which of the following is a core clerical function of an office?",
+    "options": {
+      "a": "Manufacturing raw materials",
+      "b": "Constructing new buildings",
+      "c": "Receiving and recording information",
+      "d": "Transporting heavy goods"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The primary functions of an office revolve around information management, which includes **receiving, recording, and processing information**. Manufacturing, construction, and transport are operational/industrial activities.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Office",
+    "question_text": "The following are administrative functions of an office EXCEPT",
+    "options": {
+      "a": "processing information",
+      "b": "cultivating agricultural products",
+      "c": "giving out information",
+      "d": "safeguarding assets"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Processing information, giving out information, and safeguarding assets are core office functions. **Cultivating agricultural products** belongs to the primary (extractive) industry, not office work.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Office",
+    "question_text": "A multinational corporation with hundreds of employees divided into specialized departments operates a",
+    "options": {
+      "a": "large office",
+      "b": "small office",
+      "c": "mobile office",
+      "d": "primary office"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "A **large office** handles a vast volume of work, requires division into specialized departments, and employs many workers.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Office",
+    "question_text": "The division of a large organization into various distinct offices or departments is primarily intended to",
+    "options": {
+      "a": "increase confusion among workers",
+      "b": "avoid paying government taxes",
+      "c": "ensure efficiency and division of labour",
+      "d": "reduce the company's daily profits"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Different offices (like Accounting, Sales, Personnel) exist within a large organization to promote **specialization, division of labour, and overall efficiency**.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Office",
+    "question_text": "When an office sends out invoices, receipts, and circulars to its customers, it is performing the function of",
+    "options": {
+      "a": "receiving information",
+      "b": "destroying information",
+      "c": "hiding information",
+      "d": "giving out information"
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "Disseminating documents such as letters, receipts, and invoices to external parties is the practical application of the office function known as **giving out information**.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Office",
+    "question_text": "Keeping vital company documents in fireproof safes and maintaining backups of computer files is an office function known as",
+    "options": {
+      "a": "processing information",
+      "b": "recording information",
+      "c": "safeguarding assets and records",
+      "d": "receiving visitors"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "An office must protect its physical items (cash, equipment) and its intangible assets (data, documents). Doing so using safes or digital backups fulfills the function of **safeguarding assets and records**.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Office",
+    "question_text": "In a typical large organization, the specific office responsible for keeping financial records and paying salaries is the",
+    "options": {
+      "a": "Administrative office",
+      "b": "Accounting office",
+      "c": "Sales office",
+      "d": "Transport office"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Accounting (or Accounts) office** is the distinct office in an organization designated for managing money, recording financial transactions, and processing staff payroll.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Office",
+    "question_text": "An office is best described not just as a physical room, but fundamentally as a centre for",
+    "options": {
+      "a": "retail trading and hawking",
+      "b": "raw material extraction",
+      "c": "communication and information management",
+      "d": "industrial machine repairs"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "While an office is a physical space, its operational meaning in business is a central hub for **communication, correspondence, and information management**.",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Office",
+    "question_text": "Sorting, collating, calculating, and analyzing data to make it useful for management decisions is referred to as",
+    "options": {
+      "a": "processing information",
+      "b": "giving out information",
+      "c": "storing information",
+      "d": "receiving information"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "When raw data is manipulated—such as through sorting, calculating, or summarizing—so it can be used for decision making, this specific office function is termed **processing information**.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Staff",
+    "question_text": "An employee who performs routine administrative and record-keeping duties in an office is referred to as a",
+    "options": {
+      "a": "clerical staff",
+      "b": "managing director",
+      "c": "cleaner",
+      "d": "security officer"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "A **clerical staff** (or clerk) is an office worker employed to manage routine administrative tasks, keep records, and handle correspondence.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Staff",
+    "question_text": "The following are routine functions of a clerical staff EXCEPT",
+    "options": {
+      "a": "filing office documents",
+      "b": "making overall company policy decisions",
+      "c": "answering telephone calls",
+      "d": "sorting and dispatching mails"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "While clerks handle daily routines like filing, sorting mail, and answering calls, **making overall company policy decisions** is the function of top-level management or the board of directors.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Staff",
+    "question_text": "Which of the following duties is predominantly performed by a clerk in the general office?",
+    "options": {
+      "a": "Auditing the annual financial accounts",
+      "b": "Dismissing indisciplined workers",
+      "c": "Dispatching outgoing letters and parcels",
+      "d": "Signing major business contracts"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A major part of a general clerk's function is handling correspondence, which includes receiving incoming mail and **dispatching outgoing letters and parcels**. Auditing, firing, and contract-signing are specialized or managerial tasks.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Staff",
+    "question_text": "The ability of a clerical staff to politely and effectively communicate with colleagues and visitors demonstrates good",
+    "options": {
+      "a": "personal hygiene",
+      "b": "human relations",
+      "c": "mathematical skill",
+      "d": "physical strength"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Interacting politely, calmly, and respectfully with others in the workplace falls under the quality of **good human relations**.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Staff",
+    "question_text": "All the following are desirable personal qualities of a good clerical staff EXCEPT",
+    "options": {
+      "a": "punctuality",
+      "b": "rudeness",
+      "c": "honesty",
+      "d": "neatness"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A clerk must be punctual, honest, and neat. **Rudeness** is a negative trait that ruins interpersonal relationships and reflects poorly on the organization.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Staff",
+    "question_text": "The ethical practice of keeping official information and trade secrets safe from unauthorized persons is known as",
+    "options": {
+      "a": "confidentiality",
+      "b": "regularity",
+      "c": "devotion to duty",
+      "d": "office politics"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Confidentiality** is the ethical and professional duty of an office worker not to disclose sensitive or private information about the organization to outsiders or unauthorized staff.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Staff",
+    "question_text": "A clerical worker who leaks a company's sensitive financial data to a rival firm lacks the quality of",
+    "options": {
+      "a": "neatness",
+      "b": "creativity",
+      "c": "confidentiality",
+      "d": "cheerfulness"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Sharing private organizational information with a competitor is a direct violation of trust and demonstrates a lack of **confidentiality**.",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Staff",
+    "question_text": "A clerical staff who is specifically in charge of receiving, keeping records of, and issuing out physical goods in an organization is the",
+    "options": {
+      "a": "accounts clerk",
+      "b": "store clerk",
+      "c": "sales clerk",
+      "d": "filing clerk"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "A **store clerk** (or storekeeper) handles the specific clerical function of managing inventory, recording incoming goods, and issuing materials to various departments.",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Staff",
+    "question_text": "To handle office machines and stationery without causing unnecessary waste or damage, a clerical staff must possess the quality of",
+    "options": {
+      "a": "extravagance",
+      "b": "carefulness",
+      "c": "arrogance",
+      "d": "partiality"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Working with organizational assets such as photocopiers, computers, and paper requires **carefulness** to prevent waste, damage, and unnecessary financial loss to the company.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Staff",
+    "question_text": "In a small office, Mr. Bello prepares letters, types documents, operates the photocopier, and files records. Mr. Bello is acting as a",
+    "options": {
+      "a": "board member",
+      "b": "clerical staff",
+      "c": "shareholder",
+      "d": "legal adviser"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Typing, photocopying, filing, and preparing correspondence are typical day-to-day duties assigned to a **clerical staff**.",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Staff",
+    "question_text": "Why is confidentiality of office information strictly required from every office staff?",
+    "options": {
+      "a": "To ensure that junior staff are afraid of their managers",
+      "b": "To protect the organization from fraud and loss of competitive advantage",
+      "c": "To allow competitors to easily copy the business model",
+      "d": "To deliberately make the daily work of a clerk more difficult"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Confidentiality protects the business's trade secrets, customer data, and financial plans. Leaking this could lead to **fraud, loss of clients, and loss of competitive advantage** against rivals.",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Staff",
+    "question_text": "A good clerical staff should demonstrate a high level of accuracy. This means the staff must",
+    "options": {
+      "a": "complete tasks efficiently without making mistakes",
+      "b": "type at exactly 120 words per minute",
+      "c": "dress in very expensive designer clothes daily",
+      "d": "arrive at the office before the sun rises"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Accuracy in clerical work means being precise, attentive to detail, and able to **complete tasks (like data entry or calculation) without making mistakes**.",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Right Attitude to Work",
+    "question_text": "The habit of arriving at the workplace or for an official assignment exactly at the agreed or official time is referred to as",
+    "options": {
+      "a": "regularity",
+      "b": "punctuality",
+      "c": "devotion",
+      "d": "truthfulness"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Punctuality** specifically means being on time and arriving promptly for resumption or meetings.",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Right Attitude to Work",
+    "question_text": "An employee who consistently attends work on every required working day without unauthorized absences demonstrates",
+    "options": {
+      "a": "punctuality",
+      "b": "regularity",
+      "c": "creativity",
+      "d": "confidentiality"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Regularity** refers to consistent, unbroken attendance at work without playing truant.",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Right Attitude to Work",
+    "question_text": "A staff member who comes to work every single day but always arrives an hour after the official resumption time exhibits",
+    "options": {
+      "a": "regularity but lacks punctuality",
+      "b": "punctuality but lacks regularity",
+      "c": "devotion but lacks regularity",
+      "d": "both punctuality and regularity"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Because the staff does not miss a day, they have **regularity**. However, arriving late every day means they lack **punctuality**.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Right Attitude to Work",
+    "question_text": "Which of the following is NOT an attribute of punctuality and regularity?",
+    "options": {
+      "a": "Promptness",
+      "b": "Consistency",
+      "c": "Truancy",
+      "d": "Reliability"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Promptness, consistency, and reliability are positive attributes associated with the right attitude to work. **Truancy** (staying away from work without good reason) is the exact opposite of regularity.",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Right Attitude to Work",
+    "question_text": "The strong commitment and willingness of a worker to dedicate time, energy, and loyalty to successfully complete assigned official tasks is known as",
+    "options": {
+      "a": "devotion to duty",
+      "b": "punctuality",
+      "c": "regularity",
+      "d": "communication"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Devotion to duty** implies deep commitment, dedication, and putting the organization's goals first in the execution of one's assigned tasks.",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Right Attitude to Work",
+    "question_text": "When workers exhibit the right attitude to work through devotion and regularity, the most likely direct effect on the organization is",
+    "options": {
+      "a": "a decrease in turnover",
+      "b": "an increase in productivity",
+      "c": "a reduction in market share",
+      "d": "higher cost of production"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Punctual and devoted workers are more efficient and achieve targets faster, leading to **an increase in productivity** for the organization.",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Right Attitude to Work",
+    "question_text": "The negative effects of continuous lateness, absenteeism, and lack of devotion to duty in an office include all the following EXCEPT",
+    "options": {
+      "a": "low productivity",
+      "b": "delayed organizational development",
+      "c": "loss of revenue and profit",
+      "d": "rapid business expansion"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Lateness and absenteeism lead to low productivity and lost revenue. They definitely would NOT lead to **rapid business expansion**.",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Right Attitude to Work",
+    "question_text": "An employee who stays back after closing hours to ensure an urgent and critical task is successfully completed before a deadline is primarily showing",
+    "options": {
+      "a": "punctuality",
+      "b": "devotion to duty",
+      "c": "regularity",
+      "d": "subordination"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Going the extra mile to finish an important task even if it requires extra personal time is a strong sign of **devotion to duty**.",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Right Attitude to Work",
+    "question_text": "A positive attitude to work by citizens generally affects the overall development of a country by",
+    "options": {
+      "a": "increasing the poverty rate",
+      "b": "lowering the standard of living",
+      "c": "boosting economic growth and national wealth",
+      "d": "increasing reliance on imported goods"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "On a macro level, when individuals display devotion, regularity, and punctuality across various businesses, it maximizes total output, leading to **economic growth and national wealth**.",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Right Attitude to Work",
+    "question_text": "Which of the following describes the relationship between a positive attitude to work and productivity?",
+    "options": {
+      "a": "A positive attitude drastically lowers productivity.",
+      "b": "A positive attitude has no visible effect on productivity.",
+      "c": "A positive attitude is directly linked to higher productivity.",
+      "d": "Productivity relies entirely on machines, ignoring workers' attitudes."
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "There is a direct correlation: employees with a good work ethic (punctual, regular, devoted) work more effectively, meaning **a positive attitude is directly linked to higher productivity**.",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Reception Office",
+    "question_text": "A place in an organization where visitors are first received and attended to before they are directed to other departments is called the",
+    "options": {
+      "a": "dispatch office",
+      "b": "general office",
+      "c": "reception office",
+      "d": "security post"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **Reception Office** is the first point of call or contact in a business premises where visitors, clients, and inquiries are initially received and processed.",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Reception Office",
+    "question_text": "The clerical staff specifically employed to receive, welcome, and direct visitors to the appropriate persons in an organization is the",
+    "options": {
+      "a": "typist",
+      "b": "receptionist",
+      "c": "gatekeeper",
+      "d": "managing director"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **Receptionist** is the frontline employee whose primary duty is to welcome and direct guests, as well as handle preliminary inquiries.",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Reception Office",
+    "question_text": "Why is the receptionist considered a highly important staff member in an organization?",
+    "options": {
+      "a": "They sign all the cheques and financial documents.",
+      "b": "They project the first image and reputation of the business to the public.",
+      "c": "They formulate all core business policies.",
+      "d": "They audit the daily financial records."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The receptionist is the business's \"image maker.\" Their behaviour and appearance give visitors the first impression of the organization, making their role critical.",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Reception Office",
+    "question_text": "Which of the following is an essential personal quality required of a good receptionist?",
+    "options": {
+      "a": "Hostility",
+      "b": "Arrogance",
+      "c": "Cheerfulness",
+      "d": "Carelessness"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A receptionist must possess a pleasant disposition. **Cheerfulness**, politeness, and a welcoming attitude are vital qualities for putting visitors at ease.",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Reception Office",
+    "question_text": "All of the following are positive attributes expected of a receptionist EXCEPT",
+    "options": {
+      "a": "politeness",
+      "b": "partiality",
+      "c": "neatness",
+      "d": "good communication skills"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A receptionist should treat all visitors fairly and with respect. **Partiality** (favouritism or bias) is unprofessional and reflects poorly on the organization.",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Reception Office",
+    "question_text": "When a visitor approaches the reception desk, the best immediate action for the receptionist to take is to",
+    "options": {
+      "a": "ignore the visitor until they speak first",
+      "b": "politely welcome the visitor and ask how to help",
+      "c": "demand their identity card aggressively",
+      "d": "shout for the security guard to check them"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The proper procedure for receiving a visitor is to offer a prompt, polite greeting, inquire about the purpose of their visit, and offer them a seat if necessary.",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Reception Office",
+    "question_text": "If a visitor requests to see a manager who is currently in a crucial meeting, the appropriate way for the receptionist to handle the situation is to",
+    "options": {
+      "a": "tell the visitor to go away and come back the next day",
+      "b": "allow the visitor to walk straight into the meeting room",
+      "c": "interrupt the meeting immediately to inform the manager",
+      "d": "politely explain the situation and ask the visitor to wait or drop a message"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "To maintain office decorum, the receptionist should not interrupt closed meetings unless it is an absolute emergency. Instead, they should **politely explain the delay and take a message**.",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Reception Office",
+    "question_text": "Which of the following describes an appropriate dress code for a professional office receptionist?",
+    "options": {
+      "a": "Ripped jeans and a sleeveless t-shirt",
+      "b": "A neat, smart corporate or formal outfit",
+      "c": "Heavy party makeup with highly revealing clothes",
+      "d": "Casual tracksuits and bathroom slippers"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Since receptionists are the image makers of the company, their dressing must project professionalism. **A neat, smart corporate or formal outfit** is required.",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Reception Office",
+    "question_text": "The document kept at the reception desk to record the names, addresses, and time of arrival of guests to the organization is the",
+    "options": {
+      "a": "visitor's book",
+      "b": "dispatch book",
+      "c": "attendance register",
+      "d": "cash book"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "A **visitor's book** is officially maintained at the reception to keep a chronological record of everyone from the outside who enters the office premises.",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Reception Office",
+    "question_text": "When a visitor wishes to see an official but the official is not available, which document should the receptionist use to record the visitor's brief message?",
+    "options": {
+      "a": "Invoice",
+      "b": "Telephone directory",
+      "c": "Caller's slip / Telephone message pad",
+      "d": "Business card"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A **Caller's slip** (or telephone message pad) is designed precisely to jot down details of missed calls or absent guests so the intended recipient can be informed later.",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Reception Office",
+    "question_text": "The document usually maintained by a receptionist to keep records of contact numbers and addresses of important clients and organizations is the",
+    "options": {
+      "a": "incoming mail register",
+      "b": "telephone directory",
+      "c": "sales invoice",
+      "d": "visitor's book"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **telephone directory** is a reference document kept at the reception (or by switchboard operators) to easily find phone numbers and addresses for making outbound calls or answering queries.",
+    "section_id": null
+  },
+  {
+    "question_number": 46,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Reception Office",
+    "question_text": "A receptionist often handles letters delivered to the organization before passing them to the appropriate department. Which document is used to log these items?",
+    "options": {
+      "a": "Incoming mail register",
+      "b": "Petty cash book",
+      "c": "Notice board",
+      "d": "Delivery note"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "To ensure letters and parcels are accounted for before internal distribution, the receptionist records them in the **incoming mail register**.",
+    "section_id": null
+  },
+  {
+    "question_number": 47,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Reception Office",
+    "question_text": "Why is it strictly recommended for a receptionist to maintain an excellent appearance and dress neatly?",
+    "options": {
+      "a": "So they can leave the office early.",
+      "b": "To intimidate visiting customers and salespeople.",
+      "c": "Because their appearance reflects the corporate identity and first impression of the firm.",
+      "d": "To ensure they are exempted from disciplinary actions."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The reception is the \"face\" of the business. A receptionist's neat dressing physically conveys professionalism, giving visitors a positive **first impression of the corporate identity**.",
+    "section_id": null
+  },
+  {
+    "question_number": 48,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: The Reception Office",
+    "question_text": "Which of the following pairs of documents is mostly kept and maintained by a receptionist?",
+    "options": {
+      "a": "Balance sheet and profit and loss account",
+      "b": "Articles of Association and shares certificate",
+      "c": "Delivery note and store requisition form",
+      "d": "Visitor's book and telephone message pad"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "The **Visitor's book and telephone message pad** (caller's slip) are core reception documents. Options A, B, and C belong to Accounting, Company Secretary, and Store departments respectively.",
+    "section_id": null
+  },
+  {
+    "question_number": 49,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "The established sequence of steps, methods, or rules designed to ensure that routine administrative tasks are performed correctly is known as",
+    "options": {
+      "a": "office plan",
+      "b": "office procedure",
+      "c": "office layout",
+      "d": "business structure"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Office procedure** refers to the agreed and established sequence of steps for carrying out standard clerical and administrative operations.",
+    "section_id": null
+  },
+  {
+    "question_number": 50,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "Which of the following is the main importance of having an established office procedure in an organization?",
+    "options": {
+      "a": "It makes it easier for employees to come to work late.",
+      "b": "It allows the manager to travel abroad on holidays.",
+      "c": "It ensures consistency, uniformity, and efficiency in handling tasks.",
+      "d": "It drastically increases the cost of raw materials."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A key importance of office procedure is that it provides a standard way of working, which **ensures consistency, uniformity, and efficiency**, reducing confusion and errors.",
+    "section_id": null
+  },
+  {
+    "question_number": 51,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "A commercial document prepared by a seller and sent to a buyer, detailing the goods supplied and the total amount to be paid, is an",
+    "options": {
+      "a": "invoice",
+      "b": "receipt",
+      "c": "cheque",
+      "d": "imprest"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "An **invoice** is drawn up by the seller showing the items, quantity, price, and terms of sale. It serves as a bill demanding payment from the buyer.",
+    "section_id": null
+  },
+  {
+    "question_number": 52,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "The appropriate document issued as a written acknowledgment that payment for a product or service has been received is a",
+    "options": {
+      "a": "waybill",
+      "b": "purchase order",
+      "c": "receipt",
+      "d": "delivery note"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **receipt** confirms that money has exchanged hands and serves as proof of payment.",
+    "section_id": null
+  },
+  {
+    "question_number": 53,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "When preparing a commercial bill or invoice, the gross total is calculated by",
+    "options": {
+      "a": "subtracting the unit price from the quantity",
+      "b": "multiplying the quantity of goods by the unit price",
+      "c": "dividing the quantity of goods by the discount",
+      "d": "adding the unit price to the discount"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The standard procedure for billing requires calculating the value of the items by **multiplying the quantity of goods by the unit price** (i.e., $\\text{Quantity} \\times \\text{Unit Price} = \\text{Total}$).",
+    "section_id": null
+  },
+  {
+    "question_number": 54,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "A written instruction directed to a bank, asking it to pay a specific sum of money to the person named on the document, is called a",
+    "options": {
+      "a": "bank draft",
+      "b": "receipt",
+      "c": "cheque",
+      "d": "gate pass"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **cheque** is an unconditional order in writing, drawn on a banker, signed by the drawer, directing the bank to pay a certain sum of money on demand.",
+    "section_id": null
+  },
+  {
+    "question_number": 55,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "Which of the following payment methods is drawn by a bank on its own head office or branch, thereby guaranteeing payment to the payee?",
+    "options": {
+      "a": "Personal cheque",
+      "b": "Cash",
+      "c": "Bank draft",
+      "d": "Invoice"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Unlike a personal cheque which can bounce, a **Bank draft** is a cheque drawn by a bank on itself or its own funds, guaranteeing the payment to the recipient.",
+    "section_id": null
+  },
+  {
+    "question_number": 56,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "Paying for office supplies via a Point of Sale (POS) terminal or internet banking portal is classified as",
+    "options": {
+      "a": "bank transfer",
+      "b": "cheque payment",
+      "c": "E-payment",
+      "d": "imprest accounting"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**E-payment** (Electronic payment) encompasses paying for goods or services on the internet, via POS, USSD, or other electronic media without exchanging physical cash.",
+    "section_id": null
+  },
+  {
+    "question_number": 57,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "Payment by which of the following means involves the physical exchange of currency notes and is highly risky for settling very large business transactions?",
+    "options": {
+      "a": "Bank draft",
+      "b": "Cash",
+      "c": "E-payment",
+      "d": "Bank transfer"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Payment by **Cash** involves giving physical legal tender notes and coins. Due to risks of theft and counting errors, it is not recommended for large business amounts.",
+    "section_id": null
+  },
+  {
+    "question_number": 58,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "The petty cashier is given a monthly float of $₦15,000$. If the total expenditure for the month is $₦12,000$, what is the closing Imprest balance?",
+    "options": {
+      "a": "₦15,000",
+      "b": "₦27,000",
+      "c": "₦3,000",
+      "d": "₦12,000"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "The balance is determined by subtracting total expenses from the initial float: $$\\text{Balance} = \\text{Float} - \\text{Expenses}$$ $$\\text{Balance} = 15,000 - 12,000 = 3,000$$.",
+    "section_id": null
+  },
+  {
+    "question_number": 59,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "Using the figures from the previous scenario (Float = $₦15,000$; Spent = $₦12,000$), what exact amount is required for the restoration (reimbursement) of the Imprest at the beginning of the next month?",
+    "options": {
+      "a": "₦3,000",
+      "b": "₦12,000",
+      "c": "₦15,000",
+      "d": "₦27,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Under the imprest system, restoration (reimbursement) restores the balance back to the original float. Therefore, the exact amount spent is what gets reimbursed. $$\\text{Restoration Amount} = \\text{Amount Spent} = ₦12,000$$.",
+    "section_id": null
+  },
+  {
+    "question_number": 60,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "In a business organization, the specific room or area where raw materials and finished goods are safely kept until they are needed is the",
+    "options": {
+      "a": "administrative office",
+      "b": "imprest account",
+      "c": "store",
+      "d": "sales department"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **store** (or warehouse) is a designated space for safely keeping stock, raw materials, or finished goods prior to use or sale.",
+    "section_id": null
+  },
+  {
+    "question_number": 61,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "Documents like bin cards, store ledgers, and goods received notes are used to keep track of the movement of goods. These are broadly called",
+    "options": {
+      "a": "financial accounts",
+      "b": "store records",
+      "c": "payment vouchers",
+      "d": "memos"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Store records** are specialized documents kept by the storekeeper to maintain accurate details of the quantity, quality, and values of materials stored.",
+    "section_id": null
+  },
+  {
+    "question_number": 62,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "The entire process of sourcing, ordering, purchasing, and receiving essential materials required by a business is referred to as",
+    "options": {
+      "a": "procurement",
+      "b": "stock taking",
+      "c": "imprest restoration",
+      "d": "manufacturing"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Procurement** is the formal business procedure of acquiring or purchasing supplies, equipment, and services needed to operate.",
+    "section_id": null
+  },
+  {
+    "question_number": 63,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "In the standard procedure for store procurement, which document does a department head use to formally ask the purchasing department to buy needed supplies?",
+    "options": {
+      "a": "Delivery note",
+      "b": "Gate pass",
+      "c": "Purchase requisition form",
+      "d": "Receipt"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "A **Purchase requisition form** initiates the procurement procedure. It is an internal document used to request the purchasing department to buy specific items.",
+    "section_id": null
+  },
+  {
+    "question_number": 64,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "The process of physically counting and valuing all the goods currently held in a store at a particular date is known as",
+    "options": {
+      "a": "stock taking",
+      "b": "procurement",
+      "c": "book keeping",
+      "d": "issuing invoices"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Stock taking** (or inventory counting) is the manual verification of physical goods in the store to ensure they match the recorded figures.",
+    "section_id": null
+  },
+  {
+    "question_number": 65,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "One primary importance of regular stock taking in an organization is to",
+    "options": {
+      "a": "increase the cost of the goods",
+      "b": "discover discrepancies, damages, or theft",
+      "c": "delay the payment of taxes",
+      "d": "eliminate the need for a store clerk"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Stock taking ensures transparency by comparing physical items with store records, which is critical for **discovering discrepancies, damages, shortages, or internal theft**.",
+    "section_id": null
+  },
+  {
+    "question_number": 66,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "Which document is usually sent along with transported goods to enable the receiver to verify the quantity and description of the items delivered?",
+    "options": {
+      "a": "Cheque book",
+      "b": "Bank draft",
+      "c": "Delivery note",
+      "d": "Cash book"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **Delivery note** accompanies the physical goods and lists the quantities and details, serving as proof that the goods arrived correctly when signed by the receiver.",
+    "section_id": null
+  },
+  {
+    "question_number": 67,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "A physical document signed by an authorized manager that allows a driver or dispatcher to move corporate items or products out of the factory premises is a",
+    "options": {
+      "a": "gate pass",
+      "b": "purchase requisition",
+      "c": "petty cash voucher",
+      "d": "visitor's slip"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "A **Gate pass** is a security and store document giving official authorization for goods or assets to be taken out of the company gates.",
+    "section_id": null
+  },
+  {
+    "question_number": 68,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "Which of the following is NOT a modern recognized procedure for effecting business payments?",
+    "options": {
+      "a": "Bank transfer",
+      "b": "E-payment (POS/Web)",
+      "c": "Cheque",
+      "d": "Barter trading"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "The syllabus outlines modern business payments as Cash, Bank transfer, Cheque, Bank draft, and E-payment. **Barter trading** (exchanging goods for goods) is an ancient system, not a modern office payment procedure.",
+    "section_id": null
+  },
+  {
+    "question_number": 69,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "An invoice is fundamentally drawn up by the __________ and sent to the __________.",
+    "options": {
+      "a": "buyer; seller",
+      "b": "bank; customer",
+      "c": "seller; buyer",
+      "d": "clerk; manager"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Because it is a bill requesting payment for goods supplied, an invoice is always initiated and drawn up by the **seller** and presented to the **buyer**.",
+    "section_id": null
+  },
+  {
+    "question_number": 70,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "In handling minor office expenditures, the fixed initial sum of money given to a petty cashier to start a period is called the",
+    "options": {
+      "a": "imprest float",
+      "b": "gross profit",
+      "c": "cash equivalent",
+      "d": "surplus"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The **imprest float** is the pre-agreed base amount of cash assigned to the petty cashier to run small, daily expenses like stamps, tea, and cleaning items.",
+    "section_id": null
+  },
+  {
+    "question_number": 71,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "A customer wishing to pay for bulk goods without issuing a physical cheque can electronically move the exact funds straight into the company's account via a",
+    "options": {
+      "a": "Bank transfer",
+      "b": "Delivery note",
+      "c": "Cash register",
+      "d": "Imprest voucher"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "A **Bank transfer** allows for the electronic routing of funds directly from the buyer's account to the seller's account without a paper cheque.",
+    "section_id": null
+  },
+  {
+    "question_number": 72,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "When receiving goods into the store, the storekeeper typically compares the items brought by the supplier's driver with both the supplier's Delivery Note and the organization's",
+    "options": {
+      "a": "Petty cash voucher",
+      "b": "Local Purchase Order (LPO)",
+      "c": "Balance sheet",
+      "d": "Letter of intent"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "To ensure they aren't accepting unordered goods, the storekeeper cross-checks the delivery note against a copy of the **Local Purchase Order (LPO)**, which proves the company actually ordered the items.",
+    "section_id": null
+  },
+  {
+    "question_number": 73,
+    "subject": "Business Studies",
+    "topic": "The Ideal Office: Office Procedure",
+    "question_text": "A severe lack of proper office procedures regarding payments and receipts in an organization will most likely lead to",
+    "options": {
+      "a": "zero incidence of theft",
+      "b": "higher employee morale",
+      "c": "errors, fraud, and financial confusion",
+      "d": "faster approval from the bank"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Without established rules for drafting invoices, accepting cash, or storing goods, there will be no accountability, directly resulting in **errors, fraud, and financial confusion**.",
+    "section_id": null
+  },
+  {
+    "question_number": 74,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Departments in an Office/Organization",
+    "question_text": "The practice of breaking down a large organization into smaller units or sections based on specialized functions is known as",
+    "options": {
+      "a": "consolidation",
+      "b": "centralization",
+      "c": "departmentalization",
+      "d": "retrenchment"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "To ensure efficiency, large businesses use **departmentalization**, which is dividing the organization into specialized units or departments like Sales, Accounting, and Personnel.",
+    "section_id": null
+  },
+  {
+    "question_number": 75,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Departments in an Office/Organization",
+    "question_text": "The department that serves as the central hub of the organization, coordinating routine clerical work, managing general correspondence, and filing records is the",
+    "options": {
+      "a": "Sales department",
+      "b": "Administrative department",
+      "c": "Purchasing department",
+      "d": "Planning department"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **Administrative department** oversees general office management, receives and routes correspondence, manages records, and ensures the office runs smoothly on a daily basis.",
+    "section_id": null
+  },
+  {
+    "question_number": 76,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Departments in an Office/Organization",
+    "question_text": "The primary function of the Purchasing department is to",
+    "options": {
+      "a": "advertise finished goods on television",
+      "b": "recruit new workers for the factory",
+      "c": "buy raw materials and equipment at the best prices",
+      "d": "prepare the company's annual financial budget"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **Purchasing department** is strictly responsible for sourcing, negotiating, and buying the right quality and quantity of raw materials and office equipment at the best possible price.",
+    "section_id": null
+  },
+  {
+    "question_number": 77,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Departments in an Office/Organization",
+    "question_text": "Which department is responsible for keeping books of accounts, processing payrolls, and settling business invoices?",
+    "options": {
+      "a": "Accounting department",
+      "b": "Personnel department",
+      "c": "Transport department",
+      "d": "Planning department"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "All financial transactions, such as calculating staff salaries (payroll), paying invoices, and maintaining ledgers, are the core duties of the **Accounting department**.",
+    "section_id": null
+  },
+  {
+    "question_number": 78,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Departments in an Office/Organization",
+    "question_text": "The department that ensures finished goods reach the final consumers and generates revenue for the organization is the",
+    "options": {
+      "a": "Personnel department",
+      "b": "Sales department",
+      "c": "Administrative department",
+      "d": "Purchasing department"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Sales department** (often combined with Marketing) is responsible for distributing and selling the company's products to customers to generate income.",
+    "section_id": null
+  },
+  {
+    "question_number": 79,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Departments in an Office/Organization",
+    "question_text": "Hiring, training, staff welfare, promotion, and discipline of employees are the statutory functions of the",
+    "options": {
+      "a": "Sales department",
+      "b": "Accounting department",
+      "c": "Personnel department",
+      "d": "Purchasing department"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **Personnel department** (Human Resources) focuses on managing the workforce, which involves recruitment, training, welfare, and disciplinary actions.",
+    "section_id": null
+  },
+  {
+    "question_number": 80,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Departments in an Office/Organization",
+    "question_text": "If a business organization decides to introduce a new product and wants to project its long-term future goals and expansion strategies, it will rely heavily on the",
+    "options": {
+      "a": "Transport department",
+      "b": "Planning department",
+      "c": "Personnel department",
+      "d": "Clerical department"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **Planning department** handles the research, forecasting, goal-setting, and strategic long-term projects necessary for organizational growth.",
+    "section_id": null
+  },
+  {
+    "question_number": 81,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Departments in an Office/Organization",
+    "question_text": "Which department ensures the proper coordination, maintenance, and fuelling of company vehicles for distributing goods and moving staff?",
+    "options": {
+      "a": "Administrative department",
+      "b": "Transport department",
+      "c": "Accounting department",
+      "d": "Planning department"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The management of vehicle fleets, drivers, fuel logistics, and vehicle repairs falls under the purview of the **Transport department**.",
+    "section_id": null
+  },
+  {
+    "question_number": 82,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Departments in an Office/Organization",
+    "question_text": "All the following are core functions of the Personnel department EXCEPT",
+    "options": {
+      "a": "recruiting skilled workers",
+      "b": "managing employee leave applications",
+      "c": "balancing the company's financial ledgers",
+      "d": "resolving disputes among factory workers"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "While the Personnel department handles recruitment, leave, and dispute resolution, **balancing the company's financial ledgers** is exclusively the duty of the Accounting department.",
+    "section_id": null
+  },
+  {
+    "question_number": 83,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Departments in an Office/Organization",
+    "question_text": "Which department would most likely initiate the process of issuing a Local Purchase Order (LPO) to an external vendor?",
+    "options": {
+      "a": "Purchasing department",
+      "b": "Transport department",
+      "c": "Personnel department",
+      "d": "Sales department"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "A Local Purchase Order (LPO) is an official document requesting goods from a vendor. Because it deals with buying, it is initiated by the **Purchasing department**.",
+    "section_id": null
+  },
+  {
+    "question_number": 84,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Departments in an Office/Organization",
+    "question_text": "A worker who wants to apply for a loan against their upcoming salary would typically need approval routed through the Personnel department to which other department?",
+    "options": {
+      "a": "Transport department",
+      "b": "Accounting department",
+      "c": "Sales department",
+      "d": "Planning department"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Since loans and salary advances deal with cash payouts and adjusting payroll records, the request must eventually be processed by the **Accounting department**.",
+    "section_id": null
+  },
+  {
+    "question_number": 85,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Departments in an Office/Organization",
+    "question_text": "The primary economic principle behind organizing a large office into different departments such as Sales, Accounting, and Purchasing is",
+    "options": {
+      "a": "hoarding of wealth",
+      "b": "division of labour and specialization",
+      "c": "elimination of competition",
+      "d": "subsistence production"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Assigning specific tasks to different departments ensures that workers specialize in what they do best. This applies the economic principle of **division of labour and specialization**, maximizing efficiency.",
+    "section_id": null
+  },
+  {
+    "question_number": 86,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Departments in an Office/Organization",
+    "question_text": "If a company produces high-quality products but consistently fails to make a profit because customers are unaware of the products, which department needs to improve its performance?",
+    "options": {
+      "a": "Accounting department",
+      "b": "Sales department",
+      "c": "Personnel department",
+      "d": "Administrative department"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The responsibility for creating market awareness, advertising, and pushing products to consumers rests with the **Sales department** (or Sales and Marketing department).",
+    "section_id": null
+  },
+  {
+    "question_number": 87,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Departments in an Office/Organization",
+    "question_text": "The department that closely monitors market trends, researches new competitors, and advises management on future threats to the business is the",
+    "options": {
+      "a": "Planning department",
+      "b": "Accounting department",
+      "c": "Transport department",
+      "d": "Administrative department"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Analyzing business environments to chart future goals and mitigate risks is a strategic function belonging to the **Planning department**.",
+    "section_id": null
+  },
+  {
+    "question_number": 88,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Departments in an Office/Organization",
+    "question_text": "The Accounting department relies on source documents to post entries. From which department would it likely receive documents concerning the hiring of a new employee and their starting salary?",
+    "options": {
+      "a": "Transport department",
+      "b": "Purchasing department",
+      "c": "Personnel department",
+      "d": "Sales department"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Because the **Personnel department** manages recruitment, they determine starting salaries and communicate these figures to the Accounting department for payroll preparation.",
+    "section_id": null
+  },
+  {
+    "question_number": 89,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Departments in an Office/Organization",
+    "question_text": "To prevent a halt in production, which department must work hand-in-hand with the storekeeper to replenish stock immediately it drops to a minimum level?",
+    "options": {
+      "a": "Personnel department",
+      "b": "Purchasing department",
+      "c": "Sales department",
+      "d": "Planning department"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The storekeeper tracks the stock levels, but the actual acquisition of new materials to restock the warehouse is the sole duty of the **Purchasing department**.",
+    "section_id": null
+  },
+  {
+    "question_number": 90,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Departments in an Office/Organization",
+    "question_text": "Which of the following describes a typical interaction between the Sales and Accounting departments?",
+    "options": {
+      "a": "Sales determines the tax rates while Accounting sells the goods.",
+      "b": "Accounting advertises the products while Sales prepares the balance sheet.",
+      "c": "Sales generates revenue invoices from customers which Accounting records and banks.",
+      "d": "Sales repairs the delivery vans while Accounting recruits the drivers."
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "The Sales department makes the transaction (generating invoices and collecting cash), and passes these records and funds to the Accounting department to be **recorded and banked**.",
+    "section_id": null
+  },
+  {
+    "question_number": 91,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Departments in an Office/Organization",
+    "question_text": "All of the following are recognized departments in a standard large organization EXCEPT",
+    "options": {
+      "a": "Personnel department",
+      "b": "Imprest department",
+      "c": "Transport department",
+      "d": "Administrative department"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Personnel, Transport, and Administrative are standard functional departments. **Imprest** is an accounting system for petty cash, not a standalone department.",
+    "section_id": null
+  },
+  {
+    "question_number": 92,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Correspondence",
+    "question_text": "Any written communication that passes between an organization and its customers, or among departments within the organization, is known as",
+    "options": {
+      "a": "office equipment",
+      "b": "office correspondence",
+      "c": "store records",
+      "d": "imprest system"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Office correspondence** refers to all forms of written communications (such as letters, memos, and emails) sent out or received by a business.",
+    "section_id": null
+  },
+  {
+    "question_number": 93,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Correspondence",
+    "question_text": "The first step taken by a clerk when a large batch of incoming physical mail is delivered to the office is to",
+    "options": {
+      "a": "burn the envelopes",
+      "b": "reply to the letters",
+      "c": "sort the mails",
+      "d": "file the letters"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Proper handling of mails begins with **sorting the mails**—separating official letters from private ones, and organizing them by department before opening them.",
+    "section_id": null
+  },
+  {
+    "question_number": 94,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Correspondence",
+    "question_text": "Which of the following is NOT a standard way through which physical mails come into a business organization?",
+    "options": {
+      "a": "Hand delivery by messengers",
+      "b": "Post office delivery",
+      "c": "Courier services",
+      "d": "Telepathy"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Mails commonly come in via the post office, courier agencies, and hand delivery by dispatch riders. **Telepathy** is a fictional mind-reading concept and not a communication medium.",
+    "section_id": null
+  },
+  {
+    "question_number": 95,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Correspondence",
+    "question_text": "A book used by the receptionist or mail clerk to record details of all letters leaving the organization is the",
+    "options": {
+      "a": "incoming mail register",
+      "b": "outgoing mail register",
+      "c": "visitor's book",
+      "d": "attendance register"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **outgoing mail register** is specifically maintained to keep track of every letter or parcel dispatched from the office to external destinations.",
+    "section_id": null
+  },
+  {
+    "question_number": 96,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Correspondence",
+    "question_text": "Why is it a standard procedure to stamp official incoming mails with a date stamp immediately after opening them?",
+    "options": {
+      "a": "To make the letters look beautiful and professional",
+      "b": "To hide the sender's address from junior staff",
+      "c": "To officially show exactly when the letter was received by the office",
+      "d": "To increase the physical weight of the letter for postage"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Date-stamping is a critical mail handling procedure used **to officially show exactly when the letter was received**, providing evidence in case of delays or disputes.",
+    "section_id": null
+  },
+  {
+    "question_number": 97,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Correspondence",
+    "question_text": "Which correspondence record is used to obtain a signature from a receiver as proof that a letter or parcel was physically delivered by hand?",
+    "options": {
+      "a": "Postage book",
+      "b": "Dispatch book",
+      "c": "Purchase requisition",
+      "d": "Imprest ledger"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **Dispatch book** is carried by a messenger. When they deliver a letter by hand, the person receiving it signs the dispatch book as proof of receipt.",
+    "section_id": null
+  },
+  {
+    "question_number": 98,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Correspondence",
+    "question_text": "The primary use of a postage book in handling office correspondence is to",
+    "options": {
+      "a": "record the amount spent on buying stamps for outgoing mails",
+      "b": "write down the names of all factory employees",
+      "c": "calculate the company's daily trading profit",
+      "d": "track the attendance of the dispatch rider"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "The **postage book** is a specialized record used to account for the value of postage stamps bought and affixed to outgoing mails, helping to control mailing expenses.",
+    "section_id": null
+  },
+  {
+    "question_number": 99,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Correspondence",
+    "question_text": "The correct standard sequence for preparing a formal outgoing letter for dispatch is",
+    "options": {
+      "a": "signing $\\rightarrow$ typing $\\rightarrow$ folding $\\rightarrow$ sealing",
+      "b": "typing $\\rightarrow$ signing $\\rightarrow$ folding $\\rightarrow$ sealing",
+      "c": "folding $\\rightarrow$ typing $\\rightarrow$ sealing $\\rightarrow$ signing",
+      "d": "sealing $\\rightarrow$ folding $\\rightarrow$ typing $\\rightarrow$ signing"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "When preparing outgoing mail, the letter must first be **typed**, then reviewed and **signed** by an authorized person, followed by **folding** into the envelope, and finally **sealing** it before dispatch.",
+    "section_id": null
+  },
+  {
+    "question_number": 100,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Correspondence",
+    "question_text": "When an incoming letter delivered to the general office is marked \"Confidential\" or \"Strictly Private\", the mail clerk should",
+    "options": {
+      "a": "open it immediately to check for money",
+      "b": "read it and summarize the contents for the manager",
+      "c": "forward it unopened directly to the addressee",
+      "d": "throw it into the dustbin"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "By correspondence handling rules, any mail marked \"Private\" or \"Confidential\" must not be opened by the general mail clerk; it must be **forwarded unopened** to the person it is addressed to.",
+    "section_id": null
+  },
+  {
+    "question_number": 101,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Correspondence",
+    "question_text": "Outgoing letters are usually assigned unique reference numbers (e.g., $REF/ACCT/24/01$) before they are dispatched. This is mainly to",
+    "options": {
+      "a": "prevent the letter from being stolen by armed robbers",
+      "b": "make it easy to file a copy and trace future replies",
+      "c": "increase the cost of postage at the post office",
+      "d": "ensure the postman delivers it to a foreign country quickly"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Reference numbers act as unique identifiers for letters, making it **easy to file copies and quickly trace previous correspondence** when a reply is received.",
+    "section_id": null
+  },
+  {
+    "question_number": 102,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Correspondence",
+    "question_text": "Which of the following represents a fast, modern method through which electronic correspondence comes into an organization?",
+    "options": {
+      "a": "Post Office Box (P.O. Box)",
+      "b": "Private Mail Bag (PMB)",
+      "c": "E-mail",
+      "d": "Dispatch rider"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "An **E-mail** (electronic mail) is the digital way mails come into an organization over the internet, unlike P.O. Box, PMB, and dispatch riders which handle physical documents.",
+    "section_id": null
+  },
+  {
+    "question_number": 103,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Correspondence",
+    "question_text": "A major consequence of failing to maintain proper correspondence records (like the incoming and outgoing mail registers) in an office is",
+    "options": {
+      "a": "an automatic increase in employee salaries",
+      "b": "difficulty in tracing lost letters and poor communication flow",
+      "c": "elimination of the need for a receptionist",
+      "d": "faster delivery of courier services"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The core use of correspondence records is to document the movement of information. Without these registers, an office will experience **difficulty in tracing lost letters and a breakdown in communication flow**.",
+    "section_id": null
+  },
+  {
+    "question_number": 104,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Documents",
+    "question_text": "Written or printed materials that provide official information, instructions, or evidence of business transactions in an organization are referred to as",
+    "options": {
+      "a": "office furniture",
+      "b": "office equipment",
+      "c": "office documents",
+      "d": "store layouts"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Office documents** are official records (such as letters, memos, invoices, and receipts) used to communicate, provide information, and act as evidence of business activities.",
+    "section_id": null
+  },
+  {
+    "question_number": 105,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Documents",
+    "question_text": "In the context of business trading, office documents are broadly classified into two main types based on transactions. These are",
+    "options": {
+      "a": "Sales documents and Purchase documents",
+      "b": "Legal documents and Illegal documents",
+      "c": "Internal documents and Private documents",
+      "d": "Banking documents and Insurance documents"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "To facilitate trade, office transaction records are typically categorized into **Sales documents** (prepared by the seller) and **Purchase documents** (prepared by the buyer).",
+    "section_id": null
+  },
+  {
+    "question_number": 106,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Documents",
+    "question_text": "The very first purchase document initiated by a prospective buyer to find out about the availability and prices of goods from a supplier is an",
+    "options": {
+      "a": "invoice",
+      "b": "enquiry",
+      "c": "order",
+      "d": "statement of account"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A letter of **enquiry** is the initial document sent by a buyer asking for details like price, availability, and terms of sale for specific goods.",
+    "section_id": null
+  },
+  {
+    "question_number": 107,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Documents",
+    "question_text": "When a seller receives an enquiry, the appropriate sales document sent in reply to state the current prices and terms of sale is the",
+    "options": {
+      "a": "quotation",
+      "b": "purchase order",
+      "c": "receipt",
+      "d": "credit note"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "A **quotation** is a sales document sent in response to an enquiry, detailing the exact prices, discounts, and terms under which the seller is willing to supply the goods.",
+    "section_id": null
+  },
+  {
+    "question_number": 108,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Documents",
+    "question_text": "Which of the following purchase documents is an official request sent by a buyer committing to buy specific quantities of goods at agreed prices?",
+    "options": {
+      "a": "Sales invoice",
+      "b": "Waybill",
+      "c": "Local Purchase Order (LPO)",
+      "d": "Proforma invoice"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "An **order**, often called a Local Purchase Order (LPO), is the official purchase document prepared by the buyer authorizing the seller to supply specific goods.",
+    "section_id": null
+  },
+  {
+    "question_number": 109,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Documents",
+    "question_text": "When preparing a Local Purchase Order (LPO), it is essential to ensure that the document includes the",
+    "options": {
+      "a": "buyer's daily transport route",
+      "b": "supplier's exact bank account balance",
+      "c": "description and quantity of the items needed",
+      "d": "personal home addresses of the buyer's staff"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "During the preparation of an order (LPO), crucial details must include the date, the **description, quantity of the items needed**, and the authorized signature of the buyer.",
+    "section_id": null
+  },
+  {
+    "question_number": 110,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Documents",
+    "question_text": "A polite request demanding payment in advance before goods are dispatched to a new customer is usually made by sending a",
+    "options": {
+      "a": "proforma invoice",
+      "b": "statement of account",
+      "c": "delivery note",
+      "d": "receipt"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "A **proforma invoice** looks like a regular invoice but is often used as a polite demand for payment *before* goods are supplied, especially for new customers.",
+    "section_id": null
+  },
+  {
+    "question_number": 111,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Documents",
+    "question_text": "A sales document prepared by the seller to demand payment from a buyer for goods supplied on credit is the",
+    "options": {
+      "a": "receipt",
+      "b": "invoice",
+      "c": "enquiry",
+      "d": "credit note"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "An **invoice** is the primary commercial bill drawn up by the seller and sent to the buyer, listing goods supplied and the total amount owed.",
+    "section_id": null
+  },
+  {
+    "question_number": 112,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Documents",
+    "question_text": "If a customer is mistakenly overcharged on an invoice, or returns damaged goods, the seller will issue which document to reduce the customer's debt?",
+    "options": {
+      "a": "Debit note",
+      "b": "Bank draft",
+      "c": "Credit note",
+      "d": "Waybill"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "A **credit note** (usually printed in red) is a sales document sent by a seller to a buyer to reduce the amount the buyer owes, due to returns or overcharges.",
+    "section_id": null
+  },
+  {
+    "question_number": 113,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Documents",
+    "question_text": "A seller discovers that an arithmetic error caused a buyer to be undercharged by ₦5,000 on their last order. To correct this, the seller should send a",
+    "options": {
+      "a": "Credit note",
+      "b": "Debit note",
+      "c": "Purchase order",
+      "d": "Receipt"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "A **debit note** is issued by the seller to correct an undercharge, effectively informing the buyer that their debt has been increased by the stated amount.",
+    "section_id": null
+  },
+  {
+    "question_number": 114,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Documents",
+    "question_text": "A summary document sent periodically (usually at the end of the month) by a seller to a buyer, showing all purchases, payments, and the final outstanding balance is the",
+    "options": {
+      "a": "statement of account",
+      "b": "delivery note",
+      "c": "catalogue",
+      "d": "quotation"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The **statement of account** acts as a reminder and summary. It lists all the invoices, payments, and credit notes for a period, showing the net amount the buyer still owes.",
+    "section_id": null
+  },
+  {
+    "question_number": 115,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Documents",
+    "question_text": "The document that serves as final proof that a business transaction has been concluded because payment has been made is the",
+    "options": {
+      "a": "invoice",
+      "b": "receipt",
+      "c": "purchase order",
+      "d": "enquiry"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **receipt** is the official written acknowledgment from the seller that money has been received from the buyer, concluding the payment aspect of the trade.",
+    "section_id": null
+  },
+  {
+    "question_number": 116,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Documents",
+    "question_text": "Which of the following options shows the correct chronological flow of documents in a business transaction?",
+    "options": {
+      "a": "Enquiry $\\rightarrow$ Quotation $\\rightarrow$ Order $\\rightarrow$ Invoice $\\rightarrow$ Receipt",
+      "b": "Order $\\rightarrow$ Enquiry $\\rightarrow$ Receipt $\\rightarrow$ Invoice $\\rightarrow$ Quotation",
+      "c": "Receipt $\\rightarrow$ Invoice $\\rightarrow$ Quotation $\\rightarrow$ Order $\\rightarrow$ Enquiry",
+      "d": "Invoice $\\rightarrow$ Order $\\rightarrow$ Enquiry $\\rightarrow$ Receipt $\\rightarrow$ Quotation"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "The standard sequence is: The buyer asks about price (**Enquiry**), the seller replies with prices (**Quotation**), the buyer requests goods (**Order**), the seller supplies and demands payment (**Invoice**), and upon payment, issues a confirmation (**Receipt**).",
+    "section_id": null
+  },
+  {
+    "question_number": 117,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Documents",
+    "question_text": "Purchase documents are primarily used by a business organization to",
+    "options": {
+      "a": "increase the selling price of their goods randomly",
+      "b": "track procurement, prevent fraud, and serve as evidence of buying",
+      "c": "hide profits from government tax collectors",
+      "d": "calculate the exact number of visitors in the reception"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The preparation and keeping of purchase documents (like copies of LPOs and received invoices) are crucial to **track procurement, prevent fraud, and serve as evidence** of what the business has bought.",
+    "section_id": null
+  },
+  {
+    "question_number": 118,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Equipment",
+    "question_text": "The machines, tools, and furniture used in an organization to facilitate smooth and efficient administrative and clerical work are generally called",
+    "options": {
+      "a": "office stationeries",
+      "b": "office equipment",
+      "c": "factory tools",
+      "d": "merchandise"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Office equipment** refers to the durable machines and furniture used in the office to speed up work and increase efficiency.",
+    "section_id": null
+  },
+  {
+    "question_number": 119,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Equipment",
+    "question_text": "Which of the following machines is primarily used by a clerical staff to make exact multiple copies of a single physical document?",
+    "options": {
+      "a": "Typewriter",
+      "b": "Scanner",
+      "c": "Photocopier",
+      "d": "Shredder"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **photocopier** (or copying machine) is specifically used to produce rapid and exact duplicate copies of physical documents.",
+    "section_id": null
+  },
+  {
+    "question_number": 120,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Equipment",
+    "question_text": "To strictly enforce the confidentiality of office information and prevent sensitive physical documents from falling into unauthorized hands, an office should use a",
+    "options": {
+      "a": "perforator",
+      "b": "photocopier",
+      "c": "shredder",
+      "d": "stapler"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A **shredder** is a mechanical device used to cut paper into tiny strips or fine particles, permanently destroying sensitive or confidential documents.",
+    "section_id": null
+  },
+  {
+    "question_number": 121,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Equipment",
+    "question_text": "Which of the following items is correctly classified as durable office equipment rather than consumable office stationery?",
+    "options": {
+      "a": "Filing cabinet",
+      "b": "A4 printing paper",
+      "c": "Ballpoint pens",
+      "d": "Printer ink cartridges"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "A **filing cabinet** is a long-lasting, durable piece of furniture used to store files (equipment). Paper, pens, and ink are used up over time (stationery).",
+    "section_id": null
+  },
+  {
+    "question_number": 122,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Equipment",
+    "question_text": "The major importance of introducing modern electronic equipment into a traditional office is to",
+    "options": {
+      "a": "increase the cost of running the business daily",
+      "b": "increase speed, accuracy, and overall clerical efficiency",
+      "c": "make the office look beautiful but function slowly",
+      "d": "encourage workers to sleep during official hours"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Modern office equipment handles repetitive and complex tasks automatically, heavily **increasing speed, accuracy, and overall clerical efficiency**.",
+    "section_id": null
+  },
+  {
+    "question_number": 123,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Equipment",
+    "question_text": "A small hand-operated piece of office equipment used to make uniform holes in paper so they can be neatly bound into a file folder is a",
+    "options": {
+      "a": "stapler",
+      "b": "guillotine",
+      "c": "perforator",
+      "d": "franking machine"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **perforator** (also known as a hole punch) is used to create holes in sheets of paper to allow them to be secured within a ring binder or folder.",
+    "section_id": null
+  },
+  {
+    "question_number": 124,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Equipment",
+    "question_text": "Which piece of office equipment is primarily used to securely bind several sheets of paper together permanently using small wire clips?",
+    "options": {
+      "a": "Stapler",
+      "b": "Paper clip",
+      "c": "Perforator",
+      "d": "Scanner"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "A **stapler** is used to bind sheets of paper together by driving a thin metal wire (staple) through them and folding the ends.",
+    "section_id": null
+  },
+  {
+    "question_number": 125,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Equipment",
+    "question_text": "A large, heavy metallic or wooden furniture consisting of multiple deep drawers, designed specifically for organizing and safely storing office records, is the",
+    "options": {
+      "a": "franking machine",
+      "b": "filing cabinet",
+      "c": "safe",
+      "d": "reception desk"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **filing cabinet** is standard office furniture used specifically for keeping files and correspondence properly arranged and secure.",
+    "section_id": null
+  },
+  {
+    "question_number": 126,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Equipment",
+    "question_text": "Which of the following is a highly versatile modern office machine that combines the functions of typing, calculating, data storage, and internet communication?",
+    "options": {
+      "a": "Typewriter",
+      "b": "Computer",
+      "c": "Calculator",
+      "d": "Adding machine"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **computer** has largely replaced typewriters and simple calculators because it is a multi-functional device capable of word processing, data storage, computation, and communication.",
+    "section_id": null
+  },
+  {
+    "question_number": 127,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Equipment",
+    "question_text": "An electronic office machine used to convert printed text and images from a physical piece of paper into a digital file format on a computer is called a",
+    "options": {
+      "a": "shredder",
+      "b": "printer",
+      "c": "scanner",
+      "d": "photocopier"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A **scanner** digitizes physical documents by capturing an image of the text/graphics and transferring it to a computer. (A printer does the exact opposite).",
+    "section_id": null
+  },
+  {
+    "question_number": 128,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Equipment",
+    "question_text": "Despite the high importance of modern electronic office equipment, a major challenge or limitation associated with their usage is that they",
+    "options": {
+      "a": "decrease the overall speed of the workers",
+      "b": "always print documents in black and white",
+      "c": "require steady power supply and regular maintenance",
+      "d": "cause documents to be lost constantly"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Electronic equipment heavily depends on electricity. Their major drawback is the **requirement for steady power supply and the cost of regular maintenance/repairs**.",
+    "section_id": null
+  },
+  {
+    "question_number": 129,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Equipment",
+    "question_text": "A machine primarily utilized in the Accounting department to quickly and accurately process large arithmetic figures (additions, subtractions, and multiplications) is the",
+    "options": {
+      "a": "typewriter",
+      "b": "calculator / adding machine",
+      "c": "franking machine",
+      "d": "dictating machine"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **calculator or adding machine** is designed specifically to handle arithmetic operations efficiently and accurately, which is crucial for accounting work.",
+    "section_id": null
+  },
+  {
+    "question_number": 130,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Equipment",
+    "question_text": "When an organization heavily equips its office with automated machines to handle highly repetitive manual tasks, it most directly results in",
+    "options": {
+      "a": "a reduction in worker fatigue and human errors",
+      "b": "the promotion of all junior workers to managers",
+      "c": "the inability to read the visitor's book",
+      "d": "a drastic drop in business revenue"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Office machines take over the physically and mentally straining repetitive work (like copying or calculating), directly leading to **a reduction in worker fatigue and human errors**.",
+    "section_id": null
+  },
+  {
+    "question_number": 131,
+    "subject": "Business Studies",
+    "topic": "Office Activities: Office Equipment",
+    "question_text": "All of the following machines can be found in a standard modern administrative office EXCEPT a",
+    "options": {
+      "a": "printer",
+      "b": "bulldozer",
+      "c": "franking machine",
+      "d": "scanner"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Printers, franking machines (for postage), and scanners are all standard office equipment. A **bulldozer** is heavy construction equipment used in the civil engineering industry, not in an office.",
+    "section_id": null
+  }
+]
