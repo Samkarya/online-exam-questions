@@ -211,7 +211,7 @@
     "question_number": 14,
     "subject": "Biotechnology Skills",
     "topic": "Micropipetting",
-    "question_text": "A P20 micropipette display reads the following from top to bottom:\\n**1**\\n**2**\\n**5** (Red)\\n\\nWhat volume is set?",
+    "question_text": "A P20 micropipette display reads the following from top to bottom:\n**1**\n**2**\n**5** (Red)\n\nWhat volume is set?",
     "options": {
       "a": "1.25 µL",
       "b": "12.5 µL",
@@ -227,7 +227,7 @@
     "question_number": 15,
     "subject": "Biotechnology Skills",
     "topic": "Micropipetting",
-    "question_text": "A P200 micropipette display reads:\\n**0**\\n**5**\\n**0**\\n\\nWhat volume is set?",
+    "question_text": "A P200 micropipette display reads:\n**0**\n**5**\n**0**\n\nWhat volume is set?",
     "options": {
       "a": "5.0 µL",
       "b": "50 µL",
@@ -243,7 +243,7 @@
     "question_number": 16,
     "subject": "Biotechnology Skills",
     "topic": "Micropipetting",
-    "question_text": "A P1000 micropipette display reads:\\n**0** (Red)\\n**5**\\n**0**\\n\\nWhat volume is set?",
+    "question_text": "A P1000 micropipette display reads:\n**0** (Red)\n**5**\n**0**\n\nWhat volume is set?",
     "options": {
       "a": "50 µL",
       "b": "500 µL",
