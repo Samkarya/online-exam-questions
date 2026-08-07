@@ -1,0 +1,1522 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Business Studies",
+    "topic": "Book-keeping: Introduction to Book-keeping",
+    "question_text": "The art of keeping accounts in a regular and systematic manner is known as:",
+    "options": {
+      "a": "auditing",
+      "b": "book-keeping",
+      "c": "marketing",
+      "d": "commerce"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Book-keeping** is the systematic and regular recording of financial transactions of a business. It ensures that there is a reliable and accurate record of income and expenditures.\n\n> *Note the distinction:*\n\n| Term | Definition |\n| --- | --- |\n| **Book-keeping** | The day-to-day systematic recording of financial transactions. |\n| **Accounting** | The process of summarizing, analyzing, and interpreting those recorded transactions. |",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Business Studies",
+    "topic": "Book-keeping: Introduction to Book-keeping",
+    "question_text": "The following are reasons for keeping proper books of account EXCEPT:",
+    "options": {
+      "a": "determining the profit or loss of the business",
+      "b": "providing information for taxation",
+      "c": "determining the personal age of the business owner",
+      "d": "providing permanent records of financial transactions"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Proper book-keeping has several importance to a business, such as calculating profit/loss, acting as evidence of transactions, and providing tax information. It does **not** provide personal biological data like the age of the business owner, which is entirely irrelevant to the financial state of the enterprise.",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Business Studies",
+    "topic": "Book-keeping: Introduction to Book-keeping",
+    "question_text": "Which of the following is an essential quality of a good book-keeper?",
+    "options": {
+      "a": "Accuracy",
+      "b": "Partiality",
+      "c": "Arrogance",
+      "d": "Guesswork"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "A book-keeper must possess specific essential qualities to perform their duties efficiently. **Accuracy** is critical because errors in financial records can lead to substantial financial losses and misinformed decisions. Other qualities include *honesty*, *neatness*, and *punctuality*.",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Business Studies",
+    "topic": "Book-keeping: Introduction to Book-keeping",
+    "question_text": "A business uses its book-keeping records primarily to:",
+    "options": {
+      "a": "punish lazy employees",
+      "b": "make informed financial decisions",
+      "c": "calculate the country's population",
+      "d": "advertise products to consumers"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The primary **importance of book-keeping** is to provide management with accurate financial data needed to make informed and strategic decisions, such as whether to expand the business, cut costs, or take a loan.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Business Studies",
+    "topic": "Book-keeping: Introduction to Book-keeping",
+    "question_text": "Book-keeping is primarily concerned with the recording of business transactions that are expressed in terms of:",
+    "options": {
+      "a": "quality",
+      "b": "money",
+      "c": "human effort",
+      "d": "physical volume"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "According to the **Money Measurement Concept** in accounting, book-keeping only records business transactions that can be assigned a definite monetary value (e.g., $₦10,000$, $\\$50$). Sentiments, quality, and human effort are not recorded.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Business Studies",
+    "topic": "Book-keeping: Introduction to Book-keeping",
+    "question_text": "Common source documents used as evidence of a transaction in book-keeping include the following EXCEPT:",
+    "options": {
+      "a": "Invoice",
+      "b": "Receipt",
+      "c": "Payment voucher",
+      "d": "Medical report"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Common documents in book-keeping include *invoices*, *receipts*, *cheques*, and *vouchers*. A **medical report** is a health-related document and has no place as a source document for a business financial transaction.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Business Studies",
+    "topic": "Book-keeping: Introduction to Book-keeping",
+    "question_text": "A businessman lost his goods to a fire outbreak. Which importance of book-keeping will best help him claim compensation from his insurance company?",
+    "options": {
+      "a": "It prevents the business from going bankrupt",
+      "b": "It provides documentary evidence of assets and stock lost",
+      "c": "It increases the daily sales volume immediately",
+      "d": "It helps to identify the exact physical cause of the fire"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "One of the key importance of book-keeping is that it **serves as documentary evidence**. In the event of a disaster, the insurance company will require documented proof of the assets and inventory that were lost before they can calculate and pay compensation.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Business Studies",
+    "topic": "Book-keeping: Introduction to Book-keeping",
+    "question_text": "A book-keeper who deliberately alters figures to steal money lacks the essential quality of:",
+    "options": {
+      "a": "neatness",
+      "b": "speed",
+      "c": "honesty",
+      "d": "handwriting"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Honesty** (or integrity) is an essential quality of a book-keeper. Altering figures to commit fraud is a breach of trust and a severe ethical violation.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Business Studies",
+    "topic": "Book-keeping Ethics",
+    "question_text": "In book-keeping ethics, the acronym TAP stands for:",
+    "options": {
+      "a": "Tolerance, Accountability and Productivity",
+      "b": "Transparency, Accountability and Probity",
+      "c": "Taxation, Assessment and Probity",
+      "d": "Transparency, Auditing and Productivity"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "In business ethics, **TAP** stands for:\n*   **T**ransparency\n*   **A**ccountability\n*   **P**robity\n\nThese principles form the bedrock of ethical conduct in financial management and record-keeping.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Business Studies",
+    "topic": "Book-keeping Ethics",
+    "question_text": "The strict adherence to the highest principles, ideals, and moral standards in business is known as:",
+    "options": {
+      "a": "probity",
+      "b": "transparency",
+      "c": "continuity",
+      "d": "due process"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Probity** refers to absolute moral correctness, uprightness, and uncompromising adherence to ethical principles in business dealings. It means choosing the right action even when no one is watching.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Business Studies",
+    "topic": "Book-keeping Ethics",
+    "question_text": "The adoption of Transparency, Accountability, and Probity in a business organisation is highly needed because it:",
+    "options": {
+      "a": "reduces the payment of standard salaries",
+      "b": "prevents fraud and financial irregularities",
+      "c": "guarantees automatic daily profit making",
+      "d": "allows management to exploit its workers"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The primary **need for TAP** is to build trust and curb corruption. When operations are transparent and accountants are held accountable, it severely **prevents fraud and financial irregularities** within the firm.",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Business Studies",
+    "topic": "Book-keeping Ethics",
+    "question_text": "Conducting business activities in an open and clear manner without hidden agendas represents which attribute of TAP?",
+    "options": {
+      "a": "Accountability",
+      "b": "Probity",
+      "c": "Transparency",
+      "d": "Bureaucracy"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Transparency** is the attribute of being clear, open, and unambiguous in business operations. It ensures that stakeholders can easily see and understand the financial health and actions of the business.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Business Studies",
+    "topic": "Book-keeping Ethics",
+    "question_text": "When an accountant takes full responsibility for the accuracy of the financial reports they prepare, they are demonstrating:",
+    "options": {
+      "a": "transparency",
+      "b": "probity",
+      "c": "accountability",
+      "d": "due process"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Accountability** means taking responsibility for one's actions and the outcomes of those actions. An accountable book-keeper owns up to their work and is answerable for any discrepancies in the records.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Business Studies",
+    "topic": "Book-keeping Ethics",
+    "question_text": "The concept of Due Process in a business environment is best described as:",
+    "options": {
+      "a": "executing projects quickly without regard for rules",
+      "b": "following laid-down rules and procedures strictly in operations",
+      "c": "processing data only at the end of the financial year",
+      "d": "hiring employees through personal family connections"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Due Process** involves doing things strictly according to established laws, regulations, and official procedures rather than cutting corners or acting arbitrarily.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Business Studies",
+    "topic": "Book-keeping Ethics",
+    "question_text": "Which of the following scenarios correctly demonstrates the operation of Due Process in purchasing business assets?",
+    "options": {
+      "a": "Selecting a supplier because they offered a secret bribe",
+      "b": "Obtaining competitive bids from multiple suppliers before selecting one",
+      "c": "Buying heavily discounted items from an unverified family member",
+      "d": "Making cash purchases without raising a purchase order document"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The **operation of Due Process** in procurement requires fairness, openness, and adherence to company policies. *Obtaining competitive bids* ensures the business gets the best value without bias, reflecting true ethical compliance.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Business Studies",
+    "topic": "Book-keeping Ethics",
+    "question_text": "All of the following are positive effects of Transparency, Accountability, and Probity (TAP) EXCEPT:",
+    "options": {
+      "a": "building strong trust among business stakeholders",
+      "b": "ensuring the prudent use of business funds",
+      "c": "encouraging the falsification of financial statements",
+      "d": "promoting fairness and equity in business dealings"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "TAP discourages unethical behavior. Therefore, it does **not** encourage the falsification of financial statements; on the contrary, it prevents such acts by mandating honesty, openness, and responsibility.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Business Studies",
+    "topic": "Personal Finance",
+    "question_text": "The management of money, savings, and investments by an individual or family is known as:",
+    "options": {
+      "a": "corporate finance",
+      "b": "public finance",
+      "c": "personal finance",
+      "d": "international finance"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Personal finance** deals with how individuals or families manage their money, including how they earn, save, budget, and invest over time.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Business Studies",
+    "topic": "Personal Finance",
+    "question_text": "Which of the following is NOT a common source of finance for a private individual?",
+    "options": {
+      "a": "Personal savings",
+      "b": "Wages and salaries",
+      "c": "Bank loans",
+      "d": "Issuing company shares"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "An individual can raise funds through personal savings, employment income (salaries), or loans. However, **issuing company shares** is a source of finance exclusive to corporate bodies (like Limited Liability Companies), not individuals.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Business Studies",
+    "topic": "Personal Finance",
+    "question_text": "In personal finance, the act of selecting one alternative out of many due to limited resources is known as:",
+    "options": {
+      "a": "choice",
+      "b": "consumption",
+      "c": "savings",
+      "d": "budgeting"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Because resources (money) are limited while human wants are unlimited, an individual cannot satisfy all their needs. The act of selecting the most pressing need among alternatives is called **choice**.",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Business Studies",
+    "topic": "Personal Finance",
+    "question_text": "A list of an individual's unmet needs arranged in order of their relative importance is called a:",
+    "options": {
+      "a": "trial balance",
+      "b": "scale of preference",
+      "c": "cash book",
+      "d": "personal budget"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **scale of preference** is a list of wants arranged in descending order of priority. It helps individuals allocate their scarce financial resources rationally by attending to the most vital needs first.",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Business Studies",
+    "topic": "Personal Finance",
+    "question_text": "The practice of living a simple life and avoiding the unnecessary or showy display of wealth is referred to as:",
+    "options": {
+      "a": "contentment",
+      "b": "transparency",
+      "c": "modesty",
+      "d": "probity"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Modesty** in personal finance means living an unpretentious and moderate lifestyle, consciously avoiding the temptation to flaunt wealth or overspend to impress others.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Business Studies",
+    "topic": "Personal Finance",
+    "question_text": "A person who ensures their expenditure never exceeds their income is exhibiting which attribute of modesty?",
+    "options": {
+      "a": "Living within one's means",
+      "b": "Accountability",
+      "c": "Transparency",
+      "d": "Due process"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Living within one's means** is a primary attribute of modesty. It simply means ensuring that total spending is less than or equal to total income to prevent falling into bad debt.",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "Business Studies",
+    "topic": "Personal Finance",
+    "question_text": "The attributes of living modestly include the following EXCEPT:",
+    "options": {
+      "a": "Simplicity",
+      "b": "Contentment",
+      "c": "Extravagance",
+      "d": "Living within one's means"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Modesty entails *simplicity*, *contentment*, and *living within one's means*. **Extravagance**, which means spending recklessly or wastefully, is the exact opposite of modesty.",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "Business Studies",
+    "topic": "Personal Finance",
+    "question_text": "A state of being deeply satisfied and happy with whatever financial resources one currently possesses is known as:",
+    "options": {
+      "a": "probity",
+      "b": "simplicity",
+      "c": "transparency",
+      "d": "contentment"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Contentment** is inner satisfaction with what one has. It prevents individuals from feeling undue pressure to acquire things they cannot afford.",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "Business Studies",
+    "topic": "Personal Finance",
+    "question_text": "When an individual practices modesty in their daily expenditures, it helps them naturally develop:",
+    "options": {
+      "a": "unlimited wealth",
+      "b": "self-control",
+      "c": "public popularity",
+      "d": "extravagant habits"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A major positive effect of living modestly is the development of **self-control**, empowering an individual to resist impulse buying and unnecessary financial indulgences.",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "Business Studies",
+    "topic": "Personal Finance",
+    "question_text": "How does contentment and modest living directly impact an employee's behavior in a business environment?",
+    "options": {
+      "a": "It increases the tendency to steal office funds",
+      "b": "It makes the employee lazy and unproductive",
+      "c": "It leads to a low tendency of corrupt practices",
+      "d": "It forces the employee to seek illegitimate loans"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "A person who is content and lives within their means feels no desperate pressure to fund an extravagant lifestyle. Consequently, this results in a **low tendency of corrupt practices** such as fraud, bribery, or embezzlement.",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "Business Studies",
+    "topic": "Petty Cash Book",
+    "question_text": "The book of account specifically maintained for recording small and minor daily expenses is the:",
+    "options": {
+      "a": "cash book",
+      "b": "petty cash book",
+      "c": "purchases day book",
+      "d": "sales journal"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **petty cash book** is used to record small expenditures of a business such as postages, cleaning, and stationery, which are too minor to be paid by cheque or recorded directly in the main cash book.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "Business Studies",
+    "topic": "Petty Cash Book",
+    "question_text": "A system where the petty cashier is given a fixed sum of money at the beginning of a period, which is then restored to its original amount at the end of the period, is known as the:",
+    "options": {
+      "a": "reimbursement system",
+      "b": "imprest system",
+      "c": "payment system",
+      "d": "retirement system"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **imprest system** involves advancing a fixed amount (the imprest or float) to the petty cashier. At the end of the period, the exact amount spent is reimbursed to bring the balance back to the original fixed sum.",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "Business Studies",
+    "topic": "Petty Cash Book",
+    "question_text": "A petty cashier is given a monthly imprest of $₦5,000$. If he spends $₦3,200$ during the month, how much will he be reimbursed at the end of the month?",
+    "options": {
+      "a": "₦1,800",
+      "b": "₦3,200",
+      "c": "₦5,000",
+      "d": "₦8,200"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Under the imprest system, **reimbursement is exactly equal to the amount spent**. \n\n$$\\text{Reimbursement} = \\text{Total amount spent}$$\n$$\\text{Reimbursement} = ₦3,200$$",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "Business Studies",
+    "topic": "Petty Cash Book",
+    "question_text": "Which of the following source documents is primarily used to request cash for minor office expenses before an entry is made in the petty cash book?",
+    "options": {
+      "a": "Invoice",
+      "b": "Petty cash voucher",
+      "c": "Bank statement",
+      "d": "Credit note"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **petty cash voucher** is an internal document used to request and authorize the disbursement of small amounts of cash. It serves as the primary source document for recording payments in the petty cash book.",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "Business Studies",
+    "topic": "Petty Cash Book",
+    "question_text": "The following items are typically found in the analysis columns of a petty cash book EXCEPT:",
+    "options": {
+      "a": "postages",
+      "b": "stationery",
+      "c": "motor vehicles",
+      "d": "cleaning"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Analysis columns are used to classify minor expenses. *Postages*, *stationery*, and *cleaning* are small recurring expenses. **Motor vehicles** represent major capital expenditure, which would be paid by cheque and recorded in the main cash book, not the petty cash book.",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "Business Studies",
+    "topic": "Petty Cash Book",
+    "question_text": "In a petty cash book, the fixed amount initially received by the petty cashier from the chief cashier is recorded on the:",
+    "options": {
+      "a": "credit side",
+      "b": "debit side",
+      "c": "analysis column",
+      "d": "payment side"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Like a standard cash book, the **debit side** (left side) is for *receipts*. Therefore, the initial float (imprest) received from the main cashier is recorded on the debit side.",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "Business Studies",
+    "topic": "Petty Cash Book",
+    "question_text": "A petty cash book starts with a float of $₦10,000$. During the week, the following expenditures were made: Postages $₦1,500$, Stationery $₦2,000$, and Traveling $₦1,200$. What is the balance carried down at the end of the week?",
+    "options": {
+      "a": "₦4,700",
+      "b": "₦5,300",
+      "c": "₦10,000",
+      "d": "₦14,700"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "To find the balance carried down, subtract the total expenses from the initial float.\n\n1. Calculate total expenses: \n$$₦1,500 + ₦2,000 + ₦1,200 = ₦4,700$$\n\n2. Subtract from float: \n$$₦10,000 - ₦4,700 = ₦5,300$$\n\nThe unspent balance is **₦5,300**.",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "Business Studies",
+    "topic": "Petty Cash Book",
+    "question_text": "Study the petty cash extract below:\n\n| Detail | Amount (₦) |\n| :--- | :--- |\n| Imprest amount | 20,000 |\n| Total expenses for the week | 16,450 |\n| Unspent cash | 3,550 |\n\nBased on the table, what is the exact reimbursement required to restore the imprest?",
+    "options": {
+      "a": "₦3,550",
+      "b": "₦16,450",
+      "c": "₦20,000",
+      "d": "₦36,450"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "In the imprest system, the petty cashier is reimbursed with the **exact amount spent** to bring the cash balance back up to the imprest level.\nAmount Spent = $₦16,450$, so Reimbursement = **₦16,450**.",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "Business Studies",
+    "topic": "Petty Cash Book",
+    "question_text": "The act of giving back the exact amount of money spent by the petty cashier to bring the cash float back to its original fixed amount is called:",
+    "options": {
+      "a": "retirement",
+      "b": "reimbursement",
+      "c": "disbursement",
+      "d": "reconciliation"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Reimbursement** is the process of replacing the spent petty cash funds so that the balance on hand returns to the agreed imprest amount at the start of the new period.",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "Business Studies",
+    "topic": "Petty Cash Book",
+    "question_text": "When an employee completes a designated official trip and returns the unspent balance of a cash advance along with supporting receipts, this procedure is termed:",
+    "options": {
+      "a": "retirement of advance",
+      "b": "reimbursement of imprest",
+      "c": "float creation",
+      "d": "procurement"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Retirement of advance** (or retiring cash) means accounting for the money given out for an assignment. The employee must show receipts for what was spent and return any unspent balance.",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "Business Studies",
+    "topic": "Petty Cash Book",
+    "question_text": "On which side of the petty cash book are the analysis columns for classifying different expenses located?",
+    "options": {
+      "a": "Left hand side",
+      "b": "Debit side",
+      "c": "Credit side",
+      "d": "Receipt side"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Payments are recorded on the **credit side** of the petty cash book. Therefore, the analysis columns (used to break down and classify these payments) are located on the credit side, spreading out towards the right.",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "Business Studies",
+    "topic": "Petty Cash Book",
+    "question_text": "A petty cashier received $₦8,000$ on May 1st. He paid $₦500$ for cleaning, $₦1,200$ for stamps, and $₦800$ for bus fare. If the imprest is $₦8,000$, what is the total of the payment column at the end of the month?",
+    "options": {
+      "a": "₦2,500",
+      "b": "₦5,500",
+      "c": "₦8,000",
+      "d": "₦10,500"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The total of the payment column is the sum of all individual expenses made during the period.\n\nTotal Payments = $\\text{Cleaning} + \\text{Stamps} + \\text{Bus fare}$\nTotal Payments = $₦500 + ₦1,200 + ₦800 = ₦2,500$.",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "Business Studies",
+    "topic": "Cash Book",
+    "question_text": "The principal book of account used primarily to record all daily receipts and payments of cash and cheques is called the:",
+    "options": {
+      "a": "purchases journal",
+      "b": "petty cash book",
+      "c": "cash book",
+      "d": "sales day book"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **cash book** is the financial journal that contains all cash receipts and payments, including bank deposits and withdrawals. It is a book of prime entry used exclusively for cash and bank transactions.",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "Business Studies",
+    "topic": "Cash Book",
+    "question_text": "The Cash Book is uniquely classified in accounting because it serves as both a book of prime entry and a:",
+    "options": {
+      "a": "trial balance",
+      "b": "source document",
+      "c": "ledger account",
+      "d": "balance sheet"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The Cash Book is unique because it fulfills a dual role: it is a **book of original entry** (where transactions are recorded first) and it also serves directly as the cash and bank **ledger accounts** in the general ledger system.",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "Business Studies",
+    "topic": "Cash Book",
+    "question_text": "A Single Column Cash Book is designed to record:",
+    "options": {
+      "a": "cash and bank transactions simultaneously",
+      "b": "only cash receipts and cash payments",
+      "c": "credit purchases and credit sales",
+      "d": "cash discounts allowed to customers"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **Single Column Cash Book** has only one amount column on each side (debit and credit) and is strictly used to record **only physical cash receipts and cash payments**.",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "Business Studies",
+    "topic": "Cash Book",
+    "question_text": "Which of the following statements is a fundamental rule regarding the cash column of a cash book?",
+    "options": {
+      "a": "It can show a credit balance at the end of the month.",
+      "b": "It must always show a debit balance or a nil balance.",
+      "c": "It records only transactions involving commercial banks.",
+      "d": "It is used to write off bad debts from credit customers."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A business cannot spend more physical cash than it has. Therefore, the **cash column must always show a debit balance** (meaning receipts are greater than payments) or a zero balance, but never a credit balance.",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "Business Studies",
+    "topic": "Cash Book",
+    "question_text": "A Two-Column Cash Book differs from a Single Column Cash Book because it contains extra columns for:",
+    "options": {
+      "a": "petty cash",
+      "b": "cash discounts",
+      "c": "bank transactions",
+      "d": "credit sales"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **Two-Column Cash Book** contains two amount columns on each side: one for **cash** transactions and one for **bank** transactions (cheques).",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "Business Studies",
+    "topic": "Cash Book",
+    "question_text": "In a cash book, what does a transaction recorded on both the debit side (cash column) and credit side (bank column) represent?",
+    "options": {
+      "a": "A double entry",
+      "b": "A reverse entry",
+      "c": "A contra entry",
+      "d": "A corrected error"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A **contra entry** occurs when a transaction involves both the cash and bank accounts. For example, withdrawing cash from the bank for office use is credited to the bank column and debited to the cash column in the same cash book.",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "Business Studies",
+    "topic": "Cash Book",
+    "question_text": "Which of the following letters is traditionally placed in the folio column of a cash book to denote a contra entry?",
+    "options": {
+      "a": "B",
+      "b": "C",
+      "c": "D",
+      "d": "E"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The letter **'C'** is written in the folio column against a contra entry to indicate that the double-entry for that specific transaction has been completed within the cash book itself and needs no posting to a ledger.",
+    "section_id": null
+  },
+  {
+    "question_number": 46,
+    "subject": "Business Studies",
+    "topic": "Cash Book",
+    "question_text": "Which of the following transactions would result in a contra entry in a Two-Column Cash Book?",
+    "options": {
+      "a": "Paying a supplier by cheque",
+      "b": "Receiving cash from a debtor",
+      "c": "Depositing office cash into the bank account",
+      "d": "Buying office stationery with physical cash"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "**Depositing office cash into the bank** increases the bank balance (debit bank) and decreases the office cash (credit cash). Since both accounts are in the Two-Column Cash Book, it forms a **contra entry**.",
+    "section_id": null
+  },
+  {
+    "question_number": 47,
+    "subject": "Business Studies",
+    "topic": "Cash Book",
+    "question_text": "In order to prepare a Three-Column Cash Book, which column must be added to the standard cash and bank columns?",
+    "options": {
+      "a": "Discount column",
+      "b": "Interest column",
+      "c": "Tax column",
+      "d": "Creditors column"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "A **Three-Column Cash Book** features three amount columns on both sides: Cash, Bank, and **Discount** (Discount Allowed on the debit side and Discount Received on the credit side).",
+    "section_id": null
+  },
+  {
+    "question_number": 48,
+    "subject": "Business Studies",
+    "topic": "Cash Book",
+    "question_text": "In a Three-Column Cash Book, the discount column on the debit (receipts) side is specifically used to record:",
+    "options": {
+      "a": "trade discount given by suppliers",
+      "b": "discount received from creditors",
+      "c": "discount allowed to debtors for prompt payment",
+      "d": "the total of bounced cheques"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The debit side records receipts. When receiving payment from customers (debtors), the business may give them a discount for paying early. This is called **Discount Allowed** and is recorded in the debit-side discount column.",
+    "section_id": null
+  },
+  {
+    "question_number": 49,
+    "subject": "Business Studies",
+    "topic": "Cash Book",
+    "question_text": "A trader starts the week with a cash balance of $₦45,000$. During the week, she makes cash sales of $₦12,000$, pays wages of $₦8,000$ in cash, and banks $₦15,000$ cash. What is the closing cash balance?",
+    "options": {
+      "a": "₦15,000",
+      "b": "₦34,000",
+      "c": "₦49,000",
+      "d": "₦57,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "To calculate the closing cash balance, sum the receipts and subtract the payments:\n\n1.  **Opening Balance**: $₦45,000$\n2.  **Add Receipts**: $+ ₦12,000$ (Cash sales)\n    *   Total cash available = $₦57,000$\n3.  **Less Payments**: $₦8,000$ (Wages) $+ ₦15,000$ (Cash banked)\n    *   Total payments = $₦23,000$\n4.  **Closing Balance**: $₦57,000 - ₦23,000 = ₦34,000$",
+    "section_id": null
+  },
+  {
+    "question_number": 50,
+    "subject": "Business Studies",
+    "topic": "Cash Book",
+    "question_text": "The bank column of a cash book shows total debit entries (receipts) of $₦150,000$ and total credit entries (payments) of $₦180,000$. This indicates a:",
+    "options": {
+      "a": "bank overdraft of ₦30,000",
+      "b": "cash in hand of ₦30,000",
+      "c": "surplus bank balance of ₦330,000",
+      "d": "profit of ₦30,000"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "If payments ($₦180,000$) exceed receipts ($₦150,000$) in the bank column, it means the business has drawn out more money than it has in the account. This negative balance of **₦30,000** is known as a **bank overdraft**.",
+    "section_id": null
+  },
+  {
+    "question_number": 51,
+    "subject": "Business Studies",
+    "topic": "Cash Book",
+    "question_text": "A customer who owes the business $₦20,000$ settles his account by paying a cheque of $₦19,000$ in full settlement. How will this be entered on the debit side of a Three-Column Cash Book?",
+    "options": {
+      "a": "₦20,000 in the bank column and ₦1,000 in the discount column",
+      "b": "₦19,000 in the bank column and ₦1,000 in the discount column",
+      "c": "₦19,000 in the cash column and ₦19,000 in the bank column",
+      "d": "₦20,000 in the discount column and ₦19,000 in the cash column"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Since a cheque was received, $₦19,000$ goes into the **bank column**. The difference between the debt ($₦20,000$) and the payment ($₦19,000$) is a cash discount allowed to the customer, so $₦1,000$ goes into the **discount column**.",
+    "section_id": null
+  },
+  {
+    "question_number": 52,
+    "subject": "Business Studies",
+    "topic": "Cash Book",
+    "question_text": "A business buys goods worth $₦40,000$ and receives a $5\\%$ cash discount for immediate payment by cheque. What amount will be entered in the bank column on the credit side?",
+    "options": {
+      "a": "₦2,000",
+      "b": "₦38,000",
+      "c": "₦40,000",
+      "d": "₦42,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "First, calculate the discount: \n$$5\\% \\times ₦40,000 = ₦2,000$$\nNext, subtract the discount from the total amount to find the cheque payment:\n$$₦40,000 - ₦2,000 = ₦38,000$$\nThe actual payment of **₦38,000** is recorded in the bank column.",
+    "section_id": null
+  },
+  {
+    "question_number": 53,
+    "subject": "Business Studies",
+    "topic": "Cash Book",
+    "question_text": "Study the extract from the debit side of a Cash Book below:\n\n| Date | Particulars | Discount (₦) | Cash (₦) | Bank (₦) |\n|---|---|---|---|---|\n| May 10 | B. Chidi | 500 | | 8,500 |\n\nWhat is the total value of the debt settled by B. Chidi on May 10?",
+    "options": {
+      "a": "₦8,000",
+      "b": "₦8,500",
+      "c": "₦9,000",
+      "d": "₦17,000"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "To find the total original debt, you must add the cheque payment received to the cash discount that was allowed.\n$$\\text{Total Debt} = \\text{Amount Paid} + \\text{Discount Allowed}$$\n$$\\text{Total Debt} = ₦8,500 + ₦500 = ₦9,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 54,
+    "subject": "Business Studies",
+    "topic": "Cash Book",
+    "question_text": "Unlike the cash and bank columns, the discount columns in a Three-Column Cash Book are not balanced at the end of the period. Instead, they are:",
+    "options": {
+      "a": "subtracted from each other to find profit",
+      "b": "transferred to the petty cash book",
+      "c": "totalled and posted directly to the discount accounts in the ledger",
+      "d": "cancelled out to prevent a contra entry"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The discount columns do not represent an asset like cash or bank, so they are not \"balanced c/d\". They are purely memorandum columns that are **totalled** at the end of the month, and those totals are posted to the *Discount Allowed* and *Discount Received* accounts in the General Ledger.",
+    "section_id": null
+  },
+  {
+    "question_number": 55,
+    "subject": "Business Studies",
+    "topic": "Trial Balance",
+    "question_text": "A list of debit and credit balances extracted from the ledger at a particular date is known as a:",
+    "options": {
+      "a": "cash book",
+      "b": "trial balance",
+      "c": "balance sheet",
+      "d": "bank statement"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **trial balance** is an internal accounting schedule that lists all the debit and credit balances extracted from the various ledger accounts on a specific date.",
+    "section_id": null
+  },
+  {
+    "question_number": 56,
+    "subject": "Business Studies",
+    "topic": "Trial Balance",
+    "question_text": "The primary purpose of preparing a trial balance is to:",
+    "options": {
+      "a": "determine the net profit for the year",
+      "b": "check the arithmetical accuracy of the ledgers",
+      "c": "calculate the value of closing stock",
+      "d": "identify the cash in hand"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The primary **use of a trial balance** is to verify the arithmetical accuracy of the double-entry system. If the total debits equal the total credits, it is assumed that the ledger accounts are arithmetically correct.",
+    "section_id": null
+  },
+  {
+    "question_number": 57,
+    "subject": "Business Studies",
+    "topic": "Trial Balance",
+    "question_text": "The following are uses of a trial balance EXCEPT:",
+    "options": {
+      "a": "facilitating the preparation of final accounts",
+      "b": "revealing all types of accounting errors",
+      "c": "proving the arithmetical accuracy of double entry",
+      "d": "showing a summary of all ledger balances"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A trial balance does **not** reveal all errors. For example, errors of omission (completely forgetting to record a transaction) or errors of principle (entering an asset as an expense) will not prevent the trial balance from balancing.",
+    "section_id": null
+  },
+  {
+    "question_number": 58,
+    "subject": "Business Studies",
+    "topic": "Trial Balance",
+    "question_text": "In a trial balance, which of the following accounts will normally have a debit balance?",
+    "options": {
+      "a": "Capital",
+      "b": "Sales",
+      "c": "Purchases",
+      "d": "Discount received"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "By the rules of double entry, **Purchases** represent an expense or asset acquisition and therefore carry a debit balance. *Capital*, *Sales*, and *Discount Received* are equity/revenue items and always carry credit balances.",
+    "section_id": null
+  },
+  {
+    "question_number": 59,
+    "subject": "Business Studies",
+    "topic": "Trial Balance",
+    "question_text": "All the following balances are recorded on the credit side of a trial balance EXCEPT:",
+    "options": {
+      "a": "Bank loan",
+      "b": "Creditors",
+      "c": "Capital",
+      "d": "Debtors"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Debtors** are people who owe money to the business; therefore, they represent an asset. Assets carry debit balances. Liabilities (Bank loan, Creditors) and Equity (Capital) carry credit balances.",
+    "section_id": null
+  },
+  {
+    "question_number": 60,
+    "subject": "Business Studies",
+    "topic": "Trial Balance",
+    "question_text": "A ledger account shows total debits of $₦15,000$ and total credits of $₦10,000$. How is this extracted balance recorded in the trial balance?",
+    "options": {
+      "a": "₦5,000 on the debit side",
+      "b": "₦5,000 on the credit side",
+      "c": "₦25,000 on the debit side",
+      "d": "₦25,000 on the credit side"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The balance is the difference between the heavier side and the lighter side.\n$$₦15,000 \\text{ (Debit)} - ₦10,000 \\text{ (Credit)} = ₦5,000$$\nBecause the debit side is heavier, it results in a **debit balance of ₦5,000**, which is placed in the debit column of the trial balance.",
+    "section_id": null
+  },
+  {
+    "question_number": 61,
+    "subject": "Business Studies",
+    "topic": "Trial Balance",
+    "question_text": "Calculate the correct total of the trial balance from the following extracted balances:\n\n*   Capital $₦10,000$\n*   Cash $₦4,000$\n*   Purchases $₦8,000$\n*   Sales $₦12,000$\n*   Creditors $₦5,000$\n*   Debtors $₦15,000$",
+    "options": {
+      "a": "₦12,000",
+      "b": "₦15,000",
+      "c": "₦27,000",
+      "d": "₦54,000"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Sort the balances into Debit and Credit columns according to accounting rules:\n\n| Item | Debit (₦) | Credit (₦) |\n| :--- | :--- | :--- |\n| Capital | | 10,000 |\n| Cash (Asset) | 4,000 | |\n| Purchases (Expense) | 8,000 | |\n| Sales (Revenue) | | 12,000 |\n| Creditors (Liability) | | 5,000 |\n| Debtors (Asset) | 15,000 | |\n| **Total** | **27,000** | **27,000** |",
+    "section_id": null
+  },
+  {
+    "question_number": 62,
+    "subject": "Business Studies",
+    "topic": "Trial Balance",
+    "question_text": "An extracted trial balance has total debits of $₦42,000$ and total credits of $₦45,000$. To make the trial balance agree temporarily, what amount must be placed in a Suspense Account and on which side?",
+    "options": {
+      "a": "₦3,000 on the credit side",
+      "b": "₦3,000 on the debit side",
+      "c": "₦87,000 on the credit side",
+      "d": "₦87,000 on the debit side"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "A Suspense Account is used to artificially balance a trial balance until errors are found. \n$$₦45,000 \\text{ (Credits)} - ₦42,000 \\text{ (Debits)} = ₦3,000$$\nThe debit side is short by $₦3,000$. Therefore, **₦3,000 is placed on the debit side** to make both sides equal $₦45,000$.",
+    "section_id": null
+  },
+  {
+    "question_number": 63,
+    "subject": "Business Studies",
+    "topic": "Trial Balance",
+    "question_text": "When a ledger account is balanced, the 'balance b/d' (brought down) appears on the credit side. When forming the trial balance, this amount will be transferred to the:",
+    "options": {
+      "a": "debit side of the trial balance",
+      "b": "credit side of the trial balance",
+      "c": "trading account directly",
+      "d": "petty cash book"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The 'balance brought down' (`balance b/d`) defines the actual nature of the account. A `balance b/d` on the credit side signifies a **credit balance**, and thus, it must be recorded in the **credit side of the trial balance**.",
+    "section_id": null
+  },
+  {
+    "question_number": 64,
+    "subject": "Business Studies",
+    "topic": "Trial Balance",
+    "question_text": "Which of the following items located on a trial balance is specifically a Balance Sheet item?",
+    "options": {
+      "a": "Rent paid",
+      "b": "Discount allowed",
+      "c": "Motor vehicle",
+      "d": "Purchases"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Motor vehicle** is a fixed asset and therefore belongs in the Balance Sheet. *Rent paid*, *Discount allowed*, and *Purchases* are expense items and are transferred to the Trading, Profit and Loss Account.",
+    "section_id": null
+  },
+  {
+    "question_number": 65,
+    "subject": "Business Studies",
+    "topic": "Trial Balance",
+    "question_text": "Consider the following items extracted from a trial balance:\nI. Wages $₦2,000$\nII. Fixtures $₦5,000$\nIII. Bank overdraft $₦1,500$\nIV. Sales $₦8,000$\n\nWhich of these are Balance Sheet items?",
+    "options": {
+      "a": "I and IV only",
+      "b": "II and III only",
+      "c": "I, II, and III",
+      "d": "II, III, and IV"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Balance Sheet items are Assets, Liabilities, and Capital. \n*   **Fixtures** (Asset) = Balance Sheet\n*   **Bank overdraft** (Liability) = Balance Sheet\n*   *Wages* (Expense) and *Sales* (Revenue) go to the Profit & Loss Account.",
+    "section_id": null
+  },
+  {
+    "question_number": 66,
+    "subject": "Business Studies",
+    "topic": "Trial Balance",
+    "question_text": "A business has the following balances in its trial balance: Capital $₦20,000$ and Drawings $₦2,000$. How will these be treated when preparing the Balance Sheet?",
+    "options": {
+      "a": "Add Drawings to Capital",
+      "b": "Subtract Drawings from Capital",
+      "c": "Add Capital to Liabilities and Drawings to Assets",
+      "d": "Subtract Capital from Drawings"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Drawings** represent money or goods taken out of the business by the owner for personal use. In the Balance Sheet, it is treated as a reduction in owner's equity, so it must be **subtracted from Capital**.",
+    "section_id": null
+  },
+  {
+    "question_number": 67,
+    "subject": "Business Studies",
+    "topic": "Trial Balance",
+    "question_text": "A trial balance contains the following balances:\n*   Machinery: $₦15,000$\n*   Cash: $₦3,000$\n*   Sales: $₦20,000$\n*   Purchases: $₦12,000$\n*   Capital: $₦10,000$\n\nCalculate the total value of assets to be identified for the Balance Sheet.",
+    "options": {
+      "a": "₦3,000",
+      "b": "₦12,000",
+      "c": "₦15,000",
+      "d": "₦18,000"
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "From the list provided, identify only the **Asset** accounts:\n1.  **Machinery** (Fixed Asset) = $₦15,000$\n2.  **Cash** (Current Asset) = $₦3,000$\n\n$$\\text{Total Assets} = ₦15,000 + ₦3,000 = ₦18,000$$\n\n*(Note: Sales and Purchases go to the Trading Account; Capital is Equity).* ",
+    "section_id": null
+  },
+  {
+    "question_number": 68,
+    "subject": "Business Studies",
+    "topic": "Trading, Profit and Loss Account",
+    "question_text": "The primary purpose of preparing a Trading, Profit and Loss Account at the end of a financial period is to ascertain the:",
+    "options": {
+      "a": "total cash balance in the bank",
+      "b": "financial position of the business on a given date",
+      "c": "gross profit and net profit of the business",
+      "d": "arithmetical accuracy of the ledger entries"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **purpose of the Trading, Profit and Loss Account** is to calculate the profitability of the business. The Trading section determines the *Gross Profit/Loss*, while the Profit and Loss section determines the final *Net Profit/Loss*.",
+    "section_id": null
+  },
+  {
+    "question_number": 69,
+    "subject": "Business Studies",
+    "topic": "Trading, Profit and Loss Account",
+    "question_text": "The Trading Account is specifically designed to reveal the difference between the sales revenue and the:",
+    "options": {
+      "a": "cost of goods sold",
+      "b": "total indirect expenses",
+      "c": "value of total assets",
+      "d": "owner's capital"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The Trading Account matches the revenue earned from sales against the direct cost of purchasing those goods. \n$$\\text{Gross Profit} = \\text{Net Sales} - \\text{Cost of Goods Sold (COGS)}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 70,
+    "subject": "Business Studies",
+    "topic": "Trading, Profit and Loss Account",
+    "question_text": "Which of the following items is recorded on the debit side of the Trading Account?",
+    "options": {
+      "a": "Sales",
+      "b": "Closing stock",
+      "c": "Return outwards",
+      "d": "Opening stock"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "The debit side of the Trading Account records the costs incurred. **Opening stock** is the first item on the debit side. *Sales* and *Closing stock* are recorded on the credit side, while *Return outwards* is deducted from Purchases on the debit side.",
+    "section_id": null
+  },
+  {
+    "question_number": 71,
+    "subject": "Business Studies",
+    "topic": "Trading, Profit and Loss Account",
+    "question_text": "A trader starts the year with an Opening Stock of $₦15,000$. During the year, Purchases amount to $₦40,000$ and Closing Stock is valued at $₦10,000$. What is the Cost of Goods Sold (COGS)?",
+    "options": {
+      "a": "₦40,000",
+      "b": "₦45,000",
+      "c": "₦55,000",
+      "d": "₦65,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The formula for calculating Cost of Goods Sold in the Trading Account is:\n$$\\text{COGS} = \\text{Opening Stock} + \\text{Purchases} - \\text{Closing Stock}$$\n$$\\text{COGS} = ₦15,000 + ₦40,000 - ₦10,000 = ₦45,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 72,
+    "subject": "Business Studies",
+    "topic": "Trading, Profit and Loss Account",
+    "question_text": "If a business has a Cost of Goods Sold of $₦45,000$ and total Net Sales of $₦70,000$, what is the Gross Profit for the period?",
+    "options": {
+      "a": "₦25,000",
+      "b": "₦35,000",
+      "c": "₦45,000",
+      "d": "₦115,000"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Gross profit is the excess of Net Sales over the Cost of Goods Sold.\n$$\\text{Gross Profit} = \\text{Net Sales} - \\text{COGS}$$\n$$\\text{Gross Profit} = ₦70,000 - ₦45,000 = ₦25,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 73,
+    "subject": "Business Studies",
+    "topic": "Trading, Profit and Loss Account",
+    "question_text": "When constructing a Profit and Loss Account, how is a Gross Profit figure transferred from the Trading Account?",
+    "options": {
+      "a": "It is debited to the Profit and Loss Account",
+      "b": "It is credited to the Profit and Loss Account",
+      "c": "It is subtracted from the indirect expenses",
+      "d": "It is ignored until the Balance Sheet is prepared"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A Gross Profit represents an income balance (credit balance). By the rules of double entry, it is brought down and **credited** to the Profit and Loss Account to serve as the main source of income to cover indirect expenses.",
+    "section_id": null
+  },
+  {
+    "question_number": 74,
+    "subject": "Business Studies",
+    "topic": "Trading, Profit and Loss Account",
+    "question_text": "All of the following are examples of indirect expenses charged to the Profit and Loss Account EXCEPT:",
+    "options": {
+      "a": "Rent and Rates",
+      "b": "Salaries and Wages",
+      "c": "Carriage Inwards",
+      "d": "Discount Allowed"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Carriage Inwards** is the cost of transporting purchased goods into the business. It is a *direct cost* and is charged to the **Trading Account**. Items like Rent, Salaries, and Discount Allowed are indirect/operating expenses charged to the Profit and Loss Account.",
+    "section_id": null
+  },
+  {
+    "question_number": 75,
+    "subject": "Business Studies",
+    "topic": "Trading, Profit and Loss Account",
+    "question_text": "According to the rules for constructing a Simple Trading Account, to calculate the 'Net Sales', a book-keeper must deduct which of the following from the total Sales figure?",
+    "options": {
+      "a": "Return Inwards",
+      "b": "Return Outwards",
+      "c": "Discount Received",
+      "d": "Carriage Outwards"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Return Inwards** (Sales Returns) represents goods sent back by customers. To find the true, actual sales revenue for the period, Return Inwards must be deducted from the gross Sales.\n$$\\text{Net Sales} = \\text{Sales} - \\text{Return Inwards}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 76,
+    "subject": "Business Studies",
+    "topic": "Trading, Profit and Loss Account",
+    "question_text": "A business has Purchases totalling $₦60,000$ and goods returned to suppliers (Return Outwards) valued at $₦4,000$. What is the Net Purchases figure?",
+    "options": {
+      "a": "₦4,000",
+      "b": "₦56,000",
+      "c": "₦60,000",
+      "d": "₦64,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Net Purchases is calculated by subtracting returns made to the supplier from the total purchases.\n$$\\text{Net Purchases} = \\text{Purchases} - \\text{Return Outwards}$$\n$$\\text{Net Purchases} = ₦60,000 - ₦4,000 = ₦56,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 77,
+    "subject": "Business Studies",
+    "topic": "Trading, Profit and Loss Account",
+    "question_text": "Where should the item 'Discount Received' be recorded when constructing the Profit and Loss Account?",
+    "options": {
+      "a": "On the debit side as an expense",
+      "b": "On the debit side as a liability",
+      "c": "On the credit side as an additional income",
+      "d": "On the credit side as a fixed asset"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Discount Received** is a reduction in payment granted by a supplier. It represents a financial gain or additional income to the business, and therefore it is recorded on the **credit side** of the Profit and Loss Account.",
+    "section_id": null
+  },
+  {
+    "question_number": 78,
+    "subject": "Business Studies",
+    "topic": "Trading, Profit and Loss Account",
+    "question_text": "Study the figures below for a small business:\n*   Gross Profit: $₦30,000$\n*   Rent Paid: $₦4,000$\n*   Stationery: $₦1,500$\n*   Commission Received: $₦2,500$\n\nWhat is the Net Profit for the period?",
+    "options": {
+      "a": "₦24,500",
+      "b": "₦27,000",
+      "c": "₦29,500",
+      "d": "₦32,500"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Net Profit is calculated by adding other incomes to Gross Profit and then subtracting all indirect expenses.\n\n1.  **Total Income** = Gross Profit + Commission Received \n    $$₦30,000 + ₦2,500 = ₦32,500$$\n2.  **Total Expenses** = Rent Paid + Stationery\n    $$₦4,000 + ₦1,500 = ₦5,500$$\n3.  **Net Profit** = Total Income - Total Expenses\n    $$₦32,500 - ₦5,500 = ₦27,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 79,
+    "subject": "Business Studies",
+    "topic": "Trading, Profit and Loss Account",
+    "question_text": "If a Profit and Loss Account shows total expenses (debit side) of $₦45,000$ and total gross profit and incomes (credit side) of $₦38,000$, the business has made a:",
+    "options": {
+      "a": "Net Profit of ₦7,000",
+      "b": "Net Loss of ₦7,000",
+      "c": "Gross Loss of ₦7,000",
+      "d": "Net Loss of ₦83,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "When the total operating expenses (debits) exceed the total incomes (credits) in the Profit and Loss Account, the result is a **Net Loss**.\n$$\\text{Net Loss} = ₦45,000 - ₦38,000 = ₦7,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 80,
+    "subject": "Business Studies",
+    "topic": "Trading, Profit and Loss Account",
+    "question_text": "Examine the extracted balances below:\n\n| Item | Amount (₦) |\n| :--- | :--- |\n| Sales | 100,000 |\n| Cost of Goods Sold | 60,000 |\n| Operating Expenses | 25,000 |\n\nUsing the rules of final accounts, calculate the final Net Profit.",
+    "options": {
+      "a": "₦15,000",
+      "b": "₦25,000",
+      "c": "₦40,000",
+      "d": "₦75,000"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "This requires a two-step calculation representing the Trading Account and the Profit & Loss Account:\n\n**Step 1: Calculate Gross Profit (Trading Account)**\n$$\\text{Gross Profit} = \\text{Sales} - \\text{COGS}$$\n$$\\text{Gross Profit} = ₦100,000 - ₦60,000 = ₦40,000$$\n\n**Step 2: Calculate Net Profit (Profit and Loss Account)**\n$$\\text{Net Profit} = \\text{Gross Profit} - \\text{Operating Expenses}$$\n$$\\text{Net Profit} = ₦40,000 - ₦25,000 = ₦15,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 81,
+    "subject": "Business Studies",
+    "topic": "Balance Sheet",
+    "question_text": "A statement prepared at the end of a financial period to show the exact financial position of a business on a specific date is called a:",
+    "options": {
+      "a": "trial balance",
+      "b": "bank reconciliation statement",
+      "c": "balance sheet",
+      "d": "profit and loss account"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **Balance Sheet** is a financial statement that summarizes a company's assets, liabilities, and shareholders' equity at a specific point in time, giving investors and managers a snapshot of the business's financial health.",
+    "section_id": null
+  },
+  {
+    "question_number": 82,
+    "subject": "Business Studies",
+    "topic": "Balance Sheet",
+    "question_text": "Unlike the Trading, Profit and Loss Account which covers a period (e.g., 'for the year ended'), the Balance Sheet is uniquely prepared:",
+    "options": {
+      "a": "for a continuous month",
+      "b": "as at a specific date",
+      "c": "to cover a five-year projection",
+      "d": "for the beginning of the year only"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The Balance Sheet is a 'snapshot' of the business. It is not an account, but a statement of balances extracted **as at a specific date** (e.g., 'As at 31st December 2023').",
+    "section_id": null
+  },
+  {
+    "question_number": 83,
+    "subject": "Business Studies",
+    "topic": "Balance Sheet",
+    "question_text": "The primary use of a balance sheet to potential investors and banks is to:",
+    "options": {
+      "a": "check the arithmetical accuracy of daily transactions",
+      "b": "determine the exact cost of goods sold during the year",
+      "c": "assess the financial solvency and health of the business",
+      "d": "calculate the total amount of cash discounts given"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "External stakeholders like banks and investors use the balance sheet to assess the **solvency, liquidity, and overall financial health** of the business before giving out loans or investing.",
+    "section_id": null
+  },
+  {
+    "question_number": 84,
+    "subject": "Business Studies",
+    "topic": "Balance Sheet",
+    "question_text": "In a balance sheet, the physical properties, possessions, and financial resources owned by a business are collectively referred to as:",
+    "options": {
+      "a": "liabilities",
+      "b": "provisions",
+      "c": "assets",
+      "d": "equities"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Assets** are everything of value owned by the business that can be used to generate revenue. Examples include cash, machinery, premises, and stock.",
+    "section_id": null
+  },
+  {
+    "question_number": 85,
+    "subject": "Business Studies",
+    "topic": "Balance Sheet",
+    "question_text": "The following items are examples of current assets EXCEPT:",
+    "options": {
+      "a": "closing stock",
+      "b": "debtors",
+      "c": "cash in hand",
+      "d": "motor vehicles"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Current assets are items of value that are expected to be converted into cash within one year (like *stock*, *debtors*, and *cash*). **Motor vehicles** are *fixed assets* because they are kept for long-term use in the business, not for immediate resale.",
+    "section_id": null
+  },
+  {
+    "question_number": 86,
+    "subject": "Business Studies",
+    "topic": "Balance Sheet",
+    "question_text": "The financial obligations and debts owed by a business to external individuals or organizations are classified as:",
+    "options": {
+      "a": "drawings",
+      "b": "liabilities",
+      "c": "capital",
+      "d": "assets"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Liabilities** represent claims against the business by outsiders. It is money that the business owes to others, such as bank loans or amounts owed to suppliers (creditors).",
+    "section_id": null
+  },
+  {
+    "question_number": 87,
+    "subject": "Business Studies",
+    "topic": "Balance Sheet",
+    "question_text": "Which of the following represents a current liability in the preparation of a balance sheet?",
+    "options": {
+      "a": "A 10-year bank loan",
+      "b": "Premises",
+      "c": "Bank overdraft",
+      "d": "Goodwill"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Current liabilities are debts that must be paid within one financial year. A **bank overdraft** (a short-term borrowing facility) is a current liability, whereas a 10-year bank loan is a *long-term liability*.",
+    "section_id": null
+  },
+  {
+    "question_number": 88,
+    "subject": "Business Studies",
+    "topic": "Balance Sheet",
+    "question_text": "The fundamental accounting equation that dictates the structure of a balance sheet is:",
+    "options": {
+      "a": "Assets = Capital - Liabilities",
+      "b": "Assets = Capital + Liabilities",
+      "c": "Capital = Assets + Liabilities",
+      "d": "Liabilities = Assets + Capital"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The balance sheet relies on the dual aspect concept of accounting, represented by the equation: \n$$ \\text{Assets} = \\text{Capital} + \\text{Liabilities} $$\nThis simply means everything the business owns (Assets) was financed either by the owner (Capital) or by outsiders (Liabilities).",
+    "section_id": null
+  },
+  {
+    "question_number": 89,
+    "subject": "Business Studies",
+    "topic": "Balance Sheet",
+    "question_text": "A business has total assets worth $₦120,000$ and owes its suppliers and the bank a total of $₦45,000$. What is the owner's capital in the business?",
+    "options": {
+      "a": "₦45,000",
+      "b": "₦75,000",
+      "c": "₦120,000",
+      "d": "₦165,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Using the accounting equation:\n$$\\text{Capital} = \\text{Assets} - \\text{Liabilities}$$\n$$\\text{Capital} = ₦120,000 - ₦45,000 = ₦75,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 90,
+    "subject": "Business Studies",
+    "topic": "Balance Sheet",
+    "question_text": "Assets that have no physical substance but add significant value to the business, such as Goodwill, Patents, and Trademarks, are classified as:",
+    "options": {
+      "a": "tangible assets",
+      "b": "current assets",
+      "c": "intangible assets",
+      "d": "fictitious assets"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Intangible assets** cannot be touched or seen (like a brand's reputation or a patent) but they provide future economic benefits and are strictly recorded under fixed assets in the balance sheet.",
+    "section_id": null
+  },
+  {
+    "question_number": 91,
+    "subject": "Business Studies",
+    "topic": "Balance Sheet",
+    "question_text": "When preparing the capital section of a simple balance sheet, how is the owner's personal withdrawal of cash or goods (Drawings) treated?",
+    "options": {
+      "a": "It is added to the net profit",
+      "b": "It is added to the current liabilities",
+      "c": "It is subtracted from the opening capital",
+      "d": "It is classified as a fixed asset"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Drawings reduce the owner's investment in the business. Therefore, in the financed by (equity) section, it must be **subtracted** from the capital balance.\n$$\\text{Closing Capital} = \\text{Opening Capital} + \\text{Net Profit} - \\text{Drawings}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 92,
+    "subject": "Business Studies",
+    "topic": "Balance Sheet",
+    "question_text": "A business has the following balances:\n* Cash: $₦5,000$\n* Closing Stock: $₦15,000$\n* Debtors: $₦10,000$\n* Creditors: $₦12,000$\n\nCalculate the Working Capital of the business.",
+    "options": {
+      "a": "₦12,000",
+      "b": "₦18,000",
+      "c": "₦30,000",
+      "d": "₦42,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Working Capital represents the funds available for day-to-day operations and is calculated as: \n$$\\text{Working Capital} = \\text{Total Current Assets} - \\text{Total Current Liabilities}$$\n1. Total Current Assets = Cash ($₦5,000$) + Stock ($₦15,000$) + Debtors ($₦10,000$) = $₦30,000$\n2. Total Current Liabilities = Creditors ($₦12,000$)\n3. Working Capital = $₦30,000 - ₦12,000 = ₦18,000$",
+    "section_id": null
+  },
+  {
+    "question_number": 93,
+    "subject": "Business Studies",
+    "topic": "Balance Sheet",
+    "question_text": "An entrepreneur started the financial year with an opening capital of $₦50,000$. During the year, the business made a net profit of $₦15,000$, and the owner withdrew $₦5,000$ for personal use. What is the closing capital figure to be shown in the balance sheet?",
+    "options": {
+      "a": "₦40,000",
+      "b": "₦60,000",
+      "c": "₦65,000",
+      "d": "₦70,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "To find the Closing Capital:\n$$\\text{Closing Capital} = \\text{Opening Capital} + \\text{Net Profit} - \\text{Drawings}$$\n$$\\text{Closing Capital} = ₦50,000 + ₦15,000 - ₦5,000 = ₦60,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 94,
+    "subject": "Business Studies",
+    "topic": "Balance Sheet",
+    "question_text": "Given the following balances extracted from a business:\n* Premises: $₦100,000$\n* Machinery: $₦40,000$\n* Bank Loan: $₦50,000$\n* Closing Stock: $₦25,000$\n* Cash: $₦5,000$\n\nCalculate the Total Assets of the business.",
+    "options": {
+      "a": "₦140,000",
+      "b": "₦170,000",
+      "c": "₦220,000",
+      "d": "₦270,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "To calculate Total Assets, add both Fixed and Current Assets together while ignoring Liabilities (Bank Loan):\n* Fixed Assets: Premises ($₦100,000$) + Machinery ($₦40,000$) = $₦140,000$\n* Current Assets: Closing Stock ($₦25,000$) + Cash ($₦5,000$) = $₦30,000$\n$$\\text{Total Assets} = ₦140,000 + ₦30,000 = ₦170,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 95,
+    "subject": "Business Studies",
+    "topic": "Balance Sheet",
+    "question_text": "From the data provided below, calculate the final balance sheet total for the Equity & Liabilities side.\n\n| Item | Amount (₦) |\n| :--- | :--- |\n| Opening Capital | 80,000 |\n| Net Profit | 20,000 |\n| Creditors | 15,000 |\n| Bank Overdraft | 5,000 |\n\nWhat is the grand total of Equity and Liabilities?",
+    "options": {
+      "a": "₦80,000",
+      "b": "₦100,000",
+      "c": "₦115,000",
+      "d": "₦120,000"
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "The Equity & Liabilities side consists of the owner's updated capital plus all external debts.\n1. **Total Equity** = Opening Capital ($₦80,000$) + Net Profit ($₦20,000$) = $₦100,000$\n2. **Total Liabilities** = Creditors ($₦15,000$) + Bank Overdraft ($₦5,000$) = $₦20,000$\n3. **Grand Total** = $₦100,000 + ₦20,000 = ₦120,000$",
+    "section_id": null
+  }
+]
