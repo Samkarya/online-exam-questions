@@ -546,6 +546,41 @@
     "suitePath": "configs/bece.json"
   },
   {
+    "id": "bece_bsIntroduction",
+    "title": "BECE Business Studies: Introduction to Business Studies",
+    "short_description": "Foundational practice covering the meaning, components, and career pathways of Business Studies, including Office Practice, Commerce, Book-keeping, and Keyboarding/Computer.",
+    "path": "nigeria/BECE/businessStudies/introToBusinessStudies.json",
+    "suitePath": "configs/bece.json"
+  },
+  {
+    "id": "bece_bsOfficePractice",
+    "title": "BECE Business Studies: Office Practice",
+    "short_description": "Comprehensive practice covering the ideal office, office staff, reception duties, office procedures, correspondence, documents, and office equipment.",
+    "path": "nigeria/BECE/businessStudies/officePractice.json",
+    "suitePath": "configs/bece.json"
+  },
+  {
+    "id": "bece_bsCommerce",
+    "title": "BECE Business Studies: Commerce & Activities That Aid Commerce",
+    "short_description": "In-depth practice on commerce, production, trade, market, distribution, banking, insurance, transportation, advertising, and communication.",
+    "path": "nigeria/BECE/businessStudies/activitiesThatAidCommerce.json",
+    "suitePath": "configs/bece.json"
+  },
+  {
+    "id": "bece_bsEntrepreneurshipConsumer",
+    "title": "BECE Business Studies: Entrepreneurial Skill, Consumer & Society",
+    "short_description": "Practice on entrepreneurship, forms of business organisation, business planning, consumer rights, and consumer protection agencies.",
+    "path": "nigeria/BECE/businessStudies/entreprenuerialSkills.json",
+    "suitePath": "configs/bece.json"
+  },
+  {
+    "id": "bece_bsBookKeeping",
+    "title": "BECE Business Studies: Book-keeping",
+    "short_description": "Focused practice on book-keeping ethics, personal finance, petty cash book, cash book, trial balance, trading/profit and loss account, and balance sheet, including numerical problems.",
+    "path": "nigeria/BECE/businessStudies/bookKeeping.json",
+    "suitePath": "configs/bece.json"
+  },
+  {
     "id": "hosa_nutrition_physiology",
     "title": "HOSA Nutrition: Nutritional Physiology",
     "short_description": "Contains 48 Questions",
