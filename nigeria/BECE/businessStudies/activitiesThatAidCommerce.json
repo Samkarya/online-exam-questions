@@ -1,0 +1,3346 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Business Studies",
+    "topic": "Introduction to Commerce",
+    "question_text": "The term used to describe all activities involved in the distribution and exchange of goods and services is",
+    "options": {
+      "a": "extraction",
+      "b": "manufacturing",
+      "c": "commerce",
+      "d": "consumption"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Commerce** encompasses all the processes and activities involved in the transfer of goods from the producer to the final consumer, ensuring that exchange happens smoothly.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Business Studies",
+    "topic": "Introduction to Commerce",
+    "question_text": "Which of the following is considered the primary importance of commerce in an economy?",
+    "options": {
+      "a": "It bridges the gap between producers and consumers.",
+      "b": "It helps in the direct cultivation of cash crops.",
+      "c": "It is solely responsible for printing a nation's currency.",
+      "d": "It focuses on extracting crude oil from the ground."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "A major importance of commerce is that it **bridges the gap between producers and consumers**. Without commerce, goods produced in a factory would not reach the people who need them.",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Business Studies",
+    "topic": "Introduction to Commerce",
+    "question_text": "The two main components that make up the entirely of commerce are",
+    "options": {
+      "a": "production and extraction",
+      "b": "trade and aids to trade",
+      "c": "advertising and banking",
+      "d": "wholesaling and retailing"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Commerce is broadly divided into two main parts: **Trade** (the actual buying and selling of goods) and **Aids to trade** (the auxiliary activities like banking, transport, and insurance that make trade possible).",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Business Studies",
+    "topic": "Introduction to Commerce",
+    "question_text": "Which of the following is NOT an activity that aids commerce?",
+    "options": {
+      "a": "Banking",
+      "b": "Transportation",
+      "c": "Construction",
+      "d": "Insurance"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Banking, transportation, and insurance are all *aids to trade*. **Construction**, however, is classified as a secondary industrial production activity, not a commercial activity.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Business Studies",
+    "topic": "Introduction to Commerce",
+    "question_text": "How does commerce help in improving the standard of living of people in a society?",
+    "options": {
+      "a": "By increasing the prices of goods beyond what people can afford.",
+      "b": "By hoarding goods to create artificial scarcity.",
+      "c": "By making a wide variety of domestic and foreign goods available for consumption.",
+      "d": "By encouraging people to stop working and rely on loans."
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Commerce raises the standard of living by ensuring a steady distribution of products. By making a **wide variety of domestic and foreign goods available**, consumers have better choices to satisfy their needs and improve their quality of life.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Business Studies",
+    "topic": "Introduction to Commerce",
+    "question_text": "The specific commercial activity that bridges the *geographical gap* by moving goods from the factory to the markets where they are needed is",
+    "options": {
+      "a": "warehousing",
+      "b": "transportation",
+      "c": "advertising",
+      "d": "insurance"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Transportation** is the aid to trade responsible for the physical movement of goods and people from one place to another, thus eliminating geographical barriers.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Business Studies",
+    "topic": "Introduction to Commerce",
+    "question_text": "Which activity that aids commerce is designed to protect businesses against risks and unforeseen financial losses?",
+    "options": {
+      "a": "Communication",
+      "b": "Banking",
+      "c": "Insurance",
+      "d": "Tourism"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Insurance** provides financial compensation and protection to businesses against risks such as fire, burglary, and accidents during transit.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Business Studies",
+    "topic": "Introduction to Commerce",
+    "question_text": "To ensure that goods produced in large quantities do not spoil before they are demanded by consumers, a business must utilize which commercial activity?",
+    "options": {
+      "a": "Warehousing",
+      "b": "Advertising",
+      "c": "Banking",
+      "d": "Communication"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Warehousing** bridges the *time gap* in commerce. It ensures that mass-produced goods are safely stored and preserved until consumers are ready to buy them.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Business Studies",
+    "topic": "Introduction to Commerce",
+    "question_text": "An entrepreneur who wants to create public awareness about a new product and persuade people to buy it will engage in",
+    "options": {
+      "a": "insurance",
+      "b": "warehousing",
+      "c": "transportation",
+      "d": "advertising"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Advertising** is the commercial activity that provides information about the existence, uses, and benefits of a product to potential consumers.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Business Studies",
+    "topic": "Introduction to Commerce",
+    "question_text": "Without banking as an activity that aids commerce, business organizations would find it extremely difficult to",
+    "options": {
+      "a": "physically package goods into cartons",
+      "b": "obtain capital and settle large financial transactions safely",
+      "c": "broadcast television commercials",
+      "d": "store perishable agricultural products"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "**Banking** facilitates trade by providing businesses with access to capital (loans) and a safe, efficient means of making and receiving payments (e.g., transfers and cheques).",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Business Studies",
+    "topic": "Division of Commerce",
+    "question_text": "Trade, which is a major division of commerce, is broadly categorized into two main branches known as",
+    "options": {
+      "a": "wholesale and retail trade",
+      "b": "home trade and foreign trade",
+      "c": "import and export trade",
+      "d": "manufacturing and extractive trade"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Trade is the exchange of goods and services for money. It is broadly divided into two major branches based on geographical boundaries: **home trade** (domestic) and **foreign trade** (international).",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Business Studies",
+    "topic": "Division of Commerce",
+    "question_text": "The buying and selling of goods and services within the geographical boundaries of a single country is referred to as",
+    "options": {
+      "a": "foreign trade",
+      "b": "entrepot trade",
+      "c": "home trade",
+      "d": "multilateral trade"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Home trade**, also known as domestic or internal trade, involves transactions that occur strictly within the borders of a single country (e.g., selling goods from Kano to Lagos).",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Business Studies",
+    "topic": "Division of Commerce",
+    "question_text": "A businessman in Nigeria who buys electronic appliances from a manufacturer in Japan and sells them in his local market is engaging in",
+    "options": {
+      "a": "home trade",
+      "b": "wholesale trade",
+      "c": "retail trade",
+      "d": "foreign trade"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Because the transaction involves the crossing of international borders (buying from Japan and bringing into Nigeria), it is classified as **foreign trade**.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Business Studies",
+    "topic": "Division of Commerce",
+    "question_text": "Home trade is further subdivided into two distinct categories based on the volume of goods traded and the target buyer. These are",
+    "options": {
+      "a": "import and export",
+      "b": "extraction and manufacturing",
+      "c": "wholesale and retail",
+      "d": "banking and insurance"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Within domestic borders, goods are distributed in stages. The two subdivisions of home trade are **wholesale** (buying in bulk) and **retail** (selling in small units).",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Business Studies",
+    "topic": "Division of Commerce",
+    "question_text": "The commercial process of buying goods in large quantities directly from the manufacturer and selling them in smaller batches to other traders is called",
+    "options": {
+      "a": "retailing",
+      "b": "exporting",
+      "c": "wholesaling",
+      "d": "importing"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Wholesaling** is the act of purchasing products in bulk (large quantities) from the producer/manufacturer and breaking the bulk to sell to retailers.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Business Studies",
+    "topic": "Division of Commerce",
+    "question_text": "The trader who buys goods in small quantities from the wholesaler and sells them directly to the final consumer is known as a",
+    "options": {
+      "a": "manufacturer",
+      "b": "retailer",
+      "c": "exporter",
+      "d": "distributor"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **retailer** sits at the end of the distribution channel. They purchase goods from wholesalers and sell them in single units or very small quantities directly to the people who will consume them.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Business Studies",
+    "topic": "Division of Commerce",
+    "question_text": "Foreign trade is divided into two primary activities. What are they?",
+    "options": {
+      "a": "Import and Export",
+      "b": "Wholesale and Retail",
+      "c": "Production and Consumption",
+      "d": "Banking and Communication"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "International or foreign trade consists of two main types: **Import** (bringing goods in from another country) and **Export** (selling local goods to another country).",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Business Studies",
+    "topic": "Division of Commerce",
+    "question_text": "Selling locally produced agricultural products like cocoa and cashew nuts to buyers in the United Kingdom is an example of",
+    "options": {
+      "a": "retail trade",
+      "b": "import trade",
+      "c": "home trade",
+      "d": "export trade"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Export trade** involves sending domestically produced goods to foreign countries for sale. Since the goods are going *out* of the local country, it is an export.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Business Studies",
+    "topic": "Division of Commerce",
+    "question_text": "A major difference between home trade and foreign trade is that foreign trade usually involves",
+    "options": {
+      "a": "the use of different national currencies and exchange rates",
+      "b": "only the use of physical cash without bank involvement",
+      "c": "direct sales to final consumers in local markets",
+      "d": "the total absence of transportation costs"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Unlike home trade which relies entirely on the local currency, foreign trade crosses borders and therefore requires the **exchange of different national currencies** (e.g., converting Naira to Dollars or Yen).",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Business Studies",
+    "topic": "Division of Commerce",
+    "question_text": "Which of the following correctly pairs a major type of trade with its sub-divisions?",
+    "options": {
+      "a": "Home trade: Import and Export",
+      "b": "Foreign trade: Wholesale and Retail",
+      "c": "Home trade: Wholesale and Retail",
+      "d": "Foreign trade: Manufacturing and Construction"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "The correct structural classification is that **Home trade** is sub-divided into **Wholesale and Retail**. (Foreign trade is divided into Import and Export).",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Business Studies",
+    "topic": "Division of Commerce",
+    "question_text": "A trader who purchases $500$ bags of flour directly from a flour mill and resells them in batches of $10$ bags to neighborhood bakeries is operating primarily as a",
+    "options": {
+      "a": "retailer",
+      "b": "wholesaler",
+      "c": "consumer",
+      "d": "manufacturer"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "This scenario perfectly describes a **wholesaler**, who performs the vital function of breaking bulk—buying heavily ($500$ bags) from the producer and distributing in smaller quantities ($10$ bags) to retailers/users.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Business Studies",
+    "topic": "Division of Commerce",
+    "question_text": "All of the following activities are strictly categorized as divisions or types of trade EXCEPT",
+    "options": {
+      "a": "wholesaling",
+      "b": "importing",
+      "c": "insuring",
+      "d": "retailing"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Wholesaling, retailing, importing, and exporting are all direct forms of *Trade*. **Insuring** (insurance) is an *Aid to trade*, meaning it facilitates the process but is not a form of trade itself.",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "Business Studies",
+    "topic": "Division of Commerce",
+    "question_text": "Because foreign trade involves crossing international borders, it usually requires specific regulatory procedures such as",
+    "options": {
+      "a": "getting a neighborhood hawking permit",
+      "b": "registering a local petty cash book",
+      "c": "undergoing customs and excise clearance",
+      "d": "opening a savings account for children"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "International movement of goods is strictly regulated. Exporters and importers must undergo **customs and excise clearance** to ensure taxes are paid and contraband goods are not transported.",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "Business Studies",
+    "topic": "Division of Commerce",
+    "question_text": "Which trader in the channel of distribution usually provides the most direct and closest point of sale to the people living in a residential neighborhood?",
+    "options": {
+      "a": "The manufacturer",
+      "b": "The wholesaler",
+      "c": "The retailer",
+      "d": "The importer"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **retailer** (such as a local supermarket or kiosk owner) sets up shop near residential areas, making goods easily accessible to the final consumers.",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "Business Studies",
+    "topic": "Division of Commerce",
+    "question_text": "In the standard distribution chain of home trade, who comes directly between the manufacturer and the retailer?",
+    "options": {
+      "a": "The consumer",
+      "b": "The wholesaler",
+      "c": "The advertiser",
+      "d": "The government"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The traditional channel of distribution flows as follows: **Manufacturer $\\rightarrow$ Wholesaler $\\rightarrow$ Retailer $\\rightarrow$ Consumer**. Therefore, the wholesaler acts as the middleman directly between the manufacturer and the retailer.",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "Business Studies",
+    "topic": "Production",
+    "question_text": "The process of creating goods and providing services to satisfy human wants is known as",
+    "options": {
+      "a": "distribution",
+      "b": "commerce",
+      "c": "production",
+      "d": "consumption"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "In business studies, **production** is fundamentally defined as any economic activity that creates value by creating goods and providing services that satisfy human wants.",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "Business Studies",
+    "topic": "Production",
+    "question_text": "In the chain of distribution, the process of production is completely achieved only when the goods",
+    "options": {
+      "a": "are priced at the highest value",
+      "b": "are safely kept in a warehouse",
+      "c": "have successfully reached the final consumer",
+      "d": "have been thoroughly inspected by the manager"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Production is not considered complete merely at the factory level. It is fully completed only when the goods or services **reach the final consumer** to satisfy their needs.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "Business Studies",
+    "topic": "Production",
+    "question_text": "Production is broadly divided into three major categories to cover all economic activities. These categories are",
+    "options": {
+      "a": "Industry, Commerce, and Services",
+      "b": "Wholesale, Retail, and Manufacturing",
+      "c": "Import, Export, and Entrepot",
+      "d": "Public, Private, and Voluntary"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "All production activities are broadly classified into **Industry** (creation/extraction), **Commerce** (distribution/exchange), and **Services** (direct and indirect assistance).",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "Business Studies",
+    "topic": "Production",
+    "question_text": "Industries involved in obtaining raw materials from the earth, rivers, or seas in their natural state are classified as",
+    "options": {
+      "a": "constructive industries",
+      "b": "extractive industries",
+      "c": "manufacturing industries",
+      "d": "commercial industries"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Extractive industries** deal with pulling raw materials directly from nature, forming the primary stage of production.",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "Business Studies",
+    "topic": "Production",
+    "question_text": "Which of the following occupational activities belongs strictly to the extractive industry?",
+    "options": {
+      "a": "Shoe making",
+      "b": "Road construction",
+      "c": "Crude oil drilling",
+      "d": "Textile designing"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Crude oil drilling** extracts natural resources directly from the earth, making it a classic example of an extractive industry. The other options involve construction or manufacturing.",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "Business Studies",
+    "topic": "Production",
+    "question_text": "The type of industry responsible for converting primary raw materials into finished or semi-finished goods is called",
+    "options": {
+      "a": "manufacturing industry",
+      "b": "extractive industry",
+      "c": "constructive industry",
+      "d": "tertiary industry"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "A **manufacturing industry** takes the raw materials (like raw cocoa or cotton) obtained by the extractive industry and processes them into finished consumer goods (like chocolate or clothes).",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "Business Studies",
+    "topic": "Production",
+    "question_text": "A business that buys logs of timber from a forest reserve and processes them into wooden furniture is operating in the",
+    "options": {
+      "a": "constructive industry",
+      "b": "manufacturing industry",
+      "c": "extractive industry",
+      "d": "indirect services sector"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "By processing and changing the form of the raw timber into a usable finished product (furniture), the business acts as a **manufacturing industry**.",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "Business Studies",
+    "topic": "Production",
+    "question_text": "Industries that assemble already manufactured components into major physical structures such as bridges, roads, and houses belong to the",
+    "options": {
+      "a": "manufacturing industries",
+      "b": "constructive industries",
+      "c": "extractive industries",
+      "d": "administrative services"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Constructive industries** focus on assembling and building heavy infrastructure and housing using materials produced by the manufacturing industry.",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "Business Studies",
+    "topic": "Production",
+    "question_text": "All of the following activities are examples of the constructive industry EXCEPT",
+    "options": {
+      "a": "laying railway tracks",
+      "b": "building a stadium",
+      "c": "baking loaves of bread",
+      "d": "constructing a dam"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Railway tracks, stadiums, and dams are heavy infrastructure projects (constructive). **Baking loaves of bread** is the creation of a consumable product from raw ingredients, which falls under manufacturing.",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "Business Studies",
+    "topic": "Production",
+    "question_text": "Intangible activities performed by individuals or organizations to satisfy human needs, such as healthcare, education, and banking, are categorized under",
+    "options": {
+      "a": "extraction",
+      "b": "construction",
+      "c": "manufacturing",
+      "d": "services"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Unlike goods, which are physical objects, **services** are intangible economic activities that people perform to satisfy the needs of others.",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "Business Studies",
+    "topic": "Production",
+    "question_text": "How does Commerce act as a vital component of the production process?",
+    "options": {
+      "a": "It legally prevents goods from crossing international borders.",
+      "b": "It distributes the manufactured goods, bridging the gap to consumers.",
+      "c": "It is responsible for planting the agricultural seeds in the farm.",
+      "d": "It destroys obsolete products in the warehouse."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Because production is only complete when goods reach the consumer, **Commerce** is an essential part of production because it facilitates the physical distribution and trade of the goods produced.",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "Business Studies",
+    "topic": "Production",
+    "question_text": "A negative effect of large-scale industrial production on the environment is",
+    "options": {
+      "a": "an increase in employment opportunities",
+      "b": "the pollution of air and water bodies",
+      "c": "an increase in a country's foreign reserves",
+      "d": "the improvement of the standard of living"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "While production brings economic benefits, one major negative effect on the environment is **pollution** (such as toxic emissions in the air and waste dumped into water bodies).",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "Business Studies",
+    "topic": "Production",
+    "question_text": "Which of the following represents a positive socio-economic effect of industrial production in a society?",
+    "options": {
+      "a": "Severe deforestation and loss of wildlife",
+      "b": "Provision of massive employment and wealth creation",
+      "c": "Overcrowding and congestion in industrial cities",
+      "d": "Release of dangerous toxic chemicals"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Industrial production positively impacts society through the **provision of employment** for the population and the **creation of wealth** leading to a better standard of living.",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "Business Studies",
+    "topic": "Production",
+    "question_text": "In the classification of production, agricultural farming belongs to the __________ industry, while tailoring belongs to the __________ industry.",
+    "options": {
+      "a": "constructive; extractive",
+      "b": "manufacturing; constructive",
+      "c": "extractive; manufacturing",
+      "d": "service; extractive"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Farming extracts resources directly from the soil (**extractive**), whereas tailoring transforms raw fabric into finished clothes (**manufacturing**).",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "Business Studies",
+    "topic": "Production",
+    "question_text": "When factories do not properly manage their industrial by-products, society directly suffers from",
+    "options": {
+      "a": "an instant reduction in income tax rates",
+      "b": "excess availability of raw materials",
+      "c": "severe health hazards and environmental degradation",
+      "d": "over-investment in the banking sector"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Improper waste disposal by industries has a damaging effect, leading to **severe health hazards and environmental degradation** for the local community.",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "Business Studies",
+    "topic": "Production",
+    "question_text": "Which list correctly represents the three main sub-divisions of Industry within the concept of production?",
+    "options": {
+      "a": "Wholesaling, retailing, and advertising",
+      "b": "Extractive, manufacturing, and constructive",
+      "c": "Importing, exporting, and banking",
+      "d": "Primary, direct, and indirect"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Under the syllabus categorization, Industry is composed of three specific branches: **Extractive, Manufacturing, and Constructive** industries.",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "Business Studies",
+    "topic": "Production",
+    "question_text": "Essential auxiliary services like warehousing, advertising, transport, and insurance are formally classified as part of production under",
+    "options": {
+      "a": "Constructive industry",
+      "b": "Extractive industry",
+      "c": "Direct personal services",
+      "d": "Commerce (Aids to trade)"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Activities such as warehousing, advertising, and transport are **Aids to trade**, making them a vital part of **Commerce**, which forms one of the three broad pillars of production.",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "Business Studies",
+    "topic": "Production",
+    "question_text": "Which of the following is considered an indirect service in production?",
+    "options": {
+      "a": "A barber cutting a client's hair",
+      "b": "A doctor prescribing medication to a patient",
+      "c": "A police officer maintaining general law and order in the city",
+      "d": "A tutor teaching a student at home"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Direct services are paid for directly by the individual receiving them (like a barber or doctor). **A police officer** provides an indirect service because they protect the society at large and are paid collectively via government taxes.",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "Business Studies",
+    "topic": "Factors of Production",
+    "question_text": "The various resources fundamentally required by a business to create goods and provide services are collectively referred to as",
+    "options": {
+      "a": "aids to trade",
+      "b": "factors of production",
+      "c": "divisions of commerce",
+      "d": "commercial activities"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The resources necessary to carry out the production of goods and services are collectively called the **factors of production**. These include land, labour, capital, and the entrepreneur.",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "Business Studies",
+    "topic": "Factors of Production",
+    "question_text": "In the context of production, which factor represents all natural resources and free gifts of nature available on, above, and below the earth's surface?",
+    "options": {
+      "a": "Capital",
+      "b": "Labour",
+      "c": "Land",
+      "d": "Entrepreneur"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Land** is defined broadly in economics as all natural resources and free gifts of nature, which includes not just soil, but forests, minerals, water bodies, and climate.",
+    "section_id": null
+  },
+  {
+    "question_number": 46,
+    "subject": "Business Studies",
+    "topic": "Factors of Production",
+    "question_text": "The financial reward or compensation given to the owner of land for its use in the production process is called",
+    "options": {
+      "a": "wages",
+      "b": "profit",
+      "c": "interest",
+      "d": "rent"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Each factor of production earns a reward. The payment made for the use of land and its natural resources is referred to as **rent**.",
+    "section_id": null
+  },
+  {
+    "question_number": 47,
+    "subject": "Business Studies",
+    "topic": "Factors of Production",
+    "question_text": "All human efforts, whether physical or mental, directed towards the creation of goods and services for a reward are termed",
+    "options": {
+      "a": "Labour",
+      "b": "Capital",
+      "c": "Entrepreneurship",
+      "d": "Population"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Labour** encompasses all human physical exertion and mental intelligence that is applied during the production process in exchange for a reward.",
+    "section_id": null
+  },
+  {
+    "question_number": 48,
+    "subject": "Business Studies",
+    "topic": "Factors of Production",
+    "question_text": "What is the economic reward paid to labour for its contribution to production?",
+    "options": {
+      "a": "Interest",
+      "b": "Rent",
+      "c": "Profit",
+      "d": "Wages and Salaries"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Workers (labour) are compensated for their physical and mental efforts with **Wages and Salaries**.",
+    "section_id": null
+  },
+  {
+    "question_number": 49,
+    "subject": "Business Studies",
+    "topic": "Factors of Production",
+    "question_text": "Man-made assets or accumulated wealth utilized specifically to facilitate the further production of wealth are classified as",
+    "options": {
+      "a": "Land",
+      "b": "Capital",
+      "c": "Entrepreneur",
+      "d": "Finished goods"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Capital** represents the man-made resources—such as machinery, cash, buildings, and vehicles—that are used to assist in the production of other goods and services.",
+    "section_id": null
+  },
+  {
+    "question_number": 50,
+    "subject": "Business Studies",
+    "topic": "Factors of Production",
+    "question_text": "All of the following are practical examples of capital as a factor of production EXCEPT",
+    "options": {
+      "a": "factory machineries",
+      "b": "rivers and natural forests",
+      "c": "company delivery vans",
+      "d": "invested business funds"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Factory machineries, delivery vans, and business funds are all man-made assets (Capital). **Rivers and natural forests** are free gifts of nature, making them examples of Land.",
+    "section_id": null
+  },
+  {
+    "question_number": 51,
+    "subject": "Business Studies",
+    "topic": "Factors of Production",
+    "question_text": "The specific economic reward earned by individuals or institutions that provide capital for business operations is",
+    "options": {
+      "a": "profit",
+      "b": "rent",
+      "c": "interest",
+      "d": "wages"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "When money or assets are invested as capital in a business, the return or reward yielded to the provider of that capital is called **interest**.",
+    "section_id": null
+  },
+  {
+    "question_number": 52,
+    "subject": "Business Studies",
+    "topic": "Factors of Production",
+    "question_text": "The factor of production that coordinates the other factors, makes key decisions, and bears the risks associated with the business is the",
+    "options": {
+      "a": "manager",
+      "b": "government",
+      "c": "entrepreneur",
+      "d": "labourer"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **entrepreneur** is the organizer and risk-taker who brings together land, labour, and capital to initiate the production process and drive the business.",
+    "section_id": null
+  },
+  {
+    "question_number": 53,
+    "subject": "Business Studies",
+    "topic": "Factors of Production",
+    "question_text": "The ultimate reward an entrepreneur receives for successfully bearing business risks and organizing production effectively is",
+    "options": {
+      "a": "profit",
+      "b": "rent",
+      "c": "interest",
+      "d": "salary"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Because the entrepreneur assumes all the uncertainties and risks of the business, their designated reward is **profit** (or they suffer the consequence of a loss).",
+    "section_id": null
+  },
+  {
+    "question_number": 54,
+    "subject": "Business Studies",
+    "topic": "Factors of Production",
+    "question_text": "Which of the following statements best describes the relationship between the factors of production?",
+    "options": {
+      "a": "Land can produce goods independently without any human intervention.",
+      "b": "Capital is naturally occurring and requires no prior labour to exist.",
+      "c": "The entrepreneur relies solely on capital, rendering labour and land useless.",
+      "d": "The entrepreneur combines land, labour, and capital to successfully produce goods."
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "No single factor can produce goods on its own. **The entrepreneur must combine land, labour, and capital** in the right proportions to ensure the successful creation of goods and services.",
+    "section_id": null
+  },
+  {
+    "question_number": 55,
+    "subject": "Business Studies",
+    "topic": "Factors of Production",
+    "question_text": "A commercial farmer uses an automated tractor to cultivate a large plot of farmland. In this scenario, the tractor and the farmland respectively represent which two factors of production?",
+    "options": {
+      "a": "Labour and Entrepreneur",
+      "b": "Capital and Land",
+      "c": "Capital and Labour",
+      "d": "Entrepreneur and Land"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The automated tractor is a man-made machine used for further production, which represents **Capital**. The farmland is a natural resource, which represents **Land**.",
+    "section_id": null
+  },
+  {
+    "question_number": 56,
+    "subject": "Business Studies",
+    "topic": "Types of Occupation",
+    "question_text": "The legal and economic activity which a person engages in regularly in order to earn a living is referred to as an",
+    "options": {
+      "a": "organization",
+      "b": "occupation",
+      "c": "enterprise",
+      "d": "hobby"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "An **occupation** refers to any legal and productive work, trade, or profession that an individual engages in on a daily basis to earn an income and satisfy their needs.",
+    "section_id": null
+  },
+  {
+    "question_number": 57,
+    "subject": "Business Studies",
+    "topic": "Types of Occupation",
+    "question_text": "Occupations in a standard economy are broadly divided into four main categories. These are",
+    "options": {
+      "a": "Primary, Industrial, Commercial, and Services",
+      "b": "Farming, Trading, Banking, and Teaching",
+      "c": "Extraction, Manufacturing, Constructive, and Distributive",
+      "d": "Direct, Indirect, Home, and Foreign"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The standard classification of occupations comprises four main divisions: **Primary** (extraction), **Industrial** (manufacturing/construction), **Commercial** (trade/distribution), and **Services** (direct/indirect).",
+    "section_id": null
+  },
+  {
+    "question_number": 58,
+    "subject": "Business Studies",
+    "topic": "Types of Occupation",
+    "question_text": "Occupations that involve the extraction and harvesting of raw materials directly from nature are classified as",
+    "options": {
+      "a": "service occupations",
+      "b": "industrial occupations",
+      "c": "primary occupations",
+      "d": "commercial occupations"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Primary occupations** deal directly with nature. Workers in this division extract raw materials from the land, sea, or air (e.g., farming, fishing, and mining).",
+    "section_id": null
+  },
+  {
+    "question_number": 59,
+    "subject": "Business Studies",
+    "topic": "Types of Occupation",
+    "question_text": "Which of the following professionals is engaged in a primary occupation?",
+    "options": {
+      "a": "A bricklayer",
+      "b": "A coal miner",
+      "c": "A retail trader",
+      "d": "A medical doctor"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **coal miner** extracts coal directly from the earth, which is an extractive activity, placing them in the primary occupation category. Bricklayers are industrial, traders are commercial, and doctors are in services.",
+    "section_id": null
+  },
+  {
+    "question_number": 60,
+    "subject": "Business Studies",
+    "topic": "Types of Occupation",
+    "question_text": "Industrial occupations are mainly concerned with",
+    "options": {
+      "a": "distributing goods to the final consumers",
+      "b": "protecting citizens from external attacks",
+      "c": "changing raw materials into finished or semi-finished goods",
+      "d": "extracting crude oil from the ground"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Industrial occupations** (also known as secondary occupations) involve manufacturing and construction. They add value by processing raw materials (from primary occupations) into usable finished products.",
+    "section_id": null
+  },
+  {
+    "question_number": 61,
+    "subject": "Business Studies",
+    "topic": "Types of Occupation",
+    "question_text": "A person whose daily job involves buying agricultural produce in bulk and selling it to market women belongs to the",
+    "options": {
+      "a": "commercial occupation",
+      "b": "primary occupation",
+      "c": "industrial occupation",
+      "d": "service occupation"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Individuals who facilitate the distribution, buying, and selling of goods are engaged in trade, which is the core of **commercial occupations**.",
+    "section_id": null
+  },
+  {
+    "question_number": 62,
+    "subject": "Business Studies",
+    "topic": "Types of Occupation",
+    "question_text": "The division of occupation that consists of people who perform intangible tasks to satisfy the needs of others rather than producing physical goods is called",
+    "options": {
+      "a": "extraction",
+      "b": "services",
+      "c": "commerce",
+      "d": "industry"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **services** occupation involves providing expertise, labor, or help (intangible actions) rather than physical commodities. Examples include teaching, nursing, and accounting.",
+    "section_id": null
+  },
+  {
+    "question_number": 63,
+    "subject": "Business Studies",
+    "topic": "Types of Occupation",
+    "question_text": "Services as an occupation are subdivided into two categories. These are",
+    "options": {
+      "a": "public and private services",
+      "b": "direct and indirect services",
+      "c": "primary and secondary services",
+      "d": "home and foreign services"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Service occupations are structurally divided into two main groups based on who receives and pays for them: **direct services** and **indirect services**.",
+    "section_id": null
+  },
+  {
+    "question_number": 64,
+    "subject": "Business Studies",
+    "topic": "Types of Occupation",
+    "question_text": "The main difference between direct and indirect services lies in",
+    "options": {
+      "a": "the level of education required to perform them",
+      "b": "the physical location where the service is provided",
+      "c": "who directly pays for the service rendered",
+      "d": "whether the service involves physical goods or not"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "The distinguishing factor is **who pays**. Direct services are paid for by the individual receiving the service out of their own pocket, while indirect services are paid for by the government (using taxpayers' money) for the benefit of the general public.",
+    "section_id": null
+  },
+  {
+    "question_number": 65,
+    "subject": "Business Studies",
+    "topic": "Types of Occupation",
+    "question_text": "Which of the following is a classic example of an individual providing a direct service?",
+    "options": {
+      "a": "A soldier defending the country's borders",
+      "b": "A private home tutor teaching a student",
+      "c": "A traffic warden directing vehicles on a public road",
+      "d": "A judge passing a sentence in a government court"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **private home tutor** renders a direct service because the student's parents pay the tutor directly for the specific service provided to their child. The other options are paid for by the government (indirect).",
+    "section_id": null
+  },
+  {
+    "question_number": 66,
+    "subject": "Business Studies",
+    "topic": "Types of Occupation",
+    "question_text": "Indirect services are usually enjoyed by the general public and are paid for by the government. An example of a worker providing an indirect service is a",
+    "options": {
+      "a": "barber",
+      "b": "tailor",
+      "c": "police officer",
+      "d": "shoemaker"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **police officer** provides security to the general public, and their salary is paid by the state. Therefore, it is an indirect service.",
+    "section_id": null
+  },
+  {
+    "question_number": 67,
+    "subject": "Business Studies",
+    "topic": "Types of Occupation",
+    "question_text": "All of the following are factors that commonly affect a person's choice of occupation EXCEPT",
+    "options": {
+      "a": "educational background and training",
+      "b": "salary and working conditions",
+      "c": "natural resources available in their region",
+      "d": "the color of their residential building"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Educational background, potential salary (remuneration), and regional resources (e.g., coastal people choosing fishing) are all major factors influencing occupational choice. The **color of a building** is entirely irrelevant to economic choices.",
+    "section_id": null
+  },
+  {
+    "question_number": 68,
+    "subject": "Business Studies",
+    "topic": "Types of Occupation",
+    "question_text": "How does climatic condition act as a factor affecting occupation?",
+    "options": {
+      "a": "It strictly limits the amount of physical cash banks can hold.",
+      "b": "It dictates the types of agricultural crops a farmer can cultivate.",
+      "c": "It forces every individual in cold regions to become a factory worker.",
+      "d": "It determines the school fees universities charge their students."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Climate affects primary occupations profoundly. It **dictates the types of crops a farmer can cultivate** (e.g., cocoa in rainy, tropical areas versus groundnuts in drier areas), thereby influencing their specific line of work.",
+    "section_id": null
+  },
+  {
+    "question_number": 69,
+    "subject": "Business Studies",
+    "topic": "Types of Occupation",
+    "question_text": "An occupation that falls under the \"Commercial\" division because it involves aids to trade is",
+    "options": {
+      "a": "insurance brokerage",
+      "b": "poultry farming",
+      "c": "furniture making",
+      "d": "crude oil drilling"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "Commercial occupations include both Trade and *Aids to Trade*. Since insurance facilitates trade, an **insurance broker** operates within a commercial occupation.",
+    "section_id": null
+  },
+  {
+    "question_number": 70,
+    "subject": "Business Studies",
+    "topic": "Types of Occupation",
+    "question_text": "A person's natural talent or learned skill that determines how well they can perform a specific job is referred to in Business Studies as their",
+    "options": {
+      "a": "remuneration",
+      "b": "capital",
+      "c": "aptitude",
+      "d": "geographical location"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Aptitude** refers to a person's natural ability, talent, or acquired skill, which acts as a major personal factor determining the type of occupation they choose or excel in.",
+    "section_id": null
+  },
+  {
+    "question_number": 71,
+    "subject": "Business Studies",
+    "topic": "Honesty in Business",
+    "question_text": "The quality of consistently stating the facts as they are without distortion or deceit in business transactions is known as",
+    "options": {
+      "a": "fair play",
+      "b": "truthfulness",
+      "c": "efficiency",
+      "d": "communication"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Truthfulness** refers to the quality of being honest, not telling lies, and presenting facts exactly as they are in all business dealings.",
+    "section_id": null
+  },
+  {
+    "question_number": 72,
+    "subject": "Business Studies",
+    "topic": "Honesty in Business",
+    "question_text": "Which of the following is an attribute of a truthful business person?",
+    "options": {
+      "a": "Sincerity",
+      "b": "Favouritism",
+      "c": "Arrogance",
+      "d": "Deceit"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Sincerity** (being genuine and free from pretense) is a core attribute of truthfulness. Deceit, favouritism, and arrogance are negative traits.",
+    "section_id": null
+  },
+  {
+    "question_number": 73,
+    "subject": "Business Studies",
+    "topic": "Honesty in Business",
+    "question_text": "All the following are attributes of truthfulness EXCEPT",
+    "options": {
+      "a": "reliability",
+      "b": "transparency",
+      "c": "fraudulence",
+      "d": "integrity"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Reliability, transparency, and integrity are all positive attributes associated with being truthful. **Fraudulence** involves deception and dishonesty.",
+    "section_id": null
+  },
+  {
+    "question_number": 74,
+    "subject": "Business Studies",
+    "topic": "Honesty in Business",
+    "question_text": "A common psychological or economic factor that causes some traders to lie about the quality of their goods is",
+    "options": {
+      "a": "the desire to pay government taxes",
+      "b": "greed to make excessive profit quickly",
+      "c": "the need to donate to charity",
+      "d": "a strong belief in religious teachings"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Greed to make excessive profit quickly** is a major factor that causes people to lie, such as passing off inferior goods as high-quality ones just to make more money.",
+    "section_id": null
+  },
+  {
+    "question_number": 75,
+    "subject": "Business Studies",
+    "topic": "Honesty in Business",
+    "question_text": "A clerical staff member alters the figures in the petty cash book to hide a mistake they made, hoping the manager won't find out. The primary factor causing this lie is",
+    "options": {
+      "a": "greed",
+      "b": "peer pressure",
+      "c": "fear of punishment",
+      "d": "lack of education"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "In an office environment, employees often lie or alter records out of a **fear of punishment**, such as being reprimanded or losing their jobs over mistakes.",
+    "section_id": null
+  },
+  {
+    "question_number": 76,
+    "subject": "Business Studies",
+    "topic": "Honesty in Business",
+    "question_text": "What is a major long-term reward for being truthful in business?",
+    "options": {
+      "a": "Building a good reputation and earning customer trust",
+      "b": "Driving competitors out of business with fake prices",
+      "c": "Getting immediate wealth without any hard work",
+      "d": "Avoiding the payment of rent and salaries"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Truthfulness brings long-term rewards, the most significant being the establishment of a **good reputation and customer trust**, which eventually leads to loyal patronage.",
+    "section_id": null
+  },
+  {
+    "question_number": 77,
+    "subject": "Business Studies",
+    "topic": "Honesty in Business",
+    "question_text": "An organization that is known for its truthfulness and honesty is highly likely to experience",
+    "options": {
+      "a": "continuous legal battles",
+      "b": "repeated patronage by customers",
+      "c": "constant police investigations",
+      "d": "high employee turnover"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Customers naturally return to businesses they trust. Therefore, an honest business will experience **repeated patronage**, leading to sustainable sales.",
+    "section_id": null
+  },
+  {
+    "question_number": 78,
+    "subject": "Business Studies",
+    "topic": "Honesty in Business",
+    "question_text": "A severe consequence of not being truthful to customers about the safety of a product is",
+    "options": {
+      "a": "an award from the government",
+      "b": "an increase in foreign trade",
+      "c": "loss of trust and potential legal actions",
+      "d": "reduction in transportation costs"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Lying about product safety can result in physical harm to consumers, inevitably leading to a **loss of trust, lawsuits, or even criminal prosecution (legal actions)**.",
+    "section_id": null
+  },
+  {
+    "question_number": 79,
+    "subject": "Business Studies",
+    "topic": "Honesty in Business",
+    "question_text": "When workers in a firm discover that the management constantly tells lies about salary payments, it most often results in",
+    "options": {
+      "a": "high industrial harmony and peace",
+      "b": "demotivation and low productivity",
+      "c": "expansion of the company's premises",
+      "d": "an automatic increase in product quality"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Internal untruthfulness breaks the trust between employers and employees, leading to resentment, **demotivation, and low productivity** among the workforce.",
+    "section_id": null
+  },
+  {
+    "question_number": 80,
+    "subject": "Business Studies",
+    "topic": "Honesty in Business",
+    "question_text": "The principle of conducting business affairs in a just, equitable, and impartial manner without cheating or favouritism is called",
+    "options": {
+      "a": "fair play",
+      "b": "aptitude",
+      "c": "distribution",
+      "d": "entrepreneurship"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Fair play** means treating everyone (customers, employees, and suppliers) equally, justly, and according to the rules, without resorting to cheating.",
+    "section_id": null
+  },
+  {
+    "question_number": 81,
+    "subject": "Business Studies",
+    "topic": "Honesty in Business",
+    "question_text": "Which of the following scenarios best demonstrates fair play by a business owner?",
+    "options": {
+      "a": "Paying female workers less than male workers for the same job",
+      "b": "Using heavily manipulated weighing scales to sell meat",
+      "c": "Selling goods at uniform, agreed prices to all customers regardless of status",
+      "d": "Giving promotions only to staff members from a specific hometown"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "**Selling goods at uniform prices** shows impartiality and equity. The other options describe discrimination, nepotism, and cheating, which violate fair play.",
+    "section_id": null
+  },
+  {
+    "question_number": 82,
+    "subject": "Business Studies",
+    "topic": "Honesty in Business",
+    "question_text": "An attribute of fair play in business is",
+    "options": {
+      "a": "partiality",
+      "b": "objectivity",
+      "c": "embezzlement",
+      "d": "nepotism"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Objectivity** means making decisions based on facts and merit rather than personal feelings or biases, which is a key attribute of fair play.",
+    "section_id": null
+  },
+  {
+    "question_number": 83,
+    "subject": "Business Studies",
+    "topic": "Honesty in Business",
+    "question_text": "All the following are attributes of fair play EXCEPT",
+    "options": {
+      "a": "equity",
+      "b": "impartiality",
+      "c": "justice",
+      "d": "bias"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Equity, impartiality, and justice all reflect fairness. **Bias** refers to a prejudiced or unfair preference for or against someone, making it the opposite of fair play.",
+    "section_id": null
+  },
+  {
+    "question_number": 84,
+    "subject": "Business Studies",
+    "topic": "Honesty in Business",
+    "question_text": "An organization that deliberately spreads false rumours about a competitor's product to boost its own sales is guilty of lacking",
+    "options": {
+      "a": "sufficient capital",
+      "b": "fair play and truthfulness",
+      "c": "advertising resources",
+      "d": "a channel of distribution"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Spreading false rumours (lies) about competitors is a malicious tactic that clearly violates the ethical principles of both **fair play and truthfulness** in business.",
+    "section_id": null
+  },
+  {
+    "question_number": 85,
+    "subject": "Business Studies",
+    "topic": "Ethics in Sourcing Chemical",
+    "question_text": "A distinct compound or substance, especially one which has been artificially prepared or purified for industrial or domestic purposes, is called",
+    "options": {
+      "a": "an occupation",
+      "b": "a chemical",
+      "c": "an industry",
+      "d": "a machine"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **chemical** is broadly defined as any basic substance that is used in or produced by a reaction involving changes to atoms or molecules, commonly utilized in manufacturing, agriculture, and homes.",
+    "section_id": null
+  },
+  {
+    "question_number": 86,
+    "subject": "Business Studies",
+    "topic": "Ethics in Sourcing Chemical",
+    "question_text": "Which of the following is considered a chemical that is highly hazardous and strictly NOT suitable for general use?",
+    "options": {
+      "a": "Baking powder used in bakeries",
+      "b": "Chlorine used for water purification",
+      "c": "Banned toxic agricultural pesticides",
+      "d": "Table salt used in food processing"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Banned toxic agricultural pesticides** are harmful to human health and the environment, making them strictly not suitable for use or circulation.",
+    "section_id": null
+  },
+  {
+    "question_number": 87,
+    "subject": "Business Studies",
+    "topic": "Ethics in Sourcing Chemical",
+    "question_text": "What is the primary reason government agencies monitor and control the production and distribution of food, drugs, and chemicals?",
+    "options": {
+      "a": "To increase the prices of goods beyond what people can afford",
+      "b": "To protect public health and the environment from harm",
+      "c": "To create artificial scarcity in the open market",
+      "d": "To discourage entrepreneurs from engaging in foreign trade"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The monitoring of food, drugs, and chemicals is crucial **to protect public health and the environment** from the dangers of fake, expired, or hazardous products.",
+    "section_id": null
+  },
+  {
+    "question_number": 88,
+    "subject": "Business Studies",
+    "topic": "Ethics in Sourcing Chemical",
+    "question_text": "The set of moral principles and rules that guide human behaviour and dictate what is right or wrong in business transactions is known as",
+    "options": {
+      "a": "distribution",
+      "b": "fair play",
+      "c": "ethics",
+      "d": "aptitude"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Ethics** refers to the moral code or rules of conduct that govern an individual's or an organization's behaviour, distinguishing between right and wrong practices.",
+    "section_id": null
+  },
+  {
+    "question_number": 89,
+    "subject": "Business Studies",
+    "topic": "Ethics in Sourcing Chemical",
+    "question_text": "According to the ethics of sourcing chemicals, manufacturing businesses must ensure they purchase their chemical supplies strictly from",
+    "options": {
+      "a": "roadside hawkers",
+      "b": "unregistered smugglers",
+      "c": "licensed chemical vendors",
+      "d": "foreign retail tourists"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Ethical sourcing requires that chemicals are obtained only from **licensed chemical vendors** who are legally recognized and regulated by the authorities.",
+    "section_id": null
+  },
+  {
+    "question_number": 90,
+    "subject": "Business Studies",
+    "topic": "Ethics in Sourcing Chemical",
+    "question_text": "Why is it ethically and legally necessary to source industrial chemicals from licensed vendors rather than unknown sources?",
+    "options": {
+      "a": "It ensures that the chemicals are genuine, safe, and easily traceable.",
+      "b": "It ensures the chemicals are completely free of charge.",
+      "c": "It guarantees that the chemicals can be used to harm competitors.",
+      "d": "It allows the buyer to avoid paying any form of government tax."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Purchasing from licensed vendors **ensures authenticity, safety, and traceability**. If a chemical defect occurs, the regulatory authorities can easily trace it back to the authorized seller.",
+    "section_id": null
+  },
+  {
+    "question_number": 91,
+    "subject": "Business Studies",
+    "topic": "Ethics in Sourcing Chemical",
+    "question_text": "Which of the following practices represents a good and ethical technique for handling chemicals in a business environment?",
+    "options": {
+      "a": "Storing toxic liquids in empty beverage and water bottles",
+      "b": "Tasting unknown chemicals to verify their concentration levels",
+      "c": "Using appropriate Personal Protective Equipment (PPE) like gloves and masks",
+      "d": "Mixing unidentified chemicals randomly to observe their reaction"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A fundamental rule in the good technique of handling chemicals is to always **use appropriate Personal Protective Equipment (PPE)** such as gloves, goggles, and masks to prevent physical injury.",
+    "section_id": null
+  },
+  {
+    "question_number": 92,
+    "subject": "Business Studies",
+    "topic": "Ethics in Sourcing Chemical",
+    "question_text": "Proper disposal of industrial chemicals is highly emphasized in business ethics primarily in order to",
+    "options": {
+      "a": "maximize the company's daily sales volume",
+      "b": "prevent severe soil and water pollution",
+      "c": "reduce the wages paid to factory cleaners",
+      "d": "encourage the rapid spread of airborne diseases"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Chemicals can be highly toxic. The ethical disposal of chemicals is critical to **prevent severe soil and water pollution**, thereby protecting the ecosystem and nearby communities.",
+    "section_id": null
+  },
+  {
+    "question_number": 93,
+    "subject": "Business Studies",
+    "topic": "Ethics in Sourcing Chemical",
+    "question_text": "A manufacturing company that discreetly dumps untreated chemical waste into a nearby community river at night is severely violating the ethics of",
+    "options": {
+      "a": "licensed sourcing",
+      "b": "advertising and marketing",
+      "c": "proper disposal of chemicals",
+      "d": "communication agencies"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Dumping untreated waste into rivers is a direct violation of the rules guiding the **proper disposal of chemicals**, leading to environmental degradation.",
+    "section_id": null
+  },
+  {
+    "question_number": 94,
+    "subject": "Business Studies",
+    "topic": "Ethics in Sourcing Chemical",
+    "question_text": "Which of the following best describes 'good distribution' practices when transporting hazardous chemicals?",
+    "options": {
+      "a": "Transporting consumable food items and toxic chemicals in the same open truck",
+      "b": "Using specialized, securely sealed, and appropriately labeled vehicles",
+      "c": "Distributing the chemicals without any warning labels to avoid alarming people",
+      "d": "Allowing untrained pedestrians to carry the chemicals across state borders"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Good distribution entails safely transporting chemicals using **specialized, securely sealed, and labeled vehicles** to prevent spills, explosions, or cross-contamination with food items.",
+    "section_id": null
+  },
+  {
+    "question_number": 95,
+    "subject": "Business Studies",
+    "topic": "Ethics in Sourcing Chemical",
+    "question_text": "All of the following are ethical guidelines for sourcing and managing chemicals EXCEPT",
+    "options": {
+      "a": "employing good handling techniques",
+      "b": "patronizing licensed vendors",
+      "c": "maintaining a safe distribution network",
+      "d": "improper disposal in residential drainage systems"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Handling, licensed sourcing, and safe distribution are all ethical guidelines. **Improper disposal in residential drainage systems** is highly unethical and illegal.",
+    "section_id": null
+  },
+  {
+    "question_number": 96,
+    "subject": "Business Studies",
+    "topic": "Ethics in Sourcing Chemical",
+    "question_text": "Continuous monitoring and control of food and drugs helps society by ensuring that",
+    "options": {
+      "a": "genuine doctors are completely banned from operating",
+      "b": "expired, fake, and adulterated products are removed from circulation",
+      "c": "waterborne diseases spread faster in rural communities",
+      "d": "all forms of home trade are forcefully stopped"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Monitoring bodies act as gatekeepers to ensure public safety by intercepting and destroying **expired, fake, and adulterated products** before they reach consumers.",
+    "section_id": null
+  },
+  {
+    "question_number": 97,
+    "subject": "Business Studies",
+    "topic": "Ethics in Sourcing Chemical",
+    "question_text": "Chemicals that have been strictly banned by regulatory agencies because they contain carcinogenic (cancer-causing) substances are classified under the syllabus as",
+    "options": {
+      "a": "chemicals suitable for use",
+      "b": "essential commercial goods",
+      "c": "chemicals not suitable for use",
+      "d": "domestic aids to trade"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Any chemical that poses severe health risks and is banned by authorities directly falls under the category of **chemicals not suitable for use**.",
+    "section_id": null
+  },
+  {
+    "question_number": 98,
+    "subject": "Business Studies",
+    "topic": "Ethics in Sourcing Chemical",
+    "question_text": "What is the most appropriate and ethical method for a worker to learn the potential hazards and correct handling techniques of a newly purchased chemical?",
+    "options": {
+      "a": "Smelling the chemical deeply to determine its composition",
+      "b": "Mixing a small portion of it with boiling water",
+      "c": "Reading the manufacturer's instruction and safety data label",
+      "d": "Leaving the container open under direct sunlight"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Ethical and safe handling requires workers to always **read the manufacturer's instruction and safety data label (MSDS)** before opening or using any chemical to understand its hazards.",
+    "section_id": null
+  },
+  {
+    "question_number": 99,
+    "subject": "Business Studies",
+    "topic": "Ethics in Sourcing Chemical",
+    "question_text": "Which of these is a likely direct consequence for a business organization that continuously fails to follow chemical safety and ethical sourcing rules?",
+    "options": {
+      "a": "Immediate expansion of its international trade network",
+      "b": "Revocation of its operating license and closure of the premises",
+      "c": "An automatic award of government manufacturing grants",
+      "d": "A massive reduction in the cost of transportation"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Regulatory agencies have the power to penalize unethical businesses. A major consequence of violating chemical safety laws is the **revocation of the operating license and closure of the business**.",
+    "section_id": null
+  },
+  {
+    "question_number": 100,
+    "subject": "Business Studies",
+    "topic": "Trade",
+    "question_text": "The commercial activity that strictly involves the buying and selling of goods and services with the aim of making a profit is defined as",
+    "options": {
+      "a": "manufacturing",
+      "b": "trade",
+      "c": "production",
+      "d": "advertising"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Trade** is specifically defined as the act of buying and selling goods and services for money or its equivalent, serving as the core of all commercial activities.",
+    "section_id": null
+  },
+  {
+    "question_number": 101,
+    "subject": "Business Studies",
+    "topic": "Trade",
+    "question_text": "Which of the following describes a major importance of trade in an economy?",
+    "options": {
+      "a": "It ensures that consumers only buy goods produced in their own towns.",
+      "b": "It helps in the equitable distribution of goods and services to where they are needed.",
+      "c": "It forces citizens to rely solely on government handouts.",
+      "d": "It stops the extraction of crude oil and natural resources."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A major importance of trade is that it bridges the gap between producers and consumers, **ensuring goods and services are distributed** to areas where they are demanded and needed.",
+    "section_id": null
+  },
+  {
+    "question_number": 102,
+    "subject": "Business Studies",
+    "topic": "Trade",
+    "question_text": "Trade is structurally classified into two broad forms. These are",
+    "options": {
+      "a": "import and export trade",
+      "b": "wholesale and retail trade",
+      "c": "home trade and foreign trade",
+      "d": "barter and monetary trade"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Trade is broadly categorized into two forms based on territorial boundaries: **home trade** (domestic) and **foreign trade** (international).",
+    "section_id": null
+  },
+  {
+    "question_number": 103,
+    "subject": "Business Studies",
+    "topic": "Trade",
+    "question_text": "A commercial transaction involving the sale of yams from a farmer in Benue State to a buyer in Lagos State is an example of",
+    "options": {
+      "a": "home trade",
+      "b": "foreign trade",
+      "c": "export trade",
+      "d": "import trade"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Since Benue and Lagos are both within the geographical boundaries of Nigeria, the transaction is an example of **home trade**.",
+    "section_id": null
+  },
+  {
+    "question_number": 104,
+    "subject": "Business Studies",
+    "topic": "Trade",
+    "question_text": "Foreign trade differs from home trade primarily because foreign trade",
+    "options": {
+      "a": "does not require transportation of goods",
+      "b": "involves crossing national boundaries and usually requires different currencies",
+      "c": "only involves the exchange of agricultural products",
+      "d": "eliminates the need for customs duties"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Unlike home trade, **foreign trade involves trading across national borders**, which requires dealing with customs, tariffs, and the exchange of different national currencies.",
+    "section_id": null
+  },
+  {
+    "question_number": 105,
+    "subject": "Business Studies",
+    "topic": "Trade",
+    "question_text": "Activities designed to make the buying and selling of goods smooth, efficient, and less risky are collectively called",
+    "options": {
+      "a": "primary occupations",
+      "b": "manufacturing processes",
+      "c": "aids to trade",
+      "d": "forms of trade"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Auxiliary services like banking, insurance, and transport facilitate trade by removing various hindrances. These are known as **aids to trade**.",
+    "section_id": null
+  },
+  {
+    "question_number": 106,
+    "subject": "Business Studies",
+    "topic": "Trade",
+    "question_text": "All of the following are classified as aids to trade EXCEPT",
+    "options": {
+      "a": "warehousing",
+      "b": "insurance",
+      "c": "drilling",
+      "d": "communication"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Warehousing, insurance, and communication facilitate trade. **Drilling** is an extractive (primary) industrial activity, not an aid to trade.",
+    "section_id": null
+  },
+  {
+    "question_number": 107,
+    "subject": "Business Studies",
+    "topic": "Trade",
+    "question_text": "Which of the following aids to trade provides businessmen with loans, overdrafts, and a secure means for settling financial transactions?",
+    "options": {
+      "a": "Advertising",
+      "b": "Banking",
+      "c": "Tourism",
+      "d": "Insurance"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Banking** is the financial aid to trade that accepts deposits, grants loans/overdrafts, and facilitates payment via cheques and electronic transfers.",
+    "section_id": null
+  },
+  {
+    "question_number": 108,
+    "subject": "Business Studies",
+    "topic": "Trade",
+    "question_text": "The aid to trade that protects business owners from bearing the full burden of financial loss due to fire, burglary, or marine accidents is",
+    "options": {
+      "a": "Warehousing",
+      "b": "Banking",
+      "c": "Insurance",
+      "d": "Transport"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Insurance** involves pooling risks to compensate businesses that suffer unexpected financial losses from disasters like fire or theft.",
+    "section_id": null
+  },
+  {
+    "question_number": 109,
+    "subject": "Business Studies",
+    "topic": "Trade",
+    "question_text": "When a company introduces a new line of electronic gadgets, the most effective aid to trade for informing the public and persuading them to buy is",
+    "options": {
+      "a": "advertising",
+      "b": "tourism",
+      "c": "banking",
+      "d": "warehousing"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Advertising** solves the hindrance of lack of information by creating public awareness and persuading potential customers to purchase a product.",
+    "section_id": null
+  },
+  {
+    "question_number": 110,
+    "subject": "Business Studies",
+    "topic": "Trade",
+    "question_text": "The exchange of documents, ideas, and trade information between a supplier in China and an importer in Nigeria is primarily facilitated by",
+    "options": {
+      "a": "insurance",
+      "b": "warehousing",
+      "c": "communication",
+      "d": "customs"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Communication** encompasses postal services, emails, internet, and telephones, which allow business people to exchange vital information instantly over long distances.",
+    "section_id": null
+  },
+  {
+    "question_number": 111,
+    "subject": "Business Studies",
+    "topic": "Trade",
+    "question_text": "Which aid to trade creates *place utility* by physically moving goods from the factory where they are produced to the markets where they are needed?",
+    "options": {
+      "a": "Communication",
+      "b": "Transport",
+      "c": "Banking",
+      "d": "Advertising"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Transport** overcomes geographical barriers (hindrance of location) by moving goods across roads, air, or sea to reach the consumer, thereby creating place utility.",
+    "section_id": null
+  },
+  {
+    "question_number": 112,
+    "subject": "Business Studies",
+    "topic": "Trade",
+    "question_text": "The aid to trade that involves people traveling to destinations outside their normal environment for business, leisure, and recreation, thereby boosting the economy, is",
+    "options": {
+      "a": "warehousing",
+      "b": "insurance",
+      "c": "tourism",
+      "d": "banking"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Tourism** encourages travel for business and leisure. It generates foreign exchange, creates jobs in hospitality, and indirectly stimulates local businesses and trade.",
+    "section_id": null
+  },
+  {
+    "question_number": 113,
+    "subject": "Business Studies",
+    "topic": "Trade",
+    "question_text": "To ensure that seasonal agricultural products like maize are available for purchase all year round, a business must utilize",
+    "options": {
+      "a": "warehousing",
+      "b": "tourism",
+      "c": "customs",
+      "d": "insurance"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Warehousing** overcomes the hindrance of time by safely storing mass-produced or seasonal goods until consumers are ready to buy them.",
+    "section_id": null
+  },
+  {
+    "question_number": 114,
+    "subject": "Business Studies",
+    "topic": "Trade",
+    "question_text": "The primary role of the Customs and Excise department in foreign trade is to",
+    "options": {
+      "a": "print the nation's currency notes",
+      "b": "regulate the flow of goods across borders and collect import/export duties",
+      "c": "provide direct loans to local market women",
+      "d": "manufacture locally consumed industrial chemicals"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **Customs and Excise** department is a government agency tasked with controlling the entry and exit of goods and collecting tariffs and duties on imports and exports.",
+    "section_id": null
+  },
+  {
+    "question_number": 115,
+    "subject": "Business Studies",
+    "topic": "Trade",
+    "question_text": "Which government body is strictly responsible for preventing the illegal smuggling of contraband weapons and harmful drugs into a country?",
+    "options": {
+      "a": "Standard Organisation of Nigeria (SON)",
+      "b": "Customs and Excise Department",
+      "c": "Commercial Banks",
+      "d": "Ministry of Tourism"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A major enforcement role of the **Customs and Excise Department** at seaports and land borders is to search cargoes and prevent the smuggling of banned or dangerous items.",
+    "section_id": null
+  },
+  {
+    "question_number": 116,
+    "subject": "Business Studies",
+    "topic": "Trade",
+    "question_text": "In the context of the Customs and Excise department, 'excise duties' refer to taxes levied exclusively on",
+    "options": {
+      "a": "goods that are manufactured and sold locally within the country",
+      "b": "goods that are imported from foreign countries",
+      "c": "agricultural goods exported abroad",
+      "d": "profits made by commercial banks"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "**Excise duties** are indirect taxes charged on certain goods (like alcohol and tobacco) that are produced and consumed domestically, unlike customs duties which apply to imports/exports.",
+    "section_id": null
+  },
+  {
+    "question_number": 117,
+    "subject": "Business Studies",
+    "topic": "Trade",
+    "question_text": "An importer bringing a shipment of electronics into the country must present shipping documents to Customs officials primarily to",
+    "options": {
+      "a": "calculate and pay the accurate import tariff",
+      "b": "apply for a bank overdraft",
+      "c": "advertise the products on national television",
+      "d": "insure the goods against fire outbreaks"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Customs officials inspect documents (like the bill of lading and invoices) to determine the value and category of goods so they can **calculate the correct import tariff/duty** before releasing them.",
+    "section_id": null
+  },
+  {
+    "question_number": 118,
+    "subject": "Business Studies",
+    "topic": "Trade",
+    "question_text": "A businessman who needs a secure, bonded location to store his imported goods at the seaport before clearing customs will require the services of",
+    "options": {
+      "a": "a commercial bank",
+      "b": "an insurance firm",
+      "c": "a warehouse",
+      "d": "an advertising agency"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Importers often use bonded **warehouses** at ports to safely store imported goods while awaiting the processing of documents and payment of customs duties.",
+    "section_id": null
+  },
+  {
+    "question_number": 119,
+    "subject": "Business Studies",
+    "topic": "Trade",
+    "question_text": "A major benefit of foreign trade to a developing nation is that it allows the country to",
+    "options": {
+      "a": "stop producing its own local goods",
+      "b": "import technology and goods it cannot efficiently produce on its own",
+      "c": "close all its international borders to tourists",
+      "d": "isolate itself from global communication networks"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Foreign trade allows countries to enjoy goods they do not have the resources or technology to produce locally. It enables them to **import necessary items** while exporting their surplus.",
+    "section_id": null
+  },
+  {
+    "question_number": 120,
+    "subject": "Business Studies",
+    "topic": "Market",
+    "question_text": "In Commerce, a market is best defined as",
+    "options": {
+      "a": "only a physical building where traders store their goods",
+      "b": "any arrangement or medium that brings buyers and sellers into contact to exchange goods and services",
+      "c": "a government-owned institution that prints the nation's currency",
+      "d": "the specific geographical area where heavy manufacturing takes place"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "In business studies, a **market** is not just a physical place. It is any medium (such as a physical shop, a website, or a telephone network) that enables buyers and sellers to interact and exchange goods and services.",
+    "section_id": null
+  },
+  {
+    "question_number": 121,
+    "subject": "Business Studies",
+    "topic": "Market",
+    "question_text": "Which of the following is NOT a fundamental feature of a market?",
+    "options": {
+      "a": "The presence of buyers and sellers",
+      "b": "A medium of exchange or price",
+      "c": "The presence of a commercial bank manager",
+      "d": "A commodity or service to be exchanged"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The essential features of a market include **buyers**, **sellers**, **goods/services**, and a **price** (medium of exchange). The presence of a commercial bank manager is not a fundamental requirement for a market to exist.",
+    "section_id": null
+  },
+  {
+    "question_number": 122,
+    "subject": "Business Studies",
+    "topic": "Market",
+    "question_text": "The financial market where short-term funds, loans, and securities are bought and sold is known as the",
+    "options": {
+      "a": "commodity market",
+      "b": "capital market",
+      "c": "foreign exchange market",
+      "d": "money market"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "The **money market** is the financial market designed for the lending and borrowing of short-term funds (usually for a period of up to one year).",
+    "section_id": null
+  },
+  {
+    "question_number": 123,
+    "subject": "Business Studies",
+    "topic": "Market",
+    "question_text": "Businesses and governments use which type of market to raise long-term funds for major investments and expansion?",
+    "options": {
+      "a": "Capital market",
+      "b": "Money market",
+      "c": "Commodity market",
+      "d": "Retail market"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The **capital market** specializes in medium and long-term funds. Organizations issue shares and long-term bonds in this market to raise capital for long-term investments.",
+    "section_id": null
+  },
+  {
+    "question_number": 124,
+    "subject": "Business Studies",
+    "topic": "Market",
+    "question_text": "A market specialized in the buying and selling of primary agricultural goods and solid minerals like cocoa, cotton, and gold is the",
+    "options": {
+      "a": "capital market",
+      "b": "money market",
+      "c": "commodity market",
+      "d": "stock market"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **commodity market** deals specifically with the bulk trading of raw primary products (commodities) such as crude oil, gold, cocoa, and wheat.",
+    "section_id": null
+  },
+  {
+    "question_number": 125,
+    "subject": "Business Studies",
+    "topic": "Market",
+    "question_text": "Which of the following acts as a primary institution in the money market?",
+    "options": {
+      "a": "Stock Exchange",
+      "b": "Commercial Bank",
+      "c": "Commodity Exchange Board",
+      "d": "Ministry of Tourism"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Commercial banks** are the primary institutions operating in the money market. They provide short-term loans, overdrafts, and discount bills of exchange for traders.",
+    "section_id": null
+  },
+  {
+    "question_number": 126,
+    "subject": "Business Studies",
+    "topic": "Market",
+    "question_text": "The principal institution in the capital market where existing company shares and government bonds are openly traded is the",
+    "options": {
+      "a": "Central Bank",
+      "b": "Microfinance Bank",
+      "c": "Stock Exchange",
+      "d": "Customs Authority"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **Stock Exchange** is the main institution of the capital market. It provides a highly organized floor where stockbrokers buy and sell existing securities like shares and bonds.",
+    "section_id": null
+  },
+  {
+    "question_number": 127,
+    "subject": "Business Studies",
+    "topic": "Market",
+    "question_text": "An example of a financial instrument traded in the money market is the",
+    "options": {
+      "a": "Company Share",
+      "b": "Treasury Bill",
+      "c": "Government Bond",
+      "d": "Debenture"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "A **Treasury Bill** is a short-term debt instrument issued by the government, making it a money market instrument. Shares, bonds, and debentures are long-term instruments traded in the capital market.",
+    "section_id": null
+  },
+  {
+    "question_number": 128,
+    "subject": "Business Studies",
+    "topic": "Market",
+    "question_text": "Which of the following financial instruments is used by public limited companies to raise long-term capital in the capital market?",
+    "options": {
+      "a": "Treasury bills",
+      "b": "Promissory notes",
+      "c": "Equities (Shares)",
+      "d": "Bank overdrafts"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Equities (Shares)** represent ownership units in a company and are the primary instruments sold in the capital market to raise long-term, permanent business capital.",
+    "section_id": null
+  },
+  {
+    "question_number": 129,
+    "subject": "Business Studies",
+    "topic": "Market",
+    "question_text": "A registered professional agent authorized to buy and sell securities on the Stock Exchange on behalf of investors is called a",
+    "options": {
+      "a": "retailer",
+      "b": "stockbroker",
+      "c": "wholesaler",
+      "d": "bank teller"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **stockbroker** acts as an intermediary or agent on the floor of the Stock Exchange, buying and selling shares for their clients in exchange for a commission.",
+    "section_id": null
+  },
+  {
+    "question_number": 130,
+    "subject": "Business Studies",
+    "topic": "Market",
+    "question_text": "Which of the following is a recognized professional career path in the Capital Market?",
+    "options": {
+      "a": "Portfolio Manager",
+      "b": "Customs Officer",
+      "c": "Agricultural Extension Worker",
+      "d": "Licensed Chemical Vendor"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "A **Portfolio Manager** (or investment analyst) is a career in the capital market involving managing a collection of investments (like shares and bonds) on behalf of clients.",
+    "section_id": null
+  },
+  {
+    "question_number": 131,
+    "subject": "Business Studies",
+    "topic": "Market",
+    "question_text": "The foundational commercial process of acquiring goods by giving up an equivalent value in money is known as",
+    "options": {
+      "a": "manufacturing",
+      "b": "hoarding",
+      "c": "buying",
+      "d": "advertising"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "In the concept of trading, **buying** is the act of acquiring ownership of goods and services in exchange for money, while selling is giving them up for money.",
+    "section_id": null
+  },
+  {
+    "question_number": 132,
+    "subject": "Business Studies",
+    "topic": "Market",
+    "question_text": "A business transaction in which goods are exchanged and immediate payment is made simultaneously is called a",
+    "options": {
+      "a": "credit transaction",
+      "b": "cash transaction",
+      "c": "barter transaction",
+      "d": "deferred transaction"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **cash transaction** occurs when a buyer pays for goods immediately at the time of purchase using physical cash, cheques, or instant electronic transfers.",
+    "section_id": null
+  },
+  {
+    "question_number": 133,
+    "subject": "Business Studies",
+    "topic": "Market",
+    "question_text": "When a customer collects bags of rice from a wholesaler but agrees to pay the money at the end of the month, the process is referred to as buying by",
+    "options": {
+      "a": "cash",
+      "b": "barter",
+      "c": "credit",
+      "d": "imprest"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Buying by **credit** means goods are delivered and accepted immediately, but the payment of the agreed amount is postponed to a future date.",
+    "section_id": null
+  },
+  {
+    "question_number": 134,
+    "subject": "Business Studies",
+    "topic": "Market",
+    "question_text": "The total monetary value of all net sales made by a business during a specific financial period is known as",
+    "options": {
+      "a": "mark up",
+      "b": "profit",
+      "c": "turnover",
+      "d": "cost of sale"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Turnover** refers to the total net sales revenue generated by a business over a specific period (usually a year), before deducting any costs or expenses.",
+    "section_id": null
+  },
+  {
+    "question_number": 135,
+    "subject": "Business Studies",
+    "topic": "Market",
+    "question_text": "The total expenditure incurred by a business strictly on purchasing or manufacturing the actual goods that were sold is referred to as the",
+    "options": {
+      "a": "turnover",
+      "b": "cost of sale",
+      "c": "gross profit",
+      "d": "mark up"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **cost of sale** (or Cost of Goods Sold) represents the direct costs involved in bringing the goods to a saleable condition (e.g., buying price plus carriage inwards).",
+    "section_id": null
+  },
+  {
+    "question_number": 136,
+    "subject": "Business Studies",
+    "topic": "Market",
+    "question_text": "In a commercial transaction, what is realized when the selling price of an article is greater than its cost price?",
+    "options": {
+      "a": "Discount",
+      "b": "Loss",
+      "c": "Overdraft",
+      "d": "Profit"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Profit** is the positive financial difference obtained when the Selling Price (SP) is higher than the Cost Price (CP). Thus, $\\text{Profit} = \\text{SP} - \\text{CP}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 137,
+    "subject": "Business Studies",
+    "topic": "Market",
+    "question_text": "A trader bought a carton of biscuits for $\\text{N}3,500$ and later sold it to a final consumer for $\\text{N}5,000$. Calculate the profit.",
+    "options": {
+      "a": "$\\text{N}8,500$",
+      "b": "$\\text{N}1,500$",
+      "c": "$\\text{N}5,000$",
+      "d": "$\\text{N}2,500$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The formula for profit is: $$\\text{Profit} = \\text{Selling Price} - \\text{Cost Price}$$ <br> $\\text{Profit} = \\text{N}5,000 - \\text{N}3,500 = \\text{N}1,500$.",
+    "section_id": null
+  },
+  {
+    "question_number": 138,
+    "subject": "Business Studies",
+    "topic": "Market",
+    "question_text": "The ratio of the profit made on a good expressed as a percentage or fraction of the **cost price** is known as",
+    "options": {
+      "a": "turnover",
+      "b": "mark up",
+      "c": "margin",
+      "d": "discount"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "**Mark up** is the profit calculated as a percentage of the cost price. It shows how much extra was 'marked up' on top of the original cost to arrive at the selling price.",
+    "section_id": null
+  },
+  {
+    "question_number": 139,
+    "subject": "Business Studies",
+    "topic": "Market",
+    "question_text": "A retail business has an Opening Stock of $\\text{N}20,000$, total Purchases for the year amounting to $\\text{N}50,000$, and a Closing Stock of $\\text{N}10,000$. What is the Cost of Sales?",
+    "options": {
+      "a": "$\\text{N}60,000$",
+      "b": "$\\text{N}70,000$",
+      "c": "$\\text{N}80,000$",
+      "d": "$\\text{N}30,000$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "The formula for Cost of Sales is: $$\\text{Opening Stock} + \\text{Purchases} - \\text{Closing Stock}$$ <br> Cost of Sales = $\\text{N}20,000 + \\text{N}50,000 - \\text{N}10,000 = \\text{N}60,000$.",
+    "section_id": null
+  },
+  {
+    "question_number": 140,
+    "subject": "Business Studies",
+    "topic": "Market",
+    "question_text": "Calculate the Mark up percentage if a trader buys a radio for $\\text{N}4,000$ and sells it for $\\text{N}5,000$.",
+    "options": {
+      "a": "20\\%",
+      "b": "25\\%",
+      "c": "50\\%",
+      "d": "100\\%"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "First, calculate Profit: $\\text{N}5,000 - \\text{N}4,000 = \\text{N}1,000$. <br> Next, apply the Mark up formula: $$\\text{Mark up} = \\frac{\\text{Profit}}{\\text{Cost Price}} \\times 100$$ <br> $$\\frac{1,000}{4,000} \\times 100 = 25\\%$$.",
+    "section_id": null
+  },
+  {
+    "question_number": 141,
+    "subject": "Business Studies",
+    "topic": "Market",
+    "question_text": "If a boutique sells $150$ shirts during the year at a uniform price of $\\text{N}3,000$ each, what is the annual turnover of the boutique?",
+    "options": {
+      "a": "$\\text{N}150,000$",
+      "b": "$\\text{N}300,000$",
+      "c": "$\\text{N}450,000$",
+      "d": "$\\text{N}600,000$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Turnover** represents total sales. <br> $$\\text{Turnover} = \\text{Quantity Sold} \\times \\text{Selling Price}$$ <br> Turnover = $150 \\times \\text{N}3,000 = \\text{N}450,000$.",
+    "section_id": null
+  },
+  {
+    "question_number": 142,
+    "subject": "Business Studies",
+    "topic": "Distribution",
+    "question_text": "The commercial process of ensuring that finished goods are moved from the point of manufacture to the point where they are needed by the final user is called",
+    "options": {
+      "a": "extraction",
+      "b": "distribution",
+      "c": "advertising",
+      "d": "consumption"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Distribution** is the act of dispersing or moving goods and services from the manufacturer/producer through various intermediaries to the final consumer.",
+    "section_id": null
+  },
+  {
+    "question_number": 143,
+    "subject": "Business Studies",
+    "topic": "Distribution",
+    "question_text": "The specific path or route through which goods flow from the producer to the final consumer is formally referred to as the",
+    "options": {
+      "a": "chain of distribution",
+      "b": "medium of exchange",
+      "c": "scale of preference",
+      "d": "factors of production"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The **chain of distribution** (or channel of distribution) describes the path that goods take as title and physical possession move from the producer to the ultimate consumer.",
+    "section_id": null
+  },
+  {
+    "question_number": 144,
+    "subject": "Business Studies",
+    "topic": "Distribution",
+    "question_text": "Which of the following represents the normal and most complete channel of distribution for consumer goods?",
+    "options": {
+      "a": "Wholesaler $\\rightarrow$ Producer $\\rightarrow$ Consumer $\\rightarrow$ Retailer",
+      "b": "Producer $\\rightarrow$ Wholesaler $\\rightarrow$ Retailer $\\rightarrow$ Consumer",
+      "c": "Retailer $\\rightarrow$ Consumer $\\rightarrow$ Producer $\\rightarrow$ Wholesaler",
+      "d": "Producer $\\rightarrow$ Retailer $\\rightarrow$ Wholesaler $\\rightarrow$ Consumer"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The traditional channel of distribution starts with the **Producer**, goes to the **Wholesaler** (who buys in bulk), then to the **Retailer** (who breaks bulk), and finally to the **Consumer**.",
+    "section_id": null
+  },
+  {
+    "question_number": 145,
+    "subject": "Business Studies",
+    "topic": "Distribution",
+    "question_text": "In the chain of distribution, the primary function of the producer is to",
+    "options": {
+      "a": "break bulk into single units for consumers",
+      "b": "provide small daily loans to local hawkers",
+      "c": "create and package the goods to satisfy wants",
+      "d": "consume the goods to end the production cycle"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **producer** or manufacturer initiates the channel by actually creating, processing, and packaging the goods intended for market consumption.",
+    "section_id": null
+  },
+  {
+    "question_number": 146,
+    "subject": "Business Studies",
+    "topic": "Distribution",
+    "question_text": "The specific commercial function of buying goods in massive quantities from the manufacturer and dividing them into smaller manageable quantities for the retailer is known as",
+    "options": {
+      "a": "hoarding",
+      "b": "breaking bulk",
+      "c": "discounting",
+      "d": "assembling"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Breaking bulk** is the core function of the wholesaler. They buy huge volumes (bulk) from producers and divide them into smaller batches that retailers can afford.",
+    "section_id": null
+  },
+  {
+    "question_number": 147,
+    "subject": "Business Studies",
+    "topic": "Distribution",
+    "question_text": "How does the wholesaler typically provide financial assistance to the manufacturer in the channel of distribution?",
+    "options": {
+      "a": "By granting bank overdrafts to the manufacturer",
+      "b": "By prompt or advance payment for bulk orders",
+      "c": "By selling goods on credit directly to the final consumer",
+      "d": "By physically printing the national currency"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Wholesalers help finance the manufacturer's operations **by paying promptly or even paying in advance** for massive bulk orders, giving the manufacturer immediate cash to continue production.",
+    "section_id": null
+  },
+  {
+    "question_number": 148,
+    "subject": "Business Studies",
+    "topic": "Distribution",
+    "question_text": "Which member of the distribution channel traditionally performs the function of stocking a wide variety of goods and providing direct credit facilities to the final consumer?",
+    "options": {
+      "a": "The producer",
+      "b": "The wholesaler",
+      "c": "The retailer",
+      "d": "The customs officer"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **retailer** operates close to the consumers, stocks a wide variety of products from different wholesalers, and often allows trusted consumers to buy on credit.",
+    "section_id": null
+  },
+  {
+    "question_number": 149,
+    "subject": "Business Studies",
+    "topic": "Distribution",
+    "question_text": "Who is the last link in the chain of distribution, responsible for using up the goods or services?",
+    "options": {
+      "a": "The consumer",
+      "b": "The retailer",
+      "c": "The manufacturer",
+      "d": "The wholesaler"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The **consumer** is the ultimate end-user in the distribution channel. Their act of consumption completes the entire commercial process.",
+    "section_id": null
+  },
+  {
+    "question_number": 150,
+    "subject": "Business Studies",
+    "topic": "Distribution",
+    "question_text": "According to the principles of commerce, the process of production is completely achieved and ends ONLY when the",
+    "options": {
+      "a": "goods are securely packed in the warehouse",
+      "b": "wholesaler purchases the goods from the factory",
+      "c": "goods successfully reach the final consumer",
+      "d": "manufacturer prints the price tag on the item"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Production is defined as the creation of goods and services to satisfy human wants. Therefore, production is not complete until the goods **reach the final consumer** who uses them.",
+    "section_id": null
+  },
+  {
+    "question_number": 151,
+    "subject": "Business Studies",
+    "topic": "Distribution",
+    "question_text": "Individuals or corporate bodies legally authorized by government regulatory agencies to sell and distribute specific industrial and domestic chemicals are known as",
+    "options": {
+      "a": "retail hawkers",
+      "b": "licensed chemical vendors",
+      "c": "customs officials",
+      "d": "commercial bankers"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Chemicals are sensitive and potentially dangerous. The law requires that they are distributed strictly by **licensed chemical vendors** who are trained and monitored by regulators.",
+    "section_id": null
+  },
+  {
+    "question_number": 152,
+    "subject": "Business Studies",
+    "topic": "Distribution",
+    "question_text": "A standard ethical procedure in the handling and distribution of hazardous chemicals is to ensure that they are",
+    "options": {
+      "a": "transported in properly labeled and tightly sealed containers",
+      "b": "packed together in the same truck with fresh food items",
+      "c": "sold in open markets without any hazard warning labels",
+      "d": "exposed to direct sunlight to maintain a warm temperature"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "To prevent leaks, toxic exposure, or fire, chemicals must be **transported in properly labeled and tightly sealed containers**, ensuring handlers know the exact contents and risks.",
+    "section_id": null
+  },
+  {
+    "question_number": 153,
+    "subject": "Business Studies",
+    "topic": "Distribution",
+    "question_text": "What is a major environmental effect of the wrong handling and improper distribution of industrial chemicals?",
+    "options": {
+      "a": "Rapid increase in agricultural crop yield",
+      "b": "Severe pollution of water bodies and soil",
+      "c": "Expansion of local retail market stalls",
+      "d": "Reduction in the cost of imported goods"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Improper handling, spills, or illegal dumping of chemicals during distribution directly causes **severe pollution of water bodies and soil**, leading to environmental degradation.",
+    "section_id": null
+  },
+  {
+    "question_number": 154,
+    "subject": "Business Studies",
+    "topic": "Distribution",
+    "question_text": "Which of the following is a direct health consequence of workers handling toxic chemicals without proper Personal Protective Equipment (PPE)?",
+    "options": {
+      "a": "An increase in their monthly basic salary",
+      "b": "Severe skin burns and respiratory diseases",
+      "c": "Immediate promotion to a management position",
+      "d": "Better and faster customer patronage"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Failing to use proper handling techniques and PPE when distributing chemicals exposes workers directly to fumes and corrosive liquids, leading to **skin burns and respiratory diseases**.",
+    "section_id": null
+  },
+  {
+    "question_number": 155,
+    "subject": "Business Studies",
+    "topic": "Distribution",
+    "question_text": "If a manufacturer decides to open its own branded showroom and sell its manufactured goods directly to the final consumers, which traditional middlemen are eliminated from the channel?",
+    "options": {
+      "a": "The wholesaler and the retailer",
+      "b": "The banker and the insurer",
+      "c": "The government and the consumer",
+      "d": "The advertiser and the transporter"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "By selling directly (Manufacturer $\\rightarrow$ Consumer), the producer effectively bypasses or eliminates the traditional distribution middlemen, namely **the wholesaler and the retailer**.",
+    "section_id": null
+  },
+  {
+    "question_number": 156,
+    "subject": "Business Studies",
+    "topic": "Distribution",
+    "question_text": "In the distribution network, the final consumer provides vital feedback through the retailer. This feedback is primarily important because it helps the producer to",
+    "options": {
+      "a": "know exactly how to increase government excise taxes",
+      "b": "improve the quality of future goods to better satisfy wants",
+      "c": "print out fake receipts for wholesale purchases",
+      "d": "smuggle defective goods across international borders"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Feedback flows backward up the distribution channel. Consumers complain or praise goods to retailers, who inform wholesalers/producers, enabling the producer to **improve product quality**.",
+    "section_id": null
+  },
+  {
+    "question_number": 157,
+    "subject": "Business Studies",
+    "topic": "Distribution",
+    "question_text": "Regulatory bodies in Nigeria, such as NAFDAC or SON, heavily monitor the distribution channels of chemicals in order to",
+    "options": {
+      "a": "ensure that all chemicals are completely removed from factories",
+      "b": "stop manufacturing companies from making any form of profit",
+      "c": "prevent the illegal circulation of harmful, fake, or expired substances",
+      "d": "force licensed vendors to distribute all their chemicals for free"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The primary role of these regulators is public safety; they monitor distribution to **prevent the illegal circulation of harmful, fake, or expired substances** into the consumer market.",
+    "section_id": null
+  },
+  {
+    "question_number": 158,
+    "subject": "Business Studies",
+    "topic": "Bank Service",
+    "question_text": "A financial institution established primarily to accept deposits from the public, safeguard money, and grant loans with the aim of making a profit is called a",
+    "options": {
+      "a": "mortgage bank",
+      "b": "central bank",
+      "c": "commercial bank",
+      "d": "development bank"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **commercial bank** is a profit-oriented financial institution that performs the primary functions of accepting deposits from the general public and providing loans to individuals and businesses.",
+    "section_id": null
+  },
+  {
+    "question_number": 159,
+    "subject": "Business Studies",
+    "topic": "Bank Service",
+    "question_text": "All the following are standard services provided by a commercial bank to its customers EXCEPT",
+    "options": {
+      "a": "accepting deposits and savings",
+      "b": "printing and issuing the national currency",
+      "c": "granting loans and overdrafts",
+      "d": "providing safekeeping for valuable items"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Accepting deposits, granting loans, and safekeeping valuables are basic commercial bank services. **Printing and issuing the national currency** is the exclusive statutory function of the Central Bank.",
+    "section_id": null
+  },
+  {
+    "question_number": 160,
+    "subject": "Business Studies",
+    "topic": "Bank Service",
+    "question_text": "Which specific bank service allows a trusted businessman operating a current account to withdraw more money than the actual balance in their account up to an agreed limit?",
+    "options": {
+      "a": "A term loan",
+      "b": "A fixed deposit",
+      "c": "An overdraft",
+      "d": "A bank draft"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "An **overdraft** is a short-term credit facility exclusively available to current account holders, allowing them to draw more funds than they have in their account, paying interest only on the overdrawn amount.",
+    "section_id": null
+  },
+  {
+    "question_number": 161,
+    "subject": "Business Studies",
+    "topic": "Bank Service",
+    "question_text": "When a commercial bank buys a bill of exchange from a customer before its maturity date at a price slightly lower than its face value, it is providing the service of",
+    "options": {
+      "a": "discounting bills of exchange",
+      "b": "issuing travelers' cheques",
+      "c": "acting as an executor or trustee",
+      "d": "providing investment advice"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "**Discounting bills of exchange** is a bank service where the bank pays the holder of a bill immediately (minus a small discount fee) before the bill is officially due for payment.",
+    "section_id": null
+  },
+  {
+    "question_number": 162,
+    "subject": "Business Studies",
+    "topic": "Bank Service",
+    "question_text": "A customer who wants to deposit money for a specific long period to earn a higher interest rate and cannot withdraw it before maturity without a penalty should use a",
+    "options": {
+      "a": "savings account",
+      "b": "current account",
+      "c": "fixed deposit account",
+      "d": "petty cash account"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A **fixed deposit account** (or time deposit) locks the customer's money in the bank for an agreed period, and in return, the bank pays a higher interest rate than other account types.",
+    "section_id": null
+  },
+  {
+    "question_number": 163,
+    "subject": "Business Studies",
+    "topic": "Bank Service",
+    "question_text": "Customers often submit their wills, jewelry, and land property deeds to the commercial bank. Which bank service are they utilizing?",
+    "options": {
+      "a": "Electronic banking",
+      "b": "Safekeeping of valuables",
+      "c": "Agency services",
+      "d": "Foreign exchange transaction"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Banks provide highly secure vaults for the **safekeeping of valuables** (also known as safe custody), protecting customers' important documents and precious items from fire and theft.",
+    "section_id": null
+  },
+  {
+    "question_number": 164,
+    "subject": "Business Studies",
+    "topic": "Bank Service",
+    "question_text": "The ethical banking rule that strictly forbids bank employees from disclosing a customer's account balance, transaction history, or personal details to unauthorized third parties is known as",
+    "options": {
+      "a": "transparency",
+      "b": "profitability",
+      "c": "confidentiality",
+      "d": "accountability"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Confidentiality** (or bank secrecy) is a fundamental ethical banking principle ensuring that a customer's financial affairs are kept totally private and secure from unauthorized persons.",
+    "section_id": null
+  },
+  {
+    "question_number": 165,
+    "subject": "Business Studies",
+    "topic": "Bank Service",
+    "question_text": "An unethical practice where a bank manager uses their position and power to irregularly approve loans for themselves or their family members without requiring adequate collateral is termed",
+    "options": {
+      "a": "insider abuse",
+      "b": "money laundering",
+      "c": "due diligence",
+      "d": "bank reconciliation"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Insider abuse** occurs when bank officials act unethically by manipulating internal policies, such as granting unsecured loans to themselves, relatives, or associated businesses.",
+    "section_id": null
+  },
+  {
+    "question_number": 166,
+    "subject": "Business Studies",
+    "topic": "Bank Service",
+    "question_text": "Which of the following actions by a commercial bank constitutes a major ethical violation against its customers?",
+    "options": {
+      "a": "Demanding a valid identity card before opening a new account",
+      "b": "Deducting hidden and unexplained charges from customers' accounts",
+      "c": "Refusing to grant a loan to a customer who has no collateral",
+      "d": "Closing the banking hall exactly at the stipulated official time"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Deducting hidden and unexplained charges** violates the ethical principle of transparency and fair play. Banks must clearly communicate all fees and charges to customers.",
+    "section_id": null
+  },
+  {
+    "question_number": 167,
+    "subject": "Business Studies",
+    "topic": "Bank Service",
+    "question_text": "Criminals sometimes try to use commercial bank services to hide the origins of cash obtained from illegal activities so it appears legitimate. This unethical and illegal activity is called",
+    "options": {
+      "a": "insider trading",
+      "b": "money laundering",
+      "c": "electronic banking",
+      "d": "debt factoring"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "**Money laundering** is the process of passing illegally acquired money through legitimate bank systems to disguise its criminal origins and make it look clean.",
+    "section_id": null
+  },
+  {
+    "question_number": 168,
+    "subject": "Business Studies",
+    "topic": "Bank Service",
+    "question_text": "When a bank cashier discovers a shortage in the cash register at the end of the day and secretly alters the record books to balance the account, the cashier lacks the banking ethic of",
+    "options": {
+      "a": "truthfulness and probity",
+      "b": "punctuality and regularity",
+      "c": "advertising and marketing",
+      "d": "communication and public relations"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Falsifying or altering financial records to cover up a mistake or theft represents a complete lack of **truthfulness, accountability, and probity** (honesty) in banking.",
+    "section_id": null
+  },
+  {
+    "question_number": 169,
+    "subject": "Business Studies",
+    "topic": "Bank Service",
+    "question_text": "The modern bank service that utilizes computers and the internet to enable customers to check their balances and transfer funds without physically visiting a bank branch is called",
+    "options": {
+      "a": "safe custody service",
+      "b": "e-banking (electronic banking)",
+      "c": "commercial lending",
+      "d": "documentary credit"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**E-banking** (or electronic banking) encompasses online banking, mobile apps, ATMs, and POS terminals, allowing customers to perform banking services remotely and efficiently.",
+    "section_id": null
+  },
+  {
+    "question_number": 170,
+    "subject": "Business Studies",
+    "topic": "Insurance",
+    "question_text": "An arrangement by which a company undertakes to provide a guarantee of compensation for specified loss, damage, illness, or death in return for the payment of a specified premium is known as",
+    "options": {
+      "a": "advertising",
+      "b": "banking",
+      "c": "insurance",
+      "d": "warehousing"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Insurance** is an aid to trade that protects individuals and businesses from the financial consequences of risks and unforeseen losses by pooling resources.",
+    "section_id": null
+  },
+  {
+    "question_number": 171,
+    "subject": "Business Studies",
+    "topic": "Insurance",
+    "question_text": "The regular monetary payment made by an insured person to the insurance company in exchange for risk protection services is called the",
+    "options": {
+      "a": "dividend",
+      "b": "premium",
+      "c": "interest",
+      "d": "turnover"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "To enjoy insurance services, the insured must pay a regular agreed amount of money called a **premium** to the insurer.",
+    "section_id": null
+  },
+  {
+    "question_number": 172,
+    "subject": "Business Studies",
+    "topic": "Insurance",
+    "question_text": "The specific insurance policy that protects a business against financial loss arising from the destruction of its factory buildings or goods by uncontrolled flames is",
+    "options": {
+      "a": "marine insurance",
+      "b": "burglary insurance",
+      "c": "fire insurance",
+      "d": "life assurance"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Fire insurance** policies are designed specifically to compensate businesses and individuals for property damage caused by accidental fires.",
+    "section_id": null
+  },
+  {
+    "question_number": 173,
+    "subject": "Business Studies",
+    "topic": "Insurance",
+    "question_text": "Which type of insurance policy is legally required for any business owner who uses distribution vans and trucks on public roads?",
+    "options": {
+      "a": "Vehicle insurance",
+      "b": "Health insurance",
+      "c": "Pension policy",
+      "d": "Burglary insurance"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Vehicle (or motor) insurance** covers risks associated with automobiles, such as accidents, theft, and third-party liabilities. It is mandatory for road users.",
+    "section_id": null
+  },
+  {
+    "question_number": 174,
+    "subject": "Business Studies",
+    "topic": "Insurance",
+    "question_text": "An importer bringing a large shipment of electronics by sea will take out which insurance policy to protect the goods from shipwrecks or piracy?",
+    "options": {
+      "a": "Fire insurance",
+      "b": "Burglary insurance",
+      "c": "Marine insurance",
+      "d": "Vehicle insurance"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Marine insurance** covers the loss or damage of ships, cargo, terminals, and any transport by which goods are transferred across water.",
+    "section_id": null
+  },
+  {
+    "question_number": 175,
+    "subject": "Business Studies",
+    "topic": "Insurance",
+    "question_text": "The term 'assurance' rather than 'insurance' is used for life policies because",
+    "options": {
+      "a": "the event insured against (death) is bound to happen eventually",
+      "b": "the premiums paid are relatively cheaper than other policies",
+      "c": "it completely stops the insured person from dying",
+      "d": "the government fully sponsors the policy for everyone"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "In business studies, **assurance** applies to events that are a certainty (like death, though the time is unknown), whereas *insurance* applies to risks that may or may not happen (like a fire).",
+    "section_id": null
+  },
+  {
+    "question_number": 176,
+    "subject": "Business Studies",
+    "topic": "Insurance",
+    "question_text": "A shop owner takes out a policy to receive compensation in case thieves forcefully break into the premises at night and steal goods. This policy is called",
+    "options": {
+      "a": "marine insurance",
+      "b": "health insurance",
+      "c": "burglary insurance",
+      "d": "pension scheme"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Burglary insurance** (or theft insurance) provides coverage against loss or damage to property resulting from a break-in or forceful entry.",
+    "section_id": null
+  },
+  {
+    "question_number": 177,
+    "subject": "Business Studies",
+    "topic": "Insurance",
+    "question_text": "The insurance policy specifically designed to help workers save money during their active working years so they can receive a regular income after they retire is the",
+    "options": {
+      "a": "health insurance",
+      "b": "pension scheme",
+      "c": "marine insurance",
+      "d": "vehicle insurance"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **Pension scheme** or policy acts as a long-term savings plan that provides a financial safety net and regular income to individuals after they reach retirement age.",
+    "section_id": null
+  },
+  {
+    "question_number": 178,
+    "subject": "Business Studies",
+    "topic": "Insurance",
+    "question_text": "To offset the high costs of medical treatments, surgeries, and hospital admissions for its employees, a company will provide",
+    "options": {
+      "a": "burglary insurance",
+      "b": "pension schemes",
+      "c": "health insurance",
+      "d": "fire insurance"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Health insurance** covers the medical and surgical expenses incurred by the insured, making healthcare accessible and affordable.",
+    "section_id": null
+  },
+  {
+    "question_number": 179,
+    "subject": "Business Studies",
+    "topic": "Insurance",
+    "question_text": "All of the following are major benefits of insurance to a business organization EXCEPT",
+    "options": {
+      "a": "it guarantees business continuity after a disaster",
+      "b": "it prevents any form of risk or accident from physically occurring",
+      "c": "it provides peace of mind to the entrepreneur",
+      "d": "insurance policies can serve as collateral for bank loans"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Insurance provides financial compensation and peace of mind, but it **does not physically prevent accidents or risks** (like a fire) from occurring in the first place.",
+    "section_id": null
+  },
+  {
+    "question_number": 180,
+    "subject": "Business Studies",
+    "topic": "Transportation",
+    "question_text": "In commerce, the physical movement of people, raw materials, and finished goods from one location to another is defined as",
+    "options": {
+      "a": "warehousing",
+      "b": "distribution",
+      "c": "transportation",
+      "d": "communication"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Transportation** is the aid to trade responsible for the physical carriage and movement of goods and persons from places of plenty (producers) to places of scarcity (consumers).",
+    "section_id": null
+  },
+  {
+    "question_number": 181,
+    "subject": "Business Studies",
+    "topic": "Transportation",
+    "question_text": "A primary importance of transportation in commerce is that it creates",
+    "options": {
+      "a": "form utility",
+      "b": "place utility",
+      "c": "time utility",
+      "d": "possession utility"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Transportation bridges the geographical gap by moving goods to where they are needed, thereby creating **place utility**.",
+    "section_id": null
+  },
+  {
+    "question_number": 182,
+    "subject": "Business Studies",
+    "topic": "Transportation",
+    "question_text": "The type of transportation that offers the greatest flexibility by providing direct 'door-to-door' delivery services for goods is",
+    "options": {
+      "a": "rail transport",
+      "b": "water transport",
+      "c": "pipeline transport",
+      "d": "road transport"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "A unique advantage of **road transport** (using cars, vans, and trucks) is its flexibility; it can pick up goods right at the factory door and deliver them straight to the consumer's doorstep.",
+    "section_id": null
+  },
+  {
+    "question_number": 183,
+    "subject": "Business Studies",
+    "topic": "Transportation",
+    "question_text": "A major disadvantage of road transportation is that it",
+    "options": {
+      "a": "is the slowest means of transport available",
+      "b": "is easily affected by traffic congestion and bad weather",
+      "c": "can only be used for international trade",
+      "d": "does not require the payment of any maintenance fees"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Road transport is highly susceptible to delays caused by **traffic congestion, bad roads, and adverse weather conditions**, making delivery times unpredictable.",
+    "section_id": null
+  },
+  {
+    "question_number": 184,
+    "subject": "Business Studies",
+    "topic": "Transportation",
+    "question_text": "Which means of transportation is considered the fastest and most suitable for urgent, delicate, and perishable goods?",
+    "options": {
+      "a": "Road transport",
+      "b": "Air transport",
+      "c": "Rail transport",
+      "d": "Water transport"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Air transport** operates at very high speeds, making it ideal for urgently needed items (like medicines) and highly perishable goods, despite being the most expensive.",
+    "section_id": null
+  },
+  {
+    "question_number": 185,
+    "subject": "Business Studies",
+    "topic": "Transportation",
+    "question_text": "Which of the following is a significant disadvantage of air transportation?",
+    "options": {
+      "a": "It has an extremely low freight cost.",
+      "b": "It is suitable for transporting the heaviest machinery across oceans.",
+      "c": "It is very expensive and has limited cargo carrying capacity.",
+      "d": "It provides door-to-door services across cities."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Air transport's main drawbacks are its **high cost (expensive freight rates)** and strict limitations on the weight and volume of cargo it can carry compared to ships or trains.",
+    "section_id": null
+  },
+  {
+    "question_number": 186,
+    "subject": "Business Studies",
+    "topic": "Transportation",
+    "question_text": "For the inland movement of extremely bulky and heavy goods such as coal, cement, and timber over long distances, the most suitable land transport is",
+    "options": {
+      "a": "rail transport",
+      "b": "pipeline transport",
+      "c": "air transport",
+      "d": "road transport"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Rail transport** (trains) has a massive carrying capacity, making it the most cost-effective and suitable method for moving heavy, bulky goods over long distances on land.",
+    "section_id": null
+  },
+  {
+    "question_number": 187,
+    "subject": "Business Studies",
+    "topic": "Transportation",
+    "question_text": "The cheapest mode of transport for moving massive quantities of bulky goods (like crude oil exports and imported vehicles) internationally between continents is",
+    "options": {
+      "a": "air transport",
+      "b": "water transport",
+      "c": "rail transport",
+      "d": "road transport"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Water transport** (using cargo ships) is the cheapest and most common means of international trade for heavy, bulky goods, despite being very slow.",
+    "section_id": null
+  },
+  {
+    "question_number": 188,
+    "subject": "Business Studies",
+    "topic": "Transportation",
+    "question_text": "What is the primary drawback of using water transportation for commerce?",
+    "options": {
+      "a": "It restricts international trade completely.",
+      "b": "It is extremely slow and unsuitable for perishable goods.",
+      "c": "It cannot carry heavy or bulky goods.",
+      "d": "It experiences constant traffic jams in the ocean."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The main disadvantage of sea transport is that it is **extremely slow**. A voyage can take weeks or months, making it totally unsuitable for urgent or highly perishable goods.",
+    "section_id": null
+  },
+  {
+    "question_number": 189,
+    "subject": "Business Studies",
+    "topic": "Transportation",
+    "question_text": "Which specialized mode of transportation is designed almost exclusively for the continuous movement of liquids and gases such as water, natural gas, and crude oil?",
+    "options": {
+      "a": "Rail transport",
+      "b": "Air transport",
+      "c": "Pipeline transport",
+      "d": "Water transport"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Pipeline transport** involves laying underground or surface pipes. It is a highly specialized, continuous, and secure method used specifically for liquids and gases.",
+    "section_id": null
+  },
+  {
+    "question_number": 190,
+    "subject": "Business Studies",
+    "topic": "Advertising",
+    "question_text": "Any paid form of non-personal presentation and promotion of ideas, goods, or services by an identified sponsor is defined as",
+    "options": {
+      "a": "communication",
+      "b": "insurance",
+      "c": "advertising",
+      "d": "distribution"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Advertising** is a key aid to trade that involves paying for media space or time to present and promote products, services, or ideas to a large target audience.",
+    "section_id": null
+  },
+  {
+    "question_number": 191,
+    "subject": "Business Studies",
+    "topic": "Advertising",
+    "question_text": "The primary function of advertising in a business organization is to",
+    "options": {
+      "a": "hide the product details from competitors",
+      "b": "create public awareness and stimulate demand",
+      "c": "reduce the overall profit margin",
+      "d": "transport bulky goods to the warehouse"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Advertising solves the hindrance of information by **creating public awareness** about a product's existence, uses, and benefits, thereby stimulating consumer demand.",
+    "section_id": null
+  },
+  {
+    "question_number": 192,
+    "subject": "Business Studies",
+    "topic": "Advertising",
+    "question_text": "An advertisement designed specifically to convince consumers that a particular brand of toothpaste is superior to all other competing brands is an example of",
+    "options": {
+      "a": "informative advertising",
+      "b": "generic advertising",
+      "c": "competitive advertising",
+      "d": "indirect advertising"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Competitive (or persuasive) advertising** attempts to persuade buyers to choose a specific brand over rivals by highlighting unique features or supposed superiority.",
+    "section_id": null
+  },
+  {
+    "question_number": 193,
+    "subject": "Business Studies",
+    "topic": "Advertising",
+    "question_text": "When a government health agency broadcasts a message teaching citizens how to properly wash their hands to prevent a disease, it is using",
+    "options": {
+      "a": "competitive advertising",
+      "b": "informative advertising",
+      "c": "mass advertising",
+      "d": "persuasive advertising"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Informative advertising** is used primarily to educate the public, give instructions, or provide factual information without aggressively pushing for a sale.",
+    "section_id": null
+  },
+  {
+    "question_number": 194,
+    "subject": "Business Studies",
+    "topic": "Advertising",
+    "question_text": "An advert that promotes the consumption of a general product, such as \"Drink Milk for Strong Bones,\" without mentioning any specific company's brand, is known as",
+    "options": {
+      "a": "generic or mass advertising",
+      "b": "direct mail advertising",
+      "c": "competitive advertising",
+      "d": "trade fair display"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Generic (or mass) advertising** promotes a whole category of goods (e.g., milk, eggs, or beef) produced by an entire industry, rather than a single specific brand.",
+    "section_id": null
+  },
+  {
+    "question_number": 195,
+    "subject": "Business Studies",
+    "topic": "Advertising",
+    "question_text": "Which advertising medium has the unique advantage of combining both audio and visual moving images to demonstrate exactly how a product works?",
+    "options": {
+      "a": "Radio",
+      "b": "Magazine",
+      "c": "Television",
+      "d": "Billboard"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Television** appeals to both sight and hearing, making it highly effective for demonstrating the physical usage and benefits of a product.",
+    "section_id": null
+  },
+  {
+    "question_number": 196,
+    "subject": "Business Studies",
+    "topic": "Advertising",
+    "question_text": "A major advantage of using the radio as a medium of advertising in developing areas is that it",
+    "options": {
+      "a": "provides high-quality printed color pictures of the product",
+      "b": "can reach rural dwellers and illiterates through local audio broadcasts",
+      "c": "allows consumers to touch and feel the physical product",
+      "d": "is exclusively used for tracking international cargo ships"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Radio** relies solely on audio and is often broadcast in local languages, making it highly accessible to people in remote rural areas, including those who cannot read.",
+    "section_id": null
+  },
+  {
+    "question_number": 197,
+    "subject": "Business Studies",
+    "topic": "Advertising",
+    "question_text": "Which of the following is a print advertising medium that is published periodically (e.g., weekly or monthly) and is usually printed on high-quality glossy paper with colorful images?",
+    "options": {
+      "a": "Television",
+      "b": "Radio",
+      "c": "Magazine",
+      "d": "World Wide Web"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **magazine** is a specialized print medium that offers excellent color reproduction and has a longer lifespan than newspapers, as readers tend to keep them longer.",
+    "section_id": null
+  },
+  {
+    "question_number": 198,
+    "subject": "Business Studies",
+    "topic": "Advertising",
+    "question_text": "All of the following are primary functions of advertising EXCEPT",
+    "options": {
+      "a": "educating consumers on product usage",
+      "b": "increasing the sales turnover of a business",
+      "c": "fixing the official exchange rate of the national currency",
+      "d": "introducing new products to the market"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Advertising educates, increases sales, and introduces new products. **Fixing currency exchange rates** is a macroeconomic function of the Central Bank, completely unrelated to advertising.",
+    "section_id": null
+  },
+  {
+    "question_number": 199,
+    "subject": "Business Studies",
+    "topic": "Communication",
+    "question_text": "The continuous process of transmitting information, ideas, and messages from a sender to a receiver with the assurance of mutual understanding is called",
+    "options": {
+      "a": "insurance",
+      "b": "transportation",
+      "c": "communication",
+      "d": "distribution"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Communication** is the essential aid to trade that bridges the gap of knowledge and information between producers, distributors, and consumers.",
+    "section_id": null
+  },
+  {
+    "question_number": 200,
+    "subject": "Business Studies",
+    "topic": "Communication",
+    "question_text": "Why is effective communication highly important in a business organization?",
+    "options": {
+      "a": "It physically transports bulky goods across the ocean.",
+      "b": "It facilitates quick decision-making and links buyers directly with suppliers.",
+      "c": "It prevents physical fires from destroying the warehouse.",
+      "d": "It single-handedly changes raw materials into finished goods."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Communication ensures a smooth flow of information, enabling **quick decision-making** and helping businesses maintain constant contact with customers and suppliers.",
+    "section_id": null
+  },
+  {
+    "question_number": 201,
+    "subject": "Business Studies",
+    "topic": "Communication",
+    "question_text": "Which means of communication provides the fastest oral interaction and immediate feedback between a businessman in Lagos and a supplier in Abuja?",
+    "options": {
+      "a": "Post",
+      "b": "Courier Service",
+      "c": "Telephone",
+      "d": "Magazine"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **telephone** allows for instantaneous two-way voice communication, ensuring immediate discussions, clarifications, and feedback regardless of physical distance.",
+    "section_id": null
+  },
+  {
+    "question_number": 202,
+    "subject": "Business Studies",
+    "topic": "Communication",
+    "question_text": "Before the widespread use of the internet, which traditional agency was primarily responsible for transmitting written letters, telegrams, and small parcels nationwide?",
+    "options": {
+      "a": "The Central Bank",
+      "b": "The Postal Service",
+      "c": "The Customs and Excise Department",
+      "d": "The Television Authority"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**The Postal Service** (such as NIPOST in Nigeria) was traditionally the primary government agency established to handle mail, registered letters, telegraphs, and parcels.",
+    "section_id": null
+  },
+  {
+    "question_number": 203,
+    "subject": "Business Studies",
+    "topic": "Communication",
+    "question_text": "An electronic system of communication that interconnects global computer networks, allowing businesses to send emails and operate websites, is known as the",
+    "options": {
+      "a": "Courier Service",
+      "b": "Telegraph System",
+      "c": "World Wide Web",
+      "d": "Postal Agency"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **World Wide Web (Internet)** is the global electronic network that has revolutionized communication through instant emails, video conferencing, and business websites.",
+    "section_id": null
+  },
+  {
+    "question_number": 204,
+    "subject": "Business Studies",
+    "topic": "Communication",
+    "question_text": "Private communication and logistics agencies that specialize in the very fast, secure, and door-to-door delivery of highly important business documents are called",
+    "options": {
+      "a": "courier services",
+      "b": "telecommunication networks",
+      "c": "advertising agencies",
+      "d": "warehousing firms"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Courier services** (like DHL or FedEx) provide premium, trackable, and expedited delivery of urgent documents and parcels directly to the receiver's address.",
+    "section_id": null
+  },
+  {
+    "question_number": 205,
+    "subject": "Business Studies",
+    "topic": "Communication",
+    "question_text": "Which of the following specific services is typically provided by a Postal Agency rather than a Telephone Service Provider?",
+    "options": {
+      "a": "Voice-over-Internet calls",
+      "b": "Registered mail and parcel post",
+      "c": "Mobile data subscriptions",
+      "d": "Instant text messaging (SMS)"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Postal agencies specialize in physical mail. **Registered mail and parcel post** are classical services offered by post offices to securely transport physical items.",
+    "section_id": null
+  },
+  {
+    "question_number": 206,
+    "subject": "Business Studies",
+    "topic": "Communication",
+    "question_text": "When a business owner uses the internet to launch an online marketing campaign targeted at millions of viewers, the World Wide Web is simultaneously acting as a means of communication and",
+    "options": {
+      "a": "a banking institution",
+      "b": "an insurance policy",
+      "c": "an advertising medium",
+      "d": "a constructive industry"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The internet (WWW) is versatile. When used to promote a product to the public, it serves as both a communication tool and a powerful **advertising medium**.",
+    "section_id": null
+  },
+  {
+    "question_number": 207,
+    "subject": "Business Studies",
+    "topic": "Communication",
+    "question_text": "In the communication process, how does a sender confirm that the receiver has successfully received and correctly understood a business message?",
+    "options": {
+      "a": "Through the payment of an insurance premium",
+      "b": "Through immediate feedback provided by the receiver",
+      "c": "By depositing money in a commercial bank",
+      "d": "By physically checking the supplier's warehouse"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Communication is only complete when the receiver interprets the message and sends **feedback** (a response) back to the sender, confirming understanding.",
+    "section_id": null
+  },
+  {
+    "question_number": 208,
+    "subject": "Business Studies",
+    "topic": "Communication",
+    "question_text": "Without an effective system of communication, a large business organization would most likely suffer from",
+    "options": {
+      "a": "a sudden influx of physical cash",
+      "b": "poor internal coordination and a breakdown in daily operations",
+      "c": "an oversupply of agricultural raw materials",
+      "d": "excessive government subsidies"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Communication acts as the central nervous system of a business. Without it, instructions fail, departments cannot collaborate, and the result is **poor internal coordination and operational breakdown**.",
+    "section_id": null
+  },
+  {
+    "question_number": 209,
+    "subject": "Business Studies",
+    "topic": "Communication",
+    "question_text": "A company urgently needs to send a highly confidential, original legal contract to a partner in another city, requiring a guarantee of safe hand-delivery and a signature upon receipt. The best service to use is",
+    "options": {
+      "a": "a radio broadcast",
+      "b": "a regular unrecorded postage stamp",
+      "c": "a courier service",
+      "d": "an open website forum"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Because the document is original, confidential, and requires proof of delivery (a signature), a private **courier service** is the most reliable, secure, and accountable method to use.",
+    "section_id": null
+  }
+]

@@ -1,0 +1,1698 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Entrepreneurship",
+    "question_text": "The process of identifying a business opportunity, gathering necessary resources, and taking calculated risks to start and run a business is known as:",
+    "options": {
+      "a": "Commerce",
+      "b": "Self-employment",
+      "c": "Entrepreneurship",
+      "d": "Industry"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "According to the BECE syllabus on Entrepreneurial Skills, **entrepreneurship** is explicitly defined as the dynamic process of creating incremental wealth by taking risks to set up a business, whereas the *entrepreneur* is the person who undertakes this process.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Entrepreneurship",
+    "question_text": "A business organization or venture established by an individual or a group of people to produce goods or provide services for a profit is referred to as an:",
+    "options": {
+      "a": "Enterprise",
+      "b": "Employment",
+      "c": "Extractive industry",
+      "d": "Economy"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "An **enterprise** represents the actual business entity or project that is created. It is the result of entrepreneurship, designed to deliver goods or services and generate profit.",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Entrepreneurship",
+    "question_text": "Which of the following scenarios best describes **self-employment**?",
+    "options": {
+      "a": "A person receiving a monthly salary from a commercial bank.",
+      "b": "An individual working as a civil servant in a government ministry.",
+      "c": "A person creating their own job by setting up a personal tailoring shop.",
+      "d": "An employee being transferred to manage a branch of a multinational corporation."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Self-employment** refers to working for oneself rather than working for an employer. Setting up a personal tailoring shop is a direct application of creating one's own job and deriving income directly from the business operations.",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Entrepreneurship",
+    "question_text": "Which of the following is **NOT** a typical facility available to support self-employment and small enterprises in Nigeria?",
+    "options": {
+      "a": "Microfinance bank loans",
+      "b": "Guaranteed lifetime federal pensions",
+      "c": "Business incubation centers",
+      "d": "Government enterprise grants"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Facilities available for self-employment include access to microfinance loans, government intervention grants (e.g., through BOI or SMEDAN), and training hubs. **Guaranteed lifetime federal pensions** are exclusively available to retired government employees, not typically an automatic facility for the self-employed.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Entrepreneurship",
+    "question_text": "The following institutions are set up to provide advisory, financial, and infrastructural facilities for self-employed individuals in Nigeria **EXCEPT**:",
+    "options": {
+      "a": "Bank of Industry (BOI)",
+      "b": "Small and Medium Enterprises Development Agency of Nigeria (SMEDAN)",
+      "c": "National Drug Law Enforcement Agency (NDLEA)",
+      "d": "Microfinance Banks"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "While BOI, SMEDAN, and Microfinance Banks are specifically mandated to support entrepreneurs and small businesses (Syllabus objective I.b), the **NDLEA** is a law enforcement agency responsible for controlling illicit drugs, not for providing business facilities.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Entrepreneurship",
+    "question_text": "Aliko Dangote is a widely recognized successful entrepreneur in Nigeria. His enterprise is primarily associated with which of the following activities?",
+    "options": {
+      "a": "Social media networking",
+      "b": "Cement manufacturing and food processing",
+      "c": "Commercial airline manufacturing",
+      "d": "Software operating systems"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Aliko Dangote, a prominent figure studied under successful Nigerian entrepreneurs, is the founder of the Dangote Group, which heavily dominates **cement manufacturing, sugar refining, and food processing** in Africa.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Entrepreneurship",
+    "question_text": "Identify the successful international entrepreneur known globally for co-founding Microsoft Corporation.",
+    "options": {
+      "a": "Jeff Bezos",
+      "b": "Mark Zuckerberg",
+      "c": "Bill Gates",
+      "d": "Elon Musk"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Bill Gates** is the international entrepreneur who co-founded Microsoft Corporation, fitting the BECE syllabus requirement to identify successful entrepreneurs at the international level.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Entrepreneurship",
+    "question_text": "Mike Adenuga is a notable successful entrepreneur in Nigeria. He is highly recognized for establishing a major enterprise in which of the following sectors?",
+    "options": {
+      "a": "Telecommunications and Oil",
+      "b": "Entertainment and Music production",
+      "c": "Automobile assembly",
+      "d": "Textile manufacturing"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "Mike Adenuga is the founder of Globacom (a major telecommunications company) and Conoil (a petroleum marketing company). Thus, his entrepreneurial success is rooted in the **Telecommunications and Oil** sectors.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Entrepreneurship",
+    "question_text": "What is the primary distinction between an **entrepreneur** and a regular **employee** in a business enterprise?",
+    "options": {
+      "a": "An entrepreneur works designated hours, while an employee works all the time.",
+      "b": "An entrepreneur bears the primary financial risk of the business, while an employee earns a guaranteed wage.",
+      "c": "An employee formulates all the strategic goals, while the entrepreneur merely executes them.",
+      "d": "An entrepreneur avoids taking risks, whereas an employee embraces market risks."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The core characteristic of an entrepreneur is that they **assume the financial risk** of combining the other factors of production (land, labor, capital). Conversely, an employee is a form of labor compensated by a guaranteed wage or salary, regardless of whether the business turns a profit.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Entrepreneurship",
+    "question_text": "A self-employed mechanic operating in a neighborhood who trains apprentices and repairs vehicles for residents is best classified as a successful entrepreneur at which level?",
+    "options": {
+      "a": "National level",
+      "b": "International level",
+      "c": "Locality level",
+      "d": "Multinational level"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "According to the BECE syllabus on classifying successful entrepreneurs (Locality, Nigeria, International), a neighborhood mechanic providing essential services directly to their community is a prime example of an entrepreneur at the **locality level**.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Importance of Entrepreneurship",
+    "question_text": "Which of the following is a major importance of entrepreneurship to a country's economy?",
+    "options": {
+      "a": "Increasing the national debt",
+      "b": "Creating employment opportunities",
+      "c": "Promoting the importation of finished goods",
+      "d": "Reducing the general standard of living"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Entrepreneurship is a powerful driver of economic growth. By establishing new enterprises, entrepreneurs **create jobs** for themselves and others, which directly reduces unemployment and boosts the economy.",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Importance of Entrepreneurship",
+    "question_text": "The following are important contributions of entrepreneurship to a nation EXCEPT:",
+    "options": {
+      "a": "Wealth creation",
+      "b": "Development of local technology",
+      "c": "Reduction of per capita income",
+      "d": "Eradication of poverty"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Entrepreneurship **increases** rather than decreases per capita income. It contributes to wealth creation, skill acquisition, poverty eradication, and the utilization of local technologies.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Importance of Entrepreneurship",
+    "question_text": "Entrepreneurship plays a vital role in society by encouraging which of the following?",
+    "options": {
+      "a": "Innovation and new inventions",
+      "b": "Strict reliance on government jobs",
+      "c": "The closure of local industries",
+      "d": "Monopoly in the consumer market"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Entrepreneurs are known for introducing new products, services, and production methods into the market. Thus, a key importance of entrepreneurship is that it encourages **innovation and technological advancement**.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Importance of Entrepreneurship",
+    "question_text": "How does the establishment of new enterprises affect a locality?",
+    "options": {
+      "a": "It decreases self-reliance among citizens.",
+      "b": "It raises the standard of living by providing diverse goods and services.",
+      "c": "It discourages the infrastructural development of the area.",
+      "d": "It prevents the effective utilization of available raw materials."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "By providing a wide variety of goods and services, as well as providing income for workers, new businesses significantly **improve the standard of living** for the people residing in that locality.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Importance of Entrepreneurship",
+    "question_text": "When entrepreneurs utilize locally available raw materials such as clay or agricultural produce to manufacture finished goods, what primary economic benefit is achieved?",
+    "options": {
+      "a": "Decreased national self-reliance",
+      "b": "Rapid depletion of foreign exchange reserves",
+      "c": "Utilization of local resources and reduction in imports",
+      "d": "Promotion of rural-to-urban migration"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Entrepreneurship ensures the **effective utilization of local resources**. By converting local raw materials into finished products, it helps the nation save its foreign exchange by reducing dependency on imported goods.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Forms of Business Organisation",
+    "question_text": "A form of business organisation owned, financed, and managed by a single individual is called:",
+    "options": {
+      "a": "A partnership",
+      "b": "A sole proprietorship",
+      "c": "A cooperative society",
+      "d": "A limited liability company"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **Sole Proprietorship** (or one-man business) is defined as a business unit owned and directed by one person who bears all the risks and takes all the profits.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Forms of Business Organisation",
+    "question_text": "Which of the following is a major disadvantage of a sole proprietorship?",
+    "options": {
+      "a": "Quick decision making",
+      "b": "Unlimited liability",
+      "c": "Secrecy of business affairs",
+      "d": "Ease of formation"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Unlimited liability** means that if the business fails and owes debts, the owner's personal properties (e.g., house, car) can be seized and sold to pay off the business debts. This is the biggest risk of a sole proprietorship.\n\n*Other options listed (Quick decision making, Secrecy, Ease of formation) are all **advantages**.*",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Forms of Business Organisation",
+    "question_text": "The one-man business is highly popular among local traders primarily because:",
+    "options": {
+      "a": "It has a perpetual existence independent of the owner.",
+      "b": "It requires a very large amount of capital to establish.",
+      "c": "It is easy and cheap to set up with little legal formality.",
+      "d": "The owner is compelled by law to share profits with employees."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The sole proprietorship requires minimal capital and almost **no legal formalities** (aside from perhaps local permits) to start, making it highly accessible and easy to establish for local traders.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Forms of Business Organisation",
+    "question_text": "The legal maximum number of persons required to form an ordinary trading partnership is:",
+    "options": {
+      "a": "Two",
+      "b": "Seven",
+      "c": "Twenty",
+      "d": "Fifty"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "According to the Companies and Allied Matters Act, an ordinary partnership must consist of a minimum of **$2$** members and a maximum of **$20$** members (or up to $10$ for a banking partnership).",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Forms of Business Organisation",
+    "question_text": "One advantage a partnership has over a sole proprietorship is:",
+    "options": {
+      "a": "Absolute control by one person",
+      "b": "Access to more capital and combined skills",
+      "c": "Compulsory publication of financial accounts",
+      "d": "Limited liability for all regular members"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Because a partnership consists of between $2$ to $20$ people, the partners can pool their resources together, resulting in **greater capital** and a combination of diverse managerial skills, which a single sole trader lacks.",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Forms of Business Organisation",
+    "question_text": "The principle that the death, insanity, or withdrawal of a major partner can lead to the end of the business indicates that partnerships often lack:",
+    "options": {
+      "a": "Mutual trust",
+      "b": "Unlimited liability",
+      "c": "Perpetual succession",
+      "d": "A deed of partnership"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "**Perpetual succession** is the continuation of a business regardless of the death or departure of its owners. Both sole proprietorships and ordinary partnerships lack this, whereas limited liability companies possess it.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Forms of Business Organisation",
+    "question_text": "The formal written agreement that guides the conduct and regulates the activities of members in a partnership business is known as the:",
+    "options": {
+      "a": "Article of Association",
+      "b": "Memorandum of Understanding",
+      "c": "Deed of Partnership",
+      "d": "Certificate of Incorporation"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **Deed of Partnership** is the legal document drawn up to state the rules, profit-sharing ratios, capital contributions, and operational guidelines to prevent future disputes among partners.",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Forms of Business Organisation",
+    "question_text": "A business organization recognized by law as a separate legal entity, distinct from its owners, is referred to as a:",
+    "options": {
+      "a": "Co-operative society",
+      "b": "Limited liability company",
+      "c": "General partnership",
+      "d": "Sole proprietorship"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **Limited Liability Company (LLC)** enjoys an independent corporate existence. This means the company can sue, be sued, and own property in its own name, completely separate from its shareholders.",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Forms of Business Organisation",
+    "question_text": "The two main classifications of Limited Liability Companies are:",
+    "options": {
+      "a": "Public and Private",
+      "b": "Wholesale and Retail",
+      "c": "Primary and Secondary",
+      "d": "Indigenous and Foreign"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Limited Liability Companies are categorized into:\n1. **Private Limited Companies (Ltd.)**: Cannot sell shares to the general public.\n2. **Public Limited Companies (Plc.)**: Can sell shares to the general public via the stock exchange.",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Forms of Business Organisation",
+    "question_text": "What does the term \"limited liability\" mean for the shareholders of a company?",
+    "options": {
+      "a": "They are strictly restricted from selling their shares to the public.",
+      "b": "They are allowed to make only a legally limited amount of profit per year.",
+      "c": "They are liable for the company's debts only up to the exact amount of capital they contributed.",
+      "d": "They have limited voting rights at the Annual General Meetings."
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "**Limited liability** protects the personal wealth of investors. If the company goes bankrupt, shareholders only lose the money they invested in purchasing their shares. Their personal assets (homes, bank accounts) cannot be seized to pay corporate debts.",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Forms of Business Organisation",
+    "question_text": "A major disadvantage of a Public Limited Liability Company compared to a Sole Proprietorship is:",
+    "options": {
+      "a": "Inability to raise a large amount of capital",
+      "b": "Loss of privacy due to the required publication of annual financial accounts",
+      "c": "Lack of perpetual succession",
+      "d": "High risk of personal asset seizure for business debts"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "By law, a Public Limited Company (Plc) must **publish its audited financial accounts annually** for public viewing. This strips away the financial secrecy and privacy that a sole proprietor enjoys.",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Forms of Business Organisation",
+    "question_text": "An association of individuals with common interests who pool their resources voluntarily to promote their own economic welfare is called a:",
+    "options": {
+      "a": "Trade union",
+      "b": "Co-operative society",
+      "c": "Joint stock company",
+      "d": "Partnership firm"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **Co-operative Society** is a voluntary association formed to protect and promote the mutual economic interests and welfare of its members, rather than strictly for profit maximization.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Forms of Business Organisation",
+    "question_text": "In a Co-operative Society, surplus profit at the end of the trading period is usually distributed to members in the form of:",
+    "options": {
+      "a": "Dividends based on their level of patronage or purchases",
+      "b": "Fixed interest rates on personal bank accounts",
+      "c": "Equal cash gifts regardless of contribution",
+      "d": "Promissory notes for future business investments"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "A core principle of co-operatives is that surplus (profit) is distributed back to members in proportion to their **patronage** (how much they bought from or traded with the society), not necessarily based entirely on capital contribution.",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Forms of Business Organisation",
+    "question_text": "Which of the following is a frequent disadvantage or problem faced by Co-operative Societies?",
+    "options": {
+      "a": "Having too much capital which leads to financial wastage",
+      "b": "Poor management due to the reliance on unqualified members as executives",
+      "c": "The government taking over all their trading profits",
+      "d": "Unlimited liability for all ordinary members of the society"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Because committee members are often elected from the ordinary membership to run the society democratically on a voluntary or low-pay basis, Co-operative Societies frequently suffer from **poor management and lack of professional administrative skills**.",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Forms of Business Organisation",
+    "question_text": "The following forms of business organizations aim primarily to maximize profit for their owners EXCEPT the:",
+    "options": {
+      "a": "Sole Proprietorship",
+      "b": "Partnership",
+      "c": "Public Limited Company",
+      "d": "Co-operative Society"
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "While most private sector businesses exist to maximize profit, Co-operative Societies are established with a primary mandate of service and welfare for their members.\n\n| Form of Business | Primary Objective |\n|---|---|\n| Sole Proprietorship | Maximum Profit |\n| Partnership | Maximum Profit |\n| Public Limited Co. | Maximum Profit (for Shareholders) |\n| **Co-operative Society** | **Members' Welfare & Mutual Help** |",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Personal Qualities of an Entrepreneur",
+    "question_text": "The willingness of an individual to invest time and money into a venture despite the possibility of financial loss is known as:",
+    "options": {
+      "a": "Creativity",
+      "b": "Risk-taking",
+      "c": "Delegation",
+      "d": "Self-confidence"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Risk-taking** is a fundamental personal quality of an entrepreneur. It involves stepping into the unknown and committing resources with the understanding that the venture could either yield profits or result in failure.",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Personal Qualities of an Entrepreneur",
+    "question_text": "Which of the following is **NOT** a desirable personal quality of a successful entrepreneur?",
+    "options": {
+      "a": "Persistence",
+      "b": "Innovativeness",
+      "c": "Procrastination",
+      "d": "Hard work"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Successful entrepreneurs must be proactive, hard-working, and persistent. **Procrastination** (delaying tasks unnecessarily) is a negative trait that hinders business growth and execution.",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Personal Qualities of an Entrepreneur",
+    "question_text": "An entrepreneur who constantly seeks new and better ways to package, market, and deliver goods to consumers is exhibiting which of the following qualities?",
+    "options": {
+      "a": "Innovativeness",
+      "b": "Risk aversion",
+      "c": "Independence",
+      "d": "Contentment"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Innovativeness** refers to the ability to introduce new ideas, original methods, or improved products. It is what keeps a business competitive in a changing market.",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Personal Qualities of an Entrepreneur",
+    "question_text": "The ability of an entrepreneur to remain steadfast and continue pursuing business goals despite facing initial setbacks or challenges is referred to as:",
+    "options": {
+      "a": "Persuasion",
+      "b": "Persistence",
+      "c": "Goal-setting",
+      "d": "Opportunity seeking"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Persistence** (or perseverance) is the determination to keep trying despite difficulties. Business landscapes are filled with challenges, and an entrepreneur must not give up easily when facing obstacles.",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Personal Qualities of an Entrepreneur",
+    "question_text": "A successful entrepreneur must possess a strong belief in their own abilities and business ideas to convince investors and customers. This quality is known as:",
+    "options": {
+      "a": "Self-confidence",
+      "b": "Transparency",
+      "c": "Empathy",
+      "d": "Modesty"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Self-confidence** is the trust a person has in their own judgments and abilities. Without it, an entrepreneur will struggle to lead a team or secure funding.",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Business Opportunity",
+    "question_text": "An identified gap in the market or a favorable set of circumstances that creates a need for a new product or service is defined as a:",
+    "options": {
+      "a": "Business threat",
+      "b": "Business opportunity",
+      "c": "Capital venture",
+      "d": "Trade deficit"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **Business opportunity** is essentially an unmet need or a gap in the market that an entrepreneur can profitably fill by providing the right goods or services.",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Business Opportunity",
+    "question_text": "The process of matching a perceived consumer need with the resources required to satisfy that need profitably is the core of identifying a:",
+    "options": {
+      "a": "National policy",
+      "b": "Distribution channel",
+      "c": "Business opportunity",
+      "d": "Trade restriction"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Identifying a **business opportunity** requires recognizing what consumers lack and successfully matching it with the resources (capital, labor, materials) to produce a solution at a profit.",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Business Opportunity",
+    "question_text": "According to the scope and reach of a market, business opportunities are generally classified into the following types **EXCEPT**:",
+    "options": {
+      "a": "Local",
+      "b": "Interpersonal",
+      "c": "National",
+      "d": "International"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Based on the BECE syllabus, business opportunities are grouped by geographical scope:\n\n| Type | Description |\n|---|---|\n| **Local** | Within a town, village, or community. |\n| **National** | Across the entire country. |\n| **International** | Crossing national borders into other countries. |\n\n*Interpersonal* relates to relationships between people, not the geographic scope of a business opportunity.",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Business Opportunity",
+    "question_text": "An opportunity to set up a small grocery store to serve the immediate daily needs of residents within a specific housing estate is classified as a:",
+    "options": {
+      "a": "National business opportunity",
+      "b": "Local business opportunity",
+      "c": "Foreign business opportunity",
+      "d": "Multinational business opportunity"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **Local business opportunity** satisfies the needs of a restricted geographical area, such as a single neighborhood, community, or town.",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Business Opportunity",
+    "question_text": "A business idea that targets consumers and involves the distribution of goods across all the 36 states within Nigeria is classified as a:",
+    "options": {
+      "a": "National business opportunity",
+      "b": "Local business opportunity",
+      "c": "Regional business opportunity",
+      "d": "International business opportunity"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Because the operations, market, and logistics span across the entire country (Nigeria), it falls squarely under the classification of a **National business opportunity**.",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Business Opportunity",
+    "question_text": "A Nigerian entrepreneur who identifies a high demand for locally processed cocoa in European countries and decides to export is exploring an:",
+    "options": {
+      "a": "Inter-state business opportunity",
+      "b": "Internal trade opportunity",
+      "c": "International business opportunity",
+      "d": "Indigenous business opportunity"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "When a business extends its reach beyond its home country to sell goods or services to foreign nations, it is exploiting an **International business opportunity**.",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Business Opportunity",
+    "question_text": "What is the primary factor that distinguishes an international business opportunity from a national business opportunity?",
+    "options": {
+      "a": "The involvement of cross-border trade and differing national currencies.",
+      "b": "The amount of profit declared at the end of the financial year.",
+      "c": "The number of temporary workers employed by the business.",
+      "d": "The use of technological equipment in the production process."
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "The distinguishing feature of **International trade** (and thus international business opportunities) is the crossing of sovereign national borders, which usually involves dealing with foreign exchange (different currencies), tariffs, and varying international trade laws.",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Business Opportunity",
+    "question_text": "Identifying a shortage of clean drinking water in a specific rural village and deciding to establish a borehole and water packaging enterprise there is an example of exploiting a:",
+    "options": {
+      "a": "National opportunity",
+      "b": "Transnational opportunity",
+      "c": "Local business opportunity",
+      "d": "Global business opportunity"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Since the problem identified and the business created are constrained strictly to the *specific rural village*, this is a prime example of finding and utilizing a **Local business opportunity**.",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Business Opportunity",
+    "question_text": "When an enterprise successfully plans to expand its operations from selling goods strictly within Nigeria to establishing retail branches in Ghana and South Africa, it is making a transition from a:",
+    "options": {
+      "a": "Local to a National opportunity",
+      "b": "National to an International opportunity",
+      "c": "Regional to a Local opportunity",
+      "d": "International to a National opportunity"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "> **Transition Path:**\n> 1. Operating strictly within Nigeria = **National**\n> 2. Expanding to Ghana & South Africa = **International**\n\nTherefore, the business is scaling its scope from a national presence to taking advantage of an international opportunity.",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Setting Simple Business Goals",
+    "question_text": "The desired results, targets, or aims that a business enterprise sets out to achieve within a specific period of time are referred to as:",
+    "options": {
+      "a": "Business opportunities",
+      "b": "Business goals",
+      "c": "Market regulations",
+      "d": "Consumer rights"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Business goals** are the specific targets or objectives that a business aims to achieve. Setting these goals provides direction and a measurable standard for the enterprise's success.",
+    "section_id": null
+  },
+  {
+    "question_number": 46,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Setting Simple Business Goals",
+    "question_text": "In setting simple business goals and evaluating the business environment, entrepreneurs commonly use an analytical tool known as SWOT. The acronym SWOT stands for:",
+    "options": {
+      "a": "Sales, Wages, Operations, Taxes",
+      "b": "Strengths, Weaknesses, Opportunities, Threats",
+      "c": "Strategies, Wealth, Organization, Time",
+      "d": "Strengths, Wealth, Objectives, Tactics"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "SWOT is a fundamental framework used in business planning to evaluate a company's competitive position:\n\n*   **S**trengths\n*   **W**eaknesses\n*   **O**pportunities\n*   **T**hreats",
+    "section_id": null
+  },
+  {
+    "question_number": 47,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Setting Simple Business Goals",
+    "question_text": "In goal setting, attributes or resources of a business that give it a clear advantage over its competitors, such as highly skilled workers or advanced technology, are known as:",
+    "options": {
+      "a": "Opportunities",
+      "b": "Weaknesses",
+      "c": "Threats",
+      "d": "Strengths"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Strengths** represent the internal, positive attributes of a business that are within the entrepreneur's control. Examples include an excellent brand reputation, patents, or a highly trained workforce.",
+    "section_id": null
+  },
+  {
+    "question_number": 48,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Setting Simple Business Goals",
+    "question_text": "Which of the following is considered an internal factor that places a business at a disadvantage relative to others?",
+    "options": {
+      "a": "Weakness",
+      "b": "Threat",
+      "c": "Opportunity",
+      "d": "Risk"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "A **Weakness** is an internal characteristic that limits or hinders a business's success, such as a lack of capital, poor location, or inexperienced management.",
+    "section_id": null
+  },
+  {
+    "question_number": 49,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Setting Simple Business Goals",
+    "question_text": "An entrepreneur realizes that a new government policy has banned the importation of a foreign product that their local factory produces. In business goal setting, this favorable external situation represents:",
+    "options": {
+      "a": "A strength",
+      "b": "An opportunity",
+      "c": "A threat",
+      "d": "A weakness"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "An **Opportunity** is an external factor that the business can exploit to its advantage. Since the ban on imported goods is an external government action that reduces competition for the local factory, it is a significant opportunity.",
+    "section_id": null
+  },
+  {
+    "question_number": 50,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Setting Simple Business Goals",
+    "question_text": "Elements in the external business environment that could cause trouble, reduce profitability, or negatively affect the overall performance of a business are known as:",
+    "options": {
+      "a": "Weaknesses",
+      "b": "Challenges",
+      "c": "Threats",
+      "d": "Obstacles"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Threats** are external dangers out of the entrepreneur's direct control. \n\n| Element | Origin | Effect |\n| :--- | :--- | :--- |\n| **Threats** | External | Negative |\n| **Opportunities** | External | Positive |",
+    "section_id": null
+  },
+  {
+    "question_number": 51,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Setting Simple Business Goals",
+    "question_text": "When categorizing the four elements of a SWOT analysis, which two components are strictly classified as **internal** factors of the business?",
+    "options": {
+      "a": "Opportunities and Threats",
+      "b": "Strengths and Opportunities",
+      "c": "Strengths and Weaknesses",
+      "d": "Weaknesses and Threats"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "In SWOT analysis, **Strengths** and **Weaknesses** are internal (originating from within the organization, such as staff skill or cash flow), while *Opportunities* and *Threats* are external (originating from the market, economy, or competitors).",
+    "section_id": null
+  },
+  {
+    "question_number": 52,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Setting Simple Business Goals",
+    "question_text": "A newly established local bakery discovers that three well-known, highly-funded bakery franchises have just opened shops on the exact same street. In a SWOT analysis, this situation is best described as a:",
+    "options": {
+      "a": "Strength",
+      "b": "Weakness",
+      "c": "Opportunity",
+      "d": "Threat"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "The sudden arrival of heavily-funded competitors is an external market condition that poses a risk to the local bakery's market share and survival. Therefore, it is classified as a **Threat**.",
+    "section_id": null
+  },
+  {
+    "question_number": 53,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Simple Single Business Plan",
+    "question_text": "A comprehensive written document that outlines the goals of a proposed business enterprise and describes the operational and financial steps required to achieve them is called a:",
+    "options": {
+      "a": "Deed of Partnership",
+      "b": "Business Plan",
+      "c": "Certificate of Incorporation",
+      "d": "Memorandum of Association"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **Business Plan** is the blueprint for an enterprise. It formally states the business goals and lays out the step-by-step strategy (financial, marketing, operations) to achieve those goals.",
+    "section_id": null
+  },
+  {
+    "question_number": 54,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Simple Single Business Plan",
+    "question_text": "Which of the following represents a primary reason why an entrepreneur must draw up a simple business plan before starting operations?",
+    "options": {
+      "a": "To secretly monitor competitors' activities.",
+      "b": "To evade paying corporate taxes to the government.",
+      "c": "To guide business operations and attract potential investors or loans.",
+      "d": "To force local consumers to purchase their products."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The dual purpose of a business plan is to serve as an internal roadmap to **guide the entrepreneur's actions**, and as an external prospectus to **attract banks, investors, and partners** by proving the viability of the business.",
+    "section_id": null
+  },
+  {
+    "question_number": 55,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Simple Single Business Plan",
+    "question_text": "The following are standard components included in the procedure for drawing up a simple business plan EXCEPT:",
+    "options": {
+      "a": "Executive summary and business description",
+      "b": "Marketing and sales strategy",
+      "c": "The political affiliations of the workers",
+      "d": "Financial plan and cost estimates"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A business plan focuses on economic, operational, and market viability. The **political affiliation of workers** is irrelevant to business operations and is not a component of standard business planning.",
+    "section_id": null
+  },
+  {
+    "question_number": 56,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Simple Single Business Plan",
+    "question_text": "In a simple business plan, the specific section that details the amount of start-up capital required, projected daily sales, and estimated expenses is known as the:",
+    "options": {
+      "a": "Marketing plan",
+      "b": "Operational plan",
+      "c": "Executive summary",
+      "d": "Financial plan"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "The **Financial Plan** is the quantitative section of the business plan. It translates the entrepreneur's ideas into numerical data, showcasing capital requirements, cash flow forecasts, and profit estimates.",
+    "section_id": null
+  },
+  {
+    "question_number": 57,
+    "subject": "Business Studies",
+    "topic": "Entrepreneurial Skill: Simple Single Business Plan",
+    "question_text": "When an entrepreneur is outlining the procedure for a simple single business plan, which of the following is typically the first step?",
+    "options": {
+      "a": "Hiring a large number of employees",
+      "b": "Defining the business idea and stating its objectives",
+      "c": "Selling shares on the stock exchange",
+      "d": "Distributing dividends to early investors"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Before operations, hiring, or financing can begin, the very first step in drawing up a plan is conceptualizing and **defining the business idea**, including the core product/service and the mission (objectives) of the venture.",
+    "section_id": null
+  },
+  {
+    "question_number": 58,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer, Market and Society",
+    "question_text": "An individual who purchases and uses goods and services to satisfy their personal needs, rather than for resale, is referred to as a:",
+    "options": {
+      "a": "Retailer",
+      "b": "Manufacturer",
+      "c": "Consumer",
+      "d": "Wholesaler"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **Consumer** is the end-user in the chain of distribution. While wholesalers and retailers buy goods for resale to make a profit, the consumer buys goods and services for final use and personal satisfaction.",
+    "section_id": null
+  },
+  {
+    "question_number": 59,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer, Market and Society",
+    "question_text": "In the context of Business Studies, which of the following best defines a **market**?",
+    "options": {
+      "a": "Only a physical physical building where traders store their goods securely.",
+      "b": "Any arrangement or mechanism that brings buyers and sellers together to exchange goods and services.",
+      "c": "A government agency responsible for fixing the prices of local agricultural commodities.",
+      "d": "A manufacturing zone where heavy equipment is produced."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **Market** is not necessarily a physical location. It is defined as any system, arrangement, or mechanism (such as online stores, phone calls, or physical stalls) that enables buyers and sellers to communicate and trade.",
+    "section_id": null
+  },
+  {
+    "question_number": 60,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer, Market and Society",
+    "question_text": "An organized group of people living together in a specific geographical area, bound by common laws, customs, and shared interests is known as:",
+    "options": {
+      "a": "An enterprise",
+      "b": "A partnership",
+      "c": "A society",
+      "d": "A market"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **Society** represents the larger community in which businesses and consumers interact. Businesses exist to serve the society, and they must obey the rules and cultural norms of that society.",
+    "section_id": null
+  },
+  {
+    "question_number": 61,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer, Market and Society",
+    "question_text": "The continuous process of acquiring the knowledge and skills necessary to make informed and intelligent buying decisions in the marketplace is known as:",
+    "options": {
+      "a": "Marketing research",
+      "b": "Consumer education",
+      "c": "Business planning",
+      "d": "Product advertising"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Consumer education** empowers individuals with the skills to analyze products, understand their rights, and make wise purchasing choices rather than acting on impulse or ignorance.",
+    "section_id": null
+  },
+  {
+    "question_number": 62,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer, Market and Society",
+    "question_text": "Which of the following highlights the primary **need and importance** of consumer education?",
+    "options": {
+      "a": "It trains individuals on how to successfully evade government taxes.",
+      "b": "It helps consumers maximize the utility of their limited resources and avoid exploitation.",
+      "c": "It forces manufacturers to give out goods for free to the local community.",
+      "d": "It provides buyers with unlimited credit facilities from commercial banks."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The core importance of consumer education is that it **protects the consumer**. It helps them manage their budget effectively (maximizing utility) and protects them from being cheated or exploited by deceptive sellers.",
+    "section_id": null
+  },
+  {
+    "question_number": 63,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer, Market and Society",
+    "question_text": "Consumer education is important to society for all the following reasons EXCEPT that it:",
+    "options": {
+      "a": "Promotes awareness of consumer rights and responsibilities.",
+      "b": "Helps citizens to interpret false or misleading advertisements.",
+      "c": "Enables consumers to unilaterally dictate retail prices to sellers.",
+      "d": "Aids in the selection of quality goods that are safe for consumption."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "While consumer education makes buyers smarter, it does **not** give them the legal power to unilaterally dictate prices to sellers. Market prices are generally determined by the forces of demand and supply.",
+    "section_id": null
+  },
+  {
+    "question_number": 64,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer, Market and Society",
+    "question_text": "A severe consequence of a lack of consumer education is that individuals are more likely to:",
+    "options": {
+      "a": "Save excessive amounts of money in their bank accounts.",
+      "b": "Purchase hazardous, expired, or substandard goods without realizing it.",
+      "c": "Become highly successful entrepreneurs immediately.",
+      "d": "Report every legitimate business transaction to the police."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Ignorance in the marketplace puts a consumer at risk. **Without consumer education**, buyers may fail to read labels, check expiry dates, or identify fake products, leading to the purchase of substandard or dangerous goods.",
+    "section_id": null
+  },
+  {
+    "question_number": 65,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer, Market and Society",
+    "question_text": "When a buyer frequently wastes their limited financial resources on items they do not actually need because they are easily persuaded by flashy television commercials, this behavior indicates a:",
+    "options": {
+      "a": "Deep understanding of consumer rights",
+      "b": "High level of entrepreneurial skill",
+      "c": "Lack of consumer education",
+      "d": "Strong execution of business goals"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Falling victim to impulse buying and manipulative advertising is a direct consequence of a **lack of consumer education**. An educated consumer distinguishes between *needs* and *wants* and buys logically, not emotionally.",
+    "section_id": null
+  },
+  {
+    "question_number": 66,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer Rights",
+    "question_text": "The legally and morally recognized privileges and entitlements designed to protect buyers from unfair or dangerous trade practices are referred to as:",
+    "options": {
+      "a": "Market demands",
+      "b": "Trade secrets",
+      "c": "Consumer rights",
+      "d": "Business liabilities"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Consumer Rights** are the legal and ethical entitlements (like the right to safety and the right to information) that shield buyers from exploitation by manufacturers and sellers.",
+    "section_id": null
+  },
+  {
+    "question_number": 67,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer Rights",
+    "question_text": "The organized social and economic movement that originated to protect and assert the rights of buyers against defective products and deceptive business practices is called:",
+    "options": {
+      "a": "Capitalism",
+      "b": "Consumerism",
+      "c": "Trade unionism",
+      "d": "Monopolism"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The origin of **Consumerism** lies in the collective effort by citizens, advocacy groups, and governments to enforce standards that ensure fair, safe, and honest business practices for the end-user.",
+    "section_id": null
+  },
+  {
+    "question_number": 68,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer Rights",
+    "question_text": "According to international standards championed by Consumer Protection agencies, how many Universal Consumer Rights are globally recognized?",
+    "options": {
+      "a": "Four",
+      "b": "Six",
+      "c": "Eight",
+      "d": "Ten"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "There are exactly **Eight Universal Consumer Rights** recognized globally (originally expanded from four proposed by US President JFK in 1962). They include the right to safety, information, choice, representation (to be heard), redress, consumer education, basic needs, and a healthy environment.",
+    "section_id": null
+  },
+  {
+    "question_number": 69,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer Rights",
+    "question_text": "When a food manufacturing company clearly prints the ingredients, nutritional value, and expiration date on the packaging of their product, they are respecting the consumer's right to:",
+    "options": {
+      "a": "Be heard",
+      "b": "Choose",
+      "c": "Seek redress",
+      "d": "Be informed"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "The **Right to be informed** dictates that consumers must be given all the relevant facts (ingredients, side effects, expiry dates, operating instructions) necessary to make an intelligent purchasing decision.",
+    "section_id": null
+  },
+  {
+    "question_number": 70,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer Rights",
+    "question_text": "The freedom of a consumer to select from a diverse range of products and services at competitive prices without being forced into buying a specific brand is the right to:",
+    "options": {
+      "a": "A healthy environment",
+      "b": "Choose",
+      "c": "Basic needs",
+      "d": "Safety"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Right to choose** means the market should ideally offer multiple brands, options, and competitive prices, allowing the consumer to pick the product that best fits their taste and budget.",
+    "section_id": null
+  },
+  {
+    "question_number": 71,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer Rights",
+    "question_text": "A consumer buys a new generator which fails to work on the first day due to a factory defect. The consumer returns it to the store and demands a free replacement or a full refund. Which universal consumer right is being exercised?",
+    "options": {
+      "a": "Right to consumer education",
+      "b": "Right to seek redress",
+      "c": "Right to representation",
+      "d": "Right to basic needs"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The **Right to seek redress** guarantees that consumers can receive a fair settlement for legitimate claims. If a product is faulty, fake, or services are poorly rendered, the buyer is entitled to compensation, which may be a repair, a replacement, or a refund.",
+    "section_id": null
+  },
+  {
+    "question_number": 72,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Responsibilities of a Consumer",
+    "question_text": "The duties, obligations, and actions expected of buyers to ensure they are not exploited and that fair trade is maintained in the marketplace are referred to as:",
+    "options": {
+      "a": "Consumer rights",
+      "b": "Consumer responsibility",
+      "c": "Market equilibrium",
+      "d": "Consumerism"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "While consumer *rights* are what the law owes the buyer, **Consumer responsibility** refers to the active duties the buyer owes to themselves and society, such as asking questions and reporting bad products.",
+    "section_id": null
+  },
+  {
+    "question_number": 73,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Responsibilities of a Consumer",
+    "question_text": "Which of the following is a primary responsibility of a consumer before making a purchase?",
+    "options": {
+      "a": "To unilaterally decide the final market price of the good.",
+      "b": "To report the seller's daily profits to the government.",
+      "c": "To carefully read the product labels, instructions, and expiry dates.",
+      "d": "To force the retailer to provide a lifelong warranty."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "It is a core **responsibility of the consumer** to be alert and inform themselves by checking labels, nutritional values, and expiry dates to avoid purchasing harmful or expired goods.",
+    "section_id": null
+  },
+  {
+    "question_number": 74,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Responsibilities of a Consumer",
+    "question_text": "The following are the duties and responsibilities of an enlightened consumer EXCEPT:",
+    "options": {
+      "a": "Gathering information independently before buying a product",
+      "b": "Reporting deceptive advertisements to relevant authorities",
+      "c": "Ensuring the safe and proper disposal of product packaging",
+      "d": "Refusing to pay for goods if they find a cheaper alternative elsewhere"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Consumers are expected to compare prices *before* buying. **Refusing to pay for a good after consuming or ordering it** is illegal and not a recognized consumer responsibility.",
+    "section_id": null
+  },
+  {
+    "question_number": 75,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Responsibilities of a Consumer",
+    "question_text": "If a buyer notices that a supermarket is secretly selling adulterated food items but decides to simply walk away without informing any regulatory agency, the buyer has failed in their responsibility to:",
+    "options": {
+      "a": "Speak out and complain",
+      "b": "Choose freely",
+      "c": "Be environmentally aware",
+      "d": "Demand after-sales service"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "A major consumer responsibility is to **speak out** (or complain) when they encounter dishonest or dangerous market practices. Staying silent allows the seller to endanger other innocent members of society.",
+    "section_id": null
+  },
+  {
+    "question_number": 76,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Shopping Tips",
+    "question_text": "In the context of shopping and personal finance, items that are absolutely essential for human survival, such as food, basic clothing, and shelter, are classified as:",
+    "options": {
+      "a": "Luxuries",
+      "b": "Wants",
+      "c": "Needs",
+      "d": "Services"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Needs** are goods or services that are required for a human being to survive. Without them, life or basic health is threatened.",
+    "section_id": null
+  },
+  {
+    "question_number": 77,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Shopping Tips",
+    "question_text": "What is the fundamental difference between a consumer's **needs** and **wants**?",
+    "options": {
+      "a": "Needs are purchased with cash, while wants are purchased on credit.",
+      "b": "Needs are essential for survival, while wants are mere desires that make life more comfortable.",
+      "c": "Needs are always expensive, whereas wants are cheap and affordable.",
+      "d": "Needs apply only to adults, while wants apply only to children."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The core difference is based on necessity. **Needs** (like water and basic food) are compulsory for survival, whereas **wants** (like designer shoes or video games) simply improve the standard of living but are not life-threatening if missed.",
+    "section_id": null
+  },
+  {
+    "question_number": 78,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Shopping Tips",
+    "question_text": "When applying sound shopping tips to make a purchasing decision with a limited budget, a wise consumer should:",
+    "options": {
+      "a": "Buy all their wants first and borrow money for their needs.",
+      "b": "Satisfy their needs first before considering their wants.",
+      "c": "Purchase items randomly as they walk through the market.",
+      "d": "Ignore both needs and wants to save all the money."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Due to the economic reality of limited resources, making smart decisions requires consumers to prioritize their necessities (**needs**) over their desires (**wants**).",
+    "section_id": null
+  },
+  {
+    "question_number": 79,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Shopping Tips",
+    "question_text": "The spontaneous and unplanned decision to buy a product just before or at the exact moment of payment is referred to as:",
+    "options": {
+      "a": "Scale of preference",
+      "b": "Impulse buying",
+      "c": "Redress seeking",
+      "d": "Comparative shopping"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Impulse buying** occurs when a consumer suddenly decides to buy something they did not originally plan to purchase, often triggered by emotions, attractive displays, or sales promotions.",
+    "section_id": null
+  },
+  {
+    "question_number": 80,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Shopping Tips",
+    "question_text": "Which of the following is a direct negative effect of impulse buying?",
+    "options": {
+      "a": "It increases the consumer's ability to save money for the future.",
+      "b": "It ensures the consumer only buys what is absolutely necessary.",
+      "c": "It leads to the disruption of the consumer's personal budget and financial regret.",
+      "d": "It automatically extends the warranty period of the purchased goods."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A major **effect of impulse buying** is financial instability. By purchasing items not originally budgeted for, a consumer may deplete funds meant for vital needs, leading to debt and buyer's remorse (regret).",
+    "section_id": null
+  },
+  {
+    "question_number": 81,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Shopping Tips",
+    "question_text": "A formal written document provided by a manufacturer promising to repair or replace a product if it develops a fault within a specified period of time is known as a:",
+    "options": {
+      "a": "Receipt",
+      "b": "Delivery note",
+      "c": "Invoice",
+      "d": "Warranty"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "A **Warranty** is a type of after-sales service and legal guarantee that assures the buyer that the product is of good quality and will be fixed or replaced if it fails prematurely.",
+    "section_id": null
+  },
+  {
+    "question_number": 82,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Shopping Tips",
+    "question_text": "When an electronics store sends a technician to a customer's house to securely mount and set up a newly purchased television at no extra charge, this activity is an example of:",
+    "options": {
+      "a": "Pre-sales advertising",
+      "b": "Impulse buying",
+      "c": "After-sales services",
+      "d": "Product manufacturing"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Services provided to a customer *after* they have paid for and received the product—such as **installation**, home delivery, and servicing—are classified collectively as **after-sales services**.",
+    "section_id": null
+  },
+  {
+    "question_number": 83,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer Protection Agencies",
+    "question_text": "Government bodies and organizations officially established to safeguard buyers from unfair business practices, ensure quality standards, and enforce consumer rights are collectively known as:",
+    "options": {
+      "a": "Trade Unions",
+      "b": "Chambers of Commerce",
+      "c": "Consumer Protection Agencies",
+      "d": "Co-operative Societies"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Consumer Protection Agencies** are special regulatory bodies created by the government specifically to defend the rights of buyers and protect the public from dangerous goods and exploitative market practices.",
+    "section_id": null
+  },
+  {
+    "question_number": 84,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer Protection Agencies",
+    "question_text": "Which of the following best explains the primary **need** for establishing consumer protection agencies in a country?",
+    "options": {
+      "a": "To help local manufacturers maximize their daily profit margins.",
+      "b": "To act as a watchdog protecting citizens from hazardous products and commercial exploitation.",
+      "c": "To prevent foreign investors from establishing businesses in the local market.",
+      "d": "To collect personal income tax from everyday buyers."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The core need for these agencies is to act as a **watchdog**. Because individual consumers are often at a disadvantage against large corporations, agencies are needed to step in and protect the public from hazards, fraud, and exploitation.",
+    "section_id": null
+  },
+  {
+    "question_number": 85,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer Protection Agencies",
+    "question_text": "The apex regulatory agency in Nigeria originally established by the government to promote, protect, and enforce the general rights of consumers across all sectors of the economy is the:",
+    "options": {
+      "a": "Standards Organisation of Nigeria (SON)",
+      "b": "Independent National Electoral Commission (INEC)",
+      "c": "Consumer Protection Council (CPC)",
+      "d": "Nigerian National Petroleum Corporation (NNPC)"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **Consumer Protection Council (CPC)** is the general overarching body mandated by law to eliminate hazardous products from the market, provide speedy redress to consumers, and conduct consumer education.",
+    "section_id": null
+  },
+  {
+    "question_number": 86,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer Protection Agencies",
+    "question_text": "Which specific consumer protection agency in Nigeria is strictly mandated to regulate and control the manufacture, importation, and sale of food, drugs, and cosmetics?",
+    "options": {
+      "a": "Standards Organisation of Nigeria (SON)",
+      "b": "National Agency for Food and Drug Administration and Control (NAFDAC)",
+      "c": "Nigerian Communications Commission (NCC)",
+      "d": "Nigerian Electricity Regulatory Commission (NERC)"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**NAFDAC** is specifically in charge of anything that enters the human body or is applied to it, such as food, bottled water, pharmaceuticals (drugs), chemicals, and cosmetics, ensuring they are safe for consumption.",
+    "section_id": null
+  },
+  {
+    "question_number": 87,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer Protection Agencies",
+    "question_text": "A consumer buys a bottle of cough syrup and notices it has a broken seal, no expiry date, and no registration number. Which regulatory agency should this dangerous product be immediately reported to?",
+    "options": {
+      "a": "NAFDAC",
+      "b": "NERC",
+      "c": "NCC",
+      "d": "SON"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Because cough syrup is a pharmaceutical drug, the correct agency with the authority to seize the product and arrest the manufacturer is **NAFDAC**.",
+    "section_id": null
+  },
+  {
+    "question_number": 88,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer Protection Agencies",
+    "question_text": "The government agency responsible for checking, standardizing, and regulating the quality of industrial and manufactured products, such as building materials, electronics, and tyres in Nigeria, is the:",
+    "options": {
+      "a": "Consumer Protection Council (CPC)",
+      "b": "National Agency for Food and Drug Administration and Control (NAFDAC)",
+      "c": "Standards Organisation of Nigeria (SON)",
+      "d": "Nigerian Electricity Regulatory Commission (NERC)"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "While NAFDAC handles food and drugs, the **Standards Organisation of Nigeria (SON)** ensures that non-consumable manufactured goods (like cement, wires, electronics, and machines) meet specific life-saving quality standards.",
+    "section_id": null
+  },
+  {
+    "question_number": 89,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer Protection Agencies",
+    "question_text": "If consumers are continually extorted through unexplained deductions on their mobile phone credit by a telecommunications network provider, which regulatory agency is responsible for investigating and sanctioning the provider?",
+    "options": {
+      "a": "NAFDAC",
+      "b": "SON",
+      "c": "NERC",
+      "d": "NCC"
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "The **Nigerian Communications Commission (NCC)** is the independent regulatory authority for the telecommunications industry in Nigeria. It handles consumer complaints regarding phone networks, data providers, and telecom services.",
+    "section_id": null
+  },
+  {
+    "question_number": 90,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer Protection Agencies",
+    "question_text": "The regulatory body tasked with protecting the rights of consumers regarding fair billing, safe distribution, and adequate supply of power in Nigeria is the:",
+    "options": {
+      "a": "Power Holding Company of Nigeria (PHCN)",
+      "b": "Standards Organisation of Nigeria (SON)",
+      "c": "Nigerian Electricity Regulatory Commission (NERC)",
+      "d": "Consumer Protection Council (CPC)"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **Nigerian Electricity Regulatory Commission (NERC)** is established specifically to monitor the power sector, issue licenses to electricity distribution companies (DisCos), and ensure consumers are not subjected to arbitrary billing.",
+    "section_id": null
+  },
+  {
+    "question_number": 91,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: Consumer Protection Agencies",
+    "question_text": "The following are standard roles and responsibilities of Consumer Protection Agencies EXCEPT:",
+    "options": {
+      "a": "Formulating sales and marketing strategies for multinational corporations.",
+      "b": "Organizing campaigns for public enlightenment and consumer education.",
+      "c": "Banning and restricting chemicals or goods that are not suitable for public use.",
+      "d": "Investigating consumer complaints and ensuring that victims receive redress."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Consumer Protection Agencies are impartial government watchdogs. Their role is to educate, restrict bad products, and seek redress for citizens. They do **not** formulate marketing or sales strategies for private businesses to make profit.",
+    "section_id": null
+  },
+  {
+    "question_number": 92,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: How to Make Complaints",
+    "question_text": "In consumer education, a formal expression of dissatisfaction made by a consumer regarding a defective product, poor service, or unfair trade practice is known as:",
+    "options": {
+      "a": "A warranty",
+      "b": "An injunction",
+      "c": "A complaint",
+      "d": "A resolution"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **complaint** is the act of expressing dissatisfaction or annoyance about a state of affairs or an event. In commerce, it is a formal report made by a buyer to a seller or agency when goods or services fall below the expected standard.",
+    "section_id": null
+  },
+  {
+    "question_number": 93,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: How to Make Complaints",
+    "question_text": "Which of the following scenarios best describes a **justified complaint**?",
+    "options": {
+      "a": "A buyer purchases a television, drops it on the floor at home causing the screen to crack, and demands a free replacement.",
+      "b": "A consumer buys a brand-new electric iron, but it fails to heat up on the first use due to a factory wiring error.",
+      "c": "A buyer purchases a pair of shoes, wears them for a year, and then complains that the soles are dirty.",
+      "d": "A customer buys a blue shirt and complains two weeks later that it doesn't match their new red trousers."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **justified complaint** is one that is valid, reasonable, and legally backed (e.g., a factory defect or expired product sold to a buyer). Options A, C, and D are situations caused by the buyer's own negligence, wear and tear, or change of mind, making them *unjustified*.",
+    "section_id": null
+  },
+  {
+    "question_number": 94,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: How to Make Complaints",
+    "question_text": "When a consumer complains about a product deteriorating rapidly because they failed to follow the manufacturer's storage instructions, the complaint is classified as:",
+    "options": {
+      "a": "Unjustified",
+      "b": "Justified",
+      "c": "Legitimate",
+      "d": "Compensatory"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "An **unjustified complaint** occurs when the fault lies with the consumer (e.g., misusing a product or failing to follow instructions) rather than a flaw in the product or an error by the seller.",
+    "section_id": null
+  },
+  {
+    "question_number": 95,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: How to Make Complaints",
+    "question_text": "What is generally the recommended **first step** a consumer should take when lodging a complaint about a defective product?",
+    "options": {
+      "a": "Arrest the manufacturer using law enforcement agencies.",
+      "b": "File a lawsuit against the seller in a high court immediately.",
+      "c": "Go directly to the national radio station to broadcast the grievance.",
+      "d": "Return to the retailer or seller with the defective product and the purchase receipt."
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "The proper procedure for making a complaint starts at the point of purchase. The first step is always to **inform the retailer/seller calmly** and provide proof of purchase (receipt) to see if they will resolve the issue through a refund or replacement before escalating to agencies.",
+    "section_id": null
+  },
+  {
+    "question_number": 96,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: How to Make Complaints",
+    "question_text": "A consumer writing a formal complaint letter to a Consumer Protection Agency should include all the following essential details EXCEPT:",
+    "options": {
+      "a": "The date of purchase and receipt number.",
+      "b": "A clear, factual description of the defect or problem.",
+      "c": "Violent threats directed at the company's management.",
+      "d": "The exact location and name of the seller."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A formal complaint letter must be factual, clear, and polite, including the date, receipt number, seller details, and a clear statement of the expected redress. Making **violent threats** is illegal, unprofessional, and voids the legitimacy of the complaint process.",
+    "section_id": null
+  },
+  {
+    "question_number": 97,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: How to Make Complaints",
+    "question_text": "Regulatory agencies like NAFDAC have the authority to completely **ban** certain chemicals. What is the primary reason for banning a chemical?",
+    "options": {
+      "a": "The chemical is deemed highly hazardous to human health and the environment with no safe method of public use.",
+      "b": "The chemical is too cheap and reduces the profit margins of local manufacturers.",
+      "c": "The chemical allows farmers to produce agricultural goods too quickly.",
+      "d": "The government wants to exclusively export the chemical for foreign exchange."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The primary reason for **banning** a chemical is extreme toxicity. If a chemical (such as certain harsh pesticides or food additives) poses a severe, uncontrollable danger to human life or environmental safety, it is banned entirely to prevent public exposure.",
+    "section_id": null
+  },
+  {
+    "question_number": 98,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: How to Make Complaints",
+    "question_text": "A chemical product may be \"restricted\" rather than completely \"banned.\" Which of the following is the main reason for **restricting** a chemical?",
+    "options": {
+      "a": "It can never be manufactured within the country.",
+      "b": "It is totally useless for both industrial and domestic purposes.",
+      "c": "It has vital, legitimate industrial uses but is too dangerous to be handled by the uneducated general public.",
+      "d": "The regulatory agency does not have the legal paperwork to ban it."
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "**Restriction** means the chemical is not illegal, but its distribution is heavily controlled. This happens when a chemical is highly useful for specific professional industries (e.g., specialized mining or medical labs) but is too hazardous for everyday consumers to buy in regular markets.",
+    "section_id": null
+  },
+  {
+    "question_number": 99,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: How to Make Complaints",
+    "question_text": "Which of the following describes the standard procedure taken by regulatory bodies before banning a chemical deemed unsuitable for use?",
+    "options": {
+      "a": "Conducting scientific risk assessments, consulting stakeholders, and issuing a legal gazette/directive.",
+      "b": "Arresting consumers who are found carrying the chemical without prior warning.",
+      "c": "Allowing the chemical to be sold until consumers formally complain in writing.",
+      "d": "Increasing the tax heavily on the chemical so only wealthy consumers can afford it."
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "The **procedure for banning chemicals** must follow due process: it involves rigorous scientific lab testing (risk assessment), gathering evidence, consulting with industry experts (stakeholders), and finally passing and publishing a legal directive (gazette) that officially bans its importation and sale.",
+    "section_id": null
+  },
+  {
+    "question_number": 100,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: How to Make Complaints",
+    "question_text": "During the procedure of restricting a dangerous chemical, regulatory agencies often issue strict guidelines regarding its distribution. These guidelines primarily specify:",
+    "options": {
+      "a": "How the chemical should be smuggled to bypass border security.",
+      "b": "The mandatory television adverts required to sell the chemical.",
+      "c": "Who is legally licensed to purchase, handle, and store the chemical.",
+      "d": "The exact profit margin a retailer is permitted to make per bottle."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Because restricted chemicals are dangerous if misused, the restriction **procedure** specifically outlines that only strictly vetted and **licensed personnel/organizations** are legally permitted to source, transport, handle, and use them.",
+    "section_id": null
+  },
+  {
+    "question_number": 101,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: How to Make Complaints",
+    "question_text": "In drafting a formal complaint letter for an unjustified billing by an electricity distribution company, which piece of evidence should the consumer crucially attach?",
+    "options": {
+      "a": "A copy of their local government certificate of origin.",
+      "b": "Copies of past electricity bills and proof of recent payments.",
+      "c": "A list of the consumer's monthly household food expenses.",
+      "d": "The contact details of the consumer's local political representative."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "When making a formal complaint regarding financial or billing issues, providing clear documentation—such as **past bills and payment receipts**—is the standard step required to prove that the recent billing is anomalous and that the complaint is justified.",
+    "section_id": null
+  },
+  {
+    "question_number": 102,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: How to Seek Redress",
+    "question_text": "The process by which a consumer receives fair compensation, a refund, or a replacement for a defective product or poor service is legally referred to as:",
+    "options": {
+      "a": "Redress",
+      "b": "Consumerism",
+      "c": "Boycott",
+      "d": "Standardization"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Redress** means to set right a wrong or to provide a remedy. In business, it refers to the compensation (such as a refund, repair, or replacement) a buyer receives when they have been sold substandard goods or services.",
+    "section_id": null
+  },
+  {
+    "question_number": 103,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: How to Seek Redress",
+    "question_text": "Which of the following is **NOT** a lawful and appropriate way for a consumer to seek redress?",
+    "options": {
+      "a": "Returning the defective product to the seller with the purchase receipt.",
+      "b": "Filing a formal complaint with a consumer protection agency like the CPC.",
+      "c": "Instituting legal action against the manufacturer in a court of law.",
+      "d": "Physically harassing the retailer and forcibly confiscating their goods."
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Ways of seeking redress must be legal and civil. These include complaining to the seller, using regulatory agencies, or going to court. Taking the law into one's own hands by **physically harassing a retailer** is a criminal offense, not a legal means of redress.",
+    "section_id": null
+  },
+  {
+    "question_number": 104,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: How to Seek Redress",
+    "question_text": "When a consumer's direct complaint to a retailer about a harmful product fails to yield a favorable resolution, the most appropriate next step to seek redress is to:",
+    "options": {
+      "a": "Lodge a formal report with the appropriate regulatory body, such as NAFDAC or SON.",
+      "b": "Destroy the retailer's shop in protest to warn other consumers.",
+      "c": "Stop buying all forms of manufactured goods completely.",
+      "d": "Write an unjustified complaint letter to a foreign embassy."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "If the primary seller refuses to take responsibility, the consumer escalates the issue by reporting to a **government regulatory agency** (like the CPC, NAFDAC, or SON). These agencies have the statutory power to compel the business to provide redress.",
+    "section_id": null
+  },
+  {
+    "question_number": 105,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: How to Seek Redress",
+    "question_text": "From the perspective of a business enterprise, what is a major benefit of promptly providing redress to a dissatisfied customer?",
+    "options": {
+      "a": "It reduces the total amount of corporate tax the business owes the government.",
+      "b": "It helps to retain customer loyalty and protects the public reputation of the business.",
+      "c": "It forces the customer to accept lower-quality goods in the future.",
+      "d": "It legally prevents the consumer from ever returning to the store."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A business that honors its mistakes and quickly provides a refund or replacement (redress) demonstrates integrity. This builds trust, **retains the customer's loyalty**, and prevents negative publicity that could ruin the company's reputation.",
+    "section_id": null
+  },
+  {
+    "question_number": 106,
+    "subject": "Business Studies",
+    "topic": "Consumer and Society: How to Seek Redress",
+    "question_text": "How does an effective system of seeking and providing redress benefit the broader society and market economy?",
+    "options": {
+      "a": "It encourages local manufacturers to consistently produce substandard goods.",
+      "b": "It restores consumer confidence and promotes fair trade standards in the market.",
+      "c": "It creates a legal monopoly for a single manufacturer in the industry.",
+      "d": "It artificially increases the prices of all basic commodities in the country."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "A functioning redress system ensures that bad business practices are punished and corrected. This guarantees that consumers feel safe spending their money, which **restores consumer confidence, enforces quality control, and promotes fair trade standards** across the economy.",
+    "section_id": null
+  }
+]
