@@ -1,0 +1,690 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Introduction to Keyboarding",
+    "question_text": "The art of using fingers to systematically operate a computer keyboard or typewriter to input alphanumeric text is referred to as...",
+    "options": {
+      "a": "book-keeping",
+      "b": "keyboarding",
+      "c": "typesetting",
+      "d": "formatting"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Keyboarding** is defined as the process or art of using fingers to systematically press the keys of a typewriter or computer keyboard to input text. \n\n*   **Book-keeping** relates to recording financial transactions.\n*   **Typesetting** is arranging text for print.\n*   **Formatting** is designing the appearance of a document.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Introduction to Keyboarding",
+    "question_text": "Keyboarding skills are highly important in modern business organizations primarily because they...",
+    "options": {
+      "a": "completely eliminate the need for paper records",
+      "b": "ensure that computers consume less electricity",
+      "c": "improve the speed, accuracy, and efficiency of data entry",
+      "d": "replace the need for accounting departments"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The primary **importance of keyboarding** in a business environment is that it allows clerical and administrative staff to process correspondence and enter data with high **speed and accuracy**, thus increasing overall office productivity.",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Introduction to Keyboarding",
+    "question_text": "Which of the following best describes the correct sitting posture for keyboarding?",
+    "options": {
+      "a": "Leaning heavily into the computer monitor",
+      "b": "Sitting upright with feet placed flat on the floor",
+      "c": "Crossing the legs at the knees while typing",
+      "d": "Bending the neck deeply to look at the keys"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Correct sitting posture is essential in keyboarding to prevent fatigue and strain. \n\n**Rules for correct posture:**\n*   Sit upright with your lower back supported.\n*   Keep **both feet flat on the floor**.\n*   Keep elbows naturally close to the body.\n*   Eyes should be focused on the copy or screen, not bent over the keyboard.",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Introduction to Keyboarding",
+    "question_text": "All the following are recommended practices for a correct keyboarding posture EXCEPT...",
+    "options": {
+      "a": "curving the fingers gently over the home row keys",
+      "b": "keeping wrists resting entirely flat on the desk or keyboard",
+      "c": "adjusting the chair so the hips are positioned correctly",
+      "d": "keeping the eyes fixed on the copy or the monitor"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Wrists should be slightly elevated and kept straight, **not** rested flat on the keyboard or desk while typing. Resting wrists flat can restrict finger movement and lead to conditions like Carpal Tunnel Syndrome over time.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Introduction to Keyboarding",
+    "question_text": "In office practice, what is the standard key arrangement widely used for English language computer keyboards?",
+    "options": {
+      "a": "ALPHABETIC",
+      "b": "NUMERIC",
+      "c": "AZERTY",
+      "d": "QWERTY"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "The **QWERTY** layout is the standard alphanumeric keyboard arrangement for English language devices, named after the first six letters on the top alphabetic row. AZERTY is used for French, and there is no standard \"ALPHABETIC\" layout used in modern offices.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Introduction to Keyboarding",
+    "question_text": "To achieve maximum typing speed using the touch typing technique, the eyes of the operator should be focused on the...",
+    "options": {
+      "a": "source document or the computer screen",
+      "b": "keys being pressed by the fingers",
+      "c": "supervisor dictating the text",
+      "d": "movement of the wrists"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "In **touch typing** (the standard keyboarding method), the operator must rely on muscle memory rather than sight to find keys. Therefore, the eyes must remain on the **copy (source document) or the screen** rather than looking down at the hands.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Introduction to Keyboarding",
+    "question_text": "A major ergonomic advantage of maintaining the correct sitting posture during long sessions of keyboarding is that it...",
+    "options": {
+      "a": "increases the lifespan of the computer monitor",
+      "b": "reduces physical strain and fatigue on the body",
+      "c": "automatically corrects spelling errors",
+      "d": "reduces the amount of paper used in the office"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The concept of correct posture relates directly to ergonomics. Proper posture **prevents repetitive strain injuries, backaches, and general bodily fatigue** during prolonged periods of typing.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Parts of Computer",
+    "question_text": "Within an office computer system, what is the primary function of the computer keyboard?",
+    "options": {
+      "a": "To output printed documents",
+      "b": "To display visual data to the user",
+      "c": "To input data and commands into the computer",
+      "d": "To store confidential office files permanently"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A computer keyboard is fundamentally an **input device**. Its main use is to allow the user to input letters, numbers, symbols, and system commands into the computer's processor.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Parts of Computer",
+    "question_text": "Which of the following highlights a major difference between a modern computer keyboard and a traditional manual typewriter?",
+    "options": {
+      "a": "The computer keyboard has a spacebar, while the typewriter does not",
+      "b": "The computer keyboard has special function keys and an electronic numeric keypad",
+      "c": "The manual typewriter utilizes the QWERTY layout, while the computer does not",
+      "d": "The manual typewriter uses alphabetic keys, while the computer only uses numbers"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "While both devices share a core alphanumeric layout, the modern computer keyboard is heavily enhanced with electronic navigation keys. \n\n| Feature | Computer Keyboard | Manual Typewriter |\n| :--- | :--- | :--- |\n| **Function Keys ($F1-F12$)** | Yes | No |\n| **Alphanumeric keys** | Yes | Yes |\n| **Numeric Keypad** | Yes (usually) | No |",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Parts of Computer",
+    "question_text": "Which of these modifier keys is commonly found on a computer keyboard but is typically NOT present on a standard manual typewriter?",
+    "options": {
+      "a": "Shift key",
+      "b": "Spacebar",
+      "c": "Alt (Alternate) key",
+      "d": "Backspace key"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "The **`Alt` (Alternate) key** and the **`Ctrl` (Control) key** are specific to computers and are used to trigger software-based keyboard shortcuts. Standard typewriters only required a `Shift` key to toggle uppercase letters, a spacebar for gaps, and occasionally a mechanical backspace.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Parts of Computer",
+    "question_text": "Identify one structural similarity that exists between a manual typewriter and a computer keyboard.",
+    "options": {
+      "a": "Both possess a dedicated mouse pad",
+      "b": "Both possess an 'Enter' or 'Carriage Return' function to start a new line",
+      "c": "Both have a built-in digital display screen",
+      "d": "Both contain an internal hard drive for saving files"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Both machines feature a mechanism to move to a new line. On a typewriter, this is the **Carriage Return** lever (or key on electric ones); on a computer keyboard, this is exactly what the **Enter / Return** key does.",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Parts of Computer",
+    "question_text": "On a computer keyboard, the longest horizontal key located at the bottom row is known as the...",
+    "options": {
+      "a": "Enter key",
+      "b": "Tab key",
+      "c": "Shift key",
+      "d": "Spacebar"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "The **Spacebar** is placed at the bottom of the keyboard so it can be easily operated by the thumbs to create blank spaces between words.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Parts of Computer",
+    "question_text": "When correcting typographical errors, a major advantage of the computer keyboard over the manual typewriter is the ability to easily erase characters using the...",
+    "options": {
+      "a": "Shift or Ctrl key",
+      "b": "Backspace or Delete key",
+      "c": "Caps Lock or Tab key",
+      "d": "Enter or Spacebar"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Unlike manual typewriters, which require mechanical erasers, correction fluid (Tipp-Ex), or correction tape to cover physical ink mistakes, computers use digital buffers allowing instant, invisible correction via the **Backspace** or **Delete** keys.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Parts of Computer",
+    "question_text": "Which of the following mechanical actions occurs immediately when a key is pressed on a manual typewriter, highlighting a major difference from a computer keyboard?",
+    "options": {
+      "a": "Data is converted into binary code and saved into memory",
+      "b": "A metal typebar forcibly strikes the paper through an ink ribbon",
+      "c": "The text instantly appears on a digital light-emitting screen",
+      "d": "An electronic signal is sent to a central processing unit (CPU)"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Manual typewriters are entirely mechanical devices. Pressing a key manually lifts a metal lever called a **typebar**, which strikes an ink-soaked ribbon directly against the paper. Computers, conversely, process keystrokes as electronic signals sent to a CPU, printing nothing on paper until a separate print command is issued to an external printer.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Care of the Computer",
+    "question_text": "Routine maintenance and proper care of the office computer are primarily done to...",
+    "options": {
+      "a": "automatically increase the speed of the internet connection",
+      "b": "prolong the lifespan of the machine and prevent breakdowns",
+      "c": "upgrade the computer's operating system to a newer version",
+      "d": "permanently delete old and unused office files"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The primary objective of caring for a computer is to **prevent hardware failure** and **prolong its lifespan**. Regular maintenance ensures that the computer continues to function efficiently for a long time.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Care of the Computer",
+    "question_text": "To prevent overheating and internal damage, office computers should ideally be positioned in a...",
+    "options": {
+      "a": "damp and dark storeroom",
+      "b": "cool, dry, and well-ventilated environment",
+      "c": "brightly lit outdoor space directly under the sun",
+      "d": "warm and highly humid area"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Computers generate heat while operating. A **cool, dry, and well-ventilated environment** prevents the internal components from overheating, while keeping the area dry prevents moisture from causing electrical short circuits.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Care of the Computer",
+    "question_text": "Which of the following items is highly recommended for safely blowing out dust trapped between the keys of a computer keyboard?",
+    "options": {
+      "a": "Liquid detergent mixed with warm water",
+      "b": "A can of compressed air or an air blower",
+      "c": "A rigid metal wire brush",
+      "d": "A wet mopping towel"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **can of compressed air (or a specialized electronic air blower)** is the safest and most effective tool for removing dust and debris from keyboards and computer vents without introducing harmful moisture or physically scratching the components.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Care of the Computer",
+    "question_text": "At the close of work in the office, it is an standard practice to protect the computer monitor and keyboard from environmental hazards by using a...",
+    "options": {
+      "a": "file jacket",
+      "b": "woolen blanket",
+      "c": "dust cover",
+      "d": "transparent nylon bag"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **dust cover** is a tailored protective material placed over computer equipment when they are powered off. It specifically stops dust particles from settling into the air vents and keyboard crevices overnight.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Care of the Computer",
+    "question_text": "All the following are recommended practices for the care of an office computer EXCEPT...",
+    "options": {
+      "a": "installing an updated antivirus software",
+      "b": "shutting down the system using the appropriate software command",
+      "c": "eating snacks and drinking water directly over the keyboard",
+      "d": "plugging the computer into a surge protector"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Eating and drinking over the keyboard** is strongly discouraged. Spilled liquids can cause immediate electrical shorts and destroy the computer, while food crumbs can jam the keyboard mechanisms.",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Care of the Computer",
+    "question_text": "To protect the computer system from sudden electrical power outages and fluctuations, the computer should be connected directly to a...",
+    "options": {
+      "a": "Universal Serial Bus (USB)",
+      "b": "Central Processing Unit (CPU)",
+      "c": "Read Only Memory (ROM)",
+      "d": "Uninterruptible Power Supply (UPS)"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "A **UPS (Uninterruptible Power Supply)** provides emergency power from built-in batteries when the main power source fails, and it also regulates electrical surges. This gives the user time to save their work and shut down the computer safely.",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Correct Keyboarding Techniques and Home Row keys",
+    "question_text": "In touch typing, the middle row of alphabetic keys where the fingers must naturally rest when not typing is called the...",
+    "options": {
+      "a": "Top row",
+      "b": "Home row",
+      "c": "Upper row",
+      "d": "Bottom row"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Home row** serves as the base position for touch typing. A typist's fingers begin on the home row, reach out to strike keys on the upper or bottom rows, and immediately return back to this \"home\" position.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Correct Keyboarding Techniques and Home Row keys",
+    "question_text": "When establishing the correct keyboarding technique, which of the following set of keys represent the left-hand home keys?",
+    "options": {
+      "a": "A, S, D, F",
+      "b": "J, K, L, ;",
+      "c": "Q, W, E, R",
+      "d": "Z, X, C, V"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "On a standard QWERTY keyboard, the four fingers of the left hand are placed on the left side of the home row over the keys **A, S, D, and F**.",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Correct Keyboarding Techniques and Home Row keys",
+    "question_text": "Which designated row is located directly above the Home row on a standard computer keyboard?",
+    "options": {
+      "a": "The Number row",
+      "b": "The Upper row",
+      "c": "The Bottom row",
+      "d": "The Function row"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The alphabetic portion of the keyboard is divided into three main rows. Directly above the Home row is the **Upper row** (containing Q, W, E, R, T, Y, U, I, O, P). \n\n*Note: The Number row is above the Upper row, not the Home row.*",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Correct Keyboarding Techniques and Home Row keys",
+    "question_text": "To ensure typing efficiency, the typewriter or computer keyboard is strictly divided into two distinct conceptual sections known as the...",
+    "options": {
+      "a": "front end and back end divisions",
+      "b": "left hand side and right hand side",
+      "c": "upper case side and lower case side",
+      "d": "alphabetic side and numerical side"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "For touch typing purposes, the keyboard is evenly split down the middle (between T/Y, G/H, and B/N) to assign keys strictly to either the **left hand side** or the **right hand side** without the hands crossing over.",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Correct Keyboarding Techniques and Home Row keys",
+    "question_text": "Keys such as Z, X, C, V, and B belong to which designated row on the keyboard?",
+    "options": {
+      "a": "Top row",
+      "b": "Home row",
+      "c": "Bottom row",
+      "d": "Upper row"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The row located directly underneath the Home row is called the **Bottom row**. It houses the keys `Z, X, C, V, B, N, M, ,, ., /`.",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "Business Studies",
+    "topic": "Basic Keyboarding Skills - Correct Keyboarding Techniques and Home Row keys",
+    "question_text": "During keyboarding practice, the four fingers of the right hand should be stationed on which of the following home row keys?",
+    "options": {
+      "a": "A, S, D, F",
+      "b": "H, J, K, L",
+      "c": "J, K, L, ;",
+      "d": "Y, U, I, O"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "For the right hand, the fingers should gently rest on **J (Index finger), K (Middle finger), L (Ring finger), and the semicolon ; (Little finger)** on the home row.",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "Business Studies",
+    "topic": "Keyboarding - Printer Correction Signs",
+    "question_text": "What is the primary function of **proofreader's marks** (printer correction signs) in office correspondence?",
+    "options": {
+      "a": "To calculate the final cost of printing a document",
+      "b": "To apply decorative formatting and colors to a typed page",
+      "c": "To use standardized symbols to indicate errors and instruct the typist on necessary changes",
+      "d": "To permanently encrypt confidential business letters"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Proofreader's marks** are standard symbols and abbreviations used to point out errors in a typed manuscript or draft. They provide universal instructions to the typist on how to correct the text before the final copy is produced.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "Business Studies",
+    "topic": "Keyboarding - Printer Correction Signs",
+    "question_text": "Which of the following proofreader's marks is used to indicate that an omitted letter or word needs to be **inserted** at a specific point?",
+    "options": {
+      "a": "The hash symbol (`#`)",
+      "b": "The caret symbol (`^`)",
+      "c": "Three horizontal underlines",
+      "d": "A wavy line under the word"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The caret symbol (`^`) is an insertion mark placed below the line of text exactly where a missing letter, word, or punctuation mark should be added. \n\n| Mark | Function |\n| :--- | :--- |\n| `^` | Insert omitted text |\n| `#` | Insert a space |\n| `¶` | Start a new paragraph |",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "Business Studies",
+    "topic": "Keyboarding - Printer Correction Signs",
+    "question_text": "During proofreading, a manager crossed out a word by mistake and subsequently wrote **stet** with a dotted line under the word. What does this instruct the typist to do?",
+    "options": {
+      "a": "Delete the word completely from the document",
+      "b": "Change the entire word into uppercase letters",
+      "c": "Ignore the correction and let the original word stand",
+      "d": "Start a new paragraph immediately after the word"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The Latin term **\"stet\"** literally translates to *\"let it stand.\"* In printing and keyboarding, it is used alongside a dotted underline to tell the typist that a previous deletion or alteration should be ignored, and the original text must remain unchanged.",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "Business Studies",
+    "topic": "Keyboarding - Printer Correction Signs",
+    "question_text": "If a draft document contains a lowercase letter with three horizontal lines drawn directly underneath it (e.g., <br><svg viewBox='0 0 40 40' width='30' height='30'><text x='10' y='20' font-size='20' font-family='serif'>c</text><path d='M 10,24 L 20,24 M 10,28 L 20,28 M 10,32 L 20,32' stroke='black' stroke-width='1.5'/></svg>), what is the corresponding instruction for the typist?",
+    "options": {
+      "a": "Delete the letter",
+      "b": "Make the letter bold or italic",
+      "c": "Change the letter to uppercase (Capital letter)",
+      "d": "Move the letter to the next line"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Three lines drawn under a lowercase letter (or a word) indicate that the text must be typed in **Capital (Uppercase) letters**.\n\n*   One underline = *Italics*\n*   Two underlines = SMALL CAPITALS\n*   Three underlines = **FULL CAPITALS**",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "Business Studies",
+    "topic": "Keyboarding - Printer Correction Signs",
+    "question_text": "What does the proofreading correction sign `#` (hash) represent when placed between two accidentally joined words?",
+    "options": {
+      "a": "Insert a space between the words",
+      "b": "Join the words with a hyphen",
+      "c": "Transpose the order of the two words",
+      "d": "Insert a numeric digit between the words"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "In typography and proofreading, the hash symbol (`#`) is standard shorthand instructing the typist to **insert a space**. For example, if a draft says `thebook`, a proofreader will mark it as `the|book` with a `#` sign to indicate it should be corrected to `the book`.",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "Business Studies",
+    "topic": "Keyboarding - Printer Correction Signs",
+    "question_text": "A proofreader places a horizontal 'S' curve (<svg viewBox='0 0 100 40' width='50' height='20'><path d='M 10,20 Q 30,0 50,20 T 90,20' fill='none' stroke='black' stroke-width='4'/></svg>) over two adjacent letters in the word *\"reiceve\"*. What is this sign called and what does it instruct the typist to do?",
+    "options": {
+      "a": "Close up sign; remove the space between letters",
+      "b": "Deletion sign; remove the two letters entirely",
+      "c": "Transpose sign; reverse the order of the two letters",
+      "d": "Alignment sign; ensure the letters are on a straight line"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "This specific mark is the **transpose (trs)** sign. It is used to indicate that the order of two adjacent letters, words, or phrases has been mixed up and needs to be swapped (reversed). In the example, it instructs the typist to change *\"ei\"* to *\"ie\"*, correcting the word to *\"receive\"*.",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "Business Studies",
+    "topic": "Keyboarding - Printer Correction Signs",
+    "question_text": "Which of the following visual correction signs instructs a typist to **\"Close up\"** (i.e., remove the unwanted blank space in the middle of a word)?",
+    "options": {
+      "a": "A forward slash (`/`) struck through the space",
+      "b": "Two linking arcs resembling parentheses rotated sideways (<svg viewBox='0 0 60 40' width='30' height='20'><path d='M 10,10 Q 30,-5 50,10 M 10,30 Q 30,45 50,30' fill='none' stroke='black' stroke-width='3'/></svg>)",
+      "c": "The abbreviation **NP** or the paragraph symbol (**¶**)",
+      "d": "A single straight line crossing through the entire word"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **\"Close up\"** mark consists of top and bottom linking curves (arcs) pointing toward each other across an unwanted space. It tells the typist that two disconnected letters or word fragments should be joined together into a single word (e.g., turning `base ball` into `baseball`). \n\n*   `¶` means New Paragraph.\n*   A line through a word means Delete.",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "Business Studies",
+    "topic": "Keyboarding Applications - Memorandum and E-mail",
+    "question_text": "A written message used primarily for communication between individuals and departments within the same organization is called a...",
+    "options": {
+      "a": "business letter",
+      "b": "memorandum",
+      "c": "telegram",
+      "d": "press release"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **memorandum** (often shortened to *memo*) is an internal office document used to communicate policies, procedures, or short messages across departments within the same company. A business letter is typically used for *external* communication.",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "Business Studies",
+    "topic": "Keyboarding Applications - Memorandum and E-mail",
+    "question_text": "Which of the following is a major feature that distinguishes a memorandum from a formal business letter?",
+    "options": {
+      "a": "It is heavily stamped by the post office",
+      "b": "It omits formal salutations and complimentary closes",
+      "c": "It is written exclusively to external customers",
+      "d": "It requires the managing director's personal seal"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Unlike formal business letters, a **memorandum** does not use polite salutations (like *\"Dear Sir\"*) or complimentary closes (like *\"Yours faithfully\"*). It is designed to be direct and to the point for internal staff.",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "Business Studies",
+    "topic": "Keyboarding Applications - Memorandum and E-mail",
+    "question_text": "The standard formatting heading of an official memorandum usually contains all the following EXCEPT...",
+    "options": {
+      "a": "TO",
+      "b": "FROM",
+      "c": "DATE",
+      "d": "DEAR SIR"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "The standard header of a memorandum consists of four main guide words:\n\n| Guide Word | Function |\n| :--- | :--- |\n| **TO** | The recipient of the memo |\n| **FROM** | The sender of the memo |\n| **DATE** | When the memo was issued |\n| **SUBJECT** | The main topic of the memo |\n\n*\"DEAR SIR\"* is a salutation used in formal letters, not memos.",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "Business Studies",
+    "topic": "Keyboarding Applications - Memorandum and E-mail",
+    "question_text": "In a memorandum format, the short phrase or sentence stating the main purpose of the message is placed beside the...",
+    "options": {
+      "a": "CC line",
+      "b": "SUBJECT line",
+      "c": "FROM line",
+      "d": "TO line"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **SUBJECT line** (sometimes abbreviated as *REF* for Reference) provides a brief summary of what the memorandum is about, allowing the reader to quickly understand the message's intent.",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "Business Studies",
+    "topic": "Keyboarding Applications - Memorandum and E-mail",
+    "question_text": "The system of sending and receiving typed messages and documents electronically over a computer network is known as...",
+    "options": {
+      "a": "E-commerce",
+      "b": "E-payment",
+      "c": "E-mail",
+      "d": "E-banking"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**E-mail** stands for *Electronic Mail*. It is the exchange of computer-stored messages by telecommunication across local networks or the global World Wide Web.",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "Business Studies",
+    "topic": "Keyboarding Applications - Memorandum and E-mail",
+    "question_text": "One major advantage of using e-mail for office correspondence over traditional postal mail is that it...",
+    "options": {
+      "a": "requires physical stamps and courier logistics",
+      "b": "takes several days to process and deliver",
+      "c": "delivers messages and data almost instantly worldwide",
+      "d": "prevents the sender from keeping a copy of the sent message"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The primary feature of **e-mail** is its high speed. Regardless of geographic distance, an e-mail can be delivered almost instantly, vastly increasing business communication efficiency compared to standard postal systems.",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "Business Studies",
+    "topic": "Keyboarding Applications - Memorandum and E-mail",
+    "question_text": "In an e-mail, external documents, pictures, or spreadsheets sent along with the main body text are referred to as...",
+    "options": {
+      "a": "carbon copies",
+      "b": "drafts",
+      "c": "attachments",
+      "d": "spams"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "An **attachment** is a separate file (like a PDF, Word document, or image) that is attached to an e-mail message and sent along with it.",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "Business Studies",
+    "topic": "Keyboarding Applications - Memorandum and E-mail",
+    "question_text": "When structuring an e-mail, the abbreviation **\"CC\"** in the header section stands for...",
+    "options": {
+      "a": "Correct Copy",
+      "b": "Carbon Copy",
+      "c": "Computer Copy",
+      "d": "Central Copy"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**CC** stands for **Carbon Copy**. It is a feature used to send a copy of an e-mail to secondary recipients who need to be kept informed about the correspondence, even if they are not the primary person being addressed.",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "Business Studies",
+    "topic": "Keyboarding Applications - Memorandum and E-mail",
+    "question_text": "Which e-mail feature is utilized when a sender wants to copy a message to a third party without the primary recipient seeing their e-mail address?",
+    "options": {
+      "a": "Draft folder",
+      "b": "Forward (FWD)",
+      "c": "Blind Carbon Copy (BCC)",
+      "d": "Carbon Copy (CC)"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "**BCC (Blind Carbon Copy)** functions just like CC, but it hides the recipient's e-mail address from everyone else on the email list, ensuring privacy and confidentiality.",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "Business Studies",
+    "topic": "Keyboarding Applications - Memorandum and E-mail",
+    "question_text": "Both a memorandum and an e-mail share a highly similar header format. Which of the following structural fields is strictly common to BOTH?",
+    "options": {
+      "a": "Blind Carbon Copy (BCC)",
+      "b": "Subject line",
+      "c": "Website URL",
+      "d": "Sender's home address"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Both memos and e-mails rely heavily on the **Subject line** to briefly describe the content of the message before the recipient reads the main body. BCC is exclusive to e-mails, and neither requires the sender's home address.",
+    "section_id": null
+  }
+]
