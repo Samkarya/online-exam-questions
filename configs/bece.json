@@ -478,5 +478,21 @@
         "isOfficial": false,
         "seo_title": "BECE Business Studies: Book-keeping Practice Test | Junior WAEC",
         "seo_description": "Practice BECE Business Studies Book-keeping with 95 free online questions covering cash books, petty cash, trial balance, trading and profit and loss accounts, and balance sheets."
+    },
+    {
+        "id": "bece_bsKeyboarding",
+        "category": "BECE",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "BECE Business Studies: Keyboarding",
+        "short_description": "Practice on introduction to keyboarding, parts and care of the computer, correct keyboarding techniques, proof reader's marks, and memorandum/e-mail formats.",
+        "description": "### Module: Keyboarding\n\n**Focus:** Basic Keyboarding Skills & Applications | **Level:** Junior Secondary (JSS3)\n\nBuild the foundational typing and computer knowledge tested in the Keyboarding/Computer theme of the Basic Education Certificate Examination (BECE / Junior WAEC) Business Studies paper with this practice module. It features **43 multiple-choice questions** covering keyboarding basics and applications.\n\n---\n\n#### Key Curriculum Topics Covered:\n* **Introduction to Keyboarding:** Meaning, importance, and correct sitting posture for keyboarding.\n* **Parts of Computer:** Uses of the computer keyboard, and differences and similarities with a typewriter keyboard.\n* **Care of the Computer:** Care practices and items used for the care of the computer.\n* **Correct Keyboarding Techniques and Home Row Keys:** Keyboard rows (top, upper, home, bottom) and the two divisions of the keyboard.\n* **Printer Correction Signs:** Identification and uses of proof reader's marks and signs.\n* **Memorandum and E-mail:** Meaning, features, and format of memoranda and e-mails.",
+        "path": "nigeria/BECE/businessStudies/keyBoarding.json",
+        "isOfficial": false,
+        "seo_title": "BECE Business Studies: Keyboarding Practice Test | Junior WAEC",
+        "seo_description": "Practice BECE Business Studies Keyboarding with 43 free online questions covering computer basics, keyboarding techniques, proof reader's marks, and memo/e-mail formats."
     }
 ]

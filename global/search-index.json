@@ -581,6 +581,13 @@
     "suitePath": "configs/bece.json"
   },
   {
+    "id": "bece_bsKeyboarding",
+    "title": "BECE Business Studies: Keyboarding",
+    "short_description": "Practice on introduction to keyboarding, parts and care of the computer, correct keyboarding techniques, proof reader's marks, and memorandum/e-mail formats.",
+    "path": "nigeria/BECE/businessStudies/keyBoarding.json",
+    "suitePath": "configs/bece.json"
+  },
+  {
     "id": "hosa_nutrition_physiology",
     "title": "HOSA Nutrition: Nutritional Physiology",
     "short_description": "Contains 48 Questions",
