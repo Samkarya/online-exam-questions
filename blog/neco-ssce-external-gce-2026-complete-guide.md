@@ -13,7 +13,7 @@ mdFilePath: "/blog/neco-ssce-external-gce-2026-complete-guide.md"
 
 *Everything private candidates, parents, and teachers need for the 2026 NECO SSCE External (commonly called "NECO GCE"), sourced directly from NECO's official 2026 registration guideline and the official 2026 SSCE External examination timetable.*
 
-**Not sure if this is the exam you're looking for?** This guide covers **SSCE External (GCE)** — the route for private candidates. If you're a current SS3 student registering through your school, you want **SSCE Internal** instead — see our companion guide, [*NECO SSCE Internal 2026: Complete Guide*](/blog/neco-ssce-internal-2026-complete-guide). For the syllabus breakdown, grading system, and certificate verification (which apply to both exams), see [*NECO Syllabus, Subjects, Grading, Verification & More: The Complete Reference Guide*](/blog/neco-syllabus-grading-verification-guide) for more information.
+**Not sure if this is the exam you're looking for?** This guide covers **SSCE External (GCE)** — the route for private candidates. If you're a current SS3 student registering through your school, you want **SSCE Internal** instead — see our companion guide, [*NECO SSCE Internal 2026: Complete Guide*](https://examoven.com/blog/neco-ssce-internal-2026-complete-guide). For the syllabus breakdown, grading system, and certificate verification (which apply to both exams), see [*NECO Syllabus, Subjects, Grading, Verification & More: The Complete Reference Guide*](https://examoven.com/blog/neco-syllabus-grading-verification-guide) for more information.
 
 ---
 
@@ -332,7 +332,7 @@ A small but useful detail: NECO's guideline confirms the **photograph uploaded d
 | Photocard attestation by referee | Not required | Required |
 | Correction after upload | ₦10,000 "non-validation" fee, multiple corrections possible before exam | One-time correction only, before exam |
 
-For the full breakdown of SSCE Internal registration, fees, and its complete timetable, see our companion guide, [NECO SSCE Internal 2026: Complete Guide](blog/neco-ssce-internal-2026-complete-guide.md).
+For the full breakdown of SSCE Internal registration, fees, and its complete timetable, see our companion guide, [NECO SSCE Internal 2026: Complete Guide](https://examoven.com/blog/neco-ssce-internal-2026-complete-guide).
 
 ---
 
@@ -390,7 +390,7 @@ No. They're two separate examinations run by the same body — Internal is for s
 - [NECO 2026 SSCE External Examination Timetable](https://neco.gov.ng/2026%20SSCE%20EXTERNAL%20TIMETABLE.pdf)
 
 **Companion guides on this site:**
-- [*NECO SSCE Internal 2026: Complete Guide*](blog/neco-ssce-internal-2026-complete-guide.md) — for school-based candidates, full Internal timetable and registration process
-- [*NECO Syllabus, Subjects, Grading, Verification & More: The Complete Reference Guide*](blog/neco-syllabus-grading-verification-guide.md) — syllabus breakdown, subject combinations, grading system, malpractice rules, and e-Verify
+- [*NECO SSCE Internal 2026: Complete Guide*](https://examoven.com/blog/neco-ssce-internal-2026-complete-guide) — for school-based candidates, full Internal timetable and registration process
+- [*NECO Syllabus, Subjects, Grading, Verification & More: The Complete Reference Guide*](https://examoven.com/blog/neco-syllabus-grading-verification-guide) — syllabus breakdown, subject combinations, grading system, malpractice rules, and e-Verify
 
 *This guide was compiled directly from NECO's official 2026 SSCE External circular and timetable. Registration procedures, fees, and subject availability can be updated by NECO at any time — always cross-check against the official portal (ssceexternal.neco.gov.ng) before making decisions based on this article.*

@@ -13,7 +13,7 @@ mdFilePath: "/blog/neco-ssce-internal-2026-complete-guide.md"
 
 *Everything school candidates, parents, and teachers need for the 2026 NECO Senior School Certificate Examination (SSCE) Internal, sourced directly from NECO's official 2026 registration guidelines, the SSCE Internal user guide, and the official 2026 examination timetable.*
 
-**Registering as a private candidate instead?** See our companion guide, [*NECO SSCE External (GCE) 2026: Complete Guide*](/blog/neco-ssce-external-gce-2026-complete-guide). For the syllabus breakdown, subject combinations, grading system, and result verification (which apply to both exams), see [*NECO Syllabus, Subjects, Grading, Verification & More: The Complete Reference Guide*](/blog/neco-syllabus-grading-verification-guide) for more information.
+**Registering as a private candidate instead?** See our companion guide, [*NECO SSCE External (GCE) 2026: Complete Guide*](https://examoven.com/blog/neco-ssce-external-gce-2026-complete-guide). For the syllabus breakdown, subject combinations, grading system, and result verification (which apply to both exams), see [*NECO Syllabus, Subjects, Grading, Verification & More: The Complete Reference Guide*](https://examoven.com/blog/neco-syllabus-grading-verification-guide) for more information.
 
 ---
 
@@ -340,7 +340,7 @@ The official timetable document closes with twelve notes every candidate, parent
 
 Every candidate registers for a **minimum of 8 and maximum of 9 subjects**, always including the three compulsory core subjects — **English Language, General Mathematics, and Civic Education** — plus at least one **Trade/Entrepreneurship subject**, as confirmed both by the registration guidelines and the subject-selection screen in the offline app. Trade subjects span a wide range of technical/vocational options, several of which also appear directly on the 2026 timetable — including Catering Craft, Fashion Design and Garment Making, Beauty and Cosmetology, Computer Hardware and GSM Repairs, Livestock Farming, Marketing, and Technical Drawing, among others.
 
-For the full stream-by-stream subject breakdown (Science, Arts, Commercial), what's inside the syllabus for each subject, the grading system, malpractice/withheld-result rules, and how to verify a certificate — all of which apply the same way to Internal candidates — see our companion guide, [*NECO Syllabus, Subjects, Grading, Verification & More: The Complete Reference Guide*](/blog/neco-syllabus-grading-verification-guide).
+For the full stream-by-stream subject breakdown (Science, Arts, Commercial), what's inside the syllabus for each subject, the grading system, malpractice/withheld-result rules, and how to verify a certificate — all of which apply the same way to Internal candidates — see our companion guide, [NECO Syllabus, Subjects, Grading, Verification & More: The Complete Reference Guide](https://examoven.com/blog/neco-syllabus-grading-verification-guide).
 
 **Practical tip:** subject choice should ideally be finalised by SS2, driven backward from the university course a student intends to pursue — check the specific JAMB/university subject requirements for that course before locking in a combination.
 
@@ -410,7 +410,7 @@ No — BECE is the separate junior secondary exit exam for JSS3 students (mostly
 - [AllAfrica — NECO Releases 2024 SSCE Results, Records 60.6 Percent Pass](https://allafrica.com/stories/202409190639.html)
 
 **Companion guides on this site:**
-- [*NECO SSCE External (GCE) 2026: Complete Guide*](blog/neco-ssce-external-gce-2026-complete-guide.md) — for private candidates
-- [*NECO Syllabus, Subjects, Grading, Verification & More: The Complete Reference Guide*](blog/neco-syllabus-grading-verification-guide.md) — syllabus breakdown, subject combinations, grading, malpractice rules, and e-Verify
+- [*NECO SSCE External (GCE) 2026: Complete Guide*](https://examoven.com/blog/neco-ssce-external-gce-2026-complete-guide) — for private candidates
+- [*NECO Syllabus, Subjects, Grading, Verification & More: The Complete Reference Guide*](https://examoven.com/blog/neco-syllabus-grading-verification-guide) — syllabus breakdown, subject combinations, grading, malpractice rules, and e-Verify
 
 *This guide was compiled from NECO's official 2026 circulars alongside verified secondary reporting. Registration procedures and fees can be updated by NECO at any time — always cross-check against the official portal (neco.gov.ng) or your school before making decisions based on this article.*

@@ -11,7 +11,7 @@ tags: ["NECO", "NECO Syllabus", "Grading System", "Result Verification", "Exam P
 mdFilePath: "/blog/neco-syllabus-grading-verification-guide.md"
 ---
 
-*This guide covers everything common to both NECO exams — the syllabus, subject combinations, grading system, malpractice rules, and result verification. Registering soon and need dates, fees, or a timetable instead? See our companion guides: [*NECO SSCE Internal 2026: Complete Guide* (school candidates)](/blog/neco-ssce-internal-2026-complete-guide) and [*NECO SSCE External (GCE) 2026: Complete Guide* (private candidates)](/blog/neco-ssce-external-gce-2026-complete-guide) for more information.*
+*This guide covers everything common to both NECO exams — the syllabus, subject combinations, grading system, malpractice rules, and result verification. Registering soon and need dates, fees, or a timetable instead? See our companion guides: [NECO SSCE Internal 2026: Complete Guide](https://examoven.com/blog/neco-ssce-internal-2026-complete-guide) and [NECO SSCE External (GCE) 2026: Complete Guide](https://examoven.com/blog/neco-ssce-external-gce-2026-complete-guide) for more information.*
 
 --- 
 
@@ -208,4 +208,4 @@ The core structure is generally stable, but always download the current cycle's 
 - [Guardian Nigeria — NECO unveils portal for verifying results](https://guardian.ng/news/neco-unveils-portal-for-verifying-results/)
 - [schoolcontents.info — WAEC and Other Exam Bodies: Offences and Punishments](https://www.schoolcontents.info/2019/08/waec-and-other-exams-bodies-offences.html)
 
-*For registration dates, fees, and timetables, see our companion guides: **[NECO SSCE Internal 2026: Complete Guide](/blog/neco-ssce-internal-2026-complete-guide)** and **[NECO SSCE External (GCE) 2026: Complete Guide](/blog/neco-ssce-external-gce-2026-complete-guide)**.*
+*For registration dates, fees, and timetables, see our companion guides: **[NECO SSCE Internal 2026: Complete Guide](https://examoven.com/blog/neco-ssce-internal-2026-complete-guide)** and **[NECO SSCE External (GCE) 2026: Complete Guide](https://examoven.com/blog/neco-ssce-external-gce-2026-complete-guide)**.*
