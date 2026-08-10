@@ -143,11 +143,12 @@
   },
   {
     "slug": "exam-simulator-mock-exam-2026",
-    "title": "10 Best Exam Simulator Websites & Mock Exam Apps in 2026 (Free & Paid)",
+    "title": "Best Exam Simulation Tool in 2026: ExamOven vs. 9 Alternatives Compared",
     "type": "blog",
     "date": "2026-05-03",
+    "dateModified": "2026-08-10",
     "author": "ExamOven Team",
-    "excerpt": "A fact-checked guide to the best exam simulator websites and mock exam apps in 2026 — covering free tools, login requirements, and which platform actually fits your exam type.",
+    "excerpt": "Looking for the best exam simulation tool? We tested 10 platforms — free vs. paid, login required or not. ExamOven ranks #1 for no-login, distraction-free practice. See the full comparison.",
     "tags": ["ExamOven", "Exam Simulator", "Privacy", "AI Tools", "Mock Tests", "Exam Prep"],
     "mdFilePath": "/blog/exam-simulator-mock-exam-2026.md"
   },
@@ -228,5 +229,38 @@
     "tags": ["NOCTI", "Biotechnology", "CTE Credential", "Perkins V", "Career and Technical Education"],
     "mdFilePath": "/blog/nocti-biotechnology-4275-guide.md",
     "targetExamId": "nocti-biotechnology-4275"
+  },
+  {
+    "slug": "neco-ssce-internal-2026-complete-guide",
+    "title": "NECO SSCE Internal 2026: Complete Guide — Registration, Fees, Timetable & Results",
+    "type": "blog",
+    "date": "2026-08-09",
+    "dateModified": "2026-08-09",
+    "author": "The ExamOven Team",
+    "excerpt": "Everything school candidates, parents, and teachers need for the 2026 NECO SSCE Internal — registration steps, fees, timetable, and when results are expected.",
+    "tags": ["NECO", "SSCE Internal", "Registration Guide", "Exam Timetable", "School Exams"],
+    "mdFilePath": "/blog/neco-ssce-internal-2026-complete-guide.md"
+  },
+  {
+    "slug": "neco-ssce-external-gce-2026-complete-guide",
+    "title": "NECO SSCE External (GCE) 2026: Complete Guide — Registration, Fees, Subjects & Timetable",
+    "type": "blog",
+    "date": "2026-08-09",
+    "dateModified": "2026-08-09",
+    "author": "The ExamOven Team",
+    "excerpt": "Everything private candidates, parents, and teachers need for the 2026 NECO SSCE External (GCE) — registration steps, fees, the 16-subject list, and the full timetable.",
+    "tags": ["NECO", "NECO GCE", "SSCE External", "Registration Guide", "Exam Timetable"],
+    "mdFilePath": "/blog/neco-ssce-external-gce-2026-complete-guide.md"
+  },
+  {
+    "slug": "neco-syllabus-grading-verification-guide",
+    "title": "NECO Syllabus, Subjects, Grading & Verification: The Complete Reference Guide",
+    "type": "blog",
+    "date": "2026-08-09",
+    "dateModified": "2026-08-09",
+    "author": "The ExamOven Team",
+    "excerpt": "Everything common to both internal and external NECO SSCE exams — the syllabus, subject combinations, grading scale, malpractice rules, and how to verify a result — in one reference guide.",
+    "tags": ["NECO", "NECO Syllabus", "Grading System", "Result Verification", "Exam Prep"],
+    "mdFilePath": "/blog/neco-syllabus-grading-verification-guide.md"
   }
 ]
