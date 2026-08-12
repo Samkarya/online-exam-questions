@@ -2903,5 +2903,150 @@
         }
       ]
     }
+  },
+  "neco-ssce": {
+    "meta": {
+      "examId": "NECO_SSCE",
+      "fullName": "Senior School Certificate Examination (NECO)",
+      "shortName": "NECO SSCE",
+      "category": "Senior Secondary School Certification",
+      "conductingBody": "National Examinations Council (NECO)",
+      "country": "Nigeria",
+      "examType": [
+        "Certification",
+        "Senior Secondary Exit Examination",
+        "Paper-Based (Hybrid CBT in select centres)"
+      ],
+      "description": "NECO's Senior School Certificate Examination (SSCE) is Nigeria's flagship exit qualification for Senior Secondary School (SS3) students, conducted by the National Examinations Council (NECO) as an alternative to WAEC's WASSCE. There are two distinct tracks under the same exam: SSCE Internal, written by current SS3 students and registered entirely through their school in June/July, and SSCE External — commonly called NECO GCE — a separate November sitting for private candidates such as school leavers, repeaters, and anyone looking to upgrade their grades, who register individually online. The two tracks run on different calendars, use different registration portals, and even offer a different range of subjects: SSCE Internal spans roughly 76 subjects across Science, Arts, Commercial, and Trade/Vocational streams, while the 2026 SSCE External sitting is limited to just 16 core academic subjects with no trade options. Both tracks share the same ₦30,000 registration fee structure, the same A1–F9 grading scale, and are moving toward a hybrid exam format that combines traditional Pen-and-Paper Examination (PPE) with an expanding Computer-Based Examination (CBE) component at selected centres. A valid National Identification Number (NIN) and biometric fingerprint verification are compulsory for both tracks, reflecting NECO's tightened anti-malpractice measures, which also include embossed photographs and inscribed NINs on the final certificate. For 2026, SSCE Internal registered over 1.37 million candidates nationwide and ran from 15 June to 23 July, with results expected around the first week of September; SSCE External runs its registration from July through late October, with the examination itself scheduled for 4–21 November 2026. NECO's SSCE should not be confused with BECE — a separate, junior secondary exit exam mostly administered by state Ministries of Education for JSS3 students — nor with WAEC's WASSCE, a comparable but separately-administered senior secondary exam recognised across West Africa. Together, a strong NECO SSCE result, typically at least five credits including English Language and Mathematics, forms one of the two main routes Nigerian students use to qualify for university, polytechnic, and college of education admission.",
+      "officialWebsite": "https://neco.gov.ng",
+      "isOfficial": true,
+      "lastUpdated": "2026-08-12",
+      "seoTitle": "NECO SSCE 2026: Internal & External (GCE) Dates, Fees & Prep",
+      "seoDescription": "Complete NECO SSCE 2026 guide — Internal (Jun–Jul) & External/GCE (Nov) dates, ₦30,000 fees, subjects & grading, plus free mock tests to help you pass.",
+      "relatedBlogTags": [
+        "NECO",
+        "Senior Secondary",
+        "Nigerian Education"
+      ],
+      "heroStats": [
+        { "label": "Tracks", "value": "Internal & External (GCE)" },
+        { "label": "Subjects", "value": "Up to 9 per candidate" },
+        { "label": "Grade Level", "value": "SS3" },
+        { "label": "Pass Mark", "value": "5 Credits (C6+)" }
+      ],
+      "importantDates": [
+        {
+          "event": "SSCE Internal Registration Window",
+          "date": "2026-01-19 to 2026-05-29",
+          "note": "Through schools only. Late registration (26–29 May) attracts a ₦5,000 penalty.",
+          "status": "past"
+        },
+        {
+          "event": "SSCE Internal Exam Window",
+          "date": "2026-06-15 to 2026-07-23",
+          "note": "School candidates only. Dual mode — CBE at select centres, PPE elsewhere.",
+          "status": "past"
+        },
+        {
+          "event": "SSCE Internal Results Expected",
+          "date": "2026-09-01 (estimated)",
+          "note": "NECO's Registrar has targeted the first week of September, or earlier.",
+          "status": "upcoming"
+        },
+        {
+          "event": "SSCE External (GCE) Registration Window",
+          "date": "2026-07-07 to 2026-10-26",
+          "note": "Individual registration via ssceexternal.neco.gov.ng. Late registration (27 Oct–3 Nov) attracts a ₦5,000 penalty.",
+          "status": "ongoing"
+        },
+        {
+          "event": "SSCE External (GCE) Exam Window",
+          "date": "2026-11-04 to 2026-11-21",
+          "note": "Limited to 16 available subjects for the 2026 cycle.",
+          "status": "upcoming"
+        }
+      ],
+      "admitCard": {
+        "info": "Internal candidates receive their Photocard through their school after registration and validation. External (GCE) candidates print their own Photocard directly from the registration cybercafé/portal, with the referee attestation section signed and stamped separately.",
+        "url": "https://neco.gov.ng"
+      },
+      "resultInfo": {
+        "info": "Results for both tracks are checked on the same NECO results portal using your registration number and a purchased result-checking PIN.",
+        "url": "https://results.neco.gov.ng"
+      },
+      "officialLinks": [
+        { "label": "NECO Official Website", "url": "https://neco.gov.ng" },
+        { "label": "SSCE Internal Registration Portal", "url": "https://ssceinternal.neco.gov.ng" },
+        { "label": "SSCE External (GCE) Registration Portal", "url": "https://ssceexternal.neco.gov.ng" },
+        { "label": "NECO Result Checker", "url": "https://results.neco.gov.ng" },
+        { "label": "NECO e-Verify (Certificate Verification)", "url": "https://everify.neco.gov.ng" }
+      ],
+      "keyFacts": [
+        { "label": "Frequency", "value": "Twice yearly — Internal: Jun/Jul; External (GCE): Nov" },
+        { "label": "Mode", "value": "Dual mode — hybrid Computer-Based (CBE) + Pen-and-Paper (PPE)" },
+        { "label": "Level", "value": "SS3 (Senior Secondary School 3)" },
+        { "label": "Grading", "value": "A1 (75–100) through F9 (0–39); minimum credit is C6 (50–54)" },
+        { "label": "Registration Fee", "value": "₦30,000 for both tracks, plus stamp duty/Remita charges" },
+        { "label": "2026 Internal Candidates", "value": "1,378,048 registered nationwide" }
+      ],
+      "eligibility": [
+        "SSCE Internal: must be a bona fide SS3 student in a recognised Nigerian secondary school; registered by the school only, not the individual",
+        "SSCE Internal: cross-school transfer or admission into SS3 shortly before the exam is not permitted",
+        "SSCE External (GCE): open to private candidates — school leavers, repeaters, or anyone upgrading grades; not open to current SS3 school candidates",
+        "SSCE External: registered individually online, with biometric capture completed at a cybercafé/registration point",
+        "Both tracks: a valid National Identification Number (NIN) is compulsory for registration",
+        "Both tracks: biometric fingerprint verification is enforced both at registration and during the exam itself"
+      ],
+      "examPattern": [
+        { "label": "Compulsory Subjects", "value": "English Language and General Mathematics (plus Civic Education for Internal)" },
+        { "label": "Subject Load (Internal)", "value": "Minimum 8, maximum 9 subjects, including at least one Trade subject" },
+        { "label": "Subject Load (External)", "value": "Chosen from a fixed list of 16 subjects for 2026; no trade subjects offered" },
+        { "label": "Paper Format", "value": "Objective (MCQ) + Essay/Theory; select subjects include a Practical or Alternative-to-Practical paper" },
+        { "label": "Delivery Mode", "value": "Hybrid — objective papers increasingly computer-based (CBE) at select centres; essay/practical papers remain pen-and-paper" },
+        { "label": "Negative Marking", "value": "None" },
+        { "label": "Pass Requirement", "value": "Minimum 5 credits (C6 or above), including English and Mathematics, for most tertiary admissions" }
+      ],
+      "syllabusOverview": [
+        { "subject": "English Language", "topics": "Comprehension & summary, lexis & structure, essay writing (formal/informal letters, narrative, descriptive, argumentative), and Oral English (vowels, consonants, stress & intonation)" },
+        { "subject": "Mathematics", "topics": "Number & numeration, algebraic processes, geometry & trigonometry, statistics & probability, and basic calculus" },
+        { "subject": "Civic Education", "topics": "Citizenship & civic responsibility, democracy & rule of law, human rights & national values, drug abuse & social vices — Internal only, not on the 2026 External subject list" },
+        { "subject": "Biology, Chemistry & Physics", "topics": "Core Science electives covering cell biology & genetics, atomic structure & bonding, and mechanics & electricity, each with a practical or alternative-to-practical paper" },
+        { "subject": "Literature-in-English, Government & History", "topics": "Core Arts electives covering prose/drama/poetry analysis, Nigerian constitutional history, and pre/post-colonial African politics" },
+        { "subject": "Economics, Commerce & Accounting", "topics": "Core Commercial electives covering demand/supply & market structures, trade documents, and book-keeping through to final accounts" },
+        { "subject": "Trade & Vocational Subjects", "topics": "Catering Craft, Fashion Design, Computer Hardware & GSM Repairs, and other technical subjects — available for SSCE Internal only, not offered on the 2026 External (GCE) subject list" }
+      ],
+      "relatedExams": ["bece", "wassce"],
+      "faqs": [
+        {
+          "question": "What's the difference between NECO SSCE Internal and External (GCE)?",
+          "answer": "SSCE Internal is for current SS3 students, registered through their school, and runs in June/July. SSCE External (GCE) is for private candidates — school leavers, repeaters, or grade-upgraders — registered individually, and runs in November. They also differ in subject count (Internal offers ~76 subjects, External is limited to 16 for 2026) and registration process."
+        },
+        {
+          "question": "Is NECO SSCE the same as BECE?",
+          "answer": "No. BECE is the junior secondary (JSS3) exit exam, mostly administered by state Ministries of Education. NECO's SSCE is a separate senior secondary (SS3) exam required for university admission, with a different grading scale (BECE: A/B/C/P/F; SSCE: A1–F9)."
+        },
+        {
+          "question": "How many subjects do I need for NECO SSCE?",
+          "answer": "SSCE Internal candidates register for a minimum of 8 and maximum of 9 subjects, including English, Mathematics, Civic Education, and at least one Trade subject. SSCE External candidates choose from a fixed list of 16 subjects with no trade options."
+        },
+        {
+          "question": "What is the minimum grade to get a credit in NECO SSCE?",
+          "answer": "A C6 grade (50–54%) is the minimum credit. Most Nigerian tertiary institutions require at least five credits at C6 or above, including English Language and Mathematics, across a maximum of two sittings."
+        },
+        {
+          "question": "Is NECO SSCE fully computer-based in 2026?",
+          "answer": "No. Both tracks use a hybrid dual-mode format — a Computer-Based Examination (CBE) component at select centres alongside the traditional Pen-and-Paper Examination (PPE), which remains the format for most candidates."
+        },
+        {
+          "question": "How does NECO SSCE differ from WAEC's WASSCE?",
+          "answer": "Both are Nigerian senior secondary exit examinations with equivalent standing for admissions purposes. WASSCE is conducted by WAEC and is regionally recognised across West Africa; NECO SSCE is conducted by NECO and is Nigeria-specific. Many students sit both to strengthen their admission portfolio."
+        },
+        {
+          "question": "When are 2026 NECO SSCE results released?",
+          "answer": "SSCE Internal results are expected around the first week of September 2026, per NECO's Registrar. A specific release date for the November 2026 SSCE External results had not yet been announced as of this writing — check the NECO results portal after the exam concludes."
+        }
+      ]
+    },
+    "path": "configs/neco-ssce.json"
   }
 }
