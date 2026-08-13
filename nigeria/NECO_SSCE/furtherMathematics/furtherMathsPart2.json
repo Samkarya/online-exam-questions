@@ -1,0 +1,2210 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Further Mathematics",
+    "topic": "Sequences and Series",
+    "question_text": "Find the 12th term of the Arithmetic Progression (A.P.): $3, 7, 11, 15, \\dots$",
+    "options": {
+      "a": "43",
+      "b": "47",
+      "c": "51",
+      "d": "55"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The formula for the $n$-th term of an Arithmetic Progression is $T_n = a + (n - 1)d$.\n\nFrom the given sequence:\n- First term, $a = 3$\n- Common difference, $d = 7 - 3 = 4$\n- Number of terms, $n = 12$\n\nSubstituting these values:\n$$T_{12} = 3 + (12 - 1)4$$\n$$T_{12} = 3 + (11 \\times 4)$$\n$$T_{12} = 3 + 44 = 47$$",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Further Mathematics",
+    "topic": "Sequences and Series",
+    "question_text": "The 3rd and 6th terms of a Geometric Progression (G.P.) are 18 and 486, respectively. Find the common ratio of the sequence.",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "6",
+      "d": "9"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The formula for the $n$-th term of a G.P. is $T_n = ar^{n-1}$.\nGiven:\n- $T_3 = ar^2 = 18$  --- (Equation 1)\n- $T_6 = ar^5 = 486$ --- (Equation 2)\n\nDivide Equation 2 by Equation 1 to eliminate $a$:\n$$\\frac{ar^5}{ar^2} = \\frac{486}{18}$$\n$$r^3 = 27$$\nTaking the cube root of both sides:\n$$r = \\sqrt[3]{27} = 3$$",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Further Mathematics",
+    "topic": "Sequences and Series",
+    "question_text": "Find the sum of the first 10 terms of an Arithmetic Progression whose first term is 5 and whose 10th term is 32.",
+    "options": {
+      "a": "160",
+      "b": "175",
+      "c": "185",
+      "d": "370"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "When the first and last terms of an A.P. are known, the sum of the first $n$ terms is given by:\n$$S_n = \\frac{n}{2}(a + l)$$\nWhere:\n- $n = 10$\n- $a = 5$\n- $l = 32$\n\nSubstituting the values:\n$$S_{10} = \\frac{10}{2}(5 + 32)$$\n$$S_{10} = 5(37) = 185$$",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Further Mathematics",
+    "topic": "Sequences and Series",
+    "question_text": "Calculate the sum to infinity of the geometric series: $16 + 4 + 1 + \\frac{1}{4} + \\dots$",
+    "options": {
+      "a": "$\\frac{64}{3}$",
+      "b": "$\\frac{64}{5}$",
+      "c": "21",
+      "d": "24"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The sum to infinity of a G.P. is $S_\\infty = \\frac{a}{1 - r}$, provided $|r| < 1$.\n\nFrom the series:\n- First term, $a = 16$\n- Common ratio, $r = \\frac{4}{16} = \\frac{1}{4}$\n\nSubstituting into the formula:\n$$S_\\infty = \\frac{16}{1 - \\frac{1}{4}}$$\n$$S_\\infty = \\frac{16}{\\frac{3}{4}} = 16 \\times \\frac{4}{3} = \\frac{64}{3}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Further Mathematics",
+    "topic": "Sequences and Series",
+    "question_text": "If $x + 2$, $3x - 1$, and $4x + 2$ are three consecutive terms of an Arithmetic Progression, find the value of $x$.",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "6",
+      "d": "8"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "For three consecutive terms of an A.P., the common difference is constant. Hence:\n$$(3x - 1) - (x + 2) = (4x + 2) - (3x - 1)$$\nAlternatively, use the Arithmetic Mean property $2b = a + c$:\n$$2(3x - 1) = (x + 2) + (4x + 2)$$\n$$6x - 2 = 5x + 4$$\nSubtract $5x$ from both sides and add 2:\n$$x = 6$$",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Further Mathematics",
+    "topic": "Sequences and Series",
+    "question_text": "A recurrence sequence is defined by $U_{n+1} = 2U_n - 3$ for $n \\geq 1$. If the first term $U_1 = 4$, find the 4th term, $U_4$.",
+    "options": {
+      "a": "5",
+      "b": "7",
+      "c": "11",
+      "d": "19"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "We apply the recurrence relation step by step:\n- $U_1 = 4$\n- $U_2 = 2(U_1) - 3 = 2(4) - 3 = 8 - 3 = 5$\n- $U_3 = 2(U_2) - 3 = 2(5) - 3 = 10 - 3 = 7$\n- $U_4 = 2(U_3) - 3 = 2(7) - 3 = 14 - 3 = 11$",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Further Mathematics",
+    "topic": "Sequences and Series",
+    "question_text": "The $n$-th term of a sequence is given by the formula $U_n = (-1)^{n+1} \\left(\\frac{n}{2n - 1}\\right)$. Find the 4th term.",
+    "options": {
+      "a": "$\\frac{4}{7}$",
+      "b": "$-\\frac{4}{7}$",
+      "c": "$\\frac{4}{9}$",
+      "d": "$-\\frac{4}{9}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Substitute $n = 4$ into the formula:\n$$U_4 = (-1)^{4+1} \\left(\\frac{4}{2(4) - 1}\\right)$$\n$$U_4 = (-1)^5 \\left(\\frac{4}{8 - 1}\\right)$$\n$$U_4 = -1 \\left(\\frac{4}{7}\\right) = -\\frac{4}{7}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Further Mathematics",
+    "topic": "Sequences and Series",
+    "question_text": "If the 2nd term of a Geometric Progression is 6 and the 4th term is 54, what is the first term, assuming all terms are positive?",
+    "options": {
+      "a": "$\\frac{1}{2}$",
+      "b": "2",
+      "c": "3",
+      "d": "18"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Given:\n- $T_2 = ar = 6$\n- $T_4 = ar^3 = 54$\n\nDivide $T_4$ by $T_2$:\n$$\\frac{ar^3}{ar} = \\frac{54}{6}$$\n$$r^2 = 9$$\nSince all terms are positive, the common ratio $r = 3$.\nSubstitute $r = 3$ back into the first equation:\n$$a(3) = 6 \\implies a = 2$$\nThe first term is 2.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Further Mathematics",
+    "topic": "Sequences and Series",
+    "question_text": "How many terms of the Arithmetic Progression $20, 18, 16, \\dots$ are needed to give a total sum of $90$?",
+    "options": {
+      "a": "4",
+      "b": "6",
+      "c": "10",
+      "d": "18"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Given the A.P.:\n- $a = 20$\n- $d = 18 - 20 = -2$\n- $S_n = 90$\n\nUsing the sum formula $S_n = \\frac{n}{2}(2a + (n-1)d)$:\n$$90 = \\frac{n}{2}(2(20) + (n-1)(-2))$$\n$$90 = \\frac{n}{2}(40 - 2n + 2)$$\n$$90 = \\frac{n}{2}(42 - 2n)$$\n$$90 = n(21 - n)$$\n$$90 = 21n - n^2$$\n$$n^2 - 21n + 90 = 0$$\nFactorizing the quadratic equation:\n$$(n - 6)(n - 15) = 0$$\n$n = 6$ or $n = 15$. Since 6 is one of the available options, 6 terms will give the required sum.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Further Mathematics",
+    "topic": "Sequences and Series",
+    "question_text": "In a Geometric Progression, the sum of the second and third terms is 12, and the sum of the third and fourth terms is -36. Find the common ratio of the sequence.",
+    "options": {
+      "a": "-3",
+      "b": "-2",
+      "c": "2",
+      "d": "3"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "Let the first term be $a$ and the common ratio be $r$.\nGiven:\n- $T_2 + T_3 = 12 \\implies ar + ar^2 = 12$  --- (Eq. 1)\n- $T_3 + T_4 = -36 \\implies ar^2 + ar^3 = -36$ --- (Eq. 2)\n\nFactorize both equations:\nEq 1: $ar(1 + r) = 12$\nEq 2: $ar^2(1 + r) = -36$\n\nDivide Eq 2 by Eq 1:\n$$\\frac{ar^2(1 + r)}{ar(1 + r)} = \\frac{-36}{12}$$\n$$r = -3$$",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Further Mathematics",
+    "topic": "Sequences and Series",
+    "question_text": "The sum of the first $n$ terms of a linear sequence (A.P.) is given by $S_n = n^2 - 2n$. Find an expression for the $n$-th term, $T_n$.",
+    "options": {
+      "a": "$2n - 1$",
+      "b": "$2n - 3$",
+      "c": "$n - 3$",
+      "d": "$n^2 - 1$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The $n$-th term $T_n$ is the difference between the sum of the first $n$ terms and the sum of the first $(n-1)$ terms:\n$$T_n = S_n - S_{n-1}$$\n$$S_n = n^2 - 2n$$\n$$S_{n-1} = (n-1)^2 - 2(n-1) = (n^2 - 2n + 1) - 2n + 2 = n^2 - 4n + 3$$\nNow, subtract $S_{n-1}$ from $S_n$:\n$$T_n = (n^2 - 2n) - (n^2 - 4n + 3)$$\n$$T_n = n^2 - 2n - n^2 + 4n - 3$$\n$$T_n = 2n - 3$$",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Further Mathematics",
+    "topic": "Sequences and Series",
+    "question_text": "Under what condition is an infinite geometric series $\\sum_{n=1}^{\\infty} ar^{n-1}$ said to be convergent?",
+    "options": {
+      "a": "$|r| > 1$",
+      "b": "$r \\geq 1$",
+      "c": "$|r| < 1$",
+      "d": "$r = 1$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "For an infinite geometric series to converge (i.e., sum to a finite limit), the absolute value of the common ratio $r$ must be less than 1. Mathematically, this is written as $-1 < r < 1$ or $|r| < 1$. \n\nIf $|r| \\geq 1$, the terms do not approach zero, and the sum diverges.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Further Mathematics",
+    "topic": "Sequences and Series",
+    "question_text": "A Geometric Progression has a first term of 5 and a sum to infinity of 20. Find its 3rd term.",
+    "options": {
+      "a": "$\\frac{15}{4}$",
+      "b": "$\\frac{45}{16}$",
+      "c": "$\\frac{9}{16}$",
+      "d": "$\\frac{5}{4}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Given $a = 5$ and $S_\\infty = 20$.\n\nThe sum to infinity is $S_\\infty = \\frac{a}{1 - r}$.\nSubstitute the known values:\n$$20 = \\frac{5}{1 - r}$$\n$$1 - r = \\frac{5}{20} = \\frac{1}{4}$$\n$$r = 1 - \\frac{1}{4} = \\frac{3}{4}$$\n\nTo find the 3rd term ($T_3 = ar^2$):\n$$T_3 = 5 \\left(\\frac{3}{4}\\right)^2$$\n$$T_3 = 5 \\left(\\frac{9}{16}\\right) = \\frac{45}{16}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Further Mathematics",
+    "topic": "Sequences and Series",
+    "question_text": "A clerk saves N$500$ in the first month, N$550$ in the second month, N$600$ in the third month, and so on, following an Arithmetic Progression. Calculate the total amount saved at the end of 2 years.",
+    "options": {
+      "a": "N1,050",
+      "b": "N9,300",
+      "c": "N12,000",
+      "d": "N25,800"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "This forms an A.P. with:\n- First term, $a = 500$\n- Common difference, $d = 50$\n- Number of terms, $n = 24$ (since 2 years = 24 months)\n\nThe sum is given by $S_n = \\frac{n}{2}(2a + (n-1)d)$:\n$$S_{24} = \\frac{24}{2} (2(500) + (24 - 1)(50))$$\n$$S_{24} = 12 (1000 + 23(50))$$\n$$S_{24} = 12 (1000 + 1150)$$\n$$S_{24} = 12 (2150) = 25800$$\n\nTotal saved is N25,800.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Further Mathematics",
+    "topic": "Sequences and Series",
+    "question_text": "Find the sum of the first 10 terms of the sequence: $\\log_2 3, \\log_2 9, \\log_2 27, \\dots$",
+    "options": {
+      "a": "$10 \\log_2 3$",
+      "b": "$45 \\log_2 3$",
+      "c": "$55 \\log_2 3$",
+      "d": "$55 \\log_3 2$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Simplify the sequence using the power rule for logarithms ($\\log x^n = n \\log x$):\n- $T_1 = \\log_2 3$\n- $T_2 = \\log_2 9 = \\log_2 (3^2) = 2 \\log_2 3$\n- $T_3 = \\log_2 27 = \\log_2 (3^3) = 3 \\log_2 3$\n\nThis forms an A.P. where:\n- First term $a = \\log_2 3$\n- Common difference $d = \\log_2 3$\n- Number of terms $n = 10$\n\nSum of an A.P.:\n$$S_n = \\frac{n}{2}(2a + (n-1)d)$$\n$$S_{10} = \\frac{10}{2}(2\\log_2 3 + 9\\log_2 3)$$\n$$S_{10} = 5(11\\log_2 3) = 55 \\log_2 3$$",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Further Mathematics",
+    "topic": "Matrices and Linear Transformation",
+    "question_text": "Given the matrices $P = \\begin{pmatrix} 2 & -1 \\\\\\\\ 3 & 4 \\end{pmatrix}$ and $Q = \\begin{pmatrix} 1 & 0 \\\\\\\\ -2 & 3 \\end{pmatrix}$, evaluate the product $PQ$.",
+    "options": {
+      "a": "$\\begin{pmatrix} 4 & -3 \\\\\\\\ -5 & 12 \\end{pmatrix}$",
+      "b": "$\\begin{pmatrix} 4 & 3 \\\\\\\\ -5 & 12 \\end{pmatrix}$",
+      "c": "$\\begin{pmatrix} 0 & -3 \\\\\\\\ 11 & 12 \\end{pmatrix}$",
+      "d": "$\\begin{pmatrix} -4 & -3 \\\\\\\\ 5 & -12 \\end{pmatrix}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "To multiply two $2 \\times 2$ matrices $P$ and $Q$, multiply the rows of $P$ by the columns of $Q$:\n\n$$PQ = \\begin{pmatrix} 2 & -1 \\\\\\\\ 3 & 4 \\end{pmatrix} \\begin{pmatrix} 1 & 0 \\\\\\\\ -2 & 3 \\end{pmatrix}$$\n\nCalculating each element:\n- Top-left: $(2 \\times 1) + (-1 \\times -2) = 2 + 2 = 4$\n- Top-right: $(2 \\times 0) + (-1 \\times 3) = 0 - 3 = -3$\n- Bottom-left: $(3 \\times 1) + (4 \\times -2) = 3 - 8 = -5$\n- Bottom-right: $(3 \\times 0) + (4 \\times 3) = 0 + 12 = 12$\n\nHence, $PQ = \\begin{pmatrix} 4 & -3 \\\\\\\\ -5 & 12 \\end{pmatrix}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Further Mathematics",
+    "topic": "Matrices and Linear Transformation",
+    "question_text": "If $A = \\begin{pmatrix} 3 & 1 \\\\\\\\ 4 & -2 \\end{pmatrix}$, find $A + A^T$, where $A^T$ is the transpose of matrix $A$.",
+    "options": {
+      "a": "$\\begin{pmatrix} 6 & 5 \\\\\\\\ 5 & -4 \\end{pmatrix}$",
+      "b": "$\\begin{pmatrix} 6 & 2 \\\\\\\\ 8 & -4 \\end{pmatrix}$",
+      "c": "$\\begin{pmatrix} 9 & 4 \\\\\\\\ 4 & 4 \\end{pmatrix}$",
+      "d": "$\\begin{pmatrix} 0 & -3 \\\\\\\\ 3 & 0 \\end{pmatrix}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The transpose of a matrix is found by swapping its rows and columns. For $A = \\begin{pmatrix} 3 & 1 \\\\\\\\ 4 & -2 \\end{pmatrix}$, the transpose is $A^T = \\begin{pmatrix} 3 & 4 \\\\\\\\ 1 & -2 \\end{pmatrix}$.\n\nAdding $A$ and $A^T$:\n$$A + A^T = \\begin{pmatrix} 3 & 1 \\\\\\\\ 4 & -2 \\end{pmatrix} + \\begin{pmatrix} 3 & 4 \\\\\\\\ 1 & -2 \\end{pmatrix}$$\n$$= \\begin{pmatrix} 3+3 & 1+4 \\\\\\\\ 4+1 & -2+(-2) \\end{pmatrix} = \\begin{pmatrix} 6 & 5 \\\\\\\\ 5 & -4 \\end{pmatrix}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Further Mathematics",
+    "topic": "Matrices and Linear Transformation",
+    "question_text": "The matrix $M = \\begin{pmatrix} x-2 & 3 \\\\\\\\ 4 & x+2 \\end{pmatrix}$ is a singular matrix. Find the positive value of $x$.",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "8",
+      "d": "16"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A matrix is singular if its determinant is zero. \n\nThe determinant of $M$ is:\n$$|M| = (x - 2)(x + 2) - (3)(4)$$\nUsing the difference of two squares:\n$$|M| = (x^2 - 4) - 12 = x^2 - 16$$\n\nSet the determinant to zero:\n$$x^2 - 16 = 0$$\n$$x^2 = 16 \\implies x = \\pm 4$$\n\nSince the question asks for the positive value, $x = 4$.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Further Mathematics",
+    "topic": "Matrices and Linear Transformation",
+    "question_text": "Evaluate the determinant of the $3 \\times 3$ matrix $D = \\begin{pmatrix} 2 & 1 & 0 \\\\\\\\ -1 & 3 & 2 \\\\\\\\ 4 & 0 & 1 \\end{pmatrix}$.",
+    "options": {
+      "a": "5",
+      "b": "9",
+      "c": "15",
+      "d": "22"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Expand the determinant along the first row ($+\\ -\\ +$):\n$$|D| = 2 \\begin{vmatrix} 3 & 2 \\\\\\\\ 0 & 1 \\end{vmatrix} - 1 \\begin{vmatrix} -1 & 2 \\\\\\\\ 4 & 1 \\end{vmatrix} + 0 \\begin{vmatrix} -1 & 3 \\\\\\\\ 4 & 0 \\end{vmatrix}$$\n\nCalculate the $2 \\times 2$ determinants:\n$$|D| = 2((3)(1) - (2)(0)) - 1((-1)(1) - (2)(4)) + 0$$\n$$|D| = 2(3 - 0) - 1(-1 - 8)$$\n$$|D| = 2(3) - 1(-9)$$\n$$|D| = 6 + 9 = 15$$\n\nThe determinant is 15.",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Further Mathematics",
+    "topic": "Matrices and Linear Transformation",
+    "question_text": "Find the inverse of the matrix $N = \\begin{pmatrix} 5 & 2 \\\\\\\\ 7 & 3 \\end{pmatrix}$.",
+    "options": {
+      "a": "$\\begin{pmatrix} 3 & -2 \\\\\\\\ -7 & 5 \\end{pmatrix}$",
+      "b": "$\\begin{pmatrix} -3 & 2 \\\\\\\\ 7 & -5 \\end{pmatrix}$",
+      "c": "$\\begin{pmatrix} 5 & -7 \\\\\\\\ -2 & 3 \\end{pmatrix}$",
+      "d": "$\\begin{pmatrix} -5 & 2 \\\\\\\\ 7 & -3 \\end{pmatrix}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "For a $2 \\times 2$ matrix $A = \\begin{pmatrix} a & b \\\\\\\\ c & d \\end{pmatrix}$, the inverse is given by $\\frac{1}{|A|} \\begin{pmatrix} d & -b \\\\\\\\ -c & a \\end{pmatrix}$.\n\nFirst, find the determinant $|N|$:\n$$|N| = (5)(3) - (2)(7) = 15 - 14 = 1$$\n\nNow, apply the inverse formula (swap diagonal elements, negate the off-diagonal elements):\n$$N^{-1} = \\frac{1}{1} \\begin{pmatrix} 3 & -2 \\\\\\\\ -7 & 5 \\end{pmatrix} = \\begin{pmatrix} 3 & -2 \\\\\\\\ -7 & 5 \\end{pmatrix}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Further Mathematics",
+    "topic": "Matrices and Linear Transformation",
+    "question_text": "Solve the matrix equation for $x$ and $y$:\n$\\begin{pmatrix} 2 & -1 \\\\\\\\ 3 & 1 \\end{pmatrix} \\begin{pmatrix} x \\\\\\\\ y \\end{pmatrix} = \\begin{pmatrix} 4 \\\\\\\\ 11 \\end{pmatrix}$",
+    "options": {
+      "a": "$x = 2, y = 3$",
+      "b": "$x = 3, y = 2$",
+      "c": "$x = 1, y = -2$",
+      "d": "$x = 5, y = 6$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Let $A = \\begin{pmatrix} 2 & -1 \\\\\\\\ 3 & 1 \\end{pmatrix}$, $X = \\begin{pmatrix} x \\\\\\\\ y \\end{pmatrix}$, and $B = \\begin{pmatrix} 4 \\\\\\\\ 11 \\end{pmatrix}$. \nWe have $AX = B$. Multiply both sides by $A^{-1}$ to get $X = A^{-1}B$.\n\n1. Find $|A|$: $(2)(1) - (-1)(3) = 2 + 3 = 5$.\n2. Find $A^{-1}$: $\\frac{1}{5} \\begin{pmatrix} 1 & 1 \\\\\\\\ -3 & 2 \\end{pmatrix}$.\n\nNow compute $X = A^{-1}B$:\n$$X = \\frac{1}{5} \\begin{pmatrix} 1 & 1 \\\\\\\\ -3 & 2 \\end{pmatrix} \\begin{pmatrix} 4 \\\\\\\\ 11 \\end{pmatrix}$$\n$$X = \\frac{1}{5} \\begin{pmatrix} (1)(4) + (1)(11) \\\\\\\\ (-3)(4) + (2)(11) \\end{pmatrix}$$\n$$X = \\frac{1}{5} \\begin{pmatrix} 15 \\\\\\\\ 10 \\end{pmatrix} = \\begin{pmatrix} 3 \\\\\\\\ 2 \\end{pmatrix}$$\n\nThus, $x = 3$ and $y = 2$.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Further Mathematics",
+    "topic": "Matrices and Linear Transformation",
+    "question_text": "If $A$ and $B$ are $2 \\times 2$ invertible matrices, which of the following algebraic properties is **always** true?",
+    "options": {
+      "a": "$(AB)^{-1} = A^{-1}B^{-1}$",
+      "b": "$(AB)^{-1} = B^{-1}A^{-1}$",
+      "c": "$(A + B)^{-1} = A^{-1} + B^{-1}$",
+      "d": "$AB = BA$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Matrix multiplication is generally non-commutative ($AB \\neq BA$), which makes option D incorrect. \nOption C is algebraically false (just as $\\frac{1}{x+y} \\neq \\frac{1}{x} + \\frac{1}{y}$).\n\nThe reversal law for the inverse of a product states that taking the inverse of a matrix product reverses the order of the original matrices:\n$$(AB)^{-1} = B^{-1}A^{-1}$$\nHence, option B is correct.",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "Further Mathematics",
+    "topic": "Matrices and Linear Transformation",
+    "question_text": "A linear transformation is defined by the matrix $T = \\begin{pmatrix} 0 & -1 \\\\\\\\ 1 & 0 \\end{pmatrix}$. Find the image of the point $(-3, 4)$ under this transformation.",
+    "options": {
+      "a": "$(-4, -3)$",
+      "b": "$(3, 4)$",
+      "c": "$(4, 3)$",
+      "d": "$(-3, -4)$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "To find the image of a point under a transformation, we multiply the transformation matrix by the position vector of the point:\n\n$$T \\begin{pmatrix} x \\\\\\\\ y \\end{pmatrix} = \\begin{pmatrix} 0 & -1 \\\\\\\\ 1 & 0 \\end{pmatrix} \\begin{pmatrix} -3 \\\\\\\\ 4 \\end{pmatrix}$$\n\nPerform matrix multiplication:\n- Top row: $(0 \\times -3) + (-1 \\times 4) = 0 - 4 = -4$\n- Bottom row: $(1 \\times -3) + (0 \\times 4) = -3 + 0 = -3$\n\nHence, the image is represented by the column vector $\\begin{pmatrix} -4 \\\\\\\\ -3 \\end{pmatrix}$, which corresponds to the point $(-4, -3)$.\n*(Note: This matrix represents an anti-clockwise rotation of $90^\\circ$ about the origin).* ",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "Further Mathematics",
+    "topic": "Matrices and Linear Transformation",
+    "question_text": "Under a linear transformation $L$, the standard unit base vectors $\\mathbf{i} = \\begin{pmatrix} 1 \\\\\\\\ 0 \\end{pmatrix}$ and $\\mathbf{j} = \\begin{pmatrix} 0 \\\\\\\\ 1 \\end{pmatrix}$ are mapped to $\\begin{pmatrix} 2 \\\\\\\\ 5 \\end{pmatrix}$ and $\\begin{pmatrix} -1 \\\\\\\\ 3 \\end{pmatrix}$ respectively. Find the matrix of the transformation $L$.",
+    "options": {
+      "a": "$\\begin{pmatrix} 2 & 5 \\\\\\\\ -1 & 3 \\end{pmatrix}$",
+      "b": "$\\begin{pmatrix} -1 & 2 \\\\\\\\ 3 & 5 \\end{pmatrix}$",
+      "c": "$\\begin{pmatrix} 2 & -1 \\\\\\\\ 5 & 3 \\end{pmatrix}$",
+      "d": "$\\begin{pmatrix} 5 & 3 \\\\\\\\ 2 & -1 \\end{pmatrix}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The columns of a standard $2 \\times 2$ transformation matrix directly represent the images of the standard unit basis vectors $\\mathbf{i}$ and $\\mathbf{j}$.\n\nIf $\\mathbf{i} = \\begin{pmatrix} 1 \\\\\\\\ 0 \\end{pmatrix} \\rightarrow \\begin{pmatrix} a \\\\\\\\ c \\end{pmatrix}$ and $\\mathbf{j} = \\begin{pmatrix} 0 \\\\\\\\ 1 \\end{pmatrix} \\rightarrow \\begin{pmatrix} b \\\\\\\\ d \\end{pmatrix}$, then the transformation matrix is $\\begin{pmatrix} a & b \\\\\\\\ c & d \\end{pmatrix}$.\n\nSince $\\mathbf{i} \\rightarrow \\begin{pmatrix} 2 \\\\\\\\ 5 \\end{pmatrix}$ and $\\mathbf{j} \\rightarrow \\begin{pmatrix} -1 \\\\\\\\ 3 \\end{pmatrix}$, the matrix is simply formed by placing these as the first and second columns:\n$$L = \\begin{pmatrix} 2 & -1 \\\\\\\\ 5 & 3 \\end{pmatrix}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "Further Mathematics",
+    "topic": "Matrices and Linear Transformation",
+    "question_text": "A linear transformation is given by the matrix $T = \\begin{pmatrix} 3 & -1 \\\\\\\\ 2 & 0 \\end{pmatrix}$. Which of the following is an invariant line passing through the origin under this transformation?",
+    "options": {
+      "a": "$y = x$",
+      "b": "$y = 2x$",
+      "c": "$y = -x$",
+      "d": "$y = \\frac{1}{2}x$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "A line of invariant points requires every point $(x, y)$ on the line to map to itself. That is, $T \\begin{pmatrix} x \\\\\\\\ y \\end{pmatrix} = \\begin{pmatrix} x \\\\\\\\ y \\end{pmatrix}$.\n\nSet up the matrix equation:\n$$\\begin{pmatrix} 3 & -1 \\\\\\\\ 2 & 0 \\end{pmatrix} \\begin{pmatrix} x \\\\\\\\ y \\end{pmatrix} = \\begin{pmatrix} x \\\\\\\\ y \\end{pmatrix}$$\n\nThis gives two simultaneous equations:\n1) $3x - y = x$\n2) $2x + 0 = y$\n\nSimplify the first equation:\n$$3x - x = y \\implies 2x = y$$\n\nThe second equation already states $y = 2x$. \nThus, the set of all invariant points forms the line $y = 2x$.",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "Further Mathematics",
+    "topic": "Matrices and Linear Transformation",
+    "question_text": "A triangle with an area of $12 \\text{ cm}^2$ is mapped onto a new shape by the transformation matrix $\\begin{pmatrix} 4 & 2 \\\\\\\\ 1 & 3 \\end{pmatrix}$. What is the area of the image?",
+    "options": {
+      "a": "$120 \\text{ cm}^2$",
+      "b": "$60 \\text{ cm}^2$",
+      "c": "$12 \\text{ cm}^2$",
+      "d": "$1.2 \\text{ cm}^2$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "For any 2D linear transformation, the absolute value of the determinant of the transformation matrix gives the **Area Scale Factor (ASF)**.\n\nLet $M = \\begin{pmatrix} 4 & 2 \\\\\\\\ 1 & 3 \\end{pmatrix}$.\n$$\\text{Det}(M) = (4 \\times 3) - (2 \\times 1) = 12 - 2 = 10$$\n\n$$\\text{Area of image} = |\\text{Det}(M)| \\times \\text{Area of object}$$\n$$\\text{Area of image} = 10 \\times 12 \\text{ cm}^2 = 120 \\text{ cm}^2$$",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "Further Mathematics",
+    "topic": "Matrices and Linear Transformation",
+    "question_text": "The image of a point $P(x, y)$ under the linear transformation matrix $T = \\begin{pmatrix} 2 & 1 \\\\\\\\ 5 & 3 \\end{pmatrix}$ is $P'(1, -2)$. Find the original coordinates of point $P$.",
+    "options": {
+      "a": "$(5, -9)$",
+      "b": "$(0, -1)$",
+      "c": "$(9, -5)$",
+      "d": "$(-1, -1)$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "We know $T(P) = P'$. To find the original point $P$, we apply the inverse transformation matrix: $P = T^{-1}(P')$.\n\nFirst, find $T^{-1}$ for $T = \\begin{pmatrix} 2 & 1 \\\\\\\\ 5 & 3 \\end{pmatrix}$:\n- Determinant $|T| = (2)(3) - (1)(5) = 6 - 5 = 1$\n- $T^{-1} = \\frac{1}{1}\\begin{pmatrix} 3 & -1 \\\\\\\\ -5 & 2 \\end{pmatrix} = \\begin{pmatrix} 3 & -1 \\\\\\\\ -5 & 2 \\end{pmatrix}$\n\nNow multiply $T^{-1}$ by the image vector $P'$:\n$$P = \\begin{pmatrix} 3 & -1 \\\\\\\\ -5 & 2 \\end{pmatrix} \\begin{pmatrix} 1 \\\\\\\\ -2 \\end{pmatrix}$$\n\nRow 1: $(3 \\times 1) + (-1 \\times -2) = 3 + 2 = 5$\nRow 2: $(-5 \\times 1) + (2 \\times -2) = -5 - 4 = -9$\n\nThe original coordinates are $(5, -9)$.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "Further Mathematics",
+    "topic": "Trigonometry",
+    "question_text": "If $\\sin \\theta = \\frac{3}{5}$ and $\\theta$ is an obtuse angle, find the value of $\\tan \\theta$.",
+    "options": {
+      "a": "$\\frac{3}{4}$",
+      "b": "$-\\frac{3}{4}$",
+      "c": "$\\frac{4}{3}$",
+      "d": "$-\\frac{4}{3}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Since $\\theta$ is an obtuse angle ($90^\\circ < \\theta < 180^\\circ$), it lies in the second quadrant where sine is positive, but cosine and tangent are negative.\n\nFrom the Pythagorean identity:\n$$\\sin^2 \\theta + \\cos^2 \\theta = 1$$\n$$\\left(\\frac{3}{5}\\right)^2 + \\cos^2 \\theta = 1$$\n$$\\frac{9}{25} + \\cos^2 \\theta = 1 \\implies \\cos^2 \\theta = \\frac{16}{25}$$\nTaking the negative square root (second quadrant):\n$$\\cos \\theta = -\\frac{4}{5}$$\n\nNow, calculate $\\tan \\theta$:\n$$\\tan \\theta = \\frac{\\sin \\theta}{\\cos \\theta} = \\frac{3/5}{-4/5} = -\\frac{3}{4}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "Further Mathematics",
+    "topic": "Trigonometry",
+    "question_text": "In triangle $ABC$, $a = 5 \\text{ cm}$, $b = 7 \\text{ cm}$, and $\\angle A = 30^\\circ$. Find the value of $\\sin B$.",
+    "options": {
+      "a": "$0.35$",
+      "b": "$0.50$",
+      "c": "$0.70$",
+      "d": "$1.40$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Using the Sine Rule:\n$$\\frac{a}{\\sin A} = \\frac{b}{\\sin B}$$\n\nSubstitute the given values:\n$$\\frac{5}{\\sin 30^\\circ} = \\frac{7}{\\sin B}$$\n\nSince $\\sin 30^\\circ = 0.5$:\n$$\\frac{5}{0.5} = \\frac{7}{\\sin B}$$\n$$10 = \\frac{7}{\\sin B}$$\n$$\\sin B = \\frac{7}{10} = 0.70$$",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "Further Mathematics",
+    "topic": "Trigonometry",
+    "question_text": "The sides of a triangle are $3 \\text{ cm}$, $5 \\text{ cm}$, and $7 \\text{ cm}$. Find the measure of its largest angle.",
+    "options": {
+      "a": "$60^\\circ$",
+      "b": "$90^\\circ$",
+      "c": "$120^\\circ$",
+      "d": "$150^\\circ$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The largest angle of a triangle is opposite its longest side. Let the sides be $a = 3$, $b = 5$, and $c = 7$. We want to find $\\angle C$.\n\nUsing the Cosine Rule:\n$$c^2 = a^2 + b^2 - 2ab \\cos C$$\n$$7^2 = 3^2 + 5^2 - 2(3)(5) \\cos C$$\n$$49 = 9 + 25 - 30 \\cos C$$\n$$49 = 34 - 30 \\cos C$$\n$$15 = -30 \\cos C$$\n$$\\cos C = -\\frac{15}{30} = -0.5$$\n\nThe angle whose cosine is $-0.5$ in a triangle ($0^\\circ < C < 180^\\circ$) is $120^\\circ$.",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "Further Mathematics",
+    "topic": "Trigonometry",
+    "question_text": "Simplify the trigonometric expression: $\\frac{1 - \\sin^2 \\theta}{1 - \\cos^2 \\theta}$.",
+    "options": {
+      "a": "$\\tan^2 \\theta$",
+      "b": "$\\sec^2 \\theta$",
+      "c": "$\\csc^2 \\theta$",
+      "d": "$\\cot^2 \\theta$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "From the basic Pythagorean identity $\\sin^2 \\theta + \\cos^2 \\theta = 1$, we can deduce:\n- $1 - \\sin^2 \\theta = \\cos^2 \\theta$\n- $1 - \\cos^2 \\theta = \\sin^2 \\theta$\n\nSubstitute these into the expression:\n$$\\frac{1 - \\sin^2 \\theta}{1 - \\cos^2 \\theta} = \\frac{\\cos^2 \\theta}{\\sin^2 \\theta}$$\n\nSince $\\frac{\\cos \\theta}{\\sin \\theta} = \\cot \\theta$, we have:\n$$\\left(\\frac{\\cos \\theta}{\\sin \\theta}\\right)^2 = \\cot^2 \\theta$$",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "Further Mathematics",
+    "topic": "Trigonometry",
+    "question_text": "Find the exact value of $\\cos 75^\\circ$.",
+    "options": {
+      "a": "$\\frac{\\sqrt{6} + \\sqrt{2}}{4}$",
+      "b": "$\\frac{\\sqrt{6} - \\sqrt{2}}{4}$",
+      "c": "$\\frac{\\sqrt{2} - \\sqrt{6}}{4}$",
+      "d": "$\\frac{1}{4}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "We can express $75^\\circ$ as the sum of two standard angles: $45^\\circ + 30^\\circ$.\n\nUsing the compound angle formula for cosine:\n$$\\cos(A + B) = \\cos A \\cos B - \\sin A \\sin B$$\n$$\\cos(45^\\circ + 30^\\circ) = \\cos 45^\\circ \\cos 30^\\circ - \\sin 45^\\circ \\sin 30^\\circ$$\n\nSubstitute the exact trigonometric ratios:\n$$\\cos 75^\\circ = \\left(\\frac{\\sqrt{2}}{2}\\right)\\left(\\frac{\\sqrt{3}}{2}\\right) - \\left(\\frac{\\sqrt{2}}{2}\\right)\\left(\\frac{1}{2}\\right)$$\n$$\\cos 75^\\circ = \\frac{\\sqrt{6}}{4} - \\frac{\\sqrt{2}}{4} = \\frac{\\sqrt{6} - \\sqrt{2}}{4}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "Further Mathematics",
+    "topic": "Trigonometry",
+    "question_text": "If $\\tan A = \\frac{4}{3}$ and $A$ is an acute angle, evaluate $\\sin 2A$.",
+    "options": {
+      "a": "$\\frac{12}{25}$",
+      "b": "$\\frac{24}{25}$",
+      "c": "$\\frac{7}{25}$",
+      "d": "$\\frac{4}{5}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "We use the double-angle formula in terms of tangent:\n$$\\sin 2A = \\frac{2\\tan A}{1 + \\tan^2 A}$$\n\nSubstitute $\\tan A = \\frac{4}{3}$:\n$$\\sin 2A = \\frac{2\\left(\\frac{4}{3}\\right)}{1 + \\left(\\frac{4}{3}\\right)^2}$$\n$$\\sin 2A = \\frac{8/3}{1 + 16/9} = \\frac{8/3}{25/9}$$\n$$\\sin 2A = \\frac{8}{3} \\times \\frac{9}{25} = \\frac{24}{25}$$\n*(Alternatively, draw a 3-4-5 triangle: $\\sin A = \\frac{4}{5}, \\cos A = \\frac{3}{5}$. Then $\\sin 2A = 2\\sin A \\cos A = 2(\\frac{4}{5})(\\frac{3}{5}) = \\frac{24}{25}$.)*",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "Further Mathematics",
+    "topic": "Trigonometry",
+    "question_text": "Which of the following is identically equivalent to the expression $\\frac{1 - \\cos 2x}{\\sin 2x}$?",
+    "options": {
+      "a": "$\\sin x$",
+      "b": "$\\cos x$",
+      "c": "$\\tan x$",
+      "d": "$\\cot x$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Use the double angle formulae:\n1. $\\cos 2x = 1 - 2\\sin^2 x \\implies 1 - \\cos 2x = 2\\sin^2 x$\n2. $\\sin 2x = 2\\sin x \\cos x$\n\nSubstitute these into the numerator and denominator:\n$$\\frac{1 - \\cos 2x}{\\sin 2x} = \\frac{2\\sin^2 x}{2\\sin x \\cos x}$$\n\nCancel out $2\\sin x$ from both top and bottom (assuming $\\sin x \\neq 0$):\n$$\\frac{\\sin x}{\\cos x} = \\tan x$$",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "Further Mathematics",
+    "topic": "Trigonometry",
+    "question_text": "Simplify the expression: $\\cos(A + B)\\cos(A - B) - \\sin(A + B)\\sin(A - B)$.",
+    "options": {
+      "a": "$\\cos 2B$",
+      "b": "$\\cos 2A$",
+      "c": "$\\sin 2A$",
+      "d": "$1$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "This expression takes the pattern of the cosine compound angle formula: \n$$\\cos X \\cos Y - \\sin X \\sin Y = \\cos(X + Y)$$\n\nLet $X = (A + B)$ and $Y = (A - B)$. Applying the identity:\n$$\\cos((A + B) + (A - B))$$\nSimplify the argument inside the cosine:\n$$A + B + A - B = 2A$$\n\nThus, the expression simplifies exactly to $\\cos 2A$.",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "Further Mathematics",
+    "topic": "Trigonometry",
+    "question_text": "Express $3\\sin \\theta + 4\\cos \\theta$ in the form $R\\sin(\\theta + \\alpha)$, where $R > 0$ and $0^\\circ < \\alpha < 90^\\circ$. What is the value of $R$?",
+    "options": {
+      "a": "$1$",
+      "b": "$5$",
+      "c": "$7$",
+      "d": "$25$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Expand the required form using the compound angle identity for sine:\n$$R\\sin(\\theta + \\alpha) = R(\\sin \\theta \\cos \\alpha + \\cos \\theta \\sin \\alpha)$$\n$$= (R\\cos \\alpha)\\sin \\theta + (R\\sin \\alpha)\\cos \\theta$$\n\nBy comparing coefficients with $3\\sin \\theta + 4\\cos \\theta$, we get:\n1. $R\\cos \\alpha = 3$\n2. $R\\sin \\alpha = 4$\n\nTo find $R$, square both equations and add them:\n$$(R\\cos \\alpha)^2 + (R\\sin \\alpha)^2 = 3^2 + 4^2$$\n$$R^2(\\cos^2 \\alpha + \\sin^2 \\alpha) = 9 + 16$$\n$$R^2(1) = 25$$\nSince $R > 0$, taking the square root gives $R = 5$.",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "Further Mathematics",
+    "topic": "Trigonometry",
+    "question_text": "Solve the equation $\\sqrt{3} \\tan x = 1$ for $0^\\circ \\le x \\le 360^\\circ$.",
+    "options": {
+      "a": "$\\{30^\\circ, 150^\\circ\\}$",
+      "b": "$\\{30^\\circ, 210^\\circ\\}$",
+      "c": "$\\{60^\\circ, 240^\\circ\\}$",
+      "d": "$\\{150^\\circ, 330^\\circ\\}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Isolate $\\tan x$:\n$$\\tan x = \\frac{1}{\\sqrt{3}}$$\n\nThe principal acute angle whose tangent is $\\frac{1}{\\sqrt{3}}$ is $30^\\circ$. \n\nTangent is positive in the **first** and **third** quadrants.\n- First quadrant angle: $x = 30^\\circ$\n- Third quadrant angle: $x = 180^\\circ + 30^\\circ = 210^\\circ$\n\nTherefore, the solution set is $\\{30^\\circ, 210^\\circ\\}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "Further Mathematics",
+    "topic": "Trigonometry",
+    "question_text": "Find the value of $\\theta$ where $0^\\circ \\leq \\theta \\leq 90^\\circ$, given that $2\\sin^2 \\theta = 1 + \\cos \\theta$.",
+    "options": {
+      "a": "$30^\\circ$",
+      "b": "$45^\\circ$",
+      "c": "$60^\\circ$",
+      "d": "$90^\\circ$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Convert the equation into a single trigonometric ratio by using $\\sin^2 \\theta = 1 - \\cos^2 \\theta$:\n$$2(1 - \\cos^2 \\theta) = 1 + \\cos \\theta$$\n$$2 - 2\\cos^2 \\theta = 1 + \\cos \\theta$$\nRearrange to form a quadratic equation in terms of $\\cos \\theta$:\n$$2\\cos^2 \\theta + \\cos \\theta - 1 = 0$$\n\nFactorize the quadratic:\n$$(2\\cos \\theta - 1)(\\cos \\theta + 1) = 0$$\nThis gives two possible solutions for $\\cos \\theta$:\n$$\\cos \\theta = \\frac{1}{2} \\quad \\text{or} \\quad \\cos \\theta = -1$$\n\nSince $0^\\circ \\leq \\theta \\leq 90^\\circ$ (the first quadrant where cosine is positive), $\\cos \\theta = -1$ is rejected. \nHence, $\\cos \\theta = \\frac{1}{2}$, which means $\\theta = 60^\\circ$.",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "Further Mathematics",
+    "topic": "Trigonometry",
+    "question_text": "What is the period of the function $y = 3\\cos\\left(\\frac{x}{2}\\right) - 1$?",
+    "options": {
+      "a": "$180^\\circ$",
+      "b": "$360^\\circ$",
+      "c": "$720^\\circ$",
+      "d": "$1440^\\circ$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "For a standard trigonometric function of the form $y = a\\cos(bx) + c$, the fundamental period is given by $\\frac{360^\\circ}{|b|}$.\n\nIn the given equation, $y = 3\\cos\\left(\\frac{1}{2}x\\right) - 1$, the coefficient of $x$ is $b = \\frac{1}{2}$.\n\nCalculate the period:\n$$\\text{Period} = \\frac{360^\\circ}{\\frac{1}{2}} = 360^\\circ \\times 2 = 720^\\circ$$",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "Further Mathematics",
+    "topic": "Trigonometry",
+    "question_text": "Find the values of $x$ in the interval $0^\\circ \\le x \\le 360^\\circ$ for which $\\sin x = -\\cos x$.",
+    "options": {
+      "a": "$\\{135^\\circ, 225^\\circ\\}$",
+      "b": "$\\{45^\\circ, 225^\\circ\\}$",
+      "c": "$\\{135^\\circ, 315^\\circ\\}$",
+      "d": "$\\{45^\\circ, 315^\\circ\\}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Divide both sides of the equation by $\\cos x$ (noting that $\\cos x \\neq 0$ for these solutions):\n$$\\frac{\\sin x}{\\cos x} = -1$$\n$$\\tan x = -1$$\n\nThe reference (acute) angle is $45^\\circ$ since $\\tan 45^\\circ = 1$. \nTangent is negative in the **second** and **fourth** quadrants.\n- Second quadrant: $x = 180^\\circ - 45^\\circ = 135^\\circ$\n- Fourth quadrant: $x = 360^\\circ - 45^\\circ = 315^\\circ$\n\nThe correct solution set is $\\{135^\\circ, 315^\\circ\\}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "Further Mathematics",
+    "topic": "Co-ordinate Geometry",
+    "question_text": "Find the gradient and the $y$-intercept of the straight line with equation $3x - 4y + 12 = 0$.",
+    "options": {
+      "a": "Gradient = $\\frac{3}{4}$, $y$-intercept = $3$",
+      "b": "Gradient = $-\\frac{3}{4}$, $y$-intercept = $3$",
+      "c": "Gradient = $\\frac{3}{4}$, $y$-intercept = $-3$",
+      "d": "Gradient = $-\\frac{3}{4}$, $y$-intercept = $-3$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "To find the gradient and $y$-intercept, rearrange the equation into the slope-intercept form $y = mx + c$.\n\nGiven: $3x - 4y + 12 = 0$\n$$4y = 3x + 12$$\n$$y = \\frac{3}{4}x + 3$$\n\nComparing with $y = mx + c$:\n- Gradient ($m$) = $\\frac{3}{4}$\n- $y$-intercept ($c$) = $3$",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "Further Mathematics",
+    "topic": "Co-ordinate Geometry",
+    "question_text": "The straight line $2y - mx + 5 = 0$ is perpendicular to the line $y + 4x - 7 = 0$. Find the value of the constant $m$.",
+    "options": {
+      "a": "8",
+      "b": "-8",
+      "c": "$\\frac{1}{2}$",
+      "d": "$-\\frac{1}{2}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Two lines are perpendicular if the product of their gradients is $-1$ ($m_1 m_2 = -1$).\n\nFirst, find the gradient of $y + 4x - 7 = 0$:\n$$y = -4x + 7 \\implies m_1 = -4$$\n\nFor the two lines to be perpendicular:\n$$m_1 m_2 = -1 \\implies -4 \\times m_2 = -1 \\implies m_2 = \\frac{1}{4}$$\n\nNow, find the gradient of $2y - mx + 5 = 0$ in terms of $m$:\n$$2y = mx - 5 \\implies y = \\frac{m}{2}x - \\frac{5}{2} \\implies m_2 = \\frac{m}{2}$$\n\nEquate the two expressions for $m_2$:\n$$\\frac{m}{2} = \\frac{1}{4}$$\n$$m = 2 \\times \\frac{1}{4} = \\frac{1}{2}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "Further Mathematics",
+    "topic": "Co-ordinate Geometry",
+    "question_text": "The distance between the points $P(k, 3)$ and $Q(2, -1)$ is $5$ units. Find the possible values of $k$.",
+    "options": {
+      "a": "3 or -3",
+      "b": "5 or -1",
+      "c": "-5 or 1",
+      "d": "7 or -3"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The distance between two points $(x_1, y_1)$ and $(x_2, y_2)$ is given by:\n$$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$\n$$5 = \\sqrt{(2 - k)^2 + (-1 - 3)^2}$$\n\nSquare both sides to remove the square root:\n$$25 = (2 - k)^2 + (-4)^2$$\n$$25 = (2 - k)^2 + 16$$\n$$(2 - k)^2 = 9$$\n\nTake the square root of both sides:\n$$2 - k = \\pm 3$$\n\nSolving for $k$:\n1. $2 - k = 3 \\implies k = 2 - 3 = -1$\n2. $2 - k = -3 \\implies k = 2 + 3 = 5$\n\nThe possible values of $k$ are $5$ or $-1$.",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "Further Mathematics",
+    "topic": "Co-ordinate Geometry",
+    "question_text": "Find the acute angle between the straight lines $y = 2x + 5$ and $y = -3x + 1$.",
+    "options": {
+      "a": "$30^\\circ$",
+      "b": "$45^\\circ$",
+      "c": "$60^\\circ$",
+      "d": "$90^\\circ$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The angle $\\theta$ between two lines with gradients $m_1$ and $m_2$ is given by the formula:\n$$\\tan \\theta = \\left| \\frac{m_1 - m_2}{1 + m_1 m_2} \\right|$$\n\nFrom the given equations, the gradients are:\n$m_1 = 2$ and $m_2 = -3$\n\nSubstitute these into the formula:\n$$\\tan \\theta = \\left| \\frac{2 - (-3)}{1 + (2)(-3)} \\right|$$\n$$\\tan \\theta = \\left| \\frac{2 + 3}{1 - 6} \\right| = \\left| \\frac{5}{-5} \\right| = |-1| = 1$$\n\nIf $\\tan \\theta = 1$, then the acute angle $\\theta$ is $45^\\circ$.",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "Further Mathematics",
+    "topic": "Co-ordinate Geometry",
+    "question_text": "If the points $A(2, 5)$, $B(4, 9)$, and $C(x, 15)$ are collinear, find the value of $x$.",
+    "options": {
+      "a": "5",
+      "b": "6",
+      "c": "7",
+      "d": "8"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "If three points are collinear, the gradient of the line segment between any pair of points must be the same. So, the gradient of $AB$ equals the gradient of $BC$.\n\nGradient of $AB$:\n$$m_{AB} = \\frac{9 - 5}{4 - 2} = \\frac{4}{2} = 2$$\n\nGradient of $BC$:\n$$m_{BC} = \\frac{15 - 9}{x - 4} = \\frac{6}{x - 4}$$\n\nEquating the gradients:\n$$2 = \\frac{6}{x - 4}$$\n$$2(x - 4) = 6$$\n$$x - 4 = 3 \\implies x = 7$$",
+    "section_id": null
+  },
+  {
+    "question_number": 46,
+    "subject": "Further Mathematics",
+    "topic": "Co-ordinate Geometry",
+    "question_text": "Find the equation of the perpendicular bisector of the line segment joining the points $A(1, 2)$ and $B(5, 6)$.",
+    "options": {
+      "a": "$x + y - 7 = 0$",
+      "b": "$x - y + 1 = 0$",
+      "c": "$x + y + 7 = 0$",
+      "d": "$x - y - 1 = 0$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "A perpendicular bisector passes through the midpoint of $AB$ and is perpendicular to $AB$.\n\n1. Find the midpoint $M$ of $AB$:\n$$M = \\left( \\frac{1 + 5}{2}, \\frac{2 + 6}{2} \\right) = (3, 4)$$\n\n2. Find the gradient of $AB$:\n$$m_{AB} = \\frac{6 - 2}{5 - 1} = \\frac{4}{4} = 1$$\n\n3. The gradient of the perpendicular bisector ($m_{\\perp}$) will be the negative reciprocal of $m_{AB}$:\n$$m_{\\perp} = -1$$\n\n4. Use the point-slope form $y - y_1 = m(x - x_1)$ with midpoint $(3, 4)$:\n$$y - 4 = -1(x - 3)$$\n$$y - 4 = -x + 3$$\n$$x + y - 7 = 0$$",
+    "section_id": null
+  },
+  {
+    "question_number": 47,
+    "subject": "Further Mathematics",
+    "topic": "Co-ordinate Geometry",
+    "question_text": "Determine the coordinates of the centre and the length of the radius of the circle given by the equation $x^2 + y^2 - 6x + 4y - 12 = 0$.",
+    "options": {
+      "a": "Centre $(-3, 2)$, radius $5$",
+      "b": "Centre $(3, -2)$, radius $5$",
+      "c": "Centre $(3, -2)$, radius $25$",
+      "d": "Centre $(-3, 2)$, radius $25$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The general equation of a circle is $x^2 + y^2 + 2gx + 2fy + c = 0$, with centre $(-g, -f)$ and radius $r = \\sqrt{g^2 + f^2 - c}$.\n\nComparing $x^2 + y^2 - 6x + 4y - 12 = 0$ to the general form:\n- $2g = -6 \\implies g = -3$\n- $2f = 4 \\implies f = 2$\n- $c = -12$\n\nCentre $(-g, -f)$ is $(3, -2)$.\n\nRadius $r = \\sqrt{(-3)^2 + 2^2 - (-12)}$\n$$r = \\sqrt{9 + 4 + 12} = \\sqrt{25} = 5$$\n\nThus, the centre is $(3, -2)$ and the radius is $5$.",
+    "section_id": null
+  },
+  {
+    "question_number": 48,
+    "subject": "Further Mathematics",
+    "topic": "Co-ordinate Geometry",
+    "question_text": "Find the equation of the circle whose diameter has endpoints $P(-2, 3)$ and $Q(4, -5)$.",
+    "options": {
+      "a": "$x^2 + y^2 + 2x - 2y - 23 = 0$",
+      "b": "$x^2 + y^2 - 2x + 2y - 23 = 0$",
+      "c": "$x^2 + y^2 - 2x + 2y + 25 = 0$",
+      "d": "$x^2 + y^2 + 2x - 2y + 25 = 0$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The centre of the circle is the midpoint of the diameter $PQ$:\n$$C = \\left( \\frac{-2 + 4}{2}, \\frac{3 + (-5)}{2} \\right) = (1, -1)$$\n\nThe radius is the distance from the centre $(1, -1)$ to $P(-2, 3)$:\n$$r^2 = (-2 - 1)^2 + (3 - (-1))^2 = (-3)^2 + (4)^2 = 9 + 16 = 25$$\n\nThe equation of the circle in standard form is $(x - h)^2 + (y - k)^2 = r^2$:\n$$(x - 1)^2 + (y + 1)^2 = 25$$\n\nExpand this to match the options:\n$$(x^2 - 2x + 1) + (y^2 + 2y + 1) = 25$$\n$$x^2 + y^2 - 2x + 2y + 2 = 25$$\n$$x^2 + y^2 - 2x + 2y - 23 = 0$$",
+    "section_id": null
+  },
+  {
+    "question_number": 49,
+    "subject": "Further Mathematics",
+    "topic": "Co-ordinate Geometry",
+    "question_text": "Find the gradient of the tangent to the circle $x^2 + y^2 - 4x + 6y - 12 = 0$ at the point $(5, 1)$.",
+    "options": {
+      "a": "$\\frac{4}{3}$",
+      "b": "$\\frac{3}{4}$",
+      "c": "$-\\frac{4}{3}$",
+      "d": "$-\\frac{3}{4}$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "A tangent is perpendicular to the radius at the point of contact.\nFirst, find the centre of the circle from $x^2 + y^2 - 4x + 6y - 12 = 0$:\n$$C = \\left(-\\frac{-4}{2}, -\\frac{6}{2}\\right) = (2, -3)$$\n\nNext, find the gradient of the radius ($m_r$) joining the centre $C(2, -3)$ to the point $P(5, 1)$:\n$$m_r = \\frac{1 - (-3)}{5 - 2} = \\frac{4}{3}$$\n\nSince the tangent is perpendicular to the radius, its gradient ($m_t$) is the negative reciprocal of $m_r$:\n$$m_t = -\\frac{1}{m_r} = -\\frac{3}{4}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 50,
+    "subject": "Further Mathematics",
+    "topic": "Co-ordinate Geometry",
+    "question_text": "What are the coordinates of the vertex of the parabola $y^2 - 4y - 8x + 28 = 0$?",
+    "options": {
+      "a": "$(2, 3)$",
+      "b": "$(-3, -2)$",
+      "c": "$(3, 2)$",
+      "d": "$(-2, -3)$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "To find the vertex, complete the square for the $y$-terms to bring the equation into the standard form $(y - k)^2 = 4p(x - h)$, where $(h, k)$ is the vertex.\n\nGiven: $y^2 - 4y - 8x + 28 = 0$\nIsolate $x$ on one side:\n$$y^2 - 4y = 8x - 28$$\n\nComplete the square on the left side (add $\\left(\\frac{-4}{2}\\right)^2 = 4$ to both sides):\n$$y^2 - 4y + 4 = 8x - 28 + 4$$\n$$(y - 2)^2 = 8x - 24$$\n\nFactor out the 8 on the right side:\n$$(y - 2)^2 = 8(x - 3)$$\n\nComparing with $(y - k)^2 = 4p(x - h)$, we get $h = 3$ and $k = 2$.\nTherefore, the vertex $(h, k)$ is $(3, 2)$.",
+    "section_id": null
+  },
+  {
+    "question_number": 51,
+    "subject": "Further Mathematics",
+    "topic": "Differentiation",
+    "question_text": "Evaluate $\\lim_{x \\to 2} \\frac{x^2 - 4}{x - 2}$.",
+    "options": {
+      "a": "0",
+      "b": "2",
+      "c": "4",
+      "d": "Undefined"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Direct substitution of $x = 2$ gives the indeterminate form $\\frac{0}{0}$. To resolve this, factorize the numerator which is a difference of two squares:\n\n$$\\frac{x^2 - 4}{x - 2} = \\frac{(x - 2)(x + 2)}{x - 2}$$\n\nCancel out the common factor $(x - 2)$ (valid since $x \\to 2$ means $x \\neq 2$):\n$$\\lim_{x \\to 2} (x + 2)$$\n\nNow substitute $x = 2$:\n$$2 + 2 = 4$$",
+    "section_id": null
+  },
+  {
+    "question_number": 52,
+    "subject": "Further Mathematics",
+    "topic": "Differentiation",
+    "question_text": "Evaluate the limit: $\\lim_{x \\to 0} \\frac{\\sin 3x}{x}$.",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "$\\frac{1}{3}$",
+      "d": "3"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "We use the standard limit property $\\lim_{x \\to 0} \\frac{\\sin kx}{kx} = 1$.\n\nTo match this form, multiply the numerator and the denominator by 3:\n$$\\lim_{x \\to 0} \\frac{\\sin 3x}{x} = \\lim_{x \\to 0} \\left( 3 \\cdot \\frac{\\sin 3x}{3x} \\right)$$\n\nSince $\\lim_{x \\to 0} \\frac{\\sin 3x}{3x} = 1$, we get:\n$$3 \\times 1 = 3$$",
+    "section_id": null
+  },
+  {
+    "question_number": 53,
+    "subject": "Further Mathematics",
+    "topic": "Differentiation",
+    "question_text": "The derivative of a function $f(x)$ from first principles is given by $\\lim_{h \\to 0} \\frac{f(x + h) - f(x)}{h}$. Find the expression that represents the derivative of $f(x) = x^2$ before the limit is evaluated.",
+    "options": {
+      "a": "$\\lim_{h \\to 0} \\frac{x^2 + h^2 - x^2}{h}$",
+      "b": "$\\lim_{h \\to 0} \\frac{x^2 + 2xh + h^2 - x^2}{h}$",
+      "c": "$\\lim_{h \\to 0} \\frac{(x+h) - x^2}{h}$",
+      "d": "$\\lim_{h \\to 0} \\frac{2xh - h^2}{h}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Using the first principles formula with $f(x) = x^2$:\n- $f(x+h) = (x+h)^2 = x^2 + 2xh + h^2$\n- $f(x) = x^2$\n\nSubstitute these into the quotient:\n$$\\frac{f(x+h) - f(x)}{h} = \\frac{(x^2 + 2xh + h^2) - x^2}{h}$$\nHence, the correct expression is $\\lim_{h \\to 0} \\frac{x^2 + 2xh + h^2 - x^2}{h}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 54,
+    "subject": "Further Mathematics",
+    "topic": "Differentiation",
+    "question_text": "If $y = 4x^3 - 5x^2 + 2x - 7$, find $\\frac{dy}{dx}$.",
+    "options": {
+      "a": "$12x^2 - 10x - 7$",
+      "b": "$12x^2 - 10x + 2$",
+      "c": "$4x^2 - 5x + 2$",
+      "d": "$7x^2 - 7x + 2$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "To differentiate a polynomial, apply the power rule $\\frac{d}{dx}(ax^n) = anx^{n-1}$ to each term:\n- $\\frac{d}{dx}(4x^3) = 12x^2$\n- $\\frac{d}{dx}(-5x^2) = -10x$\n- $\\frac{d}{dx}(2x) = 2$\n- $\\frac{d}{dx}(-7) = 0$ (the derivative of a constant is zero)\n\nCombining these gives $\\frac{dy}{dx} = 12x^2 - 10x + 2$.",
+    "section_id": null
+  },
+  {
+    "question_number": 55,
+    "subject": "Further Mathematics",
+    "topic": "Differentiation",
+    "question_text": "Find the gradient of the curve $y = x^3 - 3x + 2$ at the point where $x = 2$.",
+    "options": {
+      "a": "6",
+      "b": "9",
+      "c": "11",
+      "d": "15"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The gradient of a curve at a given point is the value of its derivative $\\frac{dy}{dx}$ at that point.\n\nFirst, differentiate the equation of the curve:\n$$\\frac{dy}{dx} = \\frac{d}{dx}(x^3 - 3x + 2) = 3x^2 - 3$$\n\nSubstitute $x = 2$ into the derivative:\n$$\\frac{dy}{dx} = 3(2)^2 - 3$$\n$$\\frac{dy}{dx} = 3(4) - 3 = 12 - 3 = 9$$\n\nThe gradient at $x = 2$ is $9$.",
+    "section_id": null
+  },
+  {
+    "question_number": 56,
+    "subject": "Further Mathematics",
+    "topic": "Differentiation",
+    "question_text": "Differentiate $y = x^2 \\sin x$ with respect to $x$.",
+    "options": {
+      "a": "$2x \\cos x$",
+      "b": "$x^2 \\cos x - 2x \\sin x$",
+      "c": "$2x \\sin x + x^2 \\cos x$",
+      "d": "$x^2 \\sin x + 2x \\cos x$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Use the **Product Rule** for differentiation: $\\frac{d}{dx}(uv) = u\\frac{dv}{dx} + v\\frac{du}{dx}$.\n\nLet $u = x^2$ and $v = \\sin x$.\nThen $\\frac{du}{dx} = 2x$ and $\\frac{dv}{dx} = \\cos x$.\n\nSubstitute into the formula:\n$$\\frac{dy}{dx} = x^2(\\cos x) + (\\sin x)(2x)$$\n$$\\frac{dy}{dx} = x^2 \\cos x + 2x \\sin x$$",
+    "section_id": null
+  },
+  {
+    "question_number": 57,
+    "subject": "Further Mathematics",
+    "topic": "Differentiation",
+    "question_text": "If $y = \\frac{3x}{x - 2}$, evaluate $\\frac{dy}{dx}$.",
+    "options": {
+      "a": "$\\frac{6}{(x - 2)^2}$",
+      "b": "$\\frac{-6}{(x - 2)^2}$",
+      "c": "$\\frac{-6x}{(x - 2)^2}$",
+      "d": "$\\frac{6x - 6}{(x - 2)^2}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Use the **Quotient Rule**: $\\frac{d}{dx}\\left(\\frac{u}{v}\\right) = \\frac{v\\frac{du}{dx} - u\\frac{dv}{dx}}{v^2}$.\n\nLet $u = 3x \\implies \\frac{du}{dx} = 3$\nLet $v = x - 2 \\implies \\frac{dv}{dx} = 1$\n\nApply the rule:\n$$\\frac{dy}{dx} = \\frac{(x - 2)(3) - (3x)(1)}{(x - 2)^2}$$\n$$\\frac{dy}{dx} = \\frac{3x - 6 - 3x}{(x - 2)^2}$$\n$$\\frac{dy}{dx} = \\frac{-6}{(x - 2)^2}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 58,
+    "subject": "Further Mathematics",
+    "topic": "Differentiation",
+    "question_text": "Find the derivative of $y = \\cos^2 x$.",
+    "options": {
+      "a": "$2 \\cos x$",
+      "b": "$-2 \\sin x$",
+      "c": "$-\\sin 2x$",
+      "d": "$\\sin 2x$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Using the **Chain Rule**, rewrite $y$ as $y = (\\cos x)^2$.\n\nLet $u = \\cos x$, then $y = u^2$.\n$$\\frac{dy}{du} = 2u = 2 \\cos x$$\n$$\\frac{du}{dx} = -\\sin x$$\n\nMultiply them to find $\\frac{dy}{dx}$:\n$$\\frac{dy}{dx} = 2 \\cos x (-\\sin x) = -2 \\sin x \\cos x$$\n\nUsing the double-angle trigonometric identity $\\sin 2x = 2 \\sin x \\cos x$:\n$$\\frac{dy}{dx} = -\\sin 2x$$",
+    "section_id": null
+  },
+  {
+    "question_number": 59,
+    "subject": "Further Mathematics",
+    "topic": "Differentiation",
+    "question_text": "Given the implicit equation of an ellipse $3x^2 + 4y^2 = 12$, find $\\frac{dy}{dx}$ in terms of $x$ and $y$.",
+    "options": {
+      "a": "$\\frac{3x}{4y}$",
+      "b": "$-\\frac{3x}{4y}$",
+      "c": "$-\\frac{4y}{3x}$",
+      "d": "$-\\frac{3x}{2y}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Differentiate both sides with respect to $x$ using implicit differentiation.\n$$\\frac{d}{dx}(3x^2) + \\frac{d}{dx}(4y^2) = \\frac{d}{dx}(12)$$\n\nThe derivative of $4y^2$ requires the Chain Rule: $8y \\frac{dy}{dx}$.\n$$6x + 8y \\frac{dy}{dx} = 0$$\n\nMake $\\frac{dy}{dx}$ the subject of the formula:\n$$8y \\frac{dy}{dx} = -6x$$\n$$\\frac{dy}{dx} = -\\frac{6x}{8y}$$\n$$\\frac{dy}{dx} = -\\frac{3x}{4y}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 60,
+    "subject": "Further Mathematics",
+    "topic": "Differentiation",
+    "question_text": "If $y = e^{2x} + \\ln x$, find the derivative $\\frac{dy}{dx}$.",
+    "options": {
+      "a": "$2e^{2x} + \\frac{1}{x}$",
+      "b": "$e^{2x} + \\frac{1}{x}$",
+      "c": "$2e^{2x} - \\frac{1}{x^2}$",
+      "d": "$e^{2x} + \\ln(1)$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Differentiate each term separately.\n- The derivative of $e^{2x}$ requires the Chain Rule: $\\frac{d}{dx}(e^{kx}) = ke^{kx}$. So, $\\frac{d}{dx}(e^{2x}) = 2e^{2x}$.\n- The derivative of the natural logarithm $\\ln x$ is a standard result: $\\frac{d}{dx}(\\ln x) = \\frac{1}{x}$.\n\nAdding these results together gives:\n$$\\frac{dy}{dx} = 2e^{2x} + \\frac{1}{x}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 61,
+    "subject": "Further Mathematics",
+    "topic": "Differentiation",
+    "question_text": "The radius of a circle is increasing at a steady rate of $2 \\text{ cm/s}$. Find the rate of increase of its area when the radius is $5 \\text{ cm}$.",
+    "options": {
+      "a": "$10\\pi \\text{ cm}^2\\text{/s}$",
+      "b": "$20\\pi \\text{ cm}^2\\text{/s}$",
+      "c": "$25\\pi \\text{ cm}^2\\text{/s}$",
+      "d": "$50\\pi \\text{ cm}^2\\text{/s}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Let the radius be $r$ and the area be $A$. We are given $\\frac{dr}{dt} = 2 \\text{ cm/s}$.\nThe formula for the area of a circle is $A = \\pi r^2$.\n\nDifferentiate with respect to time $t$ using the Chain Rule (related rates):\n$$\\frac{dA}{dt} = \\frac{dA}{dr} \\times \\frac{dr}{dt}$$\n$$\\frac{dA}{dr} = 2\\pi r$$\n$$\\frac{dA}{dt} = (2\\pi r)(2) = 4\\pi r$$\n\nWhen $r = 5 \\text{ cm}$:\n$$\\frac{dA}{dt} = 4\\pi (5) = 20\\pi \\text{ cm}^2\\text{/s}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 62,
+    "subject": "Further Mathematics",
+    "topic": "Differentiation",
+    "question_text": "Use differentiation to find the approximate small change in $y$ when $y = x^3 + 2x$, and $x$ increases from $2$ to $2.01$.",
+    "options": {
+      "a": "0.12",
+      "b": "0.14",
+      "c": "0.28",
+      "d": "1.40"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The formula for small changes is $\\Delta y \\approx \\frac{dy}{dx} \\times \\Delta x$.\n\nHere, $x = 2$ and the small change in $x$ is $\\Delta x = 2.01 - 2 = 0.01$.\nFirst, find the derivative $\\frac{dy}{dx}$:\n$$\\frac{dy}{dx} = 3x^2 + 2$$\n\nEvaluate the derivative at $x = 2$:\n$$\\frac{dy}{dx} = 3(2)^2 + 2 = 3(4) + 2 = 14$$\n\nNow, calculate the approximate change in $y$:\n$$\\Delta y \\approx 14 \\times 0.01 = 0.14$$",
+    "section_id": null
+  },
+  {
+    "question_number": 63,
+    "subject": "Further Mathematics",
+    "topic": "Differentiation",
+    "question_text": "Find the second order derivative $\\frac{d^2y}{dx^2}$ of the function $y = \\sin 3x$.",
+    "options": {
+      "a": "$-3 \\cos 3x$",
+      "b": "$9 \\cos 3x$",
+      "c": "$-9 \\sin 3x$",
+      "d": "$-9 \\cos 3x$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "To find the second order derivative, differentiate $y = \\sin 3x$ twice.\n\nFirst derivative:\n$$\\frac{dy}{dx} = \\frac{d}{dx}(\\sin 3x) = 3 \\cos 3x$$\n\nSecond derivative (differentiate the first derivative):\n$$\\frac{d^2y}{dx^2} = \\frac{d}{dx}(3 \\cos 3x) = 3(-3 \\sin 3x) = -9 \\sin 3x$$",
+    "section_id": null
+  },
+  {
+    "question_number": 64,
+    "subject": "Further Mathematics",
+    "topic": "Differentiation",
+    "question_text": "Find the minimum value of the quadratic function $y = x^2 - 6x + 5$.",
+    "options": {
+      "a": "-5",
+      "b": "-4",
+      "c": "3",
+      "d": "4"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "At a minimum point, the derivative $\\frac{dy}{dx} = 0$.\n\nFirst, find $\\frac{dy}{dx}$:\n$$\\frac{dy}{dx} = 2x - 6$$\n\nSet it to zero to find the $x$-coordinate of the turning point:\n$$2x - 6 = 0 \\implies 2x = 6 \\implies x = 3$$\n\nTo confirm it is a minimum, check the second derivative: $\\frac{d^2y}{dx^2} = 2 > 0$ (so it is indeed a minimum).\nNow, substitute $x = 3$ back into the original equation to find the minimum value ($y$):\n$$y = (3)^2 - 6(3) + 5$$\n$$y = 9 - 18 + 5 = -4$$\n\nThe minimum value is $-4$.",
+    "section_id": null
+  },
+  {
+    "question_number": 65,
+    "subject": "Further Mathematics",
+    "topic": "Differentiation",
+    "question_text": "The curve $y = 2x^3 - 3x^2 - 12x + 8$ has two turning points. Find the $x$-coordinates of these turning points.",
+    "options": {
+      "a": "$\\{-1, 2\\}$",
+      "b": "$\\{-2, 1\\}$",
+      "c": "$\\{1, 2\\}$",
+      "d": "$\\{-2, -1\\}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Turning points occur where the gradient $\\frac{dy}{dx} = 0$.\n\nDifferentiate the curve's equation:\n$$\\frac{dy}{dx} = 6x^2 - 6x - 12$$\n\nSet the derivative to zero and divide through by 6:\n$$6x^2 - 6x - 12 = 0$$\n$$x^2 - x - 2 = 0$$\n\nFactorize the quadratic equation:\n$$(x - 2)(x + 1) = 0$$\n\nThis gives $x - 2 = 0$ or $x + 1 = 0$, so the $x$-coordinates are $x = 2$ and $x = -1$.",
+    "section_id": null
+  },
+  {
+    "question_number": 66,
+    "subject": "Further Mathematics",
+    "topic": "Differentiation",
+    "question_text": "A particle moves along a straight line such that its displacement $s$ (in meters) from a fixed point after $t$ seconds is given by $s = t^3 - 3t^2 + 2$. Calculate its acceleration after $4$ seconds.",
+    "options": {
+      "a": "$18 \\text{ m/s}^2$",
+      "b": "$24 \\text{ m/s}^2$",
+      "c": "$30 \\text{ m/s}^2$",
+      "d": "$42 \\text{ m/s}^2$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Velocity $v$ is the first derivative of displacement $s$ with respect to time $t$, and acceleration $a$ is the second derivative.\n\nFirst derivative (velocity):\n$$v = \\frac{ds}{dt} = 3t^2 - 6t$$\n\nSecond derivative (acceleration):\n$$a = \\frac{dv}{dt} = 6t - 6$$\n\nSubstitute $t = 4$ into the acceleration formula:\n$$a = 6(4) - 6 = 24 - 6 = 18 \\text{ m/s}^2$$",
+    "section_id": null
+  },
+  {
+    "question_number": 67,
+    "subject": "Further Mathematics",
+    "topic": "Differentiation",
+    "question_text": "Find the derivative of $y = x \\ln x$ with respect to $x$.",
+    "options": {
+      "a": "$1$",
+      "b": "$\\ln x$",
+      "c": "$\\ln x + 1$",
+      "d": "$\\frac{1}{x} + 1$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "This requires the **Product Rule**: $\\frac{dy}{dx} = u\\frac{dv}{dx} + v\\frac{du}{dx}$.\n\nLet $u = x \\implies \\frac{du}{dx} = 1$.\nLet $v = \\ln x \\implies \\frac{dv}{dx} = \\frac{1}{x}$.\n\nSubstitute into the product rule:\n$$\\frac{dy}{dx} = (x)\\left(\\frac{1}{x}\\right) + (\\ln x)(1)$$\n$$\\frac{dy}{dx} = 1 + \\ln x = \\ln x + 1$$",
+    "section_id": null
+  },
+  {
+    "question_number": 68,
+    "subject": "Further Mathematics",
+    "topic": "Integration",
+    "question_text": "Evaluate the indefinite integral: $\\int (3x^2 - 4x + 5) \\, dx$.",
+    "options": {
+      "a": "$x^3 - 2x^2 + 5x + C$",
+      "b": "$6x - 4 + C$",
+      "c": "$x^3 - 4x^2 + 5x + C$",
+      "d": "$3x^3 - 2x^2 + 5 + C$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "To integrate a polynomial, apply the power rule of integration $\\int x^n \\, dx = \\frac{x^{n+1}}{n+1} + C$ to each term:\n- $\\int 3x^2 \\, dx = \\frac{3x^3}{3} = x^3$\n- $\\int -4x \\, dx = \\frac{-4x^2}{2} = -2x^2$\n- $\\int 5 \\, dx = 5x$\n\nCombining these results and adding the constant of integration $C$, we get:\n$$x^3 - 2x^2 + 5x + C$$",
+    "section_id": null
+  },
+  {
+    "question_number": 69,
+    "subject": "Further Mathematics",
+    "topic": "Integration",
+    "question_text": "Find $\\int \\sin 3x \\, dx$.",
+    "options": {
+      "a": "$3 \\cos 3x + C$",
+      "b": "$-3 \\cos 3x + C$",
+      "c": "$\\frac{1}{3} \\cos 3x + C$",
+      "d": "$-\\frac{1}{3} \\cos 3x + C$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "The standard integral of $\\sin(kx)$ is $-\\frac{1}{k} \\cos(kx) + C$.\n\nHere, $k = 3$, so substituting this into the rule gives:\n$$\\int \\sin 3x \\, dx = -\\frac{1}{3} \\cos 3x + C$$",
+    "section_id": null
+  },
+  {
+    "question_number": 70,
+    "subject": "Further Mathematics",
+    "topic": "Integration",
+    "question_text": "Evaluate the integral: $\\int \\left( e^{2x} + \\frac{1}{x} \\right) \\, dx$.",
+    "options": {
+      "a": "$2e^{2x} - \\frac{1}{x^2} + C$",
+      "b": "$\\frac{1}{2}e^{2x} + \\ln|x| + C$",
+      "c": "$e^{2x} + \\ln|x| + C$",
+      "d": "$2e^{2x} + \\ln|x| + C$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Integrate each term separately:\n1. For the exponential function, $\\int e^{kx} \\, dx = \\frac{1}{k} e^{kx} + C$. So, $\\int e^{2x} \\, dx = \\frac{1}{2}e^{2x}$.\n2. The integral of $\\frac{1}{x}$ is a standard natural logarithmic function: $\\int \\frac{1}{x} \\, dx = \\ln|x|$.\n\nPutting it all together:\n$$\\int \\left( e^{2x} + \\frac{1}{x} \\right) \\, dx = \\frac{1}{2}e^{2x} + \\ln|x| + C$$",
+    "section_id": null
+  },
+  {
+    "question_number": 71,
+    "subject": "Further Mathematics",
+    "topic": "Integration",
+    "question_text": "Integrate $2x(x^2 + 1)^4$ with respect to $x$.",
+    "options": {
+      "a": "$\\frac{1}{5}(x^2 + 1)^5 + C$",
+      "b": "$\\frac{2}{5}(x^2 + 1)^5 + C$",
+      "c": "$8x(x^2 + 1)^3 + C$",
+      "d": "$\\frac{1}{4}(x^2 + 1)^5 + C$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "This can be solved using **integration by substitution**.\nLet $u = x^2 + 1$. \nThen, differentiating both sides gives $\\frac{du}{dx} = 2x \\implies du = 2x \\, dx$.\n\nSubstitute $u$ and $du$ into the integral:\n$$\\int 2x(x^2 + 1)^4 \\, dx = \\int u^4 \\, du$$\n\nIntegrate $u^4$:\n$$\\int u^4 \\, du = \\frac{u^5}{5} + C$$\n\nReplace $u$ with $x^2 + 1$ to get the final answer:\n$$= \\frac{1}{5}(x^2 + 1)^5 + C$$",
+    "section_id": null
+  },
+  {
+    "question_number": 72,
+    "subject": "Further Mathematics",
+    "topic": "Integration",
+    "question_text": "Find $\\int (x + 2)^2 \\, dx$.",
+    "options": {
+      "a": "$\\frac{1}{3}(x + 2)^3 + C$",
+      "b": "$\\frac{1}{2}(x + 2)^2 + C$",
+      "c": "$2(x + 2) + C$",
+      "d": "$\\frac{1}{4}(x + 2)^4 + C$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "We can evaluate this by applying the reverse chain rule for a linear inner function, $\\int (ax+b)^n dx = \\frac{1}{a(n+1)}(ax+b)^{n+1} + C$.\n\nHere $a=1$, $b=2$, and $n=2$:\n$$\\int (x + 2)^2 \\, dx = \\frac{(x + 2)^3}{1 \\times 3} + C$$\n$$= \\frac{1}{3}(x + 2)^3 + C$$\n\n*(Alternatively, expand $(x+2)^2 = x^2 + 4x + 4$ and integrate term by term: $\\frac{x^3}{3} + 2x^2 + 4x + C$, which is algebraically identical.)*",
+    "section_id": null
+  },
+  {
+    "question_number": 73,
+    "subject": "Further Mathematics",
+    "topic": "Integration",
+    "question_text": "Evaluate the definite integral $\\int_{1}^{3} (2x - 1) \\, dx$.",
+    "options": {
+      "a": "4",
+      "b": "6",
+      "c": "8",
+      "d": "10"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "First, find the indefinite integral of the function:\n$$\\int (2x - 1) \\, dx = x^2 - x$$\n\nNow, evaluate this from the lower limit ($x = 1$) to the upper limit ($x = 3$):\n$$[x^2 - x]_{1}^{3} = ((3)^2 - 3) - ((1)^2 - 1)$$\n$$= (9 - 3) - (1 - 1)$$\n$$= 6 - 0 = 6$$",
+    "section_id": null
+  },
+  {
+    "question_number": 74,
+    "subject": "Further Mathematics",
+    "topic": "Integration",
+    "question_text": "Evaluate $\\int_{0}^{\\pi/2} \\cos x \\, dx$.",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "-1",
+      "d": "2"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The integral of $\\cos x$ is $\\sin x$.\nEvaluating the definite integral from $0$ to $\\frac{\\pi}{2}$:\n$$[\\sin x]_{0}^{\\frac{\\pi}{2}} = \\sin\\left(\\frac{\\pi}{2}\\right) - \\sin(0)$$\n\nSince $\\sin\\left(\\frac{\\pi}{2}\\right) = 1$ and $\\sin(0) = 0$:\n$$1 - 0 = 1$$",
+    "section_id": null
+  },
+  {
+    "question_number": 75,
+    "subject": "Further Mathematics",
+    "topic": "Integration",
+    "question_text": "Evaluate the integral: $\\int_{1}^{2} \\frac{1}{x^2} \\, dx$.",
+    "options": {
+      "a": "$1$",
+      "b": "$\\frac{1}{2}$",
+      "c": "$-\\frac{1}{2}$",
+      "d": "$\\frac{3}{2}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Rewrite the integrand with a negative exponent:\n$$\\int_{1}^{2} x^{-2} \\, dx$$\n\nIntegrate using the power rule (add 1 to the exponent and divide by the new exponent):\n$$= \\left[ \\frac{x^{-1}}{-1} \\right]_{1}^{2} = \\left[ -\\frac{1}{x} \\right]_{1}^{2}$$\n\nNow apply the limits:\n$$= \\left( -\\frac{1}{2} \\right) - \\left( -\\frac{1}{1} \\right)$$\n$$= -\\frac{1}{2} + 1 = \\frac{1}{2}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 76,
+    "subject": "Further Mathematics",
+    "topic": "Integration",
+    "question_text": "Calculate the exact value of $\\int_{0}^{1} e^{3x} \\, dx$.",
+    "options": {
+      "a": "$e^3 - 1$",
+      "b": "$3(e^3 - 1)$",
+      "c": "$\\frac{1}{3}(e^3 - 1)$",
+      "d": "$\\frac{1}{3}e^3$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The integral of $e^{3x}$ is $\\frac{1}{3}e^{3x}$.\n\nApplying the limits of integration from $0$ to $1$:\n$$= \\left[ \\frac{1}{3}e^{3x} \\right]_{0}^{1}$$\n$$= \\frac{1}{3}e^{3(1)} - \\frac{1}{3}e^{3(0)}$$\n\nSince $e^0 = 1$:\n$$= \\frac{1}{3}e^3 - \\frac{1}{3}(1) = \\frac{1}{3}(e^3 - 1)$$",
+    "section_id": null
+  },
+  {
+    "question_number": 77,
+    "subject": "Further Mathematics",
+    "topic": "Integration",
+    "question_text": "Find the total area enclosed by the curve $y = 4 - x^2$ and the $x$-axis.",
+    "options": {
+      "a": "$\\frac{16}{3}$",
+      "b": "$\\frac{32}{3}$",
+      "c": "$8$",
+      "d": "$\\frac{64}{3}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "First, find the points of intersection with the $x$-axis (where $y = 0$):\n$$4 - x^2 = 0 \\implies x^2 = 4 \\implies x = -2 \\text{ or } x = 2$$\n\nThe area $A$ is given by the integral of the curve between these roots:\n$$A = \\int_{-2}^{2} (4 - x^2) \\, dx$$\n\nIntegrate the function:\n$$= \\left[ 4x - \\frac{x^3}{3} \\right]_{-2}^{2}$$\n\nSubstitute the limits:\nUpper limit: $4(2) - \\frac{(2)^3}{3} = 8 - \\frac{8}{3} = \\frac{16}{3}$\nLower limit: $4(-2) - \\frac{(-2)^3}{3} = -8 - \\left(-\\frac{8}{3}\\right) = -8 + \\frac{8}{3} = -\\frac{16}{3}$\n\nSubtract the lower limit evaluation from the upper limit evaluation:\n$$A = \\frac{16}{3} - \\left(-\\frac{16}{3}\\right) = \\frac{16}{3} + \\frac{16}{3} = \\frac{32}{3}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 78,
+    "subject": "Further Mathematics",
+    "topic": "Integration",
+    "question_text": "Calculate the area of the finite region bounded by the curve $y = x^2$ and the straight line $y = x$.",
+    "options": {
+      "a": "$\\frac{1}{2}$",
+      "b": "$\\frac{1}{3}$",
+      "c": "$\\frac{1}{6}$",
+      "d": "$\\frac{1}{12}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Find the points of intersection by setting the equations equal to each other:\n$$x^2 = x$$\n$$x^2 - x = 0$$\n$$x(x - 1) = 0 \\implies x = 0 \\text{ or } x = 1$$\n\nBetween $x = 0$ and $x = 1$, the line $y = x$ lies above the curve $y = x^2$. The bounded area is:\n$$A = \\int_{0}^{1} (x - x^2) \\, dx$$\n\nEvaluate the integral:\n$$A = \\left[ \\frac{x^2}{2} - \\frac{x^3}{3} \\right]_{0}^{1}$$\n$$A = \\left( \\frac{1}{2} - \\frac{1}{3} \\right) - (0)$$\n$$A = \\frac{3}{6} - \\frac{2}{6} = \\frac{1}{6}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 79,
+    "subject": "Further Mathematics",
+    "topic": "Integration",
+    "question_text": "The region bounded by the curve $y = \\sqrt{x}$, the $x$-axis, and the vertical line $x = 4$ is rotated completely ($360^\\circ$) about the $x$-axis. Find the volume of the solid generated.",
+    "options": {
+      "a": "$4\\pi$",
+      "b": "$8\\pi$",
+      "c": "$12\\pi$",
+      "d": "$16\\pi$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The formula for the volume of a solid of revolution about the $x$-axis is $V = \\pi \\int_{a}^{b} y^2 \\, dx$.\n\nHere, $y = \\sqrt{x}$, so $y^2 = x$. The limits are from $x = 0$ (where the curve starts from the origin) to $x = 4$.\n\nSet up the integral:\n$$V = \\pi \\int_{0}^{4} x \\, dx$$\n\nEvaluate:\n$$V = \\pi \\left[ \\frac{x^2}{2} \\right]_{0}^{4}$$\n$$V = \\pi \\left( \\frac{4^2}{2} - 0 \\right)$$\n$$V = \\pi \\left( \\frac{16}{2} \\right) = 8\\pi$$",
+    "section_id": null
+  },
+  {
+    "question_number": 80,
+    "subject": "Further Mathematics",
+    "topic": "Integration",
+    "question_text": "A particle moves in a straight line such that its acceleration $a$ at time $t$ seconds is given by $a = 6t \\text{ m/s}^2$. If the initial velocity of the particle (when $t = 0$) is $4 \\text{ m/s}$, find its velocity when $t = 3$ seconds.",
+    "options": {
+      "a": "$27 \\text{ m/s}$",
+      "b": "$31 \\text{ m/s}$",
+      "c": "$40 \\text{ m/s}$",
+      "d": "$58 \\text{ m/s}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Velocity $v$ is the integral of acceleration with respect to time:\n$$v = \\int a \\, dt = \\int 6t \\, dt$$\n$$v = 3t^2 + C$$\n\nWe are given the initial condition that when $t = 0$, $v = 4$. Substitute these values to find the constant $C$:\n$$4 = 3(0)^2 + C \\implies C = 4$$\n\nSo the velocity equation is $v = 3t^2 + 4$.\nNow find the velocity when $t = 3$:\n$$v = 3(3)^2 + 4$$\n$$v = 3(9) + 4 = 27 + 4 = 31 \\text{ m/s}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 81,
+    "subject": "Further Mathematics",
+    "topic": "Statistics",
+    "question_text": "The mean of the numbers 4, 7, 8, $x$, 12, and 15 is 9. Find the value of $x$.",
+    "options": {
+      "a": "6",
+      "b": "8",
+      "c": "9",
+      "d": "10"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The formula for the mean is $\\frac{\\sum x}{n}$. \n\nGiven the numbers: 4, 7, 8, $x$, 12, and 15. The number of items $n = 6$.\n\nSum of the items: $4 + 7 + 8 + x + 12 + 15 = 46 + x$.\n\nEquating this to the formula:\n$$\\frac{46 + x}{6} = 9$$\n$$46 + x = 9 \\times 6$$\n$$46 + x = 54$$\n$$x = 54 - 46 = 8$$\n\nThe value of $x$ is 8.",
+    "section_id": null
+  },
+  {
+    "question_number": 82,
+    "subject": "Further Mathematics",
+    "topic": "Statistics",
+    "question_text": "In a school, there are 15 Science students, 20 Arts students, and 25 Commercial students. If this information is represented on a pie chart, what is the sector angle for the Arts students?",
+    "options": {
+      "a": "$90^\\circ$",
+      "b": "$120^\\circ$",
+      "c": "$150^\\circ$",
+      "d": "$180^\\circ$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "First, find the total number of students:\n$$\\text{Total} = 15 \\text{ (Science)} + 20 \\text{ (Arts)} + 25 \\text{ (Commercial)} = 60 \\text{ students}$$\n\nThe sector angle for any category is given by:\n$$\\text{Angle} = \\frac{\\text{Frequency of category}}{\\text{Total Frequency}} \\times 360^\\circ$$\n\nFor Arts students:\n$$\\text{Angle} = \\frac{20}{60} \\times 360^\\circ$$\n$$\\text{Angle} = \\frac{1}{3} \\times 360^\\circ = 120^\\circ$$",
+    "section_id": null
+  },
+  {
+    "question_number": 83,
+    "subject": "Further Mathematics",
+    "topic": "Statistics",
+    "question_text": "The frequency distribution below shows the marks obtained by students in a test.\n\n| Mark ($x$) | 1 | 2 | 3 | 4 | 5 |\n|---|---|---|---|---|---|\n| Frequency ($f$) | 3 | 5 | 7 | 4 | 1 |\n\nFind the median mark.",
+    "options": {
+      "a": "2",
+      "b": "2.5",
+      "c": "3",
+      "d": "3.5"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "To find the median, first determine the total frequency ($N$):\n$$N = \\sum f = 3 + 5 + 7 + 4 + 1 = 20$$\n\nSince $N$ is even (20), the median is the average of the $\\frac{N}{2}$-th and $\\left(\\frac{N}{2} + 1\\right)$-th values, which are the 10th and 11th values.\n\nNext, calculate the cumulative frequencies:\n- Mark 1: $3$\n- Mark 2: $3 + 5 = 8$\n- Mark 3: $8 + 7 = 15$ *(The 9th to 15th values all fall here)*\n\nBoth the 10th and 11th values correspond to the mark **3**. \nTherefore, the median mark is 3.",
+    "section_id": null
+  },
+  {
+    "question_number": 84,
+    "subject": "Further Mathematics",
+    "topic": "Statistics",
+    "question_text": "Find the variance of the numbers 2, 4, 6, 8, 10.",
+    "options": {
+      "a": "4",
+      "b": "6",
+      "c": "8",
+      "d": "10"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Step 1: Calculate the mean ($\\mu$):\n$$\\mu = \\frac{2 + 4 + 6 + 8 + 10}{5} = \\frac{30}{5} = 6$$\n\nStep 2: Find the deviations from the mean ($x - \\mu$):\n$$(2 - 6) = -4, \\quad (4 - 6) = -2, \\quad (6 - 6) = 0, \\quad (8 - 6) = 2, \\quad (10 - 6) = 4$$\n\nStep 3: Square the deviations ($(x - \\mu)^2$):\n$$16, \\quad 4, \\quad 0, \\quad 4, \\quad 16$$\n\nStep 4: Find the mean of the squared deviations (Variance):\n$$\\text{Variance} = \\frac{16 + 4 + 0 + 4 + 16}{5} = \\frac{40}{5} = 8$$",
+    "section_id": null
+  },
+  {
+    "question_number": 85,
+    "subject": "Further Mathematics",
+    "topic": "Statistics",
+    "question_text": "In a competition, the sum of the squares of the differences in ranks given by two judges to 5 contestants is 12. Calculate the Spearman's rank correlation coefficient.",
+    "options": {
+      "a": "0.2",
+      "b": "0.4",
+      "c": "0.6",
+      "d": "0.8"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The formula for Spearman's rank correlation coefficient ($R$) is:\n$$R = 1 - \\frac{6 \\sum d^2}{n(n^2 - 1)}$$\n\nGiven:\n- Number of pairs ($n$) = 5\n- Sum of squared differences ($\\sum d^2$) = 12\n\nSubstitute the values into the formula:\n$$R = 1 - \\frac{6(12)}{5(5^2 - 1)}$$\n$$R = 1 - \\frac{72}{5(24)}$$\n$$R = 1 - \\frac{72}{120}$$\n$$R = 1 - 0.6 = 0.4$$",
+    "section_id": null
+  },
+  {
+    "question_number": 86,
+    "subject": "Further Mathematics",
+    "topic": "Statistics",
+    "question_text": "Which of the following statistical measures can be estimated directly by drawing a cumulative frequency curve (ogive)?",
+    "options": {
+      "a": "Mean",
+      "b": "Mode",
+      "c": "Median",
+      "d": "Variance"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Different statistical measures are estimated from specific graphs:\n- A **Histogram** is used to estimate the **Mode**.\n- An **Ogive** (cumulative frequency curve) is used to estimate the **Median**, quartiles, and percentiles.\n- The **Mean** and **Variance** are calculated algebraically and cannot be estimated directly from simply drawing these curves.\n\nHence, the correct answer is the Median.",
+    "section_id": null
+  },
+  {
+    "question_number": 87,
+    "subject": "Further Mathematics",
+    "topic": "Statistics",
+    "question_text": "Calculate the mean deviation of the data set: 3, 5, 8, 11, 13.",
+    "options": {
+      "a": "0.0",
+      "b": "2.8",
+      "c": "3.2",
+      "d": "16.0"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Step 1: Calculate the mean ($\\bar{x}$):\n$$\\bar{x} = \\frac{3 + 5 + 8 + 11 + 13}{5} = \\frac{40}{5} = 8$$\n\nStep 2: Find the absolute deviation of each item from the mean ($|x - \\bar{x}|$):\n$$|3 - 8| = 5$$\n$$|5 - 8| = 3$$\n$$|8 - 8| = 0$$\n$$|11 - 8| = 3$$\n$$|13 - 8| = 5$$\n\nStep 3: Calculate the mean of these absolute deviations (Mean Deviation):\n$$MD = \\frac{5 + 3 + 0 + 3 + 5}{5} = \\frac{16}{5} = 3.2$$",
+    "section_id": null
+  },
+  {
+    "question_number": 88,
+    "subject": "Further Mathematics",
+    "topic": "Statistics",
+    "question_text": "A set of data has a standard deviation of 4. If each value in the data set is increased by 5, what is the new standard deviation?",
+    "options": {
+      "a": "4",
+      "b": "5",
+      "c": "9",
+      "d": "20"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "Standard deviation is a measure of the spread (or dispersion) of data around the mean. \n\nWhen a constant value is added to or subtracted from every data point in a set:\n- The **mean** shifts by that exact constant.\n- However, the relative distance between the data points does not change, meaning the **spread remains identical**.\n\nBecause the shape and spread of the distribution are unaffected by adding 5 to each value, the standard deviation remains 4.",
+    "section_id": null
+  },
+  {
+    "question_number": 89,
+    "subject": "Further Mathematics",
+    "topic": "Probability",
+    "question_text": "A bag contains 5 red balls, 3 blue balls, and 2 green balls. If a ball is selected at random from the bag, what is the probability that it is **not** blue?",
+    "options": {
+      "a": "$\\frac{3}{10}$",
+      "b": "$\\frac{1}{2}$",
+      "c": "$\\frac{7}{10}$",
+      "d": "$\\frac{4}{5}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "First, find the total number of balls in the bag:\n$$\\text{Total} = 5 \\text{ (red)} + 3 \\text{ (blue)} + 2 \\text{ (green)} = 10$$\n\nThe probability of selecting a blue ball is:\n$$P(\\text{Blue}) = \\frac{3}{10}$$\n\nThe probability of selecting a ball that is **not** blue is the complement of selecting a blue ball:\n$$P(\\text{Not Blue}) = 1 - P(\\text{Blue}) = 1 - \\frac{3}{10} = \\frac{7}{10}$$\n\n*(Alternatively, count the balls that are not blue: 5 red + 2 green = 7. Thus, the probability is $\\frac{7}{10}$.)*",
+    "section_id": null
+  },
+  {
+    "question_number": 90,
+    "subject": "Further Mathematics",
+    "topic": "Probability",
+    "question_text": "A fair six-sided die is tossed twice. What is the probability of obtaining a sum of 8?",
+    "options": {
+      "a": "$\\frac{1}{9}$",
+      "b": "$\\frac{5}{36}$",
+      "c": "$\\frac{1}{6}$",
+      "d": "$\\frac{7}{36}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "When a die is tossed twice, the total number of possible outcomes in the sample space is:\n$$6 \\times 6 = 36$$\n\nThe possible pairs that yield a sum of 8 are:\n$$(2, 6), (3, 5), (4, 4), (5, 3), (6, 2)$$\n\nThere are exactly 5 favorable outcomes.\nTherefore, the probability is:\n$$P(\\text{Sum of } 8) = \\frac{5}{36}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 91,
+    "subject": "Further Mathematics",
+    "topic": "Probability",
+    "question_text": "Events $A$ and $B$ are independent. If $P(A) = 0.4$ and $P(B) = 0.5$, find the probability that either $A$ or $B$ or both occur.",
+    "options": {
+      "a": "$0.20$",
+      "b": "$0.70$",
+      "c": "$0.80$",
+      "d": "$0.90$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The probability that either $A$ or $B$ occurs is given by the addition rule:\n$$P(A \\cup B) = P(A) + P(B) - P(A \\cap B)$$\n\nSince events $A$ and $B$ are independent, the probability of both occurring is the product of their individual probabilities:\n$$P(A \\cap B) = P(A) \\times P(B) = 0.4 \\times 0.5 = 0.2$$\n\nNow, substitute this back into the addition rule:\n$$P(A \\cup B) = 0.4 + 0.5 - 0.2 = 0.9 - 0.2 = 0.7$$",
+    "section_id": null
+  },
+  {
+    "question_number": 92,
+    "subject": "Further Mathematics",
+    "topic": "Probability",
+    "question_text": "A fair coin is tossed and a fair six-sided die is rolled. What is the probability of obtaining a Head on the coin and a prime number on the die?",
+    "options": {
+      "a": "$\\frac{1}{2}$",
+      "b": "$\\frac{1}{3}$",
+      "c": "$\\frac{1}{4}$",
+      "d": "$\\frac{1}{6}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The two events (tossing a coin and rolling a die) are independent, so their combined probability is the product of their individual probabilities.\n\n1. Probability of obtaining a Head on the coin:\n$$P(H) = \\frac{1}{2}$$\n\n2. The prime numbers on a standard six-sided die are 2, 3, and 5. So, there are 3 favorable outcomes.\n$$P(\\text{Prime}) = \\frac{3}{6} = \\frac{1}{2}$$\n\n3. Multiply the probabilities:\n$$P(H \\text{ and Prime}) = P(H) \\times P(\\text{Prime}) = \\frac{1}{2} \\times \\frac{1}{2} = \\frac{1}{4}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 93,
+    "subject": "Further Mathematics",
+    "topic": "Probability",
+    "question_text": "A box contains 4 white marbles and 6 black marbles. Two marbles are drawn at random from the box, one after the other, **without replacement**. Find the probability that both marbles are black.",
+    "options": {
+      "a": "$\\frac{1}{3}$",
+      "b": "$\\frac{4}{15}$",
+      "c": "$\\frac{9}{25}$",
+      "d": "$\\frac{3}{10}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Let $B_1$ be the event of drawing a black marble first, and $B_2$ be the event of drawing a black marble second.\n\nInitially, there are 10 marbles (4 white, 6 black).\n$$P(B_1) = \\frac{6}{10} = \\frac{3}{5}$$\n\nSince the first marble is not replaced, there are now 9 marbles left in the box, and 5 of them are black.\n$$P(B_2 \\mid B_1) = \\frac{5}{9}$$\n\nThe probability of both events occurring is:\n$$P(B_1 \\text{ and } B_2) = P(B_1) \\times P(B_2 \\mid B_1) = \\frac{3}{5} \\times \\frac{5}{9}$$\n\nMultiplying the fractions:\n$$P(B_1 \\text{ and } B_2) = \\frac{15}{45} = \\frac{1}{3}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 94,
+    "subject": "Further Mathematics",
+    "topic": "Probability",
+    "question_text": "A discrete random variable $X$ has the following probability distribution:\n\n| $x$ | $0$ | $1$ | $2$ | $3$ |\n|---|---|---|---|---|\n| $P(X=x)$ | $0.1$ | $0.3$ | $k$ | $0.2$ |\n\nFind the expected value, $E(X)$.",
+    "options": {
+      "a": "1.5",
+      "b": "1.7",
+      "c": "2.0",
+      "d": "2.2"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "First, find the value of $k$. The sum of all probabilities in a probability distribution must equal 1.\n$$0.1 + 0.3 + k + 0.2 = 1$$\n$$0.6 + k = 1 \\implies k = 0.4$$\n\nThe expected value $E(X)$ is given by the formula:\n$$E(X) = \\sum x \\cdot P(X=x)$$\n\nSubstitute the values:\n$$E(X) = (0 \\times 0.1) + (1 \\times 0.3) + (2 \\times 0.4) + (3 \\times 0.2)$$\n$$E(X) = 0 + 0.3 + 0.8 + 0.6 = 1.7$$\n\nThe expected value is $1.7$.",
+    "section_id": null
+  },
+  {
+    "question_number": 95,
+    "subject": "Further Mathematics",
+    "topic": "Probability",
+    "question_text": "A biased coin has a probability of $\\frac{1}{3}$ of showing Heads. If the coin is tossed 4 times, what is the probability of obtaining exactly 2 Heads?",
+    "options": {
+      "a": "$\\frac{8}{81}$",
+      "b": "$\\frac{8}{27}$",
+      "c": "$\\frac{16}{81}$",
+      "d": "$\\frac{32}{81}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "This follows a Binomial Probability distribution. The formula is:\n$$P(X=r) = \\binom{n}{r} p^r q^{n-r}$$\n\nGiven:\n- Number of trials, $n = 4$\n- Number of successes, $r = 2$\n- Probability of success (Head), $p = \\frac{1}{3}$\n- Probability of failure (Tail), $q = 1 - \\frac{1}{3} = \\frac{2}{3}$\n\nSubstitute the values:\n$$P(X=2) = \\binom{4}{2} \\left(\\frac{1}{3}\\right)^2 \\left(\\frac{2}{3}\\right)^2$$\n\nCalculate each part:\n- $\\binom{4}{2} = \\frac{4!}{2!2!} = 6$\n- $\\left(\\frac{1}{3}\\right)^2 = \\frac{1}{9}$\n- $\\left(\\frac{2}{3}\\right)^2 = \\frac{4}{9}$\n\nMultiply them together:\n$$P(X=2) = 6 \\times \\frac{1}{9} \\times \\frac{4}{9} = \\frac{24}{81} = \\frac{8}{27}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 96,
+    "subject": "Further Mathematics",
+    "topic": "Probability",
+    "question_text": "In an experiment, a drawing pin is dropped 200 times. It lands point-up 140 times and point-down 60 times. Based on this relative frequency, if the pin is dropped 50 more times, how many times is it expected to land point-down?",
+    "options": {
+      "a": "15",
+      "b": "20",
+      "c": "30",
+      "d": "35"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Relative frequency serves as an experimental estimate for probability.\n\nThe probability of landing point-down is calculated from the initial trials:\n$$P(\\text{down}) = \\frac{\\text{Number of point-down outcomes}}{\\text{Total drops}} = \\frac{60}{200} = 0.3$$\n\nTo find the expected number of point-down landings in 50 future drops, multiply the probability by the number of new drops:\n$$\\text{Expected value} = n \\times P(\\text{down})$$\n$$\\text{Expected value} = 50 \\times 0.3 = 15$$\n\nIt is expected to land point-down 15 times.",
+    "section_id": null
+  },
+  {
+    "question_number": 97,
+    "subject": "Further Mathematics",
+    "topic": "Vectors",
+    "question_text": "Which of the following physical quantities is a scalar quantity?",
+    "options": {
+      "a": "Displacement",
+      "b": "Velocity",
+      "c": "Weight",
+      "d": "Mass"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "A scalar quantity has only magnitude and no direction. **Mass** is a scalar quantity. On the other hand, displacement, velocity, and weight (which is a force acting downwards due to gravity) all have direction and are therefore vector quantities.",
+    "section_id": null
+  },
+  {
+    "question_number": 98,
+    "subject": "Further Mathematics",
+    "topic": "Vectors",
+    "question_text": "If $\\mathbf{a} = 2\\mathbf{i} - 3\\mathbf{j} + \\mathbf{k}$ and $\\mathbf{b} = -\\mathbf{i} + 2\\mathbf{j} - 4\\mathbf{k}$, find the vector $3\\mathbf{a} + 2\\mathbf{b}$.",
+    "options": {
+      "a": "$4\\mathbf{i} - 5\\mathbf{j} - 5\\mathbf{k}$",
+      "b": "$4\\mathbf{i} - 5\\mathbf{j} - 11\\mathbf{k}$",
+      "c": "$8\\mathbf{i} - 5\\mathbf{j} - 5\\mathbf{k}$",
+      "d": "$4\\mathbf{i} + 5\\mathbf{j} + 5\\mathbf{k}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "First, find the scalar multiples of the vectors:\n$$3\\mathbf{a} = 3(2\\mathbf{i} - 3\\mathbf{j} + \\mathbf{k}) = 6\\mathbf{i} - 9\\mathbf{j} + 3\\mathbf{k}$$\n$$2\\mathbf{b} = 2(-\\mathbf{i} + 2\\mathbf{j} - 4\\mathbf{k}) = -2\\mathbf{i} + 4\\mathbf{j} - 8\\mathbf{k}$$\n\nNow, add the two resulting vectors component by component:\n$$(6 - 2)\\mathbf{i} + (-9 + 4)\\mathbf{j} + (3 - 8)\\mathbf{k}$$\n$$= 4\\mathbf{i} - 5\\mathbf{j} - 5\\mathbf{k}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 99,
+    "subject": "Further Mathematics",
+    "topic": "Vectors",
+    "question_text": "Find the unit vector in the direction of the vector $\\mathbf{v} = -3\\mathbf{i} + 4\\mathbf{j}$.",
+    "options": {
+      "a": "$-\\frac{3}{5}\\mathbf{i} + \\frac{4}{5}\\mathbf{j}$",
+      "b": "$\\frac{3}{5}\\mathbf{i} - \\frac{4}{5}\\mathbf{j}$",
+      "c": "$-3\\mathbf{i} + 4\\mathbf{j}$",
+      "d": "$-\\frac{3}{25}\\mathbf{i} + \\frac{4}{25}\\mathbf{j}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "A unit vector $\\hat{\\mathbf{v}}$ in the direction of $\\mathbf{v}$ is given by dividing the vector by its magnitude, $\\frac{\\mathbf{v}}{|\\mathbf{v}|}$.\n\nFirst, find the magnitude of $\\mathbf{v}$:\n$$|\\mathbf{v}| = \\sqrt{(-3)^2 + (4)^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$$\n\nNow divide the vector by its magnitude:\n$$\\hat{\\mathbf{v}} = \\frac{-3\\mathbf{i} + 4\\mathbf{j}}{5} = -\\frac{3}{5}\\mathbf{i} + \\frac{4}{5}\\mathbf{j}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 100,
+    "subject": "Further Mathematics",
+    "topic": "Vectors",
+    "question_text": "The position vectors of points $A$ and $B$ with respect to the origin are $\\mathbf{i} + 3\\mathbf{j}$ and $4\\mathbf{i} - \\mathbf{j}$ respectively. Find the magnitude of the vector $\\overrightarrow{AB}$.",
+    "options": {
+      "a": "$5$",
+      "b": "$6$",
+      "c": "$\\sqrt{13}$",
+      "d": "$\\sqrt{29}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Let the position vectors be $\\mathbf{a} = \\mathbf{i} + 3\\mathbf{j}$ and $\\mathbf{b} = 4\\mathbf{i} - \\mathbf{j}$.\n\nThe vector from $A$ to $B$ is $\\overrightarrow{AB} = \\mathbf{b} - \\mathbf{a}$:\n$$\\overrightarrow{AB} = (4\\mathbf{i} - \\mathbf{j}) - (\\mathbf{i} + 3\\mathbf{j})$$\n$$\\overrightarrow{AB} = (4 - 1)\\mathbf{i} + (-1 - 3)\\mathbf{j} = 3\\mathbf{i} - 4\\mathbf{j}$$\n\nNow, find the magnitude of $\\overrightarrow{AB}$:\n$$|\\overrightarrow{AB}| = \\sqrt{3^2 + (-4)^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$$",
+    "section_id": null
+  },
+  {
+    "question_number": 101,
+    "subject": "Further Mathematics",
+    "topic": "Vectors",
+    "question_text": "The position vectors of points $P$ and $Q$ with respect to an origin $O$ are $\\mathbf{p}$ and $\\mathbf{q}$ respectively. If a point $R$ lies on the line segment $PQ$ such that $PR:RQ = 3:2$, find the position vector of $R$ in terms of $\\mathbf{p}$ and $\\mathbf{q}$.",
+    "options": {
+      "a": "$\\frac{1}{5}(2\\mathbf{p} + 3\\mathbf{q})$",
+      "b": "$\\frac{1}{5}(3\\mathbf{p} + 2\\mathbf{q})$",
+      "c": "$\\frac{1}{5}(3\\mathbf{p} - 2\\mathbf{q})$",
+      "d": "$\\frac{1}{5}(2\\mathbf{p} - 3\\mathbf{q})$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Using the section formula for vectors, if a point $R$ divides the line segment joining $P$ (position vector $\\mathbf{p}$) and $Q$ (position vector $\\mathbf{q}$) internally in the ratio $m:n$, the position vector of $R$ is:\n$$\\mathbf{r} = \\frac{n\\mathbf{p} + m\\mathbf{q}}{m + n}$$\n\nHere, $m = 3$ and $n = 2$:\n$$\\mathbf{r} = \\frac{2\\mathbf{p} + 3\\mathbf{q}}{3 + 2} = \\frac{2\\mathbf{p} + 3\\mathbf{q}}{5} = \\frac{1}{5}(2\\mathbf{p} + 3\\mathbf{q})$$",
+    "section_id": null
+  },
+  {
+    "question_number": 102,
+    "subject": "Further Mathematics",
+    "topic": "Vectors",
+    "question_text": "Evaluate the scalar (dot) product of the vectors $\\mathbf{a} = 2\\mathbf{i} - 3\\mathbf{j} + \\mathbf{k}$ and $\\mathbf{b} = 4\\mathbf{i} + \\mathbf{j} - 3\\mathbf{k}$.",
+    "options": {
+      "a": "$1$",
+      "b": "$2$",
+      "c": "$5$",
+      "d": "$8$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The scalar product $\\mathbf{a} \\cdot \\mathbf{b}$ is found by multiplying the corresponding components and summing them up:\n$$\\mathbf{a} \\cdot \\mathbf{b} = (a_x \\times b_x) + (a_y \\times b_y) + (a_z \\times b_z)$$\n\nSubstitute the given values:\n$$\\mathbf{a} \\cdot \\mathbf{b} = (2 \\times 4) + (-3 \\times 1) + (1 \\times -3)$$\n$$\\mathbf{a} \\cdot \\mathbf{b} = 8 - 3 - 3 = 2$$",
+    "section_id": null
+  },
+  {
+    "question_number": 103,
+    "subject": "Further Mathematics",
+    "topic": "Vectors",
+    "question_text": "Find the angle between the vectors $\\mathbf{u} = \\mathbf{i} + \\sqrt{3}\\mathbf{j}$ and $\\mathbf{v} = \\mathbf{i}$.",
+    "options": {
+      "a": "$30^\\circ$",
+      "b": "$45^\\circ$",
+      "c": "$60^\\circ$",
+      "d": "$90^\\circ$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The angle $\\theta$ between two vectors is given by the formula $\\cos \\theta = \\frac{\\mathbf{u} \\cdot \\mathbf{v}}{|\\mathbf{u}||\\mathbf{v}|}$.\n\n1. Find the dot product:\n$$\\mathbf{u} \\cdot \\mathbf{v} = (1)(1) + (\\sqrt{3})(0) = 1$$\n\n2. Find the magnitudes of $\\mathbf{u}$ and $\\mathbf{v}$:\n$$|\\mathbf{u}| = \\sqrt{1^2 + (\\sqrt{3})^2} = \\sqrt{1 + 3} = \\sqrt{4} = 2$$\n$$|\\mathbf{v}| = \\sqrt{1^2 + 0^2} = 1$$\n\n3. Calculate the angle:\n$$\\cos \\theta = \\frac{1}{2 \\times 1} = 0.5$$\n$$\\theta = \\cos^{-1}(0.5) = 60^\\circ$$",
+    "section_id": null
+  },
+  {
+    "question_number": 104,
+    "subject": "Further Mathematics",
+    "topic": "Vectors",
+    "question_text": "The vectors $\\mathbf{p} = \\lambda\\mathbf{i} - 2\\mathbf{j} + 5\\mathbf{k}$ and $\\mathbf{q} = 3\\mathbf{i} + 4\\mathbf{j} + 2\\mathbf{k}$ are perpendicular. Find the value of the scalar $\\lambda$.",
+    "options": {
+      "a": "-1",
+      "b": "$-\\frac{2}{3}$",
+      "c": "$\\frac{2}{3}$",
+      "d": "-2"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "If two vectors are perpendicular, their scalar (dot) product is zero. \nSo, $\\mathbf{p} \\cdot \\mathbf{q} = 0$.\n\nCalculate the dot product:\n$$(\\lambda \\times 3) + (-2 \\times 4) + (5 \\times 2) = 0$$\n$$3\\lambda - 8 + 10 = 0$$\n$$3\\lambda + 2 = 0$$\n$$3\\lambda = -2 \\implies \\lambda = -\\frac{2}{3}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 105,
+    "subject": "Further Mathematics",
+    "topic": "Vectors",
+    "question_text": "Which of the following algebraic properties correctly applies to the vector (cross) product of two vectors $\\mathbf{a}$ and $\\mathbf{b}$?",
+    "options": {
+      "a": "$\\mathbf{a} \\times \\mathbf{b} = \\mathbf{b} \\times \\mathbf{a}$",
+      "b": "$\\mathbf{a} \\times \\mathbf{b} = -(\\mathbf{b} \\times \\mathbf{a})$",
+      "c": "$\\mathbf{a} \\times (\\mathbf{b} \\cdot \\mathbf{c}) = (\\mathbf{a} \\times \\mathbf{b}) \\cdot \\mathbf{c}$",
+      "d": "$\\mathbf{a} \\times \\mathbf{a} = |\\mathbf{a}|^2$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The vector (cross) product is **anti-commutative**, which means that reversing the order of the vectors reverses the direction of the resulting vector. \nTherefore, $\\mathbf{a} \\times \\mathbf{b} = -(\\mathbf{b} \\times \\mathbf{a})$. \n*(Note: $\\mathbf{a} \\times \\mathbf{a} = 0$, not $|\\mathbf{a}|^2$.)*",
+    "section_id": null
+  },
+  {
+    "question_number": 106,
+    "subject": "Further Mathematics",
+    "topic": "Vectors",
+    "question_text": "Find the vector product $\\mathbf{a} \\times \\mathbf{b}$ where $\\mathbf{a} = 2\\mathbf{i} + \\mathbf{j}$ and $\\mathbf{b} = 3\\mathbf{i} - \\mathbf{j} + \\mathbf{k}$.",
+    "options": {
+      "a": "$\\mathbf{i} - 2\\mathbf{j} - 5\\mathbf{k}$",
+      "b": "$\\mathbf{i} - 2\\mathbf{j} + 5\\mathbf{k}$",
+      "c": "$-\\mathbf{i} + 2\\mathbf{j} - 5\\mathbf{k}$",
+      "d": "$2\\mathbf{i} - \\mathbf{j} + 3\\mathbf{k}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "To find the cross product, compute the determinant of the $3 \\times 3$ matrix formed by the unit vectors and the components of $\\mathbf{a}$ and $\\mathbf{b}$:\n$$ \\mathbf{a} \\times \\mathbf{b} = \\begin{vmatrix} \\mathbf{i} & \\mathbf{j} & \\mathbf{k} \\\\\\\\ 2 & 1 & 0 \\\\\\\\ 3 & -1 & 1 \\end{vmatrix} $$\n\nExpand along the top row:\n$$ = \\mathbf{i}\\begin{vmatrix} 1 & 0 \\\\\\\\ -1 & 1 \\end{vmatrix} - \\mathbf{j}\\begin{vmatrix} 2 & 0 \\\\\\\\ 3 & 1 \\end{vmatrix} + \\mathbf{k}\\begin{vmatrix} 2 & 1 \\\\\\\\ 3 & -1 \\end{vmatrix} $$\n\nCalculate the $2 \\times 2$ determinants:\n$$ = \\mathbf{i}( (1)(1) - (0)(-1) ) - \\mathbf{j}( (2)(1) - (0)(3) ) + \\mathbf{k}( (2)(-1) - (1)(3) ) $$\n$$ = \\mathbf{i}(1 - 0) - \\mathbf{j}(2 - 0) + \\mathbf{k}(-2 - 3) $$\n$$ = \\mathbf{i} - 2\\mathbf{j} - 5\\mathbf{k} $$",
+    "section_id": null
+  },
+  {
+    "question_number": 107,
+    "subject": "Further Mathematics",
+    "topic": "Vectors",
+    "question_text": "A constant force $\\mathbf{F} = (5\\mathbf{i} + 2\\mathbf{j} - \\mathbf{k}) \\text{ N}$ moves a particle from a point $A(1, 1, 2)$ to a point $B(3, 4, 1)$ with distances measured in meters. Calculate the work done by the force.",
+    "options": {
+      "a": "$10 \\text{ J}$",
+      "b": "$15 \\text{ J}$",
+      "c": "$17 \\text{ J}$",
+      "d": "$20 \\text{ J}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Work done ($W$) by a constant force is the scalar product of the force vector ($\\mathbf{F}$) and the displacement vector ($\\mathbf{s}$): $W = \\mathbf{F} \\cdot \\mathbf{s}$.\n\nFirst, find the displacement vector $\\mathbf{s} = \\overrightarrow{AB}$:\n$$ \\mathbf{s} = (3 - 1)\\mathbf{i} + (4 - 1)\\mathbf{j} + (1 - 2)\\mathbf{k} $$\n$$ \\mathbf{s} = 2\\mathbf{i} + 3\\mathbf{j} - \\mathbf{k} $$\n\nNow, calculate the dot product:\n$$ W = (5\\mathbf{i} + 2\\mathbf{j} - \\mathbf{k}) \\cdot (2\\mathbf{i} + 3\\mathbf{j} - \\mathbf{k}) $$\n$$ W = (5 \\times 2) + (2 \\times 3) + (-1 \\times -1) $$\n$$ W = 10 + 6 + 1 = 17 \\text{ Joules} $$",
+    "section_id": null
+  },
+  {
+    "question_number": 108,
+    "subject": "Further Mathematics",
+    "topic": "Vectors",
+    "question_text": "The adjacent sides of a parallelogram are represented by the vectors $\\mathbf{p} = 3\\mathbf{i} + 4\\mathbf{j}$ and $\\mathbf{q} = \\mathbf{i} + 2\\mathbf{j}$. Find the area of the parallelogram.",
+    "options": {
+      "a": "$2 \\text{ sq units}$",
+      "b": "$4 \\text{ sq units}$",
+      "c": "$7 \\text{ sq units}$",
+      "d": "$10 \\text{ sq units}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "The area of a parallelogram defined by vectors $\\mathbf{p}$ and $\\mathbf{q}$ is the magnitude of their cross product: $\\text{Area} = |\\mathbf{p} \\times \\mathbf{q}|$.\n\nSince these are 2D vectors in the $xy$-plane, we can evaluate the $z$-component of their cross product:\n$$ \\mathbf{p} \\times \\mathbf{q} = \\begin{vmatrix} \\mathbf{i} & \\mathbf{j} & \\mathbf{k} \\\\\\\\ 3 & 4 & 0 \\\\\\\\ 1 & 2 & 0 \\end{vmatrix} = (3 \\times 2 - 4 \\times 1)\\mathbf{k} $$\n$$ \\mathbf{p} \\times \\mathbf{q} = (6 - 4)\\mathbf{k} = 2\\mathbf{k} $$\n\nThe magnitude of this vector is $|2\\mathbf{k}| = 2$. Therefore, the area is $2 \\text{ sq units}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 109,
+    "subject": "Further Mathematics",
+    "topic": "Vectors",
+    "question_text": "Find the scalar projection of the vector $\\mathbf{a} = 4\\mathbf{i} - 3\\mathbf{j}$ onto the vector $\\mathbf{b} = 12\\mathbf{i} + 5\\mathbf{j}$.",
+    "options": {
+      "a": "$\\frac{33}{13}$",
+      "b": "$\\frac{48}{13}$",
+      "c": "$\\frac{11}{5}$",
+      "d": "$\\frac{63}{13}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "The scalar projection of $\\mathbf{a}$ onto $\\mathbf{b}$ is given by $\\frac{\\mathbf{a} \\cdot \\mathbf{b}}{|\\mathbf{b}|}$.\n\n1. Calculate the dot product:\n$$ \\mathbf{a} \\cdot \\mathbf{b} = (4 \\times 12) + (-3 \\times 5) = 48 - 15 = 33 $$\n\n2. Calculate the magnitude of $\\mathbf{b}$:\n$$ |\\mathbf{b}| = \\sqrt{12^2 + 5^2} = \\sqrt{144 + 25} = \\sqrt{169} = 13 $$\n\n3. Divide the dot product by the magnitude of $\\mathbf{b}$:\n$$ \\text{Scalar Projection} = \\frac{33}{13} $$",
+    "section_id": null
+  },
+  {
+    "question_number": 110,
+    "subject": "Further Mathematics",
+    "topic": "Vectors",
+    "question_text": "A force of magnitude $20 \\text{ N}$ acts in the direction of the vector $3\\mathbf{i} - 4\\mathbf{j}$. Express the force as a vector.",
+    "options": {
+      "a": "$6\\mathbf{i} - 8\\mathbf{j}$",
+      "b": "$12\\mathbf{i} - 16\\mathbf{j}$",
+      "c": "$15\\mathbf{i} - 20\\mathbf{j}$",
+      "d": "$\\frac{3}{5}\\mathbf{i} - \\frac{4}{5}\\mathbf{j}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "To express the force as a vector, multiply its magnitude by the unit vector in its direction.\n\nLet $\\mathbf{v} = 3\\mathbf{i} - 4\\mathbf{j}$.\nMagnitude of $\\mathbf{v}$: $|\\mathbf{v}| = \\sqrt{3^2 + (-4)^2} = \\sqrt{9 + 16} = 5$.\n\nUnit vector in the direction of $\\mathbf{v}$:\n$$ \\hat{\\mathbf{v}} = \\frac{3\\mathbf{i} - 4\\mathbf{j}}{5} $$\n\nMultiply the unit vector by the magnitude of the force ($20 \\text{ N}$):\n$$ \\mathbf{F} = 20 \\times \\left( \\frac{3\\mathbf{i} - 4\\mathbf{j}}{5} \\right) = 4(3\\mathbf{i} - 4\\mathbf{j}) $$\n$$ \\mathbf{F} = 12\\mathbf{i} - 16\\mathbf{j} $$",
+    "section_id": null
+  },
+  {
+    "question_number": 111,
+    "subject": "Further Mathematics",
+    "topic": "Vectors",
+    "question_text": "Three forces $\\mathbf{F}_1 = 2\\mathbf{i} + \\mathbf{j}$, $\\mathbf{F}_2 = -\\mathbf{i} + 3\\mathbf{j}$, and $\\mathbf{F}_3 = x\\mathbf{i} + y\\mathbf{j}$ act on a particle and keep it in equilibrium. Find the values of $x$ and $y$.",
+    "options": {
+      "a": "$x = 1, y = 4$",
+      "b": "$x = -1, y = -4$",
+      "c": "$x = -3, y = -2$",
+      "d": "$x = 3, y = 2$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "If the forces keep the particle in equilibrium, their vector sum (the resultant force) must be zero.\n$$ \\mathbf{F}_1 + \\mathbf{F}_2 + \\mathbf{F}_3 = \\mathbf{0} $$\n\nAdd the $\\mathbf{i}$ and $\\mathbf{j}$ components respectively and set them to zero:\n**$\\mathbf{i}$ components:**\n$$ 2 - 1 + x = 0 $$\n$$ 1 + x = 0 \\implies x = -1 $$\n\n**$\\mathbf{j}$ components:**\n$$ 1 + 3 + y = 0 $$\n$$ 4 + y = 0 \\implies y = -4 $$\n\nHence, $x = -1$ and $y = -4$.",
+    "section_id": null
+  },
+  {
+    "question_number": 112,
+    "subject": "Further Mathematics",
+    "topic": "Statics",
+    "question_text": "To completely specify a force acting on a rigid body, which of the following sets of properties must be known?",
+    "options": {
+      "a": "Magnitude and direction only",
+      "b": "Magnitude and point of application only",
+      "c": "Magnitude, direction, and line of action (or point of application)",
+      "d": "Direction and line of action only"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A force is a vector quantity that has both magnitude and direction. However, when acting on an extended rigid body, the effect of the force (especially its turning effect or moment) also depends strictly on its **line of action** or **point of application**. Therefore, all three must be specified.",
+    "section_id": null
+  },
+  {
+    "question_number": 113,
+    "subject": "Further Mathematics",
+    "topic": "Statics",
+    "question_text": "A force of $10 \\text{ N}$ acts at an angle of $60^\\circ$ to the positive $x$-axis. Find its horizontal ($x$) and vertical ($y$) components respectively.",
+    "options": {
+      "a": "$5\\sqrt{3} \\text{ N}$ and $5 \\text{ N}$",
+      "b": "$5 \\text{ N}$ and $5\\sqrt{3} \\text{ N}$",
+      "c": "$10 \\text{ N}$ and $10\\sqrt{3} \\text{ N}$",
+      "d": "$5 \\text{ N}$ and $10 \\text{ N}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The horizontal component $F_x$ and vertical component $F_y$ of a force $F$ acting at an angle $\\theta$ to the horizontal are given by:\n$$F_x = F \\cos \\theta$$\n$$F_y = F \\sin \\theta$$\n\nSubstitute $F = 10 \\text{ N}$ and $\\theta = 60^\\circ$:\n$$F_x = 10 \\cos 60^\\circ = 10 \\times 0.5 = 5 \\text{ N}$$\n$$F_y = 10 \\sin 60^\\circ = 10 \\times \\frac{\\sqrt{3}}{2} = 5\\sqrt{3} \\text{ N}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 114,
+    "subject": "Further Mathematics",
+    "topic": "Statics",
+    "question_text": "Two forces of $8 \\text{ N}$ and $6 \\text{ N}$ act at a point, perpendicular to each other. Calculate the magnitude of their resultant force.",
+    "options": {
+      "a": "$2 \\text{ N}$",
+      "b": "$10 \\text{ N}$",
+      "c": "$14 \\text{ N}$",
+      "d": "$48 \\text{ N}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Since the forces act at right angles ($90^\\circ$), the magnitude of their resultant $R$ can be found using the Pythagorean theorem:\n$$R = \\sqrt{F_1^2 + F_2^2}$$\n$$R = \\sqrt{8^2 + 6^2}$$\n$$R = \\sqrt{64 + 36} = \\sqrt{100} = 10 \\text{ N}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 115,
+    "subject": "Further Mathematics",
+    "topic": "Statics",
+    "question_text": "Two forces of $3 \\text{ N}$ and $5 \\text{ N}$ act on a particle at an angle of $60^\\circ$ to each other. Find the magnitude of their resultant.",
+    "options": {
+      "a": "$4 \\text{ N}$",
+      "b": "$7 \\text{ N}$",
+      "c": "$8 \\text{ N}$",
+      "d": "$\\sqrt{19} \\text{ N}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Use the cosine rule for forces to find the resultant $R$:\n$$R^2 = P^2 + Q^2 + 2PQ \\cos \\theta$$\n\nSubstitute $P = 3$, $Q = 5$, and $\\theta = 60^\\circ$:\n$$R^2 = 3^2 + 5^2 + 2(3)(5) \\cos 60^\\circ$$\n$$R^2 = 9 + 25 + 30(0.5)$$\n$$R^2 = 34 + 15 = 49$$\n$$R = \\sqrt{49} = 7 \\text{ N}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 116,
+    "subject": "Further Mathematics",
+    "topic": "Statics",
+    "question_text": "Three coplanar forces acting at a point are in equilibrium. This implies that they can be represented in both magnitude and direction by the adjacent sides of a closed:",
+    "options": {
+      "a": "Square",
+      "b": "Rectangle",
+      "c": "Triangle",
+      "d": "Parallelogram"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "According to the **Triangle of Forces** principle, if three coplanar forces acting at a point are in equilibrium, they can be represented in magnitude and direction by the three sides of a triangle taken in continuous order.",
+    "section_id": null
+  },
+  {
+    "question_number": 117,
+    "subject": "Further Mathematics",
+    "topic": "Statics",
+    "question_text": "A block of weight $100 \\text{ N}$ is suspended in equilibrium by two light strings inclined at $30^\\circ$ and $60^\\circ$ to the horizontal ceiling. Find the tension in the string inclined at $60^\\circ$.",
+    "options": {
+      "a": "$50 \\text{ N}$",
+      "b": "$50\\sqrt{2} \\text{ N}$",
+      "c": "$50\\sqrt{3} \\text{ N}$",
+      "d": "$100 \\text{ N}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "We can solve this using **Lami's Theorem**.\nLet $T_1$ be the tension at $30^\\circ$ to the horizontal, and $T_2$ be the tension at $60^\\circ$ to the horizontal.\nThe angle between $T_1$ and the downward vertical weight ($W$) is $90^\\circ + 30^\\circ = 120^\\circ$.\nThe angle between $T_2$ and the weight is $90^\\circ + 60^\\circ = 150^\\circ$.\nThe angle between $T_1$ and $T_2$ is $180^\\circ - (30^\\circ + 60^\\circ) = 90^\\circ$.\n\nAccording to Lami's theorem:\n$$\\frac{T_2}{\\sin 120^\\circ} = \\frac{W}{\\sin 90^\\circ}$$\n$$\\frac{T_2}{\\frac{\\sqrt{3}}{2}} = \\frac{100}{1}$$\n$$T_2 = 100 \\times \\frac{\\sqrt{3}}{2} = 50\\sqrt{3} \\text{ N}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 118,
+    "subject": "Further Mathematics",
+    "topic": "Statics",
+    "question_text": "A block of mass $m$ weighing $50 \\text{ N}$ is held in equilibrium on a smooth plane inclined at $30^\\circ$ to the horizontal by a force $F$ applied parallel to the plane. Find the magnitude of the force $F$.",
+    "options": {
+      "a": "$25 \\text{ N}$",
+      "b": "$25\\sqrt{2} \\text{ N}$",
+      "c": "$25\\sqrt{3} \\text{ N}$",
+      "d": "$50 \\text{ N}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "To maintain equilibrium on a smooth inclined plane, the applied force parallel to the plane must balance the component of the block's weight acting down the plane.\n\nThe component of weight down the plane is $W \\sin \\theta$.\n$$F = W \\sin \\theta$$\n$$F = 50 \\sin 30^\\circ$$\n$$F = 50 \\times 0.5 = 25 \\text{ N}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 119,
+    "subject": "Further Mathematics",
+    "topic": "Statics",
+    "question_text": "Two like parallel forces of $10 \\text{ N}$ and $15 \\text{ N}$ act in the same direction at points $A$ and $B$, which are $5 \\text{ m}$ apart. Find the distance of their resultant from point $A$.",
+    "options": {
+      "a": "$2 \\text{ m}$",
+      "b": "$3 \\text{ m}$",
+      "c": "$4 \\text{ m}$",
+      "d": "$5 \\text{ m}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Let the resultant act at a distance $x$ from point $A$. The magnitude of the resultant $R$ is the sum of the forces: \n$$R = 10 + 15 = 25 \\text{ N}$$\n\nTaking moments about point $A$:\nThe moment of the $10 \\text{ N}$ force is zero (distance is 0).\nThe moment of the $15 \\text{ N}$ force is $15 \\times 5 = 75 \\text{ Nm}$.\nThe moment of the resultant must equal the sum of the moments of the individual forces:\n$$R \\times x = 75$$\n$$25x = 75 \\implies x = 3 \\text{ m}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 120,
+    "subject": "Further Mathematics",
+    "topic": "Statics",
+    "question_text": "A uniform plank $AB$ of length $4 \\text{ m}$ and weight $30 \\text{ N}$ rests on a single fulcrum placed $1 \\text{ m}$ from end $A$. What downward force applied at end $A$ will keep the plank in horizontal equilibrium?",
+    "options": {
+      "a": "$15 \\text{ N}$",
+      "b": "$30 \\text{ N}$",
+      "c": "$45 \\text{ N}$",
+      "d": "$60 \\text{ N}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Since the plank is uniform, its center of gravity acts at its midpoint, which is $2 \\text{ m}$ from either end. \nThe fulcrum is $1 \\text{ m}$ from $A$. Therefore, the center of gravity is $1 \\text{ m}$ away from the fulcrum ($2 \\text{ m} - 1 \\text{ m} = 1 \\text{ m}$).\n\nTaking moments about the fulcrum for equilibrium:\n$$\\text{Clockwise moment (weight)} = \\text{Anticlockwise moment (force at A)}$$\n$$30 \\text{ N} \\times 1 \\text{ m} = F \\times 1 \\text{ m}$$\n$$F = 30 \\text{ N}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 121,
+    "subject": "Further Mathematics",
+    "topic": "Statics",
+    "question_text": "A uniform beam of length $10 \\text{ m}$ and mass $20 \\text{ kg}$ is supported at its ends $P$ and $Q$. A point mass of $50 \\text{ kg}$ is placed $2 \\text{ m}$ from $P$. Calculate the reaction at the support $Q$. (Take $g = 10 \\text{ m/s}^2$)",
+    "options": {
+      "a": "$100 \\text{ N}$",
+      "b": "$150 \\text{ N}$",
+      "c": "$200 \\text{ N}$",
+      "d": "$500 \\text{ N}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "First, convert masses to weights using $W = mg$:\n- Weight of beam = $20 \\times 10 = 200 \\text{ N}$ (acting at the midpoint, $5 \\text{ m}$ from $P$).\n- Weight of point mass = $50 \\times 10 = 500 \\text{ N}$ (acting $2 \\text{ m}$ from $P$).\n\nLet the reaction at $Q$ be $R_Q$. Take moments about support $P$ to eliminate the reaction at $P$:\n$$\\text{Total Clockwise Moments} = \\text{Total Anticlockwise Moments}$$\n$$(500 \\times 2) + (200 \\times 5) = R_Q \\times 10$$\n$$1000 + 1000 = 10 R_Q$$\n$$2000 = 10 R_Q \\implies R_Q = 200 \\text{ N}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 122,
+    "subject": "Further Mathematics",
+    "topic": "Statics",
+    "question_text": "Two equal and opposite parallel forces of magnitude $15 \\text{ N}$ act on a rigid body. If they are separated by a perpendicular distance of $4 \\text{ m}$, what is the magnitude of the moment of the couple produced?",
+    "options": {
+      "a": "$0 \\text{ Nm}$",
+      "b": "$15 \\text{ Nm}$",
+      "c": "$30 \\text{ Nm}$",
+      "d": "$60 \\text{ Nm}$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "A couple consists of two equal and opposite non-collinear forces. The moment (or torque) of a couple is calculated by multiplying the magnitude of one of the forces by the perpendicular distance between their lines of action.\n\n$$\\text{Moment} = F \\times d$$\n$$\\text{Moment} = 15 \\text{ N} \\times 4 \\text{ m} = 60 \\text{ Nm}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 123,
+    "subject": "Further Mathematics",
+    "topic": "Statics",
+    "question_text": "A wooden block of weight $40 \\text{ N}$ rests on a rough horizontal floor. A horizontal force of $12 \\text{ N}$ is just sufficient to make the block start sliding. Calculate the coefficient of static friction.",
+    "options": {
+      "a": "$0.3$",
+      "b": "$0.4$",
+      "c": "$3.3$",
+      "d": "$4.0$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The block is on the verge of moving, so the applied force equals the limiting frictional force ($F_r = 12 \\text{ N}$).\nThe normal reaction ($R$) equals the weight of the block since the surface is horizontal ($R = 40 \\text{ N}$).\n\nThe formula for the coefficient of static friction is $\\mu = \\frac{F_r}{R}$.\n$$\\mu = \\frac{12}{40} = 0.3$$",
+    "section_id": null
+  },
+  {
+    "question_number": 124,
+    "subject": "Further Mathematics",
+    "topic": "Statics",
+    "question_text": "If the coefficient of limiting friction between a body and a flat surface is $\\frac{1}{\\sqrt{3}}$, what is the angle of friction?",
+    "options": {
+      "a": "$30^\\circ$",
+      "b": "$45^\\circ$",
+      "c": "$60^\\circ$",
+      "d": "$90^\\circ$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The relationship between the coefficient of friction ($\\mu$) and the angle of friction ($\\lambda$) is given by:\n$$\\mu = \\tan \\lambda$$\n\nGiven $\\mu = \\frac{1}{\\sqrt{3}}$:\n$$\\tan \\lambda = \\frac{1}{\\sqrt{3}}$$\n\nThe angle whose tangent is $\\frac{1}{\\sqrt{3}}$ is $30^\\circ$. Therefore, $\\lambda = 30^\\circ$.",
+    "section_id": null
+  },
+  {
+    "question_number": 125,
+    "subject": "Further Mathematics",
+    "topic": "Statics",
+    "question_text": "A block is placed on a rough plane inclined at an angle $\\theta$ to the horizontal. If the block is on the verge of sliding down the plane under its own weight, which of the following equations correctly relates the coefficient of static friction $\\mu$ and the angle of inclination $\\theta$?",
+    "options": {
+      "a": "$\\mu = \\sin \\theta$",
+      "b": "$\\mu = \\cos \\theta$",
+      "c": "$\\mu = \\tan \\theta$",
+      "d": "$\\mu = \\cot \\theta$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "For a block on the verge of sliding down an inclined plane under gravity alone, the component of weight down the plane ($W \\sin \\theta$) is exactly balanced by the limiting frictional force up the plane ($F_r = \\mu R$).\n\nThe normal reaction is $R = W \\cos \\theta$.\nEquating the forces parallel to the plane:\n$$W \\sin \\theta = \\mu (W \\cos \\theta)$$\n\nDivide both sides by $W \\cos \\theta$:\n$$\\mu = \\frac{\\sin \\theta}{\\cos \\theta} = \\tan \\theta$$\nThis angle $\\theta$ is famously known as the angle of repose.",
+    "section_id": null
+  },
+  {
+    "question_number": 126,
+    "subject": "Further Mathematics",
+    "topic": "Statics",
+    "question_text": "Three forces $2 \\text{ N}, 4 \\text{ N},$ and $6 \\text{ N}$ act along the sides $AB, BC,$ and $CA$ respectively of an equilateral triangle $ABC$ taken in order. Find the magnitude of the resultant force.",
+    "options": {
+      "a": "$2 \\text{ N}$",
+      "b": "$2\\sqrt{3} \\text{ N}$",
+      "c": "$4 \\text{ N}$",
+      "d": "$12 \\text{ N}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Set the triangle on a Cartesian plane such that $BC$ is along the positive $x$-axis. The internal angles of an equilateral triangle are $60^\\circ$.\n- **Force 1 ($BC$ = $4 \\text{ N}$):** Directed at $0^\\circ$. Vector $= 4\\mathbf{i}$.\n- **Force 2 ($CA$ = $6 \\text{ N}$):** Directed along $CA$ (external angle $120^\\circ$). Vector $= 6\\cos(120^\\circ)\\mathbf{i} + 6\\sin(120^\\circ)\\mathbf{j} = -3\\mathbf{i} + 3\\sqrt{3}\\mathbf{j}$.\n- **Force 3 ($AB$ = $2 \\text{ N}$):** Directed along $AB$ (external angle $240^\\circ$). Vector $= 2\\cos(240^\\circ)\\mathbf{i} + 2\\sin(240^\\circ)\\mathbf{j} = -1\\mathbf{i} - \\sqrt{3}\\mathbf{j}$.\n\nSum the forces horizontally ($X$) and vertically ($Y$):\n$$X = 4 - 3 - 1 = 0$$\n$$Y = 0 + 3\\sqrt{3} - \\sqrt{3} = 2\\sqrt{3}$$\n\nThe magnitude of the resultant is $R = \\sqrt{X^2 + Y^2} = \\sqrt{0^2 + (2\\sqrt{3})^2} = 2\\sqrt{3} \\text{ N}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 127,
+    "subject": "Further Mathematics",
+    "topic": "Dynamics - Equations of Motion",
+    "question_text": "A car accelerates uniformly from rest to a velocity of $20\\text{ m s}^{-1}$ in $10\\text{ s}$. Calculate the distance traveled during this time.",
+    "options": {
+      "a": "$100\\text{ m}$",
+      "b": "$200\\text{ m}$",
+      "c": "$50\\text{ m}$",
+      "d": "$10\\text{ m}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Using the equation of motion that relates distance, initial velocity, final velocity, and time:\n$$s = \\left(\\frac{u + v}{2}\\right)t$$\nGiven:\nInitial velocity, $u = 0\\text{ m s}^{-1}$ (from rest)\nFinal velocity, $v = 20\\text{ m s}^{-1}$\nTime, $t = 10\\text{ s}$\n\nSubstitute the values:\n$$s = \\left(\\frac{0 + 20}{2}\\right) \\times 10$$\n$$s = 10 \\times 10 = 100\\text{ m}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 128,
+    "subject": "Further Mathematics",
+    "topic": "Dynamics - Equations of Motion",
+    "question_text": "A train moving at $30\\text{ m s}^{-1}$ is brought to rest by a constant braking force over a distance of $50\\text{ m}$. What is the retardation of the train?",
+    "options": {
+      "a": "$4.5\\text{ m s}^{-2}$",
+      "b": "$9.0\\text{ m s}^{-2}$",
+      "c": "$18.0\\text{ m s}^{-2}$",
+      "d": "$0.6\\text{ m s}^{-2}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Using the equation of motion $v^2 = u^2 + 2as$:\nGiven:\nInitial velocity, $u = 30\\text{ m s}^{-1}$\nFinal velocity, $v = 0\\text{ m s}^{-1}$ (brought to rest)\nDistance, $s = 50\\text{ m}$\n\nSubstitute the values:\n$$0^2 = 30^2 + 2 \\times a \\times 50$$\n$$0 = 900 + 100a$$\n$$100a = -900$$\n$$a = -9.0\\text{ m s}^{-2}$$\n\nRetardation is the negative of acceleration, so the retardation is $9.0\\text{ m s}^{-2}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 129,
+    "subject": "Further Mathematics",
+    "topic": "Dynamics - Equations of Motion",
+    "question_text": "A particle is projected vertically upwards with a velocity of $25\\text{ m s}^{-1}$. Find the times at which it is $20\\text{ m}$ above the point of projection. (Take $g = 10\\text{ m s}^{-2}$)",
+    "options": {
+      "a": "$1\\text{ s}$ and $4\\text{ s}$",
+      "b": "$2\\text{ s}$ and $3\\text{ s}$",
+      "c": "$1\\text{ s}$ and $5\\text{ s}$",
+      "d": "$2\\text{ s}$ and $4\\text{ s}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "Using the equation of motion under gravity: $s = ut - \\frac{1}{2}gt^2$\nGiven:\n$s = 20\\text{ m}$\n$u = 25\\text{ m s}^{-1}$\n$g = 10\\text{ m s}^{-2}$\n\nSubstitute the values:\n$$20 = 25t - \\frac{1}{2}(10)t^2$$\n$$20 = 25t - 5t^2$$\n\nDivide the entire equation by 5 and rearrange into a standard quadratic form:\n$$t^2 - 5t + 4 = 0$$\n\nFactorize the quadratic equation:\n$$(t - 1)(t - 4) = 0$$\n\nTherefore, $t = 1\\text{ s}$ or $t = 4\\text{ s}$. The particle is at $20\\text{ m}$ on its way up at $1\\text{ s}$ and on its way down at $4\\text{ s}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 130,
+    "subject": "Further Mathematics",
+    "topic": "Dynamics - Impulse and Momentum",
+    "question_text": "A constant force of $20\\text{ N}$ acts on a body for $0.5\\text{ seconds}$. Calculate the impulse of the force.",
+    "options": {
+      "a": "$40\\text{ N s}$",
+      "b": "$10\\text{ N s}$",
+      "c": "$20.5\\text{ N s}$",
+      "d": "$19.5\\text{ N s}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Impulse ($I$) is defined as the product of force ($F$) and the time interval ($\\Delta t$) during which it acts.\n$$I = F \\times \\Delta t$$\nGiven:\n$F = 20\\text{ N}$\n$\\Delta t = 0.5\\text{ s}$\n\n$$I = 20 \\times 0.5 = 10\\text{ N s}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 131,
+    "subject": "Further Mathematics",
+    "topic": "Dynamics - Impulse and Momentum",
+    "question_text": "A body of mass $2\\text{ kg}$ moving with a velocity of $4\\text{ m s}^{-1}$ collides with a stationary body of mass $3\\text{ kg}$. If they coalesce (stick together) after impact, find their common velocity.",
+    "options": {
+      "a": "$1.6\\text{ m s}^{-1}$",
+      "b": "$2.4\\text{ m s}^{-1}$",
+      "c": "$0.8\\text{ m s}^{-1}$",
+      "d": "$2.0\\text{ m s}^{-1}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "By the principle of conservation of linear momentum:\nTotal initial momentum = Total final momentum\n$$m_1u_1 + m_2u_2 = (m_1 + m_2)v$$\n\nGiven:\n$m_1 = 2\\text{ kg}$, $u_1 = 4\\text{ m s}^{-1}$\n$m_2 = 3\\text{ kg}$, $u_2 = 0\\text{ m s}^{-1}$ (stationary)\n\nSubstitute the values:\n$$(2 \\times 4) + (3 \\times 0) = (2 + 3)v$$\n$$8 + 0 = 5v$$\n$$v = \\frac{8}{5} = 1.6\\text{ m s}^{-1}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 132,
+    "subject": "Further Mathematics",
+    "topic": "Dynamics - Impulse and Momentum",
+    "question_text": "A gun of mass $5\\text{ kg}$ fires a bullet of mass $50\\text{ g}$ with a horizontal velocity of $200\\text{ m s}^{-1}$. Calculate the recoil velocity of the gun.",
+    "options": {
+      "a": "$20\\text{ m s}^{-1}$",
+      "b": "$2\\text{ m s}^{-1}$",
+      "c": "$0.2\\text{ m s}^{-1}$",
+      "d": "$5\\text{ m s}^{-1}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Using the principle of conservation of momentum. Initially, both gun and bullet are at rest, so total initial momentum is $0$.\n$$0 = M_g V_g + m_b v_b$$\n\nGiven:\nMass of gun, $M_g = 5\\text{ kg}$\nMass of bullet, $m_b = 50\\text{ g} = 0.05\\text{ kg}$\nVelocity of bullet, $v_b = 200\\text{ m s}^{-1}$\n\nSubstitute the values:\n$$0 = 5V_g + (0.05 \\times 200)$$\n$$0 = 5V_g + 10$$\n$$5V_g = -10$$\n$$V_g = -2\\text{ m s}^{-1}$$\n\nThe negative sign indicates the gun moves in the opposite direction to the bullet. The recoil velocity is $2\\text{ m s}^{-1}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 133,
+    "subject": "Further Mathematics",
+    "topic": "Dynamics - Impulse and Momentum",
+    "question_text": "A ball of mass $0.2\\text{ kg}$ moving at $15\\text{ m s}^{-1}$ strikes a vertical wall normally and rebounds with a speed of $10\\text{ m s}^{-1}$. Find the magnitude of the impulse exerted by the wall on the ball.",
+    "options": {
+      "a": "$1.0\\text{ N s}$",
+      "b": "$5.0\\text{ N s}$",
+      "c": "$3.0\\text{ N s}$",
+      "d": "$50.0\\text{ N s}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Impulse is equal to the change in momentum:\n$$I = m(v - u)$$\nLet the initial direction towards the wall be positive. Then:\nInitial velocity, $u = 15\\text{ m s}^{-1}$\nFinal velocity (rebound), $v = -10\\text{ m s}^{-1}$\nMass, $m = 0.2\\text{ kg}$\n\nSubstitute the values:\n$$I = 0.2(-10 - 15)$$\n$$I = 0.2(-25) = -5.0\\text{ N s}$$\n\nThe magnitude of the impulse is $5.0\\text{ N s}$.\n*(Note: Option A is a common distractor if a student incorrectly subtracts the speeds without accounting for the change in direction: $0.2(15-10) = 1.0$)*",
+    "section_id": null
+  },
+  {
+    "question_number": 134,
+    "subject": "Further Mathematics",
+    "topic": "Dynamics - Projectiles",
+    "question_text": "A projectile is fired with an initial velocity of $40\\text{ m s}^{-1}$ at an angle of $30^\\circ$ to the horizontal. Calculate its time of flight. (Take $g = 10\\text{ m s}^{-2}$)",
+    "options": {
+      "a": "$2\\text{ s}$",
+      "b": "$4\\text{ s}$",
+      "c": "$4\\sqrt{3}\\text{ s}$",
+      "d": "$8\\text{ s}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The formula for the time of flight of a projectile is:\n$$T = \\frac{2u \\sin \\theta}{g}$$\nGiven:\n$u = 40\\text{ m s}^{-1}$\n$\\theta = 30^\\circ$\n$g = 10\\text{ m s}^{-2}$\n\nSubstitute the values:\n$$T = \\frac{2(40) \\sin 30^\\circ}{10}$$\nSince $\\sin 30^\\circ = 0.5$:\n$$T = \\frac{80 \\times 0.5}{10} = \\frac{40}{10} = 4\\text{ s}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 135,
+    "subject": "Further Mathematics",
+    "topic": "Dynamics - Projectiles",
+    "question_text": "A stone is projected with a speed of $20\\text{ m s}^{-1}$ at an angle of $60^\\circ$ to the horizontal. What is the maximum height reached? (Take $g = 10\\text{ m s}^{-2}$)",
+    "options": {
+      "a": "$15\\text{ m}$",
+      "b": "$10\\text{ m}$",
+      "c": "$20\\text{ m}$",
+      "d": "$5\\text{ m}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The formula for the maximum height of a projectile is:\n$$H = \\frac{u^2 \\sin^2 \\theta}{2g}$$\nGiven:\n$u = 20\\text{ m s}^{-1}$\n$\\theta = 60^\\circ$\n$g = 10\\text{ m s}^{-2}$\n\nSubstitute the values:\n$$H = \\frac{20^2 \\times (\\sin 60^\\circ)^2}{2 \\times 10}$$\nSince $\\sin 60^\\circ = \\frac{\\sqrt{3}}{2}$:\n$$H = \\frac{400 \\times \\left(\\frac{\\sqrt{3}}{2}\\right)^2}{20}$$\n$$H = \\frac{400 \\times \\frac{3}{4}}{20} = \\frac{300}{20} = 15\\text{ m}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 136,
+    "subject": "Further Mathematics",
+    "topic": "Dynamics - Projectiles",
+    "question_text": "A missile is launched with a velocity of $50\\text{ m s}^{-1}$ at an angle of $15^\\circ$ to the horizontal. Calculate its horizontal range. (Take $g = 10\\text{ m s}^{-2}$)",
+    "options": {
+      "a": "$62.5\\text{ m}$",
+      "b": "$125\\text{ m}$",
+      "c": "$250\\text{ m}$",
+      "d": "$125\\sqrt{3}\\text{ m}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The formula for the horizontal range of a projectile is:\n$$R = \\frac{u^2 \\sin 2\\theta}{g}$$\nGiven:\n$u = 50\\text{ m s}^{-1}$\n$\\theta = 15^\\circ \\implies 2\\theta = 30^\\circ$\n$g = 10\\text{ m s}^{-2}$\n\nSubstitute the values:\n$$R = \\frac{50^2 \\times \\sin 30^\\circ}{10}$$\n$$R = \\frac{2500 \\times 0.5}{10}$$\n$$R = \\frac{1250}{10} = 125\\text{ m}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 137,
+    "subject": "Further Mathematics",
+    "topic": "Dynamics - Projectiles",
+    "question_text": "A particle is projected from the origin with an initial velocity of $(3\\mathbf{i} + 4\\mathbf{j})\\text{ m s}^{-1}$, where $\\mathbf{i}$ and $\\mathbf{j}$ are unit vectors along the horizontal and vertical directions respectively. Find the speed of the particle after $0.2\\text{ seconds}$. (Take $g = 10\\text{ m s}^{-2}$)",
+    "options": {
+      "a": "$5\\text{ m s}^{-1}$",
+      "b": "$\\sqrt{13}\\text{ m s}^{-1}$",
+      "c": "$\\sqrt{5}\\text{ m s}^{-1}$",
+      "d": "$3\\text{ m s}^{-1}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The velocity vector at any time $t$ is given by $\\mathbf{v} = v_x\\mathbf{i} + v_y\\mathbf{j}$.\nThe horizontal velocity remains constant:\n$$v_x = u_x = 3\\text{ m s}^{-1}$$\n\nThe vertical velocity changes under gravity ($v_y = u_y - gt$):\n$$v_y = 4 - (10 \\times 0.2) = 4 - 2 = 2\\text{ m s}^{-1}$$\n\nThe velocity vector at $t = 0.2\\text{ s}$ is $(3\\mathbf{i} + 2\\mathbf{j})\\text{ m s}^{-1}$.\nThe speed is the magnitude of this velocity vector:\n$$\\text{Speed} = |\\mathbf{v}| = \\sqrt{v_x^2 + v_y^2}$$\n$$\\text{Speed} = \\sqrt{3^2 + 2^2} = \\sqrt{9 + 4} = \\sqrt{13}\\text{ m s}^{-1}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 138,
+    "subject": "Further Mathematics",
+    "topic": "Dynamics - Projectiles",
+    "question_text": "A ball is kicked from ground level with an initial velocity of $20\\text{ m s}^{-1}$ at an angle of $45^\\circ$ to the horizontal. What is the height of the ball when it is at a horizontal distance of $20\\text{ m}$ from the point of projection? (Take $g = 10\\text{ m s}^{-2}$)",
+    "options": {
+      "a": "$5\\text{ m}$",
+      "b": "$10\\text{ m}$",
+      "c": "$15\\text{ m}$",
+      "d": "$20\\text{ m}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The equation of trajectory for a projectile is:\n$$y = x \\tan \\theta - \\frac{gx^2}{2u^2 \\cos^2 \\theta}$$\nGiven:\n$x = 20\\text{ m}$\n$u = 20\\text{ m s}^{-1}$\n$\\theta = 45^\\circ$\n$g = 10\\text{ m s}^{-2}$\n\nSubstitute the values into the equation:\n$$y = 20 \\tan 45^\\circ - \\frac{10(20)^2}{2(20)^2 \\cos^2 45^\\circ}$$\nSince $\\tan 45^\\circ = 1$ and $\\cos 45^\\circ = \\frac{1}{\\sqrt{2}}$ (so $\\cos^2 45^\\circ = 0.5$):\n$$y = 20(1) - \\frac{10 \\times 400}{2 \\times 400 \\times 0.5}$$\n$$y = 20 - \\frac{4000}{400}$$\n$$y = 20 - 10 = 10\\text{ m}$$",
+    "section_id": null
+  }
+]

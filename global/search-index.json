@@ -964,5 +964,19 @@
     "short_description": "19-question section covering NOCTI Biotechnology 4275 OSHA safety protocols, SDS interpretation, and facility safety equipment.",
     "path": "usa/nocti/biotechnology4275/nocti_safety.json",
     "suitePath": "configs/nocti-biotechnology-4275.json"
+  },
+  {
+    "id": "neco_furtherMaths_part1",
+    "title": "NECO Further Mathematics Part 1: Pure Mathematics Foundations",
+    "short_description": "100-question practice set covering Sets, Surds, Binary Operations, Logical Reasoning, Functions, Polynomial Functions, Rational Functions, Indices & Logarithms, Permutations & Combinations, and the Binomial Theorem.",
+    "path": "nigeria/NECO_SSCE/furtherMathematics/furtherMathsPart1.json",
+    "suitePath": "configs/neco-ssce.json"
+  },
+  {
+    "id": "neco_furtherMaths_part2",
+    "title": "NECO Further Mathematics Part 2: Calculus, Vectors, Mechanics & Statistics",
+    "short_description": "138-question practice set covering Sequences & Series, Matrices, Trigonometry, Co-ordinate Geometry, Differentiation, Integration, Statistics, Probability, Vectors, Statics, and Dynamics.",
+    "path": "nigeria/NECO_SSCE/furtherMathematics/furtherMathsPart2.json",
+    "suitePath": "configs/neco-ssce.json"
   }
 ]

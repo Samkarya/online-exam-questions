@@ -1,0 +1,34 @@
+[
+    {
+        "id": "neco_furtherMaths_part1",
+        "category": "NECO_SSCE",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "NECO Further Mathematics Part 1: Pure Mathematics Foundations",
+        "short_description": "100-question practice set covering Sets, Surds, Binary Operations, Logical Reasoning, Functions, Polynomial Functions, Rational Functions, Indices & Logarithms, Permutations & Combinations, and the Binomial Theorem.",
+        "description": "### Module: Pure Mathematics Foundations\n\n**Focus:** Elementary Pure Mathematics | **Level:** Senior Secondary (SS3)\n\nBuild a strong foundation in the introductory Pure Mathematics topics tested in the National Examinations Council (NECO) Senior School Certificate Examination (SSCE) Further Mathematics paper with this practice module. It features **100 multiple-choice questions** spanning the early sections of the syllabus.\n\n---\n\n#### Key Curriculum Topics Covered:\n* **Sets:** Set notation, disjoint sets, universal sets and complements, Venn diagrams, and the commutative, associative, and distributive laws.\n* **Surds:** Simplification and rationalization of surds of the form √n, a√n, and a+b√n.\n* **Binary Operations:** Closure, commutativity, associativity, distributivity, identity elements, and inverses.\n* **Logical Reasoning:** Rules of syntax, true/false statements, implications, deductions, and truth tables.\n* **Functions:** Domain and co-domain, one-to-one/onto/identity/constant mappings, inverse functions, and composite functions.\n* **Polynomial Functions:** Linear, quadratic, and cubic functions, equations, and inequalities.\n* **Rational Functions:** Rational functions of the form f(x)/g(x) and resolution into partial fractions.\n* **Indices and Logarithmic Functions:** Laws of indices and logarithms.\n* **Permutations and Combinations:** Simple cases of arrangements and selection of objects.\n* **Binomial Theorem:** Expansion of (a + b)^n and the approximation (1+x)^n ≈ 1+nx for rational n.",
+        "path": "nigeria/NECO_SSCE/furtherMathematics/furtherMathsPart1.json",
+        "isOfficial": false,
+        "seo_title": "NECO Further Mathematics Part 1 Practice Test | Pure Mathematics",
+        "seo_description": "Practice 100 free NECO Further Mathematics questions covering Sets, Surds, Binary Operations, Functions, Polynomial & Rational Functions, Indices, Logarithms, Permutations, Combinations, and the Binomial Theorem."
+    },
+    {
+        "id": "neco_furtherMaths_part2",
+        "category": "NECO_SSCE",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "NECO Further Mathematics Part 2: Calculus, Vectors, Mechanics & Statistics",
+        "short_description": "138-question practice set covering Sequences & Series, Matrices, Trigonometry, Co-ordinate Geometry, Differentiation, Integration, Statistics, Probability, Vectors, Statics, and Dynamics.",
+        "description": "### Module: Calculus, Vectors, Mechanics & Statistics\n\n**Focus:** Advanced Pure Mathematics, Statistics & Probability, Vectors & Mechanics | **Level:** Senior Secondary (SS3)\n\nMaster the advanced Pure Mathematics topics alongside the Statistics/Probability and Vectors/Mechanics sections of the National Examinations Council (NECO) Senior School Certificate Examination (SSCE) Further Mathematics paper with this practice module. It features **138 multiple-choice questions** spanning the second half of the syllabus.\n\n---\n\n#### Key Curriculum Topics Covered:\n* **Sequences and Series:** Finite and infinite sequences and series, Arithmetic and Geometric Progressions, and recurrence series.\n* **Matrices and Linear Transformation:** Matrices, determinants, inverse of 2 × 2 matrices, and linear transformation.\n* **Trigonometry:** Trigonometric ratios and rules, compound and multiple angles, trigonometric functions and equations.\n* **Co-ordinate Geometry:** Straight lines and conic sections.\n* **Differentiation:** Limits, derivatives, differentiation of polynomials, trigonometric and transcendental functions, product/quotient rules, implicit differentiation, second-order derivatives, rates of change, and maxima/minima.\n* **Integration:** Indefinite and definite integrals and their applications.\n* **Statistics:** Tabulation and graphical representation of data, measures of location, dispersion, and correlation.\n* **Probability:** Meaning of probability, relative frequency, simple sample spaces, addition and multiplication rules, and probability distributions.\n* **Vectors:** Scalar and vector quantities, vector algebra, unit and position vectors, resolution and composition of vectors, and the scalar (dot) and vector (cross) products.\n* **Statics:** Forces, composition and resolution of coplanar forces, equilibrium of bodies, resultants, moments, and friction.\n* **Dynamics:** Equations of motion, impulse and momentum equations, and projectiles.",
+        "path": "nigeria/NECO_SSCE/furtherMathematics/furtherMathsPart2.json",
+        "isOfficial": false,
+        "seo_title": "NECO Further Mathematics Part 2 Practice Test | Calculus, Vectors & Mechanics",
+        "seo_description": "Practice 138 free NECO Further Mathematics questions covering Sequences & Series, Matrices, Trigonometry, Co-ordinate Geometry, Differentiation, Integration, Statistics, Probability, Vectors, Statics, and Dynamics."
+    }
+]
