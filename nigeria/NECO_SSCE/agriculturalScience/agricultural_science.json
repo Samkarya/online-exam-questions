@@ -1,0 +1,2258 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Agricultural Science",
+    "topic": "Meaning and importance of agriculture",
+    "question_text": "Which of the following is **NOT** a direct importance of agriculture to the economic development of West African nations?",
+    "options": {
+      "a": "Provision of food for the growing population",
+      "b": "Provision of raw materials for industries",
+      "c": "Provision of foreign exchange through exports",
+      "d": "Provision of mineral resources for construction"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Agriculture contributes to the economy through the provision of food, foreign exchange (via export crops like cocoa and groundnut), and raw materials for agro-allied industries. However, the **provision of mineral resources** (such as crude oil, gold, and limestone) falls under the mining sector, not agriculture.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Agricultural Science",
+    "topic": "Meaning and importance of agriculture",
+    "question_text": "Agriculture provides raw materials for agro-allied industries. Which of the following matches a crop strictly to its correct industrial use?",
+    "options": {
+      "a": "Cocoa for the textile industry",
+      "b": "Cotton for the margarine industry",
+      "c": "Rubber for the tyre manufacturing industry",
+      "d": "Oil palm for the paper industry"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Agro-allied industries depend on agriculture for their primary raw materials. The correct linkage is **Rubber** producing latex used in the **tyre manufacturing industry**. \n*   *Cocoa* is used in the beverage and chocolate industry.\n*   *Cotton* is used for textiles.\n*   *Oil palm* is used for soap, margarine, and cosmetics.",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Agricultural Science",
+    "topic": "Problems of agricultural development and possible solutions",
+    "question_text": "Which of the following is a major **socio-cultural problem** affecting agricultural development in West Africa?",
+    "options": {
+      "a": "Inadequate and unpredictable rainfall",
+      "b": "The traditional land tenure system",
+      "c": "Lack of heavy farm machinery",
+      "d": "High incidence of pest infestation"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Problems of agricultural development can be categorized into environmental, economic, and socio-cultural factors. The **traditional land tenure system** is a major socio-cultural problem because it leads to land fragmentation, making large-scale commercial farming difficult. Rainfall and pests are environmental problems, while lack of machinery is an economic/technological problem.",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Agricultural Science",
+    "topic": "Problems of agricultural development and possible solutions",
+    "question_text": "The most effective long-term solution to the problem of poor transportation of agricultural produce from rural areas to urban markets is by:",
+    "options": {
+      "a": "Providing cold storage facilities for all farmers",
+      "b": "Constructing an efficient network of feeder roads",
+      "c": "Establishing more market stalls in the rural areas",
+      "d": "Purchasing heavy tractors for local farmers"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Agricultural produce often rots in rural areas due to the inability to move them to markets. **Constructing feeder roads** directly links rural farming communities to major highways and urban markets, serving as the most effective solution to transportation problems. Tractors are for farm operations, not primary produce transportation.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Agricultural Science",
+    "topic": "Meaning and differences between subsistence and commercial agriculture",
+    "question_text": "A major distinguishing characteristic of **commercial agriculture** when compared to subsistence agriculture is that commercial agriculture:",
+    "options": {
+      "a": "Requires a very small expanse of land",
+      "b": "Uses mainly unpaid family labour",
+      "c": "Aims primarily at maximizing profit",
+      "d": "Relies solely on traditional farm tools"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Commercial agriculture** is practiced on a large scale primarily for sale and **profit maximization**. In contrast, subsistence agriculture is characterized by small land holdings, reliance on traditional tools (cutlass and hoe), use of family labour, and production primarily for the farmer's family consumption.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Agricultural Science",
+    "topic": "Meaning and differences between subsistence and commercial agriculture",
+    "question_text": "A farmer cultivates a two-hectare piece of land, uses predominantly a cutlass and hoe, and consumes $90\\%$ of the farm produce with his family. This farming system is best described as:",
+    "options": {
+      "a": "Plantation agriculture",
+      "b": "Subsistence agriculture",
+      "c": "Mechanized farming",
+      "d": "Mixed farming"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "This scenario perfectly describes **subsistence agriculture**. The key indicators are:\n1.  Small land area (2 hectares)\n2.  Use of crude implements (cutlass and hoe)\n3.  High retention of produce for family consumption ($90\\%$ consumed, leaving very little for sale).",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Agricultural Science",
+    "topic": "Roles of government in agricultural development",
+    "question_text": "Which of the following government programmes is primarily designed to educate and train rural farmers on new and improved farming techniques?",
+    "options": {
+      "a": "Agricultural insurance scheme",
+      "b": "Agricultural extension services",
+      "c": "Farm settlement schemes",
+      "d": "Subsidized farm inputs distribution"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **agricultural extension service** is the educational arm of the ministry of agriculture. Its primary role is to take research findings, new innovations, and improved farming techniques from research institutes and educate local farmers on how to adopt them to improve yield.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Agricultural Science",
+    "topic": "Roles of government in agricultural development",
+    "question_text": "The government can best encourage young school leavers to take up agriculture as a profession by:",
+    "options": {
+      "a": "Increasing taxes on locally produced agricultural goods",
+      "b": "Providing basic rural amenities and accessible credit facilities",
+      "c": "Confiscating family lands to build modern cities",
+      "d": "Importing more food items to reduce domestic prices"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Youths are often discouraged from agriculture due to the lack of infrastructure in rural areas and the difficulty in securing capital. The government can encourage them by providing **basic amenities (electricity, pipe-borne water, good roads) and affordable credit/loan facilities** to make modern farming attractive and viable.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Agricultural Science",
+    "topic": "Role of non-governmental organizations in agricultural development",
+    "question_text": "Non-Governmental Organizations (NGOs) contribute to agricultural development in West Africa primarily through which of the following activities?",
+    "options": {
+      "a": "Formulating and enforcing national agricultural policies",
+      "b": "Funding agricultural research and building farmers' capacity",
+      "c": "Arresting and prosecuting farmers who default on loans",
+      "d": "Distributing acquired national land to local peasant farmers"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "NGOs (such as the Bill & Melinda Gates Foundation or World Vision) are independent of the government. They cannot formulate national laws, distribute state-owned land, or act as law enforcement. Instead, they support agriculture by **funding research, providing grants, and building the capacity/skills** of rural farmers.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Agricultural Science",
+    "topic": "Role of non-governmental organizations in agricultural development",
+    "question_text": "Which of the following bodies is an example of an international research institute/organization that actively supports crop improvement and agricultural development in West Africa?",
+    "options": {
+      "a": "Central Bank of Nigeria (CBN)",
+      "b": "International Institute of Tropical Agriculture (IITA)",
+      "c": "Nigerian Agricultural Insurance Corporation (NAIC)",
+      "d": "River Basin Development Authority (RBDA)"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The **International Institute of Tropical Agriculture (IITA)** is a major international non-profit research institute based in Africa that works with international NGOs and global partners to improve crop quality (like cassava and cowpea) and ensure food security. The other options are national government agencies/parastatals in Nigeria.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Agricultural Science",
+    "topic": "Agricultural laws and reforms",
+    "question_text": "Under the Land Use Act (Decree) of 1978 in Nigeria, the ownership of all land within a state is legally vested in the hands of the:",
+    "options": {
+      "a": "Traditional rulers and village heads",
+      "b": "Local Government Chairmen",
+      "c": "State Governor",
+      "d": "Federal Minister of Agriculture"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **Land Use Act of 1978** is a critical agricultural law in Nigeria. It abolished the traditional land tenure systems and vested all land in the territory of each state in the **State Governor**, who holds it in trust and administers it for the use and common benefit of all Nigerians.",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Agricultural Science",
+    "topic": "Agricultural laws and reforms",
+    "question_text": "A primary objective of agricultural land reforms, such as the Land Use Act, is to:",
+    "options": {
+      "a": "Prevent foreign investors from ever acquiring land in the country",
+      "b": "Make land easily accessible for genuine agricultural and industrial purposes",
+      "c": "Transfer land ownership entirely from poor farmers to wealthy politicians",
+      "d": "Encourage land fragmentation to ensure every citizen gets a small plot"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Agricultural land reforms are designed to solve the problems created by traditional land tenure, such as extreme land fragmentation and difficulty in securing large plots. The main objective is to **make land easily accessible to individuals and corporate bodies for large-scale agricultural and industrial development**, thereby boosting economic growth.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Agricultural Science",
+    "topic": "Meaning and importance of agricultural ecology",
+    "question_text": "Agricultural ecology is best defined as the study of the:",
+    "options": {
+      "a": "Classification and naming of farm animals and crops",
+      "b": "Relationship between agricultural organisms and their environment",
+      "c": "Distribution of agro-allied industries in an ecological zone",
+      "d": "Various methods of controlling agricultural pests"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Agricultural ecology** is the study of the interactions between plants, animals, and their environment within an agricultural ecosystem. It focuses on how biotic and abiotic factors interact on the farm.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Agricultural Science",
+    "topic": "Meaning and importance of agricultural ecology",
+    "question_text": "Which of the following is an abiotic component of a farm ecosystem?",
+    "options": {
+      "a": "Soil microorganisms",
+      "b": "Weed seeds",
+      "c": "Relative humidity",
+      "d": "Crop pests"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "In an ecosystem, **abiotic factors** are the non-living physical and chemical components. **Relative humidity**, temperature, light, and soil pH are abiotic, whereas microorganisms, weeds, and pests are biotic (living) components.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Agricultural Science",
+    "topic": "Land and its uses",
+    "question_text": "Which of the following activities represents a purely agricultural use of land?",
+    "options": {
+      "a": "Establishment of game reserves",
+      "b": "Construction of rural access roads",
+      "c": "Cultivation of forage crops",
+      "d": "Mining of mineral resources"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Land use can be classified into agricultural and non-agricultural. The **cultivation of forage crops** (pasture) for feeding livestock is a direct agricultural use. Construction, mining, and game reserves (wildlife conservation) fall under non-agricultural or specialized land uses.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Agricultural Science",
+    "topic": "Land and its uses",
+    "question_text": "The continuous conversion of arable land for the building of housing estates and industrial complexes usually leads to:",
+    "options": {
+      "a": "An increase in total crop yield per hectare",
+      "b": "A decrease in the land available for agriculture",
+      "c": "An improvement in soil fertility and structure",
+      "d": "A reduction in agricultural pests and diseases"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Urbanization and industrialization compete directly with agriculture for land. Building housing estates and factories on fertile land leads to a **decrease in the total area of land available for agricultural production**.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Agricultural Science",
+    "topic": "Factors affecting land availability for agricultural purpose",
+    "question_text": "Which of the following factors is a demographic factor affecting the availability of land for agriculture?",
+    "options": {
+      "a": "Soil erosion",
+      "b": "High population density",
+      "c": "Land topography",
+      "d": "Climatic conditions"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**High population density** is a demographic (human population) factor. As population increases, more land is diverted from farming to settlements, roads, and other infrastructures, reducing agricultural land availability.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Agricultural Science",
+    "topic": "Factors affecting land availability for agricultural purpose",
+    "question_text": "A steep land topography affects agriculture negatively primarily because it:",
+    "options": {
+      "a": "Increases the rate of soil erosion",
+      "b": "Retains too much water for crop roots",
+      "c": "Prevents the incidence of crop pests",
+      "d": "Encourages heavy weed growth"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Steep slopes (topography) allow rainwater to flow downwards at high velocity, which **increases the rate of soil erosion**. This washes away fertile topsoil and makes the use of farm machinery very difficult.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Agricultural Science",
+    "topic": "Agro-allied industries and relationship between agriculture and industry",
+    "question_text": "Which of the following is a direct contribution of the industrial sector to agricultural development?",
+    "options": {
+      "a": "Provision of hides and skins",
+      "b": "Provision of market spaces",
+      "c": "Provision of agro-chemicals and fertilizers",
+      "d": "Provision of raw materials for processing"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The relationship between agriculture and industry is interdependent. Agriculture provides raw materials, while the **industrial sector provides agricultural inputs** such as machinery, fertilizers, pesticides, and other agro-chemicals to improve farm yield.",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Agricultural Science",
+    "topic": "Agro-allied industries and relationship between agriculture and industry",
+    "question_text": "An industry that specializes in processing natural latex into tyres and inner tubes is closely related to the cultivation of:",
+    "options": {
+      "a": "*Zea mays*",
+      "b": "*Hevea brasiliensis*",
+      "c": "*Theobroma cacao*",
+      "d": "*Elaeis guineensis*"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Latex is the raw material used for manufacturing tyres, and it is tapped from the rubber tree. The botanical name for the commercial rubber tree is ***Hevea brasiliensis***. \n*   *Zea mays* is maize.\n*   *Theobroma cacao* is cocoa.\n*   *Elaeis guineensis* is oil palm.",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Agricultural Science",
+    "topic": "Environmental factors affecting crop and animal distribution and production",
+    "question_text": "The rearing of large cattle breeds like the Zebu is largely restricted to the savanna zones of West Africa mainly because of the:",
+    "options": {
+      "a": "High incidence of tsetse flies in the forest zones",
+      "b": "Lack of drinking water in the forest zones",
+      "c": "Absence of grasses in the savanna zones",
+      "d": "High temperatures of the savanna zones"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The distribution of livestock is highly affected by biological factors. The thick forests of the south are natural habitats for **tsetse flies**, which transmit trypanosomiasis (sleeping sickness) to non-resistant cattle breeds like the Zebu. Hence, they are restricted to the drier savanna zones where tsetse flies are less prevalent.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Agricultural Science",
+    "topic": "Environmental factors affecting crop and animal distribution and production",
+    "question_text": "Which of the following environmental factors determines the photoperiodic response in plants?",
+    "options": {
+      "a": "Rainfall",
+      "b": "Temperature",
+      "c": "Wind",
+      "d": "Sunlight"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Photoperiodism is the physiological reaction of plants and animals to the length of day or night. It is directly determined by **sunlight** (specifically the duration of light exposure), which influences flowering and vegetative growth in certain crops.",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "Agricultural Science",
+    "topic": "Rock formation",
+    "question_text": "Rocks formed from the cooling and solidification of molten magma beneath the earth's surface are classified as:",
+    "options": {
+      "a": "Sedimentary rocks",
+      "b": "Plutonic igneous rocks",
+      "c": "Volcanic igneous rocks",
+      "d": "Metamorphic rocks"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Igneous rocks are formed from cooling magma. When magma cools deep beneath the earth's surface, it cools slowly to form **plutonic (intrusive) igneous rocks** (e.g., granite). When it erupts and cools on the surface, it forms volcanic (extrusive) igneous rocks (e.g., basalt).",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "Agricultural Science",
+    "topic": "Rock formation",
+    "question_text": "Under extreme heat and pressure, limestone undergoes structural changes to become which of the following metamorphic rocks?",
+    "options": {
+      "a": "Marble",
+      "b": "Slate",
+      "c": "Gneiss",
+      "d": "Quartzite"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Metamorphic rocks are formed from pre-existing rocks subjected to intense heat and pressure. **Limestone** (a sedimentary rock rich in $\\text{CaCO}_3$) changes into **marble**.\n*   Shale $\\rightarrow$ Slate\n*   Granite $\\rightarrow$ Gneiss\n*   Sandstone $\\rightarrow$ Quartzite",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "Agricultural Science",
+    "topic": "Soil formation and profile development",
+    "question_text": "The biological weathering of rocks involves the:",
+    "options": {
+      "a": "Action of running water and wind",
+      "b": "Alternate heating and cooling of rock surfaces",
+      "c": "Activities of plant roots and soil organisms",
+      "d": "Chemical reaction between rock minerals and water"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Weathering can be physical, chemical, or biological. **Biological weathering** is the breakdown of rocks caused by living organisms, such as **plant roots forcing their way into rock crevices** or earthworms burrowing and mixing rock particles.",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "Agricultural Science",
+    "topic": "Soil formation and profile development",
+    "question_text": "In a well-developed soil profile, the horizon that is richest in humus and shows the highest biological activity is the:",
+    "options": {
+      "a": "Horizon A (Topsoil)",
+      "b": "Horizon B (Subsoil)",
+      "c": "Horizon C (Parent material)",
+      "d": "Horizon D (Bedrock)"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The **A-Horizon** (Topsoil) is the uppermost mineral layer. It is characterized by a dark color due to the accumulation of organic matter (humus) and hosts the vast majority of plant roots and soil microbes, indicating high biological activity.",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "Agricultural Science",
+    "topic": "Types, composition and properties of soil",
+    "question_text": "A soil sample has a high proportion of large particles, large pore spaces, and loses water very rapidly. The soil is best described as:",
+    "options": {
+      "a": "Clay soil",
+      "b": "Silt soil",
+      "c": "Loamy soil",
+      "d": "Sandy soil"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Sandy soil** particles are large and coarse. This creates large pore spaces (macropores) which allow rapid drainage and high aeration, but also results in very poor water retention and low nutrient-holding capacity.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "Agricultural Science",
+    "topic": "Types, composition and properties of soil",
+    "question_text": "If a farmer tests their soil and finds it has a pH of $4.5$, the soil is considered to be strongly acidic. Which of the following materials should be applied to correct this condition?",
+    "options": {
+      "a": "Ammonium nitrate fertilizer",
+      "b": "Crushed limestone",
+      "c": "Urea",
+      "d": "Superphosphate"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A pH of $4.5$ indicates strong soil acidity. To correct (neutralize) acidity, a base must be added. The standard agricultural practice is \"liming,\" which involves adding compounds containing calcium or magnesium, such as **crushed limestone** ($\\text{CaCO}_3$) or slaked lime.",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "Agricultural Science",
+    "topic": "Plant nutrients and nutrient cycle",
+    "question_text": "Which of the following groups of elements represents strictly macro-nutrients required for plant growth?",
+    "options": {
+      "a": "Nitrogen, Phosphorus, and Potassium",
+      "b": "Zinc, Iron, and Copper",
+      "c": "Nitrogen, Molybdenum, and Boron",
+      "d": "Calcium, Manganese, and Chlorine"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Macro-nutrients are required by plants in large quantities. The primary macro-nutrients are **Nitrogen (N), Phosphorus (P), and Potassium (K)**. Other macro-nutrients include Calcium (Ca), Magnesium (Mg), and Sulfur (S). Zinc, Iron, Copper, Molybdenum, and Boron are micro-nutrients (required in trace amounts).",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "Agricultural Science",
+    "topic": "Plant nutrients and nutrient cycle",
+    "question_text": "In the nitrogen cycle, the process by which soil bacteria convert nitrates ($\\text{NO}_3^-$) back into atmospheric nitrogen gas ($\\text{N}_2$) is called:",
+    "options": {
+      "a": "Nitrification",
+      "b": "Nitrogen fixation",
+      "c": "Denitrification",
+      "d": "Ammonification"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Denitrification** is the chemical reduction of nitrates ($\\text{NO}_3^-$) in the soil to nitrogen gas ($\\text{N}_2$) by anaerobic bacteria (e.g., *Pseudomonas*), which escapes back into the atmosphere. This process leads to a loss of soil fertility.",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "Agricultural Science",
+    "topic": "Irrigation",
+    "question_text": "Which of the following is a major disadvantage of using the sprinkler system of irrigation?",
+    "options": {
+      "a": "It leads to excessive waterlogging of the soil",
+      "b": "It is unsuitable for sandy soils",
+      "c": "The initial cost of setup and equipment is very high",
+      "d": "It requires the construction of deep furrows on the farm"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Sprinkler irrigation distributes water in a form resembling natural rainfall through pressurized pipes and nozzles. A major drawback is its **high capital cost** due to the requirement for water pumps, metal or PVC pipes, and specialized sprinkler heads.",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "Agricultural Science",
+    "topic": "Irrigation",
+    "question_text": "The type of irrigation where water is supplied to the roots of crops drop by drop through a network of narrow plastic pipes is called:",
+    "options": {
+      "a": "Surface irrigation",
+      "b": "Sub-surface irrigation",
+      "c": "Sprinkler irrigation",
+      "d": "Drip irrigation"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Drip (or trickle) irrigation** delivers water directly to the base or root zone of the plant at very low rates (drop by drop) from a system of small-diameter plastic pipes. It is the most water-efficient method.",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "Agricultural Science",
+    "topic": "Drainage",
+    "question_text": "The practice of using underground pipes to remove excess water from heavy agricultural lands is known as:",
+    "options": {
+      "a": "Surface drainage",
+      "b": "Mole drainage",
+      "c": "Tile drainage",
+      "d": "Ditch drainage"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Tile drainage** (a type of sub-surface drainage) involves laying perforated underground pipes (traditionally clay tiles, now often plastic) to collect and channel away excess ground water. *Mole drainage* creates unlined channels in clay soils, not piped systems.",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "Agricultural Science",
+    "topic": "Drainage",
+    "question_text": "Poor drainage on a farm field reduces crop yield primarily because waterlogging:",
+    "options": {
+      "a": "Increases the rate of weed germination",
+      "b": "Deprives plant roots of oxygen required for respiration",
+      "c": "Causes rapid drying up of soil organic matter",
+      "d": "Encourages the excessive burrowing of earthworms"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "When a soil is waterlogged, water displaces all the air in the soil pore spaces. This creates an anaerobic condition that **deprives roots of oxygen**, preventing cellular respiration and ultimately causing root death or severe stunting.",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "Agricultural Science",
+    "topic": "Agricultural pollution",
+    "question_text": "The excessive washing of nitrogen and phosphorus fertilizers into nearby rivers and lakes leads to a rapid overgrowth of algae. This condition is termed:",
+    "options": {
+      "a": "Nitrification",
+      "b": "Bioaccumulation",
+      "c": "Eutrophication",
+      "d": "Salinization"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "When excess nutrients run off into water bodies, they overstimulate the growth of aquatic plants and algae. This ecological process is called **eutrophication**. It depletes dissolved oxygen when the algae die and decompose, harming aquatic life.",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "Agricultural Science",
+    "topic": "Agricultural pollution",
+    "question_text": "Which of the following agricultural practices is a major cause of air pollution?",
+    "options": {
+      "a": "Crop rotation",
+      "b": "Bush burning",
+      "c": "Tillage operations",
+      "d": "Organic manuring"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Bush burning** releases large quantities of smoke, ash, carbon dioxide, and particulate matter into the atmosphere, making it a primary agricultural source of air pollution.",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "Agricultural Science",
+    "topic": "Simple farm tools",
+    "question_text": "Which of the following simple farm tools is best suited for the manual harvesting of cereal crops like rice and wheat?",
+    "options": {
+      "a": "Hoe",
+      "b": "Cutlass",
+      "c": "Sickle",
+      "d": "Pickaxe"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **sickle** has a short handle and a curved metal blade with a sharp inner edge. It is specially designed for cutting the stalks of cereal crops or harvesting forage grasses.",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "Agricultural Science",
+    "topic": "Simple farm tools",
+    "question_text": "A pair of secateurs is a simple farm tool primarily used in agricultural operations for:",
+    "options": {
+      "a": "Felling large economic trees",
+      "b": "Pruning woody shoots and harvesting fruits",
+      "c": "Digging holes for planting yams",
+      "d": "Transplanting delicate seedlings"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Secateurs** (also known as hand pruners) are spring-loaded scissors-like tools. They are used for cutting small branches, pruning woody shoots, and selectively harvesting fruits in horticulture.",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "Agricultural Science",
+    "topic": "Farm machinery and implements",
+    "question_text": "The primary tillage implement designed to cut, invert, and completely shatter the soil to bury weeds is the:",
+    "options": {
+      "a": "Disc harrow",
+      "b": "Ridger",
+      "c": "Cultivator",
+      "d": "Mouldboard plough"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "The **mouldboard plough** is a primary tillage implement that digs deep to cut, lift, and invert the furrow slice, completely burying surface weeds. Harrows and cultivators are secondary tillage implements used to break up clods after ploughing.",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "Agricultural Science",
+    "topic": "Farm machinery and implements",
+    "question_text": "In a mechanical seed drill or planter, the specific part responsible for dropping the seeds into the soil at predetermined intervals is the:",
+    "options": {
+      "a": "Seed tube",
+      "b": "Furrow opener",
+      "c": "Hopper",
+      "d": "Seed metering device"
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "The **seed metering device** mechanism ensures that seeds are picked from the hopper and dropped at exact, regular intervals (seed rate). \n*   *Hopper:* stores the seeds.\n*   *Furrow opener:* cuts a trench in the soil.\n*   *Seed tube:* channels the seed to the open trench.",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "Agricultural Science",
+    "topic": "Farm machinery and implements",
+    "question_text": "Which of the following farm machineries is specifically designed to separate harvested grains from their stalks and chaff?",
+    "options": {
+      "a": "Sheller",
+      "b": "Thresher",
+      "c": "Baler",
+      "d": "Incubator"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **thresher** is a processing machine used to detach grains (like rice, wheat, and cowpea) from their panicles, stalks, and chaff. A sheller is specifically used for removing seeds from cobs (e.g., maize).",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "Agricultural Science",
+    "topic": "Maintenance practices and precautionary measures",
+    "question_text": "A major reason for the routine greasing and oiling of the moving parts of farm machinery is to:",
+    "options": {
+      "a": "Increase the weight and stability of the machine",
+      "b": "Prevent the engine from overheating during operation",
+      "c": "Reduce friction and prevent wear and tear",
+      "d": "Make the machine look attractive for resale"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Applying lubricants like oil and grease to moving metal parts reduces friction. This minimizes **wear and tear** of components, prevents rusting, and ultimately prolongs the lifespan of the farm machinery.",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "Agricultural Science",
+    "topic": "Maintenance practices and precautionary measures",
+    "question_text": "Which of the following is **NOT** a recommended precautionary measure when operating a farm tractor?",
+    "options": {
+      "a": "Checking the engine oil and radiator water levels daily",
+      "b": "Refueling the tractor while the engine is actively running",
+      "c": "Engaging the correct gear for the topography of the terrain",
+      "d": "Using safety seatbelts when the tractor is in motion"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Refueling a tractor while the engine is running** is highly dangerous as a spark or the heat of the engine could ignite the fuel fumes, causing a fire or explosion. The engine must always be turned off before refueling.",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "Agricultural Science",
+    "topic": "Agricultural mechanization",
+    "question_text": "A major advantage of agricultural mechanization in West Africa is that it:",
+    "options": {
+      "a": "Decreases the timeliness of seasonal farm operations",
+      "b": "Increases drudgery and human physical fatigue",
+      "c": "Encourages land fragmentation and smallholdings",
+      "d": "Increases total agricultural output and efficiency"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Mechanization involves replacing human and animal labor with machines. Its primary advantage is that it speeds up operations, reduces drudgery, allows for the cultivation of larger areas of land, and **increases overall output and efficiency**.",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "Agricultural Science",
+    "topic": "Agricultural mechanization",
+    "question_text": "Which of the following poses the greatest limitation to the widespread adoption of agricultural mechanization by peasant farmers in West Africa?",
+    "options": {
+      "a": "High capital cost of acquiring and maintaining machineries",
+      "b": "Lack of adequate rainfall in the savanna zones",
+      "c": "Oversupply of highly skilled tractor operators",
+      "d": "High demand for fresh agricultural produce in urban markets"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Peasant (subsistence) farmers operate on a very small scale with low income. The massive financial investment required to purchase tractors and heavy implements—coupled with high maintenance costs—makes **capital** the greatest limitation.",
+    "section_id": null
+  },
+  {
+    "question_number": 46,
+    "subject": "Agricultural Science",
+    "topic": "Prospects of agricultural mechanization",
+    "question_text": "The prospects of agricultural mechanization in developing countries can be significantly improved by:",
+    "options": {
+      "a": "Encouraging traditional shifting cultivation systems",
+      "b": "Establishing more local tractor assembly and fabrication plants",
+      "c": "Banning the importation of all foreign farm implements",
+      "d": "Increasing the pump price of agricultural diesel and fuel"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A major barrier to mechanization is the reliance on expensive imported machinery. **Establishing local fabrication and assembly plants** reduces costs, provides easily accessible spare parts, and creates machineries customized to local soil conditions.",
+    "section_id": null
+  },
+  {
+    "question_number": 47,
+    "subject": "Agricultural Science",
+    "topic": "Prospects of agricultural mechanization",
+    "question_text": "Widespread adoption of full agricultural mechanization is most likely to cause which of the following social effects in the short term?",
+    "options": {
+      "a": "Drastic reduction in crop yields",
+      "b": "Increased reliance on organic fertilizers",
+      "c": "Displacement of manual farm labourers",
+      "d": "Rapid degradation of the ozone layer"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Because one machine can do the work of dozens of people, widespread mechanization often leads to the **displacement of manual farm labourers** (loss of rural jobs), which can increase rural-urban migration.",
+    "section_id": null
+  },
+  {
+    "question_number": 48,
+    "subject": "Agricultural Science",
+    "topic": "Farm power",
+    "question_text": "Which of the following is an example of an **animate** source of farm power?",
+    "options": {
+      "a": "Windmill",
+      "b": "Draft animals",
+      "c": "Biogas digester",
+      "d": "Solar panels"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "\"Animate\" refers to power generated by living organisms. Human labor and **draft animals** (like oxen, donkeys, and horses) are animate sources. Wind, solar, electrical, and mechanical powers are inanimate.",
+    "section_id": null
+  },
+  {
+    "question_number": 49,
+    "subject": "Agricultural Science",
+    "topic": "Farm power",
+    "question_text": "A major disadvantage of relying on wind power for pumping water on a farm is its:",
+    "options": {
+      "a": "High rate of carbon pollution",
+      "b": "Contribution to global greenhouse gases",
+      "c": "Unpredictability and seasonal fluctuation",
+      "d": "Exhaustibility as a natural resource"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Wind is a clean and renewable (inexhaustible) source of energy. However, its major drawback is its **unpredictability**; wind speed and direction fluctuate, meaning power may not be available when water is urgently needed.",
+    "section_id": null
+  },
+  {
+    "question_number": 50,
+    "subject": "Agricultural Science",
+    "topic": "Farm surveying",
+    "question_text": "The process of measuring and mapping out the position, topography, and boundaries of a farmland is known as:",
+    "options": {
+      "a": "Farm planning",
+      "b": "Farm layout",
+      "c": "Farm surveying",
+      "d": "Farm valuation"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Farm surveying** is the physical process of taking measurements on land to determine boundaries, area size, and elevation differences to produce a farm map.",
+    "section_id": null
+  },
+  {
+    "question_number": 51,
+    "subject": "Agricultural Science",
+    "topic": "Farm surveying",
+    "question_text": "In farm surveying, the Gunter's chain is a standard instrument used for measuring horizontal distances. It is made up of how many individual links?",
+    "options": {
+      "a": "$50$ links",
+      "b": "$66$ links",
+      "c": "$100$ links",
+      "d": "$150$ links"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "The Gunter's chain (or surveyor's chain) is standardized for agricultural surveying.\n\n| Metric | Measurement |\n| :--- | :--- |\n| **Total Links** | $100$ |\n| **Total Length** | $66\\text{ ft}$ ($20.12\\text{ m}$) |\n| **One Link** | $7.92\\text{ inches}$ |\n\nIt contains exactly **$100$ links** connected by metal rings.",
+    "section_id": null
+  },
+  {
+    "question_number": 52,
+    "subject": "Agricultural Science",
+    "topic": "Farm planning",
+    "question_text": "Farm planning is best described as the process of:",
+    "options": {
+      "a": "Applying chemical fertilizers to improve soil structure",
+      "b": "Outlining future agricultural activities and enterprise combinations on a farm",
+      "c": "Repairing broken down farm machinery during the dry season",
+      "d": "Marketing agricultural produce to urban consumers"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Farm planning** is a decision-making process. It involves drawing up an outline of how to use the farm's resources (land, labor, capital) efficiently, determining what crops to grow, and what livestock to rear (enterprise combination) to maximize profit.",
+    "section_id": null
+  },
+  {
+    "question_number": 53,
+    "subject": "Agricultural Science",
+    "topic": "Farm planning",
+    "question_text": "Which of the following documents is most crucial for a farmer when allocating different crop enterprises to different sections of the farm?",
+    "options": {
+      "a": "Cadastral map",
+      "b": "Soil map",
+      "c": "Road map",
+      "d": "Climatic map"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **soil map** shows the different soil types, nutrient distribution, and drainage capacities across the farm. It is vital in farm planning because it allows the farmer to match crops with the soil type best suited for their growth (e.g., planting rice in swampy/clay soils and yams in loamy well-drained soils).",
+    "section_id": null
+  },
+  {
+    "question_number": 54,
+    "subject": "Agricultural Science",
+    "topic": "Principles of farmstead planning",
+    "question_text": "In the principles of farmstead planning, poultry houses and pig sties are usually located on the leeward side and far away from the residential quarters in order to:",
+    "options": {
+      "a": "Prevent farm animals from eating human food",
+      "b": "Allow the animals to access more direct sunlight",
+      "c": "Prevent offensive odours from reaching the residential area",
+      "d": "Make it easier to market the animals"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Zoning is an important principle of farmstead planning. Livestock buildings generate **offensive odours** and flies. Siting them on the leeward side (where the wind blows away from the farmhouse) ensures the living quarters remain comfortable and sanitary.",
+    "section_id": null
+  },
+  {
+    "question_number": 55,
+    "subject": "Agricultural Science",
+    "topic": "Principles of farmstead planning",
+    "question_text": "When laying out a farmstead, the farm workshop and machinery shed should ideally be sited:",
+    "options": {
+      "a": "At the geographic center of the crop fields",
+      "b": "Close to the main access road",
+      "c": "Next to the domestic water reservoir",
+      "d": "At the highest elevation point of the farm"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The machinery shed and workshop house heavy tractors and implements. They should be sited **close to the main access road** to allow easy, unhindered movement of large machinery in and out of the farmstead without damaging crops or causing soil compaction elsewhere.",
+    "section_id": null
+  },
+  {
+    "question_number": 56,
+    "subject": "Agricultural Science",
+    "topic": "Classification of crops",
+    "question_text": "Based on their life cycle, crops that grow vegetatively in their first year and produce flowers and seeds in their second year before dying are classified as:",
+    "options": {
+      "a": "Annual crops",
+      "b": "Perennial crops",
+      "c": "Biennial crops",
+      "d": "Ephemeral crops"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Crops are classified by their life span:\n*   **Annuals:** Complete their life cycle in one growing season (e.g., maize).\n*   **Biennials:** Take two years to complete their life cycle (e.g., carrot, onion). Vegetative growth occurs in year one, reproduction in year two.\n*   **Perennials:** Live for more than two years (e.g., cocoa, oil palm).",
+    "section_id": null
+  },
+  {
+    "question_number": 57,
+    "subject": "Agricultural Science",
+    "topic": "Classification of crops",
+    "question_text": "Which of the following groups of crops belongs to the botanical family **Poaceae** (formerly Gramineae)?",
+    "options": {
+      "a": "Maize, guinea corn, and rice",
+      "b": "Cowpea, groundnut, and soybean",
+      "c": "Yam, cassava, and sweet potato",
+      "d": "Tomato, pepper, and eggplant"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The family **Poaceae** (grass family) includes all cereal crops and pasture grasses. Therefore, **maize, guinea corn (sorghum), and rice** are the correct answer. \n*   Cowpea, groundnut (Leguminosae/Fabaceae)\n*   Yam (Dioscoreaceae)\n*   Tomato (Solanaceae)",
+    "section_id": null
+  },
+  {
+    "question_number": 58,
+    "subject": "Agricultural Science",
+    "topic": "Classification of crops",
+    "question_text": "Agriculturally, crops like cocoa, coffee, and tea are collectively classified under their economic uses as:",
+    "options": {
+      "a": "Latex crops",
+      "b": "Forage crops",
+      "c": "Beverage crops",
+      "d": "Spice crops"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Crops whose products are processed to make non-alcoholic, stimulating drinks are classified as **beverage crops**. Examples include cocoa (*Theobroma cacao*), coffee (*Coffea spp.*), and tea (*Camellia sinensis*).",
+    "section_id": null
+  },
+  {
+    "question_number": 59,
+    "subject": "Agricultural Science",
+    "topic": "Classification of crops",
+    "question_text": "Which of the following morphological features is a defining characteristic of monocotyledonous crops?",
+    "options": {
+      "a": "Leaves with a network (reticulate) venation",
+      "b": "A well-developed tap root system",
+      "c": "Presence of parallel-veined leaves",
+      "d": "Floral parts arranged in multiples of four or five"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Monocotyledonous crops (like maize and rice) have **parallel venation** on their leaves, a fibrous root system, floral parts in multiples of three, and one seed leaf (cotyledon). Net-veined leaves and tap roots are characteristics of dicotyledons.",
+    "section_id": null
+  },
+  {
+    "question_number": 60,
+    "subject": "Agricultural Science",
+    "topic": "Husbandry of selected crops",
+    "question_text": "Staking is an essential cultural practice in the husbandry of yams (*Dioscorea spp.*). The primary physiological reason for staking yams is to:",
+    "options": {
+      "a": "Prevent rodents from accessing and eating the growing tubers",
+      "b": "Expose the leaves to adequate sunlight for maximum photosynthesis",
+      "c": "Increase the water retention capacity of the yam heap",
+      "d": "Suppress the growth of surrounding weed species"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Yams produce climbing vines. Staking provides physical support for these vines, lifting them off the ground to **expose the broad leaves to maximum sunlight**, thereby optimizing photosynthesis and resulting in larger tuber yields.",
+    "section_id": null
+  },
+  {
+    "question_number": 61,
+    "subject": "Agricultural Science",
+    "topic": "Husbandry of selected crops",
+    "question_text": "Which of the following is a devastating fungal disease of cocoa that causes brown lesions on the fruits and ultimate rotting?",
+    "options": {
+      "a": "Swollen shoot disease",
+      "b": "Rosette disease",
+      "c": "Panama disease",
+      "d": "Black pod disease"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Black pod disease** is caused by the fungus *Phytophthora megakarya* (or *P. palmivora*). It is characterized by brown or black rotting spots on cocoa pods. *Swollen shoot* is a viral disease of cocoa, and *Rosette* is a viral disease of groundnuts.",
+    "section_id": null
+  },
+  {
+    "question_number": 62,
+    "subject": "Agricultural Science",
+    "topic": "Husbandry of selected crops",
+    "question_text": "In the vegetative propagation of cassava (*Manihot esculenta*), farmers utilize mature stem cuttings. What is the standard recommended length for these stem cuttings?",
+    "options": {
+      "a": "$5 - 10\\text{ cm}$",
+      "b": "$20 - 30\\text{ cm}$",
+      "c": "$60 - 75\\text{ cm}$",
+      "d": "$90 - 120\\text{ cm}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "For effective sprouting and root development in cassava, mature, healthy stems are cut into lengths of **$20 - 30\\text{ cm}$**. Cuttings that are too short may dry out easily and fail to sprout, while overly long cuttings waste planting material.",
+    "section_id": null
+  },
+  {
+    "question_number": 63,
+    "subject": "Agricultural Science",
+    "topic": "Husbandry of selected crops",
+    "question_text": "In the husbandry of oil palm (*Elaeis guineensis*), the seedlings are typically kept in a pre-nursery before transfer to the main nursery. What is the usual duration for the pre-nursery stage?",
+    "options": {
+      "a": "$1 - 2\\text{ months}$",
+      "b": "$4 - 5\\text{ months}$",
+      "c": "$10 - 12\\text{ months}$",
+      "d": "$18 - 24\\text{ months}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Oil palm seedling development involves a two-stage nursery system. Sprouted seeds are planted in small polythene bags in a **pre-nursery for $4 - 5\\text{ months}$** (until they develop 4-5 leaves) before being transplanted to larger bags in the main nursery for an additional 10-12 months.",
+    "section_id": null
+  },
+  {
+    "question_number": 64,
+    "subject": "Agricultural Science",
+    "topic": "Pasture and forage crops",
+    "question_text": "A piece of land on which specific forage grasses and legumes are deliberately cultivated and intensively managed for livestock grazing is called a:",
+    "options": {
+      "a": "Natural pasture",
+      "b": "Rangeland",
+      "c": "Sown pasture",
+      "d": "Ley pasture"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **sown (or artificial) pasture** is a farm area where improved, highly nutritious forage species (grasses and legumes) are intentionally planted and managed. Natural pastures (rangelands) consist of uncultivated, naturally occurring vegetation.",
+    "section_id": null
+  },
+  {
+    "question_number": 65,
+    "subject": "Agricultural Science",
+    "topic": "Pasture and forage crops",
+    "question_text": "Which of the following forage crops is an example of a pasture legume used in West Africa?",
+    "options": {
+      "a": "Elephant grass (*Pennisetum purpureum*)",
+      "b": "Guinea grass (*Panicum maximum*)",
+      "c": "Centrosema (*Centrosema pubescens*)",
+      "d": "Gamba grass (*Andropogon gayanus*)"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Pasture crops are grouped into grasses and legumes. **Centrosema (*Centrosema pubescens*)** is a creeping, high-protein pasture legume. The others listed are all tropical pasture grasses.",
+    "section_id": null
+  },
+  {
+    "question_number": 66,
+    "subject": "Agricultural Science",
+    "topic": "Pasture and forage crops",
+    "question_text": "The method of conserving green forage crops in a succulent, fermented state by storing them under anaerobic conditions in a trench or pit is known as:",
+    "options": {
+      "a": "Hay making",
+      "b": "Silage making",
+      "c": "Soilage feeding",
+      "d": "Zero grazing"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Silage making** involves cutting fresh green forage and packing it tightly in a silo (a trench, pit, or bunker) to exclude air. It ferments anaerobically, preserving its moisture and nutrients for dry-season feeding. *Hay* is forage dried to a low moisture content.",
+    "section_id": null
+  },
+  {
+    "question_number": 67,
+    "subject": "Agricultural Science",
+    "topic": "Pasture and forage crops",
+    "question_text": "To prevent pasture depletion and break the life cycle of internal livestock parasites, a farmer divides the land into paddocks and moves the herd sequentially. This management practice is called:",
+    "options": {
+      "a": "Continuous grazing",
+      "b": "Zero grazing",
+      "c": "Rotational grazing",
+      "d": "Deferred grazing"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Rotational grazing** involves restricting animals to one paddock at a time while the other paddocks rest and regenerate. This prevents overgrazing and starves emerging parasite larvae before the animals return.",
+    "section_id": null
+  },
+  {
+    "question_number": 68,
+    "subject": "Agricultural Science",
+    "topic": "Crop improvement",
+    "question_text": "Which of the following is **NOT** an objective of carrying out crop improvement programs by plant breeders?",
+    "options": {
+      "a": "Development of early-maturing varieties",
+      "b": "Breeding for resistance to pests and diseases",
+      "c": "Increasing the stem height of cereal crops to maximize lodging",
+      "d": "Enhancing the nutritional quality and taste of the crop"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "\"Lodging\" refers to crops bending or breaking over due to wind or rain, causing yield loss. Plant breeders aim to develop *shorter*, sturdier stems in cereals (like dwarf wheat) to **prevent** lodging, not maximize it.",
+    "section_id": null
+  },
+  {
+    "question_number": 69,
+    "subject": "Agricultural Science",
+    "topic": "Crop improvement",
+    "question_text": "The basic crop improvement method that involves moving a crop species with desirable traits from its native geographical location to entirely new surroundings is known as:",
+    "options": {
+      "a": "Selection",
+      "b": "Introduction",
+      "c": "Hybridization",
+      "d": "Mutation breeding"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Introduction** is the simplest method of crop improvement. It involves bringing new plant varieties from their place of origin (e.g., from another country) into a new environment for cultivation or breeding purposes.",
+    "section_id": null
+  },
+  {
+    "question_number": 70,
+    "subject": "Agricultural Science",
+    "topic": "Crop improvement",
+    "question_text": "In modern crop improvement, the deliberate artificial crossing of two genetically different but related plants to combine their desirable characteristics in one offspring is termed:",
+    "options": {
+      "a": "Hybridization",
+      "b": "Inbreeding",
+      "c": "Mass selection",
+      "d": "Vegetative propagation"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Hybridization** (or cross-breeding) is the genetic crossing of two parent plants with different superior traits (e.g., crossing a high-yielding variety with a disease-resistant variety) to produce a hybrid offspring that possesses both desired traits.",
+    "section_id": null
+  },
+  {
+    "question_number": 71,
+    "subject": "Agricultural Science",
+    "topic": "Forest management",
+    "question_text": "The forest management practice where only mature economic trees are systematically harvested while younger ones are preserved to continue growing is called:",
+    "options": {
+      "a": "Deforestation",
+      "b": "Selective exploitation",
+      "c": "Regeneration",
+      "d": "Afforestation"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Selective exploitation** (or selective logging) is a conservation-friendly forest management practice. It ensures that only mature trees of specific economic value are cut down, leaving the younger trees intact to prevent total forest destruction.",
+    "section_id": null
+  },
+  {
+    "question_number": 72,
+    "subject": "Agricultural Science",
+    "topic": "Forest management",
+    "question_text": "Which of the following is the term used for the deliberate planting of forest trees on a piece of land where trees have been previously harvested or destroyed?",
+    "options": {
+      "a": "Reforestation",
+      "b": "Afforestation",
+      "c": "Silviculture",
+      "d": "Bush fallowing"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Reforestation** specifically refers to replanting trees in a depleted forest area. *Afforestation* is the planting of trees to create a forest in an area that historically did not have one (like a barren land).",
+    "section_id": null
+  },
+  {
+    "question_number": 73,
+    "subject": "Agricultural Science",
+    "topic": "Forest management",
+    "question_text": "Forests provide both timber and Non-Timber Forest Products (NTFPs). Which of the following is an example of an economic non-timber forest product?",
+    "options": {
+      "a": "Sawn planks",
+      "b": "Veneer",
+      "c": "Gum arabic",
+      "d": "Plywood"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Non-Timber Forest Products (NTFPs) are resources collected from forests other than the wood itself. **Gum arabic** (tapped from acacia trees), shea nuts, medicinal herbs, and bush meat are NTFPs. Planks, veneer, and plywood are all timber products.",
+    "section_id": null
+  },
+  {
+    "question_number": 74,
+    "subject": "Agricultural Science",
+    "topic": "Agroforestry practices in West Africa",
+    "question_text": "An agroforestry system where subsistence farmers are permitted to cultivate food crops in a forest reserve while simultaneously planting and tending to young forest trees is known as the:",
+    "options": {
+      "a": "Taungya system",
+      "b": "Alley cropping system",
+      "c": "Ley farming system",
+      "d": "Mixed farming system"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The **Taungya system** is a highly effective agroforestry practice. It integrates agriculture and forestry by allowing farmers to grow food crops alongside forest tree saplings. Once the tree canopy closes and shades out the food crops, the farmers are moved to a new plot.",
+    "section_id": null
+  },
+  {
+    "question_number": 75,
+    "subject": "Agricultural Science",
+    "topic": "Agroforestry practices in West Africa",
+    "question_text": "In alley cropping, arable crops are planted in the spaces between rows of fast-growing leguminous shrubs. The primary purpose of using leguminous shrubs like *Leucaena leucocephala* is to:",
+    "options": {
+      "a": "Provide high-quality timber for local furniture production",
+      "b": "Improve soil fertility through biological nitrogen fixation",
+      "c": "Extract latex for agro-allied industries",
+      "d": "Serve as a permanent habitat for crop pollinators"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Alley cropping heavily utilizes leguminous shrubs because they have root nodules that house bacteria capable of **fixing atmospheric nitrogen** into the soil. Their prunings are also used as green manure or mulch, thereby naturally improving soil fertility for the companion food crops.",
+    "section_id": null
+  },
+  {
+    "question_number": 76,
+    "subject": "Agricultural Science",
+    "topic": "Agroforestry practices in West Africa",
+    "question_text": "Which of the following describes the most direct benefit of the **silvopastoral** agroforestry practice?",
+    "options": {
+      "a": "It completely eradicates ticks and internal parasites in the rangeland",
+      "b": "It provides deep shade for grazing animals and serves as supplementary high-protein forage",
+      "c": "It allows the farmer to harvest large mature timber within three to four months",
+      "d": "It encourages the mass migration of wild birds into the farmstead"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "A **silvopastoral system** integrates woody perennials (trees/shrubs) with pastures and livestock. The trees provide **vital shade for the animals** (reducing heat stress) and their leaves/pods can be cut and fed to livestock as a high-protein supplement, especially during the dry season.",
+    "section_id": null
+  },
+  {
+    "question_number": 77,
+    "subject": "Agricultural Science",
+    "topic": "Meaning and importance of ornamental plants",
+    "question_text": "The primary purpose of cultivating ornamental plants in homes and public parks is to:",
+    "options": {
+      "a": "Provide human food and livestock feed",
+      "b": "Beautify the environment and improve aesthetics",
+      "c": "Serve as industrial raw materials for textiles",
+      "d": "Eradicate stubborn weeds from the soil"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Ornamental plants** are specifically grown for their attractive foliage, flowers, and overall aesthetic appeal. Their primary function in landscaping is to beautify the surroundings.",
+    "section_id": null
+  },
+  {
+    "question_number": 78,
+    "subject": "Agricultural Science",
+    "topic": "Meaning and importance of ornamental plants",
+    "question_text": "Apart from adding beauty to the environment, which of the following is a major ecological importance of planting tall ornamental trees and hedges around a farmstead?",
+    "options": {
+      "a": "They serve as effective windbreaks to check erosion and protect buildings",
+      "b": "They drastically increase the acidity of the surrounding soil",
+      "c": "They serve as intermediate hosts for dangerous livestock pests",
+      "d": "They decrease the oxygen concentration in the atmosphere"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Tall ornamental trees and thick hedges provide physical barriers that reduce wind speed. This ecological function acts as a **windbreak**, which prevents wind erosion and protects houses from wind damage.",
+    "section_id": null
+  },
+  {
+    "question_number": 79,
+    "subject": "Agricultural Science",
+    "topic": "Common types of ornamental plants",
+    "question_text": "Which of the following ornamental plants is correctly classified as a climber?",
+    "options": {
+      "a": "Flamboyant tree (*Delonix regia*)",
+      "b": "Pride of Barbados (*Caesalpinia pulcherrima*)",
+      "c": "Morning glory (*Ipomoea purpurea*)",
+      "d": "Croton (*Codiaeum variegatum*)"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Ornamental plants are classified by their growth habits. **Morning glory** is a climbing vine (climber) that twines around supports. Flamboyant is a tree, Pride of Barbados is a flowering shrub, and Croton is a foliage shrub.",
+    "section_id": null
+  },
+  {
+    "question_number": 80,
+    "subject": "Agricultural Science",
+    "topic": "Common types of ornamental plants",
+    "question_text": "Lawn grasses are an essential category of ornamental plants. An example of a commonly planted lawn grass in West Africa is:",
+    "options": {
+      "a": "Elephant grass (*Pennisetum purpureum*)",
+      "b": "Guinea grass (*Panicum maximum*)",
+      "c": "Spear grass (*Imperata cylindrica*)",
+      "d": "Bermuda grass (*Cynodon dactylon*)"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Bermuda grass (*Cynodon dactylon*)** and carpet grass are fine, creeping grasses used extensively for lawns. Elephant and Guinea grasses are tall pasture grasses used for livestock feeding, while spear grass is a stubborn weed.",
+    "section_id": null
+  },
+  {
+    "question_number": 81,
+    "subject": "Agricultural Science",
+    "topic": "Settings and location for planting ornamental plants",
+    "question_text": "In landscaping, where is the most appropriate location to plant large, deep-rooted ornamental trees?",
+    "options": {
+      "a": "Directly under high-tension electrical transmission lines",
+      "b": "At the outer boundaries or avenues of the property",
+      "c": "Immediately next to underground domestic sewage pipes",
+      "d": "Less than one meter away from the building's foundation"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Large trees have extensive, deep roots and wide canopies. They should be planted at **boundaries or along avenues** where they have ample space to grow without their roots cracking building foundations, destroying underground pipes, or their branches entangling with overhead electrical wires.",
+    "section_id": null
+  },
+  {
+    "question_number": 82,
+    "subject": "Agricultural Science",
+    "topic": "Settings and location for planting ornamental plants",
+    "question_text": "When designing an ornamental garden, shade-loving ornamental plants (sciophytes) are best located:",
+    "options": {
+      "a": "In the open center of a heavily sunlit lawn",
+      "b": "Under the canopy of larger ornamental trees",
+      "c": "Along the unshaded concrete driveway",
+      "d": "On the roof of the residential building"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Shade-loving plants cannot withstand intense, direct sunlight, which scorches their leaves. They thrive best in locations that offer partial or dappled sunlight, such as **under the canopy of larger trees**.",
+    "section_id": null
+  },
+  {
+    "question_number": 83,
+    "subject": "Agricultural Science",
+    "topic": "Methods of cultivating ornamental plants",
+    "question_text": "In the establishment of an ornamental lawn, the process of covering the bare topsoil with pre-grown solid squares of grass roots and soil is known as:",
+    "options": {
+      "a": "Mulching",
+      "b": "Turfing or Sodding",
+      "c": "Pruning",
+      "d": "Broadcasting"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Turfing (or sodding)** involves transplanting established mats (squares or rolls) of turf grass and their roots onto prepared soil to create an instant lawn. It is a faster vegetative cultivation method than planting grass seeds (broadcasting).",
+    "section_id": null
+  },
+  {
+    "question_number": 84,
+    "subject": "Agricultural Science",
+    "topic": "Methods of cultivating ornamental plants",
+    "question_text": "Most woody ornamental shrubs, such as the rose plant and *Hibiscus rosa-sinensis*, are most easily and effectively propagated using:",
+    "options": {
+      "a": "Stem cuttings",
+      "b": "True seeds",
+      "c": "Rhizomes",
+      "d": "Root tubers"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Stem cuttings** are the most common and effective vegetative method for propagating woody ornamental shrubs like roses, hibiscus, and bougainvillea, ensuring the new plants retain the exact traits of the parent plant.",
+    "section_id": null
+  },
+  {
+    "question_number": 85,
+    "subject": "Agricultural Science",
+    "topic": "Maintenance of ornamental plants",
+    "question_text": "The routine maintenance practice of selectively cutting branches of ornamental hedges and shrubs into definite, attractive shapes is known as:",
+    "options": {
+      "a": "Thinning",
+      "b": "Pruning",
+      "c": "Grafting",
+      "d": "Budding"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Pruning** is the removal of excess, dead, or overgrown plant parts. In ornamental horticulture, pruning is specifically used to shape hedges, control plant size, and encourage fresh growth of leaves and flowers.",
+    "section_id": null
+  },
+  {
+    "question_number": 86,
+    "subject": "Agricultural Science",
+    "topic": "Maintenance of ornamental plants",
+    "question_text": "Which of the following farm tools is specifically designed and used for trimming tall ornamental hedges and shrubs to a uniform flat surface?",
+    "options": {
+      "a": "Hand trowel",
+      "b": "Lawnmower",
+      "c": "Secateurs",
+      "d": "Garden shears"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Garden shears** possess long, scissor-like blades designed specifically for trimming and shaping hedges and shrubs to create flat surfaces. Secateurs are for small single branches, while lawnmowers are strictly for cutting lawn grass.",
+    "section_id": null
+  },
+  {
+    "question_number": 87,
+    "subject": "Agricultural Science",
+    "topic": "Types and classification of farm animals",
+    "question_text": "Based on their digestive system, which of the following farm animals is classified as a monogastric (single-stomached) herbivore, often referred to as a pseudo-ruminant?",
+    "options": {
+      "a": "Cow",
+      "b": "Pig",
+      "c": "Rabbit",
+      "d": "Chicken"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Farm animals are classified by their digestive tracts. **Rabbits** are monogastric herbivores; they have a simple, single-chambered stomach but possess an enlarged caecum populated by bacteria that help ferment and break down large amounts of fibrous plant material (roughage). Pigs are monogastric omnivores, chickens are avian monogastrics, and cows are true ruminants.",
+    "section_id": null
+  },
+  {
+    "question_number": 88,
+    "subject": "Agricultural Science",
+    "topic": "Types and classification of farm animals",
+    "question_text": "Farm animals are frequently classified based on their primary agricultural utility. Which of the following is considered an exotic **dairy breed** of cattle?",
+    "options": {
+      "a": "N'Dama",
+      "b": "Sokoto Gudali",
+      "c": "Holstein Friesian",
+      "d": "Muturu"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **Holstein Friesian** is a world-renowned exotic breed of cattle specifically classified and bred for massive milk production (dairy). N'Dama and Muturu are West African breeds kept primarily for beef and draught, while Sokoto Gudali is a local dual-purpose (beef/milk) breed.",
+    "section_id": null
+  },
+  {
+    "question_number": 89,
+    "subject": "Agricultural Science",
+    "topic": "Anatomy and physiology of farm animals",
+    "question_text": "In the complex digestive system of ruminants, which of the following compartments is known as the \"true stomach\" where hydrochloric acid and gastric enzymes are secreted for chemical digestion?",
+    "options": {
+      "a": "Rumen",
+      "b": "Reticulum",
+      "c": "Omasum",
+      "d": "Abomasum"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "The ruminant stomach consists of four chambers. \n\n| Compartment | Common Name | Primary Function |\n| :--- | :--- | :--- |\n| **Rumen** | Paunch | Microbial fermentation chamber |\n| **Reticulum** | Honeycomb | Traps heavy/foreign objects |\n| **Omasum** | Manyplies | Water and volatile fatty acid absorption |\n| **Abomasum** | True stomach | Enzymatic/chemical digestion (similar to monogastrics) |",
+    "section_id": null
+  },
+  {
+    "question_number": 90,
+    "subject": "Agricultural Science",
+    "topic": "Anatomy and physiology of farm animals",
+    "question_text": "Because poultry lack teeth, the mechanical breakdown and grinding of feed particles within the avian digestive system takes place in the:",
+    "options": {
+      "a": "Crop",
+      "b": "Proventriculus",
+      "c": "Gizzard",
+      "d": "Caecum"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **gizzard** (ventriculus) is a highly muscular organ in the avian digestive tract. Birds consume small stones or grit, which accumulate in the gizzard. The strong muscular contractions grind the feed against the grit, mechanically breaking it down. The *crop* stores food, and the *proventriculus* is the glandular (true) stomach.",
+    "section_id": null
+  },
+  {
+    "question_number": 91,
+    "subject": "Agricultural Science",
+    "topic": "Anatomy and physiology of farm animals",
+    "question_text": "In the reproductive system of a female farm animal, the actual site where fertilization (the union of the male sperm and female ovum) normally occurs is the:",
+    "options": {
+      "a": "Ovary",
+      "b": "Fallopian tube (Oviduct)",
+      "c": "Uterus",
+      "d": "Cervix"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Following ovulation, the egg is released from the ovary into the **Fallopian tube (oviduct)**. Sperm travels up through the uterus into the oviduct, where fertilization takes place. The fertilized embryo then moves down to attach and develop in the uterus.",
+    "section_id": null
+  },
+  {
+    "question_number": 92,
+    "subject": "Agricultural Science",
+    "topic": "Animal reproduction",
+    "question_text": "Which of the following correctly matches a farm animal to its average gestation period?",
+    "options": {
+      "a": "Sheep — $114\\text{ days}$",
+      "b": "Pig — $150\\text{ days}$",
+      "c": "Cow — $283\\text{ days}$",
+      "d": "Rabbit — $65\\text{ days}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Gestation is the duration of pregnancy.\n*   **Cow:** $\\approx 283\\text{ days}$ (about 9 months)\n*   **Pig:** $\\approx 114\\text{ days}$ (3 months, 3 weeks, 3 days)\n*   **Sheep & Goat:** $\\approx 145 - 150\\text{ days}$\n*   **Rabbit:** $\\approx 31\\text{ days}$",
+    "section_id": null
+  },
+  {
+    "question_number": 93,
+    "subject": "Agricultural Science",
+    "topic": "Animal reproduction",
+    "question_text": "The physiological act of giving birth in goats is technically referred to as:",
+    "options": {
+      "a": "Farrowing",
+      "b": "Kidding",
+      "c": "Lambing",
+      "d": "Calving"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Parturition terminology varies by species:\n*   **Goat:** Kidding (baby is a kid)\n*   **Pig:** Farrowing\n*   **Sheep:** Lambing (baby is a lamb)\n*   **Cattle:** Calving (baby is a calf)",
+    "section_id": null
+  },
+  {
+    "question_number": 94,
+    "subject": "Agricultural Science",
+    "topic": "Animal reproduction",
+    "question_text": "Which of the following represents a primary advantage of adopting **Artificial Insemination (A.I.)** over natural mating in livestock production?",
+    "options": {
+      "a": "It totally eliminates the need for feeding female breeder animals",
+      "b": "It guarantees that only male offspring are birthed",
+      "c": "It prevents the spread of venereal and contact-borne diseases",
+      "d": "It drastically reduces the natural gestation length of the dam"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Artificial Insemination** limits physical contact between animals, thereby breaking the transmission cycle of venereal (sexually transmitted) diseases like Brucellosis and Trichomoniasis. It also maximizes the genetic use of superior sires.",
+    "section_id": null
+  },
+  {
+    "question_number": 95,
+    "subject": "Agricultural Science",
+    "topic": "Environmental physiology",
+    "question_text": "When poultry birds are exposed to exceedingly high environmental temperatures, they exhibit heat stress. Which of the following is a common physiological response to this stress?",
+    "options": {
+      "a": "An immediate increase in solid feed consumption",
+      "b": "A marked drop in egg production and increased panting",
+      "c": "Rapid thickening of the eggshells being produced",
+      "d": "Huddling closely together in groups to conserve heat"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Birds do not possess sweat glands. To lose excess body heat, they increase respiration (panting). The diversion of energy and reduction in feed intake to minimize metabolic heat production leads to a **marked drop in egg production** and often thinner eggshells.",
+    "section_id": null
+  },
+  {
+    "question_number": 96,
+    "subject": "Agricultural Science",
+    "topic": "Environmental physiology",
+    "question_text": "Farm animals belong to a biological group that maintains a relatively constant internal body temperature regardless of fluctuations in the ambient environmental temperature. This condition is termed:",
+    "options": {
+      "a": "Poikilothermic",
+      "b": "Homeothermic",
+      "c": "Hydrophytic",
+      "d": "Photosynthetic"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Mammals and birds are **homeothermic** (warm-blooded), meaning they regulate their internal body temperatures within a narrow range. Reptiles, amphibians, and fishes are *poikilothermic* (cold-blooded).",
+    "section_id": null
+  },
+  {
+    "question_number": 97,
+    "subject": "Agricultural Science",
+    "topic": "Livestock management",
+    "question_text": "In modern commercial poultry farming, the routine management practice of cautiously trimming off the upper beak tip of growing birds is known as:",
+    "options": {
+      "a": "Culling",
+      "b": "Caponization",
+      "c": "Debeaking",
+      "d": "Dubbing"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Debeaking** (or beak trimming) is performed primarily on laying birds to prevent destructive vices such as cannibalism (pecking each other to death) and egg-eating. Culling is the removal of unproductive birds.",
+    "section_id": null
+  },
+  {
+    "question_number": 98,
+    "subject": "Agricultural Science",
+    "topic": "Livestock management",
+    "question_text": "Piglets raised exclusively indoors on concrete floors are highly prone to developing severe anaemia shortly after birth. This is routinely prevented by:",
+    "options": {
+      "a": "Feeding them massive amounts of vitamin C",
+      "b": "Injecting the piglets with iron dextran on the third day",
+      "c": "Clipping their sharp needle teeth immediately",
+      "d": "Rubbing their bodies with warm vegetable oil"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Sow's milk is notoriously deficient in iron, and piglets grown indoors cannot root in the soil to obtain it naturally. This deficiency disrupts hemoglobin formation. Therefore, farmers administer an **intramuscular iron injection** on the 3rd or 4th day to prevent piglet anaemia.",
+    "section_id": null
+  },
+  {
+    "question_number": 99,
+    "subject": "Agricultural Science",
+    "topic": "Livestock management",
+    "question_text": "Which of the following routine management operations is carried out on male farm animals specifically to make them more docile and improve the marbling and quality of their meat?",
+    "options": {
+      "a": "Dehorning",
+      "b": "Castration",
+      "c": "Ear-notching",
+      "d": "Branding"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Castration** is the removal or destruction of the testes in male animals. It stops the production of testosterone, which reduces aggression (making them docile), prevents unwanted mating, and encourages fat deposition (improving meat quality/marbling).",
+    "section_id": null
+  },
+  {
+    "question_number": 100,
+    "subject": "Agricultural Science",
+    "topic": "Livestock management",
+    "question_text": "A livestock rearing system in which animals are completely confined to enclosed sheds, fed entirely by the farmer, and prohibited from roaming outdoors is termed the:",
+    "options": {
+      "a": "Extensive system",
+      "b": "Semi-intensive system",
+      "c": "Nomadic pastoralism",
+      "d": "Intensive system"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "In the **intensive system** (like a battery cage or deep litter system), animals are fully housed and zero-grazed, allowing for high disease control and optimal growth, albeit at a high capital cost. The *extensive system* allows animals to roam freely to fend for themselves.",
+    "section_id": null
+  },
+  {
+    "question_number": 101,
+    "subject": "Agricultural Science",
+    "topic": "Animal nutrition",
+    "question_text": "A daily feed allocation that contains exactly enough nutrients—in the right proportions—to keep a mature, non-working, non-pregnant animal at a constant body weight is called a:",
+    "options": {
+      "a": "Production ration",
+      "b": "Maintenance ration",
+      "c": "Creep feed",
+      "d": "Finisher ration"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **maintenance ration** satisfies the formula $\\text{Energy Intake} = \\text{Basal Metabolic Requirement}$. It supplies just enough nutrients to run vital organs and regulate body heat without causing weight loss or gain. A *production ration* includes extra nutrients for growth, milk, or egg laying.",
+    "section_id": null
+  },
+  {
+    "question_number": 102,
+    "subject": "Agricultural Science",
+    "topic": "Animal nutrition",
+    "question_text": "Which of the following groups of feed ingredients constitutes the major source of dietary energy (carbohydrates) in standard West African livestock rations?",
+    "options": {
+      "a": "Maize, sorghum, and cassava peels",
+      "b": "Blood meal, fish meal, and groundnut cake",
+      "c": "Oyster shell, bone meal, and common salt",
+      "d": "Elephant grass, centrosema, and stylosanthes"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Carbohydrate feedstuffs are high in starch and provide metabolic energy. Cereal grains (like **maize and sorghum**) and root tubers (like **cassava**) are basal/energy feeds. Group B lists protein sources, C lists mineral supplements, and D lists roughages/forages.",
+    "section_id": null
+  },
+  {
+    "question_number": 103,
+    "subject": "Agricultural Science",
+    "topic": "Animal nutrition",
+    "question_text": "If laying hens begin producing eggs with very thin, fragile shells and the birds themselves develop soft, bending leg bones, the farmer should urgently supplement their feed with:",
+    "options": {
+      "a": "Iron and Vitamin K",
+      "b": "Calcium and Phosphorus",
+      "c": "Iodine and Sodium",
+      "d": "Zinc and Magnesium"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Eggshells and animal skeletons are structurally composed mostly of calcium carbonate ($\\text{CaCO}_3$) and calcium phosphate. A deficiency in **Calcium ($\\text{Ca}^{2+}$)** or **Phosphorus (P)**—alongside Vitamin D—leads to soft shells and rickets/osteomalacia in bones.",
+    "section_id": null
+  },
+  {
+    "question_number": 104,
+    "subject": "Agricultural Science",
+    "topic": "Rangeland and pasture management",
+    "question_text": "The term **stocking rate** as used in pasture management is defined as the:",
+    "options": {
+      "a": "Amount of supplementary feed given to animals on the pasture",
+      "b": "Total number of different weed species eradicated from the land",
+      "c": "Quantity of forage compressed and preserved in a silo",
+      "d": "Number of animals grazed on a given unit of pasture area for a specific period"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Stocking rate** refers to the number of animal units (e.g., 5 cows/hectare) grazing on a specific area of pasture. It must be balanced to equal the *carrying capacity* of the rangeland to prevent overgrazing.",
+    "section_id": null
+  },
+  {
+    "question_number": 105,
+    "subject": "Agricultural Science",
+    "topic": "Rangeland and pasture management",
+    "question_text": "Continuous overgrazing of a natural rangeland beyond its carrying capacity will most likely lead to which of the following ecological problems?",
+    "options": {
+      "a": "Compaction of the topsoil and severe wind/water erosion",
+      "b": "Spontaneous enhancement of soil fertility and humus depth",
+      "c": "Complete eradication of dangerous tsetse flies from the zone",
+      "d": "An explosive increase in highly nutritious legume populations"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Overgrazing strips the land of its protective vegetative cover and involves constant trampling by animal hooves. This causes **soil compaction** (destroying pore spaces) and exposes the bare, loosened soil to agents of **erosion**.",
+    "section_id": null
+  },
+  {
+    "question_number": 106,
+    "subject": "Agricultural Science",
+    "topic": "Rangeland and pasture management",
+    "question_text": "To revitalize a degraded rangeland, a farm manager deliberately broadcasts high-quality grass and legume seeds onto the existing sparse vegetation. This improvement practice is termed:",
+    "options": {
+      "a": "Rotational grazing",
+      "b": "Reseeding",
+      "c": "Controlled burning",
+      "d": "Paddocking"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Reseeding** is an intentional pasture improvement practice where desirable, improved varieties of forage seeds are sown into a depleted rangeland to thicken the vegetation cover and boost its nutritional value.",
+    "section_id": null
+  },
+  {
+    "question_number": 107,
+    "subject": "Agricultural Science",
+    "topic": "Animal improvement",
+    "question_text": "The breeding method that involves the deliberate mating of two entirely different but purebred animal breeds (e.g., crossing a White Fulani cow with a Holstein Friesian bull) is known as:",
+    "options": {
+      "a": "Inbreeding",
+      "b": "Cross-breeding",
+      "c": "Mass selection",
+      "d": "Line-breeding"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Cross-breeding** mates animals of two distinct breeds to combine their advantageous traits in the offspring (e.g., combining the disease resistance of the White Fulani with the high milk yield of the Holstein).",
+    "section_id": null
+  },
+  {
+    "question_number": 108,
+    "subject": "Agricultural Science",
+    "topic": "Animal improvement",
+    "question_text": "When cross-breeding is successful, the resulting hybrid offspring often exhibit performance levels—such as faster growth rates or better disease resistance—that surpass the average performance of both parents. This phenomenon is termed:",
+    "options": {
+      "a": "Inbreeding depression",
+      "b": "Genetic mutation",
+      "c": "Heterosis (Hybrid vigor)",
+      "d": "Pedigree inheritance"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Heterosis (or Hybrid Vigor)** is the scientific term used in animal genetics when the biological superiority of a crossbred offspring exceeds the combined average traits of its two genetically distinct parents.",
+    "section_id": null
+  },
+  {
+    "question_number": 109,
+    "subject": "Agricultural Science",
+    "topic": "Animal improvement",
+    "question_text": "Continuous close inbreeding (e.g., mating brother to sister) over many generations in a herd of pigs is generally discouraged because it directly causes:",
+    "options": {
+      "a": "A rapid increase in the size of the heart and lungs",
+      "b": "A high probability of introducing entirely foreign genes",
+      "c": "Inbreeding depression and the emergence of lethal recessive traits",
+      "d": "Complete immunity against viral livestock diseases"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Inbreeding increases homozygosity. While it fixes desirable traits, its major disadvantage is that it concentrates hidden recessive genes, leading to physical deformities, reduced fertility, and a general decline in herd performance known as **inbreeding depression**.",
+    "section_id": null
+  },
+  {
+    "question_number": 110,
+    "subject": "Agricultural Science",
+    "topic": "Animal health management",
+    "question_text": "Which of the following represents an accurate host-disease relationship in livestock pathology?",
+    "options": {
+      "a": "Poultry — Newcastle disease",
+      "b": "Cattle — Fowl pox",
+      "c": "Pigs — Coccidiosis",
+      "d": "Sheep — Swine fever"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Newcastle disease** is a highly contagious, fatal viral disease that specifically affects the respiratory, nervous, and digestive systems of **poultry**. *Fowl pox* affects birds, and *Swine fever* strictly affects pigs.",
+    "section_id": null
+  },
+  {
+    "question_number": 111,
+    "subject": "Agricultural Science",
+    "topic": "Animal health management",
+    "question_text": "Trypanosomiasis is an economically devastating disease of cattle in West Africa characterized by chronic anaemia, fever, and weight loss. The disease-causing protozoan is transmitted to the cattle by the:",
+    "options": {
+      "a": "Housefly",
+      "b": "Tsetse fly",
+      "c": "Brown tick",
+      "d": "Flea"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The biological vector responsible for transmitting the *Trypanosoma* parasite into the blood of livestock during a blood meal is the **Tsetse fly (*Glossina spp.*)**. This disease strictly limits large-scale cattle rearing in heavily forested West African zones.",
+    "section_id": null
+  },
+  {
+    "question_number": 112,
+    "subject": "Agricultural Science",
+    "topic": "Animal health management",
+    "question_text": "In animal health management, a prophylactic measure aims to prevent diseases before they occur. Which of the following is NOT considered a prophylactic measure?",
+    "options": {
+      "a": "Isolating newly purchased animals in a quarantine shed",
+      "b": "Routine vaccination of broiler day-old chicks",
+      "c": "Surgically amputating a gangrenous leg of an infected sheep",
+      "d": "Regular dipping of cattle to eradicate ticks"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Prophylaxis means prevention (e.g., vaccines, quarantine, sanitation, dipping). **Surgically amputating an infected limb** or administering antibiotics to a sick animal are *curative* or *therapeutic* measures applied after a disease has already occurred.",
+    "section_id": null
+  },
+  {
+    "question_number": 113,
+    "subject": "Agricultural Science",
+    "topic": "Aquaculture",
+    "question_text": "In fish farming, juvenile fishes that have grown beyond the fry stage, usually possessing scales and working fins (about the length of a human digit), and are ready to be stocked into main grow-out ponds are referred to as:",
+    "options": {
+      "a": "Broodstock",
+      "b": "Fingerlings",
+      "c": "Spawns",
+      "d": "Smolts"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The life cycle of cultivated fish goes from Egg $\\rightarrow$ Larva/Fry $\\rightarrow$ **Fingerling** $\\rightarrow$ Post-fingerling/Juvenile $\\rightarrow$ Adult. They are called **fingerlings** because they are roughly the size of a human finger.",
+    "section_id": null
+  },
+  {
+    "question_number": 114,
+    "subject": "Agricultural Science",
+    "topic": "Aquaculture",
+    "question_text": "The aquaculture practice where a farmer concurrently stocks two or more non-competing species of fish (e.g., Tilapia and African Catfish) in the same earthen pond is termed:",
+    "options": {
+      "a": "Monoculture",
+      "b": "Extensive farming",
+      "c": "Polyculture",
+      "d": "Aquaponics"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Polyculture** is the raising of mixed species within a single water body. It maximizes the ecological use of the pond, as different species feed at different trophic levels (e.g., Tilapia feeds on surface algae, while Catfish feeds on bottom debris/small fishes).",
+    "section_id": null
+  },
+  {
+    "question_number": 115,
+    "subject": "Agricultural Science",
+    "topic": "Aquaculture",
+    "question_text": "During the preparation of an earthen fish pond, the farmer scatters agricultural lime ($\\text{CaCO}_3$) evenly across the pond floor. The principal objective of this practice is to:",
+    "options": {
+      "a": "Increase the turbidity (muddiness) of the pond water",
+      "b": "Neutralize bottom soil acidity and kill harmful parasites",
+      "c": "Introduce high-quality protein to the emerging fry",
+      "d": "Prevent the natural growth of beneficial phytoplankton"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Liming a pond involves applying calcium-based alkaline materials. This reacts with acidic soils to **raise the pH (neutralize acidity)** to a level conducive for fish growth, helps release trapped nutrients from the mud, and sanitizes the pond by killing parasites.",
+    "section_id": null
+  },
+  {
+    "question_number": 116,
+    "subject": "Agricultural Science",
+    "topic": "Apiculture or bee keeping",
+    "question_text": "A specialized farm location where artificial beehives are securely kept and managed for the commercial extraction of honey and beeswax is technically called an:",
+    "options": {
+      "a": "Apiary",
+      "b": "Aviary",
+      "c": "Arboretum",
+      "d": "Abattoir"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Apiculture is the science of bee-keeping. An **apiary** is a collection of beehives (a \"bee yard\"). \n*   *Aviary:* For keeping birds.\n*   *Abattoir:* A slaughterhouse for livestock.\n*   *Arboretum:* A botanical garden for trees.",
+    "section_id": null
+  },
+  {
+    "question_number": 117,
+    "subject": "Agricultural Science",
+    "topic": "Basic economic principles",
+    "question_text": "In agricultural economics, the fundamental problem of scarcity implies that:",
+    "options": {
+      "a": "Farm inputs are completely unavailable in the local markets",
+      "b": "Human wants for agricultural goods are extremely limited",
+      "c": "Available resources are insufficient to satisfy all human wants",
+      "d": "Farmers deliberately hoard farm produce to hike prices"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Scarcity** is the foundation of economics. It means that the productive resources (land, labor, capital) available are limited or insufficient relative to the unlimited desires and wants of humans. This forces farmers and consumers to make choices.",
+    "section_id": null
+  },
+  {
+    "question_number": 118,
+    "subject": "Agricultural Science",
+    "topic": "Basic economic principles",
+    "question_text": "A farmer has just enough funds to purchase either a new tractor or a modern grain silo. He chooses to purchase the tractor. Economically, the grain silo he forfeited is referred to as his:",
+    "options": {
+      "a": "Fixed cost",
+      "b": "Opportunity cost",
+      "c": "Marginal cost",
+      "d": "Sunk cost"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Opportunity cost** is defined as the value of the next best alternative forgone when an economic choice is made. Since the farmer chose the tractor, the grain silo he gave up is his opportunity cost.",
+    "section_id": null
+  },
+  {
+    "question_number": 119,
+    "subject": "Agricultural Science",
+    "topic": "Basic economic principles",
+    "question_text": "The economic principle of \"diminishing returns\" in agricultural production becomes evident when:",
+    "options": {
+      "a": "Fixed costs begin to increase indefinitely with time",
+      "b": "The continuous addition of variable inputs to a fixed land eventually yields successively smaller increases in output",
+      "c": "Total farm output drops to zero immediately after adding the first bag of fertilizer",
+      "d": "Farmers choose to stop selling produce to create an artificial market scarcity"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The **Law of Diminishing Returns** states that if variable inputs (e.g., fertilizer or labor) are continuously added to a fixed input (e.g., 1 hectare of land), total production will initially increase rapidly, but eventually, the marginal (extra) output gained from each additional input unit will begin to decrease.",
+    "section_id": null
+  },
+  {
+    "question_number": 120,
+    "subject": "Agricultural Science",
+    "topic": "Factors of production",
+    "question_text": "Which of the following correctly pairs a factor of production with its corresponding economic reward?",
+    "options": {
+      "a": "Land $\\rightarrow$ Rent",
+      "b": "Labour $\\rightarrow$ Interest",
+      "c": "Capital $\\rightarrow$ Wage",
+      "d": "Entrepreneur $\\rightarrow$ Rent"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "In economics, each factor of production receives a specific reward: \n*   **Land** yields **Rent**\n*   **Labour** earns a **Wage/Salary**\n*   **Capital** generates **Interest**\n*   **Entrepreneur** (the organizer) takes the **Profit/Loss**.",
+    "section_id": null
+  },
+  {
+    "question_number": 121,
+    "subject": "Agricultural Science",
+    "topic": "Factors of production",
+    "question_text": "A unique economic characteristic of **land** as a factor of agricultural production is that its:",
+    "options": {
+      "a": "Value constantly depreciates to zero over a year",
+      "b": "Total supply is relatively fixed and geographically immobile",
+      "c": "Topographical quality is completely uniform across the globe",
+      "d": "Economic reward is primarily determined by the interest rate"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Unlike labor or capital, **land is immobile** (cannot be moved from a village to a city) and its **total supply is fixed** by nature. Land can be degraded, but its physical expanse cannot be created or destroyed by humans.",
+    "section_id": null
+  },
+  {
+    "question_number": 122,
+    "subject": "Agricultural Science",
+    "topic": "Principles of demand",
+    "question_text": "According to the fundamental law of demand, a drastic increase in the market price of locally produced rice, all things being equal, will naturally lead to:",
+    "options": {
+      "a": "An increase in the quantity of rice supplied",
+      "b": "A decrease in the quantity of rice demanded by consumers",
+      "c": "A bodily shift of the entire demand curve to the right",
+      "d": "An explosive increase in consumer demand for the rice"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Law of Demand** states that there is an inverse relationship between price and quantity demanded. Therefore, higher prices discourage consumers, leading to a **decrease in the quantity demanded**.",
+    "section_id": null
+  },
+  {
+    "question_number": 123,
+    "subject": "Agricultural Science",
+    "topic": "Principles of demand",
+    "question_text": "Which of the following non-price factors will cause a bodily shift of the demand curve for beef to the right (indicating an increase in demand)?",
+    "options": {
+      "a": "A drastic reduction in the price of beef",
+      "b": "An outbreak of a deadly zoonotic disease in cattle",
+      "c": "A significant increase in the general income level of consumers",
+      "d": "A massive decrease in the human population of the area"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A shift to the right means people want more beef at *every* price. Changes in the price of beef itself only cause *movement along* the curve. **Increased income**, rising population, or favorable taste/preferences will shift the entire demand curve outward (to the right).",
+    "section_id": null
+  },
+  {
+    "question_number": 124,
+    "subject": "Agricultural Science",
+    "topic": "Principles of supply",
+    "question_text": "The standard supply curve for an agricultural commodity slopes upwards from left to right. This graphically indicates that:",
+    "options": {
+      "a": "Producers are willing to supply more quantities to the market at higher prices",
+      "b": "Consumers are eager to buy less when the market price is extremely low",
+      "c": "Government taxes completely reduce the total farm production level",
+      "d": "Market price and the quantity supplied are inversely proportional"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "An upward-sloping supply curve illustrates the **Law of Supply**: a direct, positive relationship between price and quantity. High prices mean higher profit margins, encouraging producers to **supply more quantities**.",
+    "section_id": null
+  },
+  {
+    "question_number": 125,
+    "subject": "Agricultural Science",
+    "topic": "Implications of demand and supply for agricultural production",
+    "question_text": "If favorable weather leads to a massive bumper harvest of yam tubers, causing a glut in the local market while consumer demand remains completely unchanged, what is the expected economic effect?",
+    "options": {
+      "a": "The equilibrium price of yams will skyrocket rapidly",
+      "b": "The equilibrium price of yams will fall significantly",
+      "c": "The price will remain exactly the same as the previous year",
+      "d": "The government will be forced to ban the open sale of yams"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A bumper harvest causes a massive increase in supply (the supply curve shifts right). When supply greatly exceeds unchanged demand (a market glut/surplus), sellers must lower their prices to clear their stock, causing the **equilibrium price to fall**.",
+    "section_id": null
+  },
+  {
+    "question_number": 126,
+    "subject": "Agricultural Science",
+    "topic": "Implications of demand and supply for agricultural production",
+    "question_text": "Agricultural food products, such as fresh tomatoes and yams, are generally characterized by highly **inelastic demand**. This implies that:",
+    "options": {
+      "a": "A huge increase in their price leads to a complete stop in their consumption",
+      "b": "A change in their market price causes little or no significant change in the quantity demanded",
+      "c": "They can be stretched and stored indefinitely without spoiling",
+      "d": "They are considered luxury and prestige goods by most rural consumers"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Food is a basic necessity of life. Therefore, even if the price of staple foods goes up, people must still eat to survive. A large percentage change in price leads to a proportionately smaller change in quantity demanded; this is called **price inelasticity of demand**.",
+    "section_id": null
+  },
+  {
+    "question_number": 127,
+    "subject": "Agricultural Science",
+    "topic": "Functions of a farm manager",
+    "question_text": "At the end of the fiscal year, a farm manager meticulously performs a physical count of all livestock, machineries, and harvested bags of maize in the store. This specific function falls under:",
+    "options": {
+      "a": "Administrative and supervisory function",
+      "b": "Farm accounting and evaluative function",
+      "c": "Sales and marketing function",
+      "d": "Human personnel management"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Taking stock (creating a farm inventory) and balancing the financial books to determine the net worth or profit/loss is a critical **evaluative and accounting function** of a farm manager.",
+    "section_id": null
+  },
+  {
+    "question_number": 128,
+    "subject": "Agricultural Science",
+    "topic": "Problems faced by farm managers",
+    "question_text": "Farm managers operate in environments filled with uncertainties. Which of the following poses an unpredictable **biological risk** to a crop farm enterprise?",
+    "options": {
+      "a": "Sudden national inflation and currency devaluation",
+      "b": "Massive invasion of the farm by armyworms or locusts",
+      "c": "Theft of expensive farm tractors by armed robbers",
+      "d": "Frequent fluctuations in government agricultural export policies"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Risks in agriculture are categorized. Inflation is an economic risk. Policy changes are political/institutional risks. Theft is a human/social risk. **Pests (like locusts) and diseases** involve living organisms and are therefore classified as **biological risks**.",
+    "section_id": null
+  },
+  {
+    "question_number": 129,
+    "subject": "Agricultural Science",
+    "topic": "Agricultural finance",
+    "question_text": "A commercial poultry farmer requires capital exclusively to purchase day-old chicks and poultry feed, which he intends to pay back from his egg sales within a period of six to eight months. The most appropriate type of credit to seek is a:",
+    "options": {
+      "a": "Short-term loan",
+      "b": "Medium-term loan",
+      "c": "Long-term loan",
+      "d": "Mortgage loan"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Agricultural credits are based on duration. **Short-term loans** are designed to be paid back quickly (usually within one year or one season) and are used for buying consumable inputs like seeds, feed, fertilizer, or day-old chicks. Medium/Long-term loans are for buying tractors or erecting buildings.",
+    "section_id": null
+  },
+  {
+    "question_number": 130,
+    "subject": "Agricultural Science",
+    "topic": "Agricultural finance",
+    "question_text": "Which of the following is a major advantage of sourcing agricultural credit from informal sources, such as local money lenders or \"Esusu\", compared to formal commercial banks?",
+    "options": {
+      "a": "They charge extremely low and highly subsidized interest rates",
+      "b": "They do not demand rigorous paperwork and strict physical collateral",
+      "c": "They can comfortably provide billions of naira for massive irrigation projects",
+      "d": "They offer comprehensive agricultural insurance for free"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Informal credit sources (friends, money lenders, *Esusu/Isusu* cooperatives) often charge exorbitant interest rates and cannot fund massive projects. However, their primary advantage is speed and accessibility: they require **little to no paperwork, bureaucracy, or strict collateral**.",
+    "section_id": null
+  },
+  {
+    "question_number": 131,
+    "subject": "Agricultural Science",
+    "topic": "Farm records and accounts",
+    "question_text": "A farm document that shows the financial position (a summary of all assets and all liabilities) of an agricultural enterprise at a specific point in time (usually the end of the year) is the:",
+    "options": {
+      "a": "Cash analysis book",
+      "b": "Balance sheet",
+      "c": "Profit and loss account",
+      "d": "Farm inventory record"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **Balance sheet** (or Statement of Financial Position) explicitly lists the farm's Assets (what it owns) on one side and its Liabilities (what it owes) on the other to determine the farm's net worth at a specific date. A *Profit and Loss account* details revenue and expenses over a period.",
+    "section_id": null
+  },
+  {
+    "question_number": 132,
+    "subject": "Agricultural Science",
+    "topic": "Farm records and accounts",
+    "question_text": "Based on the accounting equation, if an integrated farm's total assets amount to $\\text{₦}2,500,000$ and its total external liabilities are $\\text{₦}1,200,000$, the net worth (or owner's equity) of the farm is:",
+    "options": {
+      "a": "$\\text{₦}1,200,000$",
+      "b": "$\\text{₦}1,300,000$",
+      "c": "$\\text{₦}2,500,000$",
+      "d": "$\\text{₦}3,700,000$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The fundamental accounting equation is: \n$$\\text{Net Worth (Equity)} = \\text{Total Assets} - \\text{Total Liabilities}$$\n$$\\text{Net Worth} = 2,500,000 - 1,200,000 = \\text{₦}1,300,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 133,
+    "subject": "Agricultural Science",
+    "topic": "Farm records and accounts",
+    "question_text": "A farmer successfully cultivated and sold $50$ tubers of yam at $\\text{₦}600$ each. If his total cost of production (including labor and inputs) was $\\text{₦}18,500$, calculate his net profit.",
+    "options": {
+      "a": "$\\text{₦}11,500$",
+      "b": "$\\text{₦}18,500$",
+      "c": "$\\text{₦}30,000$",
+      "d": "$\\text{₦}48,500$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "First, calculate Total Revenue: \n$$\\text{Total Revenue} = 50 \\text{ tubers} \\times \\text{₦}600 = \\text{₦}30,000$$\nNext, calculate Net Profit: \n$$\\text{Net Profit} = \\text{Total Revenue} - \\text{Total Cost}$$\n$$\\text{Net Profit} = 30,000 - 18,500 = \\text{₦}11,500$$",
+    "section_id": null
+  },
+  {
+    "question_number": 134,
+    "subject": "Agricultural Science",
+    "topic": "Marketing of agricultural produce",
+    "question_text": "In the marketing of agricultural produce, the specific process of sorting harvested fruits into uniform sizes, colours, and quality categories before they are presented for sale is termed:",
+    "options": {
+      "a": "Processing",
+      "b": "Assembling",
+      "c": "Grading",
+      "d": "Packaging"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Grading and sorting** is a marketing function where agricultural products are separated into specific categories or standards of quality (e.g., sorting large red tomatoes from small green ones) to attract premium prices from buyers.",
+    "section_id": null
+  },
+  {
+    "question_number": 135,
+    "subject": "Agricultural Science",
+    "topic": "Marketing of agricultural produce",
+    "question_text": "Which of the following factors constitutes a major perennial problem in the marketing of agricultural produce in rural West Africa?",
+    "options": {
+      "a": "High perishability of farm produce coupled with grossly inadequate storage facilities",
+      "b": "Overabundance of perfectly paved and fully illuminated rural feeder roads",
+      "c": "A highly standardized, uniform local measurement scale in all village markets",
+      "d": "Complete absence of middlemen, leaving the farmer with all the profits"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Agricultural marketing in developing nations is plagued by poor transportation, lack of standardized pricing, exploitation by middlemen, and most notably, the **high perishability of crops** due to poor/non-existent cold storage and processing facilities.",
+    "section_id": null
+  },
+  {
+    "question_number": 136,
+    "subject": "Agricultural Science",
+    "topic": "Marketing of agricultural produce",
+    "question_text": "In the agricultural marketing channel, the prominent agent who buys agricultural produce in very large bulk directly from scattered rural farmers and transports them to urban centers to sell in smaller batches is the:",
+    "options": {
+      "a": "Ultimate consumer",
+      "b": "Retailer",
+      "c": "Wholesaler",
+      "d": "Farm laborer"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **wholesaler** is a critical middleman. They buy in massive bulk from producers, bear the cost of transportation and warehousing, and break the bulk into smaller, manageable sizes to sell to retailers.",
+    "section_id": null
+  },
+  {
+    "question_number": 137,
+    "subject": "Agricultural Science",
+    "topic": "Agricultural insurance",
+    "question_text": "The primary objective of taking out a formal agricultural insurance policy on a farm enterprise is to:",
+    "options": {
+      "a": "Ensure that the farmer never experiences any bad weather or pest attacks",
+      "b": "Provide financial compensation to the farmer to cushion the effect of an unavoidable loss",
+      "c": "Magically increase the physical yield of crops during a drought",
+      "d": "Completely exempt the farm manager from paying any government taxes"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Insurance cannot stop disasters (like floods or fires) from happening. Its primary objective is to provide **indemnity** (financial compensation) to restore the farmer to the financial position they were in just before the disastrous loss occurred.",
+    "section_id": null
+  },
+  {
+    "question_number": 138,
+    "subject": "Agricultural Science",
+    "topic": "Agricultural insurance",
+    "question_text": "The specific amount of money paid periodically (e.g., annually) by a farmer to an insurance company in order to keep their insurance policy contract active is called the:",
+    "options": {
+      "a": "Premium",
+      "b": "Indemnity",
+      "c": "Sum assured",
+      "d": "Collateral"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "A **premium** is the mandatory periodic payment made by the insured (the farmer) to the insurer (the insurance company) for the coverage of risks. *Indemnity* is the compensation paid out by the company when a loss occurs.",
+    "section_id": null
+  },
+  {
+    "question_number": 139,
+    "subject": "Agricultural Science",
+    "topic": "Agricultural extension",
+    "question_text": "Agricultural extension is fundamentally best defined as an out-of-school, non-formal education system designed primarily to:",
+    "options": {
+      "a": "Expand the physical boundaries of a rural farm using modern earth-moving machinery",
+      "b": "Teach rural farmers modern innovations, skills, and improved practices to boost their productivity",
+      "c": "Prosecute peasant farmers who fail to pay up their agricultural cooperative loans",
+      "d": "Force local farmers to abandon food crops and cultivate only cash crops for export"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Agricultural extension** is an informal educational process directed toward rural communities. Its aim is to transfer proven research findings from research institutes to farmers and teach them how to adopt these innovations to raise yields and improve their living standards.",
+    "section_id": null
+  },
+  {
+    "question_number": 140,
+    "subject": "Agricultural Science",
+    "topic": "Agricultural extension",
+    "question_text": "An agricultural extension agent utilizes a 30-minute radio broadcast spoken in local dialects to urgently inform all rural farmers in a state about an impending locust invasion. This teaching approach is a classic example of the:",
+    "options": {
+      "a": "Mass method",
+      "b": "Individual method",
+      "c": "Group method",
+      "d": "Interpersonal method"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Extension teaching methods are classified by audience size. \n*   **Mass media methods:** Radio, television, posters, and newspapers reach thousands of unorganized people simultaneously.\n*   *Group methods:* Field days, seminars, and method demonstrations target 20-50 people.\n*   *Individual methods:* Farm visits and phone calls target a single farmer.",
+    "section_id": null
+  },
+  {
+    "question_number": 141,
+    "subject": "Agricultural Science",
+    "topic": "Agricultural extension",
+    "question_text": "Which of the following is widely considered a major structural bottleneck limiting the effectiveness of agricultural extension services in many developing nations?",
+    "options": {
+      "a": "The excessive eagerness of highly educated traditional farmers to adopt untested innovations",
+      "b": "A very high extension agent-to-farmer ratio, making it nearly impossible to reach most isolated villages",
+      "c": "An oversupply of high-tech audio-visual aids and free internet access in rural agrarian areas",
+      "d": "A complete lack of consumer demand for agricultural food products in the surrounding cities"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A major challenge facing agricultural extension is the severe shortage of trained personnel relative to the vast farming population. One agent might be assigned to supervise thousands of farmers (a **high agent-to-farmer ratio** or precisely, low agent density) scattered across inaccessible rural terrains with poor road networks.",
+    "section_id": null
+  }
+]
