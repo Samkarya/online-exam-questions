@@ -81,7 +81,7 @@
     "date": "2026-04-05",
     "author": "ExamOven Team",
     "excerpt": "Get all the details on the 2026 NECO BECE (JSS3 exams) including official timetable dates, syllabus requirements, registration deadlines, and grading system.",
-    "tags": ["WAEC", "WASSCE", "NECO", "BECE", "Junior WAEC", "Senior Secondary", "Nigerian Education", "Exam Prep"],
+    "tags": ["WAEC", "NECO", "BECE", "Junior WAEC", "Nigerian Education", "Exam Prep"],
     "mdFilePath": "/blog/neco-bece-2026-complete-guide.md",
     "targetExamId": "bece"
   },
@@ -169,7 +169,7 @@
     "date": "2026-05-14",
     "author": "ExamOven Team",
     "excerpt": "Looking for the official WASSCE 2026 timetable? Get verified WAEC 2026 exam dates (April 21 – June 19), registration fees (₦37,500), and latest CBT updates. Learn how to pass your exams with tips from the Chief Examiners' Report.",
-    "tags": ["WAEC", "WASSCE", "NECO", "BECE", "Junior WAEC", "Senior Secondary", "Nigerian Education", "Exam Prep"],
+    "tags": ["WAEC", "WASSCE", "NECO", "Senior Secondary", "Nigerian Education", "Exam Prep"],
     "mdFilePath": "/blog/wassce-2026-official-updates-cbt-dates-fees-guide.md",
     "targetExamId": "wassce"
   },
@@ -232,25 +232,27 @@
   },
   {
     "slug": "neco-ssce-internal-2026-complete-guide",
-    "title": "NECO SSCE Internal 2026: Complete Guide — Registration, Fees, Timetable & Results",
+    "title": "NECO SSCE Internal 2026: Complete Guide: Registration, Fees, Timetable & Results",
     "type": "blog",
     "date": "2026-08-09",
     "dateModified": "2026-08-09",
     "author": "The ExamOven Team",
     "excerpt": "Everything school candidates, parents, and teachers need for the 2026 NECO SSCE Internal — registration steps, fees, timetable, and when results are expected.",
-    "tags": ["NECO", "SSCE Internal", "Registration Guide", "Exam Timetable", "School Exams"],
-    "mdFilePath": "/blog/neco-ssce-internal-2026-complete-guide.md"
+    "tags": ["NECO", "NECO SSCE", "SSCE Internal", "Registration Guide", "Exam Timetable", "School Exams"],
+    "mdFilePath": "/blog/neco-ssce-internal-2026-complete-guide.md",
+    "targetExamId": "neco-ssce"
   },
   {
     "slug": "neco-ssce-external-gce-2026-complete-guide",
-    "title": "NECO SSCE External (GCE) 2026: Complete Guide — Registration, Fees, Subjects & Timetable",
+    "title": "NECO SSCE External (GCE) 2026: Complete Guide: Registration, Fees, Subjects & Timetable",
     "type": "blog",
     "date": "2026-08-09",
     "dateModified": "2026-08-09",
     "author": "The ExamOven Team",
     "excerpt": "Everything private candidates, parents, and teachers need for the 2026 NECO SSCE External (GCE) — registration steps, fees, the 16-subject list, and the full timetable.",
-    "tags": ["NECO", "NECO GCE", "SSCE External", "Registration Guide", "Exam Timetable"],
-    "mdFilePath": "/blog/neco-ssce-external-gce-2026-complete-guide.md"
+    "tags": ["NECO", "NECO SSCE", "NECO GCE", "SSCE External", "Registration Guide", "Exam Timetable"],
+    "mdFilePath": "/blog/neco-ssce-external-gce-2026-complete-guide.md",
+    "targetExamId": "neco-ssce"
   },
   {
     "slug": "neco-syllabus-grading-verification-guide",
@@ -260,7 +262,8 @@
     "dateModified": "2026-08-09",
     "author": "The ExamOven Team",
     "excerpt": "Everything common to both internal and external NECO SSCE exams — the syllabus, subject combinations, grading scale, malpractice rules, and how to verify a result — in one reference guide.",
-    "tags": ["NECO", "NECO Syllabus", "Grading System", "Result Verification", "Exam Prep"],
-    "mdFilePath": "/blog/neco-syllabus-grading-verification-guide.md"
+    "tags": ["NECO", "NECO SSCE", "NECO Syllabus", "Grading System", "Result Verification", "Exam Prep"],
+    "mdFilePath": "/blog/neco-syllabus-grading-verification-guide.md",
+    "targetExamId": "neco-ssce"
   }
 ]

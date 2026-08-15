@@ -1,0 +1,1330 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Commerce",
+    "topic": "Finance and Financial Institutions - Money",
+    "question_text": "For any commodity to serve effectively as money, it must possess the ability to be broken down into smaller denominations without losing its value. This essential characteristic is known as...",
+    "options": {
+      "a": "durability.",
+      "b": "divisibility.",
+      "c": "portability.",
+      "d": "acceptability."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Divisibility** is the characteristic of money that allows it to be broken down into smaller, standard units (e.g., Naira can be divided into Kobo). This ensures that money can be used to settle transactions of very small values without hassle.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Commerce",
+    "topic": "Finance and Financial Institutions - Money",
+    "question_text": "The function of money that enables a commercial firm to accurately record its assets, liabilities, and trading profits in a unified ledger is its role as a...",
+    "options": {
+      "a": "medium of exchange.",
+      "b": "standard of deferred payment.",
+      "c": "unit of account.",
+      "d": "store of value."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Money acts as a **unit of account** (or measure of value), meaning it provides a standard metric for pricing and valuing all goods and services. Without this function, accounting and maintaining accurate financial records would be practically impossible.",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Commerce",
+    "topic": "Finance and Financial Institutions - Banks",
+    "question_text": "Which of the following functions is exclusively performed by a Central Bank and NOT by commercial banks?",
+    "options": {
+      "a": "Granting short-term overdrafts to private businesses.",
+      "b": "Safeguarding jewelry and important documents for customers.",
+      "c": "Issuing the legal tender currency of the nation.",
+      "d": "Acting as an agent for the transfer of funds electronically."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The Central Bank (e.g., the Central Bank of Nigeria - CBN) holds the exclusive statutory monopoly on the **issuance of legal tender** (bank notes and coins). Commercial banks provide overdrafts, safe custody, and money transfer services to the public.",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Commerce",
+    "topic": "Finance and Financial Institutions - Banks",
+    "question_text": "A major advantage of operating a **Current Account** over a Savings Account in a commercial bank is that it...",
+    "options": {
+      "a": "yields the highest interest rate for the depositor.",
+      "b": "allows the depositor to make payments to third parties using cheques.",
+      "c": "strictly restricts the number of cash withdrawals per month.",
+      "d": "is completely exempt from all bank commission charges."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **Current Account** is designed primarily for business owners and regular transactors. Its biggest advantage is the provision of a chequebook, which allows the account holder to make secure third-party payments and apply for bank overdrafts. It typically does not earn interest.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Commerce",
+    "topic": "Finance and Financial Institutions - Banks",
+    "question_text": "When two parallel lines are drawn across the face of a cheque, it becomes a crossed cheque. What is the legal effect of this action?",
+    "options": {
+      "a": "The cheque must be paid into a bank account and cannot be cashed directly over the counter.",
+      "b": "The cheque has bounced and the drawer's account has insufficient funds.",
+      "c": "The cheque can now be used as legal tender in foreign exchange markets.",
+      "d": "The cheque is invalid and can no longer be honored by the bank."
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "**Crossing a cheque** acts as a security measure. It instructs the paying bank that the funds must be credited directly into the payee's bank account, effectively preventing a thief from cashing it over the counter.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Commerce",
+    "topic": "Finance and Financial Institutions - Insurance",
+    "question_text": "Mr. Bello decided to buy a fire insurance policy for his neighbor's house. In the event of a fire outbreak, the insurance company will refuse to pay him because the contract violates the principle of...",
+    "options": {
+      "a": "Indemnity.",
+      "b": "Utmost Good Faith.",
+      "c": "Insurable Interest.",
+      "d": "Subrogation."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The principle of **Insurable Interest** dictates that an individual can only insure an item if they would suffer a direct financial loss from its destruction. Since Mr. Bello does not own his neighbor's house, he has no insurable interest and cannot legally insure it.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Commerce",
+    "topic": "Finance and Financial Institutions - Insurance",
+    "question_text": "The fundamental insurance principle of *uberrimae fidei* strictly obligates the person taking out the insurance policy to...",
+    "options": {
+      "a": "surrender their damaged property to the insurance company after a claim.",
+      "b": "disclose all material facts concerning the risk they wish to insure.",
+      "c": "pay the insurance premium in equal monthly installments.",
+      "d": "ensure they do not profit from a claim they make."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "*Uberrimae Fidei* translates to **Utmost Good Faith**. It legally binds both the insurer and the insured to be completely honest and disclose every material fact related to the risk. Failure to disclose relevant information (like a pre-existing medical condition in life assurance) makes the policy voidable.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Commerce",
+    "topic": "Finance and Financial Institutions - Insurance",
+    "question_text": "Which of the following motor insurance policies is the legally mandated minimum for any vehicle owner driving on public roads in Nigeria?",
+    "options": {
+      "a": "Comprehensive Motor Insurance",
+      "b": "Third-Party Fire and Theft Insurance",
+      "c": "Third-Party Motor Insurance",
+      "d": "Vehicle Life Assurance"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Third-Party Motor Insurance** is compulsory under the law for all vehicle owners. It covers injuries, death, or property damage caused to other people (the third party) by the insured vehicle, but does not cover the insured person's own vehicle.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Commerce",
+    "topic": "Finance and Financial Institutions - Capital Market",
+    "question_text": "The Capital Market is a specialized financial market primarily concerned with the...",
+    "options": {
+      "a": "buying and selling of short-term government treasury bills.",
+      "b": "provision of long-term loans and investment capital to industries and government.",
+      "c": "regulation of retail commodity prices in the local market.",
+      "d": "exchange of foreign currencies by commercial banks."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Financial markets are divided by the duration of the funds traded:\n*   **Money Market:** Short-term funds (less than a year, e.g., Treasury Bills).\n*   **Capital Market:** Long-term funds (several years to permanent, e.g., Shares, Bonds). It aids heavy industrial expansion.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Commerce",
+    "topic": "Finance and Financial Institutions - Capital Market",
+    "question_text": "Which of the following financial instruments is actively traded on the Capital Market?",
+    "options": {
+      "a": "Commercial papers",
+      "b": "Treasury bills",
+      "c": "Equities and Debentures",
+      "d": "Bills of exchange"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Equities (Shares)** and **Debentures (Long-term bonds)** are the principal instruments of the Capital Market. \nConversely, *Treasury bills, commercial papers, and bills of exchange* are short-term credit instruments traded on the Money Market.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Commerce",
+    "topic": "Finance and Financial Institutions - Stock Exchange",
+    "question_text": "A key economic function of the Stock Exchange (First-tier market) is to...",
+    "options": {
+      "a": "print the nation's legal tender during times of inflation.",
+      "b": "provide a highly regulated secondary market for the buying and selling of existing securities.",
+      "c": "grant direct short-term loans to sole proprietors.",
+      "d": "act as a clearing house for commercial banks settling their daily cheques."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Stock Exchange** is a secondary market where already issued shares, stocks, and bonds (securities) are bought and sold. It provides liquidity to investors, allowing them to easily convert their shares into cash.",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Commerce",
+    "topic": "Finance and Financial Institutions - Stock Exchange",
+    "question_text": "In the operations of the Stock Exchange, a speculator who actively buys large quantities of shares with the belief that their prices will soon rise, so he can sell them for a profit, is known as a...",
+    "options": {
+      "a": "Bear.",
+      "b": "Broker.",
+      "c": "Bull.",
+      "d": "Stag."
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Stock Exchange Speculators:\n*   **Bull:** Buys shares expecting prices to go *up*.\n*   **Bear:** Sells shares expecting prices to go *down*.\n*   **Stag:** Applies for new shares during an initial public offering (IPO) hoping to sell them at a premium immediately upon listing.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Commerce",
+    "topic": "Finance and Financial Institutions - Stock Exchange",
+    "question_text": "An institutional agent who buys and sells shares strictly on behalf of public investors and earns a commission for these services is a...",
+    "options": {
+      "a": "Stockbroker.",
+      "b": "Jobber.",
+      "c": "Promoter.",
+      "d": "Underwriter."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "A **Stockbroker** acts as an agent for the public. Members of the public cannot trade directly on the floor of the Stock Exchange; they must use a stockbroker who buys or sells on their behalf in exchange for a commission (brokerage fee). A *Jobber*, on the other hand, trades as a principal for their own account.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Commerce",
+    "topic": "Finance and Financial Institutions - Commodity Exchange",
+    "question_text": "A Commodity Exchange differs from a Stock Exchange because a Commodity Exchange is a structured market primarily established for trading...",
+    "options": {
+      "a": "government treasury bonds and equities.",
+      "b": "used industrial machinery and fixed assets.",
+      "c": "foreign currencies and bank drafts.",
+      "d": "standardized primary products like cocoa, cotton, and solid minerals."
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "A **Commodity Exchange** is an organized market where standard physical commodities, such as agricultural produce (e.g., cocoa, wheat) and solid minerals (e.g., gold, tin), are traded, often using future contracts. Unlike a Stock Exchange, it does not trade financial securities like shares or bonds.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Commerce",
+    "topic": "Transport, Tourism, Communication, and Warehousing",
+    "question_text": "The primary economic function of transportation as an aid to trade is to...",
+    "options": {
+      "a": "provide safe storage for goods during off-peak seasons.",
+      "b": "eliminate the geographical distance between the producer and the consumer.",
+      "c": "protect the businessman from financial losses and transit risks.",
+      "d": "create widespread awareness for new products in the market."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Transport is a crucial commercial activity because it **bridges the geographical gap** (solves the hindrance of place). Goods are useful only when they are moved from where they are produced to where they are actually needed by final consumers.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Commerce",
+    "topic": "Transport, Tourism, Communication, and Warehousing",
+    "question_text": "Which of the following modes of transportation is most specifically suited for the continuous, uninterrupted, and cost-effective movement of liquids and gases like crude oil?",
+    "options": {
+      "a": "Rail transport",
+      "b": "Road transport",
+      "c": "Pipeline transport",
+      "d": "Inland waterways"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Pipeline transport** is a specialized mode of transport designed specifically for pumping liquids (like crude oil, water) and gases (like natural gas) over long distances safely and continuously.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Commerce",
+    "topic": "Transport, Tourism, Communication, and Warehousing",
+    "question_text": "A crucial document used in sea transport that acts as a formal receipt for goods loaded onto a vessel and serves as a contract of carriage is known as the...",
+    "options": {
+      "a": "Bill of Lading.",
+      "b": "Dock Warrant.",
+      "c": "Consular Invoice.",
+      "d": "Air Waybill."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The **Bill of Lading** is the most important document in sea transport. It has three main functions:\n1.  It is a **receipt** from the shipping company for the goods.\n2.  It represents the **contract of carriage**.\n3.  It is a **document of title** (ownership), meaning it can be transferred to another party.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Commerce",
+    "topic": "Transport, Tourism, Communication, and Warehousing",
+    "question_text": "Tourism contributes significantly to the economic development of a country primarily because it serves as a major source of...",
+    "options": {
+      "a": "heavy industrial raw materials.",
+      "b": "foreign exchange earnings.",
+      "c": "technological and software innovations.",
+      "d": "subsistence agricultural produce."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Tourism** (an invisible export) attracts international visitors who spend their foreign currencies on local hospitality, food, and souvenirs. This influx of tourists generates substantial **foreign exchange earnings**, which boost the national economy.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Commerce",
+    "topic": "Transport, Tourism, Communication, and Warehousing",
+    "question_text": "Which of the following commercial sectors is most organically integrated with and vital to the sustained growth of the tourism industry?",
+    "options": {
+      "a": "Commercial banking",
+      "b": "Extractive mining",
+      "c": "Hospitality and hotel services",
+      "d": "Public warehousing"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **hospitality industry** (which includes hotels, restaurants, and resorts) goes hand-in-hand with tourism. Tourists require accommodation, food, and recreational services, making hospitality the backbone of a successful tourism sector.",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Commerce",
+    "topic": "Transport, Tourism, Communication, and Warehousing",
+    "question_text": "In modern commerce, communication facilitates trade by...",
+    "options": {
+      "a": "physically relocating raw materials to manufacturing sites.",
+      "b": "allowing rapid contact and negotiation between buyers and sellers over long distances.",
+      "c": "indemnifying the businessman against total stock loss.",
+      "d": "preventing seasonal shortages of agricultural produce."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Communication systems (like the internet, telephones, and postal services) bridge the gap of human contact. They allow buyers, sellers, and agents to interact, negotiate, and exchange information instantaneously, regardless of their geographical locations.",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Commerce",
+    "topic": "Transport, Tourism, Communication, and Warehousing",
+    "question_text": "If a businessman wishes to mail highly important, valuable legal documents through the post office and desires proof of delivery as well as financial compensation in case of loss, the most appropriate service to use is...",
+    "options": {
+      "a": "ordinary mail.",
+      "b": "poste restante.",
+      "c": "business reply service.",
+      "d": "registered mail."
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Registered Mail** is a premium postal service used for sending valuables or important documents. The post office tracks the mail, requires a signature upon delivery (proof), and pays compensation if the mail is lost or damaged in transit.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Commerce",
+    "topic": "Transport, Tourism, Communication, and Warehousing",
+    "question_text": "The postal service that allows a traveling businessman, who has no fixed address in a city, to have letters held for him at the local post office until he calls to collect them is known as...",
+    "options": {
+      "a": "express delivery.",
+      "b": "recorded delivery.",
+      "c": "poste restante.",
+      "d": "parcel post."
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "**Poste Restante** (meaning \"mail to be kept\") is a service provided by the post office for people traveling without a permanent address. Mail is addressed to the local post office, which holds it securely until the traveler arrives to collect it, usually upon presenting identification.",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "Commerce",
+    "topic": "Transport, Tourism, Communication, and Warehousing",
+    "question_text": "A warehouse situated near a seaport where imported goods are mandatorily stored under government supervision until the applicable custom duties are paid is called a...",
+    "options": {
+      "a": "wholesaler's warehouse.",
+      "b": "bonded warehouse.",
+      "c": "manufacturer's warehouse.",
+      "d": "cold-storage warehouse."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **Bonded Warehouse** is a highly secured storage facility strictly supervised by the Customs Authority. Importers leave their goods there under a \"bond\" and cannot remove them until they have paid the requisite import duties and tariffs.",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "Commerce",
+    "topic": "Transport, Tourism, Communication, and Warehousing",
+    "question_text": "How does the commercial activity of warehousing contribute directly to the stabilization of market prices?",
+    "options": {
+      "a": "By heavily taxing all surplus goods before they enter the market.",
+      "b": "By ensuring a steady and continuous release of goods into the market throughout the year.",
+      "c": "By limiting the importation of cheaper foreign manufactured goods.",
+      "d": "By physically transporting goods rapidly to areas experiencing extreme scarcity."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Warehousing stabilizes prices by acting as a buffer. Many goods, particularly agricultural ones, are harvested seasonally but consumed year-round. \n*   Without warehousing, excess goods would flood the market during harvest (crashing prices), and scarcity would occur off-season (skyrocketing prices). \n*   Warehousing **stores the surplus and releases it gradually**, ensuring stable supply and, consequently, stable prices.",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "Commerce",
+    "topic": "Advertising",
+    "question_text": "In the commercial sector, advertising is best defined as...",
+    "options": {
+      "a": "the direct, face-to-face personal selling of goods to final consumers.",
+      "b": "any paid form of non-personal communication about products or services by an identified sponsor.",
+      "c": "the unpaid media coverage a business receives after launching a new product.",
+      "d": "the physical transportation of promotional materials to local markets."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Advertising** is essentially a paid, non-personal public announcement or communication by an identified sponsor. It is designed to promote the sale of a product, service, or idea. It contrasts with personal selling (Option A) and public relations/publicity (Option C, which is unpaid).",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "Commerce",
+    "topic": "Advertising",
+    "question_text": "Which of the following is considered a major economic advantage of advertising to the manufacturer?",
+    "options": {
+      "a": "It completely eliminates the need to pay corporate taxes.",
+      "b": "It ensures that consumers can buy goods entirely on credit.",
+      "c": "It stimulates mass demand, leading to mass production and lower unit costs.",
+      "d": "It replaces the need for warehousing and transportation."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A core role of advertising is to create awareness and stimulate high consumer demand. High demand allows the manufacturer to engage in **mass production**. As production volume increases, the cost of producing each single unit generally falls due to economies of scale.",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "Commerce",
+    "topic": "Advertising",
+    "question_text": "From the perspective of the final consumer, a frequent criticism or disadvantage of heavy advertising is that it...",
+    "options": {
+      "a": "often leads to an increase in the final retail price of the goods.",
+      "b": "makes it impossible to find out the ingredients used in the product.",
+      "c": "forces manufacturers to reduce the quality of their raw materials.",
+      "d": "provides too much useful information about competing brands."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Advertising costs a lot of money (e.g., millions for TV commercials). Manufacturers usually recover this cost by adding it to the selling price of the product, meaning **the consumer ultimately pays a higher retail price** to cover the advertising expenses.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "Commerce",
+    "topic": "Advertising",
+    "question_text": "An advertisement launched by the Ministry of Health to educate the general public on the outbreak of a new disease and the necessary hygiene steps to prevent it is an example of...",
+    "options": {
+      "a": "persuasive advertising.",
+      "b": "competitive advertising.",
+      "c": "informative advertising.",
+      "d": "specific advertising."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Informative advertising** is designed simply to state facts, educate the public, or introduce a completely new concept/product to the market without necessarily aggressively comparing it to others or forcing a sale.",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "Commerce",
+    "topic": "Advertising",
+    "question_text": "When a telecommunications company airs a commercial explicitly claiming that its internet network is \"twice as fast\" as that of a specific rival network, it is engaging in...",
+    "options": {
+      "a": "indirect advertising.",
+      "b": "competitive advertising.",
+      "c": "informative advertising.",
+      "d": "mass advertising."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Competitive advertising** occurs when a brand tries to establish superiority over other brands in the same industry. The advertisement highlights the differences and claims why its specific brand is better than its rivals.",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "Commerce",
+    "topic": "Advertising",
+    "question_text": "Advertising that aims to strongly appeal to consumers' emotions and convince them to switch their loyalty to a particular brand is known as...",
+    "options": {
+      "a": "mass advertising.",
+      "b": "informative advertising.",
+      "c": "persuasive advertising.",
+      "d": "direct advertising."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Persuasive advertising** aggressively tries to build brand preference and convince customers to take immediate action, often by appealing to their emotions, desires, or status, rather than just providing neutral facts.",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "Commerce",
+    "topic": "Advertising",
+    "question_text": "Which of the following represents a **direct method** of advertising?",
+    "options": {
+      "a": "A full-page advertisement placed in a daily newspaper.",
+      "b": "A colorful billboard erected on a busy commercial highway.",
+      "c": "A product catalog and sales letter mailed specifically to a targeted customer's home address.",
+      "d": "A television commercial broadcast during a live football match."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Advertising methods are broadly direct or indirect. \n*   **Indirect advertising** (mass media) broadcasts to the general, unspecific public (TV, Radio, Billboards). \n*   **Direct advertising** targets a specific, known individual, usually via direct mail, personalized catalogs, or direct emails.",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "Commerce",
+    "topic": "Advertising",
+    "question_text": "The most crucial factor a manufacturer must consider when selecting an appropriate advertising medium is the...",
+    "options": {
+      "a": "size of the company's factory.",
+      "b": "nature of the target audience for the product.",
+      "c": "number of employees working in the sales department.",
+      "d": "personal preferences of the company's board of directors."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "When choosing an advertising medium (TV, radio, internet, magazines), the choice must primarily be dictated by the **target audience**. For instance, advertising a product meant for rural farmers is best done over local radio, while high-end teenage fashion is better suited for social media.",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "Commerce",
+    "topic": "Advertising",
+    "question_text": "A manufacturing firm wishes to advertise a highly technical piece of medical equipment that requires detailed written explanations, blueprints, and diagrams. Which of the following advertising media would be the most suitable?",
+    "options": {
+      "a": "Radio broadcasting",
+      "b": "Neon signs and billboards",
+      "c": "Specialized trade magazines and journals",
+      "d": "Short television commercials"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Trade magazines and journals** are a form of print media that allows for lengthy, detailed, and highly technical explanations. Billboards, radio, and TV are fleeting or lack the capacity for consumers to sit down and study complex diagrams.",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "Commerce",
+    "topic": "Advertising",
+    "question_text": "A major limitation of utilizing radio as an advertising medium compared to television is that the radio...",
+    "options": {
+      "a": "is strictly restricted to urban, highly populated cities.",
+      "b": "lacks visual impact and must rely entirely on audio appeal.",
+      "c": "is generally far more expensive to broadcast on than television.",
+      "d": "requires the target audience to have a high level of formal education to understand."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The primary disadvantage of radio is that it is strictly an audio medium; it **lacks the visual impact** necessary to show customers what the product actually looks like or how it operates physically.",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "Commerce",
+    "topic": "Introduction to Marketing",
+    "question_text": "In modern commerce, marketing is best comprehensively described as the management process responsible for...",
+    "options": {
+      "a": "the physical transportation and warehousing of manufactured goods.",
+      "b": "identifying, anticipating, and satisfying consumer requirements profitably.",
+      "c": "creating mass awareness for products solely through television advertising.",
+      "d": "converting raw agricultural materials into finished consumer goods."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Marketing** is much broader than just selling or advertising. It is the management process of identifying what consumers need, designing products to meet those needs, and distributing them in a way that satisfies the consumer while yielding a profit for the firm.",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "Commerce",
+    "topic": "Introduction to Marketing",
+    "question_text": "The fundamental principle of the **marketing concept** dictates that a business organization should focus its entire operations primarily on...",
+    "options": {
+      "a": "producing massive quantities of goods to aggressively lower unit costs.",
+      "b": "pushing sales through heavy and continuous persuasive advertising.",
+      "c": "discovering the needs and wants of the consumer and satisfying them.",
+      "d": "outperforming rival companies in foreign export markets."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **marketing concept** is a consumer-oriented business philosophy. It states that the key to achieving organizational goals (like profit) is to determine the needs, wants, and preferences of target markets and to deliver the desired satisfactions better than competitors do.",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "Commerce",
+    "topic": "Introduction to Marketing",
+    "question_text": "The marketing mix consists of four controllable variables that a firm blends to achieve its marketing objectives. These four variables (often called the 4Ps) are...",
+    "options": {
+      "a": "Product, Price, Place, and Promotion.",
+      "b": "People, Profit, Policy, and Production.",
+      "c": "Purchasing, Packaging, Pricing, and Publicity.",
+      "d": "Production, Procurement, Processing, and Placement."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The **Marketing Mix** (the 4Ps) represents the tactical tools a marketer uses:\n1.  **Product:** What is being sold.\n2.  **Price:** How much it costs.\n3.  **Place:** Distribution channels (getting it to the customer).\n4.  **Promotion:** Advertising, sales promotion, and public relations.",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "Commerce",
+    "topic": "Introduction to Marketing",
+    "question_text": "Which of the following is a classic example of a **sales promotion** technique used to stimulate immediate customer purchase?",
+    "options": {
+      "a": "Erecting a large, permanent billboard on a federal highway.",
+      "b": "Broadcasting a regular 30-second commercial on national television.",
+      "c": "Offering a \"Buy One, Get One Free\" discount valid for a limited period.",
+      "d": "Publishing a detailed technical article in a trade journal."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Sales promotion** consists of short-term incentives used to encourage the immediate purchase of a product. Examples include discount coupons, \"buy one get one free\" offers, free samples, and scratch-and-win contests.",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "Commerce",
+    "topic": "Introduction to Marketing",
+    "question_text": "Sales promotion differs significantly from general advertising primarily because sales promotion is...",
+    "options": {
+      "a": "designed to build long-term brand image over several years.",
+      "b": "a short-term tactical incentive aimed at triggering an immediate spike in sales.",
+      "c": "restricted only to buyers engaged in large-scale foreign trade.",
+      "d": "a completely free promotional method that costs the manufacturer nothing."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "While advertising is a long-term strategy giving the customer a *reason* to buy (building brand image and awareness over time), **sales promotion** is a short-term tactical tool giving the customer an *incentive* to buy right now (e.g., \"Offer ends this Friday!\").",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "Commerce",
+    "topic": "Introduction to Marketing",
+    "question_text": "A manufacturer of large electrical appliances offers free delivery and professional installation for every air conditioning unit bought by a customer. This practice is specifically a form of...",
+    "options": {
+      "a": "customer service.",
+      "b": "informative advertising.",
+      "c": "mass public relations.",
+      "d": "product standardization."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Customer service** includes all the supporting activities provided by a business to enhance customer satisfaction. Offering free delivery, free installation, or technical support ensures the customer can use the product without stress.",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "Commerce",
+    "topic": "Introduction to Marketing",
+    "question_text": "The provision of a one-year technical warranty on a newly purchased generating set is an example of an after-sales service designed primarily to...",
+    "options": {
+      "a": "legally increase the original manufacturing cost of the generator.",
+      "b": "build customer confidence, ensure satisfaction, and encourage repeat patronage.",
+      "c": "eliminate the company's need to advertise the product locally.",
+      "d": "transfer the total risk of electrical damage strictly to the final consumer."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**After-sales services** (like warranties, free servicing, and spare parts availability) are crucial customer service tools. They give the buyer peace of mind, reduce post-purchase anxiety, build trust in the brand, and ensure the customer returns for future purchases.",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "Commerce",
+    "topic": "Introduction to Marketing",
+    "question_text": "Under the strict application of the modern marketing concept, the process of designing a new product should initially be driven by...",
+    "options": {
+      "a": "the availability of cheap, imported raw materials.",
+      "b": "the personal tastes of the company's board of directors.",
+      "c": "research into the needs, problems, and preferences of the target market.",
+      "d": "the amount of excess funds left in the company's advertising budget."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Because the marketing concept is entirely consumer-oriented, the creation of any new product must begin with **market research**. A firm must first find out what consumers need, and then design a product specifically tailored to solve that problem, rather than making a product first and trying to force people to buy it.",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "Commerce",
+    "topic": "Legal Aspect of Business - Contract",
+    "question_text": "Which of the following is NOT an essential element required for the formation of a legally valid contract?",
+    "options": {
+      "a": "Offer and acceptance",
+      "b": "Consideration",
+      "c": "Intention to create legal relations",
+      "d": "Registration with a commercial bank"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "For a contract to be valid and legally binding, there must be an **offer, acceptance, consideration, intention to create legal relations**, and **capacity** to contract. Registration with a commercial bank is not a legal requirement for a general contract.",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "Commerce",
+    "topic": "Legal Aspect of Business - Contract",
+    "question_text": "A contract is said to be discharged by **frustration** when...",
+    "options": {
+      "a": "one party completely performs their obligations ahead of time.",
+      "b": "an unforeseen event beyond the control of both parties makes performance impossible.",
+      "c": "one party outrightly refuses to perform their part of the agreement.",
+      "d": "both parties mutually agree to cancel the original agreement."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Discharge by **frustration** occurs when an unexpected event (like a natural disaster, a new government law making the act illegal, or destruction of the subject matter) makes it impossible to perform the contract.",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "Commerce",
+    "topic": "Legal Aspect of Business - Agency",
+    "question_text": "An agency relationship created when a principal conducts themselves in a manner that leads third parties to reasonably believe that a person is their authorized agent is known as agency by...",
+    "options": {
+      "a": "ratification.",
+      "b": "necessity.",
+      "c": "estoppel.",
+      "d": "express appointment."
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Agency by **estoppel** (or implied agency) occurs when a principal's words or conduct lead a third party to believe someone is their agent. The law \"estops\" (prevents) the principal from later denying the agency relationship.",
+    "section_id": null
+  },
+  {
+    "question_number": 46,
+    "subject": "Commerce",
+    "topic": "Legal Aspect of Business - Agency",
+    "question_text": "Which of the following represents a fundamental legal duty that an agent owes to their principal?",
+    "options": {
+      "a": "To freely delegate all assigned duties to a sub-agent without permission.",
+      "b": "To mix the principal's business funds with their personal funds.",
+      "c": "To act in utmost good faith and avoid any conflict of interest.",
+      "d": "To sell the principal's goods at the lowest possible price to friends."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "An agent is a fiduciary of the principal. Their duties include: following instructions, demonstrating reasonable skill, rendering true accounts, not delegating duties without permission, and acting in **utmost good faith (avoiding conflicts of interest)**.",
+    "section_id": null
+  },
+  {
+    "question_number": 47,
+    "subject": "Commerce",
+    "topic": "Legal Aspect of Business - Sale of Goods Act",
+    "question_text": "Under the Sale of Goods Act, a stipulation in a contract of sale that is fundamental to the main purpose of the contract, the breach of which gives the buyer the right to reject the goods and repudiate the contract, is called a...",
+    "options": {
+      "a": "condition.",
+      "b": "warranty.",
+      "c": "counter-offer.",
+      "d": "consideration."
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "A **condition** is a vital term going to the root of a contract. Breach of a condition allows the injured party to reject the goods and terminate the contract. A *warranty* is less important; its breach only allows the injured party to sue for damages, but not to reject the goods.",
+    "section_id": null
+  },
+  {
+    "question_number": 48,
+    "subject": "Commerce",
+    "topic": "Legal Aspect of Business - Hire Purchase Act",
+    "question_text": "In a hire purchase agreement, the legal title (ownership) of the goods strictly passes to the buyer only when...",
+    "options": {
+      "a": "the initial deposit is successfully paid to the seller.",
+      "b": "the buyer signs the hire purchase documents.",
+      "c": "the final installment payment is completed.",
+      "d": "the goods are delivered to the buyer's house."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Under the Hire Purchase Act, the buyer is merely hiring the goods while paying installments. Legal **ownership (title)** remains with the seller and only passes to the buyer upon the payment of the **final installment**.",
+    "section_id": null
+  },
+  {
+    "question_number": 49,
+    "subject": "Commerce",
+    "topic": "Legal Aspect of Business - Employer and Employee",
+    "question_text": "Which of the following constitutes a basic legal obligation of an employer toward their employee?",
+    "options": {
+      "a": "To ensure the employee's personal bank accounts are well funded.",
+      "b": "To provide a safe, healthy, and hazard-free working environment.",
+      "c": "To strictly dictate the employee's political party affiliations.",
+      "d": "To guarantee the employee lifetime employment regardless of conduct."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Employers have a statutory and common law duty of care to their employees, which primarily includes providing a **safe working environment**, proper equipment, safe systems of work, and paying agreed wages.",
+    "section_id": null
+  },
+  {
+    "question_number": 50,
+    "subject": "Commerce",
+    "topic": "Legal Aspect of Business - Government Regulation",
+    "question_text": "The exclusive legal right granted to an author or creator to control the publication, distribution, and adaptation of their original literary, musical, or artistic work is known as...",
+    "options": {
+      "a": "a patent.",
+      "b": "a trademark.",
+      "c": "a copyright.",
+      "d": "a consortium."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Copyright** protects creative, literary, and artistic works (books, music, paintings). \n*   *Patents* protect new scientific inventions and technological processes.\n*   *Trademarks* protect brand names and logos.",
+    "section_id": null
+  },
+  {
+    "question_number": 51,
+    "subject": "Commerce",
+    "topic": "Legal Aspect of Business - Government Regulation",
+    "question_text": "A manufacturing firm invents a radically new industrial machine. To prevent competitors from legally copying and producing this machine for a specific number of years, the firm must apply to the government for a...",
+    "options": {
+      "a": "copyright.",
+      "b": "trade permit.",
+      "c": "certificate of origin.",
+      "d": "patent."
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "A **patent** is a government-granted intellectual property right that gives an inventor the exclusive right to manufacture, use, and sell a new invention (like a new machine) for a specified period (usually 20 years).",
+    "section_id": null
+  },
+  {
+    "question_number": 52,
+    "subject": "Commerce",
+    "topic": "Legal Aspect of Business - Registration of Business",
+    "question_text": "In Nigeria, the government agency statutorily responsible for the registration of business names, partnerships, and incorporated companies is the...",
+    "options": {
+      "a": "Central Bank of Nigeria (CBN).",
+      "b": "Standard Organisation of Nigeria (SON).",
+      "c": "Corporate Affairs Commission (CAC).",
+      "d": "National Agency for Food and Drug Administration (NAFDAC)."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Under the Companies and Allied Matters Act (CAMA), the **Corporate Affairs Commission (CAC)** is the sole body responsible for regulating the formation, incorporation, and registration of all businesses and companies in Nigeria.",
+    "section_id": null
+  },
+  {
+    "question_number": 53,
+    "subject": "Commerce",
+    "topic": "Legal Aspect of Business - Consumerism",
+    "question_text": "The traditional commercial law principle of *Caveat Emptor* directly translates to...",
+    "options": {
+      "a": "let the seller beware.",
+      "b": "let the buyer beware.",
+      "c": "goods sold are not returnable.",
+      "d": "the customer is always right."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "*Caveat Emptor* is a Latin phrase meaning **\"let the buyer beware.\"** It historically meant that buyers were entirely responsible for checking the quality and suitability of goods before making a purchase. Modern consumer protection laws were created specifically to soften the harshness of this principle.",
+    "section_id": null
+  },
+  {
+    "question_number": 54,
+    "subject": "Commerce",
+    "topic": "Legal Aspect of Business - Legislation",
+    "question_text": "The primary aim of the Food and Drugs Act (enforced by bodies like NAFDAC in Nigeria) is to...",
+    "options": {
+      "a": "ensure agricultural workers are paid a minimum living wage.",
+      "b": "regulate the importation of heavy industrial machinery.",
+      "c": "protect consumers from hazardous, fake, and unwholesome consumable products.",
+      "d": "fix uniform market prices for all food items across the country."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **Food and Drugs Act** is a core instrument of consumer protection. It strictly regulates the manufacture, advertisement, sale, and distribution of food, drugs, and cosmetics to ensure they are safe for human consumption and free from toxic substances.",
+    "section_id": null
+  },
+  {
+    "question_number": 55,
+    "subject": "Commerce",
+    "topic": "Legal Aspect of Business - Legislation",
+    "question_text": "Which government legislation establishes an agency to verify that locally manufactured and imported industrial products meet minimum acceptable safety and quality specifications?",
+    "options": {
+      "a": "The Price Control Act",
+      "b": "The Standard Organisation Act",
+      "c": "The Trade Union Act",
+      "d": "The Copyright Act"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **Standard Organisation Act** (which establishes the Standard Organisation of Nigeria - SON) is responsible for setting and enforcing minimum quality and safety standards for manufactured products (e.g., ensuring electrical cables are not substandard).",
+    "section_id": null
+  },
+  {
+    "question_number": 56,
+    "subject": "Commerce",
+    "topic": "Legal Aspect of Business - Legislation",
+    "question_text": "The Price Control Act was historically enacted by the government primarily as a measure to...",
+    "options": {
+      "a": "prevent hoarding and arbitrary inflation of prices for essential commodities.",
+      "b": "increase the cost of luxury imported goods like sports cars.",
+      "c": "encourage sole proprietors to export more agricultural produce.",
+      "d": "regulate the interest rates charged by commercial banks."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The **Price Control Act** is a government regulation tool used to fix the maximum retail prices of essential commodities. It aims to protect poor consumers from exploitation, arbitrary price hikes, and artificial scarcity caused by hoarding middlemen.",
+    "section_id": null
+  },
+  {
+    "question_number": 57,
+    "subject": "Commerce",
+    "topic": "Legal Aspect of Business - Legislation",
+    "question_text": "The government legislation requiring employers to provide adequate ventilation, lighting, sanitary facilities, and first-aid equipment in the workplace is the...",
+    "options": {
+      "a": "Sale of Goods Act.",
+      "b": "Product Quality Act.",
+      "c": "Hire Purchase Act.",
+      "d": "Factory, Shops and Offices Act."
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "The **Factory, Shops and Offices Act** is labour legislation specifically designed to mandate minimum standards for the health, safety, and welfare of workers in their respective places of employment.",
+    "section_id": null
+  },
+  {
+    "question_number": 58,
+    "subject": "Commerce",
+    "topic": "Government Policies Relating to Business",
+    "question_text": "The government policy that involves the complete or partial transfer of ownership, management, and control of public enterprises to private individuals or corporate bodies is known as...",
+    "options": {
+      "a": "commercialisation.",
+      "b": "nationalisation.",
+      "c": "privatisation.",
+      "d": "deregulation."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Privatisation** is the process of shifting ownership of state-owned businesses (like national airlines or power companies) from the public sector (government) to the private sector. It is the direct opposite of nationalisation.",
+    "section_id": null
+  },
+  {
+    "question_number": 59,
+    "subject": "Commerce",
+    "topic": "Government Policies Relating to Business",
+    "question_text": "A major economic reason why the government may decide to privatise a poorly performing state-owned enterprise is to...",
+    "options": {
+      "a": "increase the government's monopoly in the global market.",
+      "b": "promote efficiency and eliminate the financial burden of subsidizing the enterprise.",
+      "c": "ensure the enterprise can finally provide completely free social amenities.",
+      "d": "legally prevent foreign investors from participating in the national economy."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "State-owned enterprises often suffer from bureaucracy, inefficiency, and corruption, requiring heavy financial bailouts (subsidies) from the government. **Privatisation** aims to introduce private sector efficiency, profit motive, and competition, thereby lifting the financial burden off the government.",
+    "section_id": null
+  },
+  {
+    "question_number": 60,
+    "subject": "Commerce",
+    "topic": "Government Policies Relating to Business",
+    "question_text": "When a government-owned corporation is restructured strictly to operate efficiently as a profit-making venture without the government relinquishing its ownership rights, the policy is referred to as...",
+    "options": {
+      "a": "indigenisation.",
+      "b": "commercialisation.",
+      "c": "deregulation.",
+      "d": "amalgamation."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Commercialisation** is the reorganization of government enterprises to make them profit-oriented. Unlike in privatisation, the government does *not* sell off its shares; it still owns the business but withdraws subsidies and forces the business to survive on its own generated revenues.",
+    "section_id": null
+  },
+  {
+    "question_number": 61,
+    "subject": "Commerce",
+    "topic": "Government Policies Relating to Business",
+    "question_text": "What is the fundamental difference between the policies of full commercialisation and full privatisation?",
+    "options": {
+      "a": "Privatisation targets only the agricultural sector, while commercialisation targets only the manufacturing sector.",
+      "b": "Under commercialisation, the government retains ultimate ownership, whereas under privatisation, ownership completely passes to private investors.",
+      "c": "Commercialised businesses must legally provide free services, while privatised businesses are allowed to charge exorbitant prices.",
+      "d": "Privatisation requires the formation of a cartel, while commercialisation requires the establishment of a consortium."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The key distinction lies in **ownership**. \n*   *Privatisation* = Government sells its ownership to the private sector.\n*   *Commercialisation* = Government keeps its ownership but commands the enterprise to operate strictly like a profitable private business without relying on government funds.",
+    "section_id": null
+  },
+  {
+    "question_number": 62,
+    "subject": "Commerce",
+    "topic": "Government Policies Relating to Business",
+    "question_text": "The deliberate removal or reduction of strict government rules, laws, and price controls in a specific economic sector to encourage free-market competition is defined as...",
+    "options": {
+      "a": "nationalisation.",
+      "b": "regulation.",
+      "c": "commercialisation.",
+      "d": "deregulation."
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Deregulation** involves lifting government restrictions in a particular industry. By removing administrative bottlenecks and price fixing, the government allows the forces of demand and supply to dictate market operations, making it easier for new private businesses to enter.",
+    "section_id": null
+  },
+  {
+    "question_number": 63,
+    "subject": "Commerce",
+    "topic": "Government Policies Relating to Business",
+    "question_text": "Which of the following scenarios is a direct, expected outcome of the successful deregulation of a nation's telecommunications sector?",
+    "options": {
+      "a": "The establishment of a single government-owned telecom monopoly.",
+      "b": "A complete legislative ban on the importation of mobile technological devices.",
+      "c": "The influx of multiple private telecom companies leading to competitive service pricing.",
+      "d": "The mandatory nationalisation of all previously existing private telecom infrastructure."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Deregulation opens up the market to private investors. In telecommunications (e.g., Nigeria in 2001), deregulation ended the monopoly of the state-owned provider, allowing **multiple private companies (like MTN, Airtel, Globacom) to enter**. This competition leads to better services and competitive pricing.",
+    "section_id": null
+  },
+  {
+    "question_number": 64,
+    "subject": "Commerce",
+    "topic": "Introduction to Business Management",
+    "question_text": "Which of the following statements best describes the meaning of Business Management?",
+    "options": {
+      "a": "The physical process of extracting raw materials to produce goods.",
+      "b": "The continuous process of planning, organizing, directing, and controlling organizational resources to achieve set goals.",
+      "c": "The exclusive statutory duty of the government to regulate public enterprises.",
+      "d": "The act of legally registering a company name with the Corporate Affairs Commission."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Business Management** is universally defined as the art and science of coordinating the various elements of a business (human, financial, and material resources) through planning, organizing, directing, and controlling, in order to efficiently accomplish specific organizational goals.",
+    "section_id": null
+  },
+  {
+    "question_number": 65,
+    "subject": "Commerce",
+    "topic": "Introduction to Business Management",
+    "question_text": "While businesses have multiple secondary objectives such as providing employment and surviving competition, the primary economic objective of any commercial business unit is to...",
+    "options": {
+      "a": "completely eliminate its rivals from the market.",
+      "b": "maximize profit and generate a return on the owners' investments.",
+      "c": "produce goods to be shared free of charge to the host community.",
+      "d": "delegate absolute power to the lower-level employees."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The ultimate driving force and **primary objective** of engaging in a private business enterprise is **profit maximization**. Without earning a profit, a business cannot survive, expand, reward its investors, or even perform its social responsibilities.",
+    "section_id": null
+  },
+  {
+    "question_number": 66,
+    "subject": "Commerce",
+    "topic": "Introduction to Business Management",
+    "question_text": "The management function that involves measuring actual organizational performance against pre-set standards, and taking corrective actions if deviations occur, is known as...",
+    "options": {
+      "a": "planning.",
+      "b": "organizing.",
+      "c": "directing.",
+      "d": "controlling."
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "The key functions of management are POCC (Planning, Organizing, Commanding/Directing, Controlling). **Controlling** is the final step; it is the process of evaluating actual results to ensure they align with the original plans, and taking corrective measures where things have gone off track.",
+    "section_id": null
+  },
+  {
+    "question_number": 67,
+    "subject": "Commerce",
+    "topic": "Introduction to Business Management",
+    "question_text": "In business management, resources are broadly categorized as the 'Ms' (Man, Money, Materials). Which of these resources is considered the most critical and dynamic because it activates and coordinates all the others?",
+    "options": {
+      "a": "Materials",
+      "b": "Money",
+      "c": "Man (Human Resources)",
+      "d": "Machinery"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Man (Human Resources)** is the most crucial asset of any organization. Without capable human beings to manage the money, operate the machinery, and process the materials, all other physical and financial resources would remain idle and useless.",
+    "section_id": null
+  },
+  {
+    "question_number": 68,
+    "subject": "Commerce",
+    "topic": "Introduction to Business Management",
+    "question_text": "The intangible business resource that stems from a company's established brand identity, strong customer loyalty, and excellent market reputation is known as...",
+    "options": {
+      "a": "circulating capital.",
+      "b": "goodwill.",
+      "c": "fictitious assets.",
+      "d": "delegated authority."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Goodwill** is an intangible asset that arises when a buyer acquires an existing business. It reflects the value of the company's solid reputation, excellent customer relations, and established market presence, which virtually guarantees future patronage.",
+    "section_id": null
+  },
+  {
+    "question_number": 69,
+    "subject": "Commerce",
+    "topic": "Introduction to Business Management",
+    "question_text": "A formal diagrammatic representation showing the internal hierarchical structure, lines of authority, and relationship among various departments in an organization is called...",
+    "options": {
+      "a": "a span of control.",
+      "b": "a master budget.",
+      "c": "an organizational chart.",
+      "d": "the Articles of Association."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "An **Organizational Chart** is a visual diagram that maps out the structure of a company. It clearly shows the hierarchy (who reports to whom), the different departments, and the chain of command spanning from the CEO down to the lower-level staff.",
+    "section_id": null
+  },
+  {
+    "question_number": 70,
+    "subject": "Commerce",
+    "topic": "Introduction to Business Management",
+    "question_text": "In organizational structure, the term **\"span of control\"** refers specifically to the...",
+    "options": {
+      "a": "maximum geographical distance between a company's headquarters and its branches.",
+      "b": "legal limitations placed on a manager's ability to fire employees.",
+      "c": "number of subordinates that a single superior or manager can effectively supervise.",
+      "d": "total monetary value of the budget allocated to a specific department."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Span of control** (or span of management) refers to the optimal number of subordinates reporting directly to a single manager or supervisor. A \"narrow\" span means managing a few people, while a \"wide\" span means managing many.",
+    "section_id": null
+  },
+  {
+    "question_number": 71,
+    "subject": "Commerce",
+    "topic": "Introduction to Business Management",
+    "question_text": "The management principle whereby a superior transfers specific duties and the necessary power to carry them out to a subordinate, while ultimately remaining accountable for the result, is termed...",
+    "options": {
+      "a": "decentralization.",
+      "b": "delegation of authority.",
+      "c": "unity of command.",
+      "d": "division of labour."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "**Delegation of authority** is the act of assigning tasks to subordinates along with the required power (authority) to execute them. However, a key rule is that while authority can be delegated, *responsibility/accountability cannot*—the superior remains ultimately answerable if the task fails.",
+    "section_id": null
+  },
+  {
+    "question_number": 72,
+    "subject": "Commerce",
+    "topic": "Introduction to Business Management",
+    "question_text": "A sudden government policy that completely bans the importation of foreign rice directly affects the operations of a local rice packaging business. This is an example of an influence from the firm's...",
+    "options": {
+      "a": "technological environment.",
+      "b": "sociocultural environment.",
+      "c": "internal competitive environment.",
+      "d": "political and legal environment."
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "A business does not operate in a vacuum; it is affected by its external environment. Changes in government policies, new laws, tariffs, or import bans are external factors originating directly from the **political and legal environment**.",
+    "section_id": null
+  },
+  {
+    "question_number": 73,
+    "subject": "Commerce",
+    "topic": "Introduction to Business Management",
+    "question_text": "Which factor in a company's external business environment is a manager responding to when they decide to heavily upgrade the firm's computer systems due to new automated software developed in the industry?",
+    "options": {
+      "a": "The competitive and technological environment",
+      "b": "The demographic environment",
+      "c": "The political environment",
+      "d": "The ecological environment"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Upgrading computer systems in response to new industry software deals directly with the **technological environment** (advancements in tools and software) and the **competitive environment** (needing to keep up with rival companies utilizing this new tech).",
+    "section_id": null
+  },
+  {
+    "question_number": 74,
+    "subject": "Commerce",
+    "topic": "Introduction to Business Management",
+    "question_text": "When a major oil exploration company decides to voluntarily build a school, construct roads, and provide clean water for the rural host community where its oil rigs are located, it is fulfilling its...",
+    "options": {
+      "a": "statutory taxation requirements.",
+      "b": "social responsibility to the society.",
+      "c": "marketing and sales promotion concept.",
+      "d": "legal obligation to the board of directors."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Social responsibility** is the ethical obligation of a business to act in ways that benefit society at large, beyond just making profits. Providing amenities, preventing pollution, and awarding scholarships to the host community are prime examples of Corporate Social Responsibility (CSR).",
+    "section_id": null
+  },
+  {
+    "question_number": 75,
+    "subject": "Commerce",
+    "topic": "Introduction to Business Management",
+    "question_text": "An official memo sent by the Head of the Marketing Department to the Head of the Production Department requesting an increase in the manufacturing of goods for the upcoming festive season is a clear example of...",
+    "options": {
+      "a": "intra-departmental communication.",
+      "b": "inter-departmental communication.",
+      "c": "vertical downward communication.",
+      "d": "external business communication."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Communication within an organization can be intra-departmental or inter-departmental.\n*   **Intra-departmental** occurs *within* the same department (e.g., Marketing Head to Marketing Staff).\n*   **Inter-departmental** occurs *between different* departments (e.g., Marketing communicating with Production). This lateral communication is crucial for operational harmony.",
+    "section_id": null
+  },
+  {
+    "question_number": 76,
+    "subject": "Commerce",
+    "topic": "Economic Groupings: ECOWAS",
+    "question_text": "Which of the following economic groupings was established primarily to promote economic integration and free trade across West Africa?",
+    "options": {
+      "a": "Mano-River Union",
+      "b": "European Union",
+      "c": "Economic Community of West African States",
+      "d": "Niger Basin Commission"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **Economic Community of West African States (ECOWAS)** was established in 1975 with the primary objective of fostering economic integration, cooperation, and free trade among West African countries.",
+    "section_id": null
+  },
+  {
+    "question_number": 77,
+    "subject": "Commerce",
+    "topic": "Economic Groupings: Mano-River Union",
+    "question_text": "The Mano-River Union was originally formed in 1973 as a customs union between which two West African countries?",
+    "options": {
+      "a": "Nigeria and Cameroon",
+      "b": "Liberia and Sierra Leone",
+      "c": "Ghana and Togo",
+      "d": "Senegal and Gambia"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **Mano-River Union (MRU)** was established by the Mano River Declaration in 1973. It was originally formed by **Liberia** and **Sierra Leone**, with Guinea and Côte d'Ivoire joining later to promote economic cooperation.",
+    "section_id": null
+  },
+  {
+    "question_number": 78,
+    "subject": "Commerce",
+    "topic": "Economic Groupings: Lake Chad Basin Commission",
+    "question_text": "Which of the following countries is **NOT** a founding member of the Lake Chad Basin Commission (LCBC)?",
+    "options": {
+      "a": "Nigeria",
+      "b": "Cameroon",
+      "c": "Ghana",
+      "d": "Niger"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The LCBC was founded in 1964 by the four countries bordering Lake Chad to manage the lake's resources collaboratively. The founding members are:\n*   Nigeria\n*   Cameroon\n*   Niger\n*   Chad\n\n**Ghana** does not share a border with Lake Chad and is not a member.",
+    "section_id": null
+  },
+  {
+    "question_number": 79,
+    "subject": "Commerce",
+    "topic": "Economic Groupings: West African Clearing House",
+    "question_text": "The main objective of the West African Clearing House (WACH) is to:",
+    "options": {
+      "a": "regulate the production and sale of crude oil in West Africa",
+      "b": "provide military assistance and security to member states",
+      "c": "promote the use of local currencies for intra-regional trade settlements",
+      "d": "fix the prices of agricultural export commodities globally"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "The **West African Clearing House (WACH)**, which later transitioned into the West African Monetary Agency (WAMA), was set up to facilitate payments for intra-regional trade using member countries' local currencies, thereby conserving scarce foreign exchange reserves.",
+    "section_id": null
+  },
+  {
+    "question_number": 80,
+    "subject": "Commerce",
+    "topic": "Economic Groupings: Niger Basin Commission",
+    "question_text": "The Niger Basin Commission (now Niger Basin Authority) was established to manage, navigate, and develop the resources of the:",
+    "options": {
+      "a": "Atlantic Ocean coastlines in West Africa",
+      "b": "River Niger and its tributaries",
+      "c": "Sahara Desert border communities",
+      "d": "Lake Chad aquatic environment"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Niger Basin Commission (NBC)** was created to foster cooperation among member states in managing and developing the shared water and hydroelectric resources of the **River Niger** basin.",
+    "section_id": null
+  },
+  {
+    "question_number": 81,
+    "subject": "Commerce",
+    "topic": "Economic Groupings: European Union",
+    "question_text": "Why is the European Union (EU) often studied as a relevant economic grouping in West African commerce?",
+    "options": {
+      "a": "All West African countries are associate political members of the EU.",
+      "b": "The EU is a major trading partner with Africa and provides a prime model for regional economic integration.",
+      "c": "The EU dictates the internal monetary policies of the Central Bank of Nigeria.",
+      "d": "The EU shares a direct land border with several ECOWAS nations."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **European Union (EU)** is highly relevant to West African commerce because it is a massive trading bloc that engages with African nations (e.g., through ACP-EU partnership agreements) and serves as the most advanced global example of successful regional economic integration.",
+    "section_id": null
+  },
+  {
+    "question_number": 82,
+    "subject": "Commerce",
+    "topic": "Economic Groupings: ECOWAS",
+    "question_text": "All of the following are core objectives of the Economic Community of West African States (ECOWAS) EXCEPT:",
+    "options": {
+      "a": "promoting the free movement of people, goods, and services",
+      "b": "working towards establishing a common regional currency",
+      "c": "eliminating customs duties and quantitative restrictions among member states",
+      "d": "forming a joint military alliance to colonize neighboring Central African countries"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "ECOWAS is an *economic* grouping focused on integration, free trade (eliminating tariffs), and eventual monetary union. It is **not** an expansionist military alliance aimed at colonizing or conquering other regions.",
+    "section_id": null
+  },
+  {
+    "question_number": 83,
+    "subject": "Commerce",
+    "topic": "Economic Groupings",
+    "question_text": "Which broad economic grouping is specifically designed to standardize tariffs, eliminate trade barriers, and enhance collective trade among Francophone, Anglophone, and Lusophone nations in West Africa?",
+    "options": {
+      "a": "Mano-River Union",
+      "b": "ECOWAS",
+      "c": "Lake Chad Basin Commission",
+      "d": "Niger Basin Commission"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "ECOWAS is the broadest regional bloc in West Africa. Its 15 member states include a mix of **Anglophone** (e.g., Nigeria, Ghana), **Francophone** (e.g., Senegal, Côte d'Ivoire), and **Lusophone** (e.g., Guinea-Bissau, Cape Verde) countries, all working together to eliminate trade barriers.",
+    "section_id": null
+  }
+]

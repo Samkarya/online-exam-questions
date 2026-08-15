@@ -1,0 +1,1266 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Commerce",
+    "topic": "Introduction to Commerce",
+    "question_text": "Commerce is best defined as the...",
+    "options": {
+      "a": "extraction of raw materials from their natural environment.",
+      "b": "buying, selling, and distribution of goods and services.",
+      "c": "conversion of raw materials into finished or semi-finished goods.",
+      "d": "creation of agricultural produce to satisfy human wants."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Commerce refers to all the activities involved in the distribution and exchange of goods and services. \n\nTo distinguish it from other forms of production:\n*   **Primary Production:** Extraction of raw materials (Option A and D).\n*   **Secondary Production:** Manufacturing and construction (Option C).\n*   **Tertiary Production (Commerce):** The buying, selling, and distribution process (Option B).",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Commerce",
+    "topic": "Introduction to Commerce",
+    "question_text": "Which of the following best describes e-commerce?",
+    "options": {
+      "a": "The exchange of goods using physical legal tender.",
+      "b": "The buying and selling of goods and services over the internet.",
+      "c": "The mass transportation of goods using electronic trains.",
+      "d": "The use of traditional broadcast media to advertise products."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**E-commerce (Electronic Commerce)** specifically refers to the trading of goods and services utilizing the internet and computer networks. Transactions are typically completed digitally rather than face-to-face.",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Commerce",
+    "topic": "Introduction to Commerce",
+    "question_text": "In the historical background of commerce, the major difficulty of the barter system was the...",
+    "options": {
+      "a": "lack of durable goods available for trade.",
+      "b": "necessity for a double coincidence of wants.",
+      "c": "frequent intervention of the government in local trade.",
+      "d": "high cost of transporting agricultural goods over long distances."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The barter system is the direct exchange of goods for goods without the use of money. Its primary drawback was the **double coincidence of wants**—the requirement that both parties must desire exactly what the other person is offering in exchange, at the exact same time.",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Commerce",
+    "topic": "Introduction to Commerce",
+    "question_text": "The scope of commerce encompasses both trade and...",
+    "options": {
+      "a": "direct production.",
+      "b": "aids to trade.",
+      "c": "manufacturing.",
+      "d": "subsistence farming."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The scope of commerce is broadly divided into two main branches:\n1.  **Trade:** The actual buying and selling of goods (Home and Foreign Trade).\n2.  **Aids to Trade (Auxiliaries):** The supporting services that make trade possible, such as banking, insurance, transport, warehousing, and advertising.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Commerce",
+    "topic": "Introduction to Commerce",
+    "question_text": "Which of the following commercial functions bridges the geographical gap between the producer and the consumer?",
+    "options": {
+      "a": "Advertising",
+      "b": "Warehousing",
+      "c": "Banking",
+      "d": "Transportation"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Commerce solves various hindrances in the distribution of goods. **Transportation** bridges the geographical gap (hindrance of place) by moving goods from the point of production to where they are needed by consumers.\n\n| Hindrance Resolved | Commercial Aid | \n| :--- | :--- |\n| **Place** | Transportation |\n| **Time** | Warehousing |\n| **Information** | Advertising |\n| **Finance** | Banking |",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Commerce",
+    "topic": "Introduction to Commerce",
+    "question_text": "The hindrance of time in the distribution of goods is primarily overcome by...",
+    "options": {
+      "a": "Insurance",
+      "b": "Warehousing",
+      "c": "Communication",
+      "d": "Advertising"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Warehousing** bridges the gap of time. Because goods are often produced ahead of demand or in specific seasons, warehousing provides safe storage until the consumers are ready to purchase them, ensuring a steady supply.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Commerce",
+    "topic": "Introduction to Commerce",
+    "question_text": "Mr. Okafor is a trader in Lagos who wishes to protect his business inventory against fire outbreaks. Which commercial activity is most relevant to solving this hindrance of risk?",
+    "options": {
+      "a": "Warehousing",
+      "b": "Banking",
+      "c": "Insurance",
+      "d": "Trade association"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Every business faces uncertainties and potential losses (risks). **Insurance** is the auxiliary to trade that provides financial compensation and protection against business risks, such as fire outbreaks, theft, or accidents, thereby solving the hindrance of risk.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Commerce",
+    "topic": "Introduction to Commerce",
+    "question_text": "The introduction of money in the historical development of commerce primarily served to...",
+    "options": {
+      "a": "increase the immediate production of agricultural goods.",
+      "b": "eliminate the inherent problems associated with the barter system.",
+      "c": "encourage merchants to hoard wealth in commercial banks.",
+      "d": "replace the need for international cross-border trade."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Money evolved historically to solve the severe inefficiencies of the barter system. By acting as a universal medium of exchange, a unit of account, and a store of value, money eliminated the need for a double coincidence of wants and simplified trade.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Commerce",
+    "topic": "Introduction to Commerce",
+    "question_text": "An individual purchasing a pair of shoes from an online retail store and paying via a digital bank transfer is directly engaging in...",
+    "options": {
+      "a": "direct barter.",
+      "b": "e-commerce.",
+      "c": "tertiary production.",
+      "d": "traditional home trade."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "This scenario describes **e-commerce**. E-commerce involves the facilitation of commercial transactions electronically over the internet, including browsing digital storefronts and executing electronic payments (E-Payment).",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Commerce",
+    "topic": "Introduction to Commerce",
+    "question_text": "All of the following are primary functions of commerce EXCEPT...",
+    "options": {
+      "a": "facilitating the exchange of goods and services.",
+      "b": "transforming raw materials into finished consumer goods.",
+      "c": "providing capital and financial services for business.",
+      "d": "creating awareness for products among potential consumers."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Commerce handles the *distribution and exchange* of goods after they have been produced. \n\nTransforming raw materials into finished consumer goods (Option B) is a function of the **manufacturing industry** (Secondary Production), not commerce. Commerce includes trade (Option A), banking (Option C), and advertising (Option D).",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Commerce",
+    "topic": "Occupation",
+    "question_text": "Which of the following best defines an occupation?",
+    "options": {
+      "a": "Any physical activity that involves the production of agricultural goods.",
+      "b": "A legitimate activity an individual engages in to earn a living.",
+      "c": "The mass exchange of manufactured goods between two countries.",
+      "d": "A voluntary service rendered to the local community for free."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "An **occupation** is any legal, economic, or productive activity that a person engages in regularly to earn a living and satisfy their basic needs.",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Commerce",
+    "topic": "Occupation",
+    "question_text": "How are occupations broadly classified in a modern economy?",
+    "options": {
+      "a": "Extraction, Trade, and Merchandising",
+      "b": "Primary, Secondary, and Tertiary",
+      "c": "Industrial, Commercial, and Service",
+      "d": "Sole Proprietorship, Partnership, and Companies"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Occupations are broadly divided into three main categories based on the nature of the work:\n1.  **Industrial Occupation** (extraction, manufacturing, construction)\n2.  **Commercial Occupation** (trade and aids to trade)\n3.  **Service Occupation** (direct and indirect services)",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Commerce",
+    "topic": "Occupation",
+    "question_text": "All of the following are examples of commercial occupations EXCEPT...",
+    "options": {
+      "a": "Warehousing",
+      "b": "Banking",
+      "c": "Insurance",
+      "d": "Carpentry"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Carpentry** is a form of construction/manufacturing, which places it under **industrial occupations**. Warehousing, banking, and insurance are aids to trade, which fall under **commercial occupations**.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Commerce",
+    "topic": "Occupation",
+    "question_text": "The services rendered by members of the Nigerian Police Force to the general public are best categorized as...",
+    "options": {
+      "a": "direct service occupations.",
+      "b": "indirect service occupations.",
+      "c": "commercial trading occupations.",
+      "d": "extractive industrial occupations."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Indirect services** are services rendered to the general public and paid for by the government through taxes, rather than directly by the person receiving the service. Examples include the police, armed forces, and public civil servants.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Commerce",
+    "topic": "Occupation",
+    "question_text": "Which of the following is NOT a major factor that determines the type of occupation an individual chooses?",
+    "options": {
+      "a": "Availability of natural resources in the environment",
+      "b": "Level of formal education and skills acquired",
+      "c": "The personal hobbies of the employer",
+      "d": "Expected salary, wages, and financial remunerations"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "An individual's choice of occupation is determined by factors such as education, available natural resources, climate, government policies, and expected remuneration (salary). The *employer's* personal hobbies have no bearing on the jobseeker's fundamental occupational choice.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Commerce",
+    "topic": "Occupation",
+    "question_text": "A self-employed barber rendering haircut services to a customer in exchange for an immediate fee is engaged in an...",
+    "options": {
+      "a": "indirect service occupation.",
+      "b": "direct service occupation.",
+      "c": "industrial manufacturing occupation.",
+      "d": "commercial auxiliary occupation."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Direct services** are personalized services rendered directly to consumers who pay for them out of their own pockets immediately. Examples include barbers, private medical doctors, and private tutors.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Commerce",
+    "topic": "Occupation",
+    "question_text": "The presence of large, uncultivated arable land in a rural community will primarily encourage the inhabitants to engage heavily in...",
+    "options": {
+      "a": "commercial banking.",
+      "b": "extractive occupation.",
+      "c": "tertiary production.",
+      "d": "indirect services."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The availability of natural resources like arable land dictates the occupation of the environment's inhabitants, pushing them toward farming. Farming is an **extractive occupation** (a sub-category of industrial occupation) because it involves pulling resources directly from nature.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Commerce",
+    "topic": "Occupation",
+    "question_text": "Which of the following career opportunities is exclusively associated with the commercial sector of an economy?",
+    "options": {
+      "a": "Bricklaying",
+      "b": "Freight forwarding",
+      "c": "Crop farming",
+      "d": "Automobile assembling"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "**Freight forwarding** is related to the transportation and logistics of goods, making it a commercial career (aids to trade). \n\n*   *Bricklaying* and *Automobile assembling* = Constructive/Manufacturing (Industrial)\n*   *Crop farming* = Extractive (Industrial)",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Commerce",
+    "topic": "Occupation",
+    "question_text": "Mining, agriculture, and construction are collectively classified under which major branch of occupation?",
+    "options": {
+      "a": "Commercial occupation",
+      "b": "Industrial occupation",
+      "c": "Direct service occupation",
+      "d": "Tertiary occupation"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Industrial occupations** involve the physical extraction of raw materials from nature, processing them, or building structures. It is subdivided into:\n*   **Extractive:** Mining, agriculture, fishing.\n*   **Manufacturing:** Textile mills, food processing.\n*   **Constructive:** Road building, carpentry, masonry.",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Commerce",
+    "topic": "Production",
+    "question_text": "In Commerce, the process of production is considered completely achieved only when the goods...",
+    "options": {
+      "a": "are fully manufactured and packaged in the factory.",
+      "b": "reach the final consumer to satisfy their wants.",
+      "c": "are advertised across national television networks.",
+      "d": "are safely transported and stored in a warehouse."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "In economics and commerce, **production** is the creation of utility (the ability of a good to satisfy human wants). Therefore, production is not complete until the goods and services have reached the final consumer who actually uses or consumes them.",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Commerce",
+    "topic": "Production",
+    "question_text": "Which of the following factors of production is responsible for coordinating the other factors and bearing the ultimate risk of the business?",
+    "options": {
+      "a": "Labour",
+      "b": "Capital",
+      "c": "Entrepreneurship",
+      "d": "Land"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **Entrepreneur** (or entrepreneurship) is the factor of production that organizes and coordinates the other factors (Land, Labour, and Capital) to produce goods and services. Most importantly, the entrepreneur assumes all the business risks, with the expectation of earning a profit.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Commerce",
+    "topic": "Production",
+    "question_text": "Which of the following pairs correctly matches a factor of production with its corresponding economic reward?",
+    "options": {
+      "a": "Land — Interest",
+      "b": "Capital — Rent",
+      "c": "Labour — Wages",
+      "d": "Entrepreneurship — Salaries"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The rewards for the factors of production are distributed as follows:\n*   **Land** earns *Rent*\n*   **Labour** earns *Wages/Salaries*\n*   **Capital** earns *Interest*\n*   **Entrepreneurship** earns *Profit/Loss*",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "Commerce",
+    "topic": "Production",
+    "question_text": "The processing of crude oil into petroleum jelly and kerosene by a refinery belongs to which stage of production?",
+    "options": {
+      "a": "Primary production",
+      "b": "Secondary production",
+      "c": "Tertiary production",
+      "d": "Direct services"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Secondary production** involves the processing or manufacturing of raw materials (obtained from primary production) into finished or semi-finished goods. Refining crude oil into kerosene is a classic manufacturing/processing activity.",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "Commerce",
+    "topic": "Production",
+    "question_text": "Which of the following groups of workers are strictly engaged in tertiary production?",
+    "options": {
+      "a": "Farmers, hunters, and miners",
+      "b": "Carpenters, welders, and bricklayers",
+      "c": "Bankers, teachers, and transporters",
+      "d": "Fishermen, lumberjacks, and quarry workers"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Tertiary production** involves the provision of services (both commercial and direct/indirect) rather than the physical creation of goods. Bankers, teachers, and transporters all provide services. Options A and D represent primary production, while Option B represents secondary (constructive) production.",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "Commerce",
+    "topic": "Production",
+    "question_text": "The separation of a production process into a series of distinct operations, with each task being performed by a different worker, is known as...",
+    "options": {
+      "a": "automation.",
+      "b": "standardization.",
+      "c": "mechanization.",
+      "d": "division of labour."
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Division of labour** is a system where the production of a single commodity is broken down into a series of smaller, distinct tasks, with each task assigned to a specific worker or group of workers, leading to specialization.",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "Commerce",
+    "topic": "Production",
+    "question_text": "A significant advantage of division of labour in a manufacturing plant is that it...",
+    "options": {
+      "a": "makes the workers a jack-of-all-trades.",
+      "b": "increases the time spent moving between different sets of tools.",
+      "c": "leads to a saving of time and a massive increase in output.",
+      "d": "completely eliminates the need for expensive machinery."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Because each worker focuses solely on one simple task, **division of labour** saves the time normally lost switching between different tools or tasks. This specialization increases speed, skill, and ultimately the total volume of production (output).",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "Commerce",
+    "topic": "Production",
+    "question_text": "Which of the following represents a major disadvantage of division of labour from the perspective of the factory worker?",
+    "options": {
+      "a": "It frequently leads to monotony and boredom.",
+      "b": "It forces workers to perform heavy physical labor.",
+      "c": "It drastically increases the cost of finished goods.",
+      "d": "It requires continuous, high-level mental concentration."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Because division of labour requires a worker to repeat the exact same simple motion or task endlessly throughout the day (e.g., screwing in a single bolt), it creates high levels of **monotony, boredom**, and a lack of creative pride in the final product.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "Commerce",
+    "topic": "Production",
+    "question_text": "According to commercial and economic principles, the greatest limitation to the implementation of division of labour is the...",
+    "options": {
+      "a": "size of the available market.",
+      "b": "lack of unskilled manpower.",
+      "c": "frequent changes in government taxation.",
+      "d": "complexity of the raw materials."
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "The most fundamental limitation to division of labour is the **extent (or size) of the market**. Division of labour leads to mass production. If the market is too small to buy the massive amount of goods produced, mass production becomes unprofitable, thereby limiting how far division of labour can be applied.",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "Commerce",
+    "topic": "Production",
+    "question_text": "Which statement best highlights the inter-relationship between production and exchange?",
+    "options": {
+      "a": "Production completely destroys utility, while exchange attempts to recreate it.",
+      "b": "Exchange provides the mechanism by which manufactured goods are transferred to satisfy consumer wants.",
+      "c": "Production is impossible unless the raw materials have already been exported.",
+      "d": "Exchange ensures that the manufacturer maintains full ownership of goods permanently."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Production and exchange are interdependent. Production aims to satisfy human wants by creating goods, but those goods are useless to the producer if they cannot be sold. **Exchange** (buying and selling) bridges this gap, transferring the created goods from the point of production to the consumers who need them.",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "question_text": "The primary objective of establishing a private commercial enterprise is to...",
+    "options": {
+      "a": "provide free social amenities for the local community.",
+      "b": "maximize profit for the business owners.",
+      "c": "generate internal revenue for the government.",
+      "d": "control the country's population growth rate."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "While businesses have secondary objectives (like social responsibility), the fundamental and primary motive behind any private commercial enterprise (e.g., Sole Proprietorship, Partnership, Company) is to **maximize profit** and ensure the survival of the business.",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "question_text": "Which of the following is considered a major disadvantage of operating a sole proprietorship?",
+    "options": {
+      "a": "Unlimited liability",
+      "b": "Quick decision-making process",
+      "c": "High cost of incorporation",
+      "d": "Perpetual existence"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Unlimited liability** means that in the event of business failure, the sole proprietor's personal assets (like a house or car) can be seized to pay off business debts. \n\n*   *Quick decision-making* is an advantage.\n*   *High cost of incorporation* and *Perpetual existence* apply to registered companies, not sole proprietors.",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "question_text": "The written document that guides the internal operations and regulates the relationships among members in a partnership business is known as the...",
+    "options": {
+      "a": "Articles of Association.",
+      "b": "Deed of Partnership.",
+      "c": "Certificate of Incorporation.",
+      "d": "Memorandum of Association."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Deed of Partnership** is a formal, legally binding document drawn up by partners. It states the profit-sharing ratio, capital contributions, duties, and procedures for dissolution. It helps to prevent disputes among partners.",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "question_text": "A partner whose responsibility for the debts of the firm is restricted strictly to the amount of capital they invested is referred to as a...",
+    "options": {
+      "a": "general partner.",
+      "b": "active partner.",
+      "c": "limited partner.",
+      "d": "nominal partner."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A **limited partner** enjoys limited liability. This means if the business fails, they only lose the specific capital they contributed; their personal assets remain safe. By law, a limited partnership must still have at least one *general partner* who bears unlimited liability.",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "question_text": "Decision-making during the general meetings of a co-operative society is strictly guided by the principle of...",
+    "options": {
+      "a": "the amount of capital a member contributed.",
+      "b": "the number of shares held by a member.",
+      "c": "one man, one vote.",
+      "d": "the social status of the society's leaders."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Co-operative societies are highly democratic. Regardless of how many shares a member buys or how much capital they bring, the voting principle is always **one member, one vote** (unlike a Joint Stock Company, where voting power equals the number of shares held).",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "question_text": "The maximum number of shareholders permitted in a private limited liability company in Nigeria (under the CAMA) is...",
+    "options": {
+      "a": "$7$",
+      "b": "$20$",
+      "c": "$50$",
+      "d": "unlimited."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "| Type of Business | Minimum Membership | Maximum Membership |\n| :--- | :--- | :--- |\n| **Partnership** | $2$ | $20$ |\n| **Private Company** | $2$ | $50$ |\n| **Public Company** | $7$ | Infinite / Unlimited |",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "question_text": "Which of the following formation documents governs the relationship between a limited liability company and the outside world?",
+    "options": {
+      "a": "Memorandum of Association",
+      "b": "Articles of Association",
+      "c": "The Prospectus",
+      "d": "Certificate of Trading"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "The **Memorandum of Association** is the company's external constitution; it defines the company's relationship with the outside world (outlining its name, objectives, registered office, and authorized capital). In contrast, the **Articles of Association** contain the internal rules regulating the relationship between the company and its shareholders/directors.",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "question_text": "Unlike a sole proprietor, a public limited liability company can raise massive long-term capital by issuing...",
+    "options": {
+      "a": "trade credits to suppliers.",
+      "b": "shares and debentures to the general public.",
+      "c": "promissory notes to local banks.",
+      "d": "personal savings from the board of directors."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A major advantage of a **Public Limited Liability Company (Plc)** is its ability to invite the general public to subscribe to its **shares** (equity capital) and **debentures** (long-term loan capital). Sole proprietors must rely mostly on personal savings and bank loans.",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "question_text": "Public enterprises, or statutory corporations, are primarily established to...",
+    "options": {
+      "a": "maximize profit and pay dividends to the government.",
+      "b": "compete with multinational companies in foreign trade.",
+      "c": "provide essential social services to the citizens at affordable rates.",
+      "d": "issue shares to foreign investors to boost foreign reserves."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Public enterprises** are government-owned businesses (e.g., water boards, railway corporations). Their primary motive is **service provision and public welfare**, not profit maximization. They operate to ensure that citizens have access to crucial amenities at subsidized or affordable prices.",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "question_text": "When two or more existing companies completely fuse together to form an entirely new company, losing their former identities in the process, it is known as...",
+    "options": {
+      "a": "an acquisition.",
+      "b": "a cartel.",
+      "c": "a holding company.",
+      "d": "an amalgamation."
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "In an **amalgamation**, companies A and B agree to fuse together to create a brand new company, C. Both original companies are dissolved and lose their previous identities.",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "question_text": "A corporate entity that acquires more than $50\\%$ of the voting shares in another company to gain management control over it is referred to as a...",
+    "options": {
+      "a": "consortium.",
+      "b": "subsidiary company.",
+      "c": "holding company.",
+      "d": "public corporation."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A **holding company** is a parent corporation that buys enough voting stock ($\\text{Shares} > 50\\%$) in another firm to control its board of directors and management. The firm that is being controlled is called the **subsidiary company**.",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "question_text": "Independent firms in the same industry may choose to form a cartel primarily in order to...",
+    "options": {
+      "a": "reduce the minimum wages paid to their factory workers.",
+      "b": "merge their accounting departments to pay lower taxes.",
+      "c": "control output, divide the market, and maintain high prices.",
+      "d": "issue a single set of shares on the Stock Exchange."
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "A **cartel** is an association of independent businesses in the same industry that agree to restrict competition among themselves. They achieve this by limiting total market output and fixing uniform prices (e.g., OPEC in the oil industry).",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "question_text": "A partnership firm may undergo dissolution under all of the following circumstances EXCEPT when...",
+    "options": {
+      "a": "one of the principal partners dies or is declared legally insane.",
+      "b": "a partner transfers their ownership interest to a stranger without the consent of others.",
+      "c": "the firm incurs a temporary loss during one financial quarter.",
+      "d": "the specific fixed term or project for which the partnership was formed expires."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Dissolution** is the legal ending of the partnership. While death, insanity, bankruptcy, mutual agreement, or the completion of the partnership's purpose can trigger dissolution, a mere **temporary loss** in business operations is not a legal ground for dissolving the firm.",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "question_text": "A Thrift and Credit Co-operative Society primarily assists its members by...",
+    "options": {
+      "a": "buying consumer goods in bulk and selling at wholesale prices.",
+      "b": "encouraging saving habits and granting loans at low-interest rates.",
+      "c": "marketing their agricultural produce directly to government agencies.",
+      "d": "purchasing large tracts of land to build low-cost housing."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "There are different types of co-operatives:\n*   **Thrift and Credit Societies:** Focus on mobilizing savings from members and giving out soft loans at minimal interest rates.\n*   **Consumer Societies:** Focus on bulk buying and affordable retailing (Option A).\n*   **Producer/Agricultural Societies:** Focus on marketing member produce (Option C).",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "Commerce",
+    "topic": "Business Units",
+    "question_text": "The legal procedure of winding up the operations of a registered company and selling its assets to pay off creditors is termed...",
+    "options": {
+      "a": "incorporation.",
+      "b": "liquidation.",
+      "c": "flotation.",
+      "d": "nationalization."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Liquidation** (or winding up) is the formal legal process of bringing a company to an end. A liquidator is appointed to sell off the company's remaining assets and use the proceeds to settle any outstanding debts to creditors.",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "Commerce",
+    "topic": "Trade Associations",
+    "question_text": "An organization formed by independent business firms that are engaged in the same line of production or trade is called a...",
+    "options": {
+      "a": "Chamber of Commerce.",
+      "b": "Consumer Association.",
+      "c": "Trade Association.",
+      "d": "Employers Association."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **Trade Association** is composed of individuals or firms engaged in the *exact same* industry or trade (for example, the Association of Cocoa Farmers or the Bankers Committee). Their goal is to protect and promote the specific interests of that particular industry.",
+    "section_id": null
+  },
+  {
+    "question_number": 46,
+    "subject": "Commerce",
+    "topic": "Trade Associations",
+    "question_text": "Which of the following is a core function of a Trade Association?",
+    "options": {
+      "a": "Regulating the wages of civil servants working for the government.",
+      "b": "Standardizing the quality of products and ethical conduct within their industry.",
+      "c": "Boycotting the purchase of raw materials to increase the nation's foreign reserves.",
+      "d": "Issuing legal tender and managing the nation's monetary policy."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Trade Associations aim to improve the reputation and efficiency of their specific industry. They do this by **standardizing product quality**, setting codes of conduct for members, exchanging technical information, and presenting a united front to the government.",
+    "section_id": null
+  },
+  {
+    "question_number": 47,
+    "subject": "Commerce",
+    "topic": "Trade Associations",
+    "question_text": "Unlike a Trade Association, a Chamber of Commerce is comprised of...",
+    "options": {
+      "a": "businessmen and firms from different commercial backgrounds operating within a particular region.",
+      "b": "only manufacturers who produce goods for international export.",
+      "c": "workers and employees striving for better working conditions.",
+      "d": "government regulatory agencies controlling standard weights and measures."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "A **Chamber of Commerce** is a voluntary association of businesses from *various different industries* (traders, bankers, manufacturers) operating within a specific town, city, or region (e.g., Lagos Chamber of Commerce). It aims to promote the general commercial interests of that geographic area.",
+    "section_id": null
+  },
+  {
+    "question_number": 48,
+    "subject": "Commerce",
+    "topic": "Trade Associations",
+    "question_text": "The primary aim of an Employers Association is to...",
+    "options": {
+      "a": "encourage members to avoid paying corporate income taxes.",
+      "b": "present a united front when negotiating labor issues and wages with trade unions.",
+      "c": "protect final consumers from consuming expired and substandard goods.",
+      "d": "monopolize the local market by eliminating all forms of small businesses."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "An **Employers Association** acts on behalf of business owners (employers) to negotiate with labor/trade unions and the government regarding workers' wages, working conditions, and labor dispute resolutions. Examples include NECA (Nigeria Employers' Consultative Association).",
+    "section_id": null
+  },
+  {
+    "question_number": 49,
+    "subject": "Commerce",
+    "topic": "Trade Associations",
+    "question_text": "An organized body of buyers formed primarily to protect themselves against unfair trade practices, dangerous products, and exorbitant prices is known as a...",
+    "options": {
+      "a": "Trade Union.",
+      "b": "Employers Association.",
+      "c": "Consumer Association.",
+      "d": "Cartel."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **Consumer Association** is a collective group of buyers organized to protect the interests of final consumers. They test products, expose unfair practices like hoarding or false advertising, and advocate for fair prices.",
+    "section_id": null
+  },
+  {
+    "question_number": 50,
+    "subject": "Commerce",
+    "topic": "Trade Associations",
+    "question_text": "In the context of commerce, the concept of **consumerism** can best be defined as the...",
+    "options": {
+      "a": "tendency of individuals to purchase more goods than their income can sustain.",
+      "b": "process of converting raw materials into consumer goods.",
+      "c": "organized movement aimed at protecting the rights and promoting the interests of consumers.",
+      "d": "exclusive right of a producer to determine the selling price of their goods."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Consumerism** is the social, legal, and economic movement driven by consumer groups and the government to ensure the rights, safety, and empowerment of buyers. It acts as a check against unscrupulous business practices.",
+    "section_id": null
+  },
+  {
+    "question_number": 51,
+    "subject": "Commerce",
+    "topic": "Business Capital and Profits",
+    "question_text": "The maximum amount of share capital a company is permitted to issue according to its Memorandum of Association is known as the...",
+    "options": {
+      "a": "called-up capital.",
+      "b": "paid-up capital.",
+      "c": "authorized capital.",
+      "d": "circulating capital."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Authorized Capital** (also called Registered or Nominal capital) is the maximum total value of shares that a company is legally permitted to issue to the public, as stated in its Memorandum of Association.",
+    "section_id": null
+  },
+  {
+    "question_number": 52,
+    "subject": "Commerce",
+    "topic": "Business Capital and Profits",
+    "question_text": "Capital that is easily converted into cash or continuously changes its form during the normal course of business operations is termed...",
+    "options": {
+      "a": "fixed capital.",
+      "b": "liquid or circulating capital.",
+      "c": "capital owned.",
+      "d": "nominal capital."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Circulating (or liquid) capital** refers to assets that change form constantly in the day-to-day running of the business. For example, cash is used to buy stock (inventory), stock is sold on credit to become debtors, and debtors pay up to become cash again.",
+    "section_id": null
+  },
+  {
+    "question_number": 53,
+    "subject": "Commerce",
+    "topic": "Business Capital and Profits",
+    "question_text": "Which of the following is a widely used commercial instrument of credit that allows a buyer to defer payment for goods until a specified future date?",
+    "options": {
+      "a": "Bill of exchange",
+      "b": "Ordinary invoice",
+      "c": "Cash receipt",
+      "d": "Certificate of origin"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "A **bill of exchange** is a vital instrument of credit in commerce. It is an unconditional order in writing, requiring the person to whom it is addressed to pay a specific sum of money on demand or at a fixed future date, thereby allowing for deferred payment.",
+    "section_id": null
+  },
+  {
+    "question_number": 54,
+    "subject": "Commerce",
+    "topic": "Business Capital and Profits",
+    "question_text": "A business has total fixed assets of $\\text{₦}500,000$, current assets of $\\text{₦}150,000$, and current liabilities of $\\text{₦}40,000$. What is the working capital of the business?",
+    "options": {
+      "a": "$\\text{₦}650,000$",
+      "b": "$\\text{₦}610,000$",
+      "c": "$\\text{₦}110,000$",
+      "d": "$\\text{₦}190,000$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Working capital is the excess of current assets over current liabilities. It represents the funds available for the day-to-day running of the business.\n\n$$\\text{Working Capital} = \\text{Current Assets} - \\text{Current Liabilities}$$\n$$\\text{Working Capital} = \\text{₦}150,000 - \\text{₦}40,000 = \\text{₦}110,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 55,
+    "subject": "Commerce",
+    "topic": "Business Capital and Profits",
+    "question_text": "Working capital is highly essential to a business enterprise primarily because it is used to...",
+    "options": {
+      "a": "purchase long-term fixed assets like land and machinery.",
+      "b": "pay annual dividends to long-term shareholders.",
+      "c": "meet the day-to-day financial obligations and operating expenses.",
+      "d": "legally increase the authorized share capital of the company."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **importance of working capital** lies in its use for the day-to-day financial operations of the business. It is used to pay for recurrent operational expenses like staff salaries, utility bills, and purchasing raw materials to keep the business running smoothly.",
+    "section_id": null
+  },
+  {
+    "question_number": 56,
+    "subject": "Commerce",
+    "topic": "Business Capital and Profits",
+    "question_text": "In a commercial business, gross profit is best defined as the...",
+    "options": {
+      "a": "excess of total sales revenue over the cost of goods sold.",
+      "b": "difference between total revenue and all operating expenses.",
+      "c": "amount of capital originally invested by the entrepreneur.",
+      "d": "net surplus declared by management after paying government taxes."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Gross Profit** is strictly the trading profit. It is calculated by subtracting the cost of goods sold from the net sales revenue, before any general operating expenses (like rent or salaries) are deducted.",
+    "section_id": null
+  },
+  {
+    "question_number": 57,
+    "subject": "Commerce",
+    "topic": "Business Capital and Profits",
+    "question_text": "If a trading firm records a gross profit of $\\text{₦}120,000$, and incurs operating expenses consisting of salaries ($\\text{₦}30,000$) and office rent ($\\text{₦}15,000$), calculate the net profit.",
+    "options": {
+      "a": "$\\text{₦}75,000$",
+      "b": "$\\text{₦}65,000$",
+      "c": "$\\text{₦}90,000$",
+      "d": "$\\text{₦}165,000$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Net Profit is calculated by deducting total operating expenses from the Gross Profit.\n\n$$\\text{Total Expenses} = \\text{Salaries} + \\text{Rent}$$\n$$\\text{Total Expenses} = \\text{₦}30,000 + \\text{₦}15,000 = \\text{₦}45,000$$\n\n$$\\text{Net Profit} = \\text{Gross Profit} - \\text{Total Expenses}$$\n$$\\text{Net Profit} = \\text{₦}120,000 - \\text{₦}45,000 = \\text{₦}75,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 58,
+    "subject": "Commerce",
+    "topic": "Business Capital and Profits",
+    "question_text": "During a trading year, a retailer had cash sales of $\\text{₦}400,000$, credit sales of $\\text{₦}250,000$, and customers returned goods worth $\\text{₦}30,000$. Calculate the business turnover for the year.",
+    "options": {
+      "a": "$\\text{₦}650,000$",
+      "b": "$\\text{₦}620,000$",
+      "c": "$\\text{₦}370,000$",
+      "d": "$\\text{₦}680,000$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Turnover** is defined as the net sales of a business during a specific period. It is calculated by adding cash and credit sales, then subtracting any returns inwards (sales returns).\n\n$$\\text{Total Sales} = \\text{₦}400,000 + \\text{₦}250,000 = \\text{₦}650,000$$\n$$\\text{Turnover} = \\text{Total Sales} - \\text{Returns Inwards}$$\n$$\\text{Turnover} = \\text{₦}650,000 - \\text{₦}30,000 = \\text{₦}620,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 59,
+    "subject": "Commerce",
+    "topic": "Business Capital and Profits",
+    "question_text": "Which of the following factors is most likely to cause a rapid increase in the turnover of a retail business?",
+    "options": {
+      "a": "A sudden and steep increase in the unit price of goods.",
+      "b": "A massive reduction in the firm's advertising budget.",
+      "c": "The introduction of favorable credit facilities for reliable customers.",
+      "d": "A persistently high rate of employee absenteeism."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Factors that positively affect turnover (boost sales) include aggressive advertising, competitive pricing, high demand, and allowing customers to buy on credit. **Introducing favorable credit facilities** encourages customers to buy more goods immediately, thereby increasing the business turnover.",
+    "section_id": null
+  },
+  {
+    "question_number": 60,
+    "subject": "Commerce",
+    "topic": "Trade",
+    "question_text": "Which of the following characteristics strictly distinguishes foreign trade from home trade?",
+    "options": {
+      "a": "It involves buyers and sellers negotiating prices.",
+      "b": "It involves the exchange of goods and services for money.",
+      "c": "It is heavily reliant on the use of different national currencies.",
+      "d": "It requires commercial banks to provide business capital."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The fundamental difference between home trade (internal) and foreign trade (international) is that foreign trade occurs across national borders. This introduces the complexity of using **different national currencies** (requiring exchange rates), different legal systems, and different weights/measures, which are not present in home trade.",
+    "section_id": null
+  },
+  {
+    "question_number": 61,
+    "subject": "Commerce",
+    "topic": "Trade",
+    "question_text": "Home trade is broadly subdivided into two main commercial categories, which are...",
+    "options": {
+      "a": "Import and Export trade.",
+      "b": "Wholesale and Retail trade.",
+      "c": "Visible and Invisible trade.",
+      "d": "Primary and Secondary trade."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Home trade** (domestic trade) is the buying and selling of goods within the geographical boundaries of a country. It is divided into:\n1.  **Wholesale trade:** Buying in bulk from manufacturers.\n2.  **Retail trade:** Selling in smaller quantities to final consumers.",
+    "section_id": null
+  },
+  {
+    "question_number": 62,
+    "subject": "Commerce",
+    "topic": "Trade",
+    "question_text": "The commercial practice of importing goods from one country with the sole intention of clearing them and re-exporting them to a third country is known as...",
+    "options": {
+      "a": "bilateral trade.",
+      "b": "multilateral trade.",
+      "c": "counter trade.",
+      "d": "entrepôt trade."
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Foreign trade consists of import, export, and **entrepôt trade**. Entrepôt occurs when a country imports goods, temporarily stores them, and then re-exports them to another country, often because the final destination lacks a direct seaport or favorable trade relations with the origin.",
+    "section_id": null
+  },
+  {
+    "question_number": 63,
+    "subject": "Commerce",
+    "topic": "Trade",
+    "question_text": "In the context of foreign trade, which of the following transactions is classified as an invisible export for Nigeria?",
+    "options": {
+      "a": "Shipping metric tons of cocoa beans to foreign buyers in Europe.",
+      "b": "Providing local hospitality and tourism services to foreign vacationers.",
+      "c": "Selling locally refined petroleum products to neighboring West African countries.",
+      "d": "Importing heavy-duty agricultural machinery from China."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Foreign trade involves visible and invisible items. \n*   **Visible trade:** Physical goods you can see and touch (Options A and C).\n*   **Invisible trade:** Services rendered. When foreigners pay for **tourism**, banking, or insurance services provided by Nigerians within Nigeria, it brings foreign exchange into the country, making it an **invisible export**.",
+    "section_id": null
+  },
+  {
+    "question_number": 64,
+    "subject": "Commerce",
+    "topic": "Trade",
+    "question_text": "In the normal channel of distribution for home trade, a major function of the wholesaler is to...",
+    "options": {
+      "a": "produce customized goods specifically for the local market.",
+      "b": "sell goods in single units directly to final consumers.",
+      "c": "finance the manufacturer by purchasing goods in bulk and paying promptly.",
+      "d": "regulate the national retail prices of goods on behalf of the government."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The wholesaler acts as a middleman between the manufacturer and the retailer. A key function of the wholesaler is to relieve the manufacturer of financial strain by **buying goods in bulk and paying promptly** (often in cash or short-term credit), thereby financing the manufacturer's continuous production.",
+    "section_id": null
+  },
+  {
+    "question_number": 65,
+    "subject": "Commerce",
+    "topic": "Trade",
+    "question_text": "Which of the following represents an artificial barrier commonly imposed by a government to restrict the volume of foreign trade and protect local industries?",
+    "options": {
+      "a": "Distance and transportation costs",
+      "b": "Cultural and language differences",
+      "c": "Tariffs and import quotas",
+      "d": "The absence of a common currency"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Barriers to foreign trade are either natural or artificial. \n*   *Natural barriers* include language, distance, and currency differences (Options A, B, and D). \n*   *Artificial barriers* are deliberately created by governments (protectionism) to restrict imports, such as **tariffs** (import taxes), **quotas** (limits on quantity), and embargoes.",
+    "section_id": null
+  },
+  {
+    "question_number": 66,
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "question_text": "A document sent by a seller to a prospective buyer showing the details, description, and prices of goods *before* the goods are actually ordered or dispatched is the...",
+    "options": {
+      "a": "Consular Invoice.",
+      "b": "Credit Note.",
+      "c": "Proforma Invoice.",
+      "d": "Ordinary Invoice."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **Proforma Invoice** is a preliminary document sent to a buyer in advance of a shipment or delivery of goods. It provides an estimate of the costs, allowing the buyer to apply for an import license, foreign exchange, or simply to know what the final bill will look like.",
+    "section_id": null
+  },
+  {
+    "question_number": 67,
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "question_text": "When a buyer returns damaged goods or is accidentally overcharged on an invoice, the seller will rectify the customer's account balance by issuing a...",
+    "options": {
+      "a": "Debit Note.",
+      "b": "Credit Note.",
+      "c": "Letter of Hypothecation.",
+      "d": "Documentary Credit."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **Credit Note** is a commercial document issued by a seller to a buyer, reducing the amount that the buyer owes to the seller. It is used when goods are returned, there was a shortage in delivery, or the buyer was overcharged on the original invoice. (A *Debit Note* does the opposite—it increases the debt if the buyer was undercharged).",
+    "section_id": null
+  },
+  {
+    "question_number": 68,
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "question_text": "An order placed by a home importer through an agent requesting the purchase of specific foreign goods from abroad is technically referred to as...",
+    "options": {
+      "a": "a consular invoice.",
+      "b": "an indent.",
+      "c": "a bill of lading.",
+      "d": "a standing order."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "In foreign trade, an **Indent** is a formalized order sent by an importer to an exporter or buying agent abroad to purchase goods. An indent can be *open* (the agent chooses the manufacturer) or *closed* (the exact manufacturer is specified by the importer).",
+    "section_id": null
+  },
+  {
+    "question_number": 69,
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "question_text": "Which of the following documents is specifically required by customs authorities to prove the specific country where imported goods were manufactured?",
+    "options": {
+      "a": "Certificate of Inspection",
+      "b": "Certificate of Origin",
+      "c": "Consular Invoice",
+      "d": "Documentary Credit"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **Certificate of Origin** is used in international trade to verify the exact nation in which goods were grown, produced, or manufactured. Customs officials use it to determine the correct import duties and to ensure goods are not coming from embargoed countries.",
+    "section_id": null
+  },
+  {
+    "question_number": 70,
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "question_text": "The abbreviation **E & OE** (Errors and Omissions Excepted) is commonly printed at the bottom of an invoice to legally indicate that the seller...",
+    "options": {
+      "a": "guarantees the absolute accuracy of the invoice.",
+      "b": "retains the right to correct any mathematical mistakes discovered later.",
+      "c": "exempts the buyer from paying transport costs.",
+      "d": "has successfully insured the goods against all transit risks."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**E & OE (Errors and Omissions Excepted)** protects the seller legally if there is an accidental error in the invoice (like a typo in pricing or missing an item). It gives the seller the right to amend the invoice after it has been sent.",
+    "section_id": null
+  },
+  {
+    "question_number": 71,
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "question_text": "A manufacturer offers a $\\text{Cash Discount}$ to a retailer primarily in order to...",
+    "options": {
+      "a": "enable the retailer to make a profit when reselling the goods.",
+      "b": "compensate the retailer for buying goods in very large quantities.",
+      "c": "encourage the prompt payment of outstanding debts.",
+      "d": "cover the cost of transporting the goods to the retailer's warehouse."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Different discounts serve different purposes:\n*   **Cash Discount:** To encourage fast/prompt payment of debts.\n*   **Trade Discount:** To enable the middleman (retailer) to make a profit off the catalog price (Option A).\n*   **Quantity Discount:** To encourage bulk purchases (Option B).",
+    "section_id": null
+  },
+  {
+    "question_number": 72,
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "question_text": "If a foreign supplier quotes a price as **CIF** (Cost, Insurance, and Freight), it implies that the quoted amount covers the cost of the goods plus...",
+    "options": {
+      "a": "insurance and transport charges up to the buyer's port of destination.",
+      "b": "only the loading of goods onto the vessel at the seller's port.",
+      "c": "the delivery of goods exactly to the buyer's inland warehouse.",
+      "d": "insurance, freight, and the final import duties charged by the buyer's country."
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "**CIF (Cost, Insurance, and Freight)** means the seller pays for the goods, maritime insurance, and all shipping charges necessary to bring the goods to the named port of destination in the buyer's country. The buyer handles import duties and transport from the port to their own warehouse.",
+    "section_id": null
+  },
+  {
+    "question_number": 73,
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "question_text": "Which of the following pricing terms means that the buyer is fully responsible for all costs and risks from the exact moment the goods leave the seller's factory gate?",
+    "options": {
+      "a": "Franco",
+      "b": "LOCO",
+      "c": "Ex-works",
+      "d": "FAS (Free Alongside Ship)"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Ex-works (EXW)** is a trade term requiring the seller to make goods available at their own premises (factory or warehouse). The buyer must carry all costs, risks, and transport logistics from the seller's door to the final destination.",
+    "section_id": null
+  },
+  {
+    "question_number": 74,
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "question_text": "A commercial arrangement where a customer immediately takes possession of an asset, but officially becomes the legal owner only after paying the final installment, is associated with...",
+    "options": {
+      "a": "Spot payment.",
+      "b": "Hire purchase.",
+      "c": "Standing order.",
+      "d": "Cash with order (CWO)."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "While the syllabus broadly mentions \"Purchase and deferred payment,\" a primary example is **Hire Purchase**. The buyer takes the goods immediately but pays for them in installments. Legal ownership remains with the seller until the very last installment is cleared.",
+    "section_id": null
+  },
+  {
+    "question_number": 75,
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "question_text": "Bank notes and metal coins are exclusively accepted in a country's commercial transactions because they are...",
+    "options": {
+      "a": "backed by large reserves of gold in the central bank.",
+      "b": "classified as legal tender by government legislation.",
+      "c": "intrinsically more valuable than the metal they are made of.",
+      "d": "immune to all forms of national inflation."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Bank notes and coins are **legal tender**. This means they are recognized by the law of the land as valid means of settling a public or private debt, and creditors are legally obligated to accept them.",
+    "section_id": null
+  },
+  {
+    "question_number": 76,
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "question_text": "A businessman needs to make a large payment and wants to absolutely guarantee the payee that the funds are available and the instrument will not bounce. The most appropriate banking instrument to use is a...",
+    "options": {
+      "a": "promissory note.",
+      "b": "personal cheque.",
+      "c": "bank draft.",
+      "d": "standing order."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A **Bank Draft** (or banker's cheque) is drawn by a bank on its own funds, not on an individual's account. Because the bank guarantees it, it is as good as cash and eliminates the risk of a bounced (dishonored) cheque.",
+    "section_id": null
+  },
+  {
+    "question_number": 77,
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "question_text": "A customer who needs to pay a fixed subscription fee of $\\text{₦}10,000$ automatically on the 5th day of every month to a specific organization would best utilize a...",
+    "options": {
+      "a": "standing order.",
+      "b": "money order.",
+      "c": "bill of exchange.",
+      "d": "postal order."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "A **Standing Order** is a written instruction from an account holder directing their bank to pay a specified, regular amount of money to another person or organization at predefined fixed intervals (e.g., monthly rent, subscriptions).",
+    "section_id": null
+  },
+  {
+    "question_number": 78,
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "question_text": "The major difference between a bill of exchange and a promissory note is that...",
+    "options": {
+      "a": "a promissory note is an unconditional order to pay, while a bill of exchange is a promise.",
+      "b": "a bill of exchange is drawn by the creditor, whereas a promissory note is drawn by the debtor.",
+      "c": "a promissory note requires an endorsement by a commercial bank, whereas a bill does not.",
+      "d": "a bill of exchange is issued by the post office, while a promissory note is issued by a bank."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "A **Bill of Exchange** is an unconditional *order* written by the person who is owed money (the creditor/drawer) addressed to the debtor. \nConversely, a **Promissory Note** is an unconditional *promise* written by the person who owes the money (the debtor) pledging to pay the creditor.",
+    "section_id": null
+  },
+  {
+    "question_number": 79,
+    "subject": "Commerce",
+    "topic": "Purchase and Sale of Goods",
+    "question_text": "Which of the following represents the fastest and safest electronic method for remitting funds from an importer in Nigeria to an exporter located in Japan?",
+    "options": {
+      "a": "Mail transfer",
+      "b": "Telegraphic transfer",
+      "c": "Money order",
+      "d": "Traveller's cheque"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **Telegraphic Transfer (TT)** or wire transfer is the fastest means of transferring money internationally. Banks use secure electronic networks (like SWIFT) to instantly move funds globally, making it far superior to mail transfers or money orders for foreign trade.",
+    "section_id": null
+  }
+]

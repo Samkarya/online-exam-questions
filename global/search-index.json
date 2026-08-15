@@ -978,5 +978,19 @@
     "short_description": "138-question practice set covering Sequences & Series, Matrices, Trigonometry, Co-ordinate Geometry, Differentiation, Integration, Statistics, Probability, Vectors, Statics, and Dynamics.",
     "path": "nigeria/NECO_SSCE/furtherMathematics/furtherMathsPart2.json",
     "suitePath": "configs/neco-ssce.json"
+  },
+  {
+    "id": "neco_commerce_part1",
+    "title": "NECO Commerce Part 1: Introduction, Production & Trade Fundamentals",
+    "short_description": "79-question practice set covering Introduction to Commerce, Occupation, Production, Business Units, Trade Associations, Business Capital and Profits, Trade, and Purchase and Sale of Goods.",
+    "path": "nigeria/NECO_SSCE/commerce/commercePart1.json",
+    "suitePath": "configs/neco-ssce.json"
+  },
+  {
+    "id": "neco_commerce_part2",
+    "title": "NECO Commerce Part 2: Finance, Marketing, Legal Aspects & Business Management",
+    "short_description": "83-question practice set covering Finance and Financial Institutions, Transport/Tourism/Communication/Warehousing, Advertising, Marketing, Legal Aspect of Business, Government Policies, Business Management, and Economic Groupings.",
+    "path": "nigeria/NECO_SSCE/commerce/commercePart2.json",
+    "suitePath": "configs/neco-ssce.json"
   }
 ]

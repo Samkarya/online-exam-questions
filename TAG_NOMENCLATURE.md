@@ -47,6 +47,9 @@ Because the linking logic uses a `some()` / `includes()` OR match, we must divid
 > 
 > Only place **highly specific** tags in the `relatedBlogTags` list in `config.json`.
 
+> [!NOTE]
+> This also applies to **organization-level tags** that span more than one exam. `NECO`, for example, administers both the BECE (junior secondary) and the NECO SSCE (senior secondary) — so `NECO` alone in a suite's `relatedBlogTags` will pull in posts for *both* exams, exactly like a generic tag would. Pair it with (or replace it with) a level-specific tag, e.g. `NECO SSCE`, so each suite only matches its own posts.
+
 ---
 
 ## 📐 3. Rules of Tag Formatting
@@ -85,7 +88,7 @@ When writing or editing blog posts and configurations, choose from the standardi
 ### Specific Exam & Organization Tags (Used in BOTH `blog-index.json` and `config.json`)
 *   **HOSA Event:** `HOSA`, `Health Science Competition`, `Forensic Science`, `Nutrition Science`
 *   **FBLA Event:** `FBLA`, `Business Competition`, `Marketing Fundamentals`
-*   **West African Exams:** `WAEC`, `WASSCE`, `NECO`, `BECE`, `Junior WAEC`, `Senior Secondary`, `Nigerian Education`
+*   **West African Exams:** `WAEC`, `WASSCE`, `NECO`, `NECO SSCE`, `BECE`, `Junior WAEC`, `Senior Secondary`, `Nigerian Education`
 *   **General Academic / Admissions:** `ACT`, `College Admissions`, `Standardized Testing`, `IELTS`, `English Proficiency`, `Study Abroad`, `CAT`, `MBA Entrance`, `IIM`
 *   **Professional Licensure:** `CPPB`, `Public Procurement`, `Government Purchasing`, `UPPCC`, `LSO`, `Paralegal`, `P1 Exam`, `Law Society of Ontario`, `Ontario Licensing`
 *   **Regional/Language Specific:** `Concours Médecine Belgique`, `ARES FWB`, `Études de Médecine`, `Préparation Concours`
