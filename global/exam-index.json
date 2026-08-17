@@ -83,6 +83,8 @@
   "bece_bsEntrepreneurshipConsumer": "configs/bece.json",
   "bece_bsBookKeeping": "configs/bece.json",
   "bece_bsKeyboarding": "configs/bece.json",
+  "bece_2023_mathematics_paper1": "configs/bece.json",
+  "bece_2023_mathematics_paper2": "configs/bece.json",
   "hosa_nutrition_physiology": "configs/hosa-nutrition.json",
   "hosa_nutrition_macronutrients": "configs/hosa-nutrition.json",
   "hosa_nutrition_vitamins_minerals": "configs/hosa-nutrition.json",

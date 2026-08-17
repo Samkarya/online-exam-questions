@@ -1,0 +1,962 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Mathematics",
+    "topic": "Algebraic Factorization",
+    "question_text": "Factorize the algebraic expression:\n$$mx - my - nx + ny$$",
+    "options": {
+      "a": "$(m + n)(x + y)$",
+      "b": "$(m + n)(x - y)$",
+      "c": "$(m - n)(x + y)$",
+      "d": "$(m - n)(x - y)$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Group the terms with common factors:\n   $$mx - my - nx + ny = (mx - my) - (nx - ny)$$\n2. Factor out the common factors from each group:\n   $$= m(x - y) - n(x - y)$$\n3. Factor out the common binomial term $(x - y)$:\n   $$= (m - n)(x - y)$$\n\nThus, the correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Mathematics",
+    "topic": "Quadratic Factorization",
+    "question_text": "Factorize the quadratic expression:\n$$3a^2 + 7a - 6$$",
+    "options": {
+      "a": "$(a - 3)(a + 3)$",
+      "b": "$(3a + 2)(a + 3)$",
+      "c": "$(3a - 2)(a + 3)$",
+      "d": "$(a + 3)(3a + 3)$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Find two numbers that multiply to $3 \\times (-6) = -18$ and add up to $+7$. These numbers are $+9$ and $-2$.\n2. Rewrite the middle term:\n   $$3a^2 + 9a - 2a - 6$$\n3. Factor by grouping:\n   $$3a(a + 3) - 2(a + 3)$$\n4. Factor out $(a + 3)$:\n   $$(3a - 2)(a + 3)$$\n\nThus, the correct option is **c**.",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Mathematics",
+    "topic": "Algebraic Fractions",
+    "question_text": "Simplify the expression:\n$$\\frac{3}{5x} - \\frac{2x - 1}{x}$$",
+    "options": {
+      "a": "$\\frac{4 - 2x}{5x}$",
+      "b": "$\\frac{4 + 2x}{5x}$",
+      "c": "$\\frac{2x - 4}{5x}$",
+      "d": "$\\frac{8 - 10x}{5x}$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Find the lowest common denominator (LCD) of $5x$ and $x$, which is $5x$.\n2. Express with a common denominator:\n   $$\\frac{3 - 5(2x - 1)}{5x}$$\n3. Expand the numerator:\n   $$\\frac{3 - 10x + 5}{5x} = \\frac{8 - 10x}{5x}$$\n\nThus, the correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Mathematics",
+    "topic": "Linear Equations",
+    "question_text": "Solve the linear equation:\n$$3 - \\frac{k}{3} = 1$$",
+    "options": {
+      "a": "$3$",
+      "b": "$4$",
+      "c": "$6$",
+      "d": "$8$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Rearrange the equation:\n   $$3 - 1 = \\frac{k}{3}$$\n   $$2 = \\frac{k}{3}$$\n2. Multiply both sides by $3$:\n   $$k = 2 \\times 3 = 6$$\n\nThus, the correct option is **c**.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Mathematics",
+    "topic": "Linear Inequalities",
+    "question_text": "Solve the inequality:\n$$2(x - 1) > 3$$",
+    "options": {
+      "a": "$x > -3\\frac{1}{2}$",
+      "b": "$x > -2\\frac{1}{2}$",
+      "c": "$x > 2\\frac{1}{2}$",
+      "d": "$x > 2\\frac{3}{4}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Expand the brackets:\n   $$2x - 2 > 3$$\n2. Add $2$ to both sides:\n   $$2x > 5$$\n3. Divide by $2$:\n   $$x > \\frac{5}{2} = 2\\frac{1}{2}$$\n\nThus, the correct option is **c**.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Mathematics",
+    "topic": "Word Problems (Linear Equations)",
+    "question_text": "When $15$ is added to $\\frac{1}{4}$ of a number, the result is $4$ times the number. Find the number.",
+    "options": {
+      "a": "$3$",
+      "b": "$4$",
+      "c": "$5$",
+      "d": "$6$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Let the unknown number be $x$.\n2. Formulate the equation:\n   $$15 + \\frac{x}{4} = 4x$$\n3. Multiply through by $4$ to clear the fraction:\n   $$60 + x = 16x$$\n4. Subtract $x$ from both sides:\n   $$15x = 60 \\implies x = \\frac{60}{15} = 4$$\n\nThus, the correct option is **b**.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Mathematics",
+    "topic": "Linear Equations",
+    "question_text": "Find the value of $p$ if:\n$$2p = 15 - p$$",
+    "options": {
+      "a": "$1$",
+      "b": "$2$",
+      "c": "$3$",
+      "d": "$5$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Collect like terms by adding $p$ to both sides:\n   $$2p + p = 15$$\n   $$3p = 15$$\n2. Divide both sides by $3$:\n   $$p = \\frac{15}{3} = 5$$\n\nThus, the correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Mathematics",
+    "topic": "Simultaneous Linear Equations",
+    "question_text": "Solve the simultaneous equations:\n$$\\begin{cases} 2x + y = 4 \\\\ x + y = 2 \\end{cases}$$",
+    "options": {
+      "a": "$x = -1,\\; y = -1$",
+      "b": "$x = 0,\\; y = -1$",
+      "c": "$x = 1,\\; y = 0$",
+      "d": "$x = 2,\\; y = 0$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Subtract equation (2) from equation (1):\n   $$(2x + y) - (x + y) = 4 - 2$$\n   $$x = 2$$\n2. Substitute $x = 2$ into equation (2):\n   $$2 + y = 2 \\implies y = 0$$\n\nTherefore, $x = 2$ and $y = 0$. The correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Mathematics",
+    "topic": "Change of Subject of Formula",
+    "question_text": "If $x = \\frac{24y}{pr}$, make $y$ the subject of the formula.",
+    "options": {
+      "a": "$y = \\frac{24x}{pr}$",
+      "b": "$y = \\frac{xpr}{24}$",
+      "c": "$y = \\frac{24r}{pr}$",
+      "d": "$y = \\frac{pr}{24}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Multiply both sides by $pr$:\n   $$xpr = 24y$$\n2. Divide both sides by $24$:\n   $$y = \\frac{xpr}{24}$$\n\nThus, the correct option is **b**.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Mathematics",
+    "topic": "Linear Equations",
+    "question_text": "Solve the equation:\n$$\\frac{x + 1}{5x - 1} = \\frac{1}{6}$$",
+    "options": {
+      "a": "$-7$",
+      "b": "$-1$",
+      "c": "$1$",
+      "d": "$7$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Cross-multiply:\n   $$6(x + 1) = 1(5x - 1)$$\n2. Expand both sides:\n   $$6x + 6 = 5x - 1$$\n3. Collect like terms:\n   $$6x - 5x = -1 - 6 \\implies x = -7$$\n\nThus, the correct option is **a**.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Mathematics",
+    "topic": "Algebraic Expansion",
+    "question_text": "Expand the binomial product:\n$$(x + 2)(2x - 1)$$",
+    "options": {
+      "a": "$2x^2 + 3x - 2$",
+      "b": "$2x^2 + 3x + 2$",
+      "c": "$2x^2 - 3x - 2$",
+      "d": "$2x^2 + 5x - 2$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Use distributive law (FOIL):\n   $$(x + 2)(2x - 1) = x(2x - 1) + 2(2x - 1)$$\n2. Expand terms:\n   $$= 2x^2 - x + 4x - 2$$\n3. Combine like terms:\n   $$= 2x^2 + 3x - 2$$\n\nThus, the correct option is **a**.",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Mathematics",
+    "topic": "Linear Relations & Tables",
+    "question_text": "Use the table below for the linear relation $y = 2x + 5$ to answer the question:\n\n| $x$ | $-4$ | $-3$ | $-2$ | $-1$ | $0$ | $1$ | $2$ | $3$ | $4$ |\n| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |\n| $y$ | $-3$ | $A$ | $1$ | $B$ | $5$ | $C$ | $9$ | $D$ | $13$ |\n\nFind the value of $A$.",
+    "options": {
+      "a": "$-3$",
+      "b": "$-1$",
+      "c": "$1$",
+      "d": "$2$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. For $A$, substitute $x = -3$ into the given equation $y = 2x + 5$:\n   $$A = 2(-3) + 5 = -6 + 5 = -1$$\n\nThus, the correct option is **b**.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Mathematics",
+    "topic": "Linear Relations & Tables",
+    "question_text": "Using the relation $y = 2x + 5$ and the table from the previous question:\n\n| $x$ | $-4$ | $-3$ | $-2$ | $-1$ | $0$ | $1$ | $2$ | $3$ | $4$ |\n| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |\n| $y$ | $-3$ | $A$ | $1$ | $B$ | $5$ | $C$ | $9$ | $D$ | $13$ |\n\nFind the value of $B \\times C + D$.",
+    "options": {
+      "a": "$7$",
+      "b": "$9$",
+      "c": "$10$",
+      "d": "$32$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Find $B$ when $x = -1$:\n   $$B = 2(-1) + 5 = 3$$\n2. Find $C$ when $x = 1$:\n   $$C = 2(1) + 5 = 7$$\n3. Find $D$ when $x = 3$:\n   $$D = 2(3) + 5 = 11$$\n4. Evaluate $B \\times C + D$:\n   $$3 \\times 7 + 11 = 21 + 11 = 32$$\n\nThus, the correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Mathematics",
+    "topic": "Inequalities & Number Lines",
+    "question_text": "Which of the following inequalities is represented on the number line below?\n\n<svg viewBox=\"0 0 400 65\" width=\"100%\" height=\"65\" xmlns=\"http://www.w3.org/2000/svg\">\n  <line x1=\"20\" y1=\"35\" x2=\"380\" y2=\"35\" stroke=\"#333\" stroke-width=\"2\"/>\n  <polygon points=\"385,35 375,30 375,40\" fill=\"#333\"/>\n  <polygon points=\"15,35 25,30 25,40\" fill=\"#333\"/>\n  <line x1=\"60\" y1=\"30\" x2=\"60\" y2=\"40\" stroke=\"#333\" stroke-width=\"1.5\"/><text x=\"60\" y=\"55\" font-size=\"12\" text-anchor=\"middle\">-3</text>\n  <line x1=\"100\" y1=\"30\" x2=\"100\" y2=\"40\" stroke=\"#333\" stroke-width=\"1.5\"/><text x=\"100\" y=\"55\" font-size=\"12\" text-anchor=\"middle\">-2</text>\n  <line x1=\"140\" y1=\"30\" x2=\"140\" y2=\"40\" stroke=\"#333\" stroke-width=\"1.5\"/><text x=\"140\" y=\"55\" font-size=\"12\" text-anchor=\"middle\">-1</text>\n  <line x1=\"180\" y1=\"30\" x2=\"180\" y2=\"40\" stroke=\"#333\" stroke-width=\"1.5\"/><text x=\"180\" y=\"55\" font-size=\"12\" text-anchor=\"middle\">0</text>\n  <line x1=\"220\" y1=\"30\" x2=\"220\" y2=\"40\" stroke=\"#333\" stroke-width=\"1.5\"/><text x=\"220\" y=\"55\" font-size=\"12\" text-anchor=\"middle\">1</text>\n  <line x1=\"260\" y1=\"30\" x2=\"260\" y2=\"40\" stroke=\"#333\" stroke-width=\"1.5\"/><text x=\"260\" y=\"55\" font-size=\"12\" text-anchor=\"middle\">2</text>\n  <line x1=\"300\" y1=\"30\" x2=\"300\" y2=\"40\" stroke=\"#333\" stroke-width=\"1.5\"/><text x=\"300\" y=\"55\" font-size=\"12\" text-anchor=\"middle\">3</text>\n  <line x1=\"340\" y1=\"30\" x2=\"340\" y2=\"40\" stroke=\"#333\" stroke-width=\"1.5\"/><text x=\"340\" y=\"55\" font-size=\"12\" text-anchor=\"middle\">4</text>\n  <line x1=\"100\" y1=\"18\" x2=\"375\" y2=\"18\" stroke=\"#0284c7\" stroke-width=\"3\"/>\n  <polygon points=\"380,18 370,13 370,23\" fill=\"#0284c7\"/>\n  <circle cx=\"100\" cy=\"18\" r=\"5\" fill=\"#0284c7\"/>\n  <line x1=\"100\" y1=\"18\" x2=\"100\" y2=\"30\" stroke=\"#0284c7\" stroke-width=\"1.5\" stroke-dasharray=\"2,2\"/>\n</svg>",
+    "options": {
+      "a": "$x < -2$",
+      "b": "$x \\le -2$",
+      "c": "$x > -2$",
+      "d": "$x \\ge -2$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. The circle at $-2$ is solid/filled, indicating that $-2$ is included (represented by $\\ge$ or $\\le$).\n2. The arrow points towards the right (greater positive numbers).\n3. Hence, the inequality represents $x \\ge -2$.\n\nThus, the correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Mathematics",
+    "topic": "Linear Inequalities",
+    "question_text": "Two-thirds of a certain number is greater than $6$. Find the range of values of the number.",
+    "options": {
+      "a": "$x > 18$",
+      "b": "$x > 9$",
+      "c": "$x < 18$",
+      "d": "$x < 9$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Let the number be $x$.\n2. Set up the inequality:\n   $$\\frac{2}{3}x > 6$$\n3. Multiply both sides by $3$:\n   $$2x > 18$$\n4. Divide by $2$:\n   $$x > 9$$\n\nThus, the correct option is **b**.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Mathematics",
+    "topic": "Simultaneous Equations (Word Problems)",
+    "question_text": "The sum of two numbers is $9$ and their difference is $3$. Find the two numbers.",
+    "options": {
+      "a": "$6,\\; 2$",
+      "b": "$7,\\; 2$",
+      "c": "$8,\\; 1$",
+      "d": "$6,\\; 3$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Let the numbers be $x$ and $y$.\n2. Set up the system:\n   $$\\begin{cases} x + y = 9 \\\\ x - y = 3 \\end{cases}$$\n3. Adding both equations:\n   $$2x = 12 \\implies x = 6$$\n4. Substitute $x = 6$ into the first equation:\n   $$6 + y = 9 \\implies y = 3$$\n\nHence, the numbers are $6$ and $3$. The correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Mathematics",
+    "topic": "Simultaneous Linear Equations",
+    "question_text": "Solve the simultaneous equations:\n$$\\begin{cases} 3x + 2y = 6 \\\\ 2x + y = 4 \\end{cases}$$",
+    "options": {
+      "a": "$x = -1,\\; y = -1$",
+      "b": "$x = 0,\\; y = -1$",
+      "c": "$x = -1,\\; y = 0$",
+      "d": "$x = 2,\\; y = 0$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. From the second equation: $y = 4 - 2x$.\n2. Substitute into the first equation:\n   $$3x + 2(4 - 2x) = 6$$\n   $$3x + 8 - 4x = 6$$\n   $$-x = 6 - 8 = -2 \\implies x = 2$$\n3. Find $y$:\n   $$y = 4 - 2(2) = 0$$\n\nThus, $x = 2, y = 0$. The correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Mathematics",
+    "topic": "Algebraic Expansion & Simplification",
+    "question_text": "Simplify the expression:\n$$(x^2 - 1) - (x + 2)^2$$",
+    "options": {
+      "a": "$-(4x - 5)$",
+      "b": "$3x + 4$",
+      "c": "$4x + 1$",
+      "d": "$-(4x + 5)$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Expand $(x + 2)^2$:\n   $$(x + 2)^2 = x^2 + 4x + 4$$\n2. Subtract from $(x^2 - 1)$:\n   $$(x^2 - 1) - (x^2 + 4x + 4) = x^2 - 1 - x^2 - 4x - 4$$\n3. Combine terms:\n   $$= -4x - 5 = -(4x + 5)$$\n\nThus, the correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Mathematics",
+    "topic": "Algebraic Division",
+    "question_text": "Simplify the algebraic division:\n$$72pqr \\div (-9q)$$",
+    "options": {
+      "a": "$8pr$",
+      "b": "$8qr$",
+      "c": "$-8pr$",
+      "d": "$-8qr$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Write as a fraction:\n   $$\\frac{72pqr}{-9q}$$\n2. Divide the numerical coefficients: $\\frac{72}{-9} = -8$.\n3. Cancel the common variable $q$:\n   $$\\frac{pqr}{q} = pr$$\n4. Combine: $-8pr$.\n\nThus, the correct option is **c**.",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Mathematics",
+    "topic": "Linear Equations",
+    "question_text": "If $3$ is divided by the sum of $x$ and $1$, the result equals $3$ divided by $5$. Find the value of $x$.",
+    "options": {
+      "a": "$-2$",
+      "b": "$1$",
+      "c": "$2$",
+      "d": "$4$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Write the equation:\n   $$\\frac{3}{x + 1} = \\frac{3}{5}$$\n2. Since numerators are equal ($3 = 3$), the denominators must be equal:\n   $$x + 1 = 5$$\n3. Solve for $x$:\n   $$x = 5 - 1 = 4$$\n\nThus, the correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Mathematics",
+    "topic": "Linear Equations",
+    "question_text": "Solve the linear equation:\n$$\\frac{x + 2}{3} + 2x - 5 = 5$$",
+    "options": {
+      "a": "$4$",
+      "b": "$6$",
+      "c": "$7$",
+      "d": "$8$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Add $5$ to both sides:\n   $$\\frac{x + 2}{3} + 2x = 10$$\n2. Multiply through by $3$ to eliminate the fraction:\n   $$(x + 2) + 6x = 30$$\n3. Combine like terms:\n   $$7x + 2 = 30$$\n   $$7x = 28 \\implies x = 4$$\n\nThus, the correct option is **a**.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Mathematics",
+    "topic": "Word Problems (Age)",
+    "question_text": "Ade's age is $56\\text{ years}$ more than his son's age. If the son's age is $w\\text{ years}$, find the value of $w$ when the sum of their ages is $76\\text{ years}$.",
+    "options": {
+      "a": "$6$",
+      "b": "$7$",
+      "c": "$8$",
+      "d": "$10$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Let the son's age be $w$.\n2. Ade's age is $w + 56$.\n3. Sum of their ages:\n   $$w + (w + 56) = 76$$\n   $$2w + 56 = 76$$\n4. Solve for $w$:\n   $$2w = 76 - 56 = 20 \\implies w = 10$$\n\nThus, the correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "Mathematics",
+    "topic": "Algebraic Substitution",
+    "question_text": "If $x = 2$, $y = 6$, and $z = 4$, evaluate the expression:\n$$\\frac{4y + 2z}{x + y}$$",
+    "options": {
+      "a": "$3$",
+      "b": "$4$",
+      "c": "$5$",
+      "d": "$6$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Substitute the given values into the expression:\n   $$\\frac{4(6) + 2(4)}{2 + 6}$$\n2. Simplify numerator and denominator:\n   $$\\frac{24 + 8}{8} = \\frac{32}{8} = 4$$\n\nThus, the correct option is **b**.",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "Mathematics",
+    "topic": "Algebraic Expansion",
+    "question_text": "Expand the binomial product:\n$$(2a - 3)(1 + a)$$",
+    "options": {
+      "a": "$2a^2 - a + 3$",
+      "b": "$2a^2 - a - 3$",
+      "c": "$2a^2 + 5a + 3$",
+      "d": "$2a^2 + a - 3$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Expand using the distributive property:\n   $$(2a - 3)(1 + a) = 2a(1 + a) - 3(1 + a)$$\n   $$= 2a + 2a^2 - 3 - 3a$$\n2. Rearrange and collect like terms:\n   $$= 2a^2 - a - 3$$\n\nThus, the correct option is **b**.",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "Mathematics",
+    "topic": "Linear Equations (Fractions)",
+    "question_text": "Solve the equation:\n$$\\frac{1}{p + 2} = \\frac{8}{3p + 1}$$",
+    "options": {
+      "a": "$-5$",
+      "b": "$-3$",
+      "c": "$3$",
+      "d": "$5$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Cross-multiply:\n   $$1(3p + 1) = 8(p + 2)$$\n2. Expand both sides:\n   $$3p + 1 = 8p + 16$$\n3. Group like terms:\n   $$1 - 16 = 8p - 3p$$\n   $$-15 = 5p \\implies p = -3$$\n\nThus, the correct option is **b**.",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "Mathematics",
+    "topic": "Linear Equations",
+    "question_text": "Find the value of $x$ if:\n$$3x + 5 = 4x - 7$$",
+    "options": {
+      "a": "$-12$",
+      "b": "$-2$",
+      "c": "$0$",
+      "d": "$12$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Rearrange to collect terms in $x$ on one side:\n   $$5 + 7 = 4x - 3x$$\n   $$12 = x \\implies x = 12$$\n\nThus, the correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "Mathematics",
+    "topic": "Difference of Two Squares",
+    "question_text": "Factorize completely:\n$$16a^2 - 9b^2$$",
+    "options": {
+      "a": "$(4a + 3b)(4a + 3b)$",
+      "b": "$(4a + 3b)(4a - 3b)$",
+      "c": "$(4b + 3a)(4b - 3a)$",
+      "d": "$(4a - 3b)(4a - 3b)$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Recognize the difference of two squares $A^2 - B^2 = (A + B)(A - B)$:\n   $$16a^2 = (4a)^2, \\quad 9b^2 = (3b)^2$$\n2. Factorize:\n   $$(4a)^2 - (3b)^2 = (4a + 3b)(4a - 3b)$$\n\nThus, the correct option is **b**.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "Mathematics",
+    "topic": "Expansion & Coefficients",
+    "question_text": "Find the coefficient of $xy$ in the expansion of:\n$$(3x + 2y)(5x - 3y)$$",
+    "options": {
+      "a": "$9$",
+      "b": "$-6$",
+      "c": "$1$",
+      "d": "$10$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Expand the product:\n   $$(3x + 2y)(5x - 3y) = 3x(5x - 3y) + 2y(5x - 3y)$$\n   $$= 15x^2 - 9xy + 10xy - 6y^2$$\n2. Combine the $xy$ terms:\n   $$-9xy + 10xy = +1xy$$\n3. The coefficient of $xy$ is $1$.\n\nThus, the correct option is **c**.",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "Mathematics",
+    "topic": "Algebraic Fractions",
+    "question_text": "Express as a single fraction in its simplest form:\n$$\\frac{3}{y} - \\frac{5}{y} + 2$$",
+    "options": {
+      "a": "$\\frac{2(y - 1)}{y}$",
+      "b": "$\\frac{2(y + 1)}{y}$",
+      "c": "$\\frac{2(1 - y)}{y}$",
+      "d": "$\\frac{3(y - 1)}{y}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Combine the fractions with denominator $y$:\n   $$\\frac{3 - 5}{y} + 2 = \\frac{-2}{y} + 2$$\n2. Express with a common denominator $y$:\n   $$\\frac{-2 + 2y}{y} = \\frac{2y - 2}{y}$$\n3. Factor the numerator:\n   $$\\frac{2(y - 1)}{y}$$\n\nThus, the correct option is **a**.",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "Mathematics",
+    "topic": "Algebraic Fractions",
+    "question_text": "Simplify the sum of fractions:\n$$\\frac{x + 3}{3} + \\frac{x - 3}{4}$$",
+    "options": {
+      "a": "$\\frac{7 - 3x}{4}$",
+      "b": "$\\frac{7x - 3}{4}$",
+      "c": "$\\frac{7x + 3}{4}$",
+      "d": "$\\frac{7x + 3}{12}$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Find the LCD of $3$ and $4$, which is $12$.\n2. Combine over the common denominator:\n   $$\\frac{4(x + 3) + 3(x - 3)}{12}$$\n3. Expand and simplify numerator:\n   $$\\frac{4x + 12 + 3x - 9}{12} = \\frac{7x + 3}{12}$$\n\nThus, the correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "Mathematics",
+    "topic": "Word Problems (Fractions & Money)",
+    "question_text": "If $\\frac{3}{8}$ of Olu's monthly savings is $\\text{₦}24{,}000.00$, find his total monthly savings.",
+    "options": {
+      "a": "$\\text{₦}7{,}200.00$",
+      "b": "$\\text{₦}9{,}000.00$",
+      "c": "$\\text{₦}5{,}200.00$",
+      "d": "$\\text{₦}64{,}000.00$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Let Olu's total monthly savings be $S$.\n2. Set up the equation:\n   $$\\frac{3}{8}S = 24{,}000$$\n3. Solve for $S$:\n   $$S = 24{,}000 \\times \\frac{8}{3} = 8{,}000 \\times 8 = \\text{₦}64{,}000.00$$\n\nThus, the correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "Mathematics",
+    "topic": "Expansion & Coefficients",
+    "question_text": "Find the coefficient of $x$ in the expansion of:\n$$(2x + 1)(1 - 2x)$$",
+    "options": {
+      "a": "$-2$",
+      "b": "$-1$",
+      "c": "$0$",
+      "d": "$1$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Expand the expression:\n   $$(2x + 1)(1 - 2x) = 2x(1 - 2x) + 1(1 - 2x)$$\n   $$= 2x - 4x^2 + 1 - 2x$$\n2. Combine like terms:\n   $$= -4x^2 + (2x - 2x) + 1 = -4x^2 + 0x + 1$$\n3. The coefficient of $x$ is $0$.\n\nThus, the correct option is **c**.",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "Mathematics",
+    "topic": "Algebraic Substitution",
+    "question_text": "Evaluate the algebraic expression when $x = 2$:\n$$\\frac{2x - 2}{2} + \\frac{2x + 2}{3}$$",
+    "options": {
+      "a": "$1$",
+      "b": "$2$",
+      "c": "$3$",
+      "d": "$4$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Substitute $x = 2$ into the expression:\n   $$\\frac{2(2) - 2}{2} + \\frac{2(2) + 2}{3}$$\n2. Simplify each term:\n   $$\\frac{4 - 2}{2} + \\frac{4 + 2}{3} = \\frac{2}{2} + \\frac{6}{3} = 1 + 2 = 3$$\n\nThus, the correct option is **c**.",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "Mathematics",
+    "topic": "Linear Inequalities",
+    "question_text": "Solve for $x$ in the inequality:\n$$2x - 5 > 7$$",
+    "options": {
+      "a": "$x < -6$",
+      "b": "$x > -6$",
+      "c": "$x < 1$",
+      "d": "$x > 6$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Add $5$ to both sides:\n   $$2x > 7 + 5$$\n   $$2x > 12$$\n2. Divide by $2$:\n   $$x > 6$$\n\nThus, the correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "Mathematics",
+    "topic": "Linear Inequalities",
+    "question_text": "Two-fifths of a certain number is greater than $8$. Find the range of values of the number.",
+    "options": {
+      "a": "$x \\ge 40$",
+      "b": "$x > 20$",
+      "c": "$x > 10$",
+      "d": "$x > 40$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Let the number be $x$.\n2. Set up the inequality:\n   $$\\frac{2}{5}x > 8$$\n3. Multiply both sides by $5$:\n   $$2x > 40$$\n4. Divide by $2$:\n   $$x > 20$$\n\nThus, the correct option is **b**.",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "Mathematics",
+    "topic": "Linear Inequalities",
+    "question_text": "If a certain number $y$ is tripled, the result is less than $18$. Find the range of values of the number.",
+    "options": {
+      "a": "$y < 18$",
+      "b": "$y < 12$",
+      "c": "$y < 6$",
+      "d": "$y < 3$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Write the inequality:\n   $$3y < 18$$\n2. Divide both sides by $3$:\n   $$y < 6$$\n\nThus, the correct option is **c**.",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "Mathematics",
+    "topic": "Linear Equations (Fractions)",
+    "question_text": "Solve the rational equation:\n$$\\frac{1}{z - 1} = \\frac{5}{4z + 1}$$",
+    "options": {
+      "a": "$-6$",
+      "b": "$-5$",
+      "c": "$4$",
+      "d": "$6$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Cross-multiply:\n   $$1(4z + 1) = 5(z - 1)$$\n2. Expand both sides:\n   $$4z + 1 = 5z - 5$$\n3. Rearrange to isolate $z$:\n   $$1 + 5 = 5z - 4z \\implies z = 6$$\n\nThus, the correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "Mathematics",
+    "topic": "Word Problems (Linear Equations)",
+    "question_text": "A certain number of boys were to share $160$ oranges equally. If $5$ boys left and each of the remaining boys received $8$ oranges, how many boys were present originally?",
+    "options": {
+      "a": "$20$",
+      "b": "$25$",
+      "c": "$32$",
+      "d": "$40$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Let the original number of boys be $x$.\n2. After $5$ boys leave, the number of boys remaining is $x - 5$.\n3. Formulate the equation:\n   $$8(x - 5) = 160$$\n4. Solve for $x$:\n   $$x - 5 = \\frac{160}{8} = 20$$\n   $$x = 20 + 5 = 25$$\n\nThus, there were originally $25$ boys. The correct option is **b**.",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "Mathematics",
+    "topic": "Direct Variation",
+    "question_text": "If $x$ varies directly as $y$, and $x = 2$ when $y = 3$, find the formula connecting $x$ and $y$.",
+    "options": {
+      "a": "$x = 6y$",
+      "b": "$x = 2y$",
+      "c": "$x = \\frac{2y}{3}$",
+      "d": "$x = \\frac{2}{3y}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Since $x \\propto y$, we have $x = ky$ where $k$ is the constant of variation.\n2. Substitute $x = 2$ and $y = 3$ to find $k$:\n   $$2 = k(3) \\implies k = \\frac{2}{3}$$\n3. Write the formula:\n   $$x = \\frac{2}{3}y = \\frac{2y}{3}$$\n\nThus, the correct option is **c**.",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "Mathematics",
+    "topic": "Simultaneous Equations (Word Problems)",
+    "question_text": "Three pens and five rulers cost $\\text{₦}65.00$, while three pens and one ruler cost $\\text{₦}25.00$. Find the unit cost of a pen and a ruler respectively.",
+    "options": {
+      "a": "$\\text{₦}3.00,\\; \\text{₦}3.00$",
+      "b": "$\\text{₦}3.00,\\; \\text{₦}5.00$",
+      "c": "$\\text{₦}3.00,\\; \\text{₦}10.00$",
+      "d": "$\\text{₦}5.00,\\; \\text{₦}10.00$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "**Step-by-step Solution:**\n\n1. Let the cost of a pen be $p$ and a ruler be $r$.\n2. Set up the equations:\n   $$\\begin{cases} 3p + 5r = 65 \\quad \\text{--- (1)} \\\\ 3p + r = 25 \\quad \\text{--- (2)} \\end{cases}$$\n3. Subtract (2) from (1):\n   $$4r = 40 \\implies r = \\text{₦}10.00$$\n4. Substitute $r = 10$ into (2):\n   $$3p + 10 = 25 \\implies 3p = 15 \\implies p = \\text{₦}5.00$$\n\nHence, a pen costs $\\text{₦}5.00$ and a ruler costs $\\text{₦}10.00$. The correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "Mathematics",
+    "topic": "Algebraic Factorization",
+    "question_text": "Factorize the expression:\n$$5a(a - b) - 2a(a - b)$$",
+    "options": {
+      "a": "$a(3a + 7a)$",
+      "b": "$a(3a - 7a)$",
+      "c": "$b(3a - 7b)$",
+      "d": "$3a(a - b)$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Factor out the common term $a(a - b)$ or group like terms:\n   $$5a(a - b) - 2a(a - b) = (5a - 2a)(a - b)$$\n2. Simplify $(5a - 2a)$:\n   $$= 3a(a - b)$$\n\nThus, the correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "Mathematics",
+    "topic": "Algebraic Substitution",
+    "question_text": "Find the value of $\\frac{3c}{b} - a$ if $a = 8$, $b = 3$, and $c = 9$.",
+    "options": {
+      "a": "$-8$",
+      "b": "$-7$",
+      "c": "$-2$",
+      "d": "$1$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Substitute the given values into the expression:\n   $$\\frac{3(9)}{3} - 8$$\n2. Simplify:\n   $$9 - 8 = 1$$\n\nThus, the correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "Mathematics",
+    "topic": "Statistics - Terminology",
+    "question_text": "The branch of Mathematics that deals with the collection, organization, analysis, and interpretation of data is known as ________.",
+    "options": {
+      "a": "algebra",
+      "b": "calculus",
+      "c": "mensuration",
+      "d": "statistics"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Definition:**\n\n> **Statistics** is the branch of mathematics that deals with the collection, presentation, analysis, and interpretation of numerical data.\n\nThus, the correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "Mathematics",
+    "topic": "Statistics - Range",
+    "question_text": "In a class, the youngest student is $12\\text{ years}$ old while the oldest is $x\\text{ years}$ old. If the age range is $7\\text{ years}$, find the value of $x$.",
+    "options": {
+      "a": "$5$",
+      "b": "$7$",
+      "c": "$12$",
+      "d": "$19$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Recall the formula for range:\n   $$\\text{Range} = \\text{Maximum value} - \\text{Minimum value}$$\n2. Substitute given values:\n   $$7 = x - 12$$\n3. Solve for $x$:\n   $$x = 12 + 7 = 19$$\n\nThus, the oldest student is $19\\text{ years}$ old. The correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "Mathematics",
+    "topic": "Statistics - Mean",
+    "question_text": "Find the arithmetic mean of the following set of scores:\n$$24,\\; 18,\\; 40,\\; 22,\\; 31$$",
+    "options": {
+      "a": "$10$",
+      "b": "$12$",
+      "c": "$14$",
+      "d": "$27$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Sum all the scores:\n   $$\\sum x = 24 + 18 + 40 + 22 + 31 = 135$$\n2. Divide by the total number of scores ($n = 5$):\n   $$\\bar{x} = \\frac{135}{5} = 27$$\n\nThus, the correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 46,
+    "subject": "Mathematics",
+    "topic": "Statistics - Median",
+    "question_text": "Find the median of the following set of numbers:\n$$48,\\; 58,\\; 65,\\; 43,\\; 60,\\; 53,\\; 68,\\; 57,\\; 61,\\; 47,\\; 45$$",
+    "options": {
+      "a": "$22$",
+      "b": "$43$",
+      "c": "$48$",
+      "d": "$57$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Arrange the $11$ numbers in ascending order:\n   $$43,\\; 45,\\; 47,\\; 48,\\; 53,\\; \\mathbf{57},\\; 58,\\; 60,\\; 61,\\; 65,\\; 68$$\n2. The median is the $\\frac{n + 1}{2} = \\frac{11 + 1}{2} = 6^{\\text{th}}$ value.\n3. The $6^{\\text{th}}$ value is $57$.\n\nThus, the correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 47,
+    "subject": "Mathematics",
+    "topic": "Statistics - Mode",
+    "question_text": "The data below shows the weight in $\\text{kg}$ of $20$ students:\n$$70,\\; 50,\\; 70,\\; 50,\\; 40,\\; 58,\\; 47,\\; 59,\\; 50,\\; 50,\\; 58,\\; 70,\\; 56,\\; 55,\\; 50,\\; 50,\\; 40,\\; 37,\\; 50,\\; 80$$\n\nFind the modal weight.",
+    "options": {
+      "a": "$40\\text{ kg}$",
+      "b": "$50\\text{ kg}$",
+      "c": "$60\\text{ kg}$",
+      "d": "$70\\text{ kg}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Count the frequency of each weight:\n   - $37$: $1$\n   - $40$: $2$\n   - $47$: $1$\n   - **$50$**: **$7$**\n   - $55$: $1$\n   - $56$: $1$\n   - $58$: $2$\n   - $59$: $1$\n   - $70$: $3$\n   - $80$: $1$\n2. The weight $50\\text{ kg}$ has the highest frequency ($7$ times).\n\nThus, the mode is $50\\text{ kg}$. The correct option is **b**.",
+    "section_id": null
+  },
+  {
+    "question_number": 48,
+    "subject": "Mathematics",
+    "topic": "Statistics - Mean",
+    "question_text": "If $9$ is the mean of the set of numbers $1, 2, x, 11, 13, 14$, find the value of $x$.",
+    "options": {
+      "a": "$5$",
+      "b": "$7$",
+      "c": "$9$",
+      "d": "$13$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Use the mean formula for $n = 6$ values:\n   $$\\frac{1 + 2 + x + 11 + 13 + 14}{6} = 9$$\n2. Simplify numerator:\n   $$\\frac{x + 41}{6} = 9$$\n3. Cross-multiply:\n   $$x + 41 = 54 \\implies x = 54 - 41 = 13$$\n\nThus, the correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 49,
+    "subject": "Mathematics",
+    "topic": "Statistics - Median",
+    "question_text": "The scores of students in a class test are: $2, 3, 4, 5, 6, 3, 4, 5$. Find the median score.",
+    "options": {
+      "a": "$2$",
+      "b": "$3$",
+      "c": "$4$",
+      "d": "$5$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Arrange the $8$ numbers in ascending order:\n   $$2,\\; 3,\\; 3,\\; \\mathbf{4},\\; \\mathbf{4},\\; 5,\\; 5,\\; 6$$\n2. Since $n = 8$ is even, find the average of the $4^{\\text{th}}$ and $5^{\\text{th}}$ values:\n   $$\\text{Median} = \\frac{4 + 4}{2} = 4$$\n\nThus, the correct option is **c**.",
+    "section_id": null
+  },
+  {
+    "question_number": 50,
+    "subject": "Mathematics",
+    "topic": "Pie Charts",
+    "question_text": "The pie chart represents the distribution of $600$ students into five houses in a sports competition: **Yellow** ($72^\\circ$), **Red** ($84^\\circ$), **White** ($36^\\circ$), **Green** ($108^\\circ$), and **Blue**.\n\nCalculate the sectorial angle for **Blue house**.",
+    "options": {
+      "a": "$36^\\circ$",
+      "b": "$42^\\circ$",
+      "c": "$45^\\circ$",
+      "d": "$60^\\circ$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. The sum of all angles in a circle is $360^\\circ$.\n2. Add the known sectorial angles:\n   $$72^\\circ + 84^\\circ + 36^\\circ + 108^\\circ = 300^\\circ$$\n3. Subtract from $360^\\circ$:\n   $$\\text{Angle for Blue house} = 360^\\circ - 300^\\circ = 60^\\circ$$\n\nThus, the correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 51,
+    "subject": "Mathematics",
+    "topic": "Pie Charts",
+    "question_text": "Using the pie chart from the previous question representing a total of $600$ students, find the number of students in **Yellow house** (sector angle $= 72^\\circ$).",
+    "options": {
+      "a": "$100$",
+      "b": "$120$",
+      "c": "$140$",
+      "d": "$180$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Use the sectorial proportion formula:\n   $$\\text{Number of students} = \\frac{\\text{Angle}}{360^\\circ} \\times \\text{Total students}$$\n2. Calculate for Yellow house:\n   $$= \\frac{72^\\circ}{360^\\circ} \\times 600 = \\frac{1}{5} \\times 600 = 120$$\n\nThus, the correct option is **b**.",
+    "section_id": null
+  },
+  {
+    "question_number": 52,
+    "subject": "Mathematics",
+    "topic": "Pie Charts",
+    "question_text": "Using the same pie chart, what fraction of the total students are in **White house** (sector angle $= 36^\\circ$)?",
+    "options": {
+      "a": "$\\frac{1}{10}$",
+      "b": "$\\frac{1}{6}$",
+      "c": "$\\frac{1}{5}$",
+      "d": "$\\frac{3}{10}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Fraction of students in White house:\n   $$\\text{Fraction} = \\frac{36^\\circ}{360^\\circ} = \\frac{1}{10}$$\n\nThus, the correct option is **a**.",
+    "section_id": null
+  },
+  {
+    "question_number": 53,
+    "subject": "Mathematics",
+    "topic": "Statistics - Mode",
+    "question_text": "Use the frequency table below to answer the question:\n\n| Score ($x$) | $0$ | $1$ | $2$ | $3$ | $4$ | $5$ |\n| :--- | :---: | :---: | :---: | :---: | :---: | :---: |\n| Frequency ($f$) | $2$ | $4$ | $3$ | $3$ | $6$ | $2$ |\n\nCalculate the **mode** of the scores.",
+    "options": {
+      "a": "$1$",
+      "b": "$2$",
+      "c": "$3$",
+      "d": "$4$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. The mode is the score with the highest frequency.\n2. The highest frequency is $6$, which corresponds to the score of $4$.\n\nThus, the mode is $4$. The correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 54,
+    "subject": "Mathematics",
+    "topic": "Statistics - Median",
+    "question_text": "Using the frequency table from the previous question:\n\n| Score ($x$) | $0$ | $1$ | $2$ | $3$ | $4$ | $5$ |\n| :--- | :---: | :---: | :---: | :---: | :---: | :---: |\n| Frequency ($f$) | $2$ | $4$ | $3$ | $3$ | $6$ | $2$ |\n\nFind the **median** score.",
+    "options": {
+      "a": "$2$",
+      "b": "$3$",
+      "c": "$4$",
+      "d": "$5$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Step-by-step Solution:**\n\n1. Find cumulative frequencies:\n   - Score $0$: $cf = 2$\n   - Score $1$: $cf = 2 + 4 = 6$\n   - Score $2$: $cf = 6 + 3 = 9$\n   - Score $3$: $cf = 9 + 3 = 12$\n   - Score $4$: $cf = 12 + 6 = 18$\n   - Score $5$: $cf = 18 + 2 = 20$\n2. Total frequency $N = 20$. The median is the average of the $10^{\\text{th}}$ and $11^{\\text{th}}$ values.\n3. Both the $10^{\\text{th}}$ and $11^{\\text{th}}$ values fall in the cumulative group for score $3$ (which covers items $10$ through $12$).\n\nThus, the median is $3$. The correct option is **b**.",
+    "section_id": null
+  },
+  {
+    "question_number": 55,
+    "subject": "Mathematics",
+    "topic": "Probability",
+    "question_text": "The probability that it will rain in Minna today is $\\frac{1}{5}$. What is the probability that it will **not** rain?",
+    "options": {
+      "a": "$1$",
+      "b": "$\\frac{4}{5}$",
+      "c": "$\\frac{3}{5}$",
+      "d": "$\\frac{2}{5}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. The sum of the probability of an event and its complement is $1$:\n   $$P(\\text{not rain}) = 1 - P(\\text{rain})$$\n2. Calculate:\n   $$P(\\text{not rain}) = 1 - \\frac{1}{5} = \\frac{4}{5}$$\n\nThus, the correct option is **b**.",
+    "section_id": null
+  },
+  {
+    "question_number": 56,
+    "subject": "Mathematics",
+    "topic": "Probability",
+    "question_text": "What is the probability of getting a $2$ when a fair six-sided die is thrown once?",
+    "options": {
+      "a": "$\\frac{1}{6}$",
+      "b": "$\\frac{1}{3}$",
+      "c": "$\\frac{1}{2}$",
+      "d": "$\\frac{5}{6}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Total possible outcomes when throwing a fair die: $\\{1, 2, 3, 4, 5, 6\\}$, so $n(S) = 6$.\n2. Favourable outcome for getting a $2$: $\\{2\\}$, so $n(E) = 1$.\n3. Probability:\n   $$P(2) = \\frac{n(E)}{n(S)} = \\frac{1}{6}$$\n\nThus, the correct option is **a**.",
+    "section_id": null
+  },
+  {
+    "question_number": 57,
+    "subject": "Mathematics",
+    "topic": "Probability",
+    "question_text": "A fair six-sided die is thrown once. Find the probability of obtaining an **even number**.",
+    "options": {
+      "a": "$0$",
+      "b": "$\\frac{1}{4}$",
+      "c": "$\\frac{1}{2}$",
+      "d": "$1$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Total sample space $S = \\{1, 2, 3, 4, 5, 6\\} \\implies n(S) = 6$.\n2. Even numbers in the sample space: $E = \\{2, 4, 6\\} \\implies n(E) = 3$.\n3. Probability:\n   $$P(\\text{even}) = \\frac{3}{6} = \\frac{1}{2}$$\n\nThus, the correct option is **c**.",
+    "section_id": null
+  },
+  {
+    "question_number": 58,
+    "subject": "Mathematics",
+    "topic": "Probability",
+    "question_text": "A bag contains $20$ red balls and no balls of any other colour. If a child picks one ball at random, determine the probability of picking a **red ball**.",
+    "options": {
+      "a": "$1$",
+      "b": "$\\frac{2}{3}$",
+      "c": "$\\frac{1}{2}$",
+      "d": "$\\frac{1}{4}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Total number of balls $= 20$.\n2. Number of red balls $= 20$.\n3. Probability of picking a red ball:\n   $$P(\\text{red}) = \\frac{20}{20} = 1$$\n\nThis is a certain event. Thus, the correct option is **a**.",
+    "section_id": null
+  },
+  {
+    "question_number": 59,
+    "subject": "Mathematics",
+    "topic": "Probability",
+    "question_text": "Using the same bag containing only $20$ red balls, find the probability of picking a **black ball**.",
+    "options": {
+      "a": "$1$",
+      "b": "$\\frac{3}{4}$",
+      "c": "$\\frac{1}{2}$",
+      "d": "$0$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. Total number of balls $= 20$.\n2. Number of black balls $= 0$.\n3. Probability:\n   $$P(\\text{black}) = \\frac{0}{20} = 0$$\n\nThis is an impossible event. Thus, the correct option is **d**.",
+    "section_id": null
+  },
+  {
+    "question_number": 60,
+    "subject": "Mathematics",
+    "topic": "Pie Charts",
+    "question_text": "In a pie chart, four fruits are represented: orange, mango, apple, and banana. If the sectorial angles of orange, mango, and apple are $120^\\circ$, $90^\\circ$, and $100^\\circ$ respectively, find the sectorial angle of **banana**.",
+    "options": {
+      "a": "$20^\\circ$",
+      "b": "$30^\\circ$",
+      "c": "$50^\\circ$",
+      "d": "$80^\\circ$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Step-by-step Solution:**\n\n1. The total angle of a pie chart is $360^\\circ$.\n2. Sum the angles of orange, mango, and apple:\n   $$120^\\circ + 90^\\circ + 100^\\circ = 310^\\circ$$\n3. Find the angle for banana:\n   $$\\text{Angle} = 360^\\circ - 310^\\circ = 50^\\circ$$\n\nThus, the correct option is **c**.",
+    "section_id": null
+  }
+]

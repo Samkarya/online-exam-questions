@@ -588,6 +588,20 @@
     "suitePath": "configs/bece.json"
   },
   {
+    "id": "bece_2023_mathematics_paper1",
+    "title": "BECE 2023 Mathematics Past Question (Paper 1)",
+    "short_description": "60-question BECE 2023 Mathematics past question paper covering number & numeration, mensuration, geometry, and trigonometry, with full step-by-step solutions.",
+    "path": "nigeria/BECE/mathematics/bece2023MathematicsPaper1.json",
+    "suitePath": "configs/bece.json"
+  },
+  {
+    "id": "bece_2023_mathematics_paper2",
+    "title": "BECE 2023 Mathematics Past Question (Paper 2)",
+    "short_description": "60-question BECE 2023 Mathematics past question paper covering algebraic processes, linear equations, statistics, and probability, with full step-by-step solutions.",
+    "path": "nigeria/BECE/mathematics/bece2023MathematicsPaper2.json",
+    "suitePath": "configs/bece.json"
+  },
+  {
     "id": "hosa_nutrition_physiology",
     "title": "HOSA Nutrition: Nutritional Physiology",
     "short_description": "Contains 48 Questions",

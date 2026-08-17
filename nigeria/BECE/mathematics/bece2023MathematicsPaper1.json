@@ -1,0 +1,962 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Mathematics",
+    "topic": "Indices and Powers",
+    "question_text": "What is the square of $30$?",
+    "options": {
+      "a": "$60$",
+      "b": "$90$",
+      "c": "$270$",
+      "d": "$900$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "The square of a number is obtained by multiplying the number by itself:\n$$30^2 = 30 \\times 30 = 900$$",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Mathematics",
+    "topic": "Square Roots",
+    "question_text": "Find the square root of $\\frac{75}{300}$.",
+    "options": {
+      "a": "$\\frac{1}{2}$",
+      "b": "$\\frac{1}{5}$",
+      "c": "$2$",
+      "d": "$4$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "First, simplify the fraction inside the square root:\n$$\\frac{75}{300} = \\frac{1}{4}$$\nTaking the square root:\n$$\\sqrt{\\frac{1}{4}} = \\frac{1}{2}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Mathematics",
+    "topic": "Standard Form",
+    "question_text": "Express $61782$ in standard form.",
+    "options": {
+      "a": "$6.1782 \\times 10^{-4}$",
+      "b": "$6.1782 \\times 10^{-2}$",
+      "c": "$6.1782 \\times 10^{6}$",
+      "d": "$6.1782 \\times 10^{4}$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Standard form is written as $A \\times 10^n$, where $1 \\le A < 10$ and $n$ is an integer.\n$$61782 = 6.1782 \\times 10^4$$",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Mathematics",
+    "topic": "Significant Figures",
+    "question_text": "Express $0.0030752$ to three significant figures.",
+    "options": {
+      "a": "$0.003$",
+      "b": "$0.003075$",
+      "c": "$0.00308$",
+      "d": "$0.0031$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Leading zeros are not significant. The first three significant figures are $3$, $0$, and $7$. The next digit is $5$, which rounds $7$ up to $8$:\n$$0.0030752 \\approx 0.00308$$",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Mathematics",
+    "topic": "Fractions",
+    "question_text": "Simplify $\\frac{7}{13} \\div \\frac{3}{4}$.",
+    "options": {
+      "a": "$\\frac{39}{28}$",
+      "b": "$\\frac{28}{39}$",
+      "c": "$\\frac{21}{52}$",
+      "d": "$\\frac{52}{28}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Dividing by a fraction is equivalent to multiplying by its reciprocal:\n$$\\frac{7}{13} \\div \\frac{3}{4} = \\frac{7}{13} \\times \\frac{4}{3} = \\frac{28}{39}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Mathematics",
+    "topic": "Fractions",
+    "question_text": "Simplify $\\frac{2}{3} + \\frac{1}{5}$.",
+    "options": {
+      "a": "$\\frac{13}{15}$",
+      "b": "$\\frac{15}{13}$",
+      "c": "$\\frac{17}{15}$",
+      "d": "$\\frac{10}{15}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Find the lowest common denominator (LCM of $3$ and $5$ is $15$):\n$$\\frac{2}{3} + \\frac{1}{5} = \\frac{10 + 3}{15} = \\frac{13}{15}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Mathematics",
+    "topic": "Prime Factorization",
+    "question_text": "Express $108$ as a product of its prime factors.",
+    "options": {
+      "a": "$2 \\times 3$",
+      "b": "$2^2 \\times 3^3$",
+      "c": "$2^3 \\times 2^2$",
+      "d": "$2 \\times 3^3$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Prime factorizing $108$:\n$$108 = 2 \\times 54 = 2 \\times 2 \\times 27 = 2^2 \\times 3^3$$",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Mathematics",
+    "topic": "Fractions",
+    "question_text": "Convert $9\\frac{1}{7}$ to an improper fraction.",
+    "options": {
+      "a": "$\\frac{9}{7}$",
+      "b": "$\\frac{10}{7}$",
+      "c": "$\\frac{17}{7}$",
+      "d": "$\\frac{64}{7}$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "To convert a mixed fraction $a\\frac{b}{c}$ to an improper fraction:\n$$9\\frac{1}{7} = \\frac{9 \\times 7 + 1}{7} = \\frac{63 + 1}{7} = \\frac{64}{7}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Mathematics",
+    "topic": "Basic Arithmetic",
+    "question_text": "Divide $100$ by the positive difference between $65$ and $75$.",
+    "options": {
+      "a": "$5$",
+      "b": "$10$",
+      "c": "$15$",
+      "d": "$20$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The positive difference between $65$ and $75$ is:\n$$75 - 65 = 10$$\nDividing $100$ by $10$:\n$$\\frac{100}{10} = 10$$",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Mathematics",
+    "topic": "Number Bases",
+    "question_text": "Express $46_{\\text{eight}}$ as a denary number.",
+    "options": {
+      "a": "$30$",
+      "b": "$38$",
+      "c": "$42$",
+      "d": "$48$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Convert from base $8$ to base $10$:\n$$46_8 = (4 \\times 8^1) + (6 \\times 8^0) = 32 + 6 = 38$$",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Mathematics",
+    "topic": "Percentages",
+    "question_text": "If $30\\%$ of a number is $900$, find the number.",
+    "options": {
+      "a": "$630$",
+      "b": "$900$",
+      "c": "$2,100$",
+      "d": "$3,000$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Let the number be $x$:\n$$\\frac{30}{100} \\times x = 900$$\n$$x = \\frac{900 \\times 100}{30} = 3000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Mathematics",
+    "topic": "Fractions",
+    "question_text": "Simplify $2\\frac{2}{5} \\times 1\\frac{1}{4}$.",
+    "options": {
+      "a": "$7$",
+      "b": "$6$",
+      "c": "$5$",
+      "d": "$3$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Convert to improper fractions first:\n$$2\\frac{2}{5} = \\frac{12}{5}, \\quad 1\\frac{1}{4} = \\frac{5}{4}$$\nMultiply the fractions:\n$$\\frac{12}{5} \\times \\frac{5}{4} = \\frac{60}{20} = 3$$",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Mathematics",
+    "topic": "Decimals and Fractions",
+    "question_text": "Express $0.24$ in the form $\\frac{p}{q}$ in its lowest terms.",
+    "options": {
+      "a": "$\\frac{1}{25}$",
+      "b": "$\\frac{1}{24}$",
+      "c": "$\\frac{4}{25}$",
+      "d": "$\\frac{6}{25}$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Express as a fraction and divide numerator and denominator by $4$:\n$$0.24 = \\frac{24}{100} = \\frac{6}{25}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Mathematics",
+    "topic": "HCF and LCM",
+    "question_text": "Find the H.C.F of $224$ and $168$.",
+    "options": {
+      "a": "$20$",
+      "b": "$44$",
+      "c": "$54$",
+      "d": "$56$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Prime factorize both numbers:\n$$224 = 2^5 \\times 7$$\n$$168 = 2^3 \\times 3 \\times 7$$\n$$\\text{HCF} = 2^3 \\times 7 = 8 \\times 7 = 56$$",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Mathematics",
+    "topic": "HCF and LCM",
+    "question_text": "Determine the L.C.M of $12, 24$ and $36$.",
+    "options": {
+      "a": "$10$",
+      "b": "$12$",
+      "c": "$26$",
+      "d": "$72$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Prime factorize each number:\n$$12 = 2^2 \\times 3$$\n$$24 = 2^3 \\times 3$$\n$$36 = 2^2 \\times 3^2$$\n$$\\text{LCM} = 2^3 \\times 3^2 = 8 \\times 9 = 72$$",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Mathematics",
+    "topic": "Number Bases",
+    "question_text": "Subtract $1101_{\\text{two}}$ from $11011_{\\text{two}}$.",
+    "options": {
+      "a": "$10_{\\text{two}}$",
+      "b": "$11_{\\text{two}}$",
+      "c": "$110_{\\text{two}}$",
+      "d": "$1110_{\\text{two}}$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Performing binary subtraction:\n$$\\begin{matrix} & 1 & 1 & 0 & 1 & 1_2 \\\\ - & & 1 & 1 & 0 & 1_2 \\\\ \\hline & 0 & 1 & 1 & 1 & 0_2 \\end{matrix}$$\nIn denary: $27 - 13 = 14 = 1110_2$.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Mathematics",
+    "topic": "Number Bases",
+    "question_text": "Find the product of $10_{\\text{two}}$ and $11_{\\text{two}}$.",
+    "options": {
+      "a": "$100_{\\text{two}}$",
+      "b": "$101_{\\text{two}}$",
+      "c": "$110_{\\text{two}}$",
+      "d": "$111_{\\text{two}}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "In denary:\n$$10_2 = 2, \\quad 11_2 = 3$$\n$$2 \\times 3 = 6$$\nConverting $6$ to base $2$ gives $110_2$.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Mathematics",
+    "topic": "Reciprocals",
+    "question_text": "Find the reciprocal of $0.65$, correct to three significant figures.",
+    "options": {
+      "a": "$1.52$",
+      "b": "$1.53$",
+      "c": "$1.54$",
+      "d": "$1.538$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "The reciprocal of $0.65$ is:\n$$\\frac{1}{0.65} = \\frac{100}{65} \\approx 1.53846 \\approx 1.538$$",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Mathematics",
+    "topic": "Inverse Proportion",
+    "question_text": "If $6$ men can do a job in $4$ days, how many days will it take $8$ men to do the same job if they work at the same rate?",
+    "options": {
+      "a": "$2$",
+      "b": "$3$",
+      "c": "$4$",
+      "d": "$6$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Total work required = $6 \\times 4 = 24\\text{ man-days}$.\nTime required for $8$ men:\n$$\\text{Days} = \\frac{24}{8} = 3\\text{ days}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Mathematics",
+    "topic": "Ratio",
+    "question_text": "The ratio of boys to girls in a mixed school is $4:5$. If there are $375$ girls in the school, how many are boys?",
+    "options": {
+      "a": "$275$",
+      "b": "$300$",
+      "c": "$325$",
+      "d": "$375$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Given $\\frac{\\text{Boys}}{\\text{Girls}} = \\frac{4}{5}$:\n$$\\text{Boys} = \\frac{4}{5} \\times 375 = 4 \\times 75 = 300$$",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Mathematics",
+    "topic": "Simple Interest",
+    "question_text": "At what rate per annum will $\\text{₦}1,600$ give $\\text{₦}400.00$ as simple interest in $2$ years?",
+    "options": {
+      "a": "$5.5\\%$",
+      "b": "$7.2\\%$",
+      "c": "$8.0\\%$",
+      "d": "$12.5\\%$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Using the formula $I = \\frac{P \\times R \\times T}{100}$:\n$$R = \\frac{100 \\times I}{P \\times T} = \\frac{100 \\times 400}{1600 \\times 2} = \\frac{40000}{3200} = 12.5\\%$$",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Mathematics",
+    "topic": "Compound Interest",
+    "question_text": "A trader borrows $\\text{₦}200,000$ at a compound interest of $3\\%$ per annum. How much does he pay back after $2$ years?",
+    "options": {
+      "a": "$\\text{₦}12,180.00$",
+      "b": "$\\text{₦}121,180.00$",
+      "c": "$\\text{₦}206,000.00$",
+      "d": "$\\text{₦}212,180.00$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "Using the compound interest formula $A = P\\left(1 + \\frac{r}{100}\\right)^n$:\n$$A = 200000(1 + 0.03)^2 = 200000 \\times (1.03)^2 = 200000 \\times 1.0609 = \\text{₦}212,180.00$$",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "Mathematics",
+    "topic": "Direct Proportion",
+    "question_text": "If $6$ packets of cream cost $\\text{₦}450.00$, find the cost of $3$ packets.",
+    "options": {
+      "a": "$\\text{₦}200.00$",
+      "b": "$\\text{₦}215.00$",
+      "c": "$\\text{₦}225.00$",
+      "d": "$\\text{₦}335.00$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Cost of $1$ packet = $\\frac{450}{6} = \\text{₦}75.00$.\nCost of $3$ packets = $3 \\times 75 = \\text{₦}225.00$.",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "Mathematics",
+    "topic": "Basic Arithmetic",
+    "question_text": "Find the amount of energy in units used by a customer, if his present and previous meter readings are $85,402$ units and $74,012$ units respectively.",
+    "options": {
+      "a": "$12,500$",
+      "b": "$11,390$",
+      "c": "$10,400$",
+      "d": "$9,000$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Units consumed:\n$$85402 - 74012 = 11390\\text{ units}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "Mathematics",
+    "topic": "Angles on a Straight Line",
+    "question_text": "Find the value of $y$ in the figure below.\n\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 160\" style=\"max-width:320px;width:100%;height:auto;display:block;margin:10px auto;\"><defs><marker id=\"arrow25\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"><path d=\"M 0 1.5 L 8 5 L 0 8.5 z\" fill=\"#1e293b\"/></marker></defs><line x1=\"20\" y1=\"120\" x2=\"300\" y2=\"120\" stroke=\"#1e293b\" stroke-width=\"2.5\" marker-end=\"url(#arrow25)\" marker-start=\"url(#arrow25)\"/><line x1=\"160\" y1=\"120\" x2=\"240\" y2=\"30\" stroke=\"#1e293b\" stroke-width=\"2.5\" marker-end=\"url(#arrow25)\"/><path d=\"M 120 120 A 40 40 0 0 1 187 89\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2\"/><text x=\"115\" y=\"80\" font-family=\"sans-serif\" font-size=\"15\" font-weight=\"bold\" fill=\"#1e293b\">143°</text><path d=\"M 200 120 A 40 40 0 0 0 187 89\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/><text x=\"210\" y=\"105\" font-family=\"sans-serif\" font-size=\"15\" font-weight=\"bold\" fill=\"#dc2626\">y</text></svg>",
+    "options": {
+      "a": "$27^\\circ$",
+      "b": "$37^\\circ$",
+      "c": "$47^\\circ$",
+      "d": "$57^\\circ$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Angles on a straight line sum to $180^\\circ$:\n$$143^\\circ + y = 180^\\circ$$\n$$y = 180^\\circ - 143^\\circ = 37^\\circ$$",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "Mathematics",
+    "topic": "Mensuration - Rhombus",
+    "question_text": "The area of a rhombus is $48\\text{ cm}^2$. If one of its diagonals is $8\\text{ cm}$, find the length of the other.",
+    "options": {
+      "a": "$6\\text{ cm}$",
+      "b": "$8\\text{ cm}$",
+      "c": "$10\\text{ cm}$",
+      "d": "$12\\text{ cm}$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Area of a rhombus $= \\frac{1}{2} d_1 d_2$:\n$$48 = \\frac{1}{2} \\times 8 \\times d_2$$\n$$48 = 4 d_2 \\implies d_2 = 12\\text{ cm}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "Mathematics",
+    "topic": "Solid Shapes",
+    "question_text": "How many edges does a cube have?",
+    "options": {
+      "a": "$12$",
+      "b": "$10$",
+      "c": "$8$",
+      "d": "$6$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "A cube has $6$ faces, $8$ vertices, and $12$ edges.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "Mathematics",
+    "topic": "Solid Shapes",
+    "question_text": "How many vertices does a rectangular pyramid have?",
+    "options": {
+      "a": "$4$",
+      "b": "$5$",
+      "c": "$6$",
+      "d": "$7$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A rectangular pyramid has $4$ base vertices plus $1$ top apex vertex, giving $5$ vertices in total.",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "Mathematics",
+    "topic": "Mensuration - Cylinder",
+    "question_text": "Which of the following gives the volume of a cylinder of height $h$ and base radius $r$?",
+    "options": {
+      "a": "$\\pi r^2 h$",
+      "b": "$2\\pi rh$",
+      "c": "$3\\pi rh$",
+      "d": "$\\frac{1}{3}\\pi r^2 h$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The volume of a cylinder is given by:\n$$V = \\text{Base Area} \\times \\text{Height} = \\pi r^2 h$$",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "Mathematics",
+    "topic": "Bearings",
+    "question_text": "If the bearing of $A$ from $B$ is $240^\\circ$, find the bearing of $B$ from $A$.",
+    "options": {
+      "a": "$150^\\circ$",
+      "b": "$120^\\circ$",
+      "c": "$090^\\circ$",
+      "d": "$060^\\circ$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Since the given bearing is greater than $180^\\circ$, subtract $180^\\circ$:\n$$\\text{Back bearing} = 240^\\circ - 180^\\circ = 060^\\circ$$",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "Mathematics",
+    "topic": "Bearings",
+    "question_text": "What is the three-figure bearing of $\\text{S}45^\\circ\\text{W}$?",
+    "options": {
+      "a": "$270^\\circ$",
+      "b": "$225^\\circ$",
+      "c": "$180^\\circ$",
+      "d": "$090^\\circ$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "South corresponds to $180^\\circ$. Measuring $45^\\circ$ towards West:\n$$180^\\circ + 45^\\circ = 225^\\circ$$",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "Mathematics",
+    "topic": "Angle Construction",
+    "question_text": "Which of the following angles can be bisected to get angle $22.5^\\circ$?",
+    "options": {
+      "a": "$180^\\circ$",
+      "b": "$90^\\circ$",
+      "c": "$45^\\circ$",
+      "d": "$30^\\circ$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Bisecting an angle divides it into two equal halves:\n$$\\frac{45^\\circ}{2} = 22.5^\\circ$$",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "Mathematics",
+    "topic": "Mensuration - Perimeter",
+    "question_text": "If one side of a square is $0.5\\text{ m}$, find the perimeter of the square.",
+    "options": {
+      "a": "$5\\text{ m}$",
+      "b": "$4\\text{ m}$",
+      "c": "$3\\text{ m}$",
+      "d": "$2\\text{ m}$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Perimeter of a square is $4 \\times \\text{side}$:\n$$P = 4 \\times 0.5\\text{ m} = 2\\text{ m}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "Mathematics",
+    "topic": "Mensuration - Volume",
+    "question_text": "Find the volume of a cuboid whose length, breadth and height are $4\\text{ cm}$, $5\\text{ cm}$ and $6\\text{ cm}$ respectively.",
+    "options": {
+      "a": "$20\\text{ cm}^3$",
+      "b": "$30\\text{ cm}^3$",
+      "c": "$60\\text{ cm}^3$",
+      "d": "$120\\text{ cm}^3$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "Volume of a cuboid is given by $l \\times b \\times h$:\n$$V = 4 \\times 5 \\times 6 = 120\\text{ cm}^3$$",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "Mathematics",
+    "topic": "Lines and Angles",
+    "question_text": "Find the value of $z$ in the figure below.\n\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 250\" style=\"max-width:300px;width:100%;height:auto;display:block;margin:10px auto;\"><line x1=\"150\" y1=\"20\" x2=\"150\" y2=\"240\" stroke=\"#1e293b\" stroke-width=\"2\"/><line x1=\"42\" y1=\"169\" x2=\"258\" y2=\"91\" stroke=\"#1e293b\" stroke-width=\"2\"/><line x1=\"150\" y1=\"130\" x2=\"234\" y2=\"201\" stroke=\"#1e293b\" stroke-width=\"2\"/><path d=\"M 150 95 A 35 35 0 0 0 117.1 142\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.5\"/><path d=\"M 180.1 119.1 A 32 32 0 0 1 174.5 150.6\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"1.5\"/><path d=\"M 171.4 148 A 28 28 0 0 1 150 158\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.5\"/><text x=\"65\" y=\"105\" font-family=\"sans-serif\" font-size=\"15\" font-weight=\"bold\" fill=\"#1e293b\">110°</text><text x=\"190\" y=\"140\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" font-style=\"italic\" fill=\"#2563eb\">z</text><text x=\"160\" y=\"188\" font-family=\"sans-serif\" font-size=\"15\" font-weight=\"bold\" fill=\"#1e293b\">50°</text></svg>",
+    "options": {
+      "a": "$50^\\circ$",
+      "b": "$60^\\circ$",
+      "c": "$70^\\circ$",
+      "d": "$110^\\circ$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "1. **Find the angle between the top vertical ray and the top-right ray**:\n   Along the straight transversal line intersecting the vertical line, the angles on a line sum to $180^\\circ$:\n   $$\\text{Angle} = 180^\\circ - 110^\\circ = 70^\\circ$$\n\n2. **Find $z$ along the right side of the vertical straight line**:\n   The angles lying on the right side of the vertical line sum to $180^\\circ$:\n   $$70^\\circ + z + 50^\\circ = 180^\\circ$$\n   $$120^\\circ + z = 180^\\circ$$\n   $$z = 180^\\circ - 120^\\circ = 60^\\circ$$",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "Mathematics",
+    "topic": "Angles - Parallel Lines",
+    "question_text": "Calculate the value of $y$ in the figure below.\n\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 180\" style=\"max-width:340px;width:100%;height:auto;display:block;margin:10px auto;\"><line x1=\"20\" y1=\"40\" x2=\"320\" y2=\"40\" stroke=\"#1e293b\" stroke-width=\"2\"/><line x1=\"20\" y1=\"150\" x2=\"320\" y2=\"150\" stroke=\"#1e293b\" stroke-width=\"2\"/><polygon points=\"198,35 208,40 198,45\" fill=\"#1e293b\"/><polygon points=\"198,145 208,150 198,155\" fill=\"#1e293b\"/><line x1=\"79\" y1=\"150\" x2=\"115\" y2=\"40\" stroke=\"#1e293b\" stroke-width=\"2\"/><line x1=\"115\" y1=\"40\" x2=\"295\" y2=\"157\" stroke=\"#1e293b\" stroke-width=\"2\"/><path d=\"M 85 40 A 30 30 0 0 0 105.7 68.5\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.5\"/><path d=\"M 141.8 57.4 A 32 32 0 0 0 147 40\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"1.5\"/><path d=\"M 254 150 A 30 30 0 0 1 258.8 133.7\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.5\"/><path d=\"M 308 150 A 24 24 0 0 0 264 137\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.5\"/><text x=\"50\" y=\"55\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">72°</text><text x=\"153\" y=\"58\" font-family=\"sans-serif\" font-size=\"15\" font-weight=\"bold\" font-style=\"italic\" fill=\"#2563eb\">y</text><text x=\"296\" y=\"132\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">147°</text></svg>",
+    "options": {
+      "a": "$18^\\circ$",
+      "b": "$33^\\circ$",
+      "c": "$36^\\circ$",
+      "d": "$108^\\circ$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "1. **Find the interior angle on the bottom line**:\n   Angles along the bottom straight line sum to $180^\\circ$:\n   $$\\text{Interior angle} + 147^\\circ = 180^\\circ$$\n   $$\\text{Interior angle} = 180^\\circ - 147^\\circ = 33^\\circ$$\n\n2. **Use Alternate Interior Angles**:\n   Since the top and bottom lines are parallel, the angle $y$ and the interior angle on the bottom line are **alternate interior angles**:\n   $$y = 33^\\circ$$\n\n*(Note: The $72^\\circ$ angle is extra information not needed to determine $y$.)*",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "Mathematics",
+    "topic": "Polygons",
+    "question_text": "The sum of the interior angles of a polygon of $n$-sides is $180^\\circ$. Find the value of $n$.",
+    "options": {
+      "a": "$5$",
+      "b": "$4$",
+      "c": "$3$",
+      "d": "$2$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The sum of interior angles is $(n - 2) \\times 180^\\circ$:\n$$(n - 2) \\times 180^\\circ = 180^\\circ$$\n$$n - 2 = 1 \\implies n = 3$$",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "Mathematics",
+    "topic": "Polygons",
+    "question_text": "Determine the number of sides of a regular polygon whose interior angles are $90^\\circ$ each.",
+    "options": {
+      "a": "$3$",
+      "b": "$4$",
+      "c": "$6$",
+      "d": "$8$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Each exterior angle is $180^\\circ - 90^\\circ = 90^\\circ$.\n$$\\text{Number of sides } n = \\frac{360^\\circ}{90^\\circ} = 4$$",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "Mathematics",
+    "topic": "Mensuration - Circle",
+    "question_text": "A goat is tied to a peg on the ground with a rope $7\\text{ m}$ long. Find the maximum area of grass the goat can graze on. $\\left(\\text{Take } \\pi = \\frac{22}{7}\\right)$",
+    "options": {
+      "a": "$154\\text{ m}^2$",
+      "b": "$149\\text{ m}^2$",
+      "c": "$89\\text{ m}^2$",
+      "d": "$49\\text{ m}^2$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The grazing area forms a circle of radius $r = 7\\text{ m}$:\n$$\\text{Area} = \\pi r^2 = \\frac{22}{7} \\times 7 \\times 7 = 154\\text{ m}^2$$",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "Mathematics",
+    "topic": "Mensuration - Composite Shapes",
+    "question_text": "The figure below is a sports field with a semi-circular area at each end. Find the area of the field, correct to one decimal place. $\\left(\\text{Take } \\pi = \\frac{22}{7}\\right)$\n\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 180\" style=\"max-width:340px;width:100%;height:auto;display:block;margin:10px auto;\"><path d=\"M 100 30 L 240 30 A 55 55 0 0 1 240 140 L 100 140 A 55 55 0 0 1 100 30 Z\" fill=\"#e0f2fe\" stroke=\"#0284c7\" stroke-width=\"2.5\"/><line x1=\"100\" y1=\"30\" x2=\"100\" y2=\"140\" stroke=\"#0284c7\" stroke-width=\"1.5\" stroke-dasharray=\"4 4\"/><line x1=\"240\" y1=\"30\" x2=\"240\" y2=\"140\" stroke=\"#0284c7\" stroke-width=\"1.5\" stroke-dasharray=\"4 4\"/><line x1=\"75\" y1=\"30\" x2=\"75\" y2=\"140\" stroke=\"#1e293b\" stroke-width=\"1.2\"/><line x1=\"70\" y1=\"30\" x2=\"80\" y2=\"30\" stroke=\"#1e293b\" stroke-width=\"1.2\"/><line x1=\"70\" y1=\"140\" x2=\"80\" y2=\"140\" stroke=\"#1e293b\" stroke-width=\"1.2\"/><text x=\"50\" y=\"90\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#1e293b\">7m</text><line x1=\"100\" y1=\"155\" x2=\"240\" y2=\"155\" stroke=\"#1e293b\" stroke-width=\"1.2\"/><line x1=\"100\" y1=\"150\" x2=\"100\" y2=\"160\" stroke=\"#1e293b\" stroke-width=\"1.2\"/><line x1=\"240\" y1=\"150\" x2=\"240\" y2=\"160\" stroke=\"#1e293b\" stroke-width=\"1.2\"/><text x=\"160\" y=\"172\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#1e293b\">9m</text></svg>",
+    "options": {
+      "a": "$201.5\\text{ m}^2$",
+      "b": "$151.5\\text{ m}^2$",
+      "c": "$101.5\\text{ m}^2$",
+      "d": "$50.6\\text{ m}^2$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "1. Area of rectangle $= 9\\text{ m} \\times 7\\text{ m} = 63\\text{ m}^2$.\n2. The two semi-circular ends combine into a full circle with diameter $D = 7\\text{ m} \\implies r = 3.5\\text{ m}$:\n$$\\text{Area of circle} = \\pi r^2 = \\frac{22}{7} \\times 3.5^2 = 38.5\\text{ m}^2$$\n$$\\text{Total Area} = 63 + 38.5 = 101.5\\text{ m}^2$$",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "Mathematics",
+    "topic": "Similar Triangles",
+    "question_text": "Use the similar triangles below to calculate $|ST|$.\n\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 310\" style=\"max-width:340px;width:100%;height:auto;display:block;margin:10px auto;\"><polygon points=\"80,110 200,45 220,115\" fill=\"#f8fafc\" stroke=\"#1e293b\" stroke-width=\"2\"/><path d=\"M 102 98.1 A 25 25 0 0 1 105 110.9\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.5\"/><path d=\"M 108.1 94.8 A 32 32 0 0 1 112 111.1\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.5\"/><path d=\"M 214.5 95.8 A 20 20 0 0 0 200 114.3\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.5\"/><text x=\"63\" y=\"115\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">S</text><text x=\"198\" y=\"32\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">T</text><text x=\"228\" y=\"125\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">U</text><text x=\"135\" y=\"132\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1e293b\">6 cm</text><text x=\"218\" y=\"75\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1e293b\">3 cm</text><polygon points=\"135,175 265,185 155,275\" fill=\"#f8fafc\" stroke=\"#1e293b\" stroke-width=\"2\"/><path d=\"M 155 176.5 A 20 20 0 0 1 138.9 194.6\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.5\"/><path d=\"M 240.1 183.1 A 25 25 0 0 0 245.7 200.8\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.5\"/><path d=\"M 233.1 182.5 A 32 32 0 0 0 240.2 205.3\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.5\"/><text x=\"118\" y=\"175\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">V</text><text x=\"272\" y=\"185\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">W</text><text x=\"150\" y=\"295\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">X</text><text x=\"190\" y=\"170\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1e293b\">8 cm</text><text x=\"215\" y=\"248\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1e293b\">12 cm</text></svg>",
+    "options": {
+      "a": "$4\\text{ cm}$",
+      "b": "$8\\text{ cm}$",
+      "c": "$9\\text{ cm}$",
+      "d": "$11\\text{ cm}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "1. **Identify corresponding angles and vertices**:\n   From the angle markings:\n   - $\\angle S = \\angle W$ (indicated by double arcs)\n   - $\\angle U = \\angle V$ (indicated by single arcs)\n   - $\\angle T = \\angle X$ (the remaining third angles are equal)\n\n   Therefore, $\\Delta STU \\sim \\Delta WXV$.\n\n2. **Set up the proportion of corresponding sides**:\n   $$\\frac{|ST|}{|WX|} = \\frac{|SU|}{|VW|}$$\n\n3. **Substitute the given values and solve for $|ST|$**:\n   $$\\frac{|ST|}{12} = \\frac{6}{8}$$\n   $$|ST| = \\frac{6 \\times 12}{8} = \\frac{72}{8} = 9\\text{ cm}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "Mathematics",
+    "topic": "Similar Triangles",
+    "question_text": "Using the same similar triangles from the question 41, calculate $|XV|$.",
+    "options": {
+      "a": "$5\\text{ cm}$",
+      "b": "$4\\text{ cm}$",
+      "c": "$6\\text{ cm}$",
+      "d": "$9\\text{ cm}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "From the property of similar triangles:\n$$\\frac{|SU|}{|VW|} = \\frac{|TU|}{|XV|}$$\n$$\\frac{6}{8} = \\frac{3}{|XV|}$$\n$$|XV| = \\frac{3 \\times 8}{6} = 4\\text{ cm}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "Mathematics",
+    "topic": "Angle Construction",
+    "question_text": "The construction below represents which angle?\n\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 280 190\" style=\"max-width:280px;width:100%;height:auto;display:block;margin:10px auto;\"><line x1=\"50\" y1=\"160\" x2=\"240\" y2=\"160\" stroke=\"#1e293b\" stroke-width=\"2\"/><line x1=\"50\" y1=\"160\" x2=\"130\" y2=\"21\" stroke=\"#1e293b\" stroke-width=\"2\"/><path d=\"M 115 160 A 65 65 0 0 0 67 97\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.5\"/><path d=\"M 98 97 A 65 65 0 0 0 69 114\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.5\"/><text x=\"26\" y=\"166\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"#1e293b\">A</text><text x=\"246\" y=\"166\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"#1e293b\">B</text><text x=\"135\" y=\"24\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"bold\" fill=\"#1e293b\">C</text></svg>",
+    "options": {
+      "a": "$180^\\circ$",
+      "b": "$90^\\circ$",
+      "c": "$60^\\circ$",
+      "d": "$45^\\circ$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "1. **Analyze the Construction Steps**:\n   - An initial arc of radius $r$ is drawn with center at vertex $A$, intersecting the line segment $AB$ at a point $P$.\n   - Using the exact same compass radius $r$, a second arc is drawn centered at $P$, intersecting the first arc at point $Q$.\n   - A ray is drawn from vertex $A$ passing through intersection point $Q$ to $C$.\n\n2. **Geometric Principle**:\n   - Since $|AP| = |AQ| = |PQ| = r$, points $A$, $P$, and $Q$ form an **equilateral triangle** $(\\Delta APQ)$.\n   - Each interior angle of an equilateral triangle is $60^\\circ$, so:\n   $$\\angle CAB = 60^\\circ$$",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "Mathematics",
+    "topic": "Mensuration - Composite Shapes",
+    "question_text": "Calculate the area of the shaded region in the figure below. $\\left(\\text{Take } \\pi = \\frac{22}{7}\\right)$\n\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 260 260\" style=\"max-width:240px;width:100%;height:auto;display:block;margin:10px auto;\"><rect x=\"30\" y=\"30\" width=\"180\" height=\"180\" fill=\"#cbd5e1\" stroke=\"#1e293b\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"120\" r=\"63\" fill=\"#ffffff\" stroke=\"#1e293b\" stroke-width=\"2\"/><text x=\"105\" y=\"22\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#1e293b\">10cm</text><line x1=\"57\" y1=\"120\" x2=\"183\" y2=\"120\" stroke=\"#1e293b\" stroke-width=\"1.2\" stroke-dasharray=\"3 3\"/><circle cx=\"120\" cy=\"120\" r=\"2\" fill=\"#1e293b\"/><text x=\"105\" y=\"114\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e293b\">7cm</text><text x=\"218\" y=\"125\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#1e293b\">10cm</text></svg>",
+    "options": {
+      "a": "$87.4\\text{ cm}^2$",
+      "b": "$61.5\\text{ cm}^2$",
+      "c": "$49.7\\text{ cm}^2$",
+      "d": "$35.6\\text{ cm}^2$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "$$\\text{Area of square} = 10 \\times 10 = 100\\text{ cm}^2$$\n$$\\text{Area of circle} = \\pi r^2 = \\frac{22}{7} \\times 3.5^2 = 38.5\\text{ cm}^2$$\n$$\\text{Shaded Area} = 100 - 38.5 = 61.5\\text{ cm}^2$$",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "Mathematics",
+    "topic": "Similar Solids",
+    "question_text": "Two similar cylindrical tins are $6\\text{ cm}$ and $9\\text{ cm}$ high. If the smaller tin has diameter $8\\text{ cm}$, find the diameter of the bigger one.",
+    "options": {
+      "a": "$6\\text{ cm}$",
+      "b": "$7\\text{ cm}$",
+      "c": "$8\\text{ cm}$",
+      "d": "$12\\text{ cm}$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Since the cylinders are similar, their linear dimensions are directly proportional:\n$$\\frac{D_2}{D_1} = \\frac{h_2}{h_1}$$\n$$D_2 = 8 \\times \\frac{9}{6} = 12\\text{ cm}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 46,
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "question_text": "Use the figure below to find $|AB|$.\n\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 220\" style=\"max-width:340px;width:100%;height:auto;display:block;margin:10px auto;\"><polygon points=\"40,180 300,180 40,40\" fill=\"#f8fafc\" stroke=\"#1e293b\" stroke-width=\"2\"/><line x1=\"40\" y1=\"40\" x2=\"130\" y2=\"180\" stroke=\"#1e293b\" stroke-width=\"2\"/><rect x=\"40\" y=\"165\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.5\"/><text x=\"30\" y=\"35\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">A</text><text x=\"25\" y=\"195\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">B</text><text x=\"130\" y=\"198\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">C</text><text x=\"305\" y=\"195\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">D</text><text x=\"85\" y=\"172\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e293b\">60°</text><text x=\"235\" y=\"172\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e293b\">30°</text><text x=\"75\" y=\"200\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#2563eb\">10m</text></svg>",
+    "options": {
+      "a": "$10\\sqrt{2}\\text{ m}$",
+      "b": "$10\\sqrt{3}\\text{ m}$",
+      "c": "$10\\sqrt{5}\\text{ m}$",
+      "d": "$13\\text{ m}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "In $\\triangle ABC$:\n$$\\tan 60^\\circ = \\frac{|AB|}{|BC|}$$\n$$|AB| = 10 \\times \\tan 60^\\circ = 10\\sqrt{3}\\text{ m}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 47,
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "question_text": "Using the same figure from question 46, calculate $|AD|$.",
+    "options": {
+      "a": "$20\\sqrt{2}\\text{ m}$",
+      "b": "$20\\sqrt{3}\\text{ m}$",
+      "c": "$20\\sqrt{5}\\text{ m}$",
+      "d": "$26\\text{ m}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "In right-angled triangle $\\triangle ABD$:\n$$\\sin 30^\\circ = \\frac{|AB|}{|AD|}$$\n$$|AD| = \\frac{|AB|}{\\sin 30^\\circ} = \\frac{10\\sqrt{3}}{\\frac{1}{2}} = 20\\sqrt{3}\\text{ m}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 48,
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "question_text": "Using the same figure from question 46, calculate $|CD|$.",
+    "options": {
+      "a": "$20\\text{ m}$",
+      "b": "$25\\text{ m}$",
+      "c": "$30\\text{ m}$",
+      "d": "$40\\text{ m}$"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "In $\\triangle ABD$:\n$$\\tan 30^\\circ = \\frac{|AB|}{|BD|} \\implies |BD| = \\frac{10\\sqrt{3}}{\\frac{1}{\\sqrt{3}}} = 30\\text{ m}$$\n$$|CD| = |BD| - |BC| = 30 - 10 = 20\\text{ m}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 49,
+    "subject": "Mathematics",
+    "topic": "Angle Construction",
+    "question_text": "Which of the following angles cannot be constructed using a ruler and a pair of compasses only?",
+    "options": {
+      "a": "$30^\\circ$",
+      "b": "$45^\\circ$",
+      "c": "$70^\\circ$",
+      "d": "$90^\\circ$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Angles such as $90^\\circ, 60^\\circ, 45^\\circ, 30^\\circ, 15^\\circ$ are easily constructed by bisection and combination. $70^\\circ$ cannot be constructed using only a ruler and compass.",
+    "section_id": null
+  },
+  {
+    "question_number": 50,
+    "subject": "Mathematics",
+    "topic": "Mensuration - Triangle",
+    "question_text": "Find the area of the figure below.\n\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 280 200\" style=\"max-width:280px;width:100%;height:auto;display:block;margin:10px auto;\"><polygon points=\"200,40 200,160 50,160\" fill=\"#f8fafc\" stroke=\"#1e293b\" stroke-width=\"2\"/><rect x=\"185\" y=\"145\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.5\"/><text x=\"205\" y=\"35\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">A</text><text x=\"35\" y=\"175\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">B</text><text x=\"205\" y=\"175\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">C</text><text x=\"170\" y=\"65\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e293b\">30°</text><text x=\"105\" y=\"90\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#1e293b\">8m</text><text x=\"212\" y=\"105\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#1e293b\">4√3m</text></svg>",
+    "options": {
+      "a": "$4\\sqrt{3}\\text{ m}^2$",
+      "b": "$8\\sqrt{3}\\text{ m}^2$",
+      "c": "$10\\sqrt{3}\\text{ m}^2$",
+      "d": "$12\\sqrt{3}\\text{ m}^2$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "In right $\\triangle ABC$:\n$$|BC| = 8 \\times \\sin 30^\\circ = 8 \\times 0.5 = 4\\text{ m}$$\n$$\\text{Area} = \\frac{1}{2} \\times \\text{base} \\times \\text{height} = \\frac{1}{2} \\times 4 \\times 4\\sqrt{3} = 8\\sqrt{3}\\text{ m}^2$$",
+    "section_id": null
+  },
+  {
+    "question_number": 51,
+    "subject": "Mathematics",
+    "topic": "Mensuration - Circle",
+    "question_text": "Find the radius of a circle whose circumference is $22\\text{ cm}$. $\\left(\\text{Take } \\pi = \\frac{22}{7}\\right)$",
+    "options": {
+      "a": "$22.0\\text{ cm}$",
+      "b": "$11.0\\text{ cm}$",
+      "c": "$7.5\\text{ cm}$",
+      "d": "$3.5\\text{ cm}$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "$$C = 2\\pi r \\implies 22 = 2 \\times \\frac{22}{7} \\times r$$\n$$r = \\frac{22 \\times 7}{44} = 3.5\\text{ cm}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 52,
+    "subject": "Mathematics",
+    "topic": "Mensuration - Triangle",
+    "question_text": "Calculate the area of a triangle whose base is $5\\text{ cm}$ and height $2\\text{ cm}$.",
+    "options": {
+      "a": "$10\\text{ cm}^2$",
+      "b": "$8\\text{ cm}^2$",
+      "c": "$5\\text{ cm}^2$",
+      "d": "$3\\text{ cm}^2$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "$$\\text{Area} = \\frac{1}{2} \\times \\text{base} \\times \\text{height} = \\frac{1}{2} \\times 5 \\times 2 = 5\\text{ cm}^2$$",
+    "section_id": null
+  },
+  {
+    "question_number": 53,
+    "subject": "Mathematics",
+    "topic": "Trigonometry - Angle of Elevation",
+    "question_text": "The angle of elevation of the top $X$ of a vertical pole from a point $P$ on level ground is $45^\\circ$. If the distance from $P$ to the foot of the pole is $7\\text{ m}$, find the height of the pole.\n\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 280 180\" style=\"max-width:280px;width:100%;height:auto;display:block;margin:10px auto;\"><polygon points=\"40,140 220,140 220,30\" fill=\"#f8fafc\" stroke=\"#1e293b\" stroke-width=\"2\"/><rect x=\"205\" y=\"125\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.5\"/><text x=\"25\" y=\"150\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">P</text><text x=\"225\" y=\"28\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">X</text><text x=\"225\" y=\"150\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">foot</text><text x=\"80\" y=\"132\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#1e293b\">45°</text><text x=\"120\" y=\"160\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#1e293b\">7m</text><text x=\"230\" y=\"90\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#2563eb\">h</text></svg>",
+    "options": {
+      "a": "$12\\text{ m}$",
+      "b": "$10\\text{ m}$",
+      "c": "$7\\text{ m}$",
+      "d": "$5\\text{ m}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "$$\\tan 45^\\circ = \\frac{h}{7}$$\nSince $\\tan 45^\\circ = 1$:\n$$h = 7 \\times 1 = 7\\text{ m}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 54,
+    "subject": "Mathematics",
+    "topic": "Angle Construction",
+    "question_text": "Use the diagram below to find the size of $\\angle ROQ$.\n\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 180\" style=\"max-width:320px;width:100%;height:auto;display:block;margin:10px auto;\"><line x1=\"20\" y1=\"140\" x2=\"300\" y2=\"140\" stroke=\"#1e293b\" stroke-width=\"2\"/><line x1=\"160\" y1=\"140\" x2=\"160\" y2=\"20\" stroke=\"#1e293b\" stroke-width=\"2\"/><line x1=\"160\" y1=\"140\" x2=\"75\" y2=\"55\" stroke=\"#1e293b\" stroke-width=\"2\"/><line x1=\"160\" y1=\"140\" x2=\"245\" y2=\"55\" stroke=\"#1e293b\" stroke-width=\"2\"/><path d=\"M 65 55 Q 75 55 85 55 M 75 45 Q 75 55 75 65\" stroke=\"#64748b\" stroke-width=\"1.5\" fill=\"none\"/><path d=\"M 150 20 Q 160 20 170 20 M 160 10 Q 160 20 160 30\" stroke=\"#64748b\" stroke-width=\"1.5\" fill=\"none\"/><path d=\"M 235 55 Q 245 55 255 55 M 245 45 Q 245 55 245 65\" stroke=\"#64748b\" stroke-width=\"1.5\" fill=\"none\"/><text x=\"15\" y=\"155\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">A</text><text x=\"60\" y=\"48\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">R</text><text x=\"155\" y=\"15\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">P</text><text x=\"250\" y=\"48\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">Q</text><text x=\"295\" y=\"155\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">B</text><text x=\"155\" y=\"158\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#1e293b\">O</text></svg>",
+    "options": {
+      "a": "$45^\\circ$",
+      "b": "$90^\\circ$",
+      "c": "$120^\\circ$",
+      "d": "$135^\\circ$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Ray $OP$ is perpendicular to $AB$ ($90^\\circ$). $OR$ bisects $\\angle AOP$ ($45^\\circ$) and $OQ$ bisects $\\angle POB$ ($45^\\circ$):\n$$\\angle ROQ = \\angle ROP + \\angle POQ = 45^\\circ + 45^\\circ = 90^\\circ$$",
+    "section_id": null
+  },
+  {
+    "question_number": 55,
+    "subject": "Mathematics",
+    "topic": "Angle Construction",
+    "question_text": "Using the same diagram from question 54, calculate the sum of $\\angle AOP$ and $\\angle QOB$.",
+    "options": {
+      "a": "$45^\\circ$",
+      "b": "$90^\\circ$",
+      "c": "$110^\\circ$",
+      "d": "$135^\\circ$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "$$\\angle AOR = 45^\\circ, \\quad \\angle QOB = 45^\\circ$$\nSum $= 45^\\circ + 45^\\circ = 90^\\circ$.",
+    "section_id": null
+  },
+  {
+    "question_number": 56,
+    "subject": "Mathematics",
+    "topic": "Mensuration - Triangle",
+    "question_text": "Find the area of the figure below.\n\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 280 180\" style=\"max-width:280px;width:100%;height:auto;display:block;margin:10px auto;\"><polygon points=\"30,140 240,140 150,40\" fill=\"#f8fafc\" stroke=\"#1e293b\" stroke-width=\"2\"/><line x1=\"150\" y1=\"40\" x2=\"150\" y2=\"140\" stroke=\"#1e293b\" stroke-width=\"1.5\" stroke-dasharray=\"3 3\"/><rect x=\"150\" y=\"128\" width=\"12\" height=\"12\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.2\"/><text x=\"85\" y=\"158\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#1e293b\">6</text><text x=\"135\" y=\"95\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#1e293b\">4</text><text x=\"205\" y=\"85\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#1e293b\">5</text></svg>",
+    "options": {
+      "a": "$21\\text{ square units}$",
+      "b": "$20\\text{ square units}$",
+      "c": "$18\\text{ square units}$",
+      "d": "$15\\text{ square units}$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "In the right triangle on the right side, the base segment is:\n$$\\sqrt{5^2 - 4^2} = \\sqrt{25 - 16} = 3$$\n$$\\text{Total base} = 6 + 3 = 9$$\n$$\\text{Area} = \\frac{1}{2} \\times \\text{base} \\times \\text{height} = \\frac{1}{2} \\times 9 \\times 4 = 18\\text{ square units}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 57,
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "question_text": "Find the value of $\\theta$ in the diagram below.\n\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 200\" style=\"max-width:220px;width:100%;height:auto;display:block;margin:10px auto;\"><polygon points=\"160,30 160,160 60,160\" fill=\"#f8fafc\" stroke=\"#1e293b\" stroke-width=\"2\"/><rect x=\"145\" y=\"145\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.5\"/><text x=\"142\" y=\"58\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#2563eb\">θ</text><text x=\"85\" y=\"85\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#1e293b\">5cm</text><text x=\"90\" y=\"180\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#1e293b\">2½ cm</text></svg>",
+    "options": {
+      "a": "$15^\\circ$",
+      "b": "$30^\\circ$",
+      "c": "$45^\\circ$",
+      "d": "$60^\\circ$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "$$\\sin \\theta = \\frac{\\text{Opposite}}{\\text{Hypotenuse}} = \\frac{2.5}{5} = 0.5$$\n$$\\theta = \\sin^{-1}(0.5) = 30^\\circ$$",
+    "section_id": null
+  },
+  {
+    "question_number": 58,
+    "subject": "Mathematics",
+    "topic": "Pythagoras' Theorem",
+    "question_text": "In the figure below, find the side marked $x$.\n\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 200\" style=\"max-width:300px;width:100%;height:auto;display:block;margin:10px auto;\"><polygon points=\"30,150 270,150 170,40\" fill=\"#f8fafc\" stroke=\"#1e293b\" stroke-width=\"2\"/><line x1=\"170\" y1=\"40\" x2=\"170\" y2=\"150\" stroke=\"#1e293b\" stroke-width=\"1.5\" stroke-dasharray=\"4 4\"/><rect x=\"170\" y=\"135\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.2\"/><text x=\"85\" y=\"90\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" fill=\"#dc2626\">x</text><text x=\"95\" y=\"170\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#1e293b\">15cm</text><text x=\"210\" y=\"170\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#1e293b\">6cm</text><text x=\"225\" y=\"90\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"bold\" fill=\"#1e293b\">10cm</text></svg>",
+    "options": {
+      "a": "$8\\text{ cm}$",
+      "b": "$9\\text{ cm}$",
+      "c": "$16\\text{ cm}$",
+      "d": "$17\\text{ cm}$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "1. Find height $h$ from the right triangle:\n$$h = \\sqrt{10^2 - 6^2} = \\sqrt{100 - 36} = \\sqrt{64} = 8\\text{ cm}$$\n2. Find hypotenuse $x$ from the left triangle:\n$$x = \\sqrt{15^2 + 8^2} = \\sqrt{225 + 64} = \\sqrt{289} = 17\\text{ cm}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 59,
+    "subject": "Mathematics",
+    "topic": "Mensuration - Rectangle",
+    "question_text": "The perimeter of a rectangular lawn is $32\\text{ cm}$. If the difference between its length and breadth is $2\\text{ cm}$, find the area of the lawn.",
+    "options": {
+      "a": "$42\\text{ cm}^2$",
+      "b": "$49\\text{ cm}^2$",
+      "c": "$54\\text{ cm}^2$",
+      "d": "$63\\text{ cm}^2$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Let breadth $= x$ and length $= x + 2$:\n$$2((x + 2) + x) = 32$$\n$$2(2x + 2) = 32 \\implies 4x + 4 = 32 \\implies 4x = 28 \\implies x = 7\\text{ cm}$$\n$$\\text{Length} = 7 + 2 = 9\\text{ cm}$$\n$$\\text{Area} = 9 \\times 7 = 63\\text{ cm}^2$$",
+    "section_id": null
+  },
+  {
+    "question_number": 60,
+    "subject": "Mathematics",
+    "topic": "Angles - Parallel Lines",
+    "question_text": "In the figure below, lines $AB$ and $CD$ are parallel. Which of the following is not true?\n\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 200\" style=\"max-width:320px;width:100%;height:auto;display:block;margin:10px auto;\"><line x1=\"40\" y1=\"50\" x2=\"280\" y2=\"50\" stroke=\"#1e293b\" stroke-width=\"2\"/><line x1=\"40\" y1=\"150\" x2=\"280\" y2=\"150\" stroke=\"#1e293b\" stroke-width=\"2\"/><polygon points=\"205,45 215,50 205,55\" fill=\"#1e293b\"/><polygon points=\"205,145 215,150 205,155\" fill=\"#1e293b\"/><line x1=\"109\" y1=\"174\" x2=\"146\" y2=\"26\" stroke=\"#1e293b\" stroke-width=\"2\"/><path d=\"M 122 50 A 18 18 0 0 0 135.6 67.5\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.5\"/><path d=\"M 144.4 32.5 A 18 18 0 0 1 158 50\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.5\"/><path d=\"M 136.1 65.5 A 16 16 0 0 0 156 50\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.5\"/><path d=\"M 119.4 132.5 A 18 18 0 0 1 133 150\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.5\"/><text x=\"22\" y=\"55\" font-family=\"sans-serif\" font-size=\"15\" font-weight=\"bold\" fill=\"#1e293b\">A</text><text x=\"288\" y=\"55\" font-family=\"sans-serif\" font-size=\"15\" font-weight=\"bold\" fill=\"#1e293b\">B</text><text x=\"22\" y=\"155\" font-family=\"sans-serif\" font-size=\"15\" font-weight=\"bold\" fill=\"#1e293b\">C</text><text x=\"288\" y=\"155\" font-family=\"sans-serif\" font-size=\"15\" font-weight=\"bold\" fill=\"#1e293b\">D</text><text x=\"114\" y=\"66\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" font-style=\"italic\" fill=\"#2563eb\">a</text><text x=\"156\" y=\"38\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" font-style=\"italic\" fill=\"#2563eb\">c</text><text x=\"148\" y=\"68\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" font-style=\"italic\" fill=\"#2563eb\">d</text><text x=\"130\" y=\"138\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" font-style=\"italic\" fill=\"#2563eb\">b</text></svg>",
+    "options": {
+      "a": "$a = b$",
+      "b": "$a = c$",
+      "c": "$b = c$",
+      "d": "$b = d$"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "1. **Analyze angle relationships**:\n   - **Vertically Opposite Angles**: $a = c$\n   - **Alternate Interior Angles**: $a = b$\n   - **Corresponding Angles**: Since $a = b$ and $a = c$, it follows that $b = c$\n\n2. **Examine $b$ and $d$**:\n   - Angles $a$ and $d$ lie on a straight line and are supplementary:\n     $$a + d = 180^\\circ$$\n   - Since $a = b$, substituting gives:\n     $$b + d = 180^\\circ$$\n   - Therefore, $b$ and $d$ are **supplementary**, so $b = d$ is **not true** in general (it would only hold if $b = d = 90^\\circ$).\n\nThus, **$b = d$** is the incorrect statement.",
+    "section_id": null
+  }
+]

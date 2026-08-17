@@ -494,5 +494,37 @@
         "isOfficial": false,
         "seo_title": "BECE Business Studies: Keyboarding Practice Test | Junior WAEC",
         "seo_description": "Practice BECE Business Studies Keyboarding with 43 free online questions covering computer basics, keyboarding techniques, proof reader's marks, and memo/e-mail formats."
+    },
+    {
+        "id": "bece_2023_mathematics_paper1",
+        "category": "BECE",
+        "year": 2023,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "PYQ",
+        "title": "BECE 2023 Mathematics Past Question (Paper 1)",
+        "short_description": "60-question BECE 2023 Mathematics past question paper covering number & numeration, mensuration, geometry, and trigonometry, with full step-by-step solutions.",
+        "description": "### BECE 2023 Mathematics — Paper 1 (Previous Year Question Paper)\n\n**Focus:** Number, Mensuration & Geometry | **Level:** Junior Secondary (JSS3)\n\nThe actual 2023 Basic Education Certificate Examination (BECE / Junior WAEC) Mathematics paper, reformatted as **60 multiple-choice questions** with fully worked, step-by-step explanations for every question. Practising with a real past paper — rather than a generated question bank — is the closest you can get to sitting the exam itself before the real thing.\n\n---\n\n#### Topics Covered in This Paper\n* **Number & Numeration:** Indices and powers, number bases, HCF and LCM, square roots, standard form, significant figures, and reciprocals.\n* **Ratio, Proportion & Commercial Arithmetic:** Ratio, direct and inverse proportion, simple and compound interest, decimals and fractions, and percentages.\n* **Mensuration:** Perimeter, area, and volume of rectangles, circles, cylinders, rhombuses, triangles, and composite shapes; similar solids.\n* **Geometry & Trigonometry:** Angles on a straight line, angles between parallel lines, angle construction, polygons, bearings, Pythagoras' theorem, similar triangles, trigonometric ratios, and angles of elevation.\n\nEach question is tagged with a difficulty level (20 Easy, 30 Medium, 10 Hard) and includes a full explanation, so you can see exactly *why* an answer is correct — not just what it is.",
+        "path": "nigeria/BECE/mathematics/bece2023MathematicsPaper1.json",
+        "isOfficial": true,
+        "seo_title": "BECE 2023 Mathematics Past Question (Paper 1) with Answers | Junior WAEC PYQ",
+        "seo_description": "Practice the real BECE 2023 Mathematics Paper 1 past question online for free. 60 questions on number, mensuration, geometry & trigonometry with step-by-step solutions for Junior WAEC."
+    },
+    {
+        "id": "bece_2023_mathematics_paper2",
+        "category": "BECE",
+        "year": 2023,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "PYQ",
+        "title": "BECE 2023 Mathematics Past Question (Paper 2)",
+        "short_description": "60-question BECE 2023 Mathematics past question paper covering algebraic processes, linear equations, statistics, and probability, with full step-by-step solutions.",
+        "description": "### BECE 2023 Mathematics — Paper 2 (Previous Year Question Paper)\n\n**Focus:** Algebra, Statistics & Probability | **Level:** Junior Secondary (JSS3)\n\nThe actual 2023 Basic Education Certificate Examination (BECE / Junior WAEC) Mathematics paper, reformatted as **60 multiple-choice questions** with fully worked, step-by-step explanations for every question. This is the algebra-and-statistics companion to Paper 1 — together, the two papers cover the full spread of the 2023 Mathematics exam.\n\n---\n\n#### Topics Covered in This Paper\n* **Algebraic Processes:** Expansion, simplification, substitution, factorization (including quadratic and difference-of-two-squares), algebraic fractions and division, and change of subject of formula.\n* **Equations & Inequalities:** Linear equations (including with fractions), simultaneous linear equations, word problems on age, money, and fractions, and linear inequalities on number lines.\n* **Relations & Variation:** Linear relations and tables, direct variation, and expansion and coefficients.\n* **Statistics & Probability:** Mean, median, mode, and range, pie charts, and basic probability.\n\nEach question is tagged with a difficulty level (30 Easy, 29 Medium, 1 Hard) and includes a full explanation, so you can see exactly *why* an answer is correct — not just what it is.",
+        "path": "nigeria/BECE/mathematics/bece2023MathematicsPaper2.json",
+        "isOfficial": true,
+        "seo_title": "BECE 2023 Mathematics Past Question (Paper 2) with Answers | Junior WAEC PYQ",
+        "seo_description": "Practice the real BECE 2023 Mathematics Paper 2 past question online for free. 60 questions on algebra, equations, statistics & probability with step-by-step solutions for Junior WAEC."
     }
 ]

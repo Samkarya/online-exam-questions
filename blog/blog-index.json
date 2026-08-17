@@ -265,5 +265,16 @@
     "tags": ["NECO", "NECO SSCE", "NECO Syllabus", "Grading System", "Result Verification", "Exam Prep"],
     "mdFilePath": "/blog/neco-syllabus-grading-verification-guide.md",
     "targetExamId": "neco-ssce"
+  },
+  {
+    "slug": "bece-past-questions-2023-mathematics-free-practice",
+    "title": "BECE Past Questions 2023: Free Mathematics Previous Year Papers with Solutions",
+    "type": "blog",
+    "date": "2026-08-17",
+    "author": "ExamOven Team",
+    "excerpt": "The real BECE 2023 Mathematics past question paper — 120 questions across two papers — free to practice online with full solutions, no login required.",
+    "tags": ["BECE", "BECE Past Questions", "Junior WAEC", "Mathematics", "Previous Year Papers", "NECO BECE", "Exam Prep"],
+    "mdFilePath": "/blog/bece-past-questions-2023-mathematics-free-practice.md",
+    "targetExamId": "bece"
   }
 ]
