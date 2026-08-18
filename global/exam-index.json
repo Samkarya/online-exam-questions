@@ -142,5 +142,7 @@
   "neco_furtherMaths_part1": "configs/neco-ssce.json",
   "neco_furtherMaths_part2": "configs/neco-ssce.json",
   "neco_commerce_part1": "configs/neco-ssce.json",
-  "neco_commerce_part2": "configs/neco-ssce.json"
+  "neco_commerce_part2": "configs/neco-ssce.json",
+  "neco_civicEducation_part1": "configs/neco-ssce.json",
+  "neco_civicEducation_part2": "configs/neco-ssce.json"
 }

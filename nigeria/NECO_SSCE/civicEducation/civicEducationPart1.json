@@ -1,0 +1,1106 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Civic Education",
+    "topic": "Values",
+    "question_text": "Which of the following best defines the concept of **values** in a society?",
+    "options": {
+      "a": "The legal rules established by the government to punish offenders.",
+      "b": "The monetary worth of goods and services produced in a country.",
+      "c": "The acceptable standards of behaviour considered worthwhile and important.",
+      "d": "The fundamental human rights enshrined in the national constitution."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "In civic education, **values** refer to the moral principles, standards of behaviour, and ideals that a society considers important, acceptable, and worthwhile. While the other options describe laws, economic valuation, and human rights, they do not define the sociological concept of values.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Civic Education",
+    "topic": "Values",
+    "question_text": "A student who finds a lost wallet containing a large sum of money and returns it with all its contents intact is primarily demonstrating the value of...",
+    "options": {
+      "a": "tolerance.",
+      "b": "honesty.",
+      "c": "cooperation.",
+      "d": "self-reliance."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "This scenario is a classic demonstration of **honesty**. Honesty is a type of moral value that involves truthfulness, fairness, and the strict refusal to engage in deceit, theft, or fraud, regardless of the temptation.",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Civic Education",
+    "topic": "Values",
+    "question_text": "Which of the following activities is specifically categorized as a **political value**?",
+    "options": {
+      "a": "Voting during general elections.",
+      "b": "Engaging in regular religious fasting.",
+      "c": "Assisting the elderly with their daily chores.",
+      "d": "Saving a portion of one's monthly income."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Political values relate to the principles governing a citizen's involvement in the state's governance. \n\n| Type of Value | Focus / Examples |\n| :--- | :--- |\n| **Political** | Voting, Patriotism, Rule of Law |\n| **Moral** | Honesty, Integrity, Fairness |\n| **Economic** | Hard work, Savings, Punctuality |\n| **Religious** | Faith, Forgiveness, Piety |\n\nTherefore, voting is a prime example of a political value.",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Civic Education",
+    "topic": "Values",
+    "question_text": "Which of the following is **NOT** a reason why values are important to the society?",
+    "options": {
+      "a": "They help citizens in determining what is right or wrong.",
+      "b": "They encourage the cultural assimilation of foreign traditions.",
+      "c": "They promote unity, harmony, and peaceful co-existence.",
+      "d": "They guide the youth toward becoming responsible citizens."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Values act as a moral compass, promote unity, and foster good citizenship. However, positive societal values typically seek to **preserve local cultural identity** and heritage, rather than encouraging the outright assimilation or takeover by foreign traditions.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Civic Education",
+    "topic": "Values",
+    "question_text": "A society that completely lacks positive values is most likely to directly experience...",
+    "options": {
+      "a": "rapid infrastructural development.",
+      "b": "an increase in social vices and corruption.",
+      "c": "a high rate of technological advancement.",
+      "d": "an equitable distribution of national wealth."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Positive values (like integrity, discipline, and hard work) are the foundation of a stable society. The absence of these values leads directly to **moral decadence**, an upsurge in crime, corruption, and general societal decay, making the other positive outcomes highly unlikely.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Civic Education",
+    "topic": "Values",
+    "question_text": "The willingness of citizens to work together to achieve a common goal for the overall benefit of their community is known as...",
+    "options": {
+      "a": "cooperation.",
+      "b": "integrity.",
+      "c": "contentment.",
+      "d": "discipline."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Cooperation** is a core societal value defined as the act of working together harmoniously to achieve a shared objective. It contrasts with individualism and is essential for community development.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Civic Education",
+    "topic": "Citizenship and Nationalism",
+    "question_text": "A person who is legally recognized as a full member of a state, possessing rights and corresponding responsibilities, is known as a...",
+    "options": {
+      "a": "foreigner.",
+      "b": "refugee.",
+      "c": "citizen.",
+      "d": "tourist."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **citizen** is a legal member of a sovereign political community who owes allegiance to the state and is entitled to full civil, political, and social rights, as well as the protection of the government.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Civic Education",
+    "topic": "Citizenship and Nationalism",
+    "question_text": "According to the 1999 Constitution of Nigeria, a foreign woman who is married to a Nigerian citizen can acquire Nigerian citizenship through...",
+    "options": {
+      "a": "birth.",
+      "b": "registration.",
+      "c": "conquest.",
+      "d": "naturalization."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Under Chapter III of the 1999 Nigerian Constitution, citizenship can be acquired by **birth**, **registration**, or **naturalization**. A foreign woman married to a Nigerian citizen is entitled to acquire citizenship by *registration* upon fulfilling statutory conditions.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Civic Education",
+    "topic": "Citizenship and Nationalism",
+    "question_text": "The primary objective of **citizenship education** in a democratic nation is to...",
+    "options": {
+      "a": "prepare citizens for compulsory armed combat.",
+      "b": "instill democratic values and civic responsibilities in individuals.",
+      "c": "encourage citizens to boycott national elections.",
+      "d": "train individuals exclusively for partisan political leadership."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Citizenship education** aims to enlighten individuals about their rights, duties, obligations, and democratic principles to help them become active, responsible, and informed contributors to national development.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Civic Education",
+    "topic": "Citizenship and Nationalism",
+    "question_text": "Which of the following is a fundamental goal of citizenship education in secondary schools?",
+    "options": {
+      "a": "Promoting ethnic loyalty above national interest",
+      "b": "Eliminating the need for law enforcement agencies",
+      "c": "Creating awareness of fundamental human rights and obligations",
+      "d": "Restricting civic participation to civil servants"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A major goal of citizenship education is to create awareness among youth about their **fundamental human rights**, the rule of law, and their civic responsibilities toward nation-building.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Civic Education",
+    "topic": "Citizenship and Nationalism",
+    "question_text": "Which of the following is an example of a **civic obligation** of a citizen?",
+    "options": {
+      "a": "Prompt payment of lawful taxes and rates",
+      "b": "Joining the ruling political party",
+      "c": "Contesting in presidential elections",
+      "d": "Constructing public roads and bridges"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Civic duties and obligations are mandatory responsibilities imposed on citizens by law. The prompt and regular **payment of taxes and rates** is a primary civic duty required to fund public infrastructure and state operations.",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Civic Education",
+    "topic": "Citizenship and Nationalism",
+    "question_text": "While exercising the right to freedom of expression, a responsible citizen is legally bound to avoid...",
+    "options": {
+      "a": "criticizing the economic policies of the government.",
+      "b": "defaming the character and reputation of another individual.",
+      "c": "publishing analytical articles in national dailies.",
+      "d": "joining a registered opposition political party."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Every right comes with corresponding responsibilities and legal limits. The right to freedom of expression does not protect **slander or libel** (defamation), hate speech, or incitement to violence.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Civic Education",
+    "topic": "Citizenship and Nationalism",
+    "question_text": "The strong feeling of devotion, love, and loyalty shown by an individual towards their country is termed...",
+    "options": {
+      "a": "nepotism.",
+      "b": "sectionalism.",
+      "c": "nationalism.",
+      "d": "colonialism."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Nationalism** is the sense of national consciousness and loyalty exalting one nation above all others, characterized by deep patriotism and dedication to the sovereignty and progress of one's country.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Civic Education",
+    "topic": "Citizenship and Nationalism",
+    "question_text": "Which of the following historical figures is widely celebrated as one of the founding pioneers of Nigerian nationalism?",
+    "options": {
+      "a": "Lord Frederick Lugard",
+      "b": "Herbert Macaulay",
+      "c": "Sir James Robertson",
+      "d": "Sir John Macpherson"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Herbert Macaulay** is widely regarded as the 'Father of Nigerian Nationalism.' He founded the Nigerian National Democratic Party (NNDP) in 1923 and vehemently opposed colonial injustices, unlike the colonial governors listed in the other options.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Civic Education",
+    "topic": "Citizenship and Nationalism",
+    "question_text": "National consciousness and unity in Nigeria are actively promoted by the government through the...",
+    "options": {
+      "a": "establishment of ethnically segregated public schools.",
+      "b": "National Youth Service Corps scheme.",
+      "c": "prioritization of regional customs over the federal constitution.",
+      "d": "prohibition of inter-ethnic marriages."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **National Youth Service Corps (NYSC)** was established in 1973 specifically to foster national integration, inter-ethnic harmony, and national consciousness among Nigerian graduates.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Civic Education",
+    "topic": "Citizenship and Nationalism",
+    "question_text": "On the Nigerian Coat of Arms, the **two white horses** represent...",
+    "options": {
+      "a": "fertile agricultural soil.",
+      "b": "dignity and pride.",
+      "c": "strength and power.",
+      "d": "peace and unity."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The symbols on the Nigerian Coat of Arms carry specific meanings:\n\n| Symbol | Representation |\n| :--- | :--- |\n| **Black Shield** | Fertile agricultural soil of Nigeria |\n| **Two White Horses** | Dignity and pride |\n| **Red Eagle** | Strength |\n| **'Y' Shape (Silver Pall)** | Confluence of Rivers Niger and Benue |\n| **Costus Spectabilis (Flower)** | National beauty |",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Civic Education",
+    "topic": "Citizenship and Nationalism",
+    "question_text": "An organized group of citizens that influences government policies to protect public welfare without contesting for political office functions as a...",
+    "options": {
+      "a": "pressure group.",
+      "b": "militia group.",
+      "c": "political party.",
+      "d": "legislative assembly."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "A **pressure group** is an association of individuals with common interests who seek to influence government policies, legislation, and public opinion without attempting to capture political power directly.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Civic Education",
+    "topic": "Citizenship and Nationalism",
+    "question_text": "Which of the following actions best illustrates a youth demonstrating nationalistic behaviour?",
+    "options": {
+      "a": "Disrupting electoral processes during national polls",
+      "b": "Participating actively in community self-help development projects",
+      "c": "Refusing to pay statutory local government rates",
+      "d": "Prioritizing ethnic interests above national security"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Nationalistic behaviour involves selflessness and positive contributions toward community and national development, such as volunteering in **community self-help projects**.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Civic Education",
+    "topic": "Citizenship and Nationalism",
+    "question_text": "Which of the following is a major **local civic problem** hindering community progress in Nigeria?",
+    "options": {
+      "a": "Strict adherence to traffic regulations",
+      "b": "High rate of community sanitation",
+      "c": "Cultism and youth restiveness",
+      "d": "Active participation in electoral processes"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Cultism and youth restiveness** are prominent local civic problems that disrupt peace, threaten security, destroy property, and deter economic development in Nigerian communities.",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Civic Education",
+    "topic": "Citizenship and Nationalism",
+    "question_text": "Which of the following issues is categorized as a **global civic problem** requiring international collaboration?",
+    "options": {
+      "a": "Boundary demarcation between two local government wards",
+      "b": "Global climate change and environmental degradation",
+      "c": "Collection of local market stall levies",
+      "d": "Appointment of a traditional community head"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Global civic problems are transnational challenges that exceed the boundary of any single country and require international cooperation. **Climate change**, terrorism, and international human trafficking are prime examples.",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Civic Education",
+    "topic": "Citizenship and Nationalism",
+    "question_text": "Which of the following approaches is **NOT** a constructive method for solving civic problems in a nation?",
+    "options": {
+      "a": "Conducting public awareness campaigns through the National Orientation Agency (NOA)",
+      "b": "Consistent and impartial enforcement of the law",
+      "c": "Providing technical skills acquisition programs for youths",
+      "d": "Suppressing freedom of speech and citizen feedback"
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "Suppressing free speech and public feedback alienates citizens and weakens governance. Sustainable solutions to civic problems require public enlightenment, rule of law, economic empowerment, and open dialogue.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Civic Education",
+    "topic": "Human Rights",
+    "question_text": "Fundamental human rights can best be defined as entitlements and privileges that...",
+    "options": {
+      "a": "are granted exclusively to citizens of high social or economic status.",
+      "b": "are inalienable and inherently belong to every individual by virtue of being human.",
+      "c": "are created by political parties to reward their active members.",
+      "d": "can only be enjoyed during periods of national economic prosperity."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Fundamental human rights** are universal, inalienable moral and legal entitlements inherent to every person simply because they are human, irrespective of nationality, sex, ethnicity, religion, or social standing.",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "Civic Education",
+    "topic": "Human Rights",
+    "question_text": "The right to work, fair wages, education, and access to healthcare belong to which category of human rights?",
+    "options": {
+      "a": "Civil and political rights",
+      "b": "Economic, social, and cultural rights",
+      "c": "Environmental and developmental rights",
+      "d": "Diplomatic and sovereign rights"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Human rights are broadly classified into three generations:\n\n| Generation | Category | Key Examples |\n| :--- | :--- | :--- |\n| **First Generation** | Civil & Political | Right to life, liberty, fair hearing, voting |\n| **Second Generation** | Economic, Social & Cultural | Right to work, education, healthcare, fair wages |\n| **Third Generation** | Solidarity / Environmental | Right to clean environment, peace, self-determination |",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "Civic Education",
+    "topic": "Human Rights",
+    "question_text": "In the 1999 Constitution of the Federal Republic of Nigeria, Fundamental Human Rights are explicitly enshrined in...",
+    "options": {
+      "a": "Chapter II.",
+      "b": "Chapter IV.",
+      "c": "Chapter VI.",
+      "d": "Chapter VIII."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Chapter IV** (Sections 33–46) of the 1999 Constitution of Nigeria contains the provisions on Fundamental Human Rights, including the right to life, dignity, personal liberty, fair hearing, and freedoms of thought, expression, and movement.",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "Civic Education",
+    "topic": "Human Rights",
+    "question_text": "The fundamental characteristic which states that human rights cannot be taken away or transferred from an individual is known as...",
+    "options": {
+      "a": "indivisibility.",
+      "b": "universality.",
+      "c": "inalienability.",
+      "d": "interdependence."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Inalienability** means human rights cannot be surrendered, sold, transferred, or arbitrarily taken away by the state or any authority, except through due process of law.",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "Civic Education",
+    "topic": "Human Rights",
+    "question_text": "The **universality** of human rights implies that these rights...",
+    "options": {
+      "a": "apply equally to all human beings everywhere without discrimination.",
+      "b": "are subject to modification based on personal wealth and status.",
+      "c": "are enforceable only in economically developed nations.",
+      "d": "can only be enjoyed within an individual's country of birth."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Universality** means that all human rights apply equally and without discrimination to every person in every part of the world, regardless of race, gender, nationality, or faith.",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "Civic Education",
+    "topic": "Human Rights",
+    "question_text": "The Universal Declaration of Human Rights (UDHR) was formally adopted by the United Nations General Assembly on...",
+    "options": {
+      "a": "24th October, 1945.",
+      "b": "1st October, 1960.",
+      "c": "10th December, 1948.",
+      "d": "15th January, 1970."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **UDHR** was proclaimed by the United Nations General Assembly in Paris on **10th December, 1948** (Resolution 217 A). This date is commemorated globally every year as International Human Rights Day.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "Civic Education",
+    "topic": "Human Rights",
+    "question_text": "The Universal Declaration of Human Rights (UDHR) was proclaimed in Paris primarily as a direct global response to the atrocities committed during the...",
+    "options": {
+      "a": "Cold War.",
+      "b": "First World War.",
+      "c": "Second World War.",
+      "d": "Gulf War."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Following the devastation and genocide of the **Second World War (1939–1945)**, the international community formed the United Nations and created the UDHR to ensure such barbarous acts would never recur.",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "Civic Education",
+    "topic": "Human Rights",
+    "question_text": "Which of the following is recognized as one of the core freedoms guaranteed under the Universal Declaration of Human Rights (UDHR)?",
+    "options": {
+      "a": "Freedom to evade statutory taxation",
+      "b": "Freedom of peaceful assembly and association",
+      "c": "Freedom to bear unlicensed concealed weapons",
+      "d": "Freedom to disregard valid judicial rulings"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Freedom of peaceful assembly and association** (Article 20 of the UDHR) guarantees the right of citizens to meet peacefully and form or join associations, trade unions, and political organizations.",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "Civic Education",
+    "topic": "Human Rights",
+    "question_text": "A citizen arrested and detained by security personnel for several months without being charged to a court of law has suffered a violation of the freedom from...",
+    "options": {
+      "a": "discrimination.",
+      "b": "arbitrary arrest and detention.",
+      "c": "payment of taxes.",
+      "d": "compulsory national service."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Article 9 of the UDHR and Section 35 of the Nigerian Constitution protect individuals against **arbitrary arrest and detention**. Holding a suspect indefinitely without charging them before a competent court violates this core freedom.",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "Civic Education",
+    "topic": "Human Rights",
+    "question_text": "The global importance of the Universal Declaration of Human Rights (UDHR) lies primarily in the fact that it...",
+    "options": {
+      "a": "serves as the universal benchmark and foundation for human rights standards worldwide.",
+      "b": "dissolves all sovereign national borders between member countries.",
+      "c": "places all national armed forces under the direct command of the UN.",
+      "d": "prohibits member nations from having independent constitutions."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The **UDHR** acts as a common standard of achievement for all peoples and nations, establishing a baseline of basic rights that national constitutions and international treaties are modeled upon.",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "Civic Education",
+    "topic": "Human Rights",
+    "question_text": "The statutory body established by the Federal Government of Nigeria to investigate human rights violations and enforce rights protection is the...",
+    "options": {
+      "a": "National Orientation Agency (NOA).",
+      "b": "Independent National Electoral Commission (INEC).",
+      "c": "National Human Rights Commission (NHRC).",
+      "d": "Public Complaints Commission (PCC)."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **National Human Rights Commission (NHRC)** was established by the NHRC Act of 1995 to promote, monitor, and protect human rights, investigate abuses, and assist victims in Nigeria.",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "Civic Education",
+    "topic": "Human Rights",
+    "question_text": "Non-Governmental Organizations (NGOs) and civil society groups support the principles of the UDHR primarily by...",
+    "options": {
+      "a": "sentencing human rights violators to prison terms.",
+      "b": "drafting and passing national legislation.",
+      "c": "monitoring abuses, educating citizens, and providing legal aid to victims.",
+      "d": "commanding military personnel during civil disturbances."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Human rights NGOs (such as Amnesty International and SERAP) promote the UDHR through **civic enlightenment, public advocacy, monitoring and reporting abuses**, and offering legal aid to victims whose rights have been infringed.",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "Civic Education",
+    "topic": "Human Rights",
+    "question_text": "During an outbreak of a deadly and highly contagious epidemic, the government may lawfully restrict citizens' freedom of movement in order to...",
+    "options": {
+      "a": "silence political opposition parties.",
+      "b": "raise emergency revenue via movement fines.",
+      "c": "safeguard public health and general welfare.",
+      "d": "prevent citizens from buying foreign commodities."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Human rights are not absolute. Quarantines and curfews during infectious disease outbreaks are constitutional limitations permitted strictly to protect **public health and general welfare**.",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "Civic Education",
+    "topic": "Human Rights",
+    "question_text": "Under which of the following circumstances is the state constitutionally permitted to suspend or curtail certain fundamental human rights?",
+    "options": {
+      "a": "When an opposition party challenges an executive appointment",
+      "b": "During a legitimately proclaimed state of emergency or wartime",
+      "c": "When a citizen chooses to convert to another religious faith",
+      "d": "During regular annual budget deliberations in parliament"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Section 45 of the Nigerian Constitution provides that rights (such as privacy, expression, assembly, and movement) may be derogated from during periods of **national emergency, war, or public disasters** to maintain state security.",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "Civic Education",
+    "topic": "Human Rights",
+    "question_text": "Which of the following is **NOT** a legitimate constitutional limitation on the exercise of human rights?",
+    "options": {
+      "a": "A lawful sentence of imprisonment passed by a competent court of law",
+      "b": "Measures taken to maintain public safety during civil unrest",
+      "c": "A citizen's refusal to vote for candidates of the ruling political party",
+      "d": "Laws enacted to protect the reputation and freedoms of other citizens"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Political preference and voting choice are democratic freedoms. A citizen cannot have their fundamental human rights legally curtailed simply for refusing to support or vote for the ruling party.",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "Civic Education",
+    "topic": "Law and Order",
+    "question_text": "The condition in a society where rules are obeyed, public peace is maintained, and citizens interact without violence or chaos is known as...",
+    "options": {
+      "a": "anarchy.",
+      "b": "law and order.",
+      "c": "authoritarianism.",
+      "d": "bureaucracy."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Law and order** refers to a state of societal tranquility where constitutional laws and established regulations are respected and enforced, preventing criminality, chaos, and social disorder.",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "Civic Education",
+    "topic": "Law and Order",
+    "question_text": "Which of the following is a primary characteristic feature of a society with effective law and order?",
+    "options": {
+      "a": "Prevalence of mob justice and violent vigilantism",
+      "b": "Arbitrary detention of citizens without trial",
+      "c": "Peaceful coexistence and adherence to due process",
+      "d": "Complete suppression of opposition political parties"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A key feature of a society governed by law and order is **peaceful coexistence**, stability, predictability, and strict adherence to **due process** through legitimate judicial and law enforcement mechanisms.",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "Civic Education",
+    "topic": "Law and Order",
+    "question_text": "A major reason why law and order is indispensable in any society is that it...",
+    "options": {
+      "a": "provides a secure and predictable environment for economic and social development.",
+      "b": "eliminates the necessity of establishing higher educational institutions.",
+      "c": "guarantees automatic public sector employment for every citizen.",
+      "d": "confers absolute legal immunity on all law enforcement personnel."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Law and order is essential because it guarantees personal security, protects private property, and provides the peaceful atmosphere necessary for **economic investments, commerce, and national growth** to thrive.",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "Civic Education",
+    "topic": "Law and Order",
+    "question_text": "The term **constituted authority** refers to an individual or leadership body that...",
+    "options": {
+      "a": "seizes governmental control through violent insurrection.",
+      "b": "is legitimately established and legally empowered to manage societal affairs.",
+      "c": "rules entirely outside the established laws and customs of the state.",
+      "d": "exercises unrestricted power without any institutional checks."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Constituted authority** is an individual, group, or institution that has been legally and legitimately established in accordance with the constitution, laws, or accepted customs to lead, govern, and administer a society or organization.",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "Civic Education",
+    "topic": "Law and Order",
+    "question_text": "An Emir, Oba, or Obi who exercises leadership based on the established customs and heritage of their community is an example of a...",
+    "options": {
+      "a": "coercive authority.",
+      "b": "traditional constituted authority.",
+      "c": "bureaucratic public corporation.",
+      "d": "revolutionary constituted authority."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Traditional constituted authority** derives its legitimacy from ancestral customs, traditions, and native institutions. Monarchs such as Obas, Emirs, and Obis fall squarely into this category.",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "Civic Education",
+    "topic": "Law and Order",
+    "question_text": "Which of the following leadership figures is categorized under **religious constituted authority**?",
+    "options": {
+      "a": "The President of the Federal Republic of Nigeria",
+      "b": "A Diocesan Bishop or Chief Imam",
+      "c": "The Principal of a public secondary school",
+      "d": "The Chief Judge of a State High Court"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Authorities are classified according to their mandate and institutional sphere:\n\n| Type of Constituted Authority | Key Leaders / Examples |\n| :--- | :--- |\n| **Government / Legal** | President, Governors, Judges, Police Officers |\n| **Traditional** | Obas, Emirs, Obis, Village Chiefs |\n| **Religious** | Bishops, Pastors, Chief Imams, Islamic Scholars |\n| **Organizational / Positional** | School Principals, Company Directors, Union Leaders |",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "Civic Education",
+    "topic": "Law and Order",
+    "question_text": "Which of the following is a vital role played by constituted authorities in maintaining social stability?",
+    "options": {
+      "a": "Suppressing the peaceful expression of minority opinions",
+      "b": "Enacting, implementing, and enforcing public policies for collective welfare",
+      "c": "Encouraging citizens to take the law into their own hands",
+      "d": "Allocating public resources based on tribal favouritism"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Constituted authorities maintain social order by **formulating policies, settling disputes, executing laws, and providing social infrastructure** to enhance citizen welfare and maintain civil harmony.",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "Civic Education",
+    "topic": "Law and Order",
+    "question_text": "A widespread breakdown and total collapse of constituted authority in a country leads directly to...",
+    "options": {
+      "a": "accelerated economic productivity.",
+      "b": "anarchy, insecurity, and social disorder.",
+      "c": "enhanced protection of fundamental human rights.",
+      "d": "an automatic reduction in violent crimes."
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Without legitimate constituted authority to enforce laws and preserve order, a society descends into **anarchy**—a state of lawlessness, rampant crime, violence, and institutional collapse where might becomes right.",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "Civic Education",
+    "topic": "Responsible Parenthood",
+    "question_text": "The willingness and ability of parents to cater adequately to the basic physical, emotional, educational, and moral needs of their offspring is termed...",
+    "options": {
+      "a": "foster parenting.",
+      "b": "responsible parenthood.",
+      "c": "kinship adoption.",
+      "d": "juvenile welfare."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Responsible parenthood** is the capacity of parents to guide, nurture, and provide for the basic life needs (such as food, shelter, education, moral upbringing, and healthcare) of their children according to their family resources.",
+    "section_id": null
+  },
+  {
+    "question_number": 46,
+    "subject": "Civic Education",
+    "topic": "Responsible Parenthood",
+    "question_text": "Which of the following is a primary moral and social duty of responsible parents in the upbringing of their children?",
+    "options": {
+      "a": "Inculcating ethnic hatred and bias towards other tribes",
+      "b": "Instilling discipline, integrity, and respect for societal laws",
+      "c": "Encouraging early school withdrawal for street trading",
+      "d": "Shielding children from lawful punishment when they commit crimes"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A core role of responsible parents is moral guidance—**instilling positive values, discipline, sound character, and civic responsibility** in their children so they grow up to be productive members of society.",
+    "section_id": null
+  },
+  {
+    "question_number": 47,
+    "subject": "Civic Education",
+    "topic": "Responsible Parenthood",
+    "question_text": "A couple plans their family size strictly according to their income, ensures all their children acquire formal education, and provides regular medical care and affection. This couple is demonstrating...",
+    "options": {
+      "a": "political socialization.",
+      "b": "responsible parenthood.",
+      "c": "coercive discipline.",
+      "d": "authoritarian parenting."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Family planning, adequate provision of nutritious food, medical healthcare, quality education, and emotional stability within the limits of family income are classic hallmarks of **responsible parenthood**.",
+    "section_id": null
+  },
+  {
+    "question_number": 48,
+    "subject": "Civic Education",
+    "topic": "Responsible Parenthood",
+    "question_text": "Responsible parenthood contributes significantly to national development primarily by...",
+    "options": {
+      "a": "increasing the population of uneducated and idle youths.",
+      "b": "raising disciplined, educated, and law-abiding citizens.",
+      "c": "escalating the rate of juvenile delinquency and street begging.",
+      "d": "reducing the total tax revenue collected by the government."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The family is the basic unit of society. When parents nurture and educate their children properly, they produce **disciplined, highly skilled, and patriotic citizens** who drive economic productivity and promote peace in the country.",
+    "section_id": null
+  },
+  {
+    "question_number": 49,
+    "subject": "Civic Education",
+    "topic": "Responsible Parenthood",
+    "question_text": "Which of the following is **NOT** a negative social consequence of parental neglect and irresponsible parenthood?",
+    "options": {
+      "a": "High prevalence of juvenile delinquency and street children",
+      "b": "Increased vulnerability of youths to cultism and drug abuse",
+      "c": "Effective and impartial enforcement of constitutional laws",
+      "d": "Surge in the rate of child labour and child exploitation"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Parental neglect causes social vices such as child abuse, child labour, cultism, and delinquency. **Impartial enforcement of constitutional laws** is a legal and governmental function that is completely unrelated to parental failure.",
+    "section_id": null
+  },
+  {
+    "question_number": 50,
+    "subject": "Civic Education",
+    "topic": "Traffic Regulations",
+    "question_text": "In standard traffic light signals, the **amber (yellow)** light instructs a motorist to...",
+    "options": {
+      "a": "accelerate quickly to clear the intersection.",
+      "b": "slow down and prepare to stop unless it is unsafe to do so.",
+      "c": "proceed immediately at maximum speed limit.",
+      "d": "reverse the vehicle away from the intersection."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Traffic light signals have standard universal indications:\n\n| Light Colour | Directive to Driver |\n| :--- | :--- |\n| **Red** | Stop completely before the stop line |\n| **Amber (Yellow)** | Slow down and prepare to stop (or clear if already in intersection) |\n| **Green** | Proceed / Go if the way is clear |",
+    "section_id": null
+  },
+  {
+    "question_number": 51,
+    "subject": "Civic Education",
+    "topic": "Traffic Regulations",
+    "question_text": "The primary purpose of enforcing traffic regulations on public roads is to...",
+    "options": {
+      "a": "maximize revenue generated through traffic fines and penalties.",
+      "b": "prevent road traffic accidents, save lives, and maintain orderly movement.",
+      "c": "discourage citizens from purchasing and driving private motor vehicles.",
+      "d": "restrict commercial passenger vehicles to rural highways only."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Traffic regulations are rules enacted to control vehicular and pedestrian movement. Their main objective is to **minimize road accidents, protect lives and properties, and prevent vehicular congestion**.",
+    "section_id": null
+  },
+  {
+    "question_number": 52,
+    "subject": "Civic Education",
+    "topic": "Traffic Regulations",
+    "question_text": "The statutory federal agency established in Nigeria to maintain safety, enforce traffic regulations, and reduce road crashes on federal highways is the...",
+    "options": {
+      "a": "National Drug Law Enforcement Agency (NDLEA).",
+      "b": "Federal Road Safety Corps (FRSC).",
+      "c": "Nigeria Security and Civil Defence Corps (NSCDC).",
+      "d": "National Orientation Agency (NOA)."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Federal Road Safety Corps (FRSC)** was established in 1988 as the lead government agency responsible for road safety administration, driver licensing, and traffic law enforcement on Nigerian highways.",
+    "section_id": null
+  },
+  {
+    "question_number": 53,
+    "subject": "Civic Education",
+    "topic": "Traffic Regulations",
+    "question_text": "To ensure personal safety when crossing a busy urban roadway where there is no pedestrian flyover, pedestrians are legally advised to use the...",
+    "options": {
+      "a": "middle drainage median.",
+      "b": "zebra crossing.",
+      "c": "highway shoulder pavement.",
+      "d": "emergency breakdown lane."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **zebra crossing** consists of prominent black and white stripes painted across the road. By traffic law, approaching motorists must yield the right of way to pedestrians crossing on designated zebra crossings.",
+    "section_id": null
+  },
+  {
+    "question_number": 54,
+    "subject": "Civic Education",
+    "topic": "Interpersonal Relationships",
+    "question_text": "Which of the following statements provides the most accurate definition of an **interpersonal relationship**?",
+    "options": {
+      "a": "The legal contract between a corporate business and its newly hired employees.",
+      "b": "The social association, connection, or affiliation established between two or more people.",
+      "c": "The official diplomatic ties maintained between sovereign nations.",
+      "d": "The interaction between an individual citizen and the country's armed forces."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "An **interpersonal relationship** is a social connection, association, or affiliation between two or more people based on mutual interaction, shared interests, blood relations, or love.",
+    "section_id": null
+  },
+  {
+    "question_number": 55,
+    "subject": "Civic Education",
+    "topic": "Interpersonal Relationships",
+    "question_text": "The relationship that naturally exists among individuals who share the same bloodline, ancestry, or marital ties is classified as a...",
+    "options": {
+      "a": "platonic relationship.",
+      "b": "peer relationship.",
+      "c": "familial relationship.",
+      "d": "professional relationship."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Familial relationships** are formed through biological blood ties, adoption, or marriage (e.g., relationship between parents and children, or between siblings). Other types include peer, platonic, and professional relationships.",
+    "section_id": null
+  },
+  {
+    "question_number": 56,
+    "subject": "Civic Education",
+    "topic": "Interpersonal Relationships",
+    "question_text": "Which of the following scenarios describes a **platonic relationship**?",
+    "options": {
+      "a": "A strict and formal interaction between an employer and an employee",
+      "b": "An intimate and highly romantic relationship between two lovers",
+      "c": "A deep, non-sexual friendship between two individuals",
+      "d": "A biological connection between parents and their offspring"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A **platonic relationship** refers to a close, affectionate, and trusting friendship between two people (often of the opposite sex) that is purely spiritual and non-sexual in nature.",
+    "section_id": null
+  },
+  {
+    "question_number": 57,
+    "subject": "Civic Education",
+    "topic": "Interpersonal Relationships",
+    "question_text": "Which of the following is a crucial skill required to promote and sustain healthy interpersonal relationships?",
+    "options": {
+      "a": "Rigid adherence to personal opinions without compromise",
+      "b": "Active listening and effective communication",
+      "c": "Promoting malicious gossip among close associates",
+      "d": "Intimidation and emotional manipulation of peers"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Skills that promote interpersonal relationships include **active listening, effective communication, empathy, tolerance, and mutual respect**. These foster understanding and trust between individuals.",
+    "section_id": null
+  },
+  {
+    "question_number": 58,
+    "subject": "Civic Education",
+    "topic": "Interpersonal Relationships",
+    "question_text": "**Inter-communal relationship** can best be defined as the social, cultural, and economic interaction that exists between...",
+    "options": {
+      "a": "individuals belonging to the same nuclear family.",
+      "b": "two or more distinct towns, villages, or ethnic groups.",
+      "c": "different countries trading in the international global market.",
+      "d": "members belonging strictly to the same political party."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "While interpersonal relationships deal with individuals, **inter-communal relationships** refer to the interactions, associations, and cooperations that occur between two or more distinct communities, towns, or ethnic groups.",
+    "section_id": null
+  },
+  {
+    "question_number": 59,
+    "subject": "Civic Education",
+    "topic": "Interpersonal Relationships",
+    "question_text": "A positive inter-communal relationship is highly essential for a nation because it primarily promotes...",
+    "options": {
+      "a": "the domination of smaller communities by larger ethnic groups.",
+      "b": "the cultural extinction of minority languages and traditions.",
+      "c": "secessionist movements by marginalized regional groups.",
+      "d": "peace, mutual security, and socio-economic development."
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Good inter-communal relationships encourage peaceful coexistence, reduce the chances of conflict, promote inter-marriage, and foster an environment where **socio-economic development and national security** can thrive.",
+    "section_id": null
+  },
+  {
+    "question_number": 60,
+    "subject": "Civic Education",
+    "topic": "Interpersonal Relationships",
+    "question_text": "Two neighbouring communities previously at odds decided to jointly finance and build a central market. This cooperative action is most likely to result in...",
+    "options": {
+      "a": "mutual economic growth and an improved standard of living.",
+      "b": "increased local poverty and uncontrolled inflation.",
+      "c": "fierce political rivalry and renewed boundary tensions.",
+      "d": "the total abandonment of their distinct cultural heritage."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Building shared infrastructure (like a central market) is a practical example of positive inter-communal relations. It creates trade opportunities, boosts commercial activities, and directly leads to **mutual economic growth** for both communities.",
+    "section_id": null
+  },
+  {
+    "question_number": 61,
+    "subject": "Civic Education",
+    "topic": "Interpersonal Relationships",
+    "question_text": "**Inter-communal conflict** typically arises when neighbouring communities...",
+    "options": {
+      "a": "engage frequently in inter-tribal marriages.",
+      "b": "clash violently over disputed land or scarce natural resources.",
+      "c": "share their respective cultural festivals peacefully.",
+      "d": "form a joint neighborhood vigilante security network."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Inter-communal conflicts are violent clashes or disputes between different communities. These conflicts are predominantly caused by disputes over **land boundaries, grazing rights, scarce resources, or chieftaincy titles**.",
+    "section_id": null
+  },
+  {
+    "question_number": 62,
+    "subject": "Civic Education",
+    "topic": "Interpersonal Relationships",
+    "question_text": "When a severe inter-communal conflict breaks out, what is the most appropriate and sustainable method of resolving the dispute?",
+    "options": {
+      "a": "Deploying armed vigilante youths to forcefully reclaim the disputed area",
+      "b": "Cutting off all communication and trade links indefinitely",
+      "c": "Engaging in constructive dialogue, negotiation, and mediation",
+      "d": "Seeking immediate military intervention from foreign countries"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The most effective and lasting way to resolve inter-communal conflicts is through non-violent dispute resolution mechanisms such as **dialogue, negotiation, mediation, and arbitration**, rather than resorting to violence or military force.",
+    "section_id": null
+  },
+  {
+    "question_number": 63,
+    "subject": "Civic Education",
+    "topic": "Interpersonal Relationships",
+    "question_text": "An independent, neutral third party who is invited to actively assist two warring communities in reaching a mutually acceptable peaceful settlement is acting as a...",
+    "options": {
+      "a": "mediator.",
+      "b": "litigant.",
+      "c": "dictator.",
+      "d": "mercenary."
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "In conflict resolution, a **mediator** is a neutral third party whose role is to facilitate dialogue between conflicting parties and help them negotiate a peaceful, mutually beneficial agreement.",
+    "section_id": null
+  },
+  {
+    "question_number": 64,
+    "subject": "Civic Education",
+    "topic": "Cultism",
+    "question_text": "The origin of campus cultism in Nigeria is historically traced back to the establishment of the **Pyrates Confraternity** in 1952 at the...",
+    "options": {
+      "a": "University of Lagos.",
+      "b": "Ahmadu Bello University, Zaria.",
+      "c": "University College, Ibadan.",
+      "d": "University of Nigeria, Nsukka."
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Campus confraternities in Nigeria began in **1952 at University College, Ibadan** (now the University of Ibadan), when Professor Wole Soyinka and six others (the \"Magnificent Seven\") founded the Pyrates Confraternity, also known as the National Association of Seadogs.",
+    "section_id": null
+  },
+  {
+    "question_number": 65,
+    "subject": "Civic Education",
+    "topic": "Cultism",
+    "question_text": "When the first student confraternity was formed in Nigeria by the \"Magnificent Seven\", its primary and original objective was to...",
+    "options": {
+      "a": "enforce a violent monopoly over student union politics.",
+      "b": "combat elitism, tribalism, and colonial oppression on campus.",
+      "c": "serve as an underground militia for the university administration.",
+      "d": "organize armed robberies to fund external student activities."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **Pyrates Confraternity** was initially established as a peaceful, progressive, and patriotic organization meant to combat tribalism, elitism, and the colonial mindset among students. It was only in later decades that splinter groups deviated into the violent secret cults seen today.",
+    "section_id": null
+  },
+  {
+    "question_number": 66,
+    "subject": "Civic Education",
+    "topic": "Cultism",
+    "question_text": "In the study of secret cults in Nigerian tertiary institutions, the **Neo Black Movement (NBM)** is commonly associated with which of the following symbols?",
+    "options": {
+      "a": "A red flying bird",
+      "b": "A skull and crossbones",
+      "c": "An upright black axe",
+      "d": "A crossed anchor and rope"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Different cult groups are identifiable by their unique symbols, which reflect their ideologies and historical splinterings:\n\n| Cult Group | Common Symbol |\n| :--- | :--- |\n| **Pyrates Confraternity** | Skull and crossbones |\n| **Buccaneers (Sea Lords)** | Yellow color / Albatross |\n| **Black Axe (NBM)** | Upright Black Axe |\n| **Supreme Vikings** | Crossed axes and a boat |",
+    "section_id": null
+  },
+  {
+    "question_number": 67,
+    "subject": "Civic Education",
+    "topic": "Cultism",
+    "question_text": "Which of the following is a primary psychological reason why many youths are lured into joining secret cults on campus?",
+    "options": {
+      "a": "To secure automatic employment in the federal civil service",
+      "b": "The desire for an intimidating status and a false sense of security",
+      "c": "To gain exemption from the National Youth Service Corps (NYSC)",
+      "d": "The urge to voluntarily finance the university management's projects"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Many students are lured into cultism due to peer pressure, curiosity, or the **illusion of power, popularity, and security** (protection from intimidation). Unfortunately, this false sense of security eventually exposes them to extreme danger and violence.",
+    "section_id": null
+  },
+  {
+    "question_number": 68,
+    "subject": "Civic Education",
+    "topic": "Cultism",
+    "question_text": "A major direct consequence of cult activities on the educational system in Nigeria is the...",
+    "options": {
+      "a": "frequent disruption of the academic calendar and loss of lives.",
+      "b": "rapid expansion of university infrastructural projects.",
+      "c": "creation of foreign exchange revenue for tertiary institutions.",
+      "d": "improvement in the quality of student union elections."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "Cult-related clashes lead to violence, destruction of school property, loss of lives, and widespread insecurity, which in turn forces university authorities to close down schools, causing **frequent disruptions to the academic calendar**.",
+    "section_id": null
+  },
+  {
+    "question_number": 69,
+    "subject": "Civic Education",
+    "topic": "Cultism",
+    "question_text": "Which of the following constitutes the most effective institutional approach to eradicating cultism in tertiary institutions?",
+    "options": {
+      "a": "Encouraging students to form heavily armed campus vigilante groups",
+      "b": "Providing financial stipends exclusively to active cult members",
+      "c": "Imposing stiff penalties such as rustication and prosecution for convicted cultists",
+      "d": "Promoting inter-cult rivalries during school sports festivals"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "To combat cultism effectively, university administrations and the government must enforce strict laws, ensuring that anyone caught participating in cult activities faces severe consequences, including **rustication (expulsion) and criminal prosecution**.",
+    "section_id": null
+  }
+]

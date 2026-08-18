@@ -62,5 +62,37 @@
         "isOfficial": false,
         "seo_title": "NECO SSCE Commerce Part 2 Practice Test | Finance, Marketing & Business Management",
         "seo_description": "Practice 83 free NECO SSCE Commerce questions covering Finance and Financial Institutions, Transport, Advertising, Marketing, Legal Aspect of Business, Government Policies, Business Management, and Economic Groupings."
+    },
+    {
+        "id": "neco_civicEducation_part1",
+        "category": "NECO_SSCE",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "NECO Civic Education Part 1: National Values, Rights, Citizenship & Social Conduct",
+        "short_description": "69-question practice set covering Values, Citizenship and Nationalism, Human Rights, Law and Order, Responsible Parenthood, Traffic Regulations, Interpersonal Relationships, and Cultism.",
+        "description": "### Module: National Values, Rights, Citizenship & Social Conduct\n\n**Focus:** Personal & Civic Values, Rights and Social Conduct | **Level:** Senior Secondary (SS3)\n\nBuild a strong foundation in the introductory Civic Education topics tested in the National Examinations Council (NECO) Senior School Certificate Examination (SSCE) Civic Education paper with this practice module. It features **69 multiple-choice questions** spanning the early sections of the syllabus.\n\n---\n\n#### Key Curriculum Topics Covered:\n* **Values:** Definition, types, and importance of values to society.\n* **Citizenship and Nationalism:** Meaning and goals of citizenship education, duties and obligations of citizens, meaning of nationalism, and ways of promoting national consciousness, integrity, and unity.\n* **Human Rights:** Meaning, categories, and characteristics of human rights; the Universal Declaration of Human Rights (UDHR), its core freedoms, importance, and limitations to the exercise of human rights.\n* **Law and Order:** Definition, features, and importance of law and order; meaning, types, and roles of constituted authority.\n* **Responsible Parenthood:** Meaning and roles of responsible parents, and the importance of responsible parenthood in national development.\n* **Traffic Regulations:** Meaning and importance of traffic regulations, and the roles of individuals and government in maintaining them.\n* **Interpersonal Relationships:** Types and skills that promote interpersonal and inter-communal relationships, and skills for resolving inter-communal conflicts.\n* **Cultism:** Meaning, origin, causes, consequences, and ways of preventing cultism in society.",
+        "path": "nigeria/NECO_SSCE/civicEducation/civicEducationPart1.json",
+        "isOfficial": false,
+        "seo_title": "NECO SSCE Civic Education Part 1 Practice Test | Values, Rights & Citizenship",
+        "seo_description": "Practice 69 free NECO SSCE Civic Education questions covering Values, Citizenship and Nationalism, Human Rights, Law and Order, Responsible Parenthood, Traffic Regulations, Interpersonal Relationships, and Cultism."
+    },
+    {
+        "id": "neco_civicEducation_part2",
+        "category": "NECO_SSCE",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "NECO Civic Education Part 2: Social Vices, National Development & Governance",
+        "short_description": "71-question practice set covering Drugs and Drug Abuse, Human Trafficking, HIV/AIDS, Youth Empowerment, Structure and Functions of Government, Democracy Rule of Law and National Development, Political Apathy, Civil Society and Popular Participation, and Public Service in Democracy.",
+        "description": "### Module: Social Vices, National Development & Governance\n\n**Focus:** Social Issues, Democracy & Governmental Processes | **Level:** Senior Secondary (SS3)\n\nMaster the social-vice awareness, national development, and governance topics of the National Examinations Council (NECO) Senior School Certificate Examination (SSCE) Civic Education paper with this practice module. It features **71 multiple-choice questions** spanning the second half of the syllabus.\n\n---\n\n#### Key Curriculum Topics Covered:\n* **Drugs and Drug Abuse:** Meaning, causes, symptoms, and behaviours of drug abuse; government agencies and laws against drug abuse and trafficking.\n* **Human Trafficking:** Meaning, causes, effects, and government/individual efforts to stop human trafficking.\n* **HIV/AIDS:** Meaning, causes, symptoms, prevention, and stigmatization of people living with HIV/AIDS.\n* **Youth Empowerment:** Meaning, skills, importance, and government efforts towards youth empowerment.\n* **Structure and Functions of Government:** Meaning, structure/tiers, and functions of government.\n* **Democracy, Rule of Law and National Development:** Meaning, types, features, pillars, and problems of democracy; meaning, features, and problems of rule of law; how democracy and rule of law promote national development.\n* **Political Apathy:** Meaning, causes, and consequences of political apathy, and ways of discouraging it.\n* **Civil Society and Popular Participation:** Meaning and types of popular participation; meaning, functions, characteristics, and problems of civil society.\n* **Public Service in Democracy:** Meaning, functions, and problems of public service, and ways of improving it.",
+        "path": "nigeria/NECO_SSCE/civicEducation/civicEducationPart2.json",
+        "isOfficial": false,
+        "seo_title": "NECO SSCE Civic Education Part 2 Practice Test | Governance, Democracy & Social Issues",
+        "seo_description": "Practice 71 free NECO SSCE Civic Education questions covering Drugs and Drug Abuse, Human Trafficking, HIV/AIDS, Youth Empowerment, Government Structure, Democracy, Political Apathy, Civil Society, and Public Service."
     }
 ]

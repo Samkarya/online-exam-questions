@@ -1006,5 +1006,19 @@
     "short_description": "83-question practice set covering Finance and Financial Institutions, Transport/Tourism/Communication/Warehousing, Advertising, Marketing, Legal Aspect of Business, Government Policies, Business Management, and Economic Groupings.",
     "path": "nigeria/NECO_SSCE/commerce/commercePart2.json",
     "suitePath": "configs/neco-ssce.json"
+  },
+  {
+    "id": "neco_civicEducation_part1",
+    "title": "NECO Civic Education Part 1: National Values, Rights, Citizenship & Social Conduct",
+    "short_description": "69-question practice set covering Values, Citizenship and Nationalism, Human Rights, Law and Order, Responsible Parenthood, Traffic Regulations, Interpersonal Relationships, and Cultism.",
+    "path": "nigeria/NECO_SSCE/civicEducation/civicEducationPart1.json",
+    "suitePath": "configs/neco-ssce.json"
+  },
+  {
+    "id": "neco_civicEducation_part2",
+    "title": "NECO Civic Education Part 2: Social Vices, National Development & Governance",
+    "short_description": "71-question practice set covering Drugs and Drug Abuse, Human Trafficking, HIV/AIDS, Youth Empowerment, Structure and Functions of Government, Democracy Rule of Law and National Development, Political Apathy, Civil Society and Popular Participation, and Public Service in Democracy.",
+    "path": "nigeria/NECO_SSCE/civicEducation/civicEducationPart2.json",
+    "suitePath": "configs/neco-ssce.json"
   }
 ]
