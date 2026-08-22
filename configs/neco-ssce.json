@@ -94,5 +94,37 @@
         "isOfficial": false,
         "seo_title": "NECO SSCE Civic Education Part 2 Practice Test | Governance, Democracy & Social Issues",
         "seo_description": "Practice 71 free NECO SSCE Civic Education questions covering Drugs and Drug Abuse, Human Trafficking, HIV/AIDS, Youth Empowerment, Government Structure, Democracy, Political Apathy, Civil Society, and Public Service."
+    },
+    {
+        "id": "neco_financialAccounting_part1",
+        "category": "NECO_SSCE",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "NECO Financial Accounting Part 1: Foundations, Final Accounts & Records",
+        "short_description": "74-question practice set covering Introduction to Financial Accounting, the Accounting Equation and Double Entry Principles, Accounting Concepts, Final Accounts of a Sole Trader, Provisions and Reserves, Manufacturing Accounts, Control Accounts, Single Entry/Incomplete Records, and Not-for-Profit Organizations.",
+        "description": "### Module: Foundations, Final Accounts & Records\n\n**Focus:** Core Bookkeeping and Final Accounts Preparation | **Level:** Senior Secondary (SS3)\n\nBuild a strong foundation in the introductory and core practice topics tested in the National Examinations Council (NECO) Senior School Certificate Examination (SSCE) Financial Accounting paper with this practice module. It features **74 multiple-choice questions** spanning the first half of the syllabus.\n\n---\n\n#### Key Curriculum Topics Covered:\n* **Introduction to Financial Accounting:** History, nature and functions of accounting, users of accounting information, stages in the accounting process, and characteristics of accounting information.\n* **The Accounting Equation and Double Entry Principles:** The accounting equation, source documents, subsidiary books, ledger classification, the analytical cash book (including petty cash book), preparation of the trial balance, and bank reconciliation statements.\n* **Accounting Concepts:** Meaning, types, significance, and limitations of accounting concepts.\n* **The Final Accounts of a Sole Trader/Proprietorship.**\n* **Provisions and Reserves:** Provision for doubtful debts and discounts, depreciation concepts and methods (straight line, reducing balance, sum of the years' digits), accounting for depreciation, and revenue/capital reserves.\n* **Manufacturing Accounts:** Purpose, cost classification, and preparation of final accounts of a manufacturing concern.\n* **Control Accounts and Self Balancing Ledgers:** Meaning and uses, sales/purchases ledger control, preparation, and reconciliation of control accounts.\n* **Single Entry and Incomplete Records:** Meaning and limitations, computing profit/loss from balance sheets, converting single entry to double entry, preparing final accounts from incomplete records, and markup/margin.\n* **Accounts of Not-for-Profit Making Organizations:** Receipts and payments accounts, subscriptions account, income and expenditure accounts, accumulated fund, balance sheet, and profit/loss from income-generating activities.",
+        "path": "nigeria/NECO_SSCE/financialAccounting/financialAccountingPart1.json",
+        "isOfficial": false,
+        "seo_title": "NECO SSCE Financial Accounting Part 1 Practice Test | Foundations & Final Accounts",
+        "seo_description": "Practice 74 free NECO SSCE Financial Accounting questions covering Introduction to Accounting, Double Entry Principles, Accounting Concepts, Final Accounts, Provisions and Reserves, Manufacturing Accounts, Control Accounts, Incomplete Records, and Not-for-Profit Organizations."
+    },
+    {
+        "id": "neco_financialAccounting_part2",
+        "category": "NECO_SSCE",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "NECO Financial Accounting Part 2: Partnerships, Companies & the Financial System",
+        "short_description": "58-question practice set covering Partnership Accounts, Company Accounts, Accounting for Value Added Tax, Departmental and Branch Accounts, Public Sector Accounting, Information Technology in Accounting, Miscellaneous Accounts, and the Financial System.",
+        "description": "### Module: Partnerships, Companies & the Financial System\n\n**Focus:** Advanced Entities, Taxation & the Financial System | **Level:** Senior Secondary (SS3)\n\nMaster the advanced entity accounting, taxation, sectoral, and financial-system topics of the National Examinations Council (NECO) Senior School Certificate Examination (SSCE) Financial Accounting paper with this practice module. It features **58 multiple-choice questions** spanning the second half of the syllabus.\n\n---\n\n#### Key Curriculum Topics Covered:\n* **Partnership Accounts:** Nature and formation, partnership agreements/deed, profit and loss appropriation accounts, partners' capital accounts and balance sheet, admission of a new partner, treatment of goodwill and revaluation of assets, and dissolution of partnership.\n* **Company Accounts:** Nature and formation of a company, types of companies and shares, issue of shares, loan capital/debentures/mortgages, final accounts for internal use, interpretation of accounts using simple ratios, purchase of business account, and the statement of cash flow (direct and indirect methods).\n* **Accounting for Value Added Tax:** Purpose and characteristics of VAT, bases of computing input/output VAT, preparation of VAT returns, and exempt goods and services.\n* **Departmental and Branch Accounts:** Differences between a department and branch, preparation of departmental and branch accounts, and inter-branch transactions.\n* **Public Sector Accounting:** Differences between public and private sector accounts, sources of public revenue, capital/recurrent expenditure, and preparation of simple government accounts.\n* **Information Technology in Accounting:** Manual and computerized accounting processing systems, data processing, computer hardware/software, and merits/demerits of each system.\n* **Miscellaneous Accounts:** Joint Venture Accounts, Consignment Accounts, Contract Accounts, and Hire Purchase Accounts.\n* **Financial System:** Meaning and components, money/capital/insurance markets, methods of raising funds from the capital market, listing requirements, benefits of the capital market, and reasons for its regulation.",
+        "path": "nigeria/NECO_SSCE/financialAccounting/financialAccountingPart2.json",
+        "isOfficial": false,
+        "seo_title": "NECO SSCE Financial Accounting Part 2 Practice Test | Partnerships, Companies & Financial System",
+        "seo_description": "Practice 58 free NECO SSCE Financial Accounting questions covering Partnership Accounts, Company Accounts, VAT, Departmental and Branch Accounts, Public Sector Accounting, IT in Accounting, Miscellaneous Accounts, and the Financial System."
     }
 ]

@@ -1,0 +1,1186 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Financial Accounting",
+    "topic": "History, nature and functions of Accounting",
+    "question_text": "Fra Luca Pacioli is historically significant in the development of financial accounting primarily for which of the following contributions?",
+    "options": {
+      "a": "Inventing the abacus for calculating corporate profits",
+      "b": "Publishing the first detailed printed description of the double-entry bookkeeping system",
+      "c": "Establishing the International Accounting Standards Board (IASB)",
+      "d": "Creating the first set of unified taxation laws for businesses"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Fra Luca Bartolomeo de Pacioli, often referred to as the father of accounting, published *Summa de arithmetica, geometria, proportioni et proportionalita* in 1494. This book contained the first published detailed description of the **double-entry accounting system**, laying the foundation for modern financial accounting.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Financial Accounting",
+    "topic": "History, nature and functions of Accounting",
+    "question_text": "Which of the following best describes the primary function of financial accounting?",
+    "options": {
+      "a": "Systematically recording, classifying, summarizing, and reporting financial transactions to show a business's performance",
+      "b": "Providing detailed, forward-looking cost estimations for management decision-making",
+      "c": "Calculating the exact amount of Value Added Tax (VAT) a company owes to the government",
+      "d": "Auditing the financial records internally to prevent employee fraud and theft"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The primary nature and function of **financial accounting** is the systematic process of recording, summarizing, and reporting past financial transactions to present the financial position and performance of an entity. \n\n*   Option **B** describes *Management/Cost Accounting*.\n*   Option **C** describes *Tax Accounting*.\n*   Option **D** describes *Internal Auditing*.",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Financial Accounting",
+    "topic": "Users of Accounting information",
+    "question_text": "The following are external users of a company's financial accounting information EXCEPT",
+    "options": {
+      "a": "Investors",
+      "b": "Tax authorities",
+      "c": "Management",
+      "d": "Creditors"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Users of accounting information are classified into two broad categories:\n1.  **Internal Users:** Individuals within the organization who plan, organize, and run the business (e.g., *Management*, human resources, finance directors).\n2.  **External Users:** Individuals and organizations outside a company who want financial information about the company (e.g., *Investors, Creditors, Tax authorities*).",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Financial Accounting",
+    "topic": "Users of Accounting information",
+    "question_text": "Why does a bank or trade creditor primarily require the financial statements of a business entity?",
+    "options": {
+      "a": "To negotiate higher wages and better working conditions for the company's employees",
+      "b": "To determine the proposed dividend per share to be distributed to equity shareholders",
+      "c": "To assess the liquidity of the business and its ability to pay short-term and long-term debts",
+      "d": "To evaluate the market share and pricing strategy of the company's new products"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Creditors, suppliers, and financial institutions (like banks) use financial information to determine creditworthiness. They look closely at liquidity and solvency metrics to evaluate the risk of default and ensure the entity has the ability to settle its debts as they fall due.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Financial Accounting",
+    "topic": "Stages in the Accounting process",
+    "question_text": "Which of the following represents the correct chronological sequence of stages in the accounting process?",
+    "options": {
+      "a": "Source documents $\\rightarrow$ Ledger $\\rightarrow$ Journal $\\rightarrow$ Trial Balance",
+      "b": "Source documents $\\rightarrow$ Journal $\\rightarrow$ Ledger $\\rightarrow$ Trial Balance",
+      "c": "Journal $\\rightarrow$ Source documents $\\rightarrow$ Trial Balance $\\rightarrow$ Ledger",
+      "d": "Trial Balance $\\rightarrow$ Journal $\\rightarrow$ Source documents $\\rightarrow$ Ledger"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The accounting cycle follows a strict chronological order:\n1.  **Source Documents:** Capturing the initial evidence of a transaction (e.g., invoices, receipts).\n2.  **Journal (Book of Prime Entry):** Chronological recording of transactions.\n3.  **Ledger:** Posting journal entries to specific T-accounts to classify them.\n4.  **Trial Balance:** Extracting ledger balances to check arithmetical accuracy before preparing final accounts.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Financial Accounting",
+    "topic": "Characteristics of Accounting information",
+    "question_text": "If financial information is made available to decision-makers early enough to be capable of influencing their economic decisions, the information possesses the qualitative characteristic of",
+    "options": {
+      "a": "Comparability",
+      "b": "Verifiability",
+      "c": "Understandability",
+      "d": "Timeliness"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Timeliness** is a qualitative characteristic that means having information available to users in time to be capable of influencing their decisions. Information generally loses its relevance if it is unnecessarily delayed, no matter how accurate it is.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Financial Accounting",
+    "topic": "Characteristics of Accounting information",
+    "question_text": "Which qualitative characteristic is primarily violated if an accountant deliberately overstates expenses in the Trading, Profit and Loss Account to reduce reported net profit?",
+    "options": {
+      "a": "Reliability (Faithful Representation)",
+      "b": "Materiality",
+      "c": "Understandability",
+      "d": "Timeliness"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "**Reliability** (or Faithful Representation) dictates that financial information must be free from material error and bias, accurately reflecting the true economic events. \n\nDeliberately manipulating figures (such as overstating expenses to hide profits) introduces bias and renders the financial statements unreliable and unfaithful to the actual economic reality.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Financial Accounting",
+    "topic": "Accounting Equation",
+    "question_text": "A business has total assets of ₦45,000 and total liabilities of ₦15,000. If the owner introduces an additional ₦5,000 cash as capital, what is the new total capital of the business?",
+    "options": {
+      "a": "₦30,000",
+      "b": "₦35,000",
+      "c": "₦50,000",
+      "d": "₦65,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "According to the fundamental accounting equation:\n\n$$\\text{Assets} = \\text{Liabilities} + \\text{Capital}$$\n\nInitial Capital is determined as:\n$$\\text{Capital} = \\text{Assets} - \\text{Liabilities}$$\n$$\\text{Capital} = ₦45,000 - ₦15,000 = ₦30,000$$\n\nWhen the owner introduces an additional ₦5,000, this increases both Cash (Asset) and Capital by ₦5,000.\nNew Capital = ₦30,000 + ₦5,000 = **₦35,000**.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Financial Accounting",
+    "topic": "Accounting Equation",
+    "question_text": "Which of the following transactions will result in an increase in both an asset and a liability?",
+    "options": {
+      "a": "Payment of cash to a trade creditor",
+      "b": "Purchase of trading goods on credit",
+      "c": "Sale of goods for cash",
+      "d": "Withdrawal of cash from the bank by the owner for personal use"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Let's analyze the effects of each transaction on the accounting equation:\n*   **Purchase of trading goods on credit:** Increases stock/inventory (Asset) and increases creditors/payables (Liability). This is the correct answer.\n*   *Payment to creditor:* Decreases asset (cash) and decreases liability (creditors).\n*   *Cash sales:* Increases one asset (cash) and decreases another (stock) if at cost.\n*   *Withdrawals:* Decreases asset (bank) and decreases capital (drawings).",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Financial Accounting",
+    "topic": "Purpose and functions of source documents",
+    "question_text": "Which of the following source documents is sent by a seller to a buyer to correct an overcharge on a previously issued invoice?",
+    "options": {
+      "a": "Debit note",
+      "b": "Credit note",
+      "c": "Waybill",
+      "d": "Payment receipt"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **credit note** is a source document sent by a seller to a buyer to notify them that their account has been credited (reduced). It is used to correct an overcharge, or when a buyer returns faulty goods.\n\nA *debit note* is used when a buyer is undercharged, while a *waybill* simply accompanies goods in transit to show physical delivery.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Financial Accounting",
+    "topic": "Subsidiary books",
+    "question_text": "All the following transactions are recorded in the general journal (journal proper) EXCEPT",
+    "options": {
+      "a": "Purchase of a motor vehicle on credit",
+      "b": "Correction of bookkeeping errors",
+      "c": "Return of goods previously sold on credit to a customer",
+      "d": "Opening entries for a newly formed business"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **General Journal** handles non-regular transactions such as purchase/sale of fixed assets on credit, correction of errors, opening/closing entries, and transfers. \n\nThe return of goods sold on credit (Returns Inwards) is a regular, inventory-related transaction and is recorded in its own dedicated subsidiary book: the **Returns Inwards Book** (or Sales Returns Journal).",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Financial Accounting",
+    "topic": "The ledger: classification of Accounts",
+    "question_text": "In the classification of ledger accounts, accounts relating to wages, rent paid, and discount allowed are classified as",
+    "options": {
+      "a": "Real accounts",
+      "b": "Personal accounts",
+      "c": "Nominal accounts",
+      "d": "Capital accounts"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Ledger accounts are classified broadly into:\n1.  **Personal Accounts:** Relate to persons or entities (e.g., Debtors, Creditors).\n2.  **Real Accounts:** Relate to tangible and intangible assets (e.g., Machinery, Cash, Goodwill).\n3.  **Nominal Accounts:** Relate to expenses, losses, incomes, and gains (e.g., Wages, Rent, Discount Allowed). \n\nTherefore, expenses like wages and rent fall under Nominal Accounts.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Financial Accounting",
+    "topic": "Cash Book: analytical cash book, including petty cash book",
+    "question_text": "A petty cashier operates an imprest of ₦5,000. During a particular week, she spent ₦1,200 on stationeries, ₦800 on traveling, and ₦1,500 on postage. How much will be reimbursed to the petty cashier at the end of the week to restore the imprest float?",
+    "options": {
+      "a": "₦1,500",
+      "b": "₦3,500",
+      "c": "₦5,000",
+      "d": "₦8,500"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Under the **imprest system**, the reimbursement made at the end of the period is exactly equal to the total amount disbursed (spent) during that period, in order to restore the balance back to the original float.\n\nTotal amount spent = $₦1,200 + ₦800 + ₦1,500 = ₦3,500$.\nThus, the cashier will be reimbursed **₦3,500**.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Financial Accounting",
+    "topic": "Preparation of Trial Balance",
+    "question_text": "Which of the following sets of balances will normally appear in the credit column of an extracted trial balance?",
+    "options": {
+      "a": "Purchases, debtors, and rent received",
+      "b": "Capital, creditors, and bank overdraft",
+      "c": "Sales, drawings, and machinery",
+      "d": "Returns outwards, cash in hand, and loans"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "In a Trial Balance, the rule of thumb dictates:\n*   **Debit Balances:** Assets, Expenses, and Drawings.\n*   **Credit Balances:** Liabilities, Equity/Capital, and Revenues/Incomes.\n\nLooking at Option B: **Capital** (Equity), **Creditors** (Liability), and **Bank Overdraft** (Liability) all carry normal credit balances. \n*Option A has Purchases and debtors (Debits).* \n*Option C has drawings and machinery (Debits).* \n*Option D has cash in hand (Debit).*",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Financial Accounting",
+    "topic": "Preparation of Trial Balance",
+    "question_text": "The purchase of a delivery van for ₦10,000 cash was mistakenly debited to the Purchases Account instead of the Motor Vehicles Account. This type of error, which does not affect the agreement of the trial balance totals, is known as an error of",
+    "options": {
+      "a": "Omission",
+      "b": "Commission",
+      "c": "Principle",
+      "d": "Original entry"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "An **Error of Principle** occurs when a transaction is entered in the wrong class of account (e.g., treating capital expenditure as revenue expenditure, or vice-versa).\n\nHere, purchasing a van is a capital expenditure (Real Account), but posting it to Purchases treats it as a revenue expense (Nominal Account). Because a debit was still made for ₦10,000, the trial balance will still agree.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Financial Accounting",
+    "topic": "Bank Reconciliation Statements",
+    "question_text": "A cheque for ₦4,000 issued to a supplier on 28th May was not brought to the bank for payment until 5th June. When preparing the bank reconciliation statement for the month of May, this cheque is treated as an",
+    "options": {
+      "a": "Uncredited cheque",
+      "b": "Unpresented cheque",
+      "c": "Dishonoured cheque",
+      "d": "Outstanding deposit"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "An **unpresented cheque** is a cheque issued by a business to a payee (like a supplier) which has been credited in the business's cash book but has not yet been presented to the bank for payment by the payee.\n\n*Uncredited cheques* are cheques received and lodged in the bank but not yet processed (cleared) by the bank.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Financial Accounting",
+    "topic": "Bank Reconciliation Statements",
+    "question_text": "A firm's cash book showed a debit (favorable) balance of ₦15,000. A review of the bank statement revealed bank charges of ₦500 and a direct credit (transfer) of ₦2,000 from a customer, neither of which had been recorded in the cash book. What is the adjusted cash book balance?",
+    "options": {
+      "a": "₦12,500",
+      "b": "₦16,500",
+      "c": "₦13,500",
+      "d": "₦17,500"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "To find the adjusted cash book balance, you update the unadjusted balance with items found in the bank statement but not yet recorded in the cash book.\n\n*   **Unadjusted Cash Book Balance (Debit/Positive):** ₦15,000\n*   **Less:** Bank Charges (decreases cash): - ₦500\n*   **Add:** Direct credit/Transfer (increases cash): + ₦2,000\n\n$$\\text{Adjusted Balance} = 15,000 - 500 + 2,000 = ₦16,500$$\nThe adjusted balance is **₦16,500**.",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Financial Accounting",
+    "topic": "Accounting Concepts",
+    "question_text": "What is the primary significance of adhering to generally accepted accounting concepts in the preparation of financial statements?",
+    "options": {
+      "a": "To ensure the business pays the absolute minimum amount of tax legally possible",
+      "b": "To provide a consistent, uniform, and universally understood basis for reporting financial information",
+      "c": "To guarantee that a business will remain profitable in the foreseeable future",
+      "d": "To eliminate the need for an external audit of the company's financial records"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Accounting concepts provide the fundamental rules, assumptions, and principles that standardize financial reporting. Their primary **significance** is to ensure that financial statements are consistent, comparable across different periods and companies, and understandable to various users.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Financial Accounting",
+    "topic": "Accounting Concepts",
+    "question_text": "The accounting principle which dictates that a proprietor's private expenses must not be recorded as the expenses of the firm is the",
+    "options": {
+      "a": "Matching concept",
+      "b": "Dual aspect concept",
+      "c": "Business entity concept",
+      "d": "Going concern concept"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **business entity concept** (or separate entity concept) states that a business is a separate and distinct legal entity from its owners. Thus, the personal financial transactions of the owner (such as personal drawings) are kept entirely separate from the business's operational transactions.",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Financial Accounting",
+    "topic": "Accounting Concepts",
+    "question_text": "A company pays its annual rent of ₦120,000 in advance for the upcoming year. Under which accounting concept is only the portion of rent that applies to the current financial year recognized as an expense in the Profit and Loss Account?",
+    "options": {
+      "a": "Accrual concept",
+      "b": "Realization concept",
+      "c": "Consistency concept",
+      "d": "Money measurement concept"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The **accrual concept** requires that revenue and expenses are recognized in the period they actually occur, regardless of when the cash is paid or received. Therefore, the prepaid portion is treated as an asset (Prepaid Rent) rather than a current expense.",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Financial Accounting",
+    "topic": "Accounting Concepts",
+    "question_text": "Which of the following statements best illustrates the application of the prudence (conservatism) concept?",
+    "options": {
+      "a": "Valuing closing stock at the higher of historical cost or net realizable value",
+      "b": "Recognizing potential future profits before they are actually realized",
+      "c": "Anticipating no profit and providing for all possible foreseeable losses",
+      "d": "Changing depreciation methods every year to maximize reported net profit"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **prudence concept** (conservatism) dictates that an accountant should not anticipate profits but must provide for all known and foreseeable losses. Consequently, assets and incomes are never overstated, which is why closing stock is valued at the *lower* of cost or net realizable value.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Financial Accounting",
+    "topic": "Accounting Concepts",
+    "question_text": "All the following are widely accepted fundamental accounting concepts EXCEPT the",
+    "options": {
+      "a": "Going concern concept",
+      "b": "Materiality concept",
+      "c": "Liquidity concept",
+      "d": "Periodicity concept"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Going concern, materiality, and periodicity (accounting period) are all recognized fundamental accounting concepts that guide how statements are prepared. **Liquidity** is a financial metric or ratio used to assess a company's ability to pay off short-term debt, not an underlying accounting concept.",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "Financial Accounting",
+    "topic": "Accounting Concepts",
+    "question_text": "A major limitation of the historical cost concept in periods of high inflation is that it",
+    "options": {
+      "a": "Overstates the value of current assets like cash and debtors",
+      "b": "Fails to reflect the current market value of fixed assets, making the balance sheet unrealistic",
+      "c": "Requires the business to constantly change its accounting reporting currency",
+      "d": "Prevents the calculation of depreciation on non-current assets completely"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The **historical cost concept** requires assets to be recorded at their original purchase price. A key **limitation** is that during times of inflation, the recorded book value of long-term assets remains static and becomes significantly lower than their current replacement cost or market value, which can misrepresent the true financial strength of the business.",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "Financial Accounting",
+    "topic": "The Final Accounts of a Sole Trader/Proprietorship",
+    "question_text": "What is the primary purpose of preparing a Trading Account for a sole trader?",
+    "options": {
+      "a": "To ascertain the net profit or net loss made from all business operations",
+      "b": "To ascertain the gross profit or gross loss from the buying and selling of goods",
+      "c": "To show the true financial position of the business as at a particular date",
+      "d": "To record all cash and bank transactions for the financial period"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The final accounts are typically prepared in stages. The **Trading Account** is the first section, and its primary purpose is to determine the **gross profit** or **gross loss**, which represents the difference between the sales revenue and the direct cost of goods sold (COGS).\n\n*   Option **A** is the purpose of the *Profit and Loss Account*.\n*   Option **C** is the purpose of the *Balance Sheet*.\n*   Option **D** is the purpose of the *Cash Book*.",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "Financial Accounting",
+    "topic": "The Final Accounts of a Sole Trader/Proprietorship",
+    "question_text": "**Use the following information extracted from the books of Musa, a sole trader, to answer Questions 25, 26, and 27.**\n\n| Details | Amount (₦) |\n| :--- | :--- |\n| Opening Stock | 15,000 |\n| Purchases | 80,000 |\n| Sales | 130,000 |\n| Returns inwards | 5,000 |\n| Returns outwards | 3,000 |\n| Carriage inwards | 2,000 |\n| Closing Stock | 18,000 |\n| Operating Expenses | 15,000 |\n\nWhat is the Cost of Goods Sold (COGS) for the period?",
+    "options": {
+      "a": "₦76,000",
+      "b": "₦94,000",
+      "c": "₦79,000",
+      "d": "₦112,000"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "To calculate the **Cost of Goods Sold (COGS)**, we use the formula:\n$$\\text{COGS} = \\text{Opening Stock} + \\text{Purchases} - \\text{Returns Outwards} + \\text{Carriage Inwards} - \\text{Closing Stock}$$\n\n1.  **Net Purchases:** $₦80,000 - ₦3,000 (Returns Out) + ₦2,000 (Carriage In) = ₦79,000$\n2.  **Cost of Goods Available for Sale:** $₦15,000 (Op. Stock) + ₦79,000 = ₦94,000$\n3.  **COGS:** $₦94,000 - ₦18,000 (Cl. Stock) = ₦76,000$\n\n*Note: ₦94,000 (Option B) is the Cost of Goods Available for Sale, not the COGS.*",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "Financial Accounting",
+    "topic": "The Final Accounts of a Sole Trader/Proprietorship",
+    "question_text": "Using the data extracted from the books of Musa provided in **Question 25**, calculate the Gross Profit for the period.",
+    "options": {
+      "a": "₦54,000",
+      "b": "₦49,000",
+      "c": "₦44,000",
+      "d": "₦34,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Gross Profit is calculated as the difference between **Net Sales** and the **Cost of Goods Sold (COGS)**.\n\n1.  **Net Sales:** $\\text{Gross Sales} - \\text{Returns Inwards} = ₦130,000 - ₦5,000 = ₦125,000$\n2.  **COGS:** Calculated in Q25 as ₦76,000.\n3.  **Gross Profit:** $₦125,000 - ₦76,000 = ₦49,000$.\n\n*Option A (₦54,000) incorrectly uses gross sales instead of net sales (130,000 - 76,000).* ",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "Financial Accounting",
+    "topic": "The Final Accounts of a Sole Trader/Proprietorship",
+    "question_text": "Based on the information for Musa provided in **Question 25**, determine the Net Profit of the business.",
+    "options": {
+      "a": "₦29,000",
+      "b": "₦34,000",
+      "c": "₦39,000",
+      "d": "₦49,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Net profit is calculated by deducting all operating and indirect expenses from the **Gross Profit**.\n\n1.  **Gross Profit:** Calculated in Q26 as ₦49,000.\n2.  **Operating Expenses:** Provided in the table as ₦15,000.\n3.  **Net Profit:** $₦49,000 - ₦15,000 = ₦34,000$.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "Financial Accounting",
+    "topic": "The Final Accounts of a Sole Trader/Proprietorship",
+    "question_text": "How should **Carriage Outwards** be treated when preparing the final accounts of a sole trader?",
+    "options": {
+      "a": "Added to Purchases in the Trading Account",
+      "b": "Debited to the Trading Account as a direct expense",
+      "c": "Debited to the Profit and Loss Account as a selling and distribution expense",
+      "d": "Treated as a current liability in the Balance Sheet"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Carriage Outwards** is the transportation cost incurred by the business to deliver goods to customers. Because it is related to sales (distribution), it is an indirect expense and is therefore **debited to the Profit and Loss Account**.\n\nThis is in contrast to *Carriage Inwards*, which is the cost of bringing goods into the firm for resale, making it a direct cost that is charged to the *Trading Account*.",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "Financial Accounting",
+    "topic": "The Final Accounts of a Sole Trader/Proprietorship",
+    "question_text": "Where does a sole proprietor's **drawings** appear in the final accounts?",
+    "options": {
+      "a": "It is debited to the Trading Account to reduce cost of sales",
+      "b": "It is treated as an operating expense in the Profit and Loss Account",
+      "c": "It is added to current liabilities in the Balance Sheet",
+      "d": "It is deducted from the owner's Capital in the Balance Sheet"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Drawings** represent cash or goods taken out of the business by the owner for personal use. It is not a business expense, so it does not enter the Profit and Loss account. \n\nInstead, it directly reduces the owner's investment in the business and is therefore **deducted from Capital** in the financed-by section of the Balance Sheet.",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "Financial Accounting",
+    "topic": "The Final Accounts of a Sole Trader/Proprietorship",
+    "question_text": "A business paid an annual insurance premium of ₦12,000. However, the financial year ends 3 months before the insurance policy expires. How will this transaction be treated in the final accounts?",
+    "options": {
+      "a": "₦12,000 is debited to the Profit & Loss Account, and ₦3,000 is shown as a Current Liability",
+      "b": "₦9,000 is debited to the Profit & Loss Account, and ₦3,000 is shown as a Current Asset",
+      "c": "₦12,000 is shown purely as a Current Asset in the Balance Sheet",
+      "d": "₦3,000 is debited to the Profit & Loss Account, and ₦9,000 is shown as a Current Asset"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "This requires applying the **accrual concept**, dividing the payment into an incurred expense and a prepayment.\n\n1.  **Total Annual Premium:** ₦12,000 for 12 months, which equals ₦1,000 per month.\n2.  **Unexpired (Prepaid) Portion:** The policy has 3 unused months left at year-end. $3 \\text{ months} \\times ₦1,000 = ₦3,000$. Prepayments are treated as **Current Assets** in the Balance Sheet.\n3.  **Expense for the Year:** The used portion is 9 months (12 - 3). $9 \\text{ months} \\times ₦1,000 = ₦9,000$. This actual consumed amount is **debited to the Profit & Loss Account** as an expense.",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "Financial Accounting",
+    "topic": "Provision for doubtful debts/Allowance for doubtful debts",
+    "question_text": "A business has Trade Debtors of ₦40,000 at the end of the year. A specific bad debt of ₦2,000 is discovered and must be written off. The business maintains a provision for doubtful debts at 5% of outstanding debtors. What is the amount of the provision for doubtful debts to be carried forward?",
+    "options": {
+      "a": "₦2,000",
+      "b": "₦1,900",
+      "c": "₦2,100",
+      "d": "₦3,900"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Before calculating the provision for doubtful debts, all known bad debts must first be deducted from the gross debtors balance. \n\n1. **Net Debtors:** $\\text{₦}40,000 - \\text{₦}2,000 = \\text{₦}38,000$\n2. **Required Provision:** $5\\% \\times \\text{₦}38,000 = \\text{₦}1,900$\n\nTherefore, the provision for doubtful debts is **₦1,900**.",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "Financial Accounting",
+    "topic": "Provision for doubtful debts/Allowance for doubtful debts",
+    "question_text": "At the beginning of the year, the Provision for Doubtful Debts account had a credit balance of ₦1,500. At year-end, the required provision is calculated to be ₦1,200. How is this adjustment treated in the Profit and Loss Account?",
+    "options": {
+      "a": "Debited with ₦1,200 as an expense",
+      "b": "Credited with ₦1,200 as income",
+      "c": "Debited with ₦300 as an expense",
+      "d": "Credited with ₦300 as a gain (reduction in provision)"
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "When the required provision at the end of the year (₦1,200) is **less than** the existing old provision (₦1,500), there is a **decrease in the provision**.\n\n$$\\text{Decrease} = \\text{₦}1,500 - \\text{₦}1,200 = \\text{₦}300$$\n\nA decrease in provision means the business anticipates fewer losses than before. This ₦300 difference is treated as a gain/income and is **credited** to the Profit and Loss Account.",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "Financial Accounting",
+    "topic": "Provision for discounts",
+    "question_text": "When calculating the provision for discount allowable on debtors, the percentage is applied to the debtors' balance",
+    "options": {
+      "a": "Before deducting both bad debts and provision for doubtful debts",
+      "b": "After deducting bad debts but before provision for doubtful debts",
+      "c": "After deducting both bad debts and provision for doubtful debts",
+      "d": "Based strictly on the gross credit sales of the year"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A business only expects to give cash discounts to *good* debtors who actually pay on time. Therefore, to calculate the Provision for Discount Allowable, you must first remove debtors who definitely won't pay (bad debts) and debtors who might not pay (provision for doubtful debts).\n\nThe calculation order is: **Gross Debtors - Bad Debts - Provision for Doubtful Debts = Good Debtors**. The discount percentage is applied to this final good debtors figure.",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "Financial Accounting",
+    "topic": "Depreciation – concepts, reasons for recording and methods",
+    "question_text": "The following are primary reasons for charging depreciation on non-current assets EXCEPT",
+    "options": {
+      "a": "Wear and tear from continuous usage",
+      "b": "Obsolescence due to technological advancement",
+      "c": "Fluctuation in the daily market value of the asset",
+      "d": "Passage of time (effluxion of time) for assets like leases"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Depreciation in accounting is a process of **cost allocation**, not valuation. It represents the consumption of the asset's economic benefits over its useful life due to wear and tear, obsolescence, or effluxion of time. \n\nShort-term **fluctuations in market value** do not cause a business to change its depreciation charge, as historical cost accounting relies on original cost, not daily resale value.",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "Financial Accounting",
+    "topic": "Depreciation – concepts, reasons for recording and methods",
+    "question_text": "A delivery van was purchased for ₦60,000 with an estimated scrap value of ₦10,000 and a useful life of 4 years. Using the **sum-of-the-years-digits (SYD)** method, what is the depreciation expense for the **second year**?",
+    "options": {
+      "a": "₦15,000",
+      "b": "₦20,000",
+      "c": "₦24,000",
+      "d": "₦12,500"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "To calculate SYD depreciation:\n1. **Depreciable Amount:** $\\text{Cost} - \\text{Scrap} = \\text{₦}60,000 - \\text{₦}10,000 = \\text{₦}50,000$\n2. **Sum of Digits:** For 4 years, $S = 1 + 2 + 3 + 4 = 10$\n3. **Fraction for Year 2:** The remaining life at the start of year 2 is 3 years, so the fraction is $\\frac{3}{10}$.\n4. **Depreciation (Year 2):** $\\frac{3}{10} \\times \\text{₦}50,000 = \\text{₦}15,000$",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "Financial Accounting",
+    "topic": "Accounting for depreciation",
+    "question_text": "**Use the following information to answer Questions 36 and 37.**\n\nA firm purchased machinery for ₦200,000 on 1st January 2021. Depreciation is charged at 20% per annum using the **reducing balance method**. \n\nWhat is the depreciation charge for the year ending 31st December 2022?",
+    "options": {
+      "a": "₦40,000",
+      "b": "₦32,000",
+      "c": "₦80,000",
+      "d": "₦72,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Under the reducing balance method, depreciation is calculated on the Net Book Value (NBV) at the start of each year.\n\n*   **Year 2021:** $20\\% \\times \\text{₦}200,000 = \\text{₦}40,000$\n*   **NBV start of 2022:** $\\text{₦}200,000 - \\text{₦}40,000 = \\text{₦}160,000$\n*   **Year 2022 Depreciation:** $20\\% \\times \\text{₦}160,000 = \\text{₦}32,000$\n\nThe depreciation charge for 2022 is **₦32,000**.",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "Financial Accounting",
+    "topic": "Accounting for depreciation",
+    "question_text": "Based on the machinery information in **Question 36**, what is the **Net Book Value (NBV)** of the machinery to be shown in the Balance Sheet as of 31st December 2022?",
+    "options": {
+      "a": "₦128,000",
+      "b": "₦160,000",
+      "c": "₦120,000",
+      "d": "₦168,000"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Net Book Value is calculated as Cost minus Accumulated Depreciation.\n\n1.  **Accumulated Depreciation by end of 2022:** $\\text{₦}40,000 (Year 1) + \\text{₦}32,000 (Year 2) = \\text{₦}72,000$\n2.  **Net Book Value:** $\\text{₦}200,000 - \\text{₦}72,000 = \\text{₦}128,000$\n\nAlternatively: $NBV = \\text{₦}160,000 \\text{ (start of Year 2)} - \\text{₦}32,000 \\text{ (Year 2 dep.)} = \\text{₦}128,000$.",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "Financial Accounting",
+    "topic": "Reserves – revenue and capital reserves",
+    "question_text": "What is the fundamental difference between a provision and a reserve?",
+    "options": {
+      "a": "A provision is an appropriation of profit, while a reserve is a charge against profit",
+      "b": "A provision is meant for completely unknown liabilities, while a reserve is for specific known liabilities",
+      "c": "A provision is a charge against profit to meet a known liability or diminution in asset value, while a reserve is an appropriation of profit to strengthen the financial position",
+      "d": "A provision can be distributed as dividends to shareholders, while a reserve cannot under any circumstance"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A **provision** (e.g., Provision for Depreciation) is a necessary expense (a charge against profit) made to cater for a known liability or loss, even if the exact amount cannot be determined with substantial accuracy. It reduces Net Profit.\n\nA **reserve** (e.g., General Reserve) is created *out of* Net Profit (an appropriation) and is set aside to strengthen the company's financial position or for future expansion.",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "Financial Accounting",
+    "topic": "Reserves – revenue and capital reserves",
+    "question_text": "Which of the following is classified as a **capital reserve** rather than a revenue reserve?",
+    "options": {
+      "a": "General reserve",
+      "b": "Retained earnings (Profit and Loss balance)",
+      "c": "Share premium",
+      "d": "Dividend equalization reserve"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Capital reserves** are created from non-trading (capital) profits and cannot legally be distributed as regular cash dividends. Examples include **Share Premium** (arising from issuing shares above par value) and Asset Revaluation Reserve. \n\nGeneral reserve, retained earnings, and dividend equalization reserves are all generated from normal trading activities and are classified as **revenue reserves**.",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "Financial Accounting",
+    "topic": "Reserves – revenue and capital reserves",
+    "question_text": "The following are examples of revenue reserves EXCEPT",
+    "options": {
+      "a": "Retained profit",
+      "b": "General reserve",
+      "c": "Asset revaluation reserve",
+      "d": "Dividend equalization reserve"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "An **Asset Revaluation Reserve** arises when a company revalues its fixed assets upwards. Because this is a paper gain and not cash realized from trading operations, it is a **capital reserve**. \n\nThe other options (Retained profit, General reserve, Dividend equalization reserve) are all revenue reserves built from normal trading profits.",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "Financial Accounting",
+    "topic": "Purpose of Manufacturing Accounts",
+    "question_text": "What is the primary purpose of preparing a Manufacturing Account?",
+    "options": {
+      "a": "To calculate the gross profit realized on the sale of manufactured goods",
+      "b": "To determine the net profit or loss for the entire business operations",
+      "c": "To ascertain the cost of goods manufactured (cost of production) during the period",
+      "d": "To classify assets and liabilities into their respective factory departments"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **Manufacturing Account** is an internal financial statement used specifically by manufacturing concerns. Its primary purpose is to calculate the total cost incurred in producing the goods during a period, known as the **Cost of Production** or Cost of Goods Manufactured, before these goods are transferred to the Trading Account.",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "Financial Accounting",
+    "topic": "Cost classification in Manufacturing Accounts",
+    "question_text": "In a manufacturing account, which of the following best defines the formula for calculating **Prime Cost**?",
+    "options": {
+      "a": "Cost of raw materials consumed + Direct labour + Factory overheads",
+      "b": "Cost of raw materials consumed + Direct labour + Direct expenses",
+      "c": "Total purchases of raw materials + Direct labour + Direct expenses",
+      "d": "Prime Cost + Factory overheads + Opening work-in-progress"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Prime Cost** represents the total of all direct costs incurred in the manufacturing process. It is the sum of:\n1. Direct Materials (Cost of raw materials consumed)\n2. Direct Labour (e.g., manufacturing wages)\n3. Direct Expenses (e.g., royalties based on units produced)\n\n*Factory overheads* are indirect costs and are added *after* the Prime Cost to get the total factory cost.",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "Financial Accounting",
+    "topic": "Cost classification in Manufacturing Accounts",
+    "question_text": "All the following expenses are correctly classified as **factory overheads** (indirect manufacturing costs) EXCEPT",
+    "options": {
+      "a": "Depreciation of plant and machinery",
+      "b": "Wages of factory supervisors and cleaners",
+      "c": "Factory power, lighting, and heating",
+      "d": "Royalties paid per unit of goods produced"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Factory overheads** are indirect costs that cannot be traced directly to a specific unit of production (e.g., depreciation, supervisory salaries, factory power). \n\n**Royalties** paid per unit produced are traceable directly to the units of production, classifying them as a **Direct Expense**. Therefore, royalties form part of the *Prime Cost*, not factory overheads.",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "Financial Accounting",
+    "topic": "Preparation of final Accounts of Manufacturing concern",
+    "question_text": "**Use the following information extracted from a manufacturing firm to answer Questions 44, 45, and 46.**\n\n| Details | Amount (₦) |\n| :--- | :--- |\n| Opening stock of raw materials | 10,000 |\n| Purchases of raw materials | 50,000 |\n| Carriage inwards on raw materials | 2,000 |\n| Direct manufacturing wages | 20,000 |\n| Royalties per unit produced | 4,000 |\n| Factory overheads | 15,000 |\n| Opening work-in-progress | 5,000 |\n| Closing stock of raw materials | 8,000 |\n| Closing work-in-progress | 6,000 |\n\nWhat is the **Cost of Raw Materials Consumed** for the period?",
+    "options": {
+      "a": "₦52,000",
+      "b": "₦54,000",
+      "c": "₦60,000",
+      "d": "₦62,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "To calculate the Cost of Raw Materials Consumed:\n\n$$\\text{Cost} = \\text{Opening Stock} + \\text{Purchases} + \\text{Carriage Inwards} - \\text{Closing Stock}$$\n$$\\text{Cost} = ₦10,000 + ₦50,000 + ₦2,000 - ₦8,000$$\n$$\\text{Cost} = ₦62,000 - ₦8,000 = ₦54,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "Financial Accounting",
+    "topic": "Preparation of final Accounts of Manufacturing concern",
+    "question_text": "Using the data provided in **Question 44**, calculate the **Prime Cost** for the firm.",
+    "options": {
+      "a": "₦74,000",
+      "b": "₦78,000",
+      "c": "₦93,000",
+      "d": "₦98,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Prime Cost is the sum of all direct manufacturing costs:\n\n1. **Cost of Raw Materials Consumed:** ₦54,000 (calculated in Q44)\n2. **Direct Manufacturing Wages:** ₦20,000\n3. **Direct Expenses (Royalties):** ₦4,000\n\n$$\\text{Prime Cost} = ₦54,000 + ₦20,000 + ₦4,000 = ₦78,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 46,
+    "subject": "Financial Accounting",
+    "topic": "Preparation of final Accounts of Manufacturing concern",
+    "question_text": "Based on the data provided in **Question 44**, what is the **Cost of Production** (Cost of Goods Manufactured) to be transferred to the Trading Account?",
+    "options": {
+      "a": "₦92,000",
+      "b": "₦93,000",
+      "c": "₦94,000",
+      "d": "₦98,000"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "The Cost of Production is found by adding Factory Overheads to the Prime Cost and adjusting for Work-In-Progress (WIP).\n\n1. **Prime Cost:** ₦78,000 (from Q45)\n2. **Add: Factory Overheads:** ₦15,000\n   *Subtotal (Current Manufacturing Costs): ₦93,000*\n3. **Add: Opening WIP:** + ₦5,000\n4. **Less: Closing WIP:** - ₦6,000\n\n$$\\text{Cost of Production} = ₦93,000 + ₦5,000 - ₦6,000 = ₦92,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 47,
+    "subject": "Financial Accounting",
+    "topic": "Preparation of final Accounts of Manufacturing concern",
+    "question_text": "Upon completion of the Manufacturing Account, the final figure representing the **Cost of Goods Manufactured** is immediately transferred to the",
+    "options": {
+      "a": "Debit side of the Profit and Loss Account",
+      "b": "Credit side of the Balance Sheet",
+      "c": "Debit side of the Trading Account",
+      "d": "Credit side of the Appropriation Account"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "For a manufacturing firm, the **Trading Account** computes the Gross Profit on finished goods. The \"Cost of Goods Manufactured\" effectively takes the place of (or is treated similarly to) ordinary \"Purchases\" for a standard retailer.\n\nTherefore, the production cost is transferred to the **debit side of the Trading Account** to be matched against the sales of finished goods.",
+    "section_id": null
+  },
+  {
+    "question_number": 48,
+    "subject": "Financial Accounting",
+    "topic": "Meaning and uses of control accounts",
+    "question_text": "The following are primary purposes of preparing a control account EXCEPT to",
+    "options": {
+      "a": "Provide a quick total of debtors or creditors for the preparation of final accounts",
+      "b": "Localize errors to specific ledgers, making them easier to find",
+      "c": "Prevent fraud by ensuring the work of one clerk is checked against another's",
+      "d": "Calculate the exact gross profit realized from the firm's trading activities"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "A **Control Account** (or Total Account) is a summary account that checks the arithmetical accuracy of the individual subsidiary ledgers. Its primary uses are locating errors (by checking totals against individual balances), deterring fraud, and quickly ascertaining the total debtors/creditors. \n\nCalculating gross profit is the function of the **Trading Account**, not a control account.",
+    "section_id": null
+  },
+  {
+    "question_number": 49,
+    "subject": "Financial Accounting",
+    "topic": "Types: (i) sales ledger control (ii) purchases ledger control",
+    "question_text": "The Purchases Ledger Control Account is alternatively referred to as the",
+    "options": {
+      "a": "Total Debtors Account",
+      "b": "Total Creditors Account",
+      "c": "Sales Returns Account",
+      "d": "Suspense Account"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Purchases Ledger Control Account** summarizes all the transactions that occur in the individual accounts of the suppliers (creditors). Therefore, its balance represents the total amount the business owes, making it synonymous with the **Total Creditors Account**.\n\nConversely, the Sales Ledger Control Account is referred to as the *Total Debtors Account*.",
+    "section_id": null
+  },
+  {
+    "question_number": 50,
+    "subject": "Financial Accounting",
+    "topic": "Preparation of Control Accounts",
+    "question_text": "When preparing a Sales Ledger Control Account (Total Debtors Account), which of the following items is treated as a credit entry?",
+    "options": {
+      "a": "Credit sales for the period",
+      "b": "Dishonoured cheques from customers",
+      "c": "Bad debts written off",
+      "d": "Interest charged on customers' overdue accounts"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A Sales Ledger Control Account is an **asset account**. It is **debited** with items that increase what customers owe (e.g., Credit sales, dishonoured cheques, interest charged) and **credited** with items that reduce what customers owe (e.g., Cash received, discounts allowed, returns inwards, and **bad debts written off**).",
+    "section_id": null
+  },
+  {
+    "question_number": 51,
+    "subject": "Financial Accounting",
+    "topic": "Preparation of Control Accounts",
+    "question_text": "Use the following data to determine the closing balance of the Sales Ledger Control Account:\n\n*   Opening debtors: ₦12,000\n*   Credit sales: ₦50,000\n*   Cash received from customers: ₦45,000\n*   Discounts allowed: ₦1,000\n*   Bad debts: ₦500",
+    "options": {
+      "a": "₦15,500",
+      "b": "₦16,000",
+      "c": "₦16,500",
+      "d": "₦22,500"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The calculation for the closing debtors balance is:\n\n1.  **Opening Balance (Debit):** ₦12,000\n2.  **Add: Total Additions (Credit Sales):** + ₦50,000\n    *Subtotal:* ₦62,000\n3.  **Less: Total Reductions:** \n    *   Cash received: - ₦45,000\n    *   Discounts allowed: - ₦1,000\n    *   Bad debts: - ₦500\n\n$$\\text{Closing Balance} = ₦62,000 - (₦45,000 + ₦1,000 + ₦500)$$\n$$\\text{Closing Balance} = ₦62,000 - ₦46,500 = ₦15,500$$",
+    "section_id": null
+  },
+  {
+    "question_number": 52,
+    "subject": "Financial Accounting",
+    "topic": "Preparation of Control Accounts",
+    "question_text": "A business owes a supplier ₦4,000 in the purchases ledger, and the same entity is also a customer owing the business ₦4,000 in the sales ledger. If an agreement is made to offset the balances, how is this mutual set-off (contra entry) recorded in the control accounts?",
+    "options": {
+      "a": "Debited to Sales Ledger Control and Credited to Purchases Ledger Control",
+      "b": "Credited to Sales Ledger Control and Debited to Purchases Ledger Control",
+      "c": "Debited to both the Sales Ledger Control and the Purchases Ledger Control",
+      "d": "Ignored in the control accounts and only adjusted in the individual ledgers"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "A **contra settlement (set-off)** occurs when an entity is both a debtor and a creditor. To clear the mutual debt, you must reduce both balances.\n\n*   To reduce Debtors (Asset), you **Credit** the Sales Ledger Control Account.\n*   To reduce Creditors (Liability), you **Debit** the Purchases Ledger Control Account.",
+    "section_id": null
+  },
+  {
+    "question_number": 53,
+    "subject": "Financial Accounting",
+    "topic": "Reconciliation of Control Accounts",
+    "question_text": "When reconciling the Sales Ledger Control Account balance with the schedule of individual debtors, it was discovered that a customer's debit balance of ₦1,500 was entirely omitted from the schedule (list of debtors). To reconcile the records, the accountant must:",
+    "options": {
+      "a": "Add ₦1,500 to the Sales Ledger Control Account balance",
+      "b": "Deduct ₦1,500 from the Sales Ledger Control Account balance",
+      "c": "Add ₦1,500 to the total of the schedule of debtors",
+      "d": "Debit the Sales Day Book with ₦1,500"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Reconciliation involves correcting whichever side the error occurred on. \n\nSince the omission was strictly from the **schedule (list) of individual debtors** (meaning the individual's ledger balance wasn't copied to the list), the control account itself is already correct. Therefore, the correction is simply to **add the omitted ₦1,500 back to the total of the schedule** so that it agrees with the control account balance.",
+    "section_id": null
+  },
+  {
+    "question_number": 54,
+    "subject": "Financial Accounting",
+    "topic": "Meaning and limitations",
+    "question_text": "Which of the following best describes a single entry bookkeeping system?",
+    "options": {
+      "a": "A complete accounting system where every transaction has an equal debit and credit entry",
+      "b": "A system where typically only cash transactions and personal accounts of debtors and creditors are maintained",
+      "c": "A system that uses only nominal accounts to calculate daily profits",
+      "d": "A system recognized by International Financial Reporting Standards as the most perfect for large corporations"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **single entry system** is an incomplete form of bookkeeping where the strict rule of double entry is not followed. Usually, only the Cash Book and personal accounts of customers (debtors) and suppliers (creditors) are kept, while real and nominal accounts (like assets and expenses) are largely ignored.",
+    "section_id": null
+  },
+  {
+    "question_number": 55,
+    "subject": "Financial Accounting",
+    "topic": "Meaning and limitations",
+    "question_text": "All the following are distinct limitations of keeping accounting records under the single entry system EXCEPT that",
+    "options": {
+      "a": "It is difficult to prepare a trial balance to check the arithmetical accuracy of the books",
+      "b": "The preparation of reliable final accounts is impossible without lengthy conversions",
+      "c": "It provides a highly detailed and exhaustive breakdown of all nominal accounts and indirect expenses",
+      "d": "It is generally deemed inadequate for tax assessment purposes by tax authorities"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Because a single entry system ignores most double-entry principles, it **does not** keep a detailed track of nominal accounts (incomes and expenses). Thus, stating that it provides a detailed breakdown of nominal accounts (Option C) is false and is not a limitation—it's an inaccurate characteristic.",
+    "section_id": null
+  },
+  {
+    "question_number": 56,
+    "subject": "Financial Accounting",
+    "topic": "Computation of profit or loss from opening and closing balance sheets",
+    "question_text": "In a situation of incomplete records, a trader's net profit can be determined by comparing opening and closing capital. Which of the following formulas correctly calculates the net profit?",
+    "options": {
+      "a": "Closing Capital + Drawings + Additional Capital - Opening Capital",
+      "b": "Closing Capital - Drawings + Additional Capital - Opening Capital",
+      "c": "Closing Capital + Drawings - Additional Capital - Opening Capital",
+      "d": "Opening Capital + Drawings - Additional Capital - Closing Capital"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Using a **Statement of Affairs**, the formula to ascertain profit is:\n$$\\text{Net Profit} = \\text{Closing Capital} + \\text{Drawings} - \\text{Additional Capital} - \\text{Opening Capital}$$\nThis reverses the standard Balance Sheet capital progression (where Closing Capital = Opening Capital + Net Profit + Additional Capital - Drawings).",
+    "section_id": null
+  },
+  {
+    "question_number": 57,
+    "subject": "Financial Accounting",
+    "topic": "Computation of profit or loss from opening and closing balance sheets",
+    "question_text": "A trader started the year with a capital of ₦20,000. At the end of the year, total assets were ₦35,000 and total liabilities were ₦10,000. During the year, the trader withdrew ₦4,000 for personal use and introduced fresh capital of ₦5,000. What is the net profit or loss for the year?",
+    "options": {
+      "a": "₦4,000 profit",
+      "b": "₦6,000 profit",
+      "c": "₦4,000 loss",
+      "d": "₦14,000 profit"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "1. **Find Closing Capital:** $\\text{Assets} - \\text{Liabilities} = ₦35,000 - ₦10,000 = ₦25,000$.\n2. **Apply Profit Formula:**\n   $\\text{Net Profit} = \\text{Closing Capital} + \\text{Drawings} - \\text{Fresh Capital} - \\text{Opening Capital}$\n   $\\text{Net Profit} = ₦25,000 + ₦4,000 - ₦5,000 - ₦20,000$\n   $\\text{Net Profit} = ₦29,000 - ₦25,000 = ₦4,000 \\text{ profit}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 58,
+    "subject": "Financial Accounting",
+    "topic": "Conversion of single entry to double entry",
+    "question_text": "How is the total figure for **credit sales** usually ascertained when converting single entry records into a double entry format?",
+    "options": {
+      "a": "By analyzing the debit side of the Cash Book",
+      "b": "By preparing a Total Creditors Control Account",
+      "c": "By preparing a Total Debtors Control Account",
+      "d": "By creating an Opening Statement of Affairs"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "When records are incomplete, the missing figure for credit sales can be deduced by constructing a **Total Debtors (Sales Ledger) Control Account**. By plotting the opening debtors, closing debtors, cash received from customers, and discounts allowed, the balancing figure on the debit side reveals the total credit sales.",
+    "section_id": null
+  },
+  {
+    "question_number": 59,
+    "subject": "Financial Accounting",
+    "topic": "Conversion of single entry to double entry",
+    "question_text": "The following information relates to the creditors of a business: Opening creditors ₦8,000; Cash paid to suppliers ₦40,000; Discounts received ₦2,000; Closing creditors ₦12,000. What is the value of **credit purchases** for the year?",
+    "options": {
+      "a": "₦38,000",
+      "b": "₦46,000",
+      "c": "₦50,000",
+      "d": "₦62,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "To find Credit Purchases, prepare a Total Creditors Control Account or use the equation:\n$$\\text{Credit Purchases} = \\text{Cash Paid} + \\text{Discounts Received} + \\text{Closing Creditors} - \\text{Opening Creditors}$$\n$$\\text{Credit Purchases} = ₦40,000 + ₦2,000 + ₦12,000 - ₦8,000$$\n$$\\text{Credit Purchases} = ₦54,000 - ₦8,000 = ₦46,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 60,
+    "subject": "Financial Accounting",
+    "topic": "Preparation of final accounts from a set of incomplete records",
+    "question_text": "If the receipts side (debit) of a reconstructed cash book totals ₦100,000, and the total of known business payments plus the closing cash balance on the payments side (credit) amounts to only ₦80,000, what is the most logical accounting treatment for the missing ₦20,000 on the credit side?",
+    "options": {
+      "a": "It is treated as unrecorded cash sales",
+      "b": "It is assumed to be unrecorded cash drawings or stolen cash",
+      "c": "It is added to the opening capital",
+      "d": "It is recorded as an increase in trade debtors"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Incomplete records often feature balancing figures. If total documented cash receipts (₦100,000) exceed total known cash payments and cash still on hand (₦80,000), cash has gone missing. This ₦20,000 shortfall is usually assumed to be unrecorded **cash drawings** by the owner, or less frequently, defalcation/stolen cash.",
+    "section_id": null
+  },
+  {
+    "question_number": 61,
+    "subject": "Financial Accounting",
+    "topic": "Preparation of final accounts from a set of incomplete records",
+    "question_text": "When preparing final accounts from a set of incomplete records, the **opening capital** balance is typically found by preparing which of the following statements?",
+    "options": {
+      "a": "A Trading Account for the previous year",
+      "b": "A Statement of Affairs as at the beginning of the financial year",
+      "c": "A Receipts and Payments Account",
+      "d": "A Bank Reconciliation Statement"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Because a proper trial balance wasn't extracted in a single entry system, the opening capital must be derived by preparing a **Statement of Affairs** (which acts like a balance sheet) as at the beginning of the year. $\\text{Opening Assets} - \\text{Opening Liabilities} = \\text{Opening Capital}$.",
+    "section_id": null
+  },
+  {
+    "question_number": 62,
+    "subject": "Financial Accounting",
+    "topic": "Markup and Margin",
+    "question_text": "If a business consistently operates at a **margin** of $20\\%$ on sales, what is its equivalent **markup** on cost?",
+    "options": {
+      "a": "$16.67\\%$",
+      "b": "$20\\%$",
+      "c": "$25\\%$",
+      "d": "$33.33\\%$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "**Margin** is profit expressed as a fraction of Sales. **Markup** is profit expressed as a fraction of Cost.\n\n*   $\\text{Margin} = 20\\% = \\frac{20}{100} = \\frac{1}{5}$\n*   Conversion Formula: If Margin is $\\frac{N}{D}$, Markup is $\\frac{N}{D-N}$.\n*   $\\text{Markup} = \\frac{1}{5-1} = \\frac{1}{4}$\n*   $\\frac{1}{4} = 25\\%$",
+    "section_id": null
+  },
+  {
+    "question_number": 63,
+    "subject": "Financial Accounting",
+    "topic": "Markup and Margin",
+    "question_text": "A trader's Cost of Goods Sold (COGS) for the year is ₦60,000. If he applies a fixed **markup** of $33\\frac{1}{3}\\%$ on cost, what is the value of his total sales for the period?",
+    "options": {
+      "a": "₦75,000",
+      "b": "₦80,000",
+      "c": "₦90,000",
+      "d": "₦100,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "1.  **Identify Markup:** $33\\frac{1}{3}\\% = \\frac{1}{3}$ of Cost.\n2.  **Calculate Gross Profit:** $\\frac{1}{3} \\times ₦60,000 = ₦20,000$.\n3.  **Calculate Sales:** $\\text{Sales} = \\text{Cost of Goods Sold} + \\text{Gross Profit}$.\n4.  $\\text{Sales} = ₦60,000 + ₦20,000 = ₦80,000$.",
+    "section_id": null
+  },
+  {
+    "question_number": 64,
+    "subject": "Financial Accounting",
+    "topic": "Markup and Margin",
+    "question_text": "The sales revenue for a year is ₦120,000. The gross profit **margin** is $25\\%$. If the opening stock was ₦15,000 and purchases for the year were ₦90,000, what is the value of the closing stock?",
+    "options": {
+      "a": "₦10,000",
+      "b": "₦15,000",
+      "c": "₦20,000",
+      "d": "₦30,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "1.  **Gross Profit:** Margin is $25\\%$ (or $\\frac{1}{4}$) on sales. $\\frac{1}{4} \\times ₦120,000 = ₦30,000$.\n2.  **Cost of Goods Sold (COGS):** $\\text{Sales} - \\text{Gross Profit} = ₦120,000 - ₦30,000 = ₦90,000$.\n3.  **Find Closing Stock using COGS formula:** \n    $\\text{COGS} = \\text{Opening Stock} + \\text{Purchases} - \\text{Closing Stock}$\n    $₦90,000 = ₦15,000 + ₦90,000 - \\text{Closing Stock}$\n    $₦90,000 = ₦105,000 - \\text{Closing Stock}$\n    $\\text{Closing Stock} = ₦105,000 - ₦90,000 = ₦15,000$.",
+    "section_id": null
+  },
+  {
+    "question_number": 65,
+    "subject": "Financial Accounting",
+    "topic": "Meaning and terminologies",
+    "question_text": "In a not-for-profit making organization, the equivalent of a sole trader's capital is known as the",
+    "options": {
+      "a": "Retained earnings",
+      "b": "Working capital",
+      "c": "Accumulated fund",
+      "d": "Share capital"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Not-for-profit organizations (like clubs, societies, and charities) do not have owners or shareholders, so they do not have a 'Capital Account'. Instead, the surplus of assets over liabilities is credited to an **Accumulated Fund**, which represents the net worth of the organization built up over the years.",
+    "section_id": null
+  },
+  {
+    "question_number": 66,
+    "subject": "Financial Accounting",
+    "topic": "Receipts and payments accounts",
+    "question_text": "The Receipts and Payments Account of a social club serves the same fundamental purpose as a profit-making firm's",
+    "options": {
+      "a": "Trading Account",
+      "b": "Profit and Loss Account",
+      "c": "Cash Book",
+      "d": "Balance Sheet"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **Receipts and Payments Account** is simply a summary of the cash and bank transactions for the period. Like a **Cash Book**, it starts with an opening cash balance, records all cash received on the debit side, records all cash paid on the credit side, and ends with a closing cash balance.",
+    "section_id": null
+  },
+  {
+    "question_number": 67,
+    "subject": "Financial Accounting",
+    "topic": "Receipts and payments accounts",
+    "question_text": "Which of the following items will appear in a Receipts and Payments Account but NOT in an Income and Expenditure Account?",
+    "options": {
+      "a": "Depreciation on clubhouse furniture",
+      "b": "Payment for the purchase of a new club minibus",
+      "c": "Annual honorarium paid to the club secretary",
+      "d": "Loss on the sale of old sports equipment"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **Receipts and Payments Account** records *all* cash transactions, including capital expenditure like purchasing a minibus. \n\nThe **Income and Expenditure Account**, however, only records *revenue* items (day-to-day running costs and incomes). The purchase of a minibus is a capital asset and goes to the Balance Sheet, not the Income and Expenditure Account. *(Note: Depreciation and loss on sale are non-cash items, so they appear in I&E but never in Receipts & Payments).* ",
+    "section_id": null
+  },
+  {
+    "question_number": 68,
+    "subject": "Financial Accounting",
+    "topic": "Income and expenditure accounts",
+    "question_text": "The primary purpose of preparing an Income and Expenditure Account for a not-for-profit organization is to determine the",
+    "options": {
+      "a": "Surplus or deficit for the financial year",
+      "b": "Total cash receipts and payments during the year",
+      "c": "Opening accumulated fund balance",
+      "d": "Total value of assets owned by the club"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The **Income and Expenditure Account** is the non-profit equivalent of a Profit and Loss Account. It matches revenue income against revenue expenditure for a specific period to calculate the net result, which is termed a **surplus** (if income > expenditure) or a **deficit** (if expenditure > income).",
+    "section_id": null
+  },
+  {
+    "question_number": 69,
+    "subject": "Financial Accounting",
+    "topic": "Subscriptions Account",
+    "question_text": "A club received ₦50,000 as total cash subscriptions during the year. This amount included ₦4,000 for arrears from the previous year and ₦2,000 paid in advance for the next year. If subscriptions due for the current year but still unpaid amount to ₦5,000, what is the exact subscription figure to be credited as income for the current year?",
+    "options": {
+      "a": "₦49,000",
+      "b": "₦51,000",
+      "c": "₦53,000",
+      "d": "₦44,000"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "The calculation uses the **accrual concept** to find income strictly relating to the *current* year:\n1. **Cash Received:** ₦50,000\n2. **Less arrears from last year:** - ₦4,000 (Relates to past)\n3. **Less prepaid for next year:** - ₦2,000 (Relates to future)\n4. **Add arrears at year-end:** + ₦5,000 (Relates to current year but unpaid)\n\n$$\\text{Subscription Income} = 50,000 - 4,000 - 2,000 + 5,000 = ₦49,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 70,
+    "subject": "Financial Accounting",
+    "topic": "Subscriptions Account",
+    "question_text": "How are **subscriptions in advance** (received in the current year for the following year) classified in a club's Balance Sheet?",
+    "options": {
+      "a": "As a Current Asset",
+      "b": "As a Current Liability",
+      "c": "As an addition to the Accumulated Fund",
+      "d": "As a Fixed Asset"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "When members pay their subscriptions ahead of time, the club owes those members services/benefits for the upcoming year. This obligation is an unearned income and is therefore treated as a **Current Liability** in the Balance Sheet.",
+    "section_id": null
+  },
+  {
+    "question_number": 71,
+    "subject": "Financial Accounting",
+    "topic": "Accumulated fund",
+    "question_text": "Use the following balances of a social club as of 1st January to calculate the Opening Accumulated Fund:\n*   Clubhouse: ₦150,000\n*   Sports equipment: ₦50,000\n*   Cash in hand: ₦10,000\n*   Subscriptions in arrears: ₦4,000\n*   Subscriptions in advance: ₦2,000\n*   Creditors for bar supplies: ₦8,000",
+    "options": {
+      "a": "₦204,000",
+      "b": "₦200,000",
+      "c": "₦214,000",
+      "d": "₦224,000"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Accumulated Fund is calculated using the accounting equation: $\\text{Total Assets} - \\text{Total Liabilities}$.\n\n1.  **Assets:** Clubhouse (₦150,000) + Equipment (₦50,000) + Cash (₦10,000) + Subscriptions in arrears (₦4,000) = **₦214,000**\n2.  **Liabilities:** Subscriptions in advance (₦2,000) + Bar creditors (₦8,000) = **₦10,000**\n3.  **Accumulated Fund:** $₦214,000 - ₦10,000 = ₦204,000$.",
+    "section_id": null
+  },
+  {
+    "question_number": 72,
+    "subject": "Financial Accounting",
+    "topic": "Balance sheet",
+    "question_text": "A club receives a large, special donation from a philanthropist explicitly meant for the construction of a new sports pavilion. How should this receipt be treated in the final accounts?",
+    "options": {
+      "a": "Credited entirely to the Income and Expenditure Account in the year of receipt",
+      "b": "Added directly to a specific Pavilion Capital Fund in the Balance Sheet",
+      "c": "Used immediately to reduce the club's general accumulated fund deficit",
+      "d": "Treated as normal subscription revenue in the Receipts and Payments Account"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "When a donation is received for a **specific purpose** (e.g., building a pavilion, a prize fund), it is a capital receipt, not normal revenue. It must not be credited to the Income and Expenditure Account. Instead, it is taken straight to the Balance Sheet and recorded as a **Specific Fund** (Capital Fund) until it is utilized for its intended purpose.",
+    "section_id": null
+  },
+  {
+    "question_number": 73,
+    "subject": "Financial Accounting",
+    "topic": "Profit or loss from income generating activities",
+    "question_text": "Many not-for-profit organizations operate small trading ventures like a bar or a restaurant. The net profit or loss generated from these activities is typically transferred to the",
+    "options": {
+      "a": "Appropriation Account",
+      "b": "Income and Expenditure Account",
+      "c": "Receipts and Payments Account",
+      "d": "General Reserve Account"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "When clubs run trading operations to raise funds (like a bar, canteen, or dance), a separate Bar/Trading Account is prepared to ascertain the specific profit or loss. This resulting **net profit or loss** is then transferred to the club's **Income and Expenditure Account** as an additional source of income (or expense).",
+    "section_id": null
+  },
+  {
+    "question_number": 74,
+    "subject": "Financial Accounting",
+    "topic": "Profit or loss from income generating activities",
+    "question_text": "A sports club operates a bar for its members. For the year ended, bar sales amounted to ₦60,000. The bar's opening stock was ₦10,000, purchases of bar drinks were ₦40,000, and closing stock was ₦12,000. If the bar attendant's wages were ₦5,000, what is the net profit from the bar?",
+    "options": {
+      "a": "₦12,000",
+      "b": "₦27,000",
+      "c": "₦22,000",
+      "d": "₦17,000"
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "1.  **Cost of Goods Sold (COGS):** $\\text{Opening Stock} (₦10,000) + \\text{Purchases} (₦40,000) - \\text{Closing Stock} (₦12,000) = ₦38,000$.\n2.  **Gross Profit:** $\\text{Bar Sales} (₦60,000) - \\text{COGS} (₦38,000) = ₦22,000$.\n3.  **Net Profit:** $\\text{Gross Profit} (₦22,000) - \\text{Wages} (₦5,000) = ₦17,000$.\n\n*The net profit to be transferred to the Income and Expenditure account is **₦17,000**.*",
+    "section_id": null
+  }
+]

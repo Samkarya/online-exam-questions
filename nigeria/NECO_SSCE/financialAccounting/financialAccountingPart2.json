@@ -1,0 +1,930 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Financial Accounting",
+    "topic": "Partnership agreements/Deed",
+    "question_text": "In the absence of a formal partnership deed, which of the following rules applies according to the Partnership Act 1890?",
+    "options": {
+      "a": "Profits and losses are shared in proportion to capital contributed",
+      "b": "Partners are entitled to a 5% interest on their initial capital",
+      "c": "No partner is entitled to a salary for acting in the partnership business",
+      "d": "Interest on drawings is charged at 5% per annum"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "According to the Partnership Act 1890 (which applies when there is no written agreement), the default rules are: profits and losses are shared **equally**; no interest is allowed on capital; no interest is charged on drawings; and **no partner is entitled to a salary**. The only 5% rule is for interest on advances (loans) made by a partner to the firm above their agreed capital.",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Financial Accounting",
+    "topic": "Profit and loss appropriation accounts",
+    "question_text": "**Use the following information to answer Questions 76 and 77.**\n\nAdam and Eve are partners sharing profits and losses in the ratio 3:2. The net profit for the year is ₦50,000. Interest on capital is ₦5,000 for Adam and ₦3,000 for Eve. Adam receives an annual partner's salary of ₦7,000.\n\nWhat is the total distributable (residual) profit to be shared between the partners?",
+    "options": {
+      "a": "₦35,000",
+      "b": "₦42,000",
+      "c": "₦50,000",
+      "d": "₦65,000"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The distributable (residual) profit is the remaining amount after making all partnership appropriations (interest on capital, interest on drawings, and salaries).\n\n1.  **Net Profit:** ₦50,000\n2.  **Less: Total Interest on Capital:** $₦5,000 + ₦3,000 = ₦8,000$\n3.  **Less: Adam's Salary:** ₦7,000\n\n$$\\text{Residual Profit} = ₦50,000 - ₦8,000 - ₦7,000 = ₦35,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Financial Accounting",
+    "topic": "Profit and loss appropriation accounts",
+    "question_text": "Based on the data provided in **Question 76**, what is Eve's share of the residual profit?",
+    "options": {
+      "a": "₦14,000",
+      "b": "₦15,000",
+      "c": "₦21,000",
+      "d": "₦35,000"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "The partners share the residual profit of ₦35,000 in the ratio 3:2 (Adam : Eve).\n\n1.  **Total ratio parts:** $3 + 2 = 5$\n2.  **Eve's fraction:** $\\frac{2}{5}$\n3.  **Eve's share:** $\\frac{2}{5} \\times ₦35,000 = ₦14,000$",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Financial Accounting",
+    "topic": "Partners capital account and balance sheet",
+    "question_text": "When partners decide to maintain **fixed capital accounts**, where should a partner's share of profit, interest on capital, and drawings be recorded?",
+    "options": {
+      "a": "On the credit side of the Capital Account",
+      "b": "On the debit side of the Capital Account",
+      "c": "In the partner's Current Account",
+      "d": "In the Profit and Loss Appropriation Account only"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Under the **fixed capital system**, the Capital Account strictly records only initial capital contributions and permanent capital changes. All regular, fluctuating transactions such as drawings, share of profit, interest on capital, and salaries are recorded in a separate **Current Account**.",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Financial Accounting",
+    "topic": "Admission of a new partner",
+    "question_text": "Kunle and Tunde are partners sharing profits in the ratio 2:1. They admit Segun as a new partner and agree that the new profit-sharing ratio will be 3:2:1 (Kunle:Tunde:Segun). What is the **sacrificing ratio** of Kunle and Tunde respectively?",
+    "options": {
+      "a": "1:0",
+      "b": "1:1",
+      "c": "2:1",
+      "d": "3:2"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "Sacrifice is calculated as **Old Ratio - New Ratio**.\n*   **Kunle's Old Ratio:** $\\frac{2}{3}$\n*   **Kunle's New Ratio:** $\\frac{3}{6} = \\frac{1}{2}$\n*   *Kunle's Sacrifice:* $\\frac{2}{3} - \\frac{1}{2} = \\frac{4 - 3}{6} = \\frac{1}{6}$\n\n*   **Tunde's Old Ratio:** $\\frac{1}{3}$\n*   **Tunde's New Ratio:** $\\frac{2}{6} = \\frac{1}{3}$\n*   *Tunde's Sacrifice:* $\\frac{1}{3} - \\frac{1}{3} = 0$\n\nThe sacrificing ratio is **1:0**, meaning Kunle bore the entire sacrifice to give Segun his $1/6$ share.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Financial Accounting",
+    "topic": "Treatment of goodwill and revaluation of assets",
+    "question_text": "Upon the admission of a new partner, a Revaluation Account is opened. If the revaluation of assets and liabilities results in a net profit, how is this profit treated in the books?",
+    "options": {
+      "a": "It is credited to the new partner's capital account only",
+      "b": "It is credited to all partners' (old and new) capital accounts in the new profit-sharing ratio",
+      "c": "It is credited to the old partners' capital accounts in their old profit-sharing ratio",
+      "d": "It is carried forward to the new Balance Sheet as a Capital Reserve"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Profits or losses arising from the revaluation of assets prior to a new partner's admission belong exclusively to the **old partners**, as the changes in asset values occurred during their tenure. Therefore, revaluation profit is **credited to the old partners' capital (or current) accounts using their old profit-sharing ratio**.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Financial Accounting",
+    "topic": "Dissolution of partnership",
+    "question_text": "In the event of the dissolution of a partnership, which of the following accounts is specially opened to record the sale of assets and the settlement of liabilities?",
+    "options": {
+      "a": "Revaluation Account",
+      "b": "Realization Account",
+      "c": "Appropriation Account",
+      "d": "Suspense Account"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **Realization Account** is opened exclusively when a partnership is dissolved (liquidated). It is used to ascertain the profit or loss made from \"realizing\" (selling off) the firm's assets and paying off external liabilities.",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Financial Accounting",
+    "topic": "Dissolution of partnership",
+    "question_text": "During the dissolution of a partnership, a partner agrees to take over the firm's motor vehicle for personal use at an agreed valuation of ₦20,000. What is the correct double entry for this transaction?",
+    "options": {
+      "a": "Debit Motor Vehicle Account, Credit Partner's Capital Account",
+      "b": "Debit Partner's Capital Account, Credit Realization Account",
+      "c": "Debit Realization Account, Credit Partner's Capital Account",
+      "d": "Debit Cash Account, Credit Realization Account"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "When a partner takes over an asset during dissolution, they are effectively \"buying\" it from the firm without paying cash upfront. \n1.  The firm's asset is \"sold\" to the partner, so revenue is generated for the dissolution process: **Credit Realization Account**.\n2.  The partner now owes the firm, which reduces the amount the firm will eventually pay them: **Debit Partner's Capital Account**.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Financial Accounting",
+    "topic": "Nature and formation of a company",
+    "question_text": "Which of the following incorporation documents strictly regulates the internal management and affairs of a registered company?",
+    "options": {
+      "a": "Memorandum of Association",
+      "b": "Articles of Association",
+      "c": "The Prospectus",
+      "d": "Certificate of Incorporation"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Articles of Association** contain the rules and regulations that govern the internal management, operations, and rights of shareholders within a company. \n\nConversely, the *Memorandum of Association* regulates the company's external relationship with the outside world (defining its powers, objectives, and capital).",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Financial Accounting",
+    "topic": "Types of companies and shares",
+    "question_text": "Shareholders who are entitled to receive any unpaid dividends from past years before ordinary shareholders can receive a dividend for the current year are holders of",
+    "options": {
+      "a": "Participating preference shares",
+      "b": "Redeemable preference shares",
+      "c": "Cumulative preference shares",
+      "d": "Deferred (founder's) shares"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Cumulative preference shares** carry the right that if the company cannot pay dividends in one year due to insufficient profits, the dividend entitlement accumulates and is carried forward. These accumulated arrears must be paid in full before any dividend is declared for ordinary shareholders.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Financial Accounting",
+    "topic": "Issue of shares",
+    "question_text": "A company issues 10,000 ordinary shares of ₦1.00 each at an issue price of ₦1.50 per share. All shares were fully subscribed and paid for. How much will be credited to the **Share Premium Account**?",
+    "options": {
+      "a": "₦5,000",
+      "b": "₦10,000",
+      "c": "₦15,000",
+      "d": "₦25,000"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Share premium is the amount received over and above the nominal (par) value of a share.\n\n1.  **Nominal Value:** ₦1.00\n2.  **Issue Price:** ₦1.50\n3.  **Premium per share:** $₦1.50 - ₦1.00 = ₦0.50$\n4.  **Total Share Premium:** $10,000 \\text{ shares} \\times ₦0.50 = ₦5,000$.\n\n*Note: ₦10,000 goes to the Ordinary Share Capital account, and the total ₦15,000 is received in the Bank account.*",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Financial Accounting",
+    "topic": "Loan capital, debentures/loan notes and mortgages",
+    "question_text": "Which of the following is a primary characteristic of **debentures** but NOT of ordinary shares?",
+    "options": {
+      "a": "They represent equity ownership in the company",
+      "b": "They carry voting rights at the Annual General Meeting",
+      "c": "They attract a fixed rate of interest regardless of the company's profit levels",
+      "d": "Their financial return is termed a dividend"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Debentures** are a form of long-term loan capital, meaning debenture holders are creditors to the company, not owners. They receive a **fixed interest** payment which must be paid whether the company makes a profit or a loss. Ordinary shareholders are owners who receive variable dividends and have voting rights.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Financial Accounting",
+    "topic": "Final accounts of company for internal use only",
+    "question_text": "In the preparation of a limited liability company's final accounts, which of the following items is charged to the **Profit and Loss Appropriation Account** rather than the Profit and Loss Account?",
+    "options": {
+      "a": "Directors' remuneration",
+      "b": "Debenture interest",
+      "c": "Provision for depreciation on buildings",
+      "d": "Proposed dividends to shareholders"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "The Profit and Loss Account is used to determine the Net Profit and thus includes all operating expenses and finance costs (like Directors' fees and Debenture interest). \n\nThe **Profit and Loss Appropriation Account** is strictly used to show how the Net Profit is distributed or retained. Examples of appropriations include transferring profit to general reserves, paying corporation tax, and declaring **proposed/interim dividends**.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Financial Accounting",
+    "topic": "Interpretation of accounts using simple ratios",
+    "question_text": "Extracts from a company's balance sheet reveal:\n*   Current Assets: ₦50,000\n*   Closing Stock: ₦20,000\n*   Current Liabilities: ₦15,000\n\nCalculate the **Acid Test (Quick) Ratio** for the company.",
+    "options": {
+      "a": "3.33 : 1",
+      "b": "2.00 : 1",
+      "c": "1.33 : 1",
+      "d": "0.50 : 1"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The Acid Test or Quick Ratio measures strict short-term liquidity by excluding stock (inventory), which is considered the least liquid current asset.\n\n1.  **Liquid Assets (Quick Assets):** $\\text{Current Assets} - \\text{Stock} = ₦50,000 - ₦20,000 = ₦30,000$\n2.  **Quick Ratio Formula:** $\\frac{\\text{Liquid Assets}}{\\text{Current Liabilities}}$\n3.  **Calculation:** $\\frac{₦30,000}{₦15,000} = 2$\n\nThe Quick Ratio is **2.00 : 1**.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Financial Accounting",
+    "topic": "Interpretation of accounts using simple ratios",
+    "question_text": "A business provides the following information: Opening stock ₦10,000; Closing stock ₦14,000; Cost of goods sold ₦72,000. What is the **rate of stock turnover**?",
+    "options": {
+      "a": "5 times",
+      "b": "6 times",
+      "c": "7.2 times",
+      "d": "12 times"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Rate of Stock Turnover (Inventory Turnover Ratio) indicates how many times a business replaces its stock over a given period.\n\n1.  **Average Stock:** $\\frac{\\text{Opening Stock} + \\text{Closing Stock}}{2} = \\frac{₦10,000 + ₦14,000}{2} = ₦12,000$\n2.  **Formula:** $\\frac{\\text{Cost of Goods Sold}}{\\text{Average Stock}}$\n3.  **Calculation:** $\\frac{₦72,000}{₦12,000} = 6$\n\nThe stock turns over **6 times** in the period.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Financial Accounting",
+    "topic": "Purchase of business account",
+    "question_text": "When a limited company acquires an existing business, if the purchase consideration paid exceeds the agreed fair value of the net assets acquired, the positive difference is recorded in the books as",
+    "options": {
+      "a": "Capital Reserve",
+      "b": "Share Premium",
+      "c": "Goodwill",
+      "d": "Profit prior to incorporation"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "When a company buys another business for a price higher than the net value of its tangible and identifiable intangible assets, the excess amount paid represents the business's reputation, customer loyalty, and brand value. This premium is recognized in accounting as **Goodwill** (an intangible fixed asset).\n\n*(If the purchase price was lower than net assets, the difference would be a Capital Reserve).* ",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Financial Accounting",
+    "topic": "Statement of Cash Flow (using direct and indirect methods)",
+    "question_text": "According to the standard structure of a Statement of Cash Flows, the cash proceeds received from the sale of plant and machinery should be classified under",
+    "options": {
+      "a": "Operating activities",
+      "b": "Investing activities",
+      "c": "Financing activities",
+      "d": "Cash and cash equivalents"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Cash Flow Statements are divided into three activities:\n1.  **Operating Activities:** Day-to-day trading cash flows.\n2.  **Investing Activities:** Cash flows related to the acquisition and disposal of long-term assets (fixed assets) and other investments. Thus, selling plant and machinery goes here.\n3.  **Financing Activities:** Cash flows related to changes in the size and composition of equity and borrowings (e.g., issuing shares, taking a loan).",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Financial Accounting",
+    "topic": "Statement of Cash Flow (using direct and indirect methods)",
+    "question_text": "When preparing a Statement of Cash Flows using the **indirect method**, how is the annual depreciation charge treated?",
+    "options": {
+      "a": "It is deducted from net profit before tax",
+      "b": "It is added back to net profit before tax",
+      "c": "It is classified as a cash outflow under investing activities",
+      "d": "It is ignored completely since it is a non-cash item"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The indirect method starts with the Net Profit. However, Net Profit includes deductions for non-cash expenses (like depreciation), which reduced the reported profit but did not cause any cash to actually leave the business. \n\nTo find the true cash generated from operations, these non-cash expenses must be reversed by **adding them back** to the net profit.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Financial Accounting",
+    "topic": "Characteristics of VAT",
+    "question_text": "Value Added Tax (VAT) is fundamentally characterized as a/an",
+    "options": {
+      "a": "Direct tax levied on the personal income and profits of individuals",
+      "b": "Multi-stage indirect consumption tax levied on the value added at each stage of the supply chain",
+      "c": "Single-stage sales tax collected strictly at the final retail point of sale",
+      "d": "Capital gains tax charged exclusively on the disposal of non-current business assets"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Value Added Tax (VAT)** is a multi-stage indirect tax on consumption. It is collected incrementally at every stage of the production and distribution chain whenever value is added, but the ultimate economic burden is borne by the final consumer.",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Financial Accounting",
+    "topic": "Bases of computing input/output VAT",
+    "question_text": "In accounting for Value Added Tax (VAT), the tax charged and collected by a registered business on its sales of taxable goods and services to customers is known as",
+    "options": {
+      "a": "Input VAT",
+      "b": "Output VAT",
+      "c": "Withholding VAT",
+      "d": "Standard VAT"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "*   **Output VAT:** The VAT charged and collected by a taxable entity on its outward supply (sales) of goods and services to customers.\n*   **Input VAT:** The VAT paid by a business on its purchases of raw materials, goods for resale, or business expenses from other suppliers.",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Financial Accounting",
+    "topic": "Preparation of VAT returns",
+    "question_text": "During a given month, Ade Ltd recorded taxable credit purchases of ₦400,000 and taxable credit sales of ₦700,000. Assuming an applicable standard VAT rate of $7.5\\%$, what is the net VAT payable to (or refundable from) the tax authorities for the month?",
+    "options": {
+      "a": "₦22,500 payable",
+      "b": "₦22,500 refundable",
+      "c": "₦52,500 payable",
+      "d": "₦30,000 refundable"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Net VAT is calculated as Output VAT minus Input VAT:\n\n1.  **Output VAT (on sales):** $7.5\\% \\times ₦700,000 = ₦52,500$\n2.  **Input VAT (on purchases):** $7.5\\% \\times ₦400,000 = ₦30,000$\n3.  **Net VAT Remittance:**\n    $$\\text{Net VAT Payable} = \\text{Output VAT} - \\text{Input VAT}$$\n    $$\\text{Net VAT Payable} = ₦52,500 - ₦30,000 = ₦22,500$$\n\nBecause Output VAT exceeds Input VAT, the business has a liability of **₦22,500 payable** to the tax authorities.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Financial Accounting",
+    "topic": "Preparation of VAT returns",
+    "question_text": "In preparing a VAT return for a tax period, if a registered business has an **Input VAT of ₦45,000** and an **Output VAT of ₦30,000**, what is the final tax position of the firm?",
+    "options": {
+      "a": "The business must remit ₦15,000 to the tax revenue service",
+      "b": "The business is entitled to a VAT refund or tax credit of ₦15,000",
+      "c": "The ₦15,000 excess is charged directly to the Profit and Loss Account as a business expense",
+      "d": "The business must pay the gross Output VAT of ₦30,000 without deducting Input VAT"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "When **Input VAT exceeds Output VAT**:\n$$\\text{Net Position} = \\text{Output VAT} - \\text{Input VAT} = ₦30,000 - ₦45,000 = -₦15,000$$\n\nA negative result indicates that the business has paid more VAT on its purchases than it collected from customers. The business is legally entitled to a **tax refund** or a **tax credit** of ₦15,000 carried forward to offset future VAT liabilities.",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "Financial Accounting",
+    "topic": "Exempt goods and services",
+    "question_text": "Under standard Value Added Tax (VAT) regulations, all the following items are categorized as **exempt goods and services** EXCEPT",
+    "options": {
+      "a": "Basic, unprocessed food items",
+      "b": "Medical and pharmaceutical supplies",
+      "c": "Educational books and classroom materials",
+      "d": "Commercial electronic equipment and home appliances"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Exempt goods and services** are items on which no VAT is charged, typically to reduce the cost of living or encourage essential social services (e.g., basic raw foods, medical supplies, educational materials, and public transport). \n\n**Commercial electronics and home appliances** are standard taxable luxury/consumer goods and attract full VAT.",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "Financial Accounting",
+    "topic": "Bases of computing input/output VAT",
+    "question_text": "A registered business purchases goods on credit for ₦100,000 subject to a $7.5\\%$ VAT rate. What is the correct double-entry recording for this purchase in the buyer's ledger?",
+    "options": {
+      "a": "Debit Purchases Account ₦107,500; Credit Creditors Account ₦107,500",
+      "b": "Debit Purchases Account ₦100,000, Debit Input VAT Account ₦7,500; Credit Creditors Account ₦107,500",
+      "c": "Debit Purchases Account ₦100,000, Credit Output VAT Account ₦7,500; Credit Creditors Account ₦92,500",
+      "d": "Debit Purchases Account ₦100,000; Credit Creditors Account ₦100,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Because the buyer can reclaim Input VAT from the tax authorities, VAT is not treated as part of the cost of purchases.\n\n1.  **Debit Purchases Account** with the net price of goods: **₦100,000**\n2.  **Debit Input VAT Account** (an asset/receivable from the tax authority): $7.5\\% \\times ₦100,000 =$ **₦7,500**\n3.  **Credit Creditors Account** (Total payable to supplier): $₦100,000 + ₦7,500 =$ **₦107,500**",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "Financial Accounting",
+    "topic": "Meaning and importance",
+    "question_text": "The primary reason for a business entity to prepare Departmental Accounts is to",
+    "options": {
+      "a": "Determine the individual profitability and operational efficiency of each distinct department",
+      "b": "Combine all indirect expenses into a single figure to lower business income tax",
+      "c": "Satisfy mandatory statutory requirements applicable only to sole proprietorships",
+      "d": "Eliminate the need to prepare a combined final Balance Sheet for the business"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Departmental Accounts** are prepared by dividing a multi-activity business into distinct segments. This enables management to evaluate the operational performance, gross profit, and net profit of each department individually, identifying which lines are performing well and which are unprofitable.",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "Financial Accounting",
+    "topic": "Differences between a department and branch",
+    "question_text": "Which of the following statements highlights the main operational difference between a **department** and a **branch**?",
+    "options": {
+      "a": "A department operates in geographically distant towns, while branches operate strictly under one roof",
+      "b": "Departments are divisions operating within the same physical premises, whereas branches are established in geographically separated locations",
+      "c": "Departments prepare independent balance sheets, while branches never account for assets",
+      "d": "Departments engage exclusively in manufacturing, whereas branches engage solely in retail trading"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The fundamental difference lies in physical location: **departments** are sections or divisions situated under the same roof or within the same business premises (e.g., shoe department and clothing department in a department store), whereas **branches** are geographically separated units operating at different physical locations away from the Head Office.",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "Financial Accounting",
+    "topic": "Preparation of departmental account",
+    "question_text": "When preparing departmental final accounts, common general expenses such as **rent and rates** and **building insurance** are best apportioned among departments on the basis of",
+    "options": {
+      "a": "Total sales turnover of each department",
+      "b": "Floor area (space) occupied by each department",
+      "c": "The number of employees working in each department",
+      "d": "The total value of opening stock held by each department"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Expenses that relate directly to the physical building (such as rent, rates, heating, and property insurance) are most equitably apportioned on the basis of the **floor area (space occupied)** by each department. Expenses related to sales (e.g., salesmen's commissions, discounts allowed) are apportioned based on sales turnover.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "Financial Accounting",
+    "topic": "Preparation of departmental account",
+    "question_text": "A retail store operates two departments, X and Y. Total lighting and heating expenses for the year amount to ₦36,000. Department X occupies $1,200\\text{ m}^2$ of floor space and Department Y occupies $600\\text{ m}^2$. How much of the lighting and heating expense should be allocated to **Department X**?",
+    "options": {
+      "a": "₦12,000",
+      "b": "₦18,000",
+      "c": "₦24,000",
+      "d": "₦27,000"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Apportionment is based on the floor space ratio:\n\n1.  **Total Floor Area:** $1,200\\text{ m}^2 + 600\\text{ m}^2 = 1,800\\text{ m}^2$\n2.  **Ratio of Department X:** $\\frac{1,200}{1,800} = \\frac{2}{3}$\n3.  **Expense for Department X:** \n    $$\\text{Share} = \\frac{2}{3} \\times ₦36,000 = ₦24,000$$\n\n*(Department Y receives the remaining $\\frac{1}{3} \\times ₦36,000 = ₦12,000$).*",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "Financial Accounting",
+    "topic": "Preparation of Branch Account excluding foreign branches",
+    "question_text": "All the following are typical characteristics of a **dependent branch** EXCEPT that",
+    "options": {
+      "a": "Goods for resale are supplied to the branch exclusively by the Head Office",
+      "b": "It maintains a complete and independent set of double-entry ledger books locally",
+      "c": "All cash collections from sales are banked promptly into the Head Office account",
+      "d": "Small day-to-day branch operating expenses are reimbursed via an imprest petty cash system"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **dependent branch** does not maintain a complete set of accounting records; all its main accounting entries and ledger accounts are kept centrally by the **Head Office**. An *independent branch*, on the other hand, keeps full double-entry books and extracts its own trial balance.",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "Financial Accounting",
+    "topic": "Preparation of Branch Account excluding foreign branches",
+    "question_text": "In the Head Office books under the Debtors System for a dependent branch, what is the double entry for recording **goods sent to the branch at cost price**?",
+    "options": {
+      "a": "Debit Branch Account; Credit Goods Sent to Branch Account",
+      "b": "Debit Goods Sent to Branch Account; Credit Branch Account",
+      "c": "Debit Purchases Account; Credit Branch Debtors Account",
+      "d": "Debit Branch Account; Credit Sales Account"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Under the Debtors System in the Head Office ledger:\n*   **Debit Branch Account** (to record the value of assets/inventory entrusted to the branch).\n*   **Credit Goods Sent to Branch Account** (which at the end of the year is transferred to the credit of the Trading/Purchases Account to reduce total purchases).",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "Financial Accounting",
+    "topic": "Preparation of Branch Account excluding foreign branches",
+    "question_text": "A Head Office invoices goods to its branch at cost plus a mark-up of $25\\%$. During the period, goods with an invoice price of ₦100,000 were sent to the branch. What is the value of the **loading (unrealized profit)** to be credited to the Branch Stock Adjustment Account?",
+    "options": {
+      "a": "₦20,000",
+      "b": "₦25,000",
+      "c": "₦75,000",
+      "d": "₦80,000"
+    },
+    "correct_answer": "a",
+    "difficulty": "Hard",
+    "explanation": "1.  **Mark-up on Cost:** $25\\% = \\frac{1}{4}$ on cost.\n2.  **Equivalent Margin on Invoice Price:** $\\frac{1}{4+1} = \\frac{1}{5} = 20\\%$ on invoice price.\n3.  **Calculation of Loading:**\n    $$\\text{Loading} = 20\\% \\times ₦100,000 = ₦20,000$$\n\n*(Alternatively, if $\\text{Cost} = 100\\%$ and $\\text{Invoice} = 125\\%$, then $\\text{Cost} = \\frac{₦100,000}{1.25} = ₦80,000$. The loading is $₦100,000 - ₦80,000 = ₦20,000$).*",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "Financial Accounting",
+    "topic": "Inter branch transactions",
+    "question_text": "Under instructions from Head Office, Branch A transfers goods valued at ₦15,000 directly to Branch B. In the books of **Branch A**, how should this inter-branch transfer be recorded?",
+    "options": {
+      "a": "Debit Branch B Account; Credit Head Office Account",
+      "b": "Debit Head Office Account; Credit Goods Sent/Received (or Branch Stock) Account",
+      "c": "Debit Branch B Account; Credit Sales Account",
+      "d": "Debit Goods Sent/Received Account; Credit Branch B Account"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Branches do not maintain direct accounts with each other; all inter-branch transfers are routed through the **Head Office Account**.\n\nWhen Branch A sends goods to Branch B:\n*   Branch A is relieving itself of responsibility for those goods by returning the obligation back to Head Office: **Debit Head Office Account** (reducing accountability to HO).\n*   **Credit Goods Received/Branch Stock Account** (to reduce stock).",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "Financial Accounting",
+    "topic": "Meaning and difference between Public Sector and Private Sector Accounts",
+    "question_text": "The fundamental objective of public sector accounting is to",
+    "options": {
+      "a": "Maximize net operational profit and distribute regular dividends to citizens",
+      "b": "Ensure stewardship, accountability, and transparency in the receipt and disbursement of public funds for social welfare",
+      "c": "Determine the exact net asset value per share of state-owned entities",
+      "d": "Minimize government tax collection in order to maximize private individual savings"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Unlike private sector accounting which primarily aims at measuring **profitability** and wealth maximization for owners, **public sector accounting** focuses on **stewardship, budgetary control, accountability, and transparency** in using public funds to provide public goods and services.",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "Financial Accounting",
+    "topic": "Meaning and difference between Public Sector and Private Sector Accounts",
+    "question_text": "Traditional government accounting relies predominantly on the **cash basis of accounting** because it",
+    "options": {
+      "a": "Accurately applies the matching and accrual concepts across distinct accounting years",
+      "b": "Focuses on budgetary compliance by recording transactions only when actual cash is received or disbursed",
+      "c": "Eliminates the possibility of government budget deficits occurring",
+      "d": "Provides an exact calculation of annual depreciation on public infrastructure like highways and bridges"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The traditional **cash basis of accounting** in government records transactions only when physical cash is received or payments are actually made. Its primary advantage in the public sector is ensuring strict **budgetary control**, verifying that actual cash spending does not exceed the legal appropriations approved by the legislature.",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "Financial Accounting",
+    "topic": "Sources of public revenue",
+    "question_text": "All the following are classified as **non-tax revenues** of the government EXCEPT",
+    "options": {
+      "a": "Court fines, penalties, and forfeitures",
+      "b": "Petroleum Profits Tax and Personal Income Tax",
+      "c": "Mining royalties, license fees, and highway tolls",
+      "d": "Dividends and operating surpluses from state-owned enterprises"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Non-tax revenues** are earnings generated by the government through non-taxation sources such as administrative fees, fines, mineral royalties, and dividends from state corporations. \n\n**Petroleum Profits Tax** and **Personal Income Tax** are direct forms of statutory **tax revenue**.",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "Financial Accounting",
+    "topic": "Capital and recurrent expenditures",
+    "question_text": "Which of the following is correctly classified as a **recurrent expenditure** of the government?",
+    "options": {
+      "a": "Construction of an interstate dual-carriageway expressway",
+      "b": "Payment of monthly civil service salaries, allowances, and pensions",
+      "c": "Procurement of specialized military transport aircraft",
+      "d": "Building and equipping a new state teaching hospital"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "*   **Recurrent Expenditure:** Ongoing, day-to-day operational costs of running the government that recur every year and do not create long-term physical assets (e.g., civil service salaries, office supplies, utilities, and pensions).\n*   **Capital Expenditure:** Spending on acquiring, constructing, or improving long-term physical infrastructure and fixed assets (e.g., roads, hospitals, aircraft).",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "Financial Accounting",
+    "topic": "Preparation of simple government accounts",
+    "question_text": "In government accounting, the primary fund created by the Constitution into which all general revenues of the government are paid and from which recurrent statutory expenditures are withdrawn is the",
+    "options": {
+      "a": "Capital Development Fund",
+      "b": "Contingencies Fund",
+      "c": "Consolidated Revenue Fund",
+      "d": "Special Trust Fund"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **Consolidated Revenue Fund (CRF)** is the main constitutional fund of the government. All public revenues raised or received (unless specifically designated by law for a special purpose) must be paid into the CRF, and all statutory recurrent expenditures are charged against it.",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "Financial Accounting",
+    "topic": "Preparation of simple government accounts",
+    "question_text": "Use the following data to determine the closing balance of the **Consolidated Revenue Fund (CRF)** at year-end:\n\n*   Opening CRF Balance: ₦50,000,000\n*   Total Recurrent Revenue Collected: ₦180,000,000\n*   Total Recurrent Expenditure: ₦120,000,000\n*   Statutory Transfer to Capital Development Fund: ₦40,000,000",
+    "options": {
+      "a": "₦60,000,000",
+      "b": "₦70,000,000",
+      "c": "₦110,000,000",
+      "d": "₦150,000,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The Consolidated Revenue Fund account is prepared as follows:\n\n1.  **Total Inflows to CRF:**\n    $$\\text{Opening Balance} + \\text{Recurrent Revenue} = ₦50,000,000 + ₦180,000,000 = ₦230,000,000$$\n2.  **Total Outflows from CRF:**\n    $$\\text{Recurrent Expenditure} + \\text{Transfer to CDF} = ₦120,000,000 + ₦40,000,000 = ₦160,000,000$$\n3.  **Closing CRF Balance:**\n    $$\\text{Closing Balance} = ₦230,000,000 - ₦160,000,000 = ₦70,000,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "Financial Accounting",
+    "topic": "Manual and computerized Accounting Processing Systems",
+    "question_text": "In a computerized accounting processing system, the posting of journal entries to individual ledger accounts and the generation of the trial balance are typically",
+    "options": {
+      "a": "Performed manually by accounts clerks at the end of each month",
+      "b": "Executed automatically and instantaneously by the software once transaction data is inputted",
+      "c": "Conducted exclusively by external auditors during the end-of-year statutory audit",
+      "d": "Completely eliminated because ledgers are not required in computerized accounting"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "In a **computerized accounting system**, once source transaction data (like an invoice or receipt) is keyed in, the system automatically posts the entries to the relevant ledger accounts, updates balances in real time, and extracts the trial balance instantly without requiring manual posting by clerks.",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "Financial Accounting",
+    "topic": "Processes involved in data processing",
+    "question_text": "What is the standard chronological sequence of stages in the electronic data processing cycle?",
+    "options": {
+      "a": "Output $\\rightarrow$ Processing $\rightarrow$ Input $\rightarrow$ Storage",
+      "b": "Input $\\rightarrow$ Processing $\rightarrow$ Storage $\rightarrow$ Output",
+      "c": "Storage $\rightarrow$ Input $\rightarrow$ Output $\rightarrow$ Processing",
+      "d": "Processing $\rightarrow$ Output $\rightarrow$ Storage $\rightarrow$ Input"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The electronic data processing cycle follows a standard four-stage logical sequence:\n1. **Input:** Capturing and entering raw transaction data into the computer system.\n2. **Processing:** Manipulating, classifying, and calculating the data according to programmed rules.\n3. **Storage:** Retaining processed information in secondary storage media for future access.\n4. **Output:** Presenting financial information in user-friendly formats (e.g., reports, statements, or screens).",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "Financial Accounting",
+    "topic": "Computer Hardware and Software",
+    "question_text": "Which of the following is an example of specialized **accounting application software** widely used in computerized bookkeeping?",
+    "options": {
+      "a": "Linux Ubuntu",
+      "b": "Sage 50 / QuickBooks",
+      "c": "Microsoft Windows 11",
+      "d": "BIOS Firmware"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Application software** is designed to perform specific user tasks. **Sage 50**, **QuickBooks**, and **Tally** are specialized accounting application software packages designed to handle ledgers, payroll, and final accounts. \n\n*Windows 11* and *Linux* are Operating Systems (System Software), while *BIOS* is basic firmware.",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "Financial Accounting",
+    "topic": "Computer Hardware and Software",
+    "question_text": "In a modern Point-of-Sale (POS) computerized retail accounting system, which input hardware device is primarily used to instantly capture product codes, description, and price from inventory labels?",
+    "options": {
+      "a": "Barcode reader / Optical scanner",
+      "b": "Digital plotter",
+      "c": "Central Processing Unit (CPU)",
+      "d": "Solid State Drive (SSD)"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "A **barcode reader / optical scanner** is an input peripheral device used at points of sale to optically scan barcodes printed on product packaging, instantly transmitting the item's identification code directly into the accounting software to update inventory levels and process billing.",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "Financial Accounting",
+    "topic": "Merits and demerits of manual and computerized accounting processing systems",
+    "question_text": "All the following are significant demerits or operational risks associated with **computerized accounting systems** EXCEPT",
+    "options": {
+      "a": "High initial capital cost for hardware, software licensing, and personnel training",
+      "b": "Risk of massive data loss or corruption resulting from hardware failure, malware, or cyber attacks",
+      "c": "Vulnerability to operational downtime during power outages or system maintenance",
+      "d": "Inability to process large volumes of routine transactions with high speed and precision"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "The ability to process large volumes of routine transactions at very high speed and with consistent mathematical precision is a major **merit (advantage)** of computerized accounting systems, not a demerit. \n\nHigh installation costs, power dependence, training requirements, and cybersecurity threats are real demerits.",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "Financial Accounting",
+    "topic": "Merits and demerits of manual and computerized accounting processing systems",
+    "question_text": "An accounts clerk accidentally enters an invoice amount of ₦50,000 as ₦500,000 into an accounting software package. The software immediately processes and posts the inflated figure throughout the ledgers without error flags. This scenario illustrates which limitation of computerized accounting systems?",
+    "options": {
+      "a": "Double-entry imbalance failure",
+      "b": "Garbage-In, Garbage-Out (GIGO) principle",
+      "c": "Automated data redundancy",
+      "d": "Batch scheduling lag"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The **Garbage-In, Garbage-Out (GIGO)** concept emphasizes that computers process whatever data is supplied to them without subjective judgment. If inaccurate, faulty, or inflated data is entered into the system (Garbage In), the resulting ledger balances and financial reports will also be inaccurate and misleading (Garbage Out).",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "Financial Accounting",
+    "topic": "Joint Venture Accounts",
+    "question_text": "Which of the following statements correctly distinguishes a **Joint Venture** from a **Partnership**?",
+    "options": {
+      "a": "A joint venture is formed for an indefinite duration, whereas a partnership is strictly short-term",
+      "b": "A joint venture is a temporary business combination formed for a specific contract or project and dissolves upon its completion, whereas a partnership is an ongoing business relationship",
+      "c": "Co-venturers are personally liable for all personal lifetime debts of other venturers, unlike partners in a partnership",
+      "d": "A joint venture requires mandatory incorporation under the Companies Act, while a partnership does not"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **Joint Venture** is a temporary partnership entered into by two or more persons (or entities) to undertake a specific, limited business project (such as underwriting an issue of shares or building a bridge). Once the project is concluded, the joint venture terminates automatically without formal legal dissolution proceedings.",
+    "section_id": null
+  },
+  {
+    "question_number": 46,
+    "subject": "Financial Accounting",
+    "topic": "Joint Venture Accounts",
+    "question_text": "What is the primary function of preparing a **Memorandum Joint Venture Account** when co-venturers maintain records of joint venture transactions in their individual ledgers?",
+    "options": {
+      "a": "To record only the initial cash contributions made by the lead venturer",
+      "b": "To combine all the transactions recorded by the different co-venturers in order to calculate the overall net profit or loss of the venture",
+      "c": "To serve as a legal Balance Sheet presented to external financial institutions",
+      "d": "To record the settlement of individual personal drawings made by each co-venturer"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **Memorandum Joint Venture Account** is not part of the double-entry ledger of any single venturer. It is a combined memorandum (summary) account prepared by pulling together all revenues and expenses incurred by all co-venturers to determine the total net profit or loss of the joint venture, which is subsequently shared among them according to their agreed profit-sharing ratio.",
+    "section_id": null
+  },
+  {
+    "question_number": 47,
+    "subject": "Financial Accounting",
+    "topic": "Consignment Accounts",
+    "question_text": "An extra commission paid by a consignor to a consignee who guarantees payment from credit customers and undertakes to bear any losses resulting from bad debts is known as",
+    "options": {
+      "a": "Overriding commission",
+      "b": "Del credere commission",
+      "c": "Brokerage fee",
+      "d": "Special trade discount"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Del credere commission** is an additional commission paid by the principal (consignor) to the agent (consignee). In exchange for this higher fee, the consignee assumes all credit risk; if any credit buyer fails to pay (bad debt), the loss is absorbed by the consignee rather than the consignor.",
+    "section_id": null
+  },
+  {
+    "question_number": 48,
+    "subject": "Financial Accounting",
+    "topic": "Consignment Accounts",
+    "question_text": "In the books of the consignor, the **Consignment Account** functions primarily as a/an",
+    "options": {
+      "a": "Real account showing the physical inventory located at the agent's warehouse",
+      "b": "Personal account reflecting the total debt owed by the consignee",
+      "c": "Special Trading and Profit and Loss Account designed to determine the net profit or loss made on that specific consignment",
+      "d": "Analytical summary cash book recording remittances"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **Consignment Account** is a nominal account. It is debited with the cost of goods sent and all expenses incurred (by both consignor and consignee), and credited with total sales proceeds and any closing stock at cost. The resulting balance represents the net profit or loss generated by that specific consignment transaction.",
+    "section_id": null
+  },
+  {
+    "question_number": 49,
+    "subject": "Financial Accounting",
+    "topic": "Contract Accounts",
+    "question_text": "In a Contract Account, **retention money** represents the portion of the",
+    "options": {
+      "a": "Value of work certified that is temporarily withheld by the contractee as security against potential defects during the maintenance period",
+      "b": "Architect's professional fees paid in advance before construction commences on site",
+      "c": "Value of uncertified work retained by the contractor at the end of the year",
+      "d": "Initial tender deposit forfeited to the client in the event of contractual default"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Retention money** is a percentage (often $10\\%$ to $20\\%$) of the architect-certified progress payment that the contractee (client) holds back from the contractor. It serves as a safeguard to ensure the contractor remedies any faulty workmanship or defects that appear during the agreed defects liability period.",
+    "section_id": null
+  },
+  {
+    "question_number": 50,
+    "subject": "Financial Accounting",
+    "topic": "Contract Accounts",
+    "question_text": "Use the following details extracted from a contractor's ledger to determine the **Notional Profit** on a contract:\n\n*   Value of work certified: ₦120,000\n*   Cost of work uncertified: ₦15,000\n*   Total cost of contract to date: ₦95,000",
+    "options": {
+      "a": "₦25,000",
+      "b": "₦40,000",
+      "c": "₦10,000",
+      "d": "₦110,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "**Notional Profit** is calculated as the total value of work done to date minus the total contract costs incurred to date:\n\n$$\\text{Total Value of Work Done} = \\text{Value of Work Certified} + \\text{Cost of Work Uncertified}$$\n$$\\text{Total Value of Work Done} = ₦120,000 + ₦15,000 = ₦135,000$$\n\n$$\\text{Notional Profit} = ₦135,000 - \\text{Total Cost to Date} (₦95,000) = ₦40,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 51,
+    "subject": "Financial Accounting",
+    "topic": "Hire Purchase Accounts",
+    "question_text": "A manufacturing machine with a cash price of ₦80,000 is acquired under a hire purchase agreement. An initial deposit of ₦20,000 is paid upon delivery, followed by 12 monthly installments of ₦6,000 each. What is the total **hire purchase interest (finance charge)**?",
+    "options": {
+      "a": "₦8,000",
+      "b": "₦12,000",
+      "c": "₦20,000",
+      "d": "₦72,000"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "1.  **Total Installments Paid:** $12 \\times ₦6,000 = ₦72,000$\n2.  **Total Hire Purchase Price:** $\\text{Deposit} + \\text{Total Installments} = ₦20,000 + ₦72,000 = ₦92,000$\n3.  **Hire Purchase Interest:**\n    $$\\text{HP Interest} = \\text{Total HP Price} - \\text{Cash Price}$$\n    $$\\text{HP Interest} = ₦92,000 - ₦80,000 = ₦12,000$$",
+    "section_id": null
+  },
+  {
+    "question_number": 52,
+    "subject": "Financial Accounting",
+    "topic": "Meaning, functions and features of financial markets",
+    "question_text": "Which of the following statements best distinguishes the **money market** from the **capital market**?",
+    "options": {
+      "a": "The money market provides short-term funds with maturities typically under one year, whereas the capital market mobilizes medium-to-long-term capital",
+      "b": "The money market deals exclusively in company equities, while the capital market trades in short-dated Treasury bills",
+      "c": "The money market is completely unregulated, while the capital market is regulated solely by commercial banks",
+      "d": "The money market provides funds strictly to foreign multinationals, whereas the capital market finances sole proprietorships"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The fundamental difference between both arms of the financial system is the **maturity period** of the debt or equity instruments traded:\n*   **Money Market:** Deals in **short-term** financial instruments (maturity $\\le 1\\text{ year}$) such as Treasury bills, commercial papers, and certificates of deposit.\n*   **Capital Market:** Mobilizes **medium-to-long-term** funds (maturity $> 1\\text{ year}$) through equities, preference shares, debentures, and government bonds.",
+    "section_id": null
+  },
+  {
+    "question_number": 53,
+    "subject": "Financial Accounting",
+    "topic": "Meaning, functions and features of financial markets",
+    "question_text": "All the following are standard financial instruments traded in the **money market** EXCEPT",
+    "options": {
+      "a": "Treasury bills",
+      "b": "Commercial papers",
+      "c": "Certificates of deposit",
+      "d": "10-year Government development bonds"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**10-year Government development bonds** are long-term debt securities and are therefore traded in the **capital market** (specifically the bond market). \n\nTreasury bills (issued by the Central Bank), Commercial papers (issued by corporations), and Certificates of Deposit are classic short-term instruments traded in the **money market**.",
+    "section_id": null
+  },
+  {
+    "question_number": 54,
+    "subject": "Financial Accounting",
+    "topic": "Methods of raising funds from the capital market",
+    "question_text": "An offer by an existing quoted public company of new shares to its existing shareholders in proportion to their current shareholdings, usually at a discounted price below the current market price, is called a",
+    "options": {
+      "a": "Private placement",
+      "b": "Rights issue",
+      "c": "Offer for sale",
+      "d": "Public tender"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **Rights Issue** gives existing shareholders the pre-emptive legal right to purchase additional new shares directly from the company in proportion to the number of shares they already own (e.g., 1 new share for every 4 held), typically offered at a discount to induce full subscription.",
+    "section_id": null
+  },
+  {
+    "question_number": 55,
+    "subject": "Financial Accounting",
+    "topic": "Methods of raising funds from the capital market",
+    "question_text": "An **Offer for Sale** in the capital market is distinguished from an **Offer for Subscription** in that",
+    "options": {
+      "a": "An offer for sale involves existing shares sold by current major shareholders, whereas an offer for subscription involves new shares issued by the company to raise fresh capital",
+      "b": "An offer for sale is open exclusively to institutional banks, while an offer for subscription is open only to company employees",
+      "c": "Proceeds from an offer for sale go directly into the company's bank account, whereas subscription proceeds go to selling shareholders",
+      "d": "An offer for sale does not require approval or vetting from the regulatory Securities and Exchange Commission (SEC)"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "*   **Offer for Subscription:** A company issues brand new shares directly to the public; the proceeds go straight into the company to expand its capital base.\n*   **Offer for Sale:** Existing, already-issued shares belonging to founder/original shareholders are offered to the public through an issuing house; the proceeds go to those selling shareholders rather than the company treasury.",
+    "section_id": null
+  },
+  {
+    "question_number": 56,
+    "subject": "Financial Accounting",
+    "topic": "Requirements for accessing the capital market",
+    "question_text": "Which of the following is a standard statutory requirement for a public limited company seeking a formal listing on the main board of the Stock Exchange?",
+    "options": {
+      "a": "A total exemption from paying corporate income taxes for a minimum of ten years",
+      "b": "Submission of audited financial statements covering a specified continuous operating period (typically 3 to 5 years)",
+      "c": "A guarantee that at least $90\\%$ of all company equity remains in the private possession of executive directors",
+      "d": "Registration and operation strictly as a not-for-profit non-governmental organization (NGO)"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "To obtain listing on the main board of a stock exchange, a company must satisfy strict regulatory listing requirements, including:\n1. Being incorporated as a Public Limited Company (Plc).\n2. Providing **audited financial statements** showing a verifiable track record of operations and profitability for 3 to 5 consecutive years.\n3. Making a specified minimum proportion of its equity (the public float) available to the general investing public.",
+    "section_id": null
+  },
+  {
+    "question_number": 57,
+    "subject": "Financial Accounting",
+    "topic": "Benefits of capital market",
+    "question_text": "How does the capital market primarily benefit the government in national economic management?",
+    "options": {
+      "a": "By enabling the continuous printing of paper currency to clear recurring national budget deficits",
+      "b": "By providing a structured platform to float long-term bonds to finance major public infrastructure without triggering inflationary pressures",
+      "c": "By enforcing statutory price caps on consumer goods and retail commodities across the country",
+      "d": "By taking over the day-to-day administrative running of non-performing public corporations"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The capital market enables federal, state, and local governments to raise non-inflationary, long-term loan capital through the issuance of **development bonds** (e.g., FGN Bonds, Sukuk, Green Bonds). This long-term borrowing finances capital infrastructure (roads, bridges, dams, energy) without forcing the Central Bank to resort to inflationary deficit financing (printing money).",
+    "section_id": null
+  },
+  {
+    "question_number": 58,
+    "subject": "Financial Accounting",
+    "topic": "Types, features and reasons for regulation",
+    "question_text": "What is the primary reason for statutory regulation of the capital market by an apex regulatory authority such as the Securities and Exchange Commission (SEC)?",
+    "options": {
+      "a": "To guarantee that no investor ever incurs a capital loss on stock market transactions",
+      "b": "To protect investors, ensure fair and orderly trading, and prevent insider dealing and market manipulation",
+      "c": "To fix uniform dividend payout amounts that every listed company must pay annually",
+      "d": "To prohibit foreign individuals and institutional investors from investing in domestic financial assets"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "The primary objective of capital market regulation by bodies like the **Securities and Exchange Commission (SEC)** is to foster public confidence in the financial system by **protecting investors from fraud**, ensuring full and timely disclosure of material facts by listed firms, preventing **insider trading and market rigging**, and maintaining orderly, transparent, and efficient capital markets.",
+    "section_id": null
+  }
+]

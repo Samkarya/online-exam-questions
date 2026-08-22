@@ -1020,5 +1020,19 @@
     "short_description": "71-question practice set covering Drugs and Drug Abuse, Human Trafficking, HIV/AIDS, Youth Empowerment, Structure and Functions of Government, Democracy Rule of Law and National Development, Political Apathy, Civil Society and Popular Participation, and Public Service in Democracy.",
     "path": "nigeria/NECO_SSCE/civicEducation/civicEducationPart2.json",
     "suitePath": "configs/neco-ssce.json"
+  },
+  {
+    "id": "neco_financialAccounting_part1",
+    "title": "NECO Financial Accounting Part 1: Foundations, Final Accounts & Records",
+    "short_description": "74-question practice set covering Introduction to Financial Accounting, the Accounting Equation and Double Entry Principles, Accounting Concepts, Final Accounts of a Sole Trader, Provisions and Reserves, Manufacturing Accounts, Control Accounts, Single Entry/Incomplete Records, and Not-for-Profit Organizations.",
+    "path": "nigeria/NECO_SSCE/financialAccounting/financialAccountingPart1.json",
+    "suitePath": "configs/neco-ssce.json"
+  },
+  {
+    "id": "neco_financialAccounting_part2",
+    "title": "NECO Financial Accounting Part 2: Partnerships, Companies & the Financial System",
+    "short_description": "58-question practice set covering Partnership Accounts, Company Accounts, Accounting for Value Added Tax, Departmental and Branch Accounts, Public Sector Accounting, Information Technology in Accounting, Miscellaneous Accounts, and the Financial System.",
+    "path": "nigeria/NECO_SSCE/financialAccounting/financialAccountingPart2.json",
+    "suitePath": "configs/neco-ssce.json"
   }
 ]
