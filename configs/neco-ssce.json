@@ -126,5 +126,21 @@
         "isOfficial": false,
         "seo_title": "NECO SSCE Financial Accounting Part 2 Practice Test | Partnerships, Companies & Financial System",
         "seo_description": "Practice 58 free NECO SSCE Financial Accounting questions covering Partnership Accounts, Company Accounts, VAT, Departmental and Branch Accounts, Public Sector Accounting, IT in Accounting, Miscellaneous Accounts, and the Financial System."
+    },
+    {
+        "id": "neco_geography_physicalGeography",
+        "category": "NECO_SSCE",
+        "year": 2026,
+        "session": null,
+        "date": null,
+        "shift": null,
+        "paperType": "Practice",
+        "title": "NECO Geography Part 1: Elements of Practical and Physical Geography",
+        "short_description": "67-question practice set covering Map Work, Elementary Surveying, GIS, Statistical Maps and Diagrams, the Earth, Hydrosphere, Rocks, Tectonic and Denudational Processes, Weather and Climate, Vegetation, Soil, and the Environment.",
+        "description": "### Module: Elements of Practical and Physical Geography\n\n**Focus:** Map Work, Physical Processes & the Environment | **Level:** Senior Secondary (SS3)\n\nBuild a strong foundation in the practical and physical geography topics tested in the National Examinations Council (NECO) Senior School Certificate Examination (SSCE) Geography paper with this practice module. It features **67 multiple-choice questions** spanning map work, elementary physical processes, and environmental studies from Paper 1 and Paper 3 of the syllabus.\n\n---\n\n#### Key Curriculum Topics Covered:\n* **Map Work:** Meaning, types and uses of maps; map reading and interpretation of contoured survey maps of West Africa, including scale, distance, direction and bearing, map reduction and enlargement, physical and cultural features, gradients, cross profiles, drainage, and patterns of communication, settlement and land use.\n* **Principles of Elementary Surveying:** Definitions of terms, instruments, chain and prismatic compass, plotting of traverse, and avoiding obstacles in the field.\n* **Geographic Information System (GIS):** Basic concepts, components, sources of data, uses, and problems of GIS.\n* **Statistical Maps and Diagrams:** Graphical representation of statistical data including bar graphs, line graphs, flow charts, dot maps, proportional circles, density maps, and isopleth maps.\n* **Elements of Physical Geography — The Earth:** The earth as a planet, latitude and longitude, rotation and revolution and their effects, and the structure of the earth.\n* **Hydrosphere:** Ocean basins, salinity, ocean currents, lakes, rivers, lagoons, and water as an environmental resource.\n* **Rocks:** Types, characteristics, formation and uses.\n* **Tectonic Processes:** Vulcanicity, earthquakes, and landforms such as mountains, plains, karsts, and coastal landforms.\n* **Denudational Processes:** Weathering, mass movement, running water, underground water, wind, and waves.\n* **Weather and Climate:** Weather instruments and elements, factors affecting climatic elements, major climate types, and climate classification.\n* **Vegetation:** Major vegetation types, characteristics, distribution, and conservation.\n* **Soil:** Formation, profile, classification, and soil erosion and conservation.\n* **The Environment:** Environmental resources, environmental problems/hazards (soil erosion, drought, desert encroachment, flooding, and pollution), and environmental conservation.",
+        "path": "nigeria/NECO_SSCE/geography/physicalGeography.json",
+        "isOfficial": false,
+        "seo_title": "NECO SSCE Geography Part 1 Practice Test | Elements of Practical and Physical Geography",
+        "seo_description": "Practice 67 free NECO SSCE Geography questions covering Map Work, Elementary Surveying, GIS, Statistical Maps, the Earth, Hydrosphere, Rocks, Tectonic and Denudational Processes, Weather and Climate, Vegetation, Soil, and the Environment."
     }
 ]

@@ -1,0 +1,1074 @@
+[
+  {
+    "question_number": 1,
+    "subject": "Geography",
+    "topic": "Map Work",
+    "question_text": "A contoured survey map of a region in West Africa is drawn to a scale of $1:50,000$. If the distance between two settlements on the map is measured to be $4 \\text{ cm}$, what is the actual distance between these two settlements on the ground?",
+    "options": {
+      "a": "$0.2 \\text{ km}$",
+      "b": "$2 \\text{ km}$",
+      "c": "$20 \\text{ km}$",
+      "d": "$200 \\text{ km}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "To calculate the actual distance on the ground, use the formula:\n\n$$\\text{Actual Distance} = \\text{Map Distance} \\times \\text{Scale Factor}$$\n\nGiven the map distance is $4 \\text{ cm}$ and the scale is $1:50,000$:\n\n$$\\text{Ground Distance} = 4 \\text{ cm} \\times 50,000 = 200,000 \\text{ cm}$$\n\nTo convert centimeters to kilometers, divide by $100,000$ (since $100,000 \\text{ cm} = 1 \\text{ km}$):\n\n$$\\frac{200,000 \\text{ cm}}{100,000 \\text{ cm/km}} = 2 \\text{ km}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 2,
+    "subject": "Geography",
+    "topic": "Map Work",
+    "question_text": "On a topographical map, a cross-profile analysis reveals that the elevation of point X on a spur is $400 \\text{ m}$ above sea level, while point Y in a nearby valley is $200 \\text{ m}$ above sea level. If the horizontal distance (horizontal equivalent) between X and Y is $4 \\text{ km}$, what is the gradient of the slope connecting them?",
+    "options": {
+      "a": "$1 \\text{ in } 10$",
+      "b": "$1 \\text{ in } 20$",
+      "c": "$1 \\text{ in } 40$",
+      "d": "$1 \\text{ in } 50$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Gradient is calculated using the formula:\n\n$$\\text{Gradient} = \\frac{\\text{Vertical Interval (V.I.)}}{\\text{Horizontal Equivalent (H.E.)}}$$\n\n**Step 1:** Calculate Vertical Interval:\n$$\\text{V.I.} = 400 \\text{ m} - 200 \\text{ m} = 200 \\text{ m}$$\n\n**Step 2:** Convert Horizontal Equivalent to matching units (meters):\n$$\\text{H.E.} = 4 \\text{ km} = 4,000 \\text{ m}$$\n\n**Step 3:** Calculate Gradient:\n$$\\text{Gradient} = \\frac{200}{4,000} = \\frac{1}{20}$$\n\nThis is expressed as a ratio of **$1 \\text{ in } 20$**.",
+    "section_id": null
+  },
+  {
+    "question_number": 3,
+    "subject": "Geography",
+    "topic": "Map Work",
+    "question_text": "Consider the contour pattern depicted below, representing a common landform in physical geography:\n\n<svg viewBox=\"0 0 200 200\" width=\"250\" height=\"250\" xmlns=\"http://www.w3.org/2000/svg\">\n  <!-- Contour lines pointing towards lower ground -->\n  <path d=\"M 50 50 L 100 100 L 150 50\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/>\n  <text x=\"100\" y=\"115\" font-size=\"12\" text-anchor=\"middle\" fill=\"#111\">300m</text>\n  \n  <path d=\"M 30 70 L 100 140 L 170 70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/>\n  <text x=\"100\" y=\"155\" font-size=\"12\" text-anchor=\"middle\" fill=\"#111\">200m</text>\n  \n  <path d=\"M 10 90 L 100 180 L 190 90\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/>\n  <text x=\"100\" y=\"195\" font-size=\"12\" text-anchor=\"middle\" fill=\"#111\">100m</text>\n</svg>\n\nWhich of the following physical features does this V-shaped pattern, pointing towards the lower elevation, represent?",
+    "options": {
+      "a": "A valley",
+      "b": "A spur",
+      "c": "A plateau",
+      "d": "A depression"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "On a contoured survey map, V-shaped contour lines pointing **away** from the higher ground and **towards** the lower ground indicate a **spur** (a prominent ridge descending from a highland). Conversely, if the V-shapes point *up* towards higher elevations, they signify a **valley**.\n\nSince the vertex of the $100\\text{m}$ line (lower ground) juts outward from the $300\\text{m}$ area, this confirms it is a spur.",
+    "section_id": null
+  },
+  {
+    "question_number": 4,
+    "subject": "Geography",
+    "topic": "Map Work",
+    "question_text": "During a fieldwork traverse using a prismatic compass, a student sights a distant communication mast from a village and records a forward bearing of $045^\\circ$. What will be the backward bearing of the village if sighted from the communication mast?",
+    "options": {
+      "a": "$135^\\circ$",
+      "b": "$180^\\circ$",
+      "c": "$225^\\circ$",
+      "d": "$315^\\circ$"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "To find the backward (or back) bearing from a forward bearing, you apply a simple rule based on whether the forward bearing is less than or greater than $180^\\circ$:\n\n- If $\\text{Forward Bearing} < 180^\\circ$, add $180^\\circ$.\n- If $\\text{Forward Bearing} > 180^\\circ$, subtract $180^\\circ$.\n\nSince the forward bearing is $045^\\circ$ (which is $< 180^\\circ$):\n$$\\text{Backward Bearing} = 045^\\circ + 180^\\circ = 225^\\circ$$",
+    "section_id": null
+  },
+  {
+    "question_number": 5,
+    "subject": "Geography",
+    "topic": "Map Work",
+    "question_text": "When analyzing inter-visibility between two observation points on a topographical map of a region in West Africa, which of the following conditions definitively implies that the two points are **NOT** inter-visible?",
+    "options": {
+      "a": "The horizontal distance separating the points is greater than $5 \\text{ km}$.",
+      "b": "An intervening contour feature on the line of sight has an elevation higher than both observation points.",
+      "c": "The two points are located on contour lines of differing numerical values.",
+      "d": "A river channel flows between the two points perpendicularly to the line of sight."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Inter-visibility** refers to whether one point can be seen from another on the ground. \n\nIf you draw a cross-profile between two points, a line of sight is drawn connecting them. If the physical landform (e.g., a hill or spur with higher elevation contours) rises above this line of sight, the visual connection is blocked, making them **not** inter-visible. Distance (A), unequal elevations (C), and intervening valleys or rivers (D) do not inherently block the line of sight.",
+    "section_id": null
+  },
+  {
+    "question_number": 6,
+    "subject": "Geography",
+    "topic": "Principles of Elementary Surveying",
+    "question_text": "Which of the following instruments is primarily used in chain surveying to mark the exact end of a chain length and to help keep a tally of the total number of chains measured on the ground?",
+    "options": {
+      "a": "Ranging poles",
+      "b": "Chaining arrows",
+      "c": "Wooden pegs",
+      "d": "Cross staff"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Chaining arrows** (or pins) are metal skewers inserted into the ground to mark the end of each chain or tape length during a measurement. The follower collects them, and counting the collected arrows helps keep tally of the total distance measured. **Ranging poles** are used to establish straight lines, while a **cross staff** is used to set out right angles.",
+    "section_id": null
+  },
+  {
+    "question_number": 7,
+    "subject": "Geography",
+    "topic": "Principles of Elementary Surveying",
+    "question_text": "When plotting a closed compass traverse on paper, it is common to find that the final drawn line fails to perfectly meet the original starting point due to cumulative field measurement inaccuracies. This gap is known in surveying as the:",
+    "options": {
+      "a": "Closing error",
+      "b": "Magnetic declination",
+      "c": "Traverse deviation",
+      "d": "Linear fraction gap"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "A **closing error** occurs in a closed traverse when the plotted endpoint does not coincide with the starting point. This discrepancy results from minor inaccuracies in measuring angles (bearings) and distances during fieldwork, and it is usually distributed and corrected graphically (for example, using the Bowditch rule).",
+    "section_id": null
+  },
+  {
+    "question_number": 8,
+    "subject": "Geography",
+    "topic": "Principles of Elementary Surveying",
+    "question_text": "During field surveying, surveyors must often employ geometric techniques to avoid obstacles on the survey line. Which of the following features represents an obstacle to *chaining* but NOT to *ranging*?",
+    "options": {
+      "a": "A dense patch of forest",
+      "b": "A tall village building",
+      "c": "A steep hill",
+      "d": "A wide flowing river"
+    },
+    "correct_answer": "d",
+    "difficulty": "Hard",
+    "explanation": "In elementary surveying, obstacles are classified based on what they obstruct. A **wide flowing river** prevents a surveyor from physically stretching a chain or tape directly across the ground (obstacle to chaining), but it does not block the line of sight to align ranging poles on the opposite bank (no obstacle to ranging). A tall building or a dense forest obstructs *both* chaining and ranging.",
+    "section_id": null
+  },
+  {
+    "question_number": 9,
+    "subject": "Geography",
+    "topic": "Geographic Information System (GIS)",
+    "question_text": "A complete Geographic Information System (GIS) requires several fundamental components to operate successfully. Which of the following is **NOT** classified as one of the basic components of GIS?",
+    "options": {
+      "a": "Data",
+      "b": "Procedures",
+      "c": "Satellites",
+      "d": "Experts (Personnel)"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The five universally recognized components of a GIS are **Hardware**, **Software**, **Data**, **Procedures** (or methods), and **Experts** (people/personnel). While **satellites** are essential tools in remote sensing for *collecting* spatial data, they are not themselves considered a core component of the GIS environment.",
+    "section_id": null
+  },
+  {
+    "question_number": 10,
+    "subject": "Geography",
+    "topic": "Geographic Information System (GIS)",
+    "question_text": "Which source of GIS data involves the process of tracing and converting existing printed topographical or thematic paper maps into a computer-readable digital format?",
+    "options": {
+      "a": "Map digitizing",
+      "b": "Remote sensing",
+      "c": "Field investigation",
+      "d": "Tabular data integration"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Map digitizing** is the procedure used to transform physical, analogue maps into digital vectors or rasters (using a digitizing tablet or scanner) so they can be processed and analyzed by GIS software. By contrast, **remote sensing** involves capturing new images from aircraft or satellites.",
+    "section_id": null
+  },
+  {
+    "question_number": 11,
+    "subject": "Geography",
+    "topic": "Geographic Information System (GIS)",
+    "question_text": "In the context of urban development in West African cities, how is a Geographic Information System (GIS) most practically utilized by town planners?",
+    "options": {
+      "a": "To physically construct drainage systems for new housing estates",
+      "b": "To capture and synthesize atmospheric carbon emissions into tables",
+      "c": "To model traffic flow patterns and enforce zoning of land use",
+      "d": "To manually execute land surveys using a chain and prismatic compass"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "GIS is an analytical tool used to capture, store, analyze, and manage spatial data. Town planners use it to overlay different data layers (such as road networks, population density, and vegetation) to **model traffic flow, designate land use zones, and plan infrastructure**. It does not perform the physical engineering tasks (A) or manual land surveying (D).",
+    "section_id": null
+  },
+  {
+    "question_number": 12,
+    "subject": "Geography",
+    "topic": "Geographic Information System (GIS)",
+    "question_text": "Despite its immense benefits in transportation routing and agricultural planning, the integration of GIS in many developing countries is severely limited by which of the following set of problems?",
+    "options": {
+      "a": "An oversupply of technical software and redundant experts",
+      "b": "Inadequate capital funding and erratic power supply",
+      "c": "The inability of computers to read coordinate geometry",
+      "d": "Excessive reliance on traditional compass surveying methods"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The syllabus highlights several key problems facing GIS adoption: **power, personnel, and capital**. In developing nations, the high cost of procuring advanced hardware/software (capital), the lack of highly trained geospatial analysts (personnel), and inconsistent electricity (power supply) are primary barriers to establishing effective GIS networks.",
+    "section_id": null
+  },
+  {
+    "question_number": 13,
+    "subject": "Geography",
+    "topic": "Statistical maps and diagrams",
+    "question_text": "Which of the following statistical mapping techniques is best suited for illustrating the distribution of mean annual temperature across West Africa by connecting locations that record identical values?",
+    "options": {
+      "a": "Density maps",
+      "b": "Isopleth maps",
+      "c": "Proportional circles",
+      "d": "Flow charts"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "An **isopleth map** uses lines (isolines) to connect points of equal value for a continuously varying quantity, such as temperature (isotherms), rainfall (isohyets), or atmospheric pressure (isobars). This makes it ideal for showing climate data distribution across a region.",
+    "section_id": null
+  },
+  {
+    "question_number": 14,
+    "subject": "Geography",
+    "topic": "Statistical maps and diagrams",
+    "question_text": "A cartographer is tasked with representing the spatial distribution of cattle rearing in northern Nigeria. If one uniformly sized mark is plotted on the map to represent exactly $1,000$ head of cattle, which mapping technique is being used?",
+    "options": {
+      "a": "Bar graph",
+      "b": "Line graph",
+      "c": "Dot map",
+      "d": "Density map"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **dot map** (or dot density map) uses identical dot symbols to visually display the geographic distribution and concentration of a phenomenon, where each dot represents a specific quantity (e.g., $1 \\text{ dot} = 1,000 \\text{ cattle}$). It effectively highlights areas of high and low concentration.",
+    "section_id": null
+  },
+  {
+    "question_number": 15,
+    "subject": "Geography",
+    "topic": "Statistical maps and diagrams",
+    "question_text": "Which of the following graphical representations is most appropriate for showing the volume and direction of vehicular traffic moving along the highway between Lagos and Ibadan over a given period?",
+    "options": {
+      "a": "Flow charts",
+      "b": "Isopleth maps",
+      "c": "Proportional circles",
+      "d": "Dot maps"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Flow charts** (often called flow line maps in geography) are specifically used to show the movement of objects, people, or traffic between different locations. The direction of the line indicates the route of movement, and the thickness (width) of the line is drawn proportional to the volume of traffic.",
+    "section_id": null
+  },
+  {
+    "question_number": 16,
+    "subject": "Geography",
+    "topic": "Statistical maps and diagrams",
+    "question_text": "When constructing proportional circles to compare the total population sizes of different Nigerian states, a geographer must extract the square root of the population figures to calculate the radius. This mathematical step ensures that the ________ of each circle is directly proportional to the population it represents.",
+    "options": {
+      "a": "Circumference",
+      "b": "Diameter",
+      "c": "Area",
+      "d": "Volume"
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "In proportional circles, it is the **area** of the circle that must correspond to the quantity. Since the area of a circle is calculated as $A = \\pi r^2$, making the radius ($r$) proportional to the raw data would erroneously square the visual difference. Therefore, the radius is made proportional to the square root ($\\sqrt{x}$) of the data so the total area correctly represents the relative values.",
+    "section_id": null
+  },
+  {
+    "question_number": 17,
+    "subject": "Geography",
+    "topic": "Elements of Physical Geography — The Earth",
+    "question_text": "A radio station in Accra, Ghana (located on longitude $0^\\circ$) broadcasts a live sports event at $14:00$ GMT. At what local time will a listener in a town located at longitude $45^\\circ\\text{E}$ receive the live broadcast?",
+    "options": {
+      "a": "$11:00$ hours",
+      "b": "$14:45$ hours",
+      "c": "$17:00$ hours",
+      "d": "$18:00$ hours"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "To calculate local time based on longitude, we use the principle that the Earth rotates $15^\\circ$ every $1$ hour (or $1^\\circ$ every $4$ minutes).\n\n**Step 1:** Calculate the longitudinal difference.\n$$\\text{Difference} = 45^\\circ - 0^\\circ = 45^\\circ$$\n\n**Step 2:** Convert the difference to time.\n$$45^\\circ \\times 4 \\text{ minutes} = 180 \\text{ minutes} = 3 \\text{ hours}$$\n\n**Step 3:** Add or subtract the time based on direction. Places to the East are ahead in time (add), while places to the West are behind (subtract).\nSince the town is $45^\\circ$ **East** of Accra, we add the time difference:\n$$14:00 + 3 \\text{ hours} = 17:00 \\text{ hours}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 18,
+    "subject": "Geography",
+    "topic": "Elements of Physical Geography — The Earth",
+    "question_text": "The Earth undergoes both rotation and revolution. Which of the following natural phenomena is primarily caused by the Earth's **revolution** around the Sun, rather than its rotation on its axis?",
+    "options": {
+      "a": "The daily occurrence of day and night",
+      "b": "The deflection of planetary winds and ocean currents",
+      "c": "The varying lengths of day and night throughout the year",
+      "d": "The daily rise and fall of ocean tides"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The Earth's **revolution** (its orbit around the Sun), combined with the tilt of its axis at $23.5^\\circ$, is responsible for the changing seasons, the varying altitudes of the midday sun, and the **varying lengths of day and night** at different times of the year. \n\nOptions A, B, and D (occurrence of day/night, deflection by the Coriolis force, and tides) are all direct consequences of the Earth's **rotation** on its own axis every 24 hours.",
+    "section_id": null
+  },
+  {
+    "question_number": 19,
+    "subject": "Geography",
+    "topic": "Elements of Physical Geography — The Earth",
+    "question_text": "The internal structure of the Earth is divided into concentric layers. The innermost layer, known as the core or barysphere, is characterized by very high temperatures and pressures. Which two chemical elements predominantly make up this layer?",
+    "options": {
+      "a": "Silica and aluminum (Sial)",
+      "b": "Silica and magnesium (Sima)",
+      "c": "Nickel and iron (Nife)",
+      "d": "Calcium and potassium"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The Earth's core is mainly composed of heavy metals, specifically **Nickel (Ni)** and **Iron (Fe)**, which is why it is often referred to as **Nife**. \n\nBy contrast, the outer continental crust is composed largely of silica and aluminum (**Sial**), and the oceanic crust and upper mantle are predominantly silica and magnesium (**Sima**).",
+    "section_id": null
+  },
+  {
+    "question_number": 20,
+    "subject": "Geography",
+    "topic": "Hydrosphere",
+    "question_text": "Which of the following ocean currents is a **cold current** that washes the southwestern coast of Africa, contributing to the extreme aridity and formation of the Namib Desert?",
+    "options": {
+      "a": "Mozambique Current",
+      "b": "Benguela Current",
+      "c": "Agulhas Current",
+      "d": "Guinea Current"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **Benguela Current** is a cold ocean current that flows northward along the west coast of southern Africa. Cold ocean currents chill the lower atmosphere over them, increasing stability and preventing moisture from rising to form rain clouds. This significantly reduces precipitation on adjacent coastlands, leading to the formation of coastal deserts like the Namib Desert. The Guinea and Mozambique currents are warm currents.",
+    "section_id": null
+  },
+  {
+    "question_number": 21,
+    "subject": "Geography",
+    "topic": "Hydrosphere",
+    "question_text": "In the structural profile of an ocean basin, the relatively shallow, gently sloping submerged extension of a landmass that stretches from the shoreline down to a sudden, steeper drop-off is known as the:",
+    "options": {
+      "a": "Continental slope",
+      "b": "Abyssal plain",
+      "c": "Continental shelf",
+      "d": "Ocean trench"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **continental shelf** is the shallowest part of the ocean basin extending outward from the continent. It represents the submerged edge of a continental plate. It ends at a point of sudden increase in steepness called the shelf break, leading down to the **continental slope**. The continental shelf is highly significant economically, serving as the main zone for marine fishing and offshore oil exploration.",
+    "section_id": null
+  },
+  {
+    "question_number": 22,
+    "subject": "Geography",
+    "topic": "Hydrosphere",
+    "question_text": "The salinity of ocean water varies across different latitudes and enclosed seas. Which of the following conditions would result in the **highest** concentration of salinity in a surface body of seawater?",
+    "options": {
+      "a": "Heavy equatorial rainfall throughout the year",
+      "b": "High rate of evaporation combined with low atmospheric precipitation",
+      "c": "The continuous melting of icebergs and polar ice caps",
+      "d": "The discharge of large volumes of fresh water by major river systems"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Salinity refers to the proportion of dissolved salts to pure water (usually expressed in parts per thousand, $\\text{ppt}$). When there is a **high rate of evaporation**, pure water is removed as vapor, leaving the salts behind and concentrating them. If this is paired with **low precipitation** (rain), there is no fresh water replacing what evaporated, making the remaining sea water highly saline (as seen in the Red Sea). Options A, C, and D all introduce fresh water, which *decreases* salinity.",
+    "section_id": null
+  },
+  {
+    "question_number": 23,
+    "subject": "Geography",
+    "topic": "Hydrosphere",
+    "question_text": "Along the coastline of West Africa, particularly near Lagos and parts of Côte d'Ivoire, one frequently finds shallow bodies of coastal salt or brackish water separated from the deeper open ocean by low sandbanks or barrier islands. These features are referred to as:",
+    "options": {
+      "a": "Estuaries",
+      "b": "Fjords",
+      "c": "Lagoons",
+      "d": "Gulfs"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "A **lagoon** is a shallow body of water separated from a larger body of water (like an ocean or sea) by sandbars, barrier islands, or coral reefs. The West African coast, specifically the Bight of Benin, features extensive lagoon systems (e.g., the Lagos Lagoon) that are vital environmental resources used for inland water transport, local fishing, and recreation. Estuaries, on the other hand, are the wide lower courses of a river where it meets the sea.",
+    "section_id": null
+  },
+  {
+    "question_number": 24,
+    "subject": "Geography",
+    "topic": "Rocks",
+    "question_text": "A geologist on a fieldwork expedition in a sedimentary basin discovers a rock outcrop. Which of the following characteristics would serve as the most reliable evidence that the rock is of **sedimentary** origin rather than igneous?",
+    "options": {
+      "a": "It contains the fossilized remains of plants and animals.",
+      "b": "It is highly crystalline and entirely devoid of pores.",
+      "c": "It is formed as a massive, unstratified block.",
+      "d": "It has an interlocking granular texture composed of silicates."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "**Sedimentary rocks** are the only group of rocks that typically contain **fossils** (the preserved remains or traces of ancient organisms). Because they are formed by the gradual accumulation and compaction of sediments over time, organic matter can be trapped within the layers (strata). In contrast, the extreme heat of magma that forms igneous rocks would completely destroy any organic material.",
+    "section_id": null
+  },
+  {
+    "question_number": 25,
+    "subject": "Geography",
+    "topic": "Rocks",
+    "question_text": "Metamorphic rocks are formed when pre-existing rocks are subjected to intense heat and pressure over a long period. When **limestone** (a sedimentary rock) undergoes this process of metamorphism, it transforms into which of the following rocks?",
+    "options": {
+      "a": "Gneiss",
+      "b": "Slate",
+      "c": "Marble",
+      "d": "Quartzite"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Under conditions of intense heat and regional or contact metamorphism, limestone recrystalizes to form **marble**. Marble is widely used in construction and sculpture. \n\n*Other common metamorphic equivalents include:*\n- Shale $\\rightarrow$ Slate (B)\n- Sandstone $\\rightarrow$ Quartzite (D)\n- Granite $\\rightarrow$ Gneiss (A)",
+    "section_id": null
+  },
+  {
+    "question_number": 26,
+    "subject": "Geography",
+    "topic": "Rocks",
+    "question_text": "Which of the following rock types is formed by the extremely slow cooling and solidification of magma deep within the Earth's crust, resulting in a coarse-grained texture, and is extensively quarried in West Africa as a major aggregate for road and building construction?",
+    "options": {
+      "a": "Basalt",
+      "b": "Sandstone",
+      "c": "Pumice",
+      "d": "Granite"
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "**Granite** is a plutonic (intrusive) igneous rock. Because it cools very slowly deep beneath the Earth's surface, large crystals have time to form, giving it a coarse-grained texture. Due to its extreme hardness and durability, it is a primary rock quarried across Nigeria and West Africa for heavy construction.\n\n*Distractors:*\n- **Basalt** (A) is a *volcanic* (extrusive) igneous rock that cools quickly, resulting in a fine grain.\n- **Sandstone** (B) is a sedimentary rock.\n- **Pumice** (C) is a highly porous extrusive rock.",
+    "section_id": null
+  },
+  {
+    "question_number": 27,
+    "subject": "Geography",
+    "topic": "Tectonic processes",
+    "question_text": "During volcanic activity, magma does not always reach the Earth's surface. When magma is injected vertically across the bedding planes of pre-existing sedimentary rock layers and cools to form a wall-like feature, it is known as a:",
+    "options": {
+      "a": "Sill",
+      "b": "Dyke",
+      "c": "Batholith",
+      "d": "Lopolith"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A **dyke** (or dike) is an intrusive volcanic landform formed when magma flows upward through vertical cracks or fissures, cutting across existing rock layers before cooling and solidifying. In contrast, a **sill** (Option A) forms when magma intrudes horizontally *between* the bedding planes of sedimentary rock. A **batholith** (Option C) is a massive, deep-seated magma chamber that has crystallized.",
+    "section_id": null
+  },
+  {
+    "question_number": 28,
+    "subject": "Geography",
+    "topic": "Tectonic processes",
+    "question_text": "Earthquakes release massive amounts of energy through seismic waves. The exact point deep within the Earth's crust where the sudden rock fracture or movement originates is called the:",
+    "options": {
+      "a": "Epicenter",
+      "b": "Fault plane",
+      "c": "Focus",
+      "d": "Seismograph"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **focus** (or hypocenter) is the actual point of origin of an earthquake inside the Earth's crust where the initial rupture occurs. The **epicenter** (Option A) is the point on the Earth's *surface* lying directly above the focus, where the earthquake is usually felt most strongly.",
+    "section_id": null
+  },
+  {
+    "question_number": 29,
+    "subject": "Geography",
+    "topic": "Tectonic processes",
+    "question_text": "The Atlas Mountains in North Africa are a prime example of fold mountains. Which of the following tectonic actions is primarily responsible for the formation of such mountain ranges?",
+    "options": {
+      "a": "Tensional forces stretching and fracturing the Earth's crust into fault blocks",
+      "b": "Compressional forces causing sedimentary rock layers to buckle and crumple",
+      "c": "The continuous accumulation of lava and volcanic ash over millions of years",
+      "d": "The gradual depression of a continental shield under the weight of glacial ice"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Fold mountains** are formed as a result of **compressional forces** deep within the Earth's crust. When tectonic plates converge (collide), the immense pressure forces vast layers of sedimentary rocks to buckle, crumple, and fold upwards into massive mountain ranges like the Atlas Mountains, the Himalayas, and the Alps. Tensional forces (Option A) create block mountains.",
+    "section_id": null
+  },
+  {
+    "question_number": 30,
+    "subject": "Geography",
+    "topic": "Tectonic processes",
+    "question_text": "Which of the following environmental conditions is absolutely essential for the development of typical Karst topography, characterized by features such as sinkholes, underground caves, and stalactites?",
+    "options": {
+      "a": "The presence of massive, thick beds of soluble limestone or chalk",
+      "b": "Frequent tectonic uplift paired with intensive faulting",
+      "c": "An underlying basement complex composed of highly resistant granite",
+      "d": "Continuous deposition of wind-blown sand in a hot desert climate"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Karst topography** is a unique landscape shaped by the dissolving action of water on soluble carbonate rocks. For karst landforms to develop, there must be a vast region of **limestone, chalk, or dolomite** at or near the surface. Rainwater, which is naturally a weak carbonic acid, percolates through the rock's joints and dissolves it, forming distinct underground features.",
+    "section_id": null
+  },
+  {
+    "question_number": 31,
+    "subject": "Geography",
+    "topic": "Denudational processes",
+    "question_text": "Which of the following processes of physical weathering is most characteristic of the hot, semi-arid regions of West Africa, causing the outer layers of a rock to repeatedly expand and contract until they peel off?",
+    "options": {
+      "a": "Frost shattering",
+      "b": "Exfoliation",
+      "c": "Carbonation",
+      "d": "Hydration"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Exfoliation** (often called \"onion-skin\" weathering) occurs in environments with a high diurnal (daily) temperature range. Intense daytime heating causes the rock's outer layers to expand, while rapid nighttime cooling causes them to contract. Over time, this stress causes the outer layers to peel away. Carbonation and hydration are *chemical* weathering processes, while frost shattering requires freezing temperatures.",
+    "section_id": null
+  },
+  {
+    "question_number": 32,
+    "subject": "Geography",
+    "topic": "Denudational processes",
+    "question_text": "An ox-bow lake is a distinct geographical landform created by the denudational action of running water. In which section of a river's profile is this feature predominantly found?",
+    "options": {
+      "a": "The steep-sided upper course near the river's source",
+      "b": "The area immediately below a large waterfall",
+      "c": "The deep, V-shaped valleys of the middle course",
+      "d": "The broad, meandering floodplains of the lower course"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "An **ox-bow lake** forms in the gently sloping **lower course** (the senile or old-age stage) of a river. At this stage, lateral erosion and deposition cause the river to meander extensively. Eventually, a meander loop may be cut off during a flood, leaving behind a crescent-shaped body of water on the floodplain.",
+    "section_id": null
+  },
+  {
+    "question_number": 33,
+    "subject": "Geography",
+    "topic": "Denudational processes",
+    "question_text": "In arid environments like the fringes of the Sahara Desert, the wind carries coarse sand particles that heavily erode the softer lower portions of a standing rock outcrop faster than the harder upper parts. This differential abrasion results in the formation of a:",
+    "options": {
+      "a": "Barchan dune",
+      "b": "Rock pedestal",
+      "c": "Stalagmite",
+      "d": "Sand spit"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "A **rock pedestal** (or mushroom rock) is created by wind abrasion. Wind naturally carries its heaviest and most abrasive sand particles close to the ground (usually within $1$ to $2$ meters of the surface). This undercuts the base of the rock, leaving a wide, un-eroded top resting on a narrow base.",
+    "section_id": null
+  },
+  {
+    "question_number": 34,
+    "subject": "Geography",
+    "topic": "Denudational processes",
+    "question_text": "Along the West African coastline, sediments such as sand and shingle are continuously transported along the beach in a zig-zag pattern. This occurs when waves strike the shore at an oblique angle and the backwash pulls material straight down under gravity. This transport process is known as:",
+    "options": {
+      "a": "Hydraulic action",
+      "b": "Longshore drift",
+      "c": "Wave refraction",
+      "d": "Coastal attrition"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Longshore drift** is the lateral movement of material along a coastline. It is driven by the prevailing wind, which causes the swash to push material up the beach at an angle, while gravity pulls the backwash directly down. Over time, this moves material horizontally, often leading to the formation of depositional features like spits and bars.",
+    "section_id": null
+  },
+  {
+    "question_number": 35,
+    "subject": "Geography",
+    "topic": "Weather and Climate",
+    "question_text": "A Stevenson's screen is a standard meteorological enclosure used to house delicate weather instruments. What is the primary reason the sides of the screen are designed with wooden louvres (slats)?",
+    "options": {
+      "a": "To trap solar heat inside the box to measure the absolute maximum temperature accurately.",
+      "b": "To allow free circulation of air while protecting the instruments from direct sunlight and precipitation.",
+      "c": "To ensure that humidity levels inside the box remain at exactly zero percent.",
+      "d": "To securely lock the instruments and prevent them from being disturbed by strong winds."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The primary function of the **Stevenson's screen** is to shield temperature-measuring instruments (like thermometers) from direct solar radiation, precipitation, and terrestrial radiation. The **louvres** (slanted slats) are crucial because they permit the free flow of outside air. This ensures that the instruments measure the true temperature of the surrounding air rather than the trapped heat of the box.",
+    "section_id": null
+  },
+  {
+    "question_number": 36,
+    "subject": "Geography",
+    "topic": "Weather and Climate",
+    "question_text": "A surveyor measures the air temperature at the base of a mountain in West Africa (at sea level) to be $30^\\circ\\text{C}$. Assuming a normal Environmental Lapse Rate (ELR) of $6.5^\\circ\\text{C}$ per $1,000 \\text{ meters}$ of ascent, what will be the approximate air temperature at an altitude of $2,000 \\text{ meters}$?",
+    "options": {
+      "a": "$13^\\circ\\text{C}$",
+      "b": "$17^\\circ\\text{C}$",
+      "c": "$23.5^\\circ\\text{C}$",
+      "d": "$43^\\circ\\text{C}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Hard",
+    "explanation": "Temperature decreases with altitude in the troposphere at the standard **lapse rate**.\n\n**Step 1:** Calculate total temperature drop.\n$$\\text{Drop} = 2,000 \\text{ m} \\times \\left( \\frac{6.5^\\circ\\text{C}}{1,000 \\text{ m}} \\right) = 13^\\circ\\text{C}$$\n\n**Step 2:** Subtract the drop from the sea-level temperature.\n$$\\text{Temperature at 2000m} = 30^\\circ\\text{C} - 13^\\circ\\text{C} = 17^\\circ\\text{C}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 37,
+    "subject": "Geography",
+    "topic": "Weather and Climate",
+    "question_text": "Sea breezes typically occur during the day along coastal regions like Lagos and Accra. Which of the following thermodynamic pressure conditions accurately describes the formation of a sea breeze?",
+    "options": {
+      "a": "The land heats up faster, creating a low-pressure area that draws in cooler, denser air from the sea.",
+      "b": "The sea heats up faster, creating a high-pressure area that forcefully blows warm air towards the land.",
+      "c": "The land cools down rapidly, forming a high-pressure zone that pushes dry air over the warmer sea.",
+      "d": "Both land and sea maintain equal pressure, but the Coriolis force pulls equatorial air inland."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "Land absorbs and loses heat much faster than a body of water. During the day, the land heats up quickly, warming the air above it. This warm air expands and rises, creating a **low-pressure zone** over the land. The relatively cooler air over the sea (which is at a **higher pressure**) flows inland to replace the rising warm air, creating a **sea breeze**. (Option C describes a land breeze, which happens at night).",
+    "section_id": null
+  },
+  {
+    "question_number": 38,
+    "subject": "Geography",
+    "topic": "Weather and Climate",
+    "question_text": "Which of the following meteorological instruments is placed inside the Stevenson's screen specifically to measure the relative humidity of the atmosphere?",
+    "options": {
+      "a": "Aneroid Barometer",
+      "b": "Six's maximum and minimum thermometer",
+      "c": "Hygrometer (Wet and dry bulb thermometer)",
+      "d": "Cup Anemometer"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "Relative humidity is measured using a **hygrometer**, the most common type being the **wet and dry bulb thermometer**. By comparing the temperature of the dry bulb with the evaporative cooling of the wet bulb, meteorologists can determine the moisture content in the air. A barometer measures air pressure (A), and an anemometer measures wind speed (D).",
+    "section_id": null
+  },
+  {
+    "question_number": 39,
+    "subject": "Geography",
+    "topic": "Weather and Climate",
+    "question_text": "Consider the climatic data provided below for a hypothetical West African monitoring station:\n\n| Month | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |\n|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|\n| **Temp ($^\\circ\\text{C}$)** | 27 | 28 | 31 | 30 | 28 | 26 | 24 | 23 | 25 | 27 | 28 | 26 |\n\nBased on this tabular data, what is the **annual range of temperature** for this station?",
+    "options": {
+      "a": "$4^\\circ\\text{C}$",
+      "b": "$8^\\circ\\text{C}$",
+      "c": "$27^\\circ\\text{C}$",
+      "d": "$31^\\circ\\text{C}$"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The **annual range of temperature** is calculated as the mathematical difference between the mean temperature of the hottest month and the mean temperature of the coldest month recorded during the year.\n\n- **Hottest month (March):** $31^\\circ\\text{C}$\n- **Coldest month (August):** $23^\\circ\\text{C}$\n\n$$\\text{Annual Range} = 31^\\circ\\text{C} - 23^\\circ\\text{C} = 8^\\circ\\text{C}$$",
+    "section_id": null
+  },
+  {
+    "question_number": 40,
+    "subject": "Geography",
+    "topic": "Climate — Elements",
+    "question_text": "In Wladimir Köppen's empirical classification of climate, the letter combination **Aw** is used to designate which of the following major climate types, which covers a vast portion of the West African hinterland (including the middle belt of Nigeria)?",
+    "options": {
+      "a": "Equatorial (Tropical Rainforest) climate",
+      "b": "Tropical Continental (Savanna) climate",
+      "c": "Hot Desert climate",
+      "d": "Warm Temperate (Mediterranean) climate"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "In Köppen's climate classification system, **A** stands for Tropical climates, and **w** indicates a dry winter. Thus, **Aw** represents the **Tropical Continental** or **Savanna** climate, characterized by a distinct dry season and a wet season. The Equatorial climate is denoted by **Af**, while Hot Desert is **BWh**.",
+    "section_id": null
+  },
+  {
+    "question_number": 41,
+    "subject": "Geography",
+    "topic": "Climate — Elements",
+    "question_text": "Which of the following is a distinguishing characteristic of the Tropical Continental (Savanna) climate commonly experienced in the northern parts of Nigeria and Ghana?",
+    "options": {
+      "a": "A double maxima of rainfall with no distinct dry season.",
+      "b": "A single maximum of rainfall during the summer, followed by a distinct prolonged dry season.",
+      "c": "Extremely low temperatures dropping below freezing during winter months.",
+      "d": "Continuous, heavy precipitation brought by maritime winds throughout the entire year."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Tropical Continental (Savanna)** climate is marked by a prominent, alternating wet and dry season. It typically features a **single maximum of rainfall** occurring in the summer months when the Inter-Tropical Convergence Zone (ITCZ) moves northward, followed by a long, severe dry season dominated by dry continental winds (like the Harmattan in West Africa). A double maxima of rainfall (Option A) is characteristic of the Equatorial climate.",
+    "section_id": null
+  },
+  {
+    "question_number": 42,
+    "subject": "Geography",
+    "topic": "Climate — Elements",
+    "question_text": "The ancient Greek system of climate classification broadly divided the Earth's surface into three temperature-based latitudinal belts. According to this system, the belt that encompasses the entirety of West Africa, lying between the Tropic of Cancer and the Tropic of Capricorn, is known as the:",
+    "options": {
+      "a": "Frigid Zone",
+      "b": "Temperate Zone",
+      "c": "Torrid Zone",
+      "d": "Boreal Zone"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The ancient Greeks classified the world into three major climatic zones based on solar radiation (temperature): the **Torrid Zone** (the hot tropics between the Tropic of Cancer and Tropic of Capricorn), the **Temperate Zones** (the milder mid-latitudes), and the **Frigid Zones** (the extremely cold polar regions). Because West Africa is situated entirely between the tropics, it falls wholly within the **Torrid Zone**.",
+    "section_id": null
+  },
+  {
+    "question_number": 43,
+    "subject": "Geography",
+    "topic": "Climate — Classification",
+    "question_text": "Which of the following anthropogenic (human-induced) activities is a primary contributor to the enhanced greenhouse effect, a major cause of global climate change?",
+    "options": {
+      "a": "Extensive afforestation projects in the Sahel region",
+      "b": "The combustion of fossil fuels for industrial energy and transportation",
+      "c": "The widespread adoption of solar and wind energy in rural communities",
+      "d": "The enforcement of strict wildlife and biosphere conservation laws"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "Based on the syllabus focus on the causes of climate change, the enhanced greenhouse effect is primarily driven by the release of greenhouse gases (such as $\\text{CO}_2$ and $\\text{CH}_4$) into the atmosphere. The **combustion of fossil fuels** (coal, oil, and natural gas) for electricity, industry, and transport is the largest human-caused source of these emissions, which trap solar radiation and raise global mean temperatures.",
+    "section_id": null
+  },
+  {
+    "question_number": 44,
+    "subject": "Geography",
+    "topic": "Climate — Classification",
+    "question_text": "In West Africa, one of the most severe ecological and economic effects of prolonged global climate change is the rapid southward expansion of dry, arid conditions from the Sahara into the Sahel and Sudan savanna belts. This environmental phenomenon is known as:",
+    "options": {
+      "a": "Desertification",
+      "b": "Soil carbonation",
+      "c": "Deforestation",
+      "d": "Glacial retreat"
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Desertification** is the process by which fertile, semi-arid land degrades into non-productive desert, typically as a result of prolonged drought and changing rainfall patterns exacerbated by global climate change. This heavily impacts agricultural output and water availability in the northern extremities of West African countries. Deforestation (C) is a *cause* rather than the specific effect of advancing desert boundaries.",
+    "section_id": null
+  },
+  {
+    "question_number": 45,
+    "subject": "Geography",
+    "topic": "Climate — Classification",
+    "question_text": "Which of the following represents a viable biological remedy for mitigating the root cause of climate change by actively removing carbon dioxide ($\\text{CO}_2$) from the atmosphere?",
+    "options": {
+      "a": "Increasing the use of chlorofluorocarbons (CFCs) in industrial refrigeration",
+      "b": "Constructing higher concrete embankments along coastal lagoons",
+      "c": "Expanding large-scale mechanized cattle ranching across the savanna",
+      "d": "Implementing massive afforestation and reforestation programs"
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "While building coastal embankments (Option B) is a physical adaptation to the *effects* of climate change (sea-level rise), **afforestation and reforestation** serve as a direct biological *remedy*. Trees act as massive carbon sinks; through the biochemical process of photosynthesis, they absorb atmospheric $\\text{CO}_2$ and store the carbon safely within their organic biomass (wood, roots, and leaves).",
+    "section_id": null
+  },
+  {
+    "question_number": 46,
+    "subject": "Geography",
+    "topic": "Vegetation",
+    "question_text": "Which of the following is a distinguishing morphological characteristic of the Tropical Rainforest vegetation found in the southern parts of West Africa, such as in southern Nigeria and Ghana?",
+    "options": {
+      "a": "A continuous expanse of tall grasses interspersed with short, fire-resistant trees.",
+      "b": "A complex vertical structure consisting of distinct canopies or layers of tree crowns.",
+      "c": "Broad-leaved deciduous trees that shed all their leaves simultaneously during the dry season.",
+      "d": "Sparse ground cover composed predominantly of thorny shrubs and xerophytic plants."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "The **Tropical Rainforest** is characterized by a dense, stratified vertical structure usually comprising three distinct layers: the upper emergent layer of exceptionally tall trees, the continuous middle canopy, and the dense understory of shrubs and saplings. The vegetation remains largely evergreen because there is continuous rainfall throughout the year, unlike savanna (A) or desert (D) vegetation.",
+    "section_id": null
+  },
+  {
+    "question_number": 47,
+    "subject": "Geography",
+    "topic": "Vegetation",
+    "question_text": "The extensive transition of Tropical Grassland (Savanna) vegetation in West Africa—from the dense Guinea Savanna in the south to the sparse Sahel Savanna in the north—is primarily controlled by which climatic factor?",
+    "options": {
+      "a": "The steady increase in atmospheric humidity towards the continental interior.",
+      "b": "The continuous drop in mean annual temperatures as latitude increases.",
+      "c": "The progressive decrease in mean annual rainfall and the increasing duration of the dry season.",
+      "d": "The prevalence of cold oceanic currents affecting the inland air masses."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Vegetation zones in West Africa are distributed zonally (east-west bands) and change progressively as one moves northward from the coast. This distribution is dictated by **rainfall**. As the mean annual rainfall decreases and the dry season becomes longer and more severe, the dense forests give way to tall Guinea savanna grasses, then shorter Sudan savanna grasses, and finally the semi-arid scrub of the Sahel.",
+    "section_id": null
+  },
+  {
+    "question_number": 48,
+    "subject": "Geography",
+    "topic": "Vegetation",
+    "question_text": "As an environmental resource, the tropical rainforest is highly valued for lumbering. Which of the following tree species is a commercially important hardwood heavily exploited for export in West Africa?",
+    "options": {
+      "a": "Baobab",
+      "b": "Mahogany",
+      "c": "Acacia",
+      "d": "Date Palm"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Mahogany** (along with Obeche, Iroko, and Sapele) is a highly valued hardwood tree species native to the Tropical Rainforest, prized for furniture making and construction. By contrast, the **Baobab** and **Acacia** are typical of the drier Savanna regions, and the **Date Palm** is an oasis plant of the desert margins.",
+    "section_id": null
+  },
+  {
+    "question_number": 49,
+    "subject": "Geography",
+    "topic": "Vegetation",
+    "question_text": "Rapid deforestation has led to severe ecological problems across the African continent. Which of the following practices is the most sustainable and effective method for the **conservation** of vegetation resources?",
+    "options": {
+      "a": "Encouraging the expansion of shifting cultivation among rural farming communities.",
+      "b": "Subsidizing the clear-cutting of primary woodland for large-scale commercial plantations.",
+      "c": "Promoting the widespread harvesting of forest timber for domestic fuelwood and charcoal.",
+      "d": "Establishing heavily regulated forest reserves and mandating systematic afforestation programs."
+    },
+    "correct_answer": "d",
+    "difficulty": "Medium",
+    "explanation": "Conservation involves the rational management and protection of natural resources. The establishment of **forest reserves** protects vulnerable ecosystems from illegal logging and uncontrolled farming. Coupled with **afforestation** (planting trees where there were none) and reforestation (replacing harvested trees), it ensures the sustainability of forest resources. Options A, B, and C are major human drivers of deforestation.",
+    "section_id": null
+  },
+  {
+    "question_number": 50,
+    "subject": "Geography",
+    "topic": "Soil",
+    "question_text": "Among the primary factors influencing soil formation (pedogenesis), which factor is directly responsible for determining the initial mineral content, basic chemical composition, and coarse texture of the resulting soil?",
+    "options": {
+      "a": "The topography of the land",
+      "b": "The local climate",
+      "c": "The underlying parent material",
+      "d": "The biotic activity in the area"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "The **parent material** (or parent rock) is the underlying geological material from which the soil is formed through weathering. It acts as a passive factor of soil formation, directly dictating the original mineral supply (e.g., calcium, phosphorus) and the initial structural texture (e.g., sandy soil derived from sandstone, or clayey soil derived from shale). Active factors like climate and biotic activity dictate the *rate* at which this rock weathers.",
+    "section_id": null
+  },
+  {
+    "question_number": 51,
+    "subject": "Geography",
+    "topic": "Soil",
+    "question_text": "When examining a mature, well-developed soil profile in a trench, the **A-horizon** is widely recognized as the most vital layer for agriculture. What is the primary defining characteristic of this specific horizon?",
+    "options": {
+      "a": "It consists entirely of unweathered, solid bedrock preventing root penetration.",
+      "b": "It is the deep zone of maximum accumulation for leached minerals like iron and aluminum.",
+      "c": "It is the topmost mineral layer characterized by a dark color due to a high concentration of humus.",
+      "d": "It is composed mainly of partially weathered rock fragments with absolutely no biological activity."
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "The **A-horizon**, commonly known as topsoil, is the uppermost mineral layer of the soil profile. Because it is close to the surface, it supports the most biological activity and contains a high accumulation of decomposed organic matter (**humus**), giving it a characteristic dark brown or black color. \n\n*Distractors:* \n- The **B-horizon** (subsoil) is the zone of accumulation (Option B). \n- The **C-horizon** consists of partially weathered rock (Option D). \n- The **D/R-horizon** is the solid bedrock (Option A).",
+    "section_id": null
+  },
+  {
+    "question_number": 52,
+    "subject": "Geography",
+    "topic": "Soil",
+    "question_text": "Human activities often accelerate the natural process of soil degradation. Which of the following farming practices on a hillside would most rapidly **increase** the rate of soil erosion by running water?",
+    "options": {
+      "a": "Constructing horizontal terraces along the contour lines of the hill.",
+      "b": "Cultivating crops in parallel strips across the slope.",
+      "c": "Planting fast-growing leguminous cover crops between main planting seasons.",
+      "d": "Ploughing ridges and furrows vertically up and down the slope."
+    },
+    "correct_answer": "d",
+    "difficulty": "Easy",
+    "explanation": "**Ploughing up and down the slope** creates direct, uninterrupted vertical channels (furrows) that allow rainwater to flow downhill rapidly without obstruction. This fast-moving runoff heavily scours the topsoil, leading to severe rill and gully erosion. By contrast, contour ploughing, terracing, and cover cropping (Options A, B, and C) are proven conservation techniques explicitly designed to *slow down* runoff and protect the soil matrix.",
+    "section_id": null
+  },
+  {
+    "question_number": 53,
+    "subject": "Geography",
+    "topic": "Soil",
+    "question_text": "To combat severe soil erosion in wind-swept, semi-arid regions such as the Sahel margin in West Africa, agricultural extension workers strongly recommend the planting of **shelterbelts**. What does this specific conservation method entail?",
+    "options": {
+      "a": "Planting dense, tall rows of trees at right angles to the direction of the prevailing winds.",
+      "b": "Periodically leaving arable land completely fallow without any vegetative cover.",
+      "c": "Adding massive quantities of inorganic chemical fertilizers to artificially bind the sand particles.",
+      "d": "Constructing deep concrete drainage channels to rapidly redirect flash floodwaters."
+    },
+    "correct_answer": "a",
+    "difficulty": "Medium",
+    "explanation": "**Shelterbelts** (also known as windbreaks) involve planting long, dense rows of tall trees and sturdy shrubs perpendicular (at right angles) to the prevailing winds. The vegetative canopy acts as a physical barrier, drastically reducing the wind's velocity as it passes over the fields. Lower wind speeds significantly minimize the wind's capacity to lift and transport the loose, fertile topsoil.",
+    "section_id": null
+  },
+  {
+    "question_number": 54,
+    "subject": "Geography",
+    "topic": "Environmental Resources",
+    "question_text": "Environmental resources are broadly classified into renewable and non-renewable categories based on their natural ability to regenerate. Which of the following is a classic example of a **non-renewable** resource?",
+    "options": {
+      "a": "Atmospheric wind",
+      "b": "Petroleum (Crude oil)",
+      "c": "Surface river water",
+      "d": "Savanna vegetation"
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Non-renewable resources** exist in fixed quantities within the Earth's crust and take millions of years to form. Once extracted and used, they cannot be naturally replenished within a human timeframe. Examples include **petroleum, coal, natural gas, and mineral ores**. In contrast, wind, water, and vegetation are renewable resources because nature constantly replenishes them if they are sustainably managed.",
+    "section_id": null
+  },
+  {
+    "question_number": 55,
+    "subject": "Geography",
+    "topic": "Environmental Resources",
+    "question_text": "Which of the following environmental elements is classified strictly as an **atmospheric resource**, playing a crucial biological role in aerobic respiration and a chemical role in industrial combustion?",
+    "options": {
+      "a": "Underground aquifers",
+      "b": "Soil humus",
+      "c": "Oxygen",
+      "d": "Iron ore"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Atmospheric resources** are the beneficial gases and elements found within the Earth's atmosphere. **Oxygen** ($\\text{O}_2$) is an atmospheric resource vital for the survival of animals and plants (aerobic respiration) and is the required gas for any industrial combustion (burning of fuels). Aquifers are water resources, humus is a soil resource, and iron ore is a mineral resource.",
+    "section_id": null
+  },
+  {
+    "question_number": 56,
+    "subject": "Geography",
+    "topic": "Environmental Resources",
+    "question_text": "Water is a highly versatile environmental resource in West Africa. When large river systems like the Niger River in Nigeria or the Volta River in Ghana are dammed, what is their primary economic importance to national development?",
+    "options": {
+      "a": "The generation of solar energy to power rural grids",
+      "b": "The continuous extraction of dissolved natural gas",
+      "c": "The large-scale generation of hydro-electric power (HEP)",
+      "d": "The creation of natural dry ports for ocean liners"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "Damming major water resources creates large artificial reservoirs (such as Lake Kainji on the Niger River and Lake Volta on the Volta River). The primary economic importance of these massive infrastructural projects is the generation of **hydro-electric power (HEP)**, which supplies vital electricity to power industries, homes, and businesses across the nations.",
+    "section_id": null
+  },
+  {
+    "question_number": 57,
+    "subject": "Geography",
+    "topic": "Environmental Resources",
+    "question_text": "Mineral resources drive the economies of many developing nations. Which of the following **mineral resources** is a major foreign exchange earner heavily concentrated in the sedimentary terrain of the Niger Delta region of Nigeria?",
+    "options": {
+      "a": "Limestone",
+      "b": "Petroleum",
+      "c": "Columbite",
+      "d": "Gold"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "**Petroleum** (crude oil) and natural gas are critical mineral resources that form the backbone of Nigeria's economy, accounting for the vast majority of its export revenues. These fossil fuels are predominantly found and extracted in the sedimentary basin of the **Niger Delta**. Columbite/tin is associated with the Jos Plateau, and gold is mined in specific belts in Ghana and smaller pockets in Nigeria.",
+    "section_id": null
+  },
+  {
+    "question_number": 58,
+    "subject": "Geography",
+    "topic": "The environment — Environmental problems/hazards",
+    "question_text": "Which of the following environmental hazards is defined as a prolonged and abnormal moisture deficiency, caused by a significant deficit in expected rainfall, which frequently devastates agricultural yields in the Sahel region of West Africa?",
+    "options": {
+      "a": "Desert encroachment",
+      "b": "Flooding",
+      "c": "Drought",
+      "d": "Soil erosion"
+    },
+    "correct_answer": "c",
+    "difficulty": "Easy",
+    "explanation": "**Drought** is a prolonged period of abnormally low rainfall, leading to a severe shortage of water for agricultural, industrial, and domestic use. While desert encroachment (Option A) is a long-term *consequence* of repeated droughts and human degradation, the acute temporary absence of rainfall itself is termed a drought.",
+    "section_id": null
+  },
+  {
+    "question_number": 59,
+    "subject": "Geography",
+    "topic": "The environment — Environmental problems/hazards",
+    "question_text": "In major urban settlements across Nigeria and Ghana, such as Lagos and Accra, devastating seasonal flooding is heavily exacerbated by which of the following anthropogenic (human-induced) factors?",
+    "options": {
+      "a": "The excessive afforestation of coastal shorelines",
+      "b": "The uncontrolled dumping of solid refuse into drainage channels",
+      "c": "The widespread construction of underground railway tunnels",
+      "d": "The intensive extraction of groundwater through deep boreholes"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "While heavy seasonal rainfall is the natural trigger, urban flooding in many West African cities is severely worsened by poor sanitation practices, specifically the **dumping of solid waste into gutters and natural drainage channels**. This blocks the free flow of storm water, causing it to back up and overflow into streets and residential areas.",
+    "section_id": null
+  },
+  {
+    "question_number": 60,
+    "subject": "Geography",
+    "topic": "The environment — Environmental problems/hazards",
+    "question_text": "What is the primary ecological effect of large-scale crude oil spillage on the marine and riverine environments of the Niger Delta?",
+    "options": {
+      "a": "It creates a thick surface slick that blocks atmospheric oxygen and sunlight, suffocating aquatic life.",
+      "b": "It drastically increases the salinity levels of freshwater rivers, promoting the growth of foreign corals.",
+      "c": "It chemically converts the surface water into heavy water, reducing local atmospheric temperatures.",
+      "d": "It provides a rich source of carbon nutrients that exponentially increases commercial fish yields."
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "When crude oil spills into a water body, it floats and forms a thick slick on the surface. This impermeable layer **blocks atmospheric oxygen** from dissolving into the water and restricts sunlight penetration. As a result, photosynthetic aquatic plants die, dissolved oxygen is depleted, and the native fish and aquatic fauna suffocate.",
+    "section_id": null
+  },
+  {
+    "question_number": 61,
+    "subject": "Geography",
+    "topic": "The environment — Environmental problems/hazards",
+    "question_text": "To effectively halt the continuous southward advance of the Sahara Desert into the northern regions of Nigeria and Senegal, which of the following preventative measures is most scientifically viable and heavily promoted by governments?",
+    "options": {
+      "a": "Constructing massive concrete retaining walls along the international borders",
+      "b": "Establishing extensive greenbelts and windbreaks through systematic afforestation",
+      "c": "Diverting Atlantic ocean currents inland to permanently flood the arid zones",
+      "d": "Mandating the complete evacuation of all rural farming communities to the coast"
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "The most effective long-term defense against **desert encroachment** (desertification) is **afforestation**—the planting of trees to form greenbelts (such as the African Great Green Wall initiative). Trees act as windbreaks to reduce the velocity of the erosive Harmattan winds, while their root systems bind the fragile sandy soils, retaining soil moisture and restoring the micro-climate.",
+    "section_id": null
+  },
+  {
+    "question_number": 62,
+    "subject": "Geography",
+    "topic": "Environmental Conservation",
+    "question_text": "Which of the following statements accurately describes the primary meaning and objective of environmental conservation?",
+    "options": {
+      "a": "The total and permanent prohibition of human access to all natural resources.",
+      "b": "The rational, sustainable management and utilization of natural resources to prevent their depletion.",
+      "c": "The rapid extraction of mineral wealth to rapidly fund government environmental agencies.",
+      "d": "The deliberate replacement of native forest ecosystems with heavily engineered urban infrastructure."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "**Environmental conservation** does not mean forbidding the use of resources (Option A). Instead, it refers to the **sustainable and rational management** of natural resources (such as water, soil, wildlife, and forests) so that they yield the greatest sustainable benefit to present generations while maintaining their potential to meet the needs and aspirations of future generations.",
+    "section_id": null
+  },
+  {
+    "question_number": 63,
+    "subject": "Geography",
+    "topic": "Environmental Conservation",
+    "question_text": "Despite establishing various agencies, environmental conservation efforts in many West African countries face significant setbacks. Which of the following represents a major socio-economic problem hindering these conservation efforts?",
+    "options": {
+      "a": "Over-reliance on solar and wind energy by the rural farming population",
+      "b": "Strict public adherence to traditional laws that naturally restore soil fertility",
+      "c": "High levels of poverty leading to mass over-dependence on fuelwood for domestic energy",
+      "d": "Excessive financial capital being allocated to national park maintenance by local councils"
+    },
+    "correct_answer": "c",
+    "difficulty": "Medium",
+    "explanation": "A major barrier to environmental conservation in developing nations is **poverty and ignorance**. Because many rural and peri-urban populations lack access to or cannot afford modern energy sources like cooking gas or electricity, they rely heavily on cutting down trees for **fuelwood and charcoal** (Option C). This economic desperation makes it exceedingly difficult to enforce anti-deforestation laws.",
+    "section_id": null
+  },
+  {
+    "question_number": 64,
+    "subject": "Geography",
+    "topic": "Environmental Conservation",
+    "question_text": "To prevent the extinction of indigenous wildlife and preserve biodiversity for scientific and tourism purposes, governments across Africa utilize which of the following practical conservation methods?",
+    "options": {
+      "a": "The establishment of strict game reserves and national parks",
+      "b": "The introduction of aggressive exotic species into local forest habitats",
+      "c": "The promotion of seasonal bush-burning to clear habitats for easier monitoring",
+      "d": "The conversion of remaining primary rainforests into large-scale mono-crop plantations"
+    },
+    "correct_answer": "a",
+    "difficulty": "Easy",
+    "explanation": "The most effective method for conserving wildlife resources is the **establishment of game reserves and national parks** (e.g., Yankari Game Reserve in Nigeria or Mole National Park in Ghana). These protected areas provide safe habitats where animals can breed naturally without the threat of poaching or habitat destruction. Options B, C, and D are highly destructive to local wildlife ecosystems.",
+    "section_id": null
+  },
+  {
+    "question_number": 65,
+    "subject": "Geography",
+    "topic": "The environment — Environmental conservation",
+    "question_text": "Why is the conservation of natural watershed environments and forest reserves considered critically important to the hydrological cycle in West Africa?",
+    "options": {
+      "a": "It permanently halts the evaporation of moisture from adjacent ocean surfaces.",
+      "b": "It ensures the continuous recharge of underground aquifers and maintains stable river flows.",
+      "c": "It increases the salinity of inland freshwater lakes to support exotic marine life.",
+      "d": "It completely prevents the occurrence of natural tectonic earthquakes."
+    },
+    "correct_answer": "b",
+    "difficulty": "Medium",
+    "explanation": "Conserving forest and watershed ecosystems prevents rapid, destructive surface runoff. The vegetation intercepts rainfall, allowing it to slowly percolate into the soil. This vital ecological function **recharges underground aquifers (groundwater)** and ensures that rivers maintain a steady, regulated flow year-round, rather than experiencing severe flash floods followed by long dry spells.",
+    "section_id": null
+  },
+  {
+    "question_number": 66,
+    "subject": "Geography",
+    "topic": "The environment — Environmental conservation",
+    "question_text": "Which of the following methods is a direct legislative approach used by West African governments to enforce environmental conservation?",
+    "options": {
+      "a": "Encouraging shifting cultivation in primary tropical rainforests.",
+      "b": "Enacting laws that mandate Environmental Impact Assessments (EIA) for all new industrial projects.",
+      "c": "Providing free chainsaws to local timber contractors to speed up lumbering.",
+      "d": "Subsidizing the continuous dumping of industrial effluent into major river channels."
+    },
+    "correct_answer": "b",
+    "difficulty": "Easy",
+    "explanation": "A primary method of enforcing conservation is through **legislation and government policy**. By legally mandating an **Environmental Impact Assessment (EIA)** before large projects (like factories, dams, or mines) can be constructed, governments ensure that potential ecological damage is identified, minimized, and mitigated by law before any development begins.",
+    "section_id": null
+  },
+  {
+    "question_number": 67,
+    "subject": "Geography",
+    "topic": "The environment — Environmental conservation",
+    "question_text": "Environmental agencies in developing nations frequently struggle to successfully execute conservation policies. Which of the following represents a practical systemic solution to overcome the problems of ignorance and poor enforcement?",
+    "options": {
+      "a": "Privatizing all national parks for exclusive, unmonitored commercial logging.",
+      "b": "Abolishing local environmental sanitation days to reduce government expenditure.",
+      "c": "Integrating environmental education into school curricula and heavily equipping forest guard agencies.",
+      "d": "Banning the extraction of all mineral resources indefinitely to preserve the bedrock."
+    },
+    "correct_answer": "c",
+    "difficulty": "Hard",
+    "explanation": "Public ignorance and weak law enforcement are major problems hindering environmental conservation. The most viable long-term administrative solutions are **mass public education** (integrating it into school curricula to build a culture of sustainability) and **adequately funding and equipping enforcement bodies** (like forest guards and environmental protection task forces) to effectively police existing conservation laws. Banning all extraction (Option D) is economically impossible, and Options A and B directly harm the environment.",
+    "section_id": null
+  }
+]

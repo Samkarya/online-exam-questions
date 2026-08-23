@@ -1034,5 +1034,12 @@
     "short_description": "58-question practice set covering Partnership Accounts, Company Accounts, Accounting for Value Added Tax, Departmental and Branch Accounts, Public Sector Accounting, Information Technology in Accounting, Miscellaneous Accounts, and the Financial System.",
     "path": "nigeria/NECO_SSCE/financialAccounting/financialAccountingPart2.json",
     "suitePath": "configs/neco-ssce.json"
+  },
+  {
+    "id": "neco_geography_physicalGeography",
+    "title": "NECO Geography Part 1: Elements of Practical and Physical Geography",
+    "short_description": "67-question practice set covering Map Work, Elementary Surveying, GIS, Statistical Maps and Diagrams, the Earth, Hydrosphere, Rocks, Tectonic and Denudational Processes, Weather and Climate, Vegetation, Soil, and the Environment.",
+    "path": "nigeria/NECO_SSCE/geography/physicalGeography.json",
+    "suitePath": "configs/neco-ssce.json"
   }
 ]
