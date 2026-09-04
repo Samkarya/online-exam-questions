@@ -883,17 +883,17 @@
       "fullName": "Common Admission Test",
       "shortName": "CAT",
       "category": "Postgraduate Management Entrance",
-      "conductingBody": "Indian Institutes of Management (IIMs) — rotating convener each year; IIM Indore confirmed for CAT 2026",
+      "conductingBody": "Indian Institutes of Management (IIMs) — rotating convening institute each year; IIM Indore is conducting CAT 2026, with Prof. Aditya Billore (Professor of Marketing, IIM Indore) as exam convener",
       "country": "India",
       "examType": [
         "Postgraduate Entrance",
         "MBA Entrance",
         "Computer Based Test"
       ],
-      "description": "CAT is India's most prestigious national-level MBA entrance exam. CAT 2026 will be conducted by IIM Indore on November 29, 2026, as confirmed in the official notification released July 25, 2026. Scores are used for admission to all 22 IIMs (including the newly established IIM Guwahati) and over 1,300 other management institutes across India.",
+      "description": "CAT is India's most prestigious national-level MBA entrance exam. CAT 2026 will be conducted by IIM Indore (convener: Prof. Aditya Billore) on November 29, 2026. Registration is open now through September 15, 2026. Scores are used for admission to all 22 IIMs (including the newly established IIM Guwahati) and over 1,300 other management institutes across India.",
       "officialWebsite": "https://iimcat.ac.in/",
       "isOfficial": true,
-      "lastUpdated": "2026-07-26",
+      "lastUpdated": "2026-09-04",
       "seoTitle": "CAT 2026: Free Mock Tests, Syllabus & IIM Prep Study Guide",
       "seoDescription": "Crack CAT 2026 with free mock tests & complete syllabus guide. Practice VARC, DILR & QA with IIM-pattern simulations. Boost your MBA admission percentile!",
       "relatedBlogTags": [
@@ -909,8 +909,8 @@
       ],
       "importantDates": [
         { "event": "Official CAT 2026 Notification", "date": "2026-07-25", "note": "Released by IIM Indore.", "status": "past" },
-        { "event": "Registration Opens", "date": "2026-08-03, 10:00 AM", "note": "Confirmed — note this shifted from the Aug 1 date many trackers had projected.", "status": "upcoming" },
-        { "event": "Registration Closes", "date": "2026-09-15, 5:00 PM", "note": "Confirmed — shifted from the Sep 20 date many trackers had projected.", "status": "upcoming" },
+        { "event": "Registration Opens", "date": "2026-08-03, 10:00 AM", "note": "Confirmed — note this shifted from the Aug 1 date many trackers had projected.", "status": "past" },
+        { "event": "Registration Closes", "date": "2026-09-15, 5:00 PM", "note": "Confirmed — shifted from the Sep 20 date many trackers had projected. No extension announced as of Sept 4, 2026; CAT 2025 and CAT 2022 both saw ~1-week extensions historically, but one is never guaranteed — don't wait for it.", "status": "upcoming" },
         { "event": "Correction / Edit Window", "date": "September 2026", "note": "Short ~3-day window after registration closes.", "status": "upcoming" },
         { "event": "Admit Card Release", "date": "2026-11-04", "status": "upcoming" },
         { "event": "CAT 2026 Exam Day", "date": "2026-11-29", "note": "3 slots — morning, afternoon, evening, across ~170 test cities.", "status": "upcoming" },
@@ -926,7 +926,7 @@
       },
       "officialLinks": [
         { "label": "CAT Official Website", "url": "https://iimcat.ac.in/" },
-        { "label": "IIM Indore (Expected CAT 2026 Convener)", "url": "https://www.iimidr.ac.in" },
+        { "label": "IIM Indore (CAT 2026 Convening Institute)", "url": "https://www.iimidr.ac.in" },
         { "label": "IIM Guwahati (Newest / 22nd IIM)", "url": "https://www.iimg.ac.in" }
       ],
       "keyFacts": [
@@ -1037,6 +1037,14 @@
         {
           "question": "When does CAT 2026 registration open and close?",
           "answer": "Confirmed: registration opens August 3, 2026 at 10:00 AM and closes September 15, 2026 at 5:00 PM. This is a shift from the August 1 – September 20 window used in CAT 2025."
+        },
+        {
+          "question": "Who is the CAT 2026 exam convener?",
+          "answer": "Prof. Aditya Billore, Professor of Marketing at IIM Indore, is the CAT 2026 convener. He is a Fellow of IIM Indore holding M.Tech and B.E. qualifications. IIM Indore Director Prof. Himanshu Rai announced the appointment alongside the official notification; IIM Indore last conducted CAT in 2020."
+        },
+        {
+          "question": "Will the CAT 2026 registration deadline be extended?",
+          "answer": "There's no official word either way as of early September 2026 — treat September 15 as final. For context, CAT 2025's deadline was extended by about a week (Sep 13 to Sep 20, 2025) and CAT 2022 saw a similar extension, but an extension is never guaranteed or announced in advance, so don't delay your application on the chance of one."
         }
       ]
     },
@@ -1165,6 +1173,7 @@
       "conductingBody": "NECO / WAEC",
       "country": "Nigeria",
       "officialWebsite": "https://neco.gov.ng",
+      "lastUpdated": "2026-09-02",
       "description": "The BECE (commonly called Junior WAEC) is Nigeria's exit exam for JSS3 (Basic 9) students, certifying completion of the 9-year Basic Education programme and serving as the gateway to Senior Secondary School (SS1) admission. BECE uses its own 5-level grading scale (A/B/C/P/F) — distinct from the SSCE used for university admission.",
       "seoTitle": "BECE 2026: Free Practice Tests, Syllabus & Junior WAEC Prep",
       "seoDescription": "Ace BECE 2026 (Junior WAEC) with free practice tests & full syllabus. Cover English, Maths, Basic Science & more for JSS3 exit exam success. Prep now!",
@@ -1180,33 +1189,51 @@
       ],
       "importantDates": [
         {
-          "event": "NECO BECE Registration Opens",
+          "event": "NECO BECE 2026 Registration Opened",
           "date": "2026-03-01",
           "note": "Registration is done through schools only.",
-          "status": "past"
+          "status": "completed"
         },
         {
-          "event": "Normal Registration Deadline",
+          "event": "2026 Normal Registration Deadline",
           "date": "2026-04-04",
-          "status": "past"
+          "status": "completed"
         },
         {
-          "event": "Late Registration Deadline",
+          "event": "2026 Late Registration Deadline",
           "date": "2026-04-08",
           "note": "Late fee: NGN 5,000 per candidate.",
-          "status": "past"
+          "status": "completed"
         },
         {
-          "event": "NECO BECE Exam Window",
+          "event": "NECO BECE 2026 Exam Window",
           "date": "2026-04-20 to 2026-04-30",
-          "note": "NECO-registered schools only. State/WAEC BECE follows a separate timetable.",
-          "status": "past"
+          "note": "186,291 candidates sat the exam across 12 subjects, drawn from all 36 states, the FCT, and 5 countries abroad. State/WAEC BECE ran on a separate timetable.",
+          "status": "completed"
         },
         {
-          "event": "Results Expected",
-          "date": "2026-07-01 (estimated)",
-          "note": "Typical turnaround is 6–8 weeks after the last paper.",
-          "status": "upcoming"
+          "event": "2026 BECE Results Released",
+          "date": "2026-06-25",
+          "note": "Announced after the BECE Award Committee meeting in Minna — about 8 weeks after the last paper. Registration was up from 179,201 candidates in 2025.",
+          "status": "completed"
+        },
+        {
+          "event": "2026 BECE Re-sit Exam (Maths & English)",
+          "date": "2026-07-22 to 2026-07-23",
+          "note": "For candidates with a conditional deficiency in Mathematics and/or English Studies only, so they can reach SS1 without repeating the year — not a general retake. NECO also ran this in 2025.",
+          "status": "completed"
+        },
+        {
+          "event": "NECO BECE 2027 Registration Expected to Open",
+          "date": "2027-03 (estimated)",
+          "note": "NECO has not yet published official 2027 dates. Based on the 2024–2026 pattern, expect a circular in Q1 2027 — we'll update this the moment NECO confirms.",
+          "status": "projected"
+        },
+        {
+          "event": "NECO BECE 2027 Exam Window Expected",
+          "date": "April–May 2027 (estimated)",
+          "note": "The window has moved earlier in each of the last two cycles (May 2025 → April 2026). Treat this as a planning estimate, not an official date.",
+          "status": "projected"
         }
       ],
       "admitCard": {
@@ -1214,7 +1241,7 @@
         "url": "https://bece.neco.gov.ng"
       },
       "resultInfo": {
-        "info": "Results are published on the NECO website and delivered to schools. Candidates can check online using their examination number.",
+        "info": "Results are published on the NECO results portal and delivered to schools. Candidates need a paid result-checker token (bought via the portal or an authorised vendor) plus their BECE registration number to view or print a result — NECO no longer issues scratch cards.",
         "url": "https://results.neco.gov.ng"
       },
       "officialLinks": [
@@ -1335,6 +1362,14 @@
         {
           "question": "Can I register for BECE as a private/home-schooled candidate?",
           "answer": "No. NECO BECE registration must be done through an approved school. There is no provision for individual or private candidate registration under the current NECO BECE framework."
+        },
+        {
+          "question": "Can a student who fails Maths or English resit without repeating JSS3?",
+          "answer": "Yes. In both 2025 and 2026, NECO scheduled a same-year BECE re-sit exam in Mathematics and English Studies only, for candidates with a conditional deficiency in one or both. It runs a few weeks after results are released and lets affected candidates reach SS1 without repeating the full academic year — it is not a general retake open to every candidate."
+        },
+        {
+          "question": "When will NECO BECE 2027 registration open?",
+          "answer": "NECO had not published official 2027 dates as of September 2026. Going by the last three cycles, registration has opened in March and the exam window has moved earlier each year (May 2025 to April 2026) — but treat this only as a planning guide until NECO releases the official 2027 circular on neco.gov.ng."
         }
       ]
     },

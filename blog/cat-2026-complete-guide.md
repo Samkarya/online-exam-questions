@@ -1,8 +1,9 @@
 ---
 title: "CAT 2026 Complete Guide: Exam Date, Registration, Syllabus & Preparation Strategy"
 date: "2026-07-26"
+dateModified: "2026-09-04"
 author: "ExamOven"
-excerpt: "The CAT 2026 notification is officially out. Confirmed exam date, registration window, fee (which went up this year), eligibility, syllabus, and a phased preparation strategy."
+excerpt: "CAT 2026 registration is open now through September 15. Confirmed exam date, convener, fee (which went up this year), eligibility, syllabus, and a phased preparation strategy."
 tags: ["CAT", "MBA Entrance", "IIM", "Exam Prep"]
 mdFilePath: "blog/cat-2026-complete-guide.md"
 ---
@@ -14,7 +15,7 @@ Every November, roughly **3 lakh students** sit down at a computer screen with 1
 If you're reading this, you're already ahead of the curve. This guide compiles everything now confirmed about CAT 2026 — paired with the **[ExamOven CAT Simulator](/exam-library?q=cat)** for dedicated practice and learning. Stop chasing scattered prep advice and start building a real strategy.
 
 > [!IMPORTANT]
-> **The CAT 2026 notification is officially out** (released July 25, 2026, by IIM Indore). The exam date, registration window, fee, and eligibility below are now **confirmed**, not projected — and two things changed from what most guides (including earlier drafts of this one) had assumed: **registration dates moved** (Aug 3–Sep 15, not Aug 1–Sep 20) and **the fee went up** (₹2,700/₹1,350, not ₹2,600/₹1,300).
+> **CAT 2026 registration is open now** and closes **September 15, 2026 at 5:00 PM** — the notification dropped July 25, 2026 with two changes from what most guides (including earlier drafts of this one) had assumed: **registration dates moved** (Aug 3–Sep 15, not Aug 1–Sep 20) and **the fee went up** (₹2,700/₹1,350, not ₹2,600/₹1,300). IIM Indore has also named **Prof. Aditya Billore** (Professor of Marketing) as the CAT 2026 convener.
 
 ---
 
@@ -68,9 +69,9 @@ The official notification dropped on **July 25, 2026** — a day ahead of the "l
 
 One of the six older IIMs — Ahmedabad, Bangalore, Calcutta, Lucknow, Kozhikode, or Indore — conducts CAT each year on a rotational basis.
 
-**IIM Indore is officially confirmed as the CAT 2026 convenor**, as stated in the notification released July 25, 2026. This follows the established rotation: IIM Kozhikode conducted CAT 2025 (exam held November 30, 2025; results declared December 24, 2025), and Indore was next in line. IIM Indore last convened the exam in 2020. As the conducting IIM, it sets the notification, the test-day logistics (in partnership with TCS, which administers the exam), and coordinates with all participating institutions.
+**IIM Indore is officially confirmed as the CAT 2026 convenor**, as stated in the notification released July 25, 2026. IIM Indore Director Prof. Himanshu Rai has named **Prof. Aditya Billore**, Professor of Marketing and a Fellow of IIM Indore (holding an M.Tech and a B.E.), as the **CAT 2026 convener** — the faculty member who oversees the exam's planning, security, and administration on behalf of all participating IIMs. This follows the established rotation: IIM Kozhikode conducted CAT 2025 (exam held November 30, 2025; results declared December 24, 2025), and Indore was next in line. IIM Indore last convened the exam in 2020 — the year that introduced the current three-slot, 120-minute format. As the conducting IIM, it sets the notification, the test-day logistics (in partnership with TCS, which administers the exam), and coordinates with all participating institutions.
 
-> **Source:** [Careers360 — CAT Notification Out (IIM Indore)](https://news.careers360.com/iim-cat-notification-out-iimcat-ac-in-registration-from-august-3-eligibility-exam-date-test-centres-reservation) | [Shiksha — CAT 2026](https://www.shiksha.com/news/mba-cat-2026-notification-live-updates-official-pdf-registration-date-eligibility-fees-exam-date-blogId-236923)
+> **Source:** [Careers360 — CAT Notification Out (IIM Indore)](https://news.careers360.com/iim-cat-notification-out-iimcat-ac-in-registration-from-august-3-eligibility-exam-date-test-centres-reservation) | [MBAUniverse — CAT 2026 Convener](https://www.mbauniverse.com/articles/cat-exam-convenor) | [Free Press Journal — IIM Indore to Conduct CAT Again](https://www.freepressjournal.in/indore/after-five-years-indian-institute-of-management-indore-to-conduct-cat-again)
 
 ---
 
@@ -144,7 +145,10 @@ Pay online via credit card, debit card, net banking, or UPI. Download the **conf
 
 A **correction/edit window** opens in September 2026, shortly after registration closes — reportedly a shorter ~3-day window this year — allowing limited changes to your photograph, signature, and test city preferences.
 
-> **Source:** [Career Launcher — CAT Registration](https://www.careerlauncher.com/cat-mba/cat-registration/)
+> [!NOTE]
+> **Will the deadline get extended?** Nobody knows yet, and there's no official signal either way as of this update. For context: CAT 2025's registration deadline was pushed back about a week (from September 13 to September 20, 2025), and CAT 2022 saw a similar extension. That's two out of the last several years — not nothing, but not a pattern to plan around either. IIM Indore is under no obligation to extend, there's no late-fee window, and no offline fallback. Treat September 15 as final and register early enough to leave room for a payment retry or a document re-upload if something goes wrong.
+
+> **Source:** [Career Launcher — CAT Registration](https://www.careerlauncher.com/cat-mba/cat-registration/) | [JIMS Rohini — CAT 2026 Registration Last Date](https://www.jimsrohini.org/blog/cat-2026-registration-last-date.aspx)
 
 ---
 
@@ -355,7 +359,10 @@ Not sure if CAT is the right exam for you? Here's a quick comparison:
 **Confirmed:** CAT 2026 will be held on **November 29, 2026** — the last Sunday of November, as officially stated in the July 25, 2026 notification.
 
 ### Who is conducting CAT 2026?
-**Confirmed: IIM Indore**, as stated in the official July 25, 2026 notification — following the rotational system among the older IIMs. IIM Kozhikode conducted CAT 2025; Indore was next in the rotation and last convened the exam in 2020.
+**Confirmed: IIM Indore**, as stated in the official July 25, 2026 notification — following the rotational system among the older IIMs. IIM Kozhikode conducted CAT 2025; Indore was next in the rotation and last convened the exam in 2020. **Prof. Aditya Billore**, Professor of Marketing at IIM Indore, is the named CAT 2026 convener.
+
+### Will the CAT 2026 registration deadline be extended?
+There's no official word either way as of this update — treat September 15, 2026 as final. For context, CAT 2025's deadline moved by about a week (Sep 13 → Sep 20, 2025) and CAT 2022 saw a similar extension, but it's never announced in advance and never guaranteed. Don't delay your application on the chance of one.
 
 ### When does CAT 2026 registration start?
 **Confirmed:** Registration opens **August 3, 2026 at 10:00 AM** and closes **September 15, 2026 at 5:00 PM**. This is a shift from the Aug 1 – Sep 20 window seen in CAT 2025 and widely projected earlier this year — don't rely on older articles for these dates.
@@ -392,6 +399,7 @@ There is **no limit** on the number of CAT attempts. CAT scores are valid for **
 |:---|:---|
 | ExamOven CAT Simulator | **[examoven.com/exam-library?q=cat](/exam-library?q=cat)** |
 | Official CAT Portal | [iimcat.ac.in](https://iimcat.ac.in) |
+| Registration closing Sep 15? Read this first | **[CAT 2026 Registration Deadline: Last-Minute Checklist](/blog/cat-2026-registration-deadline-checklist)** |
 | MBAUniverse CAT Coverage | [mbauniverse.com/cat](https://www.mbauniverse.com/cat) |
 | Career Launcher CAT Registration Guide | [careerlauncher.com](https://www.careerlauncher.com/cat-mba/cat-registration/) |
 | CollegeDunia CAT Page | [collegedunia.com/exams/cat](https://collegedunia.com/exams/cat) |
@@ -401,4 +409,4 @@ There is **no limit** on the number of CAT attempts. CAT scores are valid for **
 ---
 
 > [!NOTE]
-> This guide was last refreshed on **July 26, 2026**, right after the official CAT 2026 notification dropped (July 25, 2026). Exam date, registration window, fee, and eligibility are now confirmed. The only remaining projection is the result date (expected 3rd–4th week of December 2026, based on the CAT 2025 precedent). Always cross-check against the official information bulletin on [iimcat.ac.in](https://iimcat.ac.in) before making any decisions.
+> This guide was refreshed on **September 4, 2026**. Since the last update (July 26, 2026), we confirmed IIM Indore's website and checked registration status directly — no extension has been announced, and September 15 remains the deadline. Exam date, registration window, fee, and eligibility remain confirmed. The only remaining projection is the result date (expected 3rd–4th week of December 2026, based on the CAT 2025 precedent). Always cross-check against the official information bulletin on [iimcat.ac.in](https://iimcat.ac.in) before making any decisions.

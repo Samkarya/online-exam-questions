@@ -98,11 +98,12 @@
   },
   {
     "slug": "cat-2026-complete-guide",
-    "title": "CAT 2026 Guide: Exam Date, Registration, Syllabus & Preparation Strategy",
+    "title": "CAT 2026 Complete Guide: Exam Date, Registration, Syllabus & Preparation Strategy",
     "type": "blog",
     "date": "2026-07-26",
+    "dateModified": "2026-09-04",
     "author": "ExamOven Team",
-    "excerpt": "The CAT 2026 notification is officially out. Confirmed exam date, registration window, fee (which went up this year), eligibility, syllabus, and a phased preparation strategy.",
+    "excerpt": "CAT 2026 registration is open now through September 15. Confirmed exam date, convener, fee (which went up this year), eligibility, syllabus, and a phased preparation strategy.",
     "tags": ["CAT","MBA Entrance","IIM","Exam Prep"],
     "mdFilePath": "/blog/cat-2026-complete-guide.md",
     "targetExamId": "cat"
@@ -276,5 +277,17 @@
     "tags": ["BECE", "BECE Past Questions", "Junior WAEC", "Mathematics", "Previous Year Papers", "NECO BECE", "Exam Prep"],
     "mdFilePath": "/blog/bece-past-questions-2023-mathematics-free-practice.md",
     "targetExamId": "bece"
+  },
+  {
+    "slug": "cat-2026-registration-deadline-checklist",
+    "title": "CAT 2026 Registration Closes September 15: Deadline Checklist & What Happens If You Miss It",
+    "type": "blog",
+    "date": "2026-09-04",
+    "dateModified": "2026-09-04",
+    "author": "ExamOven Team",
+    "excerpt": "CAT 2026 registration closes September 15, 2026 at 5 PM, with no extension announced. A practical last-mile checklist, the real history of past CAT deadline extensions, and your options if you miss it.",
+    "tags": ["CAT", "MBA Entrance", "IIM", "Exam Dates"],
+    "mdFilePath": "/blog/cat-2026-registration-deadline-checklist.md",
+    "targetExamId": "cat"
   }
 ]
