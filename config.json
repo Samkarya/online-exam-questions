@@ -428,16 +428,43 @@
         "Undergraduate Engineering Entrance",
         "Computer Based Test"
       ],
-      "description": "JEE Main is India's premier national-level engineering entrance exam conducted by NTA for admission to B.E./B.Tech., B.Arch., and B.Planning programmes at NITs, IIITs, CFTIs, and as the qualifying test for JEE Advanced (IIT admissions).",
+      "description": "JEE Main is India's premier national-level engineering entrance exam, conducted twice a year by NTA for admission to B.E./B.Tech., B.Arch., and B.Planning programmes at NITs, IIITs, and GFTIs, and as the qualifying test for JEE Advanced (IIT admissions). JEE Main 2026 concluded in April 2026 with a record 15.5 lakh candidates; JEE Main 2027's official notification is expected around October–November 2026.",
       "officialWebsite": "https://jeemain.nta.nic.in/",
       "isOfficial": true,
-      "lastUpdated": "2026-04-30",
-      "seoTitle": "JEE Main 2026: Free Mock Tests, Syllabus & NTA Prep Guide",
-      "seoDescription": "Ace JEE Main 2026 with free mock tests, revised syllabus & shift-wise papers. Practice Physics, Chemistry & Maths with NTA-pattern simulations. Prep now!",
+      "lastUpdated": "2026-09-04",
+      "seoTitle": "JEE Main 2027: Expected Dates, Free Mock Tests & NTA Prep Guide",
+      "seoDescription": "Plan for JEE Main 2027 with expected exam dates, revised syllabus & shift-wise papers. Practice Physics, Chemistry & Maths with NTA-pattern simulations. Prep now!",
       "relatedBlogTags": [
         "JEE Main",
         "NTA",
         "Engineering Entrance"
+      ],
+      "heroStats": [
+        { "label": "Candidates (2026, record)", "value": "15.5 lakh+" },
+        { "label": "Total Seats via JoSAA (2026)", "value": "67,323" },
+        { "label": "Participating Institutes", "value": "23 IITs, 31 NITs, 26 IIITs, 56 GFTIs" },
+        { "label": "Sessions Per Year", "value": "2 (January & April)" }
+      ],
+      "importantDates": [
+        { "event": "JEE Main 2026 Cycle (for reference)", "date": "Session 1: Jan 21–30, 2026 | Session 2: Apr 2–8, 2026", "note": "Final General-category cutoff for JEE Advanced eligibility: 93.41 percentile, released with the Session 2 result on April 20, 2026 — the highest in 4 years.", "status": "past" },
+        { "event": "JEE Main 2027 Official Notification", "date": "Expected late October – early November 2026", "note": "Not yet released. JEE Main 2026's notification came in October 2025, and 2025's followed the same pattern — this page will be updated the day NTA publishes the 2027 bulletin.", "status": "expected" },
+        { "event": "JEE Main 2027 Session 1 Registration", "date": "Expected to open late October / early November 2026", "note": "Projected from the JEE Main 2026 cycle, when Session 1 registration opened Oct 31, 2025 and closed Nov 27, 2025.", "status": "expected" },
+        { "event": "JEE Main 2027 Session 1 Exam", "date": "Expected last week of January 2027", "note": "JEE Main 2025 and 2026 Session 1 both fell in the last week of January.", "status": "expected" },
+        { "event": "JEE Main 2027 Session 2 Registration", "date": "Expected late January – February 2027", "status": "expected" },
+        { "event": "JEE Main 2027 Session 2 Exam", "date": "Expected first 1–2 weeks of April 2027", "note": "JEE Main 2025 and 2026 Session 2 both ran in the first eight days of April.", "status": "expected" }
+      ],
+      "admitCard": {
+        "info": "Admit cards are typically released about a week before each session's exam window, downloadable with application number and password/date of birth from the official site. Nothing has been issued yet for JEE Main 2027 — Session 1 dates aren't confirmed.",
+        "url": "https://jeemain.nta.nic.in/"
+      },
+      "resultInfo": {
+        "info": "Session 1 results are typically declared 2–3 weeks after the exam; the final result and the official category-wise qualifying cutoff for JEE Advanced are released with the Session 2 result (JEE Main 2026: April 20, 2026). NTA uses the better of a candidate's two session percentiles for the final merit list.",
+        "url": "https://jeemain.nta.nic.in/"
+      },
+      "officialLinks": [
+        { "label": "JEE Main Official Website (NTA)", "url": "https://jeemain.nta.nic.in/" },
+        { "label": "JoSAA (Joint Seat Allocation Authority)", "url": "https://josaa.nic.in/" },
+        { "label": "National Testing Agency", "url": "https://nta.ac.in/" }
       ],
       "keyFacts": [
         {
@@ -450,27 +477,28 @@
         },
         {
           "label": "Duration",
-          "value": "3 hours (3 hours 20 minutes for PwD candidates)"
+          "value": "3 hours per paper (3 hours 30 minutes if attempting both Paper 2A and 2B together); compensatory time provided for PwD candidates per NTA norms"
         },
         {
           "label": "Papers",
           "value": "Paper 1: B.E./B.Tech. | Paper 2A: B.Arch. | Paper 2B: B.Planning"
         },
         {
-          "label": "Total Marks (Paper 1)",
-          "value": "300"
+          "label": "Total Marks",
+          "value": "Paper 1: 300 | Paper 2A: 400 | Paper 2B: 400"
         }
       ],
       "eligibility": [
-        "Must have passed Class 12 (or equivalent) with Physics and Mathematics as compulsory subjects; Chemistry/Biology/Biotechnology/Technical Vocational subject as the third subject",
-        "Candidates appearing in Class 12 board exams in the same academic year are also eligible to apply",
-        "Minimum 75% aggregate marks in Class 12 required for admission to NITs/IIITs/CFTIs (65% for SC/ST/PwD); no minimum marks required just to appear in JEE Main",
-        "No upper age limit for JEE Main as per 2024 NTA guidelines; NRI/OCI/PIO/Foreign nationals are also eligible"
+        "Must have passed Class 12 (or equivalent) with Physics and Mathematics as compulsory subjects; Chemistry/Biology/Biotechnology/Technical Vocational subject as the third subject (for Paper 1)",
+        "Candidates appearing in Class 12 board exams in the same academic year are also eligible to apply — there is no minimum Class 12 percentage required just to sit JEE Main",
+        "For admission to NITs/IIITs/GFTIs specifically (not to appear in the exam): minimum 75% aggregate in Class 12 (65% for SC/ST/PwD), OR a rank in the top 20 percentile of your own board's results that year — either route qualifies",
+        "No upper age limit for JEE Main; NRI/OCI/PIO/Foreign nationals are also eligible",
+        "Maximum of 6 attempts total, spread across 3 consecutive years (2 sessions per year)"
       ],
       "examPattern": [
         {
           "label": "Total Questions (Paper 1)",
-          "value": "90 questions (75 to be attempted)"
+          "value": "75 (25 each in Physics, Chemistry, Mathematics) — all compulsory"
         },
         {
           "label": "Section A (each subject)",
@@ -478,7 +506,7 @@
         },
         {
           "label": "Section B (each subject)",
-          "value": "10 Numerical Answer Type — attempt any 5"
+          "value": "5 Numerical Value questions — all 5 compulsory (changed starting JEE Main 2025; earlier years allowed choosing any 5 of 10)"
         },
         {
           "label": "Marking Scheme (MCQ)",
@@ -486,11 +514,15 @@
         },
         {
           "label": "Marking Scheme (Numerical)",
-          "value": "+4 for correct, 0 for incorrect (no negative marking)"
+          "value": "+4 for correct, -1 for incorrect (negative marking added starting JEE Main 2025 — earlier years had zero penalty here)"
         },
         {
-          "label": "Negative Marking",
-          "value": "-1 per wrong MCQ answer only"
+          "label": "Paper 2A (B.Arch.)",
+          "value": "77 questions, 400 marks — Mathematics (20 MCQ + 5 NVQ), Aptitude (50 MCQ), Drawing (2 tasks, pen-and-paper, evaluated separately)"
+        },
+        {
+          "label": "Paper 2B (B.Planning)",
+          "value": "100 questions, 400 marks — Mathematics, Aptitude, and Planning-specific questions"
         }
       ],
       "syllabusOverview": [
@@ -518,7 +550,23 @@
         },
         {
           "question": "What is the JEE Main percentile required for NIT admission?",
-          "answer": "For top NITs (like NIT Trichy, NIT Warangal, NIT Surathkal), a JEE Main percentile of 98.5+ is generally needed for competitive branches. For other NITs, a percentile of 90+ may suffice depending on the branch and category."
+          "answer": "For top NITs (like NIT Trichy, NIT Warangal, NIT Surathkal), a JEE Main percentile of 98.5+ is generally needed for competitive branches. For other NITs, a percentile of 90+ may suffice depending on the branch and category. For reference, the JEE Main 2026 General-category cutoff for JEE Advanced eligibility was 93.41 percentile."
+        },
+        {
+          "question": "When will JEE Main 2027 dates be announced?",
+          "answer": "NTA hasn't released anything official yet. Going by the JEE Main 2025 and 2026 pattern, the information bulletin typically arrives in October, with Session 1 registration opening within days of it. This page will be updated the moment NTA publishes it."
+        },
+        {
+          "question": "Are all Section B numerical questions compulsory now?",
+          "answer": "Yes. Starting with JEE Main 2025, NTA removed the earlier 'attempt any 5 of 10' choice — all 5 numerical questions per subject are now compulsory, and they now carry the same -1 negative marking as MCQs for a wrong answer. This is expected to remain unchanged for JEE Main 2027."
+        },
+        {
+          "question": "Is the 75% Class 12 criterion still required for NIT/IIIT admission?",
+          "answer": "Yes — this rule has not been removed, despite periodic rumors to the contrary. It applies only at the admission (JoSAA counselling) stage, not to appear in JEE Main itself. Candidates need 75% aggregate in Class 12 (65% for SC/ST/PwD) OR a rank in the top 20 percentile of their own board that year."
+        },
+        {
+          "question": "Will JEE Main and NEET be merged into one exam?",
+          "answer": "Not currently. A 'One Nation, One Entrance Exam' proposal has been discussed by a Parliamentary Standing Committee, but as of this update it remains at the discussion stage with no executive order. JEE Main and NEET UG continue to be conducted as separate exams."
         }
       ]
     },

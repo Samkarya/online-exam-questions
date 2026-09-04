@@ -289,5 +289,17 @@
     "tags": ["CAT", "MBA Entrance", "IIM", "Exam Dates"],
     "mdFilePath": "/blog/cat-2026-registration-deadline-checklist.md",
     "targetExamId": "cat"
+  },
+  {
+    "slug": "jee-main-2027-complete-guide",
+    "title": "JEE Main 2027: Expected Exam Dates, Registration Timeline, Syllabus & Complete Preparation Guide",
+    "type": "blog",
+    "date": "2026-09-04",
+    "dateModified": "2026-09-04",
+    "author": "ExamOven Team",
+    "excerpt": "NTA hasn't released the JEE Main 2027 notification yet — expected around late October 2026. Here's what's confirmed, what's projected from three years of historical pattern, and a complete syllabus, pattern, and preparation guide to start on now.",
+    "tags": ["JEE Main", "NTA", "Engineering Entrance", "Exam Prep"],
+    "mdFilePath": "/blog/jee-main-2027-complete-guide.md",
+    "targetExamId": "jee"
   }
 ]
