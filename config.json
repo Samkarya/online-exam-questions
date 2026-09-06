@@ -2435,12 +2435,12 @@
         "Senior Secondary Exit Examination",
         "Paper-Based (with CBT in select centres)"
       ],
-      "description": "The WASSCE is the regional exit examination for Senior Secondary School students (SS3 / Grade 12) in West Africa, conducted by the West African Examinations Council (WAEC). It certifies completion of the Senior Secondary education programme and serves as the primary gateway to tertiary institution admissions across the sub-region. In Nigeria, two categories sit the exam: school candidates (May/June series) and private candidates (GCE series). The 2026 cycle covers 37 subjects across 97 papers, with nearly two million candidates registered in Nigeria alone.",
+      "description": "The WASSCE is the regional exit examination for Senior Secondary School students (SS3 / Grade 12) in West Africa, conducted by the West African Examinations Council (WAEC). It certifies completion of the Senior Secondary education programme and serves as the primary gateway to tertiary institution admissions across the sub-region. In Nigeria, two categories sit the exam: school candidates (May/June series) and private candidates (GCE series, run twice a year). The 2026 May/June cycle covered 37 subjects across 97 papers; 1,950,726 candidates sat the exam and results were released on August 5, 2026, with 61.54% of candidates obtaining credits (C6 or above) in at least five subjects including English Language and Mathematics — a sharp rise from 38.32% in 2025. The 2026 GCE 2nd Series (private candidates, fully computer-based) followed, with registration closing August 30, 2026 and the exam window running late October to December 2026. Looking ahead, WAEC has confirmed the entry requirement is a minimum of 8 and maximum of 9 subjects (not 7, as many third-party sites still state), and that English Language and General Mathematics remain the only two core subjects for both the 2026 and 2027 cycles — Citizenship and Heritage Studies and Digital Technologies will not be examinable until 2028. A proposed hike in WAEC's base registration fee from ₦27,500 to ₦50,000, intended to take effect from the 2027 cycle, was suspended by Nigeria's Federal Ministry of Education in July 2026 after public backlash, with no replacement fee announced yet — candidates preparing for 2027 should watch for an official update rather than assume either figure.",
       "officialWebsite": "https://waeconline.org.ng",
       "isOfficial": true,
-      "lastUpdated": "2026-05-11",
-      "seoTitle": "WASSCE 2026: Official Dates, CBT Updates, Fees & How to Pass",
-      "seoDescription": "Complete WASSCE 2026 guide — verified exam dates (Apr 21–Jun 19), CBT changes, registration fees, syllabus tips, and proven study strategies for Nigeria candidates.",
+      "lastUpdated": "2026-09-04",
+      "seoTitle": "WASSCE: 2026 Results, GCE 2nd Series & WASSCE 2027 Guide | Dates, Fees, CBT",
+      "seoDescription": "WASSCE 2026 results are out (61.54% credit rate). Track GCE 2nd Series dates and fees, plus what's confirmed so far for WASSCE 2027 — subjects, core papers, and the WAEC/NECO fee-hike situation.",
       "relatedBlogTags": [
         "WASSCE",
         "Senior Secondary"
@@ -2448,19 +2448,31 @@
       "keyFacts": [
         {
           "label": "Frequency",
-          "value": "Annual — School Candidates: May/June; Private Candidates (GCE): 1st Series (Jan–Feb) and 2nd Series (Aug–Sep)"
+          "value": "Annual — School Candidates: May/June; Private Candidates (GCE): 1st Series (Jan–Feb) and 2nd Series (Oct–Dec)"
         },
         {
-          "label": "2026 School Candidate Exam Window",
-          "value": "April 21, 2026 – June 19, 2026"
+          "label": "2026 School Candidate Exam Window (concluded)",
+          "value": "April 21, 2026 – June 19, 2026; results released August 5, 2026"
         },
         {
-          "label": "2026 Private Candidate 2nd Series Registration",
-          "value": "Opens May 4, 2026; Closes July 31, 2026"
+          "label": "2026 May/June Result Snapshot",
+          "value": "1,950,726 candidates sat; 1,200,514 (61.54%) obtained 5 credits incl. English & Maths, up from 38.32% in 2025"
+        },
+        {
+          "label": "2026 GCE 2nd Series (private candidates)",
+          "value": "Registration closed August 30, 2026 (extended from July 31); exam runs approx. Oct 25 – Dec 20, 2026; fee ₦27,000 + ₦500 commission"
+        },
+        {
+          "label": "WASSCE 2027 timetable",
+          "value": "Not yet released as of September 2026; WAEC typically publishes the final school-candidate timetable a few months ahead — expect it around Q1 2027"
+        },
+        {
+          "label": "Fee hike status (affects 2027)",
+          "value": "A proposed rise from ₦27,500 to ₦50,000 was suspended by the Federal Ministry of Education in July 2026 pending consultation; no confirmed 2027 fee yet"
         },
         {
           "label": "Mode",
-          "value": "Paper-based for most school candidates; Computer-Based Examination (CBE) for private candidates (2nd Series) and ~450 CB-WASSCE pilot schools"
+          "value": "Paper-based for most school candidates; Computer-Based Examination (CBE) for GCE private candidates and a growing number of CB-WASSCE pilot schools (~450 in 2026, up from under 40 in 2025)"
         },
         {
           "label": "Level",
@@ -2473,14 +2485,6 @@
         {
           "label": "Language of Instruction",
           "value": "English (primary); Arabic and French available as subjects"
-        },
-        {
-          "label": "Total Registered Candidates (2026, Nigeria)",
-          "value": "1,959,636 across 24,207 schools"
-        },
-        {
-          "label": "Results Release",
-          "value": "Approximately 45 days after the last paper; digital certificates within 24 hours; physical certificates within 90 days"
         }
       ],
       "eligibility": [
@@ -2494,12 +2498,16 @@
       ],
       "examPattern": [
         {
-          "label": "Compulsory Subjects",
-          "value": "English Language, Mathematics"
+          "label": "Compulsory Subjects (Nigeria)",
+          "value": "English Language and General Mathematics — the only two core subjects for both the 2026 and 2027 cycles in Nigeria (Citizenship and Heritage Studies and Digital Technologies are not examinable until 2028)"
         },
         {
-          "label": "Subject Range",
-          "value": "Minimum 7 subjects, maximum 9 subjects"
+          "label": "Subject Range (Nigeria)",
+          "value": "Minimum 8 subjects, maximum 9 subjects — confirmed by WAEC Nigeria (waecnigeria.org) for both the 2026 and 2027 cycles. Some third-party sites still incorrectly list a minimum of 7 for Nigeria."
+        },
+        {
+          "label": "Compulsory Subjects & Subject Range (Ghana)",
+          "value": "Ghana's rule is different from Nigeria's, not a typo: 4 core subjects (English, Core Mathematics, Integrated Science, Social Studies) plus 3–4 electives chosen from one WAEC-defined programme option (e.g. Science, Business, General Arts, Agricultural, Vocational), giving a total of 7–8 subjects — confirmed by WAEC Ghana (waecgh.org). Do not apply Nigeria's 8–9 figure to Ghanaian candidates."
         },
         {
           "label": "Total Subjects Available (2026)",
@@ -2574,44 +2582,48 @@
       ],
       "faqs": [
         {
-          "question": "Is WASSCE 2026 going to be fully CBT for everyone?",
-          "answer": "No. Only approximately 450 of the 24,207 registered schools (~1.9%) are using the CB-WASSCE format. The vast majority of school candidates write by hand. Private candidates sitting the 2nd Series will use fully CBT for objective papers, with a hybrid approach for essay answers."
+          "question": "Are the WASSCE 2026 results out?",
+          "answer": "Yes. WAEC released the 2026 May/June WASSCE for School Candidates results on August 5, 2026. Out of 1,950,726 candidates who sat the exam, 1,200,514 (61.54%) obtained credits (C6 or above) in at least five subjects including English Language and Mathematics — a large jump from 38.32% in 2025. About 94% of results were fully processed at release; the remainder were released shortly after further checks."
         },
         {
-          "question": "When exactly does WASSCE 2026 start and end?",
-          "answer": "The May/June examination for school candidates runs from April 21 to June 19, 2026. The first paper is Foods and Nutrition 3 (Practical) Planning Session. Some sites incorrectly state May 11 as the start date — this is wrong."
+          "question": "Was WASSCE 2026 fully CBT for everyone?",
+          "answer": "No. Only around 450 of roughly 24,200 registered schools used the Computer-Based WASSCE (CB-WASSCE) format — up from fewer than 40 schools in 2025, but still a small minority. Most school candidates wrote by hand. The 2026 GCE 2nd Series for private candidates, by contrast, was fully computer-based for objective papers, with a hybrid (on-screen question, handwritten answer) format for essays."
         },
         {
           "question": "What is the registration fee for WAEC GCE 2nd Series 2026?",
-          "answer": "₦37,000 base fee plus ₦500 bank commission, totalling ₦37,500. All fees are non-refundable. The ₦21,500 figure cited on many older websites is outdated."
+          "answer": "₦27,000 plus a ₦500 bank/agent commission, totalling ₦27,500 — confirmed by WAEC's official registration announcement. Some sources circulated a ₦37,000 figure earlier in the cycle; that did not match what WAEC actually charged. Walk-in registration (available up to 24 hours before a paper) cost ₦45,000."
         },
         {
-          "question": "When does 2nd Series private candidate registration close?",
-          "answer": "July 31, 2026, per the official WAEC Nigeria poster. Some sources have listed August 2 — that date is unconfirmed by official WAEC materials. Treat July 31 as the hard deadline."
+          "question": "When did 2026 GCE 2nd Series registration close, and when is the exam?",
+          "answer": "WAEC extended the PIN-generation deadline to August 28, 2026 and the online registration/biometric deadline to August 30, 2026 (both later than the originally announced July 31 date). The exam itself runs from approximately October 25 to December 20, 2026."
         },
         {
-          "question": "How many subjects must I register for?",
-          "answer": "A minimum of 7 and a maximum of 9 subjects. English Language and Mathematics are compulsory. Candidates should select electives based on intended tertiary course requirements."
+          "question": "How many subjects must I register for — is it 7 or 8 minimum?",
+          "answer": "It depends on the country, and this is a genuine difference, not an error either way. In Nigeria, it's a minimum of 8 subjects and a maximum of 9 (WAEC's own eligibility page confirms this — many older guides still say 7, which is incorrect for Nigeria). In Ghana, the structure is different: 4 core subjects plus 3–4 electives from one programme option, giving a minimum of 7 and maximum of 8. Don't apply one country's figure to the other."
         },
         {
-          "question": "When will WASSCE 2026 results be released?",
-          "answer": "Approximately 45 days after June 19, 2026 — around early August 2026. Digital certificates are available online within 24 hours of results release. Physical certificates are distributed to schools within 90 days of the exam's conclusion."
+          "question": "Is there really a one-time ₦4,000 fee for WASSCE result verification?",
+          "answer": "Yes, but it's not a WASSCE registration or exam fee — it's a new (September 2026) JAMB/WAEC joint policy for Nigerian candidates verifying their WASSCE/O'Level results during university admission. Candidates now pay ₦4,000 once through the official JAMB Verification Service platform, and that verified result is shared with whichever tertiary institution they're applying to — replacing the older system where multiple institutions could each charge a separate verification fee. Pay only through JAMB's platform, never to an individual institution."
         },
         {
           "question": "Is NIN mandatory for WAEC registration in Nigeria?",
-          "answer": "Yes. A National Identification Number (NIN) is mandatory for all Nigerian candidates and has been formally integrated into the registration process. Registration cannot proceed without one."
+          "answer": "Yes. A National Identification Number (NIN) is mandatory for all Nigerian candidates and is built into the registration process. Registration cannot proceed without one."
         },
         {
           "question": "What is the minimum score to get a credit in WAEC?",
           "answer": "A C6 grade (50–54%) is the minimum credit. For university admissions, most institutions in Nigeria and Ghana require at least five credits at C6 or above, including English Language and Mathematics."
         },
         {
-          "question": "How do I download the official WASSCE 2026 syllabus?",
-          "answer": "Visit waeconline.org.ng and use your Registration PIN to access and download the official e-Syllabus for any subject. It is free and more authoritative than any third-party PDF."
+          "question": "Is it true WAEC/NECO fees are rising to ₦50,000?",
+          "answer": "That was proposed, not finalised. In June 2026, the Federal Ministry of Education approved a WAEC request to raise the base registration fee from ₦27,500 to ₦50,000 (and NECO's from ₦30,000 to the same figure) starting with the 2027 cycle. After public backlash — including opposition from Atiku Abubakar and student groups — the Ministry withdrew the directive in July 2026 pending further consultation. As of September 2026, no replacement fee has been announced, so treat any specific 2027 fee you see online as unconfirmed until WAEC or the Ministry publishes one."
         },
         {
-          "question": "What if the duration on my question paper differs from the timetable?",
-          "answer": "Follow the duration printed on the question paper. This is an official WAEC rule stated in the footnotes of the 2026 final timetable."
+          "question": "Has the WASSCE 2027 timetable been released?",
+          "answer": "No, not as of September 2026. WAEC has not published exact 2027 dates for either the May/June school-candidate exam or the GCE series. Historically the school-candidate timetable is released a few months ahead of the exam, so expect it in the first quarter of 2027. Do not trust any specific 2027 date circulating before then — treat the 2026 dates as historical reference only, not a repeat schedule."
+        },
+        {
+          "question": "How do I download the official WASSCE syllabus?",
+          "answer": "Visit waeconline.org.ng and use your Registration PIN to access and download the official e-Syllabus for any subject. It is free and more authoritative than any third-party PDF."
         },
         {
           "question": "How does WASSCE differ from NECO SSCE?",

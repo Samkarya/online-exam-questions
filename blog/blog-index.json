@@ -165,13 +165,26 @@
   },
   {
     "slug": "wassce-2026-official-updates-cbt-dates-fees-guide",
-    "title": "WASSCE 2026: Official Dates, CBT Changes, Fees & How to Actually Pass",
+    "title": "WASSCE 2026: Results, GCE 2nd Series Dates & What Actually Happened",
     "type": "blog",
     "date": "2026-05-14",
+    "dateModified": "2026-09-04",
     "author": "ExamOven Team",
-    "excerpt": "Looking for the official WASSCE 2026 timetable? Get verified WAEC 2026 exam dates (April 21 – June 19), registration fees (₦37,500), and latest CBT updates. Learn how to pass your exams with tips from the Chief Examiners' Report.",
-    "tags": ["WAEC", "WASSCE", "NECO", "Senior Secondary", "Nigerian Education", "Exam Prep"],
+    "excerpt": "WASSCE 2026 results are out: 61.54% of candidates got five credits, up from 38.32% in 2025. Here's the full recap — verified exam dates, the real GCE 2nd Series fee (₦27,500, not ₦37,500), CBT numbers, and what to check now that results are released. Planning ahead? See our WASSCE 2027 guide.",
+    "tags": ["WASSCE", "WASSCE Results", "WAEC Nigeria", "WAEC GCE", "CB-WASSCE", "Exam Dates", "Study Tips"],
     "mdFilePath": "/blog/wassce-2026-official-updates-cbt-dates-fees-guide.md",
+    "targetExamId": "wassce"
+  },
+  {
+    "slug": "wassce-2027-complete-guide",
+    "title": "WASSCE 2027: What's Confirmed, What's Still Unresolved — Dates, Fees & Subject Rules",
+    "type": "blog",
+    "date": "2026-09-05",
+    "dateModified": "2026-09-05",
+    "author": "ExamOven Team",
+    "excerpt": "WAEC hasn't released a 2027 timetable yet, but three things ARE already confirmed: the 8-subject minimum (not 7), which subjects count as \"core,\" and a fee-hike proposal that got suspended without a replacement. Here's what to act on now and what to keep watching.",
+    "tags": ["WASSCE 2027", "WAEC 2027", "WAEC GCE", "WAEC Fees", "Senior Secondary", "Exam Prep"],
+    "mdFilePath": "/blog/wassce-2027-complete-guide.md",
     "targetExamId": "wassce"
   },
   {

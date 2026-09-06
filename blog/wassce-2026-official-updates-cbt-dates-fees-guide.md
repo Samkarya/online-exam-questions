@@ -1,11 +1,17 @@
 ---
-title: "WASSCE 2026: Official Dates, CBT Changes, Fees & How to Actually Pass"
+title: "WASSCE 2026: Results, GCE 2nd Series Dates & What Actually Happened"
 date: "2026-05-14"
+dateModified: "2026-09-04"
 author: "ExamOven Team"
-excerpt: "Looking for the official WASSCE 2026 timetable? Get verified WAEC 2026 exam dates (April 21 – June 19), registration fees (₦37,500), and latest CBT updates. Learn how to pass your exams with tips from the Chief Examiners' Report."
-tags: ["WASSCE 2026", "WAEC Nigeria", "WAEC Timetable", "WAEC Registration", "CB-WASSCE", "Exam Dates", "Study Tips", "GCE 2026"]
+excerpt: "WASSCE 2026 results are out: 61.54% of candidates got five credits, up from 38.32% in 2025. Here's the full recap — verified exam dates, the real GCE 2nd Series fee (₦27,500, not ₦37,500), CBT numbers, and what to check now that results are released. Planning ahead? See our WASSCE 2027 guide."
+tags: ["WASSCE 2026", "WASSCE Results", "WAEC Nigeria", "WAEC GCE", "CB-WASSCE", "Exam Dates", "Study Tips"]
 mdFilePath: "blog/wassce-2026-official-updates-cbt-dates-fees-guide.md"
 ---
+
+> [!IMPORTANT]
+> **Update, September 2026:** The 2026 May/June WASSCE has concluded and results are out — WAEC released them on August 5, 2026, with 61.54% of candidates scoring five credits or better, a sharp jump from 38.32% in 2025 (see the results section below). The GCE 2nd Series for private candidates followed, with registration closing August 30 and the exam running late October through December 2026. If you're preparing for the **next** cycle rather than checking on this one, go straight to our **[WASSCE 2027 guide](/blog/wassce-2027-complete-guide)** instead — dates, fees, and subject rules for 2027 are genuinely different from what's on this page, including a fee-hike controversy that's still unresolved.
+
+
 
 There is a particular kind of exhaustion that comes with preparing for WASSCE.
 
@@ -23,132 +29,141 @@ Read this once. Then close it and go study.
 
 | What you need to know | The answer |
 |---|---|
-| Exam start (school candidates) | April 21, 2026 |
-| Exam end (school candidates) | June 19, 2026 |
-| Total registered candidates | 1,959,636 |
-| CBT schools in 2026 | ~450 out of 24,207 |
-| Private candidate fee — 2nd Series | ₦37,000 + ₦500 commission |
-| 2nd Series registration opens | May 4, 2026 |
-| 2nd Series registration closes | July 31, 2026 |
-| Results released | ~45 days after June 19 |
-| Digital certificates available | Within 24 hours of results |
-| Physical certificates | Within 90 days of exam end |
-| Compulsory subjects | English Language + Mathematics |
-| Subject range | Minimum 7, maximum 9 |
+| Exam dates (school candidates) | April 21 – June 19, 2026 (concluded) |
+| Results released | August 5, 2026 |
+| Candidates who sat the exam | 1,950,726 |
+| Candidates with 5 credits incl. English & Maths | 1,200,514 (61.54%) — up from 38.32% in 2025 |
+| CBT schools in 2026 | ~450, up from under 40 in 2025 |
+| GCE 2nd Series fee (confirmed) | ₦27,000 + ₦500 commission = ₦27,500 |
+| GCE 2nd Series registration closed | August 30, 2026 (extended from July 31) |
+| GCE 2nd Series exam window | ~October 25 – December 20, 2026 |
+| Compulsory subjects | English Language + General Mathematics |
+| Subject range (Nigeria) | Minimum **8**, maximum 9 (not 7 — see correction below; Ghana's rule differs, also below) |
 
 ---
 
-## 1. The Correct Exam Dates — Let's Put This to Rest
+## 1. The Exam Dates — And What Happened Since
 
-If you have seen a blog or social media post claiming WASSCE 2026 runs from **May 11 to June 26**, that is wrong. The dates were officially confirmed by WAEC Nigeria and are backed by the published final timetable:
+The 2026 May/June WASSCE for school candidates ran exactly as officially confirmed by WAEC Nigeria's published final timetable:
 
 > **Start: Tuesday, April 21, 2026**
 > **End: Friday, June 19, 2026**
 
-The examination opens with practical planning sessions — Foods and Nutrition 3 and Home Management 3 — which is consistent with how WAEC has structured the timetable for several years. The final papers are Commerce (Essay and Objective) on June 19.
+The examination opened with practical planning sessions — Foods and Nutrition 3 and Home Management 3 — consistent with how WAEC has structured the timetable for several years. The final papers were Commerce (Essay and Objective) on June 19.
 
-One small but important detail buried in the official timetable: **if the duration printed on your question paper differs from the timetable, follow the question paper.** Sounds minor. On exam day, it is not.
+**Results were released on Wednesday, August 5, 2026** — almost exactly the "45 days after the last paper" window WAEC had projected. Of the 1,950,726 candidates who sat the exam, 1,200,514 (61.54%) obtained credits (C6 or above) in at least five subjects including English Language and Mathematics. That's a large jump from 2025's 38.32% credit rate, and it's worth noting for context if you're benchmarking your own performance or a school's results against prior years.
 
-### For Private Candidates — Key Dates
+If you haven't checked your result yet: generate your Serial Number and PIN at **waec.org**, then check at **waecdirect.org**. You'll need your examination number and the same NIN used at registration.
+
+### For Private Candidates — What Came Next
 
 | Event | Date |
 |---|---|
-| 2nd Series Registration Opens | May 4, 2026 |
-| 2nd Series Registration Closes | **July 31, 2026** |
-| 2nd Series Exam | Dates to be communicated via SMS, email, and WAEC social media |
+| GCE 2nd Series registration opened | May 4, 2026 |
+| PIN generation deadline | Extended to August 28, 2026 |
+| Online registration / biometric deadline | Extended to August 30, 2026 |
+| GCE 2nd Series exam window | Approximately October 25 – December 20, 2026 |
 
-Download the full official timetable PDF directly from **waeconline.org.ng**. 
+WAEC pushed the original July 31 registration deadline back twice before finally closing it on August 30. If you missed it, walk-in registration remained possible at a higher fee (₦45,000) up to 24 hours before your first paper — check waeconline.org.ng for current availability.
 
-Do not trust screenshots forwarded through WhatsApp groups without verifying the source.
-
----
-
-## 2. The CBT Question — What Is Actually Changing (and What Isn't)
-
-No topic has generated more confusion this cycle than computer-based testing. Here is the clear version.
-
-### For School Candidates: Most of You Are Still Writing by Hand
-
-At the May 11 press briefing in Yaba, Lagos, WAEC Nigeria's Head of the National Office, **Amos Josiah Dangut**, confirmed that approximately **450 schools** have adopted the Computer-Based WASSCE (CB-WASSCE) format in 2026. That sounds significant until you consider that **24,207 schools** are registered in total — meaning CBT adoption sits at roughly **1.9% of schools**.
-
-This is still real growth. In 2025, fewer than 40 schools used CBT. The jump to 450 is notable, and Dangut credited it to the "seamless nature" of last year's pilot and its alignment with global trends. But the infrastructure gap — unreliable power supply and too few computer labs — remains the main reason most schools have not made the switch.
-
-In CB-WASSCE schools, the format is a hybrid:
-- **Objective (multiple choice) papers** are answered on-screen
-- **Essay and theory papers** are still handwritten in answer booklets
-
-**The bottom line:** Unless your school has specifically told you it is a CBT centre, you will be writing by hand. Do not let anxiety about technology distract you from what actually matters — knowing your content.
-
-### For Private Candidates (2nd Series): This Is Fully CBT
-
-If you are sitting the 2026 Second Series as a private candidate, your experience is different:
-
-- Objective papers are fully computer-based
-- Essay questions appear on screen, but your answers go into physical booklets
-- WAEC will offer an **online Mock Examination** before the main exam to help you get comfortable with the interface. Watch for the date via SMS and WAEC's official channels.
-
-If you are in this group, start sitting in front of a computer screen to read and think now. The content is identical to the pen-and-paper version. But reading dense text on a monitor while managing a countdown timer is a different psychological experience from reading a paper — and it is one worth practising.
-
-### A New Anti-Cheating Weapon: Randomised Question Papers
-
-One of the more interesting announcements from the press briefing was this: WAEC is now **randomising and serialising** question papers so that no two candidates sitting near each other receive questions in the same order.
-
-Dangut put it directly: *"We are going to randomise as well as serialise our papers to ensure that we compound the woes of perpetrators of examination malpractice."*
-
-In plain terms — the era of copying from the person next to you was already risky. It just became significantly riskier.
+Download the full official timetable PDF directly from **waeconline.org.ng**. Do not trust screenshots forwarded through WhatsApp groups without verifying the source — that advice held for the May/June exam and holds just as much for the GCE series.
 
 ---
 
-## 3. Fees and Registration
+## 2. The CBT Question — What Actually Changed
 
-### For School Candidates: The Window Has Already Closed
+No topic generated more confusion this cycle than computer-based testing. Here's how it actually played out.
 
-If you are a school candidate sitting the May/June examination, your school handled registration. The deadlines passed in late 2025. What matters now is making sure you have:
+### For School Candidates: Most Still Wrote by Hand
 
-- Your **printed Admission Notice** (your identity document at the exam centre)
-- Your **Result Checker PIN** (printed on your Admission Notice — guard this carefully)
+At the May 11 press briefing in Yaba, Lagos, WAEC Nigeria's Head of the National Office, **Amos Josiah Dangut**, confirmed that approximately **450 schools** adopted the Computer-Based WASSCE (CB-WASSCE) format in 2026, out of roughly 24,200 schools registered in total — meaning CBT adoption sat at roughly **1.9% of schools**.
+
+That's still real growth: in 2025, fewer than 40 schools used CBT. Dangut attributed the jump to how smoothly the prior year's pilot had gone and to WAEC's broader push to align with global testing trends, though the underlying constraint — unreliable power supply and too few computer labs — remained the main reason most schools didn't make the switch this cycle either.
+
+In CB-WASSCE schools, the format was a hybrid:
+- **Objective (multiple choice) papers** were answered on-screen
+- **Essay and theory papers** were still handwritten in answer booklets
+
+### For Private Candidates (GCE 2nd Series): Fully CBT
+
+The 2026 GCE 2nd Series for private candidates ran differently:
+
+- Objective papers were fully computer-based
+- Essay questions appeared on screen, but answers went into physical booklets
+- WAEC offered an online Mock Examination beforehand to help candidates get comfortable with the interface
+
+If you're entering the next GCE series, get comfortable reading and thinking in front of a screen before exam day. The content is identical to the pen-and-paper version, but reading dense text on a monitor while managing a countdown timer is a different experience from reading on paper — and it's worth practising in advance.
+
+### The Anti-Cheating Measure: Randomised Question Papers
+
+One of the more notable announcements from the May press briefing was that WAEC began **randomising and serialising** question papers, so that candidates sitting near each other no longer received questions in the same order.
+
+Dangut framed it plainly at the briefing: the randomisation and serialisation were specifically designed to make copying between neighbouring candidates far harder to pull off, and to add a new layer of deterrence against organised exam malpractice.
+
+In plain terms — the era of copying from the person next to you was already risky. It's now significantly riskier, and WAEC has signalled this measure is here to stay for future cycles, not a one-off.
+
+---
+
+## 3. Fees and Registration — What They Actually Were
+
+### For School Candidates: The Window Had Already Closed
+
+School candidates who sat the May/June exam had registration handled by their school, with deadlines that passed in late 2025. What mattered on exam day was:
+
+- A **printed Admission Notice** (identity document at the exam centre)
+- A **Result Checker PIN** (printed on the Admission Notice)
 - Valid identification
-- **No mobile phone or electronic device.** Being found with one means your entire results are cancelled — not just the paper you are sitting.
+- **No mobile phone or electronic device** — being found with one meant the candidate's entire results (every subject) were cancelled, not just the paper being sat
 
-Your Continuous Assessment (CASS) scores contribute **30% of your final grade**. The exam itself is the remaining 70%.
+Continuous Assessment (CASS) scores contributed **30% of the final grade**; the examination contributed the remaining 70%.
 
-### For Private Candidates: Verified 2026 Fees
+### For Private Candidates: The Actual 2026 GCE 2nd Series Fee
 
-Many websites still quote ₦21,500 as the private candidate fee. That figure is at least two years out of date. Here are the correct 2026 fees, confirmed by official WAEC Nigeria sources:
+Here's a correction worth flagging clearly: several sites (including an earlier version of this guide) circulated a **₦37,000** figure for the 2nd Series fee. That did not match what WAEC actually charged. Confirmed by WAEC's official registration announcement:
 
-| Series | Base Fee | Bank Commission | Total |
+| Series | Base Fee | Bank/Agent Commission | Total |
 |---|---|---|---|
-| 1st Series (GCE) | ₦27,000 | ₦500 | **₦27,500** |
-| 2nd Series (GCE) | ₦37,000 | ₦500 | **₦37,500** |
+| 1st Series (GCE, Jan/Feb) | ₦27,000 | ₦500 | **₦27,500** |
+| 2nd Series (GCE, Oct–Dec) | ₦27,000 | ₦500 | **₦27,500** |
+| 2nd Series — Walk-in registration | — | — | **₦45,000** |
 
-Fees are non-refundable. Before you submit anything, triple-check your name spelling, date of birth, and subject selection. WAEC will not correct errors on your behalf, and fixing a mistake after the fact is an ordeal you genuinely do not want.
+Fees were non-refundable, and WAEC does not correct name, date-of-birth, or subject-selection errors after submission — candidates who registered were advised to triple-check every field before paying.
 
-**What you need to register:**
-- A **National Identification Number (NIN)** — this is now mandatory by federal government directive, and registration cannot proceed without one. If you do not have one, go to the nearest NIMC office today.
+**What was needed to register:**
+- A **National Identification Number (NIN)** — mandatory by federal government directive; registration could not proceed without one
 - Biometric fingerprint capture at an authorised centre
-- A passport photograph: **JPEG format, 275 × 314 pixels, 72 dpi, with a contrasting background.** A poor-quality photo can automatically invalidate your application.
-- Minimum 7 subjects, maximum 9 subjects
-- English Language and Mathematics are compulsory
+- A passport photograph: **JPEG format, 275 × 314 pixels, 72 dpi, with a contrasting background**
+- Minimum **8** subjects, maximum 9 for Nigerian candidates (see the correction below — this repo previously stated 7; Ghanaian candidates follow a different 7–8 structure, also explained below)
+- English Language and General Mathematics compulsory
+
+### A Fee Story That Isn't Over Yet
+
+Separately from the 2026 GCE fee above, WAEC requested — and in June 2026 briefly received Federal Ministry of Education approval for — a much larger increase to the **base WASSCE registration fee**, from ₦27,500 to ₦50,000, planned to take effect from the **2027** cycle. Public backlash was immediate and came from figures including former Vice President Atiku Abubakar and national student groups. The Ministry withdrew the approval in **July 2026**, pending broader consultation, and as of this update no replacement fee has been announced. If you're budgeting for WASSCE 2027, this is genuinely unresolved — see our [WASSCE 2027 guide](/blog/wassce-2027-complete-guide) for the latest on it.
+
+### Correction: The "8 Subjects" Rule Is Nigeria-Specific, Not Regional
+
+Worth being precise about, since WASSCE is administered in five countries: the 8-minimum/9-maximum subject rule above is **Nigeria's** rule, confirmed directly on WAEC Nigeria's eligibility page (waecnigeria.org). It does not apply to Ghana. **Ghana's structure is genuinely different**, not a rounding error: Ghanaian school candidates take 4 core subjects (English, Core Mathematics, Integrated Science, Social Studies) plus 3 or 4 electives chosen from a single WAEC-defined programme option — Science, Business, General Arts, Agricultural, or Vocational — giving a total of **7 to 8 subjects**, confirmed on WAEC Ghana's own site (waecgh.org). If you're a Ghanaian candidate, use 7–8 as your range, not Nigeria's 8–9.
+
+### New: A ₦4,000 One-Time Result Verification Fee (Nigeria, Post-Results)
+
+This is separate from anything above and only relevant once you already have your result: on **September 2, 2026**, JAMB and WAEC jointly announced that Nigerian candidates seeking university admission will now pay **₦4,000 only once** to verify their WASSCE/O'Level result, through the official **JAMB Verification Service** platform. That single verification is then shared with whichever tertiary institution you're applying to — replacing the old system where multiple institutions could each demand a separate verification payment for the same certificate. Pay this only through JAMB's platform; WAEC and JAMB have explicitly said individual institutions should not be charging you for it separately.
 
 ---
 
-## 4. Who Is Sitting This Exam
+## 4. Who Sat This Exam — And How They Did
 
-Sometimes it helps to zoom out and see the full picture.
+Sometimes it helps to zoom out and see the full picture, now that the numbers are actually in.
 
-At the May 11 press briefing, Dangut released the complete 2026 candidate data:
+At the May 11 press briefing, Dangut released the pre-exam registration data; WAEC's August 5 results announcement confirmed what actually happened:
 
-- **1,959,636** total registered candidates
-- **24,207** schools
-- **958,564** male candidates (48.92%)
-- **1,001,072** female candidates (51.08%)
-- **29,000** supervisors deployed nationwide
-- **37 subjects** across **97 papers**
-- **~450** schools using CBT format
+- **1,959,636** candidates originally registered; **1,950,726** ultimately sat the exam
+- **1,200,514** candidates (**61.54%**) obtained credits in at least five subjects, including English Language and Mathematics — up sharply from 38.32% in 2025
+- **94.05%** of results were fully processed and released on August 5; the remaining 5.95% needed further processing before their results followed
+- More than **24,200** schools took part, with **29,000** supervisors deployed nationwide
+- **~450** schools used the CB-WASSCE format
+- For the second consecutive year, female candidates outnumbered male candidates — a trend WAEC has specifically highlighted as a positive development
 
-For the second consecutive year, female candidates outnumber male candidates — a trend WAEC has specifically highlighted as a positive development.
-
-Nearly two million people are waking up with the same timetable pinned to their wall as you. That is not a reason to feel less pressure. But it is a reminder that whatever you are feeling right now, you are not feeling it alone.
+A jump from 38.32% to 61.54% in a single year is a large swing. If you're a school administrator, researcher, or just curious what changed, treat it as one data point rather than a settled trend — worth watching for confirmation (or reversal) in the 2027 results before drawing firm conclusions about the cause.
 
 ---
 
@@ -230,70 +245,70 @@ WAEC has quietly built a reasonably good digital ecosystem, and most candidates 
 | **WAEC Digital Certificate** | Access your results certificate online within 24 hours of release |
 | **Malpractice Portal** | Report examination fraud anonymously |
 
-For private candidates preparing for CBT, **Myschool CBT** and **Osilight WAEC CBT** are widely used practice platforms. But the most valuable preparation resource is WAEC's own official mock exam, which will be made available before the 2nd Series. Take it seriously — it is designed specifically to help you get comfortable with the interface.
+For private candidates preparing for CBT, **Myschool CBT** and **Osilight WAEC CBT** are widely used practice platforms. WAEC's own official mock exam — offered ahead of the GCE 2nd Series — remains the most reliable way to get comfortable with the interface before future CBT sittings.
 
 ---
 
 ## 8. On Malpractice — A Practical Warning, Not a Lecture
 
-You already know that cheating is wrong. This section is not about ethics. It is about risk — because the risk has genuinely never been higher.
+You already know cheating is wrong. This section isn't about ethics — it's about risk, because for 2026 candidates that risk turned out to be real.
 
-Dangut was specific at the press briefing about what happens to those caught:
+Dangut was specific at the May briefing about consequences, and WAEC followed through on the enforcement side through the exam window:
 
-- Schools found to be facilitating mass cheating will be **de-recognised** — every student's results cancelled
-- Supervisors who are complicit will be **prosecuted**
-- Candidates found with mobile phones in the examination hall will have their **entire results cancelled** — every subject, not just the one they are sitting
+- Schools found facilitating mass cheating faced **de-recognition** — every student's results cancelled
+- Complicit supervisors faced **prosecution**
+- Candidates found with mobile phones in the examination hall had their **entire results cancelled** — every subject, not just the one they were sitting
 
-WAEC has also deployed:
-- Paper randomisation and serialisation (no two adjacent candidates have the same question order)
+WAEC also deployed, for the first time at this scale:
+- Paper randomisation and serialisation (no two adjacent candidates received the same question order)
 - Active collaboration with the Nigeria Police Force and other security agencies
 - An anonymous malpractice reporting portal
 
-On the subject of "expo" websites: these sites appear every exam season, claiming to sell advance answers. Dangut confirmed WAEC is working with law enforcement to track and prosecute their operators. The only thing these websites reliably deliver is a financial transaction. They cannot guarantee results. They do not have your exam questions. Your textbooks do.
+On "expo" websites: these sites appear every exam season, claiming to sell advance answers. WAEC has said it works with law enforcement to track and prosecute their operators. The only thing these sites reliably deliver is a financial transaction — they cannot guarantee results and do not have advance access to exam questions. Expect the same enforcement posture, if not stricter, going into 2027.
 
 ---
 
 ## 9. Frequently Asked Questions
 
-**Is WASSCE 2026 going to be fully CBT for everyone?**
+**Are the WASSCE 2026 results out?**
 
-No. Only around 450 of the 24,207 registered schools (roughly 1.9%) are using the CBT format. Most school candidates will write by hand. For private candidates sitting the 2nd Series, the exam will be computer-based, with a hybrid approach for essay answers.
-
----
-
-**When exactly does the 2026 WASSCE start and end?**
-
-April 21, 2026 to June 19, 2026 for school candidates. The first paper is Foods and Nutrition 3 Practical. The "May 11" start date circulating online is incorrect.
+Yes. WAEC released the 2026 May/June results on August 5, 2026. Of the 1,950,726 candidates who sat the exam, 1,200,514 (61.54%) obtained credits in at least five subjects including English Language and Mathematics — up from 38.32% in 2025. Check yours at waecdirect.org after generating your PIN at waec.org.
 
 ---
 
-**What is the registration fee for WAEC GCE 2026?**
+**Was WASSCE 2026 fully CBT for everyone?**
 
-₦27,500 total (₦27,000 + ₦500 commission) for the 1st Series. ₦37,500 total (₦37,000 + ₦500 commission) for the 2nd Series. The ₦21,500 figure still appearing on many sites is outdated by at least two years.
-
----
-
-**When does 2nd Series private candidate registration close?**
-
-**July 31, 2026.** Some sources have listed August 2 — that date is not confirmed by official WAEC materials. Treat July 31 as your deadline.
+No. Only around 450 of roughly 24,200 registered schools (about 1.9%) used the CBT format — up from under 40 schools in 2025, but still a small minority. Most school candidates wrote by hand. The GCE 2nd Series for private candidates was fully computer-based for objective papers, with a hybrid format for essays.
 
 ---
 
-**How many subjects do I need to register for?**
+**What was the actual registration fee for WAEC GCE 2026?**
 
-A minimum of 7, maximum of 9. English Language and Mathematics are compulsory. Choose your remaining subjects based on your intended tertiary course.
+₦27,500 total (₦27,000 + ₦500 commission) for both the 1st and 2nd Series — confirmed by WAEC's own registration announcements. A ₦37,000/₦37,500 figure circulated for the 2nd Series earlier in the cycle (including in an earlier version of this guide); that turned out not to match what WAEC charged. Walk-in registration cost ₦45,000.
 
 ---
 
-**When will 2026 WASSCE results come out?**
+**When did GCE 2nd Series registration close, and when is the exam?**
 
-Approximately 45 days after June 19, which puts results around early August 2026. Digital certificates will be available online within 24 hours of results release. Physical certificates will be distributed to schools within 90 days of the exam's end.
+Registration closed August 30, 2026, after WAEC extended the original July 31 deadline twice. The exam itself runs approximately October 25 to December 20, 2026.
+
+---
+
+**How many subjects do I need to register for — 7 or 8?**
+
+It depends which country you're registering in — and this is a genuine difference, not conflicting information. In **Nigeria**, it's 8 minimum, 9 maximum — not 7, as many older guides (including an earlier version of this article) state. In **Ghana**, the rule is different: 4 core subjects plus 3–4 electives from one programme option, giving 7 to 8 total. Don't apply one country's number to the other.
+
+---
+
+**Is there really a one-time ₦4,000 WASSCE verification fee?**
+
+Yes, but it's not part of registering for or sitting the exam — it applies after you already have a result and are applying to a Nigerian university. As of September 2, 2026, JAMB and WAEC jointly fixed a one-off ₦4,000 fee, paid once through the official JAMB Verification Service platform, to verify your WASSCE/O'Level result for admission purposes. That verification is then shared with your target institution, so you shouldn't be charged separately by the institution itself for the same check.
 
 ---
 
 **Is NIN mandatory for WAEC registration in Nigeria?**
 
-Yes, absolutely. The National Identification Number is mandatory for all Nigerian candidates and has been formally integrated into the registration process by federal government directive. You cannot register without one.
+Yes. The National Identification Number is mandatory for all Nigerian candidates and is built into the registration process by federal government directive. You cannot register without one.
 
 ---
 
@@ -303,38 +318,36 @@ C6 (50–54%) is the minimum credit. Most university admissions in Nigeria and G
 
 ---
 
-**How do I get the official 2026 WASSCE syllabus?**
+**How do I get the official WASSCE syllabus?**
 
 Go to **waeconline.org.ng** and use your Registration PIN to access and download the official e-Syllabus for any subject. It is free and far more reliable than any third-party PDF you might find circulating online.
 
 ---
 
-**What happened with the 2025 technical glitches — will it happen again?**
+**Is it true fees are rising to ₦50,000 for 2027?**
 
-In 2025, WAEC temporarily withheld some results due to issues with the paper serialisation system. At the May 2026 briefing, Dangut confirmed all identified problems have been resolved and that the council does not expect a repeat.
+That was proposed, not finalised. WAEC requested the increase (from ₦27,500 to ₦50,000, alongside a matching rise for NECO) and the Federal Ministry of Education briefly approved it in June 2026 for the 2027 cycle. Public backlash led the Ministry to withdraw that approval in July 2026 pending consultation. No replacement fee has been announced as of this update — treat any specific 2027 fee figure you see online as unconfirmed. Full detail in our [WASSCE 2027 guide](/blog/wassce-2027-complete-guide).
 
 ---
 
 **What should I do if there is insecurity near my exam centre?**
 
-WAEC is collaborating with the Nigeria Police Force, other security agencies, and state governments across all centres. In high-risk areas, school owners and state governments have been advised to relocate candidates to safer venues. If you have a specific concern, contact your school administration or the nearest WAEC state office before exam day.
+WAEC collaborates with the Nigeria Police Force, other security agencies, and state governments across all centres. In high-risk areas, school owners and state governments have been advised to relocate candidates to safer venues. If you have a specific concern, contact your school administration or the nearest WAEC state office before exam day.
 
 ---
 
 ## A Final Word
 
-Nearly two million students are sitting this exam.
+Nearly two million students sat this exam.
 
-Two million people with the same timetable, the same syllabus, and the same quiet anxiety that arrives sometime around midnight when you are not sure you have done enough.
+Two million people who shared the same timetable, the same syllabus, and the same quiet anxiety that arrives sometime around midnight when you're not sure you've done enough. In the end, 61.54% of them walked away with the five credits they needed — a genuinely large improvement on the year before.
 
 The difference between those who get their five credits and those who come back to try again is almost never about intelligence. It is almost always about preparation quality and consistency — and about not wasting energy on misinformation that was never true to begin with.
 
-You now have the accurate dates. You have the correct fees. You know what CBT means for your specific situation and what the examiners are actually looking for. You know the mistakes that cost marks every single year — and you know about them before you sit down to the paper, not after you walk out.
+If you're now checking a result, preparing for the GCE 2nd Series, or getting a head start on WASSCE 2027, you have what you need on this page to move forward with facts instead of rumours. For the next cycle specifically — including the still-unresolved fee situation and the confirmed subject-count rule — see our [WASSCE 2027 guide](/blog/wassce-2027-complete-guide).
 
-That is more than most people going in alongside you have.
-
-Go study.
+Go study. Or, if you're already past that part: go check your result.
 
 ---
 
-*Sources: WAEC Nigeria Official Press Briefing, May 11, 2026 (Amos Josiah Dangut, Head of Nigeria National Office); Official WASSCE 2026 Final Timetable (WAEC, March 2026); WAEC Nigeria Official Poster — WASSCE for Private Candidates 2026, Second Series; Punch Newspapers; Nigeria Info FM.*
+*Sources: WAEC Nigeria Official Press Briefing, May 11, 2026 (Amos Josiah Dangut, Head of Nigeria National Office); Official WASSCE 2026 Final Timetable (WAEC); WAEC Nigeria's official results announcement, August 5, 2026; WAEC GCE 2nd Series 2026 registration announcements; Federal Ministry of Education statement on the WAEC/NECO fee-hike suspension, July 2026; WAEC Nigeria eligibility guidance (waecnigeria.org); WAEC Ghana examination guidance (waecgh.org); JAMB/WAEC joint statement on O'Level result verification, September 2026; reporting from The Guardian (Nigeria), Channels Television, Punch Newspapers, Nairametrics, Legit.ng, and Vanguard.*
