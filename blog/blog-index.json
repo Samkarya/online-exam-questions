@@ -68,8 +68,9 @@
     "title": "FBLA Introduction to Marketing Concepts: The Complete 2026 Study Guide",
     "type": "blog",
     "date": "2026-04-04",
+    "dateModified": "2026-09-06",
     "author": "ExamOven Team",
-    "excerpt": "50 minutes, 100 questions, a shot at nationals — everything you need to score big on FBLA's Introduction to Marketing Concepts, backed by the official 2025–2026 guidelines.",
+    "excerpt": "50 minutes, 100 questions, a shot at nationals — the 8-area official blueprint with worked concept breakdowns and study strategies that work. Corrected and fact-checked September 2026.",
     "tags": ["FBLA", "Business Competition", "Marketing Fundamentals", "Exam Prep"],
     "mdFilePath": "/blog/fbla-intro-marketing-2026.md",
     "targetExamId": "fbla-intro-marketing"
@@ -314,5 +315,17 @@
     "tags": ["JEE Main", "NTA", "Engineering Entrance", "Exam Prep"],
     "mdFilePath": "/blog/jee-main-2027-complete-guide.md",
     "targetExamId": "jee"
+  },
+  {
+    "slug": "fbla-intro-marketing-2027",
+    "title": "FBLA Introduction to Marketing Concepts 2027: NLC Columbus Dates, Membership Deadlines & Season Timeline",
+    "type": "blog",
+    "date": "2026-09-06",
+    "dateModified": "2026-09-06",
+    "author": "ExamOven Team",
+    "excerpt": "FBLA's 2026-2027 competitive events guidelines are live. Confirmed: NLC 2027 is June 23-26 in Columbus, Ohio, plus the March 1, 2027 membership deadline, the state-by-state SLC timeline, and a month-by-month prep calendar.",
+    "tags": ["FBLA", "Marketing Fundamentals", "Exam Prep", "National Leadership Conference"],
+    "mdFilePath": "/blog/fbla-intro-marketing-2027.md",
+    "targetExamId": "fbla-intro-marketing"
   }
 ]
