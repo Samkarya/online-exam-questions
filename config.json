@@ -589,9 +589,9 @@
     "description": "The BACE is a nationally recognised industry credential administered by Biotility at the University of Florida that validates the core theoretical knowledge and practical lab competencies of entry-level biotechnology technicians. It covers eight categories across a Knowledge and Practical portion, is developed to ISO/IEC 17024 standards, and is formally adopted as a state-recognised credential in 20 states and Washington D.C. — with active use, short of formal adoption, in 17 additional states. The credential is valid for five years from the date of passing.",
     "officialWebsite": "https://biotility.research.ufl.edu",
     "isOfficial": false,
-    "lastUpdated": "2026-07-20",
-    "seoTitle": "BACE Practice Exam 2026: Certification Study Guide & Questions",
-    "seoDescription": "Prepare for the 2026 BACE (Biotechnician Assistant Credentialing Exam) with free practice questions, a complete study guide, and pass rate info.",
+    "lastUpdated": "2026-09-07",
+    "seoTitle": "BACE Practice Exam 2026-2027: Certification Study Guide & Questions",
+    "seoDescription": "Prepare for the BACE (Biotechnology Aptitude and Competency Exam) with free practice questions, a complete study guide, and pass rate info for the 2026-2027 cycle.",
     "relatedBlogTags": [
       "BACE",
       "Biotility",
@@ -607,21 +607,23 @@
     ],
     "importantDates": [
       { "event": "AY 2025-2026 First-Attempt Testing Window", "date": "Closed July 15, 2026", "status": "past" },
-      { "event": "AY 2025-2026 Retake Order Deadline", "date": "July 27, 2026", "status": "upcoming" },
-      { "event": "AY 2025-2026 Retake Testing Window Closes", "date": "August 10, 2026", "status": "upcoming" },
-      { "event": "AY 2026-2027 Exam Site Registration (Expected)", "date": "Opens ~September 2026 (based on prior-year pattern)", "status": "upcoming" },
+      { "event": "AY 2025-2026 Retake Order Deadline", "date": "July 27, 2026", "status": "past" },
+      { "event": "AY 2025-2026 Retake Testing Window Closes (Cycle Fully Closed)", "date": "August 10, 2026", "status": "past" },
+      { "event": "AY 2026-2027 Exam Site Registration Opens (Confirmed)", "date": "September 21, 2026", "status": "upcoming" },
+      { "event": "AY 2026-2027 Updated Candidate Information Bulletin & Exam Specifications Published", "date": "September 21, 2026", "status": "upcoming" },
       { "event": "Remote Testing Option (Individual/ProctorU)", "date": "Available On-Demand, Year-Round", "status": "ongoing" },
       { "event": "Paper Option Retired", "date": "As of Fall 2025", "status": "past" }
     ],
     "officialLinks": [
       { "label": "Official BACE Information (Biotility)", "url": "https://biotility.research.ufl.edu/biotech-industry-credentials/bace/" },
       { "label": "UF e-Learning Free Prep Course & Registration", "url": "https://reg.pwd.aa.ufl.edu/search/publicCourseSearchDetails.do?method=load&courseId=1908292" },
-      { "label": "BACE FAQ (Biotility)", "url": "https://biotility.research.ufl.edu/biotech-industry-credentials/bace/faq-your-questions-answered/" }
+      { "label": "BACE FAQ (Biotility)", "url": "https://biotility.research.ufl.edu/biotech-industry-credentials/bace/faq-your-questions-answered/" },
+      { "label": "BACE Exam Site Support Hub (AY Calendar & Deadlines)", "url": "https://biotility.research.ufl.edu/biotech-industry-credentials/bace/exam-site-support-hub/" }
     ],
     "keyFacts": [
       {
         "label": "Frequency",
-        "value": "Exam Sites test on an academic-year calendar (AY 2025-2026 first-attempt testing closed July 15, 2026; retakes due by August 10, 2026); the Remote Testing Option via ProctorU is available on-demand year-round regardless of that calendar"
+        "value": "Exam Sites test on an academic-year calendar. AY 2025-2026 is fully closed (first-attempt testing ended July 15, 2026; retakes closed August 10, 2026). AY 2026-2027 Exam Site Registration opens September 21, 2026. The Remote Testing Option via ProctorU is available on-demand year-round regardless of that calendar"
       },
       {
         "label": "Mode",
@@ -774,7 +776,7 @@
       },
       {
         "question": "Is the BACE accepted nationally across the USA?",
-        "answer": "Yes. As of mid-2026, the BACE is formally adopted as a state-recognised Industry-Recognized Credential in 20 states and Washington D.C. (Washington, Oregon, Arizona, Colorado, Kansas, Oklahoma, Texas, Iowa, Missouri, Arkansas, Michigan, Ohio, Tennessee, Alabama, West Virginia, Virginia, Maryland, D.C., South Carolina, Georgia, and Florida), and it's also in active use — without formal state adoption — in 17 more states, including California, New York, Pennsylvania, and North Carolina. That's 37 states plus D.C. in total. It's supported by national organisations including InnovATEBIO, NIIMBL, and BioFlorida, and recognized by 85+ biotechnology companies nationwide."
+        "answer": "Yes. As of September 2026, the BACE is formally adopted as a state-recognised Industry-Recognized Credential in 20 states and Washington D.C. (Washington, Oregon, Arizona, Colorado, Kansas, Oklahoma, Texas, Iowa, Missouri, Arkansas, Michigan, Ohio, Tennessee, Alabama, West Virginia, Virginia, Maryland, D.C., South Carolina, Georgia, and Florida), and it's also in active use — without formal state adoption — in 17 more states, including California, New York, Pennsylvania, and North Carolina. That's 37 states plus D.C. in total. It's supported by national organisations including InnovATEBIO, NIIMBL, and BioFlorida, and recognized by 85+ biotechnology companies nationwide."
       },
       {
         "question": "Can I take the BACE remotely?",

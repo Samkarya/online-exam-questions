@@ -190,13 +190,18 @@
   },
   {
     "slug": "bace-exam-guide",
-    "title": "BACE Exam 2026: Certification Study Guide, Practice Tests & Pass Rate",
+    "title": "BACE Exam Guide 2026–2027: Certification Study Guide, Practice Tests & Pass Rate",
     "type": "blog",
     "date": "2026-06-27",
-    "dateModified": "2026-07-19",
+    "dateModified": "2026-09-07",
     "author": "ExamOven Team",
-    "excerpt": "Everything about the Biotechnician Assistant Credentialing Exam (BACE): 116 practice questions, 80% passing score, pass rate details, 8 topic categories, and study guide tips.",
-    "tags": ["BACE", "Biotility", "Biotechnology Certification", "Exam Prep"],
+    "excerpt": "Everything about the Biotechnology Aptitude and Competency Exam (BACE): 116 practice questions, 80% passing score, pass rate details, 8 topic categories, fees, and study guide tips — fact-checked September 2026.",
+    "tags": [
+      "BACE",
+      "Biotility",
+      "Biotechnology Certification",
+      "Exam Prep"
+    ],
     "mdFilePath": "/blog/bace-exam-guide.md",
     "targetExamId": "bace"
   },
@@ -327,5 +332,19 @@
     "tags": ["FBLA", "Marketing Fundamentals", "Exam Prep", "National Leadership Conference"],
     "mdFilePath": "/blog/fbla-intro-marketing-2027.md",
     "targetExamId": "fbla-intro-marketing"
+  },
+  {
+    "slug": "bace-exam-dates-2027",
+    "title": "BACE Exam Dates 2026–2027: Exam Site Registration, Deadlines & What's Changed",
+    "type": "blog",
+    "date": "2026-09-07",
+    "dateModified": "2026-09-07",
+    "author": "ExamOven Team",
+    "excerpt": "AY 2026–2027 Exam Site Registration for the BACE opens September 21, 2026 — later than the last three cycles. The confirmed calendar, the historical pattern for what's not yet announced, and separate timelines for Exam Sites vs. individual Remote Testing Option candidates.",
+    "tags": [
+      "BACE","bace exam dates","bace registration 2027","biotechnology aptitude and competency exam","Biotility","Exam Prep"
+    ],
+    "mdFilePath": "/blog/bace-exam-dates-2027.md",
+    "targetExamId": "bace"
   }
 ]
