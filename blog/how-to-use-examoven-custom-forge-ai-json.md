@@ -12,7 +12,7 @@ Preparing for a standardized test is one thing, but what happens when you need t
 
 You need a way to turn *your* specific study materials into a realistic testing environment. 
 
-Welcome to **The Custom Forge**—ExamOven’s powerful, 100% local workshop designed to let you build your own custom exams in seconds. Whether you have an existing JSON question bank or you want to use advanced AI (like ChatGPT or Claude) to generate a hyper-specific test from your textbook notes, the Forge handles it all with zero surveillance and 100% privacy.
+Welcome to **The Custom Forge**-ExamOven’s powerful, 100% local workshop designed to let you build your own custom exams in seconds. Whether you have an existing JSON question bank or you want to use advanced AI (like ChatGPT or Claude) to generate a hyper-specific test from your textbook notes, the Forge handles it all with zero surveillance and 100% privacy.
 
 </section>
 

@@ -124,7 +124,7 @@
     },
     "correct_answer": "b",
     "difficulty": "Medium",
-    "explanation": "**Pharmacogenomics** is the study of how an individual's unique genetic makeup influences their physiological response to medications. \n\nBecause different patients have different alleles for liver enzymes (like the Cytochrome P450 family), they process drugs at different speeds. By analyzing the genes beforehand, doctors can customize the dosage—moving away from \"one-size-fits-all\" medicine to precision medicine. \n> *Gene therapy* (Option 'a') actively alters the patient's DNA to cure disease.",
+    "explanation": "**Pharmacogenomics** is the study of how an individual's unique genetic makeup influences their physiological response to medications. \n\nBecause different patients have different alleles for liver enzymes (like the Cytochrome P450 family), they process drugs at different speeds. By analyzing the genes beforehand, doctors can customize the dosage-moving away from \"one-size-fits-all\" medicine to precision medicine. \n> *Gene therapy* (Option 'a') actively alters the patient's DNA to cure disease.",
     "section_id": null
   },
   {
@@ -188,7 +188,7 @@
     },
     "correct_answer": "b",
     "difficulty": "Hard",
-    "explanation": "This is a fundamental hurdle in recombinant biomanufacturing. Human (eukaryotic) genes contain **introns**—vast stretches of non-coding \"junk\" DNA nested inside the functional gene. \n\nEukaryotic cells transcribe everything into pre-mRNA and then use complex spliceosomes to cut out the introns before translation. **Bacteria (prokaryotes) do not possess introns or splicing machinery**. If you insert raw human genomic DNA into *E. coli*, it will translate the introns alongside the exons, resulting in a massively mutated, useless protein. To fix this, scientists must use synthetic **cDNA** (where the introns have already been reverse-transcribed out) when programming bacteria.",
+    "explanation": "This is a fundamental hurdle in recombinant biomanufacturing. Human (eukaryotic) genes contain **introns**-vast stretches of non-coding \"junk\" DNA nested inside the functional gene. \n\nEukaryotic cells transcribe everything into pre-mRNA and then use complex spliceosomes to cut out the introns before translation. **Bacteria (prokaryotes) do not possess introns or splicing machinery**. If you insert raw human genomic DNA into *E. coli*, it will translate the introns alongside the exons, resulting in a massively mutated, useless protein. To fix this, scientists must use synthetic **cDNA** (where the introns have already been reverse-transcribed out) when programming bacteria.",
     "section_id": null
   },
   {
@@ -204,7 +204,7 @@
     },
     "correct_answer": "b",
     "difficulty": "Easy",
-    "explanation": "**Reverse Transcriptase** is an enzyme naturally found in retroviruses (like HIV). \n\nAs its name implies, it performs \"reverse transcription\"—reading an RNA molecule and building a complementary strand of DNA (cDNA). Biotechnologists use this enzyme extensively in RT-PCR to capture eukaryotic mRNA and lock it into stable DNA format for analysis or biomanufacturing. \n> *Ligase* (Option 'a') seals nicks in DNA. \n> *RNA Polymerase* (Option 'c') performs standard transcription (DNA $\\rightarrow$ RNA). \n> *Helicase* (Option 'd') unwinds the double helix.",
+    "explanation": "**Reverse Transcriptase** is an enzyme naturally found in retroviruses (like HIV). \n\nAs its name implies, it performs \"reverse transcription\"-reading an RNA molecule and building a complementary strand of DNA (cDNA). Biotechnologists use this enzyme extensively in RT-PCR to capture eukaryotic mRNA and lock it into stable DNA format for analysis or biomanufacturing. \n> *Ligase* (Option 'a') seals nicks in DNA. \n> *RNA Polymerase* (Option 'c') performs standard transcription (DNA $\\rightarrow$ RNA). \n> *Helicase* (Option 'd') unwinds the double helix.",
     "section_id": null
   },
   {
@@ -291,7 +291,7 @@
     "question_number": 19,
     "subject": "Biotechnology",
     "topic": "Key milestones and pioneering scientists",
-    "question_text": "Which scientist was awarded the Nobel Prize in Chemistry for conceptualizing the Polymerase Chain Reaction (PCR) in 1983—a breakthrough that transformed molecular biology from a slow, painstaking process into a fast, exponential amplification system?",
+    "question_text": "Which scientist was awarded the Nobel Prize in Chemistry for conceptualizing the Polymerase Chain Reaction (PCR) in 1983-a breakthrough that transformed molecular biology from a slow, painstaking process into a fast, exponential amplification system?",
     "options": {
       "a": "Frederick Sanger",
       "b": "Rosalind Franklin",
@@ -332,7 +332,7 @@
     },
     "correct_answer": "a",
     "difficulty": "Hard",
-    "explanation": "The **Hershey-Chase blender experiment** provided the final, undeniable proof that DNA is the genetic material. \n\nBy labeling viral DNA with radioactive Phosphorus ($^{32}P$) and the viral protein coat with radioactive Sulfur ($^{35}S$), they infected bacteria and spun them in a centrifuge. They found only the $^{32}P$ (DNA) inside the bacterial cells, proving the virus injected DNA—not protein—to program the bacteria to build more viruses. \n> *Meselson-Stahl* (Option 'c') proved semi-conservative replication. \n> *Griffith/Avery* (Options 'b', 'd') showed DNA was the \"transforming principle\" earlier, but lacked the finality of Hershey-Chase.",
+    "explanation": "The **Hershey-Chase blender experiment** provided the final, undeniable proof that DNA is the genetic material. \n\nBy labeling viral DNA with radioactive Phosphorus ($^{32}P$) and the viral protein coat with radioactive Sulfur ($^{35}S$), they infected bacteria and spun them in a centrifuge. They found only the $^{32}P$ (DNA) inside the bacterial cells, proving the virus injected DNA-not protein-to program the bacteria to build more viruses. \n> *Meselson-Stahl* (Option 'c') proved semi-conservative replication. \n> *Griffith/Avery* (Options 'b', 'd') showed DNA was the \"transforming principle\" earlier, but lacked the finality of Hershey-Chase.",
     "section_id": null
   },
   {

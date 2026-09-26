@@ -364,7 +364,7 @@
     },
     "correct_answer": "b",
     "difficulty": "Easy",
-    "explanation": "Mr. Okafor's careful recording of purchases and demanding of receipts demonstrates accountability—taking responsibility for the use of funds.",
+    "explanation": "Mr. Okafor's careful recording of purchases and demanding of receipts demonstrates accountability-taking responsibility for the use of funds.",
     "section_id": null
   },
   {
@@ -808,7 +808,7 @@
       "a": "Falling (↘)",
       "b": "Rising (↗)",
       "c": "Fall-Rise (↘↗)",
-      "d": "High flat (—)"
+      "d": "High flat (-)"
     },
     "correct_answer": "c",
     "difficulty": "Hard",

@@ -10,7 +10,7 @@ tags: ["ExamOven", "Local Exam Simulator", "Privacy", "Exam Prep", "Offline Stud
 
 Preparing for a high-stakes exam is stressful enough without the added burden of expensive subscriptions, intrusive proctoring, or platforms mining your personal data. Whether you are tackling the SATs, a medical board certification, or a technical coding interview, you need an environment where you can fail safely and improve rapidly.
 
-Welcome to **ExamOven**—the privacy-first "forge" for exam mastery. 
+Welcome to **ExamOven**-the privacy-first "forge" for exam mastery. 
 
 Most modern platforms treat students like products, tracking every click and eye movement. ExamOven flips the script by offering a **Local-First Architecture**, ensuring that your study habits and scores stay exactly where they belong: on your device.
 
@@ -116,7 +116,7 @@ Your performance metrics, time-stamps, and answer keys are saved to your browser
 
 <div style="background-color: #fff8e1; border-left: 5px solid #ffc107; padding: 20px; border-radius: 8px;">
   <strong>🔥 Pro-Tip for Power Users:</strong>
-  <p>Don't just take the test—analyze the heat map. After finishing a mock exam, go to the <strong>Results Dashboard</strong>. ExamOven generates a breakdown of your 'Time Per Question.' If you are spending >3 minutes on a 1-point question, our analytics will help you identify that pacing bottleneck before the real exam day.</p>
+  <p>Don't just take the test-analyze the heat map. After finishing a mock exam, go to the <strong>Results Dashboard</strong>. ExamOven generates a breakdown of your 'Time Per Question.' If you are spending >3 minutes on a 1-point question, our analytics will help you identify that pacing bottleneck before the real exam day.</p>
 </div>
 
 ### Ready to Step Into the Forge?

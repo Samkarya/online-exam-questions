@@ -124,7 +124,7 @@
     },
     "correct_answer": "c",
     "difficulty": "Medium",
-    "explanation": "Overhead costs represent ongoing business expenses not directly attributable to any single specific repair job—such as rent, basic electricity, and standard administrative software. These must be spread across all repairs to ensure actual profitability.",
+    "explanation": "Overhead costs represent ongoing business expenses not directly attributable to any single specific repair job-such as rent, basic electricity, and standard administrative software. These must be spread across all repairs to ensure actual profitability.",
     "section_id": null
   },
   {
@@ -620,7 +620,7 @@
     },
     "correct_answer": "c",
     "difficulty": "Medium",
-    "explanation": "An ultrasonic cleaner utilizes cavitation via high-frequency transducer sound waves transmitted through specialized chemical deoxidizing baths to ruthlessly shake microscopic mineral deposits, heavy corrosion, and dried syrup compounds out from under delicate SMD chips—an absolute requirement for reversing heavy motherboard liquid damage.",
+    "explanation": "An ultrasonic cleaner utilizes cavitation via high-frequency transducer sound waves transmitted through specialized chemical deoxidizing baths to ruthlessly shake microscopic mineral deposits, heavy corrosion, and dried syrup compounds out from under delicate SMD chips-an absolute requirement for reversing heavy motherboard liquid damage.",
     "section_id": null
   },
   {

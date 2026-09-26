@@ -258,7 +258,7 @@
   {
     "question_number": 17,
     "subject": "Geography",
-    "topic": "Elements of Physical Geography — The Earth",
+    "topic": "Elements of Physical Geography - The Earth",
     "question_text": "A radio station in Accra, Ghana (located on longitude $0^\\circ$) broadcasts a live sports event at $14:00$ GMT. At what local time will a listener in a town located at longitude $45^\\circ\\text{E}$ receive the live broadcast?",
     "options": {
       "a": "$11:00$ hours",
@@ -274,7 +274,7 @@
   {
     "question_number": 18,
     "subject": "Geography",
-    "topic": "Elements of Physical Geography — The Earth",
+    "topic": "Elements of Physical Geography - The Earth",
     "question_text": "The Earth undergoes both rotation and revolution. Which of the following natural phenomena is primarily caused by the Earth's **revolution** around the Sun, rather than its rotation on its axis?",
     "options": {
       "a": "The daily occurrence of day and night",
@@ -290,7 +290,7 @@
   {
     "question_number": 19,
     "subject": "Geography",
-    "topic": "Elements of Physical Geography — The Earth",
+    "topic": "Elements of Physical Geography - The Earth",
     "question_text": "The internal structure of the Earth is divided into concentric layers. The innermost layer, known as the core or barysphere, is characterized by very high temperatures and pressures. Which two chemical elements predominantly make up this layer?",
     "options": {
       "a": "Silica and aluminum (Sial)",
@@ -626,7 +626,7 @@
   {
     "question_number": 40,
     "subject": "Geography",
-    "topic": "Climate — Elements",
+    "topic": "Climate - Elements",
     "question_text": "In Wladimir Köppen's empirical classification of climate, the letter combination **Aw** is used to designate which of the following major climate types, which covers a vast portion of the West African hinterland (including the middle belt of Nigeria)?",
     "options": {
       "a": "Equatorial (Tropical Rainforest) climate",
@@ -642,7 +642,7 @@
   {
     "question_number": 41,
     "subject": "Geography",
-    "topic": "Climate — Elements",
+    "topic": "Climate - Elements",
     "question_text": "Which of the following is a distinguishing characteristic of the Tropical Continental (Savanna) climate commonly experienced in the northern parts of Nigeria and Ghana?",
     "options": {
       "a": "A double maxima of rainfall with no distinct dry season.",
@@ -658,7 +658,7 @@
   {
     "question_number": 42,
     "subject": "Geography",
-    "topic": "Climate — Elements",
+    "topic": "Climate - Elements",
     "question_text": "The ancient Greek system of climate classification broadly divided the Earth's surface into three temperature-based latitudinal belts. According to this system, the belt that encompasses the entirety of West Africa, lying between the Tropic of Cancer and the Tropic of Capricorn, is known as the:",
     "options": {
       "a": "Frigid Zone",
@@ -674,7 +674,7 @@
   {
     "question_number": 43,
     "subject": "Geography",
-    "topic": "Climate — Classification",
+    "topic": "Climate - Classification",
     "question_text": "Which of the following anthropogenic (human-induced) activities is a primary contributor to the enhanced greenhouse effect, a major cause of global climate change?",
     "options": {
       "a": "Extensive afforestation projects in the Sahel region",
@@ -690,7 +690,7 @@
   {
     "question_number": 44,
     "subject": "Geography",
-    "topic": "Climate — Classification",
+    "topic": "Climate - Classification",
     "question_text": "In West Africa, one of the most severe ecological and economic effects of prolonged global climate change is the rapid southward expansion of dry, arid conditions from the Sahara into the Sahel and Sudan savanna belts. This environmental phenomenon is known as:",
     "options": {
       "a": "Desertification",
@@ -706,7 +706,7 @@
   {
     "question_number": 45,
     "subject": "Geography",
-    "topic": "Climate — Classification",
+    "topic": "Climate - Classification",
     "question_text": "Which of the following represents a viable biological remedy for mitigating the root cause of climate change by actively removing carbon dioxide ($\\text{CO}_2$) from the atmosphere?",
     "options": {
       "a": "Increasing the use of chlorofluorocarbons (CFCs) in industrial refrigeration",
@@ -739,7 +739,7 @@
     "question_number": 47,
     "subject": "Geography",
     "topic": "Vegetation",
-    "question_text": "The extensive transition of Tropical Grassland (Savanna) vegetation in West Africa—from the dense Guinea Savanna in the south to the sparse Sahel Savanna in the north—is primarily controlled by which climatic factor?",
+    "question_text": "The extensive transition of Tropical Grassland (Savanna) vegetation in West Africa-from the dense Guinea Savanna in the south to the sparse Sahel Savanna in the north-is primarily controlled by which climatic factor?",
     "options": {
       "a": "The steady increase in atmospheric humidity towards the continental interior.",
       "b": "The continuous drop in mean annual temperatures as latitude increases.",
@@ -914,7 +914,7 @@
   {
     "question_number": 58,
     "subject": "Geography",
-    "topic": "The environment — Environmental problems/hazards",
+    "topic": "The environment - Environmental problems/hazards",
     "question_text": "Which of the following environmental hazards is defined as a prolonged and abnormal moisture deficiency, caused by a significant deficit in expected rainfall, which frequently devastates agricultural yields in the Sahel region of West Africa?",
     "options": {
       "a": "Desert encroachment",
@@ -930,7 +930,7 @@
   {
     "question_number": 59,
     "subject": "Geography",
-    "topic": "The environment — Environmental problems/hazards",
+    "topic": "The environment - Environmental problems/hazards",
     "question_text": "In major urban settlements across Nigeria and Ghana, such as Lagos and Accra, devastating seasonal flooding is heavily exacerbated by which of the following anthropogenic (human-induced) factors?",
     "options": {
       "a": "The excessive afforestation of coastal shorelines",
@@ -946,7 +946,7 @@
   {
     "question_number": 60,
     "subject": "Geography",
-    "topic": "The environment — Environmental problems/hazards",
+    "topic": "The environment - Environmental problems/hazards",
     "question_text": "What is the primary ecological effect of large-scale crude oil spillage on the marine and riverine environments of the Niger Delta?",
     "options": {
       "a": "It creates a thick surface slick that blocks atmospheric oxygen and sunlight, suffocating aquatic life.",
@@ -962,7 +962,7 @@
   {
     "question_number": 61,
     "subject": "Geography",
-    "topic": "The environment — Environmental problems/hazards",
+    "topic": "The environment - Environmental problems/hazards",
     "question_text": "To effectively halt the continuous southward advance of the Sahara Desert into the northern regions of Nigeria and Senegal, which of the following preventative measures is most scientifically viable and heavily promoted by governments?",
     "options": {
       "a": "Constructing massive concrete retaining walls along the international borders",
@@ -972,7 +972,7 @@
     },
     "correct_answer": "b",
     "difficulty": "Medium",
-    "explanation": "The most effective long-term defense against **desert encroachment** (desertification) is **afforestation**—the planting of trees to form greenbelts (such as the African Great Green Wall initiative). Trees act as windbreaks to reduce the velocity of the erosive Harmattan winds, while their root systems bind the fragile sandy soils, retaining soil moisture and restoring the micro-climate.",
+    "explanation": "The most effective long-term defense against **desert encroachment** (desertification) is **afforestation**-the planting of trees to form greenbelts (such as the African Great Green Wall initiative). Trees act as windbreaks to reduce the velocity of the erosive Harmattan winds, while their root systems bind the fragile sandy soils, retaining soil moisture and restoring the micro-climate.",
     "section_id": null
   },
   {
@@ -1026,7 +1026,7 @@
   {
     "question_number": 65,
     "subject": "Geography",
-    "topic": "The environment — Environmental conservation",
+    "topic": "The environment - Environmental conservation",
     "question_text": "Why is the conservation of natural watershed environments and forest reserves considered critically important to the hydrological cycle in West Africa?",
     "options": {
       "a": "It permanently halts the evaporation of moisture from adjacent ocean surfaces.",
@@ -1042,7 +1042,7 @@
   {
     "question_number": 66,
     "subject": "Geography",
-    "topic": "The environment — Environmental conservation",
+    "topic": "The environment - Environmental conservation",
     "question_text": "Which of the following methods is a direct legislative approach used by West African governments to enforce environmental conservation?",
     "options": {
       "a": "Encouraging shifting cultivation in primary tropical rainforests.",
@@ -1058,7 +1058,7 @@
   {
     "question_number": 67,
     "subject": "Geography",
-    "topic": "The environment — Environmental conservation",
+    "topic": "The environment - Environmental conservation",
     "question_text": "Environmental agencies in developing nations frequently struggle to successfully execute conservation policies. Which of the following represents a practical systemic solution to overcome the problems of ignorance and poor enforcement?",
     "options": {
       "a": "Privatizing all national parks for exclusive, unmonitored commercial logging.",

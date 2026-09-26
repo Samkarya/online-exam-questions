@@ -6,7 +6,7 @@ author: The ExamOven Team
 excerpt: Dominate the HOSA Forensic Science event with our 2025-2026 guide. Master the written test and case studies using official textbooks and ExamOven mock exams.
 tags: ["HOSA", "Forensic Science", "Study Guide", "Medical Competitions"]
 ---
-Imagine stepping behind the yellow police tape, analyzing physical evidence, and piecing together the final moments of a victim's life. This isn't a scene from a true-crime documentary—it is exactly what you will experience in the **HOSA Forensic Science** competitive event.
+Imagine stepping behind the yellow police tape, analyzing physical evidence, and piecing together the final moments of a victim's life. This isn't a scene from a true-crime documentary-it is exactly what you will experience in the **HOSA Forensic Science** competitive event.
 
 If you want to turn your fascination with investigation into a real-world, high-stakes skill, this competition is your ultimate testing ground. Designed for future medical and investigative professionals, the event challenges students to apply biology, chemistry, and criminalistics to solve complex mysteries.
 
@@ -70,7 +70,7 @@ HOSA does not pull questions from "common knowledge" or TV shows like *CSI*. All
 
 ### 3. DHO: Health Science (10th Edition)
 *   **Author:** Simmers
-*   **Why it matters:** New for the 2025–2026 cycle, this text is crucial for the medical side—anatomy, terminology, and legal/ethical aspects of healthcare that intersect with forensics.
+*   **Why it matters:** New for the 2025–2026 cycle, this text is crucial for the medical side-anatomy, terminology, and legal/ethical aspects of healthcare that intersect with forensics.
 
 ## The Science of Death: Key Concepts to Master
 

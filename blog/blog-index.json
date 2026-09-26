@@ -6,7 +6,14 @@
     "date": "2026-03-28",
     "author": "The ExamOven Team",
     "excerpt": "Discover ExamOven, the privacy-first 'forge' for exam mastery. Learn how our local-first architecture keeps your study data secure while providing professional-grade simulation tools.",
-    "tags": ["ExamOven", "Exam Simulator", "Privacy", "AI Tools", "Mock Tests", "Exam Prep"],
+    "tags": [
+      "ExamOven",
+      "Exam Simulator",
+      "Privacy",
+      "AI Tools",
+      "Mock Tests",
+      "Exam Prep"
+    ],
     "mdFilePath": "/blog/what-is-examoven-local-exam-simulator.md"
   },
   {
@@ -16,7 +23,14 @@
     "date": "2026-03-28",
     "author": "The ExamOven Team",
     "excerpt": "Learn how to turn any textbook or notes into a private, local mock exam using ExamOven's Custom Forge and AI-generated JSON files.",
-    "tags": ["ExamOven", "Exam Simulator", "Privacy", "AI Tools", "Mock Tests", "Exam Prep"],
+    "tags": [
+      "ExamOven",
+      "Exam Simulator",
+      "Privacy",
+      "AI Tools",
+      "Mock Tests",
+      "Exam Prep"
+    ],
     "mdFilePath": "/blog/how-to-use-examoven-custom-forge-ai-json.md"
   },
   {
@@ -26,7 +40,12 @@
     "date": "2026-03-28",
     "author": "The ExamOven Team",
     "excerpt": "Dominate the HOSA Forensic Science event. Get the 2025-2026 guidelines, textbook breakdowns, and take free Round 1 mock exams on ExamOven.",
-    "tags": ["HOSA", "Health Science Competition", "Forensic Science", "Exam Prep"],
+    "tags": [
+      "HOSA",
+      "Health Science Competition",
+      "Forensic Science",
+      "Exam Prep"
+    ],
     "mdFilePath": "/blog/hosa-forensic-science-study-guide-2026.md",
     "targetExamId": "hosa-forensic-science"
   },
@@ -37,7 +56,12 @@
     "date": "2026-03-28",
     "author": "The ExamOven Team",
     "excerpt": "Dominate the HOSA Nutrition event with our 2025-2026 guide. Master the 50-question exam, the clinical tie-breaker essay, and the official textbooks with our proven study plan.",
-    "tags": ["HOSA", "Health Science Competition", "Nutrition Science", "Exam Prep"],
+    "tags": [
+      "HOSA",
+      "Health Science Competition",
+      "Nutrition Science",
+      "Exam Prep"
+    ],
     "mdFilePath": "/blog/hosa-nutrition-event-study-guide-2026.md",
     "targetExamId": "hosa-nutrition"
   },
@@ -48,7 +72,11 @@
     "date": "2026-03-28",
     "author": "Tim Penulis Edukasi",
     "excerpt": "Kuasai materi PJOK Kelas 5 SD Kurikulum Merdeka. Panduan mendalam mengenai teknik bola besar, atletik, senam irama, hingga persiapan ujian praktik dan teori untuk nilai rapor sempurna.",
-    "tags": ["PJOK", "School Exams", "Study Guides"],
+    "tags": [
+      "PJOK",
+      "School Exams",
+      "Study Guides"
+    ],
     "mdFilePath": "/blog/panduan-lengkap-materi-ujian-pjok-kelas-5-kurikulum-merdeka-2026.md",
     "targetExamId": "pjok-kelas-5"
   },
@@ -59,7 +87,12 @@
     "date": "2026-03-31",
     "author": "The ExamOven Team",
     "excerpt": "Preparing for the Certified Professional Public Buyer (CPPB) exam? Discover 2026 test dates, eligibility rules, the updated BoK-C syllabus, and study strategies to pass on your first try.",
-    "tags": ["CPPB", "Public Procurement", "Government Purchasing", "UPPCC"],
+    "tags": [
+      "CPPB",
+      "Public Procurement",
+      "Government Purchasing",
+      "UPPCC"
+    ],
     "mdFilePath": "/blog/cppb-exam-guide-2026.md",
     "targetExamId": "cppb"
   },
@@ -70,8 +103,13 @@
     "date": "2026-04-04",
     "dateModified": "2026-09-06",
     "author": "ExamOven Team",
-    "excerpt": "50 minutes, 100 questions, a shot at nationals — the 8-area official blueprint with worked concept breakdowns and study strategies that work. Corrected and fact-checked September 2026.",
-    "tags": ["FBLA", "Business Competition", "Marketing Fundamentals", "Exam Prep"],
+    "excerpt": "50 minutes, 100 questions, a shot at nationals - the 8-area official blueprint with worked concept breakdowns and study strategies that work. Corrected and fact-checked September 2026.",
+    "tags": [
+      "FBLA",
+      "Business Competition",
+      "Marketing Fundamentals",
+      "Exam Prep"
+    ],
     "mdFilePath": "/blog/fbla-intro-marketing-2026.md",
     "targetExamId": "fbla-intro-marketing"
   },
@@ -82,18 +120,30 @@
     "date": "2026-04-05",
     "author": "ExamOven Team",
     "excerpt": "Get all the details on the 2026 NECO BECE (JSS3 exams) including official timetable dates, syllabus requirements, registration deadlines, and grading system.",
-    "tags": ["WAEC", "NECO", "BECE", "Junior WAEC", "Nigerian Education", "Exam Prep"],
+    "tags": [
+      "WAEC",
+      "NECO",
+      "BECE",
+      "Junior WAEC",
+      "Nigerian Education",
+      "Exam Prep"
+    ],
     "mdFilePath": "/blog/neco-bece-2026-complete-guide.md",
     "targetExamId": "bece"
   },
   {
     "slug": "ielts-2026-complete-guide",
-    "title": "IELTS 2026: The Only Guide You Need — Dates, Fees, Syllabus & the Big Format Change",
+    "title": "IELTS 2026: The Only Guide You Need - Dates, Fees, Syllabus & the Big Format Change",
     "type": "blog",
     "date": "2026-04-06",
     "author": "ExamOven Team",
-    "excerpt": "Everything you need to know about IELTS in 2026 — including the biggest format change in 35 years, updated fees, syllabus, and a structured prep plan.",
-    "tags": ["IELTS", "English Proficiency", "Study Abroad", "Exam Prep"],
+    "excerpt": "Everything you need to know about IELTS in 2026 - including the biggest format change in 35 years, updated fees, syllabus, and a structured prep plan.",
+    "tags": [
+      "IELTS",
+      "English Proficiency",
+      "Study Abroad",
+      "Exam Prep"
+    ],
     "mdFilePath": "/blog/ielts-2026-complete-guide.md",
     "targetExamId": "ielts"
   },
@@ -105,7 +155,12 @@
     "dateModified": "2026-09-04",
     "author": "ExamOven Team",
     "excerpt": "CAT 2026 registration is open now through September 15. Confirmed exam date, convener, fee (which went up this year), eligibility, syllabus, and a phased preparation strategy.",
-    "tags": ["CAT","MBA Entrance","IIM","Exam Prep"],
+    "tags": [
+      "CAT",
+      "MBA Entrance",
+      "IIM",
+      "Exam Prep"
+    ],
     "mdFilePath": "/blog/cat-2026-complete-guide.md",
     "targetExamId": "cat"
   },
@@ -116,7 +171,12 @@
     "date": "2026-04-19",
     "author": "ExamOven",
     "excerpt": "The ACT changed significantly in 2025. If you're prepping with old materials, you could be drilling for a test that no longer exists. Here's what's actually true today.",
-    "tags": ["ACT", "College Admissions", "Standardized Testing", "Exam Prep"],
+    "tags": [
+      "ACT",
+      "College Admissions",
+      "Standardized Testing",
+      "Exam Prep"
+    ],
     "mdFilePath": "/blog/act-2026-updated-guide.md",
     "targetExamId": "act"
   },
@@ -127,8 +187,13 @@
     "date": "2026-04-21",
     "dateModified": "2026-07-19",
     "author": "ExamOven",
-    "excerpt": "5,294 deliberated, 1,648 admitted in 2025 (31%). Everything about the ARES concours médecine Belgique 2026 — August 27 exam date, 80 MCQs on 160 pts, confirmed negative marking, non-resident quota, syllabus, and preparation strategy.",
-    "tags": ["Concours Médecine Belgique", "ARES FWB", "Études de Médecine", "Préparation Concours"],
+    "excerpt": "5,294 deliberated, 1,648 admitted in 2025 (31%). Everything about the ARES concours médecine Belgique 2026 - August 27 exam date, 80 MCQs on 160 pts, confirmed negative marking, non-resident quota, syllabus, and preparation strategy.",
+    "tags": [
+      "Concours Médecine Belgique",
+      "ARES FWB",
+      "Études de Médecine",
+      "Préparation Concours"
+    ],
     "mdFilePath": "/blog/belgium-medicine-dentistry-exam-2026.md",
     "targetExamId": "examen_médical_et_dentaire"
   },
@@ -138,8 +203,14 @@
     "type": "blog",
     "date": "2026-07-08",
     "author": "ExamOven",
-    "excerpt": "Everything you need for the 2026 LSO P1 Paralegal Licensing Exam — confirmed fees ($1,460 + HST), exam dates, format, permitted materials, and a study strategy that actually works. Fact-checked July 2026.",
-    "tags": ["LSO", "Paralegal", "P1 Exam", "Law Society of Ontario", "Ontario Licensing"],
+    "excerpt": "Everything you need for the 2026 LSO P1 Paralegal Licensing Exam - confirmed fees ($1,460 + HST), exam dates, format, permitted materials, and a study strategy that actually works. Fact-checked July 2026.",
+    "tags": [
+      "LSO",
+      "Paralegal",
+      "P1 Exam",
+      "Law Society of Ontario",
+      "Ontario Licensing"
+    ],
     "mdFilePath": "/blog/lso-paralegal-licensing-exam-2026.md",
     "targetExamId": "lso_paralegal"
   },
@@ -150,8 +221,15 @@
     "date": "2026-05-03",
     "dateModified": "2026-08-10",
     "author": "ExamOven Team",
-    "excerpt": "Looking for the best exam simulation tool? We tested 10 platforms — free vs. paid, login required or not. ExamOven ranks #1 for no-login, distraction-free practice. See the full comparison.",
-    "tags": ["ExamOven", "Exam Simulator", "Privacy", "AI Tools", "Mock Tests", "Exam Prep"],
+    "excerpt": "Looking for the best exam simulation tool? We tested 10 platforms - free vs. paid, login required or not. ExamOven ranks #1 for no-login, distraction-free practice. See the full comparison.",
+    "tags": [
+      "ExamOven",
+      "Exam Simulator",
+      "Privacy",
+      "AI Tools",
+      "Mock Tests",
+      "Exam Prep"
+    ],
     "mdFilePath": "/blog/exam-simulator-mock-exam-2026.md"
   },
   {
@@ -160,8 +238,15 @@
     "type": "blog",
     "date": "2026-05-13",
     "author": "ExamOven Team",
-    "excerpt": "Looking for a free mock test that explains wrong answers — for any exam, no login needed? Here's an honest comparison and exactly how to build your own.",
-    "tags": ["ExamOven", "Exam Simulator", "Privacy", "AI Tools", "Mock Tests", "Exam Prep"],
+    "excerpt": "Looking for a free mock test that explains wrong answers - for any exam, no login needed? Here's an honest comparison and exactly how to build your own.",
+    "tags": [
+      "ExamOven",
+      "Exam Simulator",
+      "Privacy",
+      "AI Tools",
+      "Mock Tests",
+      "Exam Prep"
+    ],
     "mdFilePath": "/blog/free-mini-mock-test-with-explanations.md"
   },
   {
@@ -171,20 +256,35 @@
     "date": "2026-05-14",
     "dateModified": "2026-09-04",
     "author": "ExamOven Team",
-    "excerpt": "WASSCE 2026 results are out: 61.54% of candidates got five credits, up from 38.32% in 2025. Here's the full recap — verified exam dates, the real GCE 2nd Series fee (₦27,500, not ₦37,500), CBT numbers, and what to check now that results are released. Planning ahead? See our WASSCE 2027 guide.",
-    "tags": ["WASSCE", "WASSCE Results", "WAEC Nigeria", "WAEC GCE", "CB-WASSCE", "Exam Dates", "Study Tips"],
+    "excerpt": "WASSCE 2026 results are out: 61.54% of candidates got five credits, up from 38.32% in 2025. Here's the full recap - verified exam dates, the real GCE 2nd Series fee (₦27,500, not ₦37,500), CBT numbers, and what to check now that results are released. Planning ahead? See our WASSCE 2027 guide.",
+    "tags": [
+      "WASSCE",
+      "WASSCE Results",
+      "WAEC Nigeria",
+      "WAEC GCE",
+      "CB-WASSCE",
+      "Exam Dates",
+      "Study Tips"
+    ],
     "mdFilePath": "/blog/wassce-2026-official-updates-cbt-dates-fees-guide.md",
     "targetExamId": "wassce"
   },
   {
     "slug": "wassce-2027-complete-guide",
-    "title": "WASSCE 2027: What's Confirmed, What's Still Unresolved — Dates, Fees & Subject Rules",
+    "title": "WASSCE 2027: What's Confirmed, What's Still Unresolved - Dates, Fees & Subject Rules",
     "type": "blog",
     "date": "2026-09-05",
     "dateModified": "2026-09-05",
     "author": "ExamOven Team",
     "excerpt": "WAEC hasn't released a 2027 timetable yet, but three things ARE already confirmed: the 8-subject minimum (not 7), which subjects count as \"core,\" and a fee-hike proposal that got suspended without a replacement. Here's what to act on now and what to keep watching.",
-    "tags": ["WASSCE 2027", "WAEC 2027", "WAEC GCE", "WAEC Fees", "Senior Secondary", "Exam Prep"],
+    "tags": [
+      "WASSCE 2027",
+      "WAEC 2027",
+      "WAEC GCE",
+      "WAEC Fees",
+      "Senior Secondary",
+      "Exam Prep"
+    ],
     "mdFilePath": "/blog/wassce-2027-complete-guide.md",
     "targetExamId": "wassce"
   },
@@ -195,7 +295,7 @@
     "date": "2026-06-27",
     "dateModified": "2026-09-07",
     "author": "ExamOven Team",
-    "excerpt": "Everything about the Biotechnology Aptitude and Competency Exam (BACE): 116 practice questions, 80% passing score, pass rate details, 8 topic categories, fees, and study guide tips — fact-checked September 2026.",
+    "excerpt": "Everything about the Biotechnology Aptitude and Competency Exam (BACE): 116 practice questions, 80% passing score, pass rate details, 8 topic categories, fees, and study guide tips - fact-checked September 2026.",
     "tags": [
       "BACE",
       "Biotility",
@@ -213,7 +313,12 @@
     "dateModified": "2026-07-19",
     "author": "ExamOven",
     "excerpt": "5 294 candidats, 1 648 admis en 2025 (31 %). Tout sur le concours médecine Belgique 2026 : date du 27 août à Brussels Expo, 80 QCM sur 160 pts, cotation à points négatifs confirmée, quotas non-résidents, annales PDF et stratégie ARES.",
-    "tags": ["Concours Médecine Belgique", "ARES FWB", "Études de Médecine", "Préparation Concours"],
+    "tags": [
+      "Concours Médecine Belgique",
+      "ARES FWB",
+      "Études de Médecine",
+      "Préparation Concours"
+    ],
     "mdFilePath": "/blog/examen-medecine-dentisterie-belgique-2026.md",
     "targetExamId": "examen_médical_et_dentaire"
   },
@@ -223,8 +328,15 @@
     "type": "blog",
     "date": "2026-07-16",
     "author": "ExamOven Team",
-    "excerpt": "Everything confirmed about RRB Group D 2026 — the official CBT dates (Aug 3–21), 22,195 vacancies, age limit, exam pattern, syllabus, PET standards and fees — fact-checked against RRB's July 3, 2026 notice. Also clears up the CEN 09/2025 vs CEN 08/2024 confusion.",
-    "tags": ["RRB Group D", "Railway Recruitment", "Indian Railways", "Government Jobs India", "Level 1 Posts", "Exam Prep"],
+    "excerpt": "Everything confirmed about RRB Group D 2026 - the official CBT dates (Aug 3–21), 22,195 vacancies, age limit, exam pattern, syllabus, PET standards and fees - fact-checked against RRB's July 3, 2026 notice. Also clears up the CEN 09/2025 vs CEN 08/2024 confusion.",
+    "tags": [
+      "RRB Group D",
+      "Railway Recruitment",
+      "Indian Railways",
+      "Government Jobs India",
+      "Level 1 Posts",
+      "Exam Prep"
+    ],
     "mdFilePath": "/blog/rrb-group-d-2026-exam-date-syllabus-eligibility-guide.md",
     "targetExamId": "rrb-group-d"
   },
@@ -234,8 +346,15 @@
     "type": "blog",
     "date": "2026-07-22",
     "author": "ExamOven Team",
-    "excerpt": "Free CAT previous year papers (2021–2025) in a real exam-style timed interface — topic-wise practice, negative marking, and instant explanations.",
-    "tags": ["CAT", "MBA Entrance", "IIM", "Previous Year Papers", "Mock Tests", "Exam Prep"],
+    "excerpt": "Free CAT previous year papers (2021–2025) in a real exam-style timed interface - topic-wise practice, negative marking, and instant explanations.",
+    "tags": [
+      "CAT",
+      "MBA Entrance",
+      "IIM",
+      "Previous Year Papers",
+      "Mock Tests",
+      "Exam Prep"
+    ],
     "mdFilePath": "/blog/cat-previous-year-papers-free-mock-test.md",
     "targetExamId": "cat"
   },
@@ -245,8 +364,14 @@
     "type": "blog",
     "date": "2026-07-27",
     "author": "ExamOven Team",
-    "excerpt": "Picture this: you're standing at a lab bench, gloves on, an agar plate and an inoculating loop in front of you — and a stranger with a clipboard is timing you. That's day one of the performance component of NOCTI Biotechnology, Test Code 4275.",
-    "tags": ["NOCTI", "Biotechnology", "CTE Credential", "Perkins V", "Career and Technical Education"],
+    "excerpt": "Picture this: you're standing at a lab bench, gloves on, an agar plate and an inoculating loop in front of you - and a stranger with a clipboard is timing you. That's day one of the performance component of NOCTI Biotechnology, Test Code 4275.",
+    "tags": [
+      "NOCTI",
+      "Biotechnology",
+      "CTE Credential",
+      "Perkins V",
+      "Career and Technical Education"
+    ],
     "mdFilePath": "/blog/nocti-biotechnology-4275-guide.md",
     "targetExamId": "nocti-biotechnology-4275"
   },
@@ -257,8 +382,15 @@
     "date": "2026-08-09",
     "dateModified": "2026-08-09",
     "author": "The ExamOven Team",
-    "excerpt": "Everything school candidates, parents, and teachers need for the 2026 NECO SSCE Internal — registration steps, fees, timetable, and when results are expected.",
-    "tags": ["NECO", "NECO SSCE", "SSCE Internal", "Registration Guide", "Exam Timetable", "School Exams"],
+    "excerpt": "Everything school candidates, parents, and teachers need for the 2026 NECO SSCE Internal - registration steps, fees, timetable, and when results are expected.",
+    "tags": [
+      "NECO",
+      "NECO SSCE",
+      "SSCE Internal",
+      "Registration Guide",
+      "Exam Timetable",
+      "School Exams"
+    ],
     "mdFilePath": "/blog/neco-ssce-internal-2026-complete-guide.md",
     "targetExamId": "neco-ssce"
   },
@@ -269,8 +401,15 @@
     "date": "2026-08-09",
     "dateModified": "2026-08-09",
     "author": "The ExamOven Team",
-    "excerpt": "Everything private candidates, parents, and teachers need for the 2026 NECO SSCE External (GCE) — registration steps, fees, the 16-subject list, and the full timetable.",
-    "tags": ["NECO", "NECO SSCE", "NECO GCE", "SSCE External", "Registration Guide", "Exam Timetable"],
+    "excerpt": "Everything private candidates, parents, and teachers need for the 2026 NECO SSCE External (GCE) - registration steps, fees, the 16-subject list, and the full timetable.",
+    "tags": [
+      "NECO",
+      "NECO SSCE",
+      "NECO GCE",
+      "SSCE External",
+      "Registration Guide",
+      "Exam Timetable"
+    ],
     "mdFilePath": "/blog/neco-ssce-external-gce-2026-complete-guide.md",
     "targetExamId": "neco-ssce"
   },
@@ -281,8 +420,15 @@
     "date": "2026-08-09",
     "dateModified": "2026-08-09",
     "author": "The ExamOven Team",
-    "excerpt": "Everything common to both internal and external NECO SSCE exams — the syllabus, subject combinations, grading scale, malpractice rules, and how to verify a result — in one reference guide.",
-    "tags": ["NECO", "NECO SSCE", "NECO Syllabus", "Grading System", "Result Verification", "Exam Prep"],
+    "excerpt": "Everything common to both internal and external NECO SSCE exams - the syllabus, subject combinations, grading scale, malpractice rules, and how to verify a result - in one reference guide.",
+    "tags": [
+      "NECO",
+      "NECO SSCE",
+      "NECO Syllabus",
+      "Grading System",
+      "Result Verification",
+      "Exam Prep"
+    ],
     "mdFilePath": "/blog/neco-syllabus-grading-verification-guide.md",
     "targetExamId": "neco-ssce"
   },
@@ -292,8 +438,16 @@
     "type": "blog",
     "date": "2026-08-17",
     "author": "ExamOven Team",
-    "excerpt": "The real BECE 2023 Mathematics past question paper — 120 questions across two papers — free to practice online with full solutions, no login required.",
-    "tags": ["BECE", "BECE Past Questions", "Junior WAEC", "Mathematics", "Previous Year Papers", "NECO BECE", "Exam Prep"],
+    "excerpt": "The real BECE 2023 Mathematics past question paper - 120 questions across two papers - free to practice online with full solutions, no login required.",
+    "tags": [
+      "BECE",
+      "BECE Past Questions",
+      "Junior WAEC",
+      "Mathematics",
+      "Previous Year Papers",
+      "NECO BECE",
+      "Exam Prep"
+    ],
     "mdFilePath": "/blog/bece-past-questions-2023-mathematics-free-practice.md",
     "targetExamId": "bece"
   },
@@ -305,7 +459,12 @@
     "dateModified": "2026-09-04",
     "author": "ExamOven Team",
     "excerpt": "CAT 2026 registration closes September 15, 2026 at 5 PM, with no extension announced. A practical last-mile checklist, the real history of past CAT deadline extensions, and your options if you miss it.",
-    "tags": ["CAT", "MBA Entrance", "IIM", "Exam Dates"],
+    "tags": [
+      "CAT",
+      "MBA Entrance",
+      "IIM",
+      "Exam Dates"
+    ],
     "mdFilePath": "/blog/cat-2026-registration-deadline-checklist.md",
     "targetExamId": "cat"
   },
@@ -316,8 +475,13 @@
     "date": "2026-09-04",
     "dateModified": "2026-09-04",
     "author": "ExamOven Team",
-    "excerpt": "NTA hasn't released the JEE Main 2027 notification yet — expected around late October 2026. Here's what's confirmed, what's projected from three years of historical pattern, and a complete syllabus, pattern, and preparation guide to start on now.",
-    "tags": ["JEE Main", "NTA", "Engineering Entrance", "Exam Prep"],
+    "excerpt": "NTA hasn't released the JEE Main 2027 notification yet - expected around late October 2026. Here's what's confirmed, what's projected from three years of historical pattern, and a complete syllabus, pattern, and preparation guide to start on now.",
+    "tags": [
+      "JEE Main",
+      "NTA",
+      "Engineering Entrance",
+      "Exam Prep"
+    ],
     "mdFilePath": "/blog/jee-main-2027-complete-guide.md",
     "targetExamId": "jee"
   },
@@ -329,7 +493,12 @@
     "dateModified": "2026-09-06",
     "author": "ExamOven Team",
     "excerpt": "FBLA's 2026-2027 competitive events guidelines are live. Confirmed: NLC 2027 is June 23-26 in Columbus, Ohio, plus the March 1, 2027 membership deadline, the state-by-state SLC timeline, and a month-by-month prep calendar.",
-    "tags": ["FBLA", "Marketing Fundamentals", "Exam Prep", "National Leadership Conference"],
+    "tags": [
+      "FBLA",
+      "Marketing Fundamentals",
+      "Exam Prep",
+      "National Leadership Conference"
+    ],
     "mdFilePath": "/blog/fbla-intro-marketing-2027.md",
     "targetExamId": "fbla-intro-marketing"
   },
@@ -340,9 +509,14 @@
     "date": "2026-09-07",
     "dateModified": "2026-09-07",
     "author": "ExamOven Team",
-    "excerpt": "AY 2026–2027 Exam Site Registration for the BACE opens September 21, 2026 — later than the last three cycles. The confirmed calendar, the historical pattern for what's not yet announced, and separate timelines for Exam Sites vs. individual Remote Testing Option candidates.",
+    "excerpt": "AY 2026–2027 Exam Site Registration for the BACE opens September 21, 2026 - later than the last three cycles. The confirmed calendar, the historical pattern for what's not yet announced, and separate timelines for Exam Sites vs. individual Remote Testing Option candidates.",
     "tags": [
-      "BACE","bace exam dates","bace registration 2027","biotechnology aptitude and competency exam","Biotility","Exam Prep"
+      "BACE",
+      "bace exam dates",
+      "bace registration 2027",
+      "biotechnology aptitude and competency exam",
+      "Biotility",
+      "Exam Prep"
     ],
     "mdFilePath": "/blog/bace-exam-dates-2027.md",
     "targetExamId": "bace"

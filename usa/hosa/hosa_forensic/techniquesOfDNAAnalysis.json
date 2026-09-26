@@ -531,7 +531,7 @@
     "question_number": 34,
     "subject": "Forensic Science",
     "topic": "Analysis",
-    "question_text": "When generating a DNA profile, how do forensic scientists mathematically determine the random match probability—the chance that an unrelated person shares the same 20-locus profile?",
+    "question_text": "When generating a DNA profile, how do forensic scientists mathematically determine the random match probability-the chance that an unrelated person shares the same 20-locus profile?",
     "options": {
       "a": "By adding the frequencies of all the alleles present at the 20 loci.",
       "b": "By dividing the total population by the number of alleles found.",

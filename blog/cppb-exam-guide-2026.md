@@ -8,7 +8,7 @@ tags: ["CPPB", "Public Procurement", "Certification", "Study Guide"]
 ---
 If you are a non-managerial public procurement professional looking to validate your skills, earn higher pay, and stand out in the public sector, the **Certified Professional Public Buyer (CPPB)** designation is your gold standard.
 
-Administered globally by the **Universal Public Procurement Certification Council (UPPCC)**, the CPPB proves your mastery of sourcing, contract administration, and the ethical stewardship of taxpayer dollars. Earning this credential tells government agencies—from municipal school districts to massive state departments—that you are an elite buyer who knows how to navigate complex regulatory landscapes.
+Administered globally by the **Universal Public Procurement Certification Council (UPPCC)**, the CPPB proves your mastery of sourcing, contract administration, and the ethical stewardship of taxpayer dollars. Earning this credential tells government agencies-from municipal school districts to massive state departments-that you are an elite buyer who knows how to navigate complex regulatory landscapes.
 
 However, passing the exam requires serious preparation. Following a sweeping Job Task Analysis, **the UPPCC recently overhauled the exam's syllabus (BoK-C)**. Pre-2025 study materials are now dangerously out of date. 
 
@@ -82,7 +82,7 @@ Testing for the CPPB is a financial investment in your career. However, signific
 *   **Total Expected Cost:** \$715 (Standard) or \$615 (Partner Discount).
 
 
-**2026 Scholarship Alert:** Starting January 1, 2026, the **Procurement Professionals Alliance (PPA)** launched a program that fully reimburses application and exam fees for its members upon successfully passing the CPPB. If your agency allows it, check your local chapter's status—joining the PPA before you test is a highly recommended strategy.
+**2026 Scholarship Alert:** Starting January 1, 2026, the **Procurement Professionals Alliance (PPA)** launched a program that fully reimburses application and exam fees for its members upon successfully passing the CPPB. If your agency allows it, check your local chapter's status-joining the PPA before you test is a highly recommended strategy.
 
 ## The New 2025/2026 Syllabus: Mastering the BoK-C
 

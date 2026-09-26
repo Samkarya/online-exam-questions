@@ -259,7 +259,7 @@
     "question_number": 17,
     "subject": "Pre Vocational Studies",
     "topic": "Classes and Uses of Crops",
-    "question_text": "Crops that complete their entire life cycle—from germination to seed production—within one year are classified based on life span as ________.",
+    "question_text": "Crops that complete their entire life cycle-from germination to seed production-within one year are classified based on life span as ________.",
     "options": {
       "a": "Annual crops",
       "b": "Biennial crops",
@@ -1452,7 +1452,7 @@
     },
     "correct_answer": "b",
     "difficulty": "Hard",
-    "explanation": "Vegetative propagation is the only method that guarantees clones—offspring that are 100% genetically identical to the parent plant, because no gene mixing occurs.",
+    "explanation": "Vegetative propagation is the only method that guarantees clones-offspring that are 100% genetically identical to the parent plant, because no gene mixing occurs.",
     "section_id": null
   },
   {

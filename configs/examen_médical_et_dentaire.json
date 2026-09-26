@@ -12,8 +12,8 @@
         "description": "### Examen d'entrée et d'accès en sciences médicales et en sciences dentaires\n\nQuestions et corrigés du questionnaire bleu de l'examen d'entrée du 8 septembre 2017\n\n**Partie 1 - Connaissance et compréhension des matières scientifiques**",
         "path": "Europe/Belgium/examen_médical_et_dentaire/questionnairebleu2017.json",
         "isOfficial": true,
-        "seo_title": "Annales Concours Médecine Belgique 2017 — QCM Gratuits avec Corrigés (ARES)",
-        "seo_description": "Accédez gratuitement aux questions et corrigés officiels du concours d'entrée en sciences médicales et dentaires de Belgique (ARES), session 2017 — 80 QCM, 160 pts."
+        "seo_title": "Annales Concours Médecine Belgique 2017 - QCM Gratuits avec Corrigés (ARES)",
+        "seo_description": "Accédez gratuitement aux questions et corrigés officiels du concours d'entrée en sciences médicales et dentaires de Belgique (ARES), session 2017 - 80 QCM, 160 pts."
     },
     {
         "id": "examen_médical_et_dentaire_2019",
@@ -28,8 +28,8 @@
         "description": "### Examen d'entrée et d'accès en sciences médicales et en sciences dentaires\n\nQuestions et corrigés du questionnaire bleu de l'examen d'entrée du 10 juillet 2019\n\n**Partie 1 - Connaissance et compréhension des matières scientifiques**",
         "path": "Europe/Belgium/examen_médical_et_dentaire/questionnairebleu2019.json",
         "isOfficial": true,
-        "seo_title": "Annales Concours Médecine Belgique 2019 — QCM Gratuits avec Corrigés (ARES)",
-        "seo_description": "Accédez gratuitement aux questions et corrigés officiels du concours d'entrée en sciences médicales et dentaires de Belgique (ARES), session 2019 — 80 QCM, 160 pts."
+        "seo_title": "Annales Concours Médecine Belgique 2019 - QCM Gratuits avec Corrigés (ARES)",
+        "seo_description": "Accédez gratuitement aux questions et corrigés officiels du concours d'entrée en sciences médicales et dentaires de Belgique (ARES), session 2019 - 80 QCM, 160 pts."
     },
     {
         "id": "examen_médical_et_dentaire_2022",
@@ -44,23 +44,23 @@
         "description": "### Examen d'entrée et d'accès en sciences médicales et en sciences dentaires\n\nQuestions et corrigés du questionnaire bleu de l'examen d'entrée du 27 août 2022\n\n**Partie 1 - Connaissance et compréhension des matières scientifiques**",
         "path": "Europe/Belgium/examen_médical_et_dentaire/questionnairebleu2022.json",
         "isOfficial": true,
-        "seo_title": "Annales Concours Médecine Belgique 2022 — QCM Gratuits avec Corrigés (ARES)",
-        "seo_description": "Accédez gratuitement aux questions et corrigés officiels du concours d'entrée en sciences médicales et dentaires de Belgique (ARES), session 2022 — 80 QCM, 160 pts."
+        "seo_title": "Annales Concours Médecine Belgique 2022 - QCM Gratuits avec Corrigés (ARES)",
+        "seo_description": "Accédez gratuitement aux questions et corrigés officiels du concours d'entrée en sciences médicales et dentaires de Belgique (ARES), session 2022 - 80 QCM, 160 pts."
     },
     {
-    "id": "examen_medical_et_dentaire_2024",
-    "category": "examen_médical_et_dentaire",
-    "year": "2024",
-    "session": "août",
-    "date": "2024-08-28",
-    "shift": null,
-    "paperType": "questionnairejaune",
-    "title": "Questionnaire jaune 2024",
-    "short_description": "Questions et corrigés du questionnaire jaune du concours d'entrée du 28 août 2024 - Partie 1 : Connaissance et compréhension des matières scientifiques",
-    "description": "### Concours d'entrée et d'accès en sciences médicales et en sciences dentaires\n\nQuestions et corrigés du questionnaire jaune du concours d'entrée du 28 août 2024\n\n**Partie 1 - Connaissance et compréhension des matières scientifiques**",
-    "path": "Europe/Belgium/examen_médical_et_dentaire/questionnaireJaune2024.json",
-    "isOfficial": true,
-    "seo_title": "Annales Concours Médecine Belgique 2024 — QCM Gratuits avec Corrigés (ARES)",
-    "seo_description": "Accédez gratuitement aux questions et corrigés officiels du concours d'entrée en sciences médicales et dentaires de Belgique (ARES), session 2024 — 80 QCM, 160 pts."
-  }
+        "id": "examen_medical_et_dentaire_2024",
+        "category": "examen_médical_et_dentaire",
+        "year": "2024",
+        "session": "août",
+        "date": "2024-08-28",
+        "shift": null,
+        "paperType": "questionnairejaune",
+        "title": "Questionnaire jaune 2024",
+        "short_description": "Questions et corrigés du questionnaire jaune du concours d'entrée du 28 août 2024 - Partie 1 : Connaissance et compréhension des matières scientifiques",
+        "description": "### Concours d'entrée et d'accès en sciences médicales et en sciences dentaires\n\nQuestions et corrigés du questionnaire jaune du concours d'entrée du 28 août 2024\n\n**Partie 1 - Connaissance et compréhension des matières scientifiques**",
+        "path": "Europe/Belgium/examen_médical_et_dentaire/questionnaireJaune2024.json",
+        "isOfficial": true,
+        "seo_title": "Annales Concours Médecine Belgique 2024 - QCM Gratuits avec Corrigés (ARES)",
+        "seo_description": "Accédez gratuitement aux questions et corrigés officiels du concours d'entrée en sciences médicales et dentaires de Belgique (ARES), session 2024 - 80 QCM, 160 pts."
+    }
 ]

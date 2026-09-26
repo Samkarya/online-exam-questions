@@ -252,7 +252,7 @@
     },
     "correct_answer": "b",
     "difficulty": "Easy",
-    "explanation": "A fume hood's protective capability is dictated entirely by its \"face velocity\"—the speed at which air is actively pulled past the technician and into the hood. \n\nIf the sash is wide open (Option 'a'), the face velocity drops, allowing toxic fumes to easily spill out into the room. If it is completely closed, the technician cannot work. Annual safety certifiers mathematically balance the airflow and place a specific **certified operational sticker** on the side of the hood (usually around 18 inches). The sash must remain precisely at this height during work to guarantee safe vapor capture and provide a physical splash barrier to the face.",
+    "explanation": "A fume hood's protective capability is dictated entirely by its \"face velocity\"-the speed at which air is actively pulled past the technician and into the hood. \n\nIf the sash is wide open (Option 'a'), the face velocity drops, allowing toxic fumes to easily spill out into the room. If it is completely closed, the technician cannot work. Annual safety certifiers mathematically balance the airflow and place a specific **certified operational sticker** on the side of the hood (usually around 18 inches). The sash must remain precisely at this height during work to guarantee safe vapor capture and provide a physical splash barrier to the face.",
     "section_id": null
   },
   {

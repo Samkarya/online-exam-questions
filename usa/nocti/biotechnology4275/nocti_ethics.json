@@ -92,7 +92,7 @@
     },
     "correct_answer": "a",
     "difficulty": "Hard",
-    "explanation": "In regulated laboratory environments, **strict adherence to approved SOPs and IACUC protocols** is mandatory. \n\nAny deviation—whether intentional or accidental—must be documented immediately without altering data, and reported up the chain of command to the Principal Investigator and the regulatory committee (IACUC). Falsifying data (Option 'b'), altering protocols retroactively (Option 'c'), or ignoring the deviation (Option 'd') represent severe scientific misconduct and ethical breaches.",
+    "explanation": "In regulated laboratory environments, **strict adherence to approved SOPs and IACUC protocols** is mandatory. \n\nAny deviation-whether intentional or accidental-must be documented immediately without altering data, and reported up the chain of command to the Principal Investigator and the regulatory committee (IACUC). Falsifying data (Option 'b'), altering protocols retroactively (Option 'c'), or ignoring the deviation (Option 'd') represent severe scientific misconduct and ethical breaches.",
     "section_id": null
   },
   {
@@ -524,7 +524,7 @@
     },
     "correct_answer": "b",
     "difficulty": "Hard",
-    "explanation": "Corporate funding is highly common in biotechnology and does *not* automatically mean the data is fraudulent or fabricated. \n\nHowever, it represents a significant **Conflict of Interest (COI)**. A scientifically literate reader must not accept it blindly (Option 'c') nor discard it as illegal (Options 'a' and 'd'). The correct approach is to carefully evaluate the study design—looking for subtle biases like weak controls, cherry-picked data, or inappropriate statistical methods designed to favor the sponsor's product.",
+    "explanation": "Corporate funding is highly common in biotechnology and does *not* automatically mean the data is fraudulent or fabricated. \n\nHowever, it represents a significant **Conflict of Interest (COI)**. A scientifically literate reader must not accept it blindly (Option 'c') nor discard it as illegal (Options 'a' and 'd'). The correct approach is to carefully evaluate the study design-looking for subtle biases like weak controls, cherry-picked data, or inappropriate statistical methods designed to favor the sponsor's product.",
     "section_id": null
   },
   {

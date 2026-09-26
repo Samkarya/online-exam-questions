@@ -716,7 +716,7 @@
     },
     "correct_answer": "a",
     "difficulty": "Medium",
-    "explanation": "Peasant (subsistence) farmers operate on a very small scale with low income. The massive financial investment required to purchase tractors and heavy implements—coupled with high maintenance costs—makes **capital** the greatest limitation.",
+    "explanation": "Peasant (subsistence) farmers operate on a very small scale with low income. The massive financial investment required to purchase tractors and heavy implements-coupled with high maintenance costs-makes **capital** the greatest limitation.",
     "section_id": null
   },
   {
@@ -1461,10 +1461,10 @@
     "topic": "Animal reproduction",
     "question_text": "Which of the following correctly matches a farm animal to its average gestation period?",
     "options": {
-      "a": "Sheep — $114\\text{ days}$",
-      "b": "Pig — $150\\text{ days}$",
-      "c": "Cow — $283\\text{ days}$",
-      "d": "Rabbit — $65\\text{ days}$"
+      "a": "Sheep - $114\\text{ days}$",
+      "b": "Pig - $150\\text{ days}$",
+      "c": "Cow - $283\\text{ days}$",
+      "d": "Rabbit - $65\\text{ days}$"
     },
     "correct_answer": "c",
     "difficulty": "Hard",
@@ -1603,7 +1603,7 @@
     "question_number": 101,
     "subject": "Agricultural Science",
     "topic": "Animal nutrition",
-    "question_text": "A daily feed allocation that contains exactly enough nutrients—in the right proportions—to keep a mature, non-working, non-pregnant animal at a constant body weight is called a:",
+    "question_text": "A daily feed allocation that contains exactly enough nutrients-in the right proportions-to keep a mature, non-working, non-pregnant animal at a constant body weight is called a:",
     "options": {
       "a": "Production ration",
       "b": "Maintenance ration",
@@ -1644,7 +1644,7 @@
     },
     "correct_answer": "b",
     "difficulty": "Medium",
-    "explanation": "Eggshells and animal skeletons are structurally composed mostly of calcium carbonate ($\\text{CaCO}_3$) and calcium phosphate. A deficiency in **Calcium ($\\text{Ca}^{2+}$)** or **Phosphorus (P)**—alongside Vitamin D—leads to soft shells and rickets/osteomalacia in bones.",
+    "explanation": "Eggshells and animal skeletons are structurally composed mostly of calcium carbonate ($\\text{CaCO}_3$) and calcium phosphate. A deficiency in **Calcium ($\\text{Ca}^{2+}$)** or **Phosphorus (P)**-alongside Vitamin D-leads to soft shells and rickets/osteomalacia in bones.",
     "section_id": null
   },
   {
@@ -1715,7 +1715,7 @@
     "question_number": 108,
     "subject": "Agricultural Science",
     "topic": "Animal improvement",
-    "question_text": "When cross-breeding is successful, the resulting hybrid offspring often exhibit performance levels—such as faster growth rates or better disease resistance—that surpass the average performance of both parents. This phenomenon is termed:",
+    "question_text": "When cross-breeding is successful, the resulting hybrid offspring often exhibit performance levels-such as faster growth rates or better disease resistance-that surpass the average performance of both parents. This phenomenon is termed:",
     "options": {
       "a": "Inbreeding depression",
       "b": "Genetic mutation",
@@ -1749,10 +1749,10 @@
     "topic": "Animal health management",
     "question_text": "Which of the following represents an accurate host-disease relationship in livestock pathology?",
     "options": {
-      "a": "Poultry — Newcastle disease",
-      "b": "Cattle — Fowl pox",
-      "c": "Pigs — Coccidiosis",
-      "d": "Sheep — Swine fever"
+      "a": "Poultry - Newcastle disease",
+      "b": "Cattle - Fowl pox",
+      "c": "Pigs - Coccidiosis",
+      "d": "Sheep - Swine fever"
     },
     "correct_answer": "a",
     "difficulty": "Easy",

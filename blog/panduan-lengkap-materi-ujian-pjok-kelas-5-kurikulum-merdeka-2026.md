@@ -119,7 +119,7 @@ Dalam ujian tertulis, sering muncul istilah teknis. Pastikan siswa memahami:
 
 Menghadapi **Ujian PJOK Kelas 5 Kurikulum Merdeka** bukan sekadar tentang menjadi atlet, melainkan tentang membentuk disiplin diri dan kesadaran akan kesehatan. Kunci keberhasilan terletak pada keseimbangan antara latihan fisik yang rutin dan pemahaman teori melalui buku teks resmi.
 
-Dengan persiapan yang matang—mulai dari melatih teknik passing di halaman rumah hingga mempelajari materi kesehatan reproduksi—nilai sempurna di Rapor bukan lagi sekadar impian. Mari jadikan PJOK sebagai momen menyenangkan untuk tumbuh menjadi pribadi yang lebih bugar dan berkarakter!
+Dengan persiapan yang matang-mulai dari melatih teknik passing di halaman rumah hingga mempelajari materi kesehatan reproduksi-nilai sempurna di Rapor bukan lagi sekadar impian. Mari jadikan PJOK sebagai momen menyenangkan untuk tumbuh menjadi pribadi yang lebih bugar dan berkarakter!
 
 ---
 *Apakah Anda sedang mempersiapkan ujian sekolah? Bagikan artikel ini kepada sesama orang tua atau teman sekelas agar kita semua bisa lulus dengan hasil yang membanggakan!*

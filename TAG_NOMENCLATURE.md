@@ -48,7 +48,7 @@ Because the linking logic uses a `some()` / `includes()` OR match, we must divid
 > Only place **highly specific** tags in the `relatedBlogTags` list in `config.json`.
 
 > [!NOTE]
-> This also applies to **organization-level tags** that span more than one exam. `NECO`, for example, administers both the BECE (junior secondary) and the NECO SSCE (senior secondary) — so `NECO` alone in a suite's `relatedBlogTags` will pull in posts for *both* exams, exactly like a generic tag would. Pair it with (or replace it with) a level-specific tag, e.g. `NECO SSCE`, so each suite only matches its own posts.
+> This also applies to **organization-level tags** that span more than one exam. `NECO`, for example, administers both the BECE (junior secondary) and the NECO SSCE (senior secondary) - so `NECO` alone in a suite's `relatedBlogTags` will pull in posts for *both* exams, exactly like a generic tag would. Pair it with (or replace it with) a level-specific tag, e.g. `NECO SSCE`, so each suite only matches its own posts.
 
 ---
 

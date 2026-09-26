@@ -6,7 +6,7 @@
 
 ## Introduction: Why Nutrition Matters in Modern Healthcare
 
-In the modern medical landscape, we are moving from a "reactive" system to a "preventative" one. Nutrition is at the very heart of this shift. As a HOSA competitor in the **Nutrition Event**, you aren't just memorizing calorie counts—you are learning how to manage chronic diseases, support neonatal development, and understand the complex biochemical pathways that sustain life.
+In the modern medical landscape, we are moving from a "reactive" system to a "preventative" one. Nutrition is at the very heart of this shift. As a HOSA competitor in the **Nutrition Event**, you aren't just memorizing calorie counts-you are learning how to manage chronic diseases, support neonatal development, and understand the complex biochemical pathways that sustain life.
 
 With the **2026 International Leadership Conference (ILC) scheduled for June 17–20 in Indianapolis**, the road to the podium starts now. This year is particularly unique due to significant changes in the testing structure. Whether you are aiming for a Top 10 finish or just want to master the science of dietetics, this guide is your definitive roadmap.
 
@@ -111,7 +111,7 @@ With only 50 questions, ties are more common than ever. If you and another stude
 
 <div style="background-color: #fff3e0; border: 1px dashed #ff9800; padding: 15px; border-radius: 8px; margin: 20px 0;">
     <h3> Expert Pro-Tip: The HOSA Dress Code</h3>
-    Do not lose points on your wardrobe! HOSA is a professional organization. You must wear the <strong>Official HOSA Uniform</strong> or <strong>Professional Business Attire</strong>. If you show up in sneakers or jeans for your testing session, you will likely lose 5-10 points off your final score—points that are impossible to earn back!
+    Do not lose points on your wardrobe! HOSA is a professional organization. You must wear the <strong>Official HOSA Uniform</strong> or <strong>Professional Business Attire</strong>. If you show up in sneakers or jeans for your testing session, you will likely lose 5-10 points off your final score-points that are impossible to earn back!
 </div>
 
 ---

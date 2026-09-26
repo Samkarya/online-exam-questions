@@ -12,7 +12,7 @@
     },
     "correct_answer": "c",
     "difficulty": "Easy",
-    "explanation": "The **Food and Drug Administration (FDA)**—specifically its Center for Biologics Evaluation and Research (CBER)—holds strict regulatory authority over the approval, manufacturing, and marketing of all biologics, human drugs, vaccines, blood products, and gene therapies in the United States. They enforce clinical trial standards to guarantee the drug is safe and effective for patients.",
+    "explanation": "The **Food and Drug Administration (FDA)**-specifically its Center for Biologics Evaluation and Research (CBER)-holds strict regulatory authority over the approval, manufacturing, and marketing of all biologics, human drugs, vaccines, blood products, and gene therapies in the United States. They enforce clinical trial standards to guarantee the drug is safe and effective for patients.",
     "section_id": null
   },
   {
@@ -124,7 +124,7 @@
     },
     "correct_answer": "b",
     "difficulty": "Hard",
-    "explanation": "While the **FDA** regulates human drugs, vaccines, and animal *drugs* (like antibiotics for pets), the **USDA**—specifically the Center for Veterinary Biologics (CVB) under APHIS—holds strict legal authority over veterinary *biologics*. This includes all vaccines, bacterins, and diagnostic kits intended for the treatment or prevention of animal diseases, pursuant to the Virus-Serum-Toxin Act.",
+    "explanation": "While the **FDA** regulates human drugs, vaccines, and animal *drugs* (like antibiotics for pets), the **USDA**-specifically the Center for Veterinary Biologics (CVB) under APHIS-holds strict legal authority over veterinary *biologics*. This includes all vaccines, bacterins, and diagnostic kits intended for the treatment or prevention of animal diseases, pursuant to the Virus-Serum-Toxin Act.",
     "section_id": null
   },
   {
@@ -300,7 +300,7 @@
     },
     "correct_answer": "b",
     "difficulty": "Medium",
-    "explanation": "In a regulated environment, an individual is legally responsible for their own data. \n\n**You can only correct your own entries.** Unauthorized personnel—even supervisors—cannot cross out and alter another person's legal record, as this breaks the attribution (the \"A\" in ALCOA+) of the data. If an absent employee's record must be corrected to save a batch, standard GDP requires a supervisor or authorized QA person to document the correction in a separate memo or entry, explicitly stating the original author is unavailable.",
+    "explanation": "In a regulated environment, an individual is legally responsible for their own data. \n\n**You can only correct your own entries.** Unauthorized personnel-even supervisors-cannot cross out and alter another person's legal record, as this breaks the attribution (the \"A\" in ALCOA+) of the data. If an absent employee's record must be corrected to save a batch, standard GDP requires a supervisor or authorized QA person to document the correction in a separate memo or entry, explicitly stating the original author is unavailable.",
     "section_id": null
   },
   {
@@ -348,7 +348,7 @@
     },
     "correct_answer": "a",
     "difficulty": "Hard",
-    "explanation": "If the Chain of Custody is broken—meaning there is an undocumented gap in time where the sample's whereabouts or handler cannot be proven—the legal integrity of the sample is destroyed. \n\nEven if the scientific analysis was performed flawlessly, the opposing legal counsel can successfully argue that the sample could have been tampered with or swapped during that undocumented weekend. In forensics and heavily regulated diagnostics, a broken CoC usually renders the evidence completely **inadmissible**.",
+    "explanation": "If the Chain of Custody is broken-meaning there is an undocumented gap in time where the sample's whereabouts or handler cannot be proven-the legal integrity of the sample is destroyed. \n\nEven if the scientific analysis was performed flawlessly, the opposing legal counsel can successfully argue that the sample could have been tampered with or swapped during that undocumented weekend. In forensics and heavily regulated diagnostics, a broken CoC usually renders the evidence completely **inadmissible**.",
     "section_id": null
   }
 ]

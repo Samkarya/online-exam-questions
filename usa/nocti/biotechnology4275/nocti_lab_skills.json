@@ -172,7 +172,7 @@
     },
     "correct_answer": "b",
     "difficulty": "Medium",
-    "explanation": "Because all 5 tests came from the exact same starting source (one single mashed soybean), these are **technical replicates**. \n\nTechnical replicates cannot tell you anything about soybeans as a population (which rules out Option 'a'). Instead, they evaluate the repeatability of the measurement itself—testing whether the student pipetted accurately, whether the spectrophotometer gave consistent readings, and whether the Bradford reagent reacted consistently.",
+    "explanation": "Because all 5 tests came from the exact same starting source (one single mashed soybean), these are **technical replicates**. \n\nTechnical replicates cannot tell you anything about soybeans as a population (which rules out Option 'a'). Instead, they evaluate the repeatability of the measurement itself-testing whether the student pipetted accurately, whether the spectrophotometer gave consistent readings, and whether the Bradford reagent reacted consistently.",
     "section_id": null
   },
   {

@@ -3,9 +3,9 @@ title: "The Complete Guide to the Belgium Medicine & Dentistry Entrance Exam 202
 date: "2026-04-21"
 dateModified: "2026-07-19"
 author: "ExamOven"
-seoTitle: "Belgium Medicine & Dentistry Entrance Exam 2026 — ARES Concours Guide, Dates & Syllabus"
+seoTitle: "Belgium Medicine & Dentistry Entrance Exam 2026 - ARES Concours Guide, Dates & Syllabus"
 seoDescription: "5,294 candidates, 1,648 admitted in 2025 (31%). Full guide to the ARES concours médecine Belgique 2026: August 27 exam date, 80 MCQs, 160 pts, negative marking, quotas & syllabus."
-excerpt: "Everything you need to know about the ARES concours médecine Belgique — exam date (27 August 2026), 80 MCQs on 160 pts, 2025 official results (5,294 deliberated / 1,648 admitted), negative marking, non-resident quota, and preparation strategy."
+excerpt: "Everything you need to know about the ARES concours médecine Belgique - exam date (27 August 2026), 80 MCQs on 160 pts, 2025 official results (5,294 deliberated / 1,648 admitted), negative marking, non-resident quota, and preparation strategy."
 tags: ["Concours Médecine Belgique", "ARES FWB", "Études de Médecine", "Préparation Concours", "Belgium Medicine Entrance Exam", "ARES exam 2026", "Concours MD Belgium", "medicine entrance exam Belgium", "dentistry entrance exam Belgium"]
 locale: "en"
 mdFilePath: "blog/belgium-medicine-dentistry-exam-2026.md"
@@ -15,13 +15,13 @@ mdFilePath: "blog/belgium-medicine-dentistry-exam-2026.md"
 
 ## 1. What Is This Exam, Really?
 
-The **Concours d'entrée et d'accès aux études de médecine et de dentisterie** is Belgium's official, government-mandated gateway to medical and dental studies in the French-speaking community (Fédération Wallonie-Bruxelles). It is organized by **ARES** — the Académie de Recherche et d'Enseignement Supérieur — and introduced by decree in March 2017.
+The **Concours d'entrée et d'accès aux études de médecine et de dentisterie** is Belgium's official, government-mandated gateway to medical and dental studies in the French-speaking community (Fédération Wallonie-Bruxelles). It is organized by **ARES** - the Académie de Recherche et d'Enseignement Supérieur - and introduced by decree in March 2017.
 
-For years, it operated as a simple pass/fail entrance exam (the EXMD) with two sessions per year and a fixed score threshold. In **2023, everything changed.** The exam was overhauled into a **concours** — a full competitive ranking system with a single annual session and a government-set quota of seats. This shift is the single most important thing to understand about this exam, because it changes your entire preparation philosophy.
+For years, it operated as a simple pass/fail entrance exam (the EXMD) with two sessions per year and a fixed score threshold. In **2023, everything changed.** The exam was overhauled into a **concours** - a full competitive ranking system with a single annual session and a government-set quota of seats. This shift is the single most important thing to understand about this exam, because it changes your entire preparation philosophy.
 
 You are no longer just trying to "pass." You are trying to outperform thousands of other candidates for a finite number of spots.
 
-In 2025, **5,294 candidates** were deliberated. Only **1,648 were admitted** — a pass rate of approximately **31%**. Roughly one in three students makes it.
+In 2025, **5,294 candidates** were deliberated. Only **1,648 were admitted** - a pass rate of approximately **31%**. Roughly one in three students makes it.
 
 This exam grants access to five French-speaking universities in Belgium:
 
@@ -33,15 +33,15 @@ This exam grants access to five French-speaking universities in Belgium:
 | UNamur | Namur |
 | UMons | Mons |
 
-You choose your target university at registration. Importantly, your choice of university does **not** affect your national ranking — all candidates are ranked on the same national list by ARES.
+You choose your target university at registration. Importantly, your choice of university does **not** affect your national ranking - all candidates are ranked on the same national list by ARES.
 
 ---
 
-## 2. The Official 2026 Exam Date — And Why It Matters
+## 2. The Official 2026 Exam Date - And Why It Matters
 
 **The 2026 exam takes place on Thursday, 27 August 2026.**
 
-The exam is always scheduled between August 16 and 31 of each year — specifically on the last Thursday of August. It takes place at a single, centralized location (see Section 6). There is no July session, no online option, and no alternative date.
+The exam is always scheduled between August 16 and 31 of each year - specifically on the last Thursday of August. It takes place at a single, centralized location (see Section 6). There is no July session, no online option, and no alternative date.
 
 **Crucially, there is only one session per year.** Since the 2023 reform, the old two-session system (with a backup in August/September) has been permanently abolished. If you cannot sit the exam on August 27, you wait until 2027.
 
@@ -59,7 +59,7 @@ The exam is always scheduled between August 16 and 31 of each year — specifica
 | University enrolment begins | September 2026 |
 
 > [!TIP]
-> The cancellation rule is generous and worth knowing. If you cancel your registration by August 13 — ten working days before the exam — the attempt does **not** count against your two-lifetime-attempt limit. If you register, don't cancel in time, and simply don't show up, that also does not count as a used attempt. You only "use" an attempt if you actually sit the exam.
+> The cancellation rule is generous and worth knowing. If you cancel your registration by August 13 - ten working days before the exam - the attempt does **not** count against your two-lifetime-attempt limit. If you register, don't cancel in time, and simply don't show up, that also does not count as a used attempt. You only "use" an attempt if you actually sit the exam.
 
 ---
 
@@ -67,7 +67,7 @@ The exam is always scheduled between August 16 and 31 of each year — specifica
 
 This is one of the most misunderstood aspects of the exam. The **same written test** is used for both Medicine and Dentistry candidates. But at the moment of registration, you must **choose one programme and one university**. This choice is permanent.
 
-After the exam, ARES produces **two separate national rankings** — one for Medicine candidates, one for Dentistry candidates — based on the same exam scores. You compete only against candidates who chose the same programme as you.
+After the exam, ARES produces **two separate national rankings** - one for Medicine candidates, one for Dentistry candidates - based on the same exam scores. You compete only against candidates who chose the same programme as you.
 
 > [!CAUTION]
 > You cannot switch your choice after registering. If you pass ranked within the Medicine quota, you can only enrol in Medicine. If you pass ranked within the Dentistry quota, you can only enrol in Dentistry. There is no mechanism to "try for both."
@@ -88,10 +88,10 @@ There is **no upper age limit**. Working professionals and career-changers sit a
 
 ### For International Students: The Equivalence Requirement
 
-If your secondary diploma was issued outside Belgium, you must obtain an **official equivalence certificate** from the Equivalence Service of the Ministry of the Wallonia-Brussels Federation. This is a separate administrative process from registering for the exam — and the deadline for submitting your equivalence application is **15 July 2026**.
+If your secondary diploma was issued outside Belgium, you must obtain an **official equivalence certificate** from the Equivalence Service of the Ministry of the Wallonia-Brussels Federation. This is a separate administrative process from registering for the exam - and the deadline for submitting your equivalence application is **15 July 2026**.
 
 > [!WARNING]
-> Do not leave this until June. Equivalence processing takes time. Start in January or February if you are coming from outside the EU. Certain EU diplomas may benefit from exemptions or faster processing — contact the Equivalence Service directly for your specific case. ARES itself has no role in this process and cannot answer equivalence questions.
+> Do not leave this until June. Equivalence processing takes time. Start in January or February if you are coming from outside the EU. Certain EU diplomas may benefit from exemptions or faster processing - contact the Equivalence Service directly for your specific case. ARES itself has no role in this process and cannot answer equivalence questions.
 
 ---
 
@@ -126,13 +126,13 @@ Before submitting, confirm you have completed all of the following:
 
 ### Registration Fee: €30
 
-The fee is paid by **online bank transfer** at the time of registration. There are **no other fee tiers** — €30 is the flat amount for all candidates regardless of residency status. Importantly, if you actually sit the exam on August 27, the €30 is **refunded** to you. You only forfeit the fee if you registered and neither cancel in time nor show up.
+The fee is paid by **online bank transfer** at the time of registration. There are **no other fee tiers** - €30 is the flat amount for all candidates regardless of residency status. Importantly, if you actually sit the exam on August 27, the €30 is **refunded** to you. You only forfeit the fee if you registered and neither cancel in time nor show up.
 
 ---
 
 ## 6. Where Will You Take the Exam?
 
-**Brussels Expo — Plateau du Heysel, Brussels**
+**Brussels Expo - Plateau du Heysel, Brussels**
 
 Every single candidate in the French-speaking community sits the exam in the same physical space: the Brussels Expo exhibition complex in northern Brussels. This is a deliberate design choice to ensure uniform conditions for all candidates nationwide.
 
@@ -159,12 +159,12 @@ The full exam lasts **approximately seven hours**, divided into two blocks acros
 | **Total questions** | | **80 MCQs** (two sessions of 40) |
 | **Total score** | | **160 points** |
 
-The **Communication** section (60 points) carries **3× the weight** of any single science subject — the most systematically underestimated section among science-strong candidates.
+The **Communication** section (60 points) carries **3× the weight** of any single science subject - the most systematically underestimated section among science-strong candidates.
 
 ### On Negative Marking
 
 > [!WARNING]
-> **Negative marking IS confirmed for 2026.** The concours applies a penalty of **–1/3 per wrong answer**, and an additional –1/3 if multiple answers are ticked for the same question. Never guess blindly — eliminate at least two options before committing. A political debate is ongoing in the French Community about potentially removing negative marking in future editions, but no change has been confirmed for 2026.
+> **Negative marking IS confirmed for 2026.** The concours applies a penalty of **–1/3 per wrong answer**, and an additional –1/3 if multiple answers are ticked for the same question. Never guess blindly - eliminate at least two options before committing. A political debate is ongoing in the French Community about potentially removing negative marking in future editions, but no change has been confirmed for 2026.
 
 ---
 
@@ -172,9 +172,9 @@ The **Communication** section (60 points) carries **3× the weight** of any sing
 
 The official syllabus is published by ARES on mesetudes.be. What follows is an expanded overview of priority topics, based on past papers (annales) and official documentation.
 
-### Part 1 — Scientific Knowledge and Understanding
+### Part 1 - Scientific Knowledge and Understanding
 
-The scientific content is drawn from **Belgian upper secondary education programmes** — broadly equivalent to the final two years of a science-track baccalaureate. However, the Belgian curriculum covers some concepts not always encountered in French, Indian, or international secondary programmes, so verify topic-by-topic against the ARES syllabus.
+The scientific content is drawn from **Belgian upper secondary education programmes** - broadly equivalent to the final two years of a science-track baccalaureate. However, the Belgian curriculum covers some concepts not always encountered in French, Indian, or international secondary programmes, so verify topic-by-topic against the ARES syllabus.
 
 #### Biology
 Cell structure, cell division (mitosis and meiosis), molecular genetics (DNA structure, transcription, translation, mutations), heredity and Mendelian genetics, human physiology (nervous system, endocrine system, cardiovascular system, immune system), ecology, and evolution. Biology consistently carries high question density across past papers.
@@ -190,16 +190,16 @@ Algebra and functions, trigonometry, vectors, differential calculus (derivatives
 
 ---
 
-### Part 2 — Communication and Critical Analysis of Information
+### Part 2 - Communication and Critical Analysis of Information
 
 > [!IMPORTANT]
-> This section is systematically underestimated by candidates with strong science backgrounds. Yet it comprises **half of your total score**. The skills assessed here are not "soft" — they require specific practice with the MCQ format.
+> This section is systematically underestimated by candidates with strong science backgrounds. Yet it comprises **half of your total score**. The skills assessed here are not "soft" - they require specific practice with the MCQ format.
 
 #### Reasoning and Analysis
 Reading complex texts (medical, scientific, or social), extracting relevant data, identifying logical inferences, constructing and evaluating syllogisms, and spatial reasoning exercises. Speed and accuracy matter: the reading load is heavy.
 
 #### Ethics and Empathy
-Understanding the four principles of bioethics — autonomy, beneficence, non-maleficence, and justice — and applying them to concrete medical scenarios. Demonstrating empathy, compassion, fairness, and respect in simulated patient interactions. These questions often present dilemmas rather than clear-cut answers; you are being assessed on your reasoning process, not just your conclusion.
+Understanding the four principles of bioethics - autonomy, beneficence, non-maleficence, and justice - and applying them to concrete medical scenarios. Demonstrating empathy, compassion, fairness, and respect in simulated patient interactions. These questions often present dilemmas rather than clear-cut answers; you are being assessed on your reasoning process, not just your conclusion.
 
 #### Communication
 Interpersonal and professional communication dynamics, active listening, recognizing conflict and potentially conflictual situations, and resolution strategies. Questions often present doctor-patient or team interaction scenarios.
@@ -208,7 +208,7 @@ Interpersonal and professional communication dynamics, active listening, recogni
 Synthesizing information from multiple sources, critiquing arguments, identifying assumptions and logical fallacies, and forming reasoned judgements. This sub-section rewards candidates who can think quickly under reading pressure.
 
 > [!NOTE]
-> **The connection between Part 1 and Part 2:** Your scientific knowledge and your ability to think and communicate are not separate skills — they are what medicine actually demands. A doctor who understands pharmacology but cannot communicate a diagnosis clearly or navigate an ethical dilemma is not a good doctor. The exam's two-part structure mirrors the dual demands of the profession. Take Part 2 as seriously as you take your biology.
+> **The connection between Part 1 and Part 2:** Your scientific knowledge and your ability to think and communicate are not separate skills - they are what medicine actually demands. A doctor who understands pharmacology but cannot communicate a diagnosis clearly or navigate an ethical dilemma is not a good doctor. The exam's two-part structure mirrors the dual demands of the profession. Take Part 2 as seriously as you take your biology.
 
 ---
 
@@ -222,9 +222,9 @@ After the exam, ARES calculates each candidate's **total score out of 160**, bas
 
 ### The Quota System
 
-Each year, the Government of the French Community (Fédération Wallonie-Bruxelles) sets a fixed **numerus clausus** — the total number of spots available in Medicine and separately in Dentistry for the upcoming academic year. In 2025, 1,462 candidates were admitted to Medicine (including 219 non-residents) and 186 to Dentistry (including 27 non-residents). The total quota was **1,648** out of **5,294 deliberated**.
+Each year, the Government of the French Community (Fédération Wallonie-Bruxelles) sets a fixed **numerus clausus** - the total number of spots available in Medicine and separately in Dentistry for the upcoming academic year. In 2025, 1,462 candidates were admitted to Medicine (including 219 non-residents) and 186 to Dentistry (including 27 non-residents). The total quota was **1,648** out of **5,294 deliberated**.
 
-The ARES jury selects candidates from the top of the ranked list downward, until the quota is filled. The candidate ranked at the exact cutoff point defines the minimum score needed that year — but this threshold is **not published in advance** and varies every year based on candidate performance.
+The ARES jury selects candidates from the top of the ranked list downward, until the quota is filled. The candidate ranked at the exact cutoff point defines the minimum score needed that year - but this threshold is **not published in advance** and varies every year based on candidate performance.
 
 ### What "Passing" Actually Means
 
@@ -244,17 +244,17 @@ If you rank within the quota, ARES issues you a personalised **attestation de r�
 - The mandatory document required to enrol at your chosen university in your chosen programme
 
 > [!CAUTION]
-> If you do not use your attestation for the 2026-2027 academic year, it expires. In cases of genuine force majeure, ARES may consider extending its validity — but this is exceptional.
+> If you do not use your attestation for the 2026-2027 academic year, it expires. In cases of genuine force majeure, ARES may consider extending its validity - but this is exceptional.
 
 ---
 
-## 10. The Non-Resident Quota — Critical for International Students
+## 10. The Non-Resident Quota - Critical for International Students
 
 If you are not a Belgian resident, this section directly controls your admission odds.
 
 ### Who Is a Non-Resident?
 
-ARES defines residency based on where your main residence is registered in Belgium. If you are not registered as a resident in Belgium — regardless of your nationality — you are classified as a **non-resident candidate**.
+ARES defines residency based on where your main residence is registered in Belgium. If you are not registered as a resident in Belgium - regardless of your nationality - you are classified as a **non-resident candidate**.
 
 ### The 15% Cap
 
@@ -273,15 +273,15 @@ If you claim resident status, you will need to upload proof of Belgian residence
 
 ## 11. Attempt Rules: How Many Times Can You Try?
 
-Over any **five consecutive academic years**, you may sit the concours a maximum of **two times** (in two different academic years). You cannot sit the exam twice in the same year — there is only one session per year.
+Over any **five consecutive academic years**, you may sit the concours a maximum of **two times** (in two different academic years). You cannot sit the exam twice in the same year - there is only one session per year.
 
 **Worked example:**
 - If you first sit the exam in **2026** (for academic year 2026-2027) and do not rank within the quota, your five-year window begins in 2026.
-- You may sit again in **any one year between 2027 and 2030** (i.e., 2027, 2028, 2029, or 2030 — but only once more).
+- You may sit again in **any one year between 2027 and 2030** (i.e., 2027, 2028, 2029, or 2030 - but only once more).
 - After that second attempt, you cannot sit again within the five-year window.
 
 > [!NOTE]
-> **The "no-show" rule:** If you register but do not sit the exam (whether you cancelled in time or simply did not appear), that year does **not** count as a used attempt. You only burn an attempt when you actually hand in an answer sheet. This makes strategic timing important — if you are not fully prepared, it may be better to skip a year than to use your second attempt prematurely.
+> **The "no-show" rule:** If you register but do not sit the exam (whether you cancelled in time or simply did not appear), that year does **not** count as a used attempt. You only burn an attempt when you actually hand in an answer sheet. This makes strategic timing important - if you are not fully prepared, it may be better to skip a year than to use your second attempt prematurely.
 
 Force majeure exceptions exist: if extraordinary circumstances (serious illness, bereavement, etc.) prevented you from sitting, the ARES jury may waive the attempt count at its discretion.
 
@@ -293,21 +293,21 @@ The exam closes on August 27. Here is what follows:
 
 1. **ARES marks all papers** and calculates individual scores out of 160.
 2. **Two ranked lists** are produced: one for Medicine, one for Dentistry.
-3. **Attestations de réussite** are issued to candidates who rank within the quota — published on your concoursmd.be account, **expected early September 2026**.
-4. Admitted candidates must **immediately proceed with university enrolment** at their chosen institution. You must enrol in the programme and at the university you specified at registration — you cannot switch to a different university after your attestation is issued.
+3. **Attestations de réussite** are issued to candidates who rank within the quota - published on your concoursmd.be account, **expected early September 2026**.
+4. Admitted candidates must **immediately proceed with university enrolment** at their chosen institution. You must enrol in the programme and at the university you specified at registration - you cannot switch to a different university after your attestation is issued.
 5. Candidates who were not admitted receive their results and ranking position. Some universities offer **individual feedback sessions** with professors or academic advisors to help you evaluate your results and plan next steps.
 
 ---
 
 ## 13. What If You Don't Make the Cut?
 
-Not ranking within the quota is devastating — but it is not the end of your medical career. About 70% of candidates face this outcome every year. Here are your realistic options:
+Not ranking within the quota is devastating - but it is not the end of your medical career. About 70% of candidates face this outcome every year. Here are your realistic options:
 
 ### Option A: Prepare Harder and Retake (If You Have an Attempt Remaining)
-Most candidates who eventually gain admission do so on a second attempt after a year of focused preparation. Use the full year strategically — not just more study hours, but better-targeted preparation based on your specific weak subjects.
+Most candidates who eventually gain admission do so on a second attempt after a year of focused preparation. Use the full year strategically - not just more study hours, but better-targeted preparation based on your specific weak subjects.
 
 ### Option B: Enrol in a Related Bachelor's Programme
-Several Belgian universities — particularly UNamur — allow non-admitted candidates to enrol in the **Bachelor in Biomedical Sciences** or **Bachelor in Pharmaceutical Sciences**. These programmes:
+Several Belgian universities - particularly UNamur - allow non-admitted candidates to enrol in the **Bachelor in Biomedical Sciences** or **Bachelor in Pharmaceutical Sciences**. These programmes:
 - Cover significant overlap with the concours syllabus (Biology, Chemistry, Physics, Mathematics)
 - Allow you to earn university credits that may be recognised if you later pass the concours
 - Give you a meaningful academic year rather than a full gap year
@@ -322,13 +322,13 @@ This is widely considered the most productive use of a "reset year" for serious 
 
 ## 14. How to Prepare: A Realistic Study Strategy
 
-### Start Early — Really Early
+### Start Early - Really Early
 
-The concours material spans the full Belgian upper secondary science curriculum. For students coming from non-Belgian secondary systems (French, Indian, international), there are topics you may have never encountered. Give yourself **at minimum six months of dedicated preparation** — ideally starting in February or March at the latest for an August exam.
+The concours material spans the full Belgian upper secondary science curriculum. For students coming from non-Belgian secondary systems (French, Indian, international), there are topics you may have never encountered. Give yourself **at minimum six months of dedicated preparation** - ideally starting in February or March at the latest for an August exam.
 
 ### Phase 1: Audit Your Gaps (January–March)
 
-Before you open a textbook, take a recent past paper (available through the official ARES annales and platforms like classpro.be or the UNamur preparatory course). Identify which of the eight subjects need the most work. Do not prepare all subjects equally — concentrate firepower where your deficit is largest.
+Before you open a textbook, take a recent past paper (available through the official ARES annales and platforms like classpro.be or the UNamur preparatory course). Identify which of the eight subjects need the most work. Do not prepare all subjects equally - concentrate firepower where your deficit is largest.
 
 ### Phase 2: Subject-by-Subject Mastery (March–June)
 
@@ -344,13 +344,13 @@ Work through the ARES official syllabus subject by subject. For each subject:
 
 ### Phase 3: Part 2 Is Not Optional (Throughout)
 
-Integrate Part 2 preparation from the very beginning — not as an afterthought in July. Practice reading comprehension under timed pressure weekly. Work through bioethics case studies. Practice identifying logical fallacies. Candidates who neglect Part 2 find themselves unable to maintain their science-section ranking because they drop heavily on communication and reasoning questions.
+Integrate Part 2 preparation from the very beginning - not as an afterthought in July. Practice reading comprehension under timed pressure weekly. Work through bioethics case studies. Practice identifying logical fallacies. Candidates who neglect Part 2 find themselves unable to maintain their science-section ranking because they drop heavily on communication and reasoning questions.
 
 ### Phase 4: Full Mock Concours (June–August)
 
 From mid-June, shift to full seven-hour mock exams:
 
-- **Saturday full mocks:** Simulate the real exam day entirely — start at the same time, use paper answer sheets, take no extra breaks, eat what you would eat on exam day.
+- **Saturday full mocks:** Simulate the real exam day entirely - start at the same time, use paper answer sheets, take no extra breaks, eat what you would eat on exam day.
 - **Concours blancs:** Platforms like ClassPro and UNamur's summer session (June 29–July 11) offer mock exams with real competitive ranking against other candidates. These are invaluable for understanding where you stand relative to the field, not just against an answer key.
 - **Review the official ARES annales** (past papers with official corrections) to understand the exact style, difficulty, and traps of real questions.
 
@@ -371,7 +371,7 @@ For completeness, if you are considering studying in Flanders (Dutch-speaking Be
 | **2026 date** | 27 August 2026 | Typically early July (verify with Flemish authorities) |
 | **Sessions** | One per year | Typically two sessions per year |
 | **Scoring** | Competitive ranking | Has historically included correction for guessing |
-| **Non-resident quota** | 15% | Different quota — verify |
+| **Non-resident quota** | 15% | Different quota - verify |
 | **Portal** | concoursmd.be | vlaanderen.be |
 
 > [!NOTE]
@@ -382,13 +382,13 @@ For completeness, if you are considering studying in Flanders (Dutch-speaking Be
 ## 16. Frequently Asked Questions
 
 **Can I study Dentistry with the same exam?**
-Yes — the same written test is used for both Medicine and Dentistry. However, you must choose your programme at registration. The two programmes have separate rankings and separate quotas. You cannot switch after registering or after receiving your result.
+Yes - the same written test is used for both Medicine and Dentistry. However, you must choose your programme at registration. The two programmes have separate rankings and separate quotas. You cannot switch after registering or after receiving your result.
 
 **Can I sit the exam if I am still in my final year of secondary school?**
 Yes, provided you will have completed your studies and hold (or will hold) your CESS or equivalent by the start of the academic year. Check with ARES directly if your diploma situation is unusual.
 
 **Is the exam available in English?**
-No. The ARES concours is administered in French. The Flemish Toelatingsexamen is administered in Dutch. There is no English-language version of either exam. If you are an international student planning to study medicine in French in Belgium, you need strong French reading and comprehension skills — the exam is not the place to be developing them.
+No. The ARES concours is administered in French. The Flemish Toelatingsexamen is administered in Dutch. There is no English-language version of either exam. If you are an international student planning to study medicine in French in Belgium, you need strong French reading and comprehension skills - the exam is not the place to be developing them.
 
 **What if I registered but have a family emergency and cannot attend?**
 If you contact ARES before the cancellation deadline (13 August 2026) and cancel via your online account, your attempt is not counted. If the emergency arises after the cancellation deadline, you may apply for force majeure consideration with ARES after the fact. Not showing up without cancelling does not count as a used attempt, but you forfeit your registration fee.
@@ -406,7 +406,7 @@ For the French-community concours: [mesetudes.be](https://www.mesetudes.be) and 
 
 ## Final Thought
 
-Every doctor practicing in Belgium today sat in your position at some point — uncertain, over-prepared in some areas, under-prepared in others, and genuinely unsure whether they would make it. The exam is hard by design. A 29% pass rate is the point. Medicine demands exactly the kind of person who prepares seriously, adapts to setbacks, and keeps going.
+Every doctor practicing in Belgium today sat in your position at some point - uncertain, over-prepared in some areas, under-prepared in others, and genuinely unsure whether they would make it. The exam is hard by design. A 29% pass rate is the point. Medicine demands exactly the kind of person who prepares seriously, adapts to setbacks, and keeps going.
 
 Whether this is your first attempt or your second, the path forward is the same: understand the rules exactly, prepare with focus and honesty, and show up to Brussels Expo on August 27 ready to compete.
 

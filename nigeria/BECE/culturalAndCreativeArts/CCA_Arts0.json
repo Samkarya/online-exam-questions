@@ -492,7 +492,7 @@
     },
     "correct_answer": "b",
     "difficulty": "Medium",
-    "explanation": "The elements of design are the foundational components or 'ingredients'—such as line, shape, colour, and texture—that artists use to construct a piece of visual art.",
+    "explanation": "The elements of design are the foundational components or 'ingredients'-such as line, shape, colour, and texture-that artists use to construct a piece of visual art.",
     "section_id": null
   },
   {
@@ -643,7 +643,7 @@
     "question_number": 41,
     "subject": "Arts",
     "topic": "Examples of Elements of Design",
-    "question_text": "The element of art that refers to the surface quality or 'feel' of an object—whether it is smooth, rough, soft, or hard—is called:",
+    "question_text": "The element of art that refers to the surface quality or 'feel' of an object-whether it is smooth, rough, soft, or hard-is called:",
     "options": {
       "a": "Texture",
       "b": "Tone",

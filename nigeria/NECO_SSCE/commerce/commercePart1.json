@@ -44,7 +44,7 @@
     },
     "correct_answer": "b",
     "difficulty": "Medium",
-    "explanation": "The barter system is the direct exchange of goods for goods without the use of money. Its primary drawback was the **double coincidence of wants**—the requirement that both parties must desire exactly what the other person is offering in exchange, at the exact same time.",
+    "explanation": "The barter system is the direct exchange of goods for goods without the use of money. Its primary drawback was the **double coincidence of wants**-the requirement that both parties must desire exactly what the other person is offering in exchange, at the exact same time.",
     "section_id": null
   },
   {
@@ -341,10 +341,10 @@
     "topic": "Production",
     "question_text": "Which of the following pairs correctly matches a factor of production with its corresponding economic reward?",
     "options": {
-      "a": "Land — Interest",
-      "b": "Capital — Rent",
-      "c": "Labour — Wages",
-      "d": "Entrepreneurship — Salaries"
+      "a": "Land - Interest",
+      "b": "Capital - Rent",
+      "c": "Labour - Wages",
+      "d": "Entrepreneurship - Salaries"
     },
     "correct_answer": "c",
     "difficulty": "Easy",
@@ -1068,7 +1068,7 @@
     },
     "correct_answer": "b",
     "difficulty": "Medium",
-    "explanation": "A **Credit Note** is a commercial document issued by a seller to a buyer, reducing the amount that the buyer owes to the seller. It is used when goods are returned, there was a shortage in delivery, or the buyer was overcharged on the original invoice. (A *Debit Note* does the opposite—it increases the debt if the buyer was undercharged).",
+    "explanation": "A **Credit Note** is a commercial document issued by a seller to a buyer, reducing the amount that the buyer owes to the seller. It is used when goods are returned, there was a shortage in delivery, or the buyer was overcharged on the original invoice. (A *Debit Note* does the opposite-it increases the debt if the buyer was undercharged).",
     "section_id": null
   },
   {

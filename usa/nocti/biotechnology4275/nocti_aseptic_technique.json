@@ -12,7 +12,7 @@
     },
     "correct_answer": "c",
     "difficulty": "Easy",
-    "explanation": "A Biological Safety Cabinet (BSC) relies entirely on carefully engineered fluid dynamics—specifically, **unidirectional (laminar) airflow**. \n\nAir is drawn into the cabinet, forced through a High-Efficiency Particulate Air (HEPA) filter to remove $99.97\\%$ of airborne microbes and dust, and then blown straight down over the work surface in a smooth sheet. This sterile air curtain prevents contaminated room air from entering and prevents biohazardous aerosols from escaping. \n> UV light (Option 'a') is only used when the cabinet is empty and the sash is closed, as it damages human skin and eyes.",
+    "explanation": "A Biological Safety Cabinet (BSC) relies entirely on carefully engineered fluid dynamics-specifically, **unidirectional (laminar) airflow**. \n\nAir is drawn into the cabinet, forced through a High-Efficiency Particulate Air (HEPA) filter to remove $99.97\\%$ of airborne microbes and dust, and then blown straight down over the work surface in a smooth sheet. This sterile air curtain prevents contaminated room air from entering and prevents biohazardous aerosols from escaping. \n> UV light (Option 'a') is only used when the cabinet is empty and the sash is closed, as it damages human skin and eyes.",
     "section_id": null
   },
   {
