@@ -102,10 +102,10 @@ That's roughly an 11-month arc from registration opening to the last retake. AY 
 
 These haven't changed for AY 2026–2027 as of publication, and they apply regardless of which cycle you're in:
 
-- **Exam Site:** $185 per candidate, covering the first attempt plus one free retake.
-- **Remote Testing Option:** $200 for the first attempt (includes one free retake), $50 for a third attempt.
+- **Exam Site:** \$185 per candidate, covering the first attempt plus one free retake.
+- **Remote Testing Option:** \$200 for the first attempt (includes one free retake), \$50 for a third attempt.
 - **Site order lead times:** six weeks' notice for first attempts, two weeks' for retakes.
-- **Change fees:** free within 14 days of placing an order, $175 after that, or $425 to expedite an order placed with less than six weeks' notice.
+- **Change fees:** free within 14 days of placing an order, \$175 after that, or \$425 to expedite an order placed with less than six weeks' notice.
 
 Full breakdown, including what's included in the fee and how attempts are tracked, is in the [Complete BACE Study Guide](/blog/bace-exam-guide).
 
