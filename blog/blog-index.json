@@ -34,6 +34,22 @@
     "mdFilePath": "/blog/how-to-use-examoven-custom-forge-ai-json.md"
   },
   {
+    "slug": "how-to-use-examoven-revision-bank",
+    "title": "How to Filter and Retake Your Mistakes Across Multiple Tests",
+    "type": "blog",
+    "date": "2026-10-01",
+    "author": "ExamOven Team",
+    "excerpt": "A practical guide to ExamOven's Revision Bank. Learn how to bundle your wrong and skipped questions from multiple tests into a single retake or review session.",
+    "tags": [
+      "Revision",
+      "How-To",
+      "Study Guide",
+      "Exam Prep",
+      "Features"
+    ],
+    "mdFilePath": "/blog/how-to-use-examoven-revision-bank.md"
+  },
+  {
     "slug": "hosa-forensic-science-study-guide-2026",
     "title": "Mastering HOSA Forensic Science: The 2025-2026 Guide",
     "type": "blog",
