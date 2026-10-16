@@ -264,7 +264,7 @@
       "a": "$e^e$",
       "b": "$e^{e^2}$",
       "c": "$e^{2e}$",
-      "d": "$e^{2e}$"
+      "d": "$e^{3e}$"
     },
     "correct_answer": "c",
     "difficulty": "Medium",
@@ -508,7 +508,7 @@
     },
     "correct_answer": "b",
     "difficulty": "Medium",
-    "explanation": "The initial capacitance of the air capacitor is $C = \\frac{\\epsilon_0 A}{d}$.\nWhen a dielectric of thickness $d/2$ is inserted, it behaves as two capacitors in series: one with dielectric $K$ and thickness $d/2$, and the other with air (dielectric 1) and thickness $d/2$.\nThe capacitance of the dielectric-filled part is $C_1 = \\frac{K\\epsilon_0 A}{d/2} = \\frac{2K\\epsilon_0 A}{d} = 2KC = 2(5)C = 10C$.\nThe capacitance of the air-filled part is $C_2 = \\frac{\\epsilon_0 A}{d/2} = \\frac{2\\epsilon_0 A}{d} = 2C$.\nThe equivalent capacitance $C_{new}$ is their series combination:\n$C_{new} = \\frac{C_1 C_2}{C_1 + C_2} = \\frac{10C \\times 2C}{10C + 2C} = \\frac{20C}{12} = \\frac{5}{3}C$.\nThe percentage increase in capacitance is:\n$\\%\text{ Increase} = \\frac{C_{new} - C}{C} \\times 100\\% = \\left(\\frac{5/3 C - C}{C}\\right) \\times 100\\% = \\frac{2}{3} \\times 100\\% \\approx 66.67\\%$.",
+    "explanation": "The initial capacitance of the air capacitor is $C = \\frac{\\epsilon_0 A}{d}$.\nWhen a dielectric of thickness $d/2$ is inserted, it behaves as two capacitors in series: one with dielectric $K$ and thickness $d/2$, and the other with air (dielectric 1) and thickness $d/2$.\nThe capacitance of the dielectric-filled part is $C_1 = \\frac{K\\epsilon_0 A}{d/2} = \\frac{2K\\epsilon_0 A}{d} = 2KC = 2(5)C = 10C$.\nThe capacitance of the air-filled part is $C_2 = \\frac{\\epsilon_0 A}{d/2} = \\frac{2\\epsilon_0 A}{d} = 2C$.\nThe equivalent capacitance $C_{new}$ is their series combination:\n$C_{new} = \\frac{C_1 C_2}{C_1 + C_2} = \\frac{10C \\times 2C}{10C + 2C} = \\frac{20C}{12} = \\frac{5}{3}C$.\nThe percentage increase in capacitance is:\n$\\%\\text{ Increase} = \\frac{C_{new} - C}{C} \\times 100\\% = \\left(\\frac{5/3 C - C}{C}\\right) \\times 100\\% = \\frac{2}{3} \\times 100\\% \\approx 66.67\\%$.",
     "section_id": null
   },
   {
@@ -604,7 +604,7 @@
     },
     "correct_answer": "a",
     "difficulty": "Hard",
-    "explanation": "The induced EMF in a coil due to a changing magnetic field is $E = -N \\frac{d\\Phi}{dt} = -NA \\frac{dB}{dt}$. Thus, $E \\propto NA$.\nThe power dissipated is $P = \\frac{E^2}{R_{wire}}$.\nThe resistance of the wire is $R_{wire} = \\rho \\frac{l}{\\pi r^2}$.\nThe total length of the wire $l = N \times (2\\pi R_{coil})$. Since the area of the coil is $A = \\pi R_{coil}^2$, we have $R_{coil} \\propto \\sqrt{A}$.\nSo, $l \\propto N\\sqrt{A}$, giving $R_{wire} \\propto \\frac{N\\sqrt{A}}{r^2}$.\nSubstitute this into the power equation:\n$P \\propto \\frac{(NA)^2}{\\frac{N\\sqrt{A}}{r^2}} = \\frac{N^2 A^2 r^2}{N \\sqrt{A}} = N A^{3/2} r^2$.\nNow compare the power for the second coil $P'$:\n$N' = 2N$, $A' = 2A$, $r' = 3r$.\n$P' = P \\left(\\frac{N'}{N}\\right) \\left(\\frac{A'}{A}\\right)^{3/2} \\left(\\frac{r'}{r}\\right)^2 = P (2) (2)^{3/2} (3)^2 = P \\times 2 \\times 2\\sqrt{2} \\times 9 = 36\\sqrt{2} P$.\nComparing this with the given $P' = \\sqrt{2} \\alpha P$, we get $\\alpha = 36$.",
+    "explanation": "The induced EMF in a coil due to a changing magnetic field is $E = -N \\frac{d\\Phi}{dt} = -NA \\frac{dB}{dt}$. Thus, $E \\propto NA$.\nThe power dissipated is $P = \\frac{E^2}{R_{wire}}$.\nThe resistance of the wire is $R_{wire} = \\rho \\frac{l}{\\pi r^2}$.\nThe total length of the wire $l = N \\times (2\\pi R_{coil})$. Since the area of the coil is $A = \\pi R_{coil}^2$, we have $R_{coil} \\propto \\sqrt{A}$.\nSo, $l \\propto N\\sqrt{A}$, giving $R_{wire} \\propto \\frac{N\\sqrt{A}}{r^2}$.\nSubstitute this into the power equation:\n$P \\propto \\frac{(NA)^2}{\\frac{N\\sqrt{A}}{r^2}} = \\frac{N^2 A^2 r^2}{N \\sqrt{A}} = N A^{3/2} r^2$.\nNow compare the power for the second coil $P'$:\n$N' = 2N$, $A' = 2A$, $r' = 3r$.\n$P' = P \\left(\\frac{N'}{N}\\right) \\left(\\frac{A'}{A}\\right)^{3/2} \\left(\\frac{r'}{r}\\right)^2 = P (2) (2)^{3/2} (3)^2 = P \\times 2 \\times 2\\sqrt{2} \\times 9 = 36\\sqrt{2} P$.\nComparing this with the given $P' = \\sqrt{2} \\alpha P$, we get $\\alpha = 36$.",
     "section_id": null
   },
   {
@@ -636,7 +636,7 @@
     },
     "correct_answer": "b",
     "difficulty": "Easy",
-    "explanation": "For a thin prism with refracting angle $A$ and refractive index $n = 1.5$, the minimum deviation is given by:\n$\\delta_m \\approx (n - 1)A = (1.5 - 1)A = 0.5 A = \\frac{A}{2}$\nAt the condition of minimum deviation, the angle of refraction inside the prism is $r = \\frac{A}{2}$.\nUsing Snell's law for small angles, the angle of incidence $i$ is:\n$i \\approx n \times r = 1.5 \\times \\left(\\frac{A}{2}\\right) = \\frac{3}{4} A$\nThe ratio of the angle of incidence to the minimum deviation is:\n$\\frac{i}{\\delta_m} = \\frac{\\frac{3}{4} A}{\\frac{1}{2} A} = \\frac{3}{4} \\times 2 = \\frac{3}{2}$\nThus, the ratio is $3 : 2$.",
+    "explanation": "For a thin prism with refracting angle $A$ and refractive index $n = 1.5$, the minimum deviation is given by:\n$\\delta_m \\approx (n - 1)A = (1.5 - 1)A = 0.5 A = \\frac{A}{2}$\nAt the condition of minimum deviation, the angle of refraction inside the prism is $r = \\frac{A}{2}$.\nUsing Snell's law for small angles, the angle of incidence $i$ is:\n$i \\approx n \\times r = 1.5 \\times \\left(\\frac{A}{2}\\right) = \\frac{3}{4} A$\nThe ratio of the angle of incidence to the minimum deviation is:\n$\\frac{i}{\\delta_m} = \\frac{\\frac{3}{4} A}{\\frac{1}{2} A} = \\frac{3}{4} \\times 2 = \\frac{3}{2}$\nThus, the ratio is $3 : 2$.",
     "section_id": null
   },
   {
@@ -652,7 +652,7 @@
     },
     "correct_answer": "a",
     "difficulty": "Hard",
-    "explanation": "Since the center of curvature $C$ is located on the same side as the object (left of the pole $P$), the spherical refracting surface is concave towards the object. Applying Cartesian sign convention:\nObject distance $u = -40\\text{ cm}$\nRadius of curvature $R = -20\\text{ cm}$ (since center of curvature is on the negative axis)\nRefractive index of object medium $\\mu_1 = 1$\nAssuming the intended value of the medium is exactly $\\mu_2 = 1.5$ to match the clear integer option based on common configurations:\nFormula for refraction at a single spherical surface: $\\frac{\\mu_2}{v} - \\frac{\\mu_1}{u} = \\frac{\\mu_2 - \\mu_1}{R}$\n$\\frac{1.5}{v} - \\frac{1}{-40} = \\frac{1.5 - 1}{-20}$\n$\\frac{1.5}{v} + \\frac{1}{40} = \\frac{0.5}{-20} = -\\frac{1}{40}$\n$\\frac{1.5}{v} = -\\frac{1}{40} - \\frac{1}{40} = -\\frac{2}{40} = -\\frac{1}{20}$\n$v = -1.5 \\times 20 = -30\\text{ cm}$.\nMagnification formula for a spherical refracting surface: $m = \\frac{\\mu_1 v}{\\mu_2 u}$\n$m = \\frac{1 \\times (-30)}{1.5 \\times (-40)} = \\frac{-30}{-60} = +0.5$\nThe height of the image is $h_i = m \times h_o = 0.5 \\times 2\\text{ cm} = 1\\text{ cm}$.\n(Note: Even using the strict OCR value $\\mu_2=1.54$, the result yields $\\approx 0.96$ cm, which best matches the 1 cm option).",
+    "explanation": "Since the center of curvature $C$ is located on the same side as the object (left of the pole $P$), the spherical refracting surface is concave towards the object. Applying Cartesian sign convention:\nObject distance $u = -40\\text{ cm}$\nRadius of curvature $R = -20\\text{ cm}$ (since center of curvature is on the negative axis)\nRefractive index of object medium $\\mu_1 = 1$\nAssuming the intended value of the medium is exactly $\\mu_2 = 1.5$ to match the clear integer option based on common configurations:\nFormula for refraction at a single spherical surface: $\\frac{\\mu_2}{v} - \\frac{\\mu_1}{u} = \\frac{\\mu_2 - \\mu_1}{R}$\n$\\frac{1.5}{v} - \\frac{1}{-40} = \\frac{1.5 - 1}{-20}$\n$\\frac{1.5}{v} + \\frac{1}{40} = \\frac{0.5}{-20} = -\\frac{1}{40}$\n$\\frac{1.5}{v} = -\\frac{1}{40} - \\frac{1}{40} = -\\frac{2}{40} = -\\frac{1}{20}$\n$v = -1.5 \\times 20 = -30\\text{ cm}$.\nMagnification formula for a spherical refracting surface: $m = \\frac{\\mu_1 v}{\\mu_2 u}$\n$m = \\frac{1 \\times (-30)}{1.5 \\times (-40)} = \\frac{-30}{-60} = +0.5$\nThe height of the image is $h_i = m \\times h_o = 0.5 \\times 2\\text{ cm} = 1\\text{ cm}$.\n(Note: Even using the strict OCR value $\\mu_2=1.54$, the result yields $\\approx 0.96$ cm, which best matches the 1 cm option).",
     "section_id": null
   },
   {
@@ -716,7 +716,7 @@
     },
     "correct_answer": "b",
     "difficulty": "Medium",
-    "explanation": "Let the radius of the large drop be $R$ and the radius of each small droplet be $r$.\nDiameter of large drop $= 2\\text{ mm} \\implies R = 1\\text{ mm} = 10^{-3}\\text{ m}$.\nBy conservation of volume during splitting into $n=512$ drops:\n$\\frac{4}{3}\\pi R^3 = 512 \\times \\frac{4}{3}\\pi r^3 \\implies R^3 = 512 r^3$\nSince $512 = 8^3$, we get $r = \\frac{R}{8}$.\nThe initial surface area is $A_i = 4\\pi R^2$.\nThe final total surface area is $A_f = 512 \times 4\\pi r^2 = 512 \\times 4\\pi \\left(\\frac{R}{8}\\right)^2 = 512 \\times \\frac{4\\pi R^2}{64} = 8(4\\pi R^2)$.\nThe change in surface area is $\\Delta A = A_f - A_i = 8(4\\pi R^2) - 4\\pi R^2 = 7(4\\pi R^2) = 28\\pi R^2$.\nChange in surface energy is $\\Delta E = T \\times \\Delta A$:\n$\\Delta E = 0.08 \\times 28\\pi \\times (10^{-3})^2 = 2.24\\pi \\times 10^{-6}\\text{ J}$.\nUsing $\\pi \\approx 3.14159$, $\\Delta E \\approx 2.24 \times 3.14159 \\times 10^{-6} = 7.037 \\times 10^{-6}\\text{ J}$.\nThus, $\\Delta E \\approx 7 \\times 10^{-6}\\text{ J}$, meaning $\\alpha = 7$.",
+    "explanation": "Let the radius of the large drop be $R$ and the radius of each small droplet be $r$.\nDiameter of large drop $= 2\\text{ mm} \\implies R = 1\\text{ mm} = 10^{-3}\\text{ m}$.\nBy conservation of volume during splitting into $n=512$ drops:\n$\\frac{4}{3}\\pi R^3 = 512 \\times \\frac{4}{3}\\pi r^3 \\implies R^3 = 512 r^3$\nSince $512 = 8^3$, we get $r = \\frac{R}{8}$.\nThe initial surface area is $A_i = 4\\pi R^2$.\nThe final total surface area is $A_f = 512 \\times 4\\pi r^2 = 512 \\times 4\\pi \\left(\\frac{R}{8}\\right)^2 = 512 \\times \\frac{4\\pi R^2}{64} = 8(4\\pi R^2)$.\nThe change in surface area is $\\Delta A = A_f - A_i = 8(4\\pi R^2) - 4\\pi R^2 = 7(4\\pi R^2) = 28\\pi R^2$.\nChange in surface energy is $\\Delta E = T \\times \\Delta A$:\n$\\Delta E = 0.08 \\times 28\\pi \\times (10^{-3})^2 = 2.24\\pi \\times 10^{-6}\\text{ J}$.\nUsing $\\pi \\approx 3.14159$, $\\Delta E \\approx 2.24 \\times 3.14159 \\times 10^{-6} = 7.037 \\times 10^{-6}\\text{ J}$.\nThus, $\\Delta E \\approx 7 \\times 10^{-6}\\text{ J}$, meaning $\\alpha = 7$.",
     "section_id": null
   },
   {

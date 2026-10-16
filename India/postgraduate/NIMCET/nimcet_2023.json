@@ -4,10 +4,10 @@
       "subject": "Mathematics",
       "question_text": "A circle touches the x-axis and also touches the circle with centre (0, 3) and radius 2. The locus of the centre of the circle is",
       "options": {
-        "a": "a circle",
-        "b": "an ellipse",
-        "c": "a parabola",
-        "d": "a hyperbola"
+        "a": "A circle",
+        "b": "An ellipse",
+        "c": "A parabola",
+        "d": "A hyperbola"
       },
       "correct_answer": "c"
     },
@@ -1231,7 +1231,7 @@
         "a": "0000100011",
         "b": "1100100011",
         "c": "1111011101",
-        "d": "1111011101"
+        "d": "1111010101"
       },
       "correct_answer": "c"
     },

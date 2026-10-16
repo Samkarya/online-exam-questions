@@ -306,7 +306,7 @@
     "options": {
       "a": "1/5",
       "b": "2/5",
-      "c": "1/5",
+      "c": "1/15",
       "d": "1/10"
     },
     "correct_answer": "a"
@@ -400,7 +400,7 @@
     "subject": "Mathematics",
     "question_text": "If α, β are the roots of x² − x − 1 = 0 and An = αⁿ + βⁿ, the Arithmetic mean of An-1 and An is",
     "options": {
-      "a": "An+1 / 2",
+      "a": "An+4 / 2",
       "b": "An+1 / 2",
       "c": "2An + 2",
       "d": "none of the above"
@@ -438,7 +438,7 @@
     "options": {
       "a": "0",
       "b": "pq",
-      "c": "pq",
+      "c": "p+q",
       "d": "pq(p+q)"
     },
     "correct_answer": "a"
@@ -558,7 +558,7 @@
     "options": {
       "a": "m + n = 11",
       "b": "2m - n = 1",
-      "c": "2m - n = 1",
+      "c": "3m - n = 1",
       "d": "3n - m = 5"
     },
     "correct_answer": "a"
