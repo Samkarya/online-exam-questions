@@ -2,6 +2,12 @@ import fs from 'fs';
 import path from 'path';
 import { ConfigSchema, ExamSchema, BlogIndexSchema, RootConfigSchema } from './schemas';
 import { Config, Question, BlogIndex } from './types';
+import { processExamText, snippetAt, describeWhere, extractImageRefs } from './examCore';
+
+// CLI flags:  --warnings  list every content warning   |   --strict  treat warnings as errors
+const SHOW_WARNINGS = process.argv.includes('--warnings');
+const STRICT = process.argv.includes('--strict');
+const ROOT_DIR = path.join(__dirname, '..');
 
 const CONFIG_PATH = path.join(__dirname, '../config.json');
 const BLOG_INDEX_PATH = path.join(__dirname, '../blog/blog-index.json');
@@ -16,6 +22,25 @@ function fileExistsCaseSensitive(filepath: string): boolean {
     } catch (e) {
         return false;
     }
+}
+
+// Case-sensitive existence for EVERY path segment (an image that works on Windows/macOS but 404s on Linux/GitHub Pages),
+// and refuses paths that escape the repository.
+const dirCache = new Map<string, string[]>();
+function existsCaseSensitive(abs: string): boolean {
+    const rel = path.relative(ROOT_DIR, abs);
+    if (rel === '' || rel.startsWith('..') || path.isAbsolute(rel)) return false;
+    let cur = ROOT_DIR;
+    for (const seg of rel.split(path.sep)) {
+        let list = dirCache.get(cur);
+        if (!list) {
+            try { list = fs.readdirSync(cur); } catch (e) { return false; }
+            dirCache.set(cur, list);
+        }
+        if (!list.includes(seg)) return false;
+        cur = path.join(cur, seg);
+    }
+    return true;
 }
 
 async function validate() {
@@ -150,10 +175,13 @@ async function validate() {
     }
 
     // 4.2 Deep Exam Content Validation
+    // The shared core (src/examCore.ts) checks syntax, structure, answers, numbering and renderer-aware content.
+    // Errors fail the build. Warnings are summarised (use --warnings to list them, --strict to fail on them).
+    const warnTotals = new Map<string, { title: string; count: number; files: Set<string>; example: string }>();
     for (const entry of combinedConfigs) {
 
-        let examPath = path.join(__dirname, '..', entry.path);
-        let exists = fs.existsSync(examPath) && fileExistsCaseSensitive(examPath);
+        const examPath = path.join(__dirname, '..', entry.path);
+        const exists = fs.existsSync(examPath) && fileExistsCaseSensitive(examPath);
 
         if (!exists) {
             console.error(`❌ FILE ERROR: "${entry.path}" not found for ID ${entry.id}`);
@@ -163,10 +191,38 @@ async function validate() {
 
         try {
             const rawExam = fs.readFileSync(examPath, 'utf-8');
-            const examData = JSON.parse(rawExam);
-            // Relaxed check: Basic ExamSchema (Question[])
-            const result = ExamSchema.safeParse(examData);
+            const report = processExamText(rawExam, { mode: 'check' });
 
+            if (report.fatal) {
+                console.error(`❌ CANNOT READ ${entry.path}: ${report.fatal.message}`);
+                if (report.fatal.offset !== undefined) console.error(snippetAt(rawExam, report.fatal.offset));
+                if (report.fatal.suggestion) console.error(`   Hint: ${report.fatal.suggestion}`);
+                hasError = true;
+                continue;
+            }
+
+            const errorGroups = report.groups.filter(g => g.severity === 'error');
+            if (errorGroups.length > 0) {
+                console.error(`❌ ${report.issues.filter(i => i.severity === 'error').length} problem(s) in ${entry.path}:`);
+                for (const g of errorGroups) {
+                    console.error(`   • ${describeWhere(g)}${g.example}${g.count > 1 ? `  (+${g.count - 1} more like this)` : ''}`);
+                }
+                hasError = true;
+                continue;
+            }
+
+            for (const g of report.groups) {
+                if (g.severity === 'error') continue;
+                const t = warnTotals.get(g.code) || { title: g.title, count: 0, files: new Set<string>(), example: '' };
+                t.count += g.count;
+                t.files.add(entry.path);
+                if (!t.example) t.example = `${entry.path}  ${describeWhere(g)}${g.example}`;
+                warnTotals.set(g.code, t);
+                if (SHOW_WARNINGS) console.warn(`⚠️  ${entry.path}: ${describeWhere(g)}${g.example}`);
+            }
+
+            // Structural safety net (zod). The core already rejects everything below, so this should never fire.
+            const result = ExamSchema.safeParse(JSON.parse(rawExam));
             if (!result.success) {
                 console.error(`❌ SCHEMA ERROR in ${entry.path}:`);
                 console.error(JSON.stringify(result.error.issues.slice(0, 2), null, 2));
@@ -177,48 +233,40 @@ async function validate() {
             // Explicitly use the Question type here
             const questions: Question[] = result.data;
 
-            // Check Question Number Sequencing
-            const qNumbers = questions.map(q => q.question_number).sort((a, b) => a - b);
-            const isSequential = qNumbers.every((num, index) => num === index + 1);
-            if (!isSequential) {
-                console.error(`❌ SEQUENCE ERROR: Question numbers in ${entry.path} are not sequential 1..N`);
-                hasError = true;
-            }
-
-            // Check Logic & Assets
+            // Image Asset Validation: real markdown parsing (titles, parentheses, <img src>), code blocks ignored.
             for (const q of questions) {
-                // Answer Key Logic
-                // Normalize keys to lowercase for comparison
-                const validOptions = Object.keys(q.options).map(k => k.toLowerCase());
-                if (!validOptions.includes(q.correct_answer.toLowerCase())) {
-                    console.error(`❌ LOGIC ERROR (${entry.path}): Q${q.question_number} answer "${q.correct_answer}" not in options [${Object.keys(q.options).join(', ')}]`);
-                    hasError = true;
-                }
-
-                // Image Asset Validation (Regex to find markdown images)
-                const markdownImageRegex = /!\[.*?\]\((.*?)\)/g;
                 const textFields = [q.question_text, q.explanation, ...Object.values(q.options)];
-
-                textFields.forEach(text => {
-                    if (!text) return;
-                    let match;
-                    while ((match = markdownImageRegex.exec(text)) !== null) {
-                        const imagePath = match[1];
-                        if (imagePath.startsWith('http')) continue; // Skip external URLs
-
-                        const absoluteImagePath = path.join(__dirname, '..', imagePath);
+                for (const text of textFields) {
+                    if (!text) continue;
+                    for (const ref of extractImageRefs(text)) {
+                        const src = ref.src.trim();
+                        if (!src || /^(https?:)?\/\//i.test(src) || /^(data|mailto|blob):/i.test(src)) continue; // external / inline
+                        let clean = src.split('#')[0].split('?')[0];
+                        try { clean = decodeURI(clean); } catch (e) { /* keep as written */ }
+                        const absoluteImagePath = path.join(__dirname, '..', clean);
                         if (!fs.existsSync(absoluteImagePath)) {
-                            console.error(`❌ MISSING ASSET (${entry.path}): Q${q.question_number} references "${imagePath}" which does not exist.`);
+                            console.error(`❌ MISSING ASSET (${entry.path}): Q${q.question_number} references "${src}" which does not exist.`);
+                            hasError = true;
+                        } else if (!existsCaseSensitive(absoluteImagePath)) {
+                            console.error(`❌ ASSET CASE MISMATCH (${entry.path}): Q${q.question_number} references "${src}" but the file name differs in upper/lower case (works locally, breaks on GitHub Pages).`);
                             hasError = true;
                         }
                     }
-                });
+                }
             }
 
         } catch (e) {
-            console.error(`❌ JSON PARSE ERROR in ${entry.path}:`, e);
+            console.error(`❌ UNEXPECTED ERROR while checking ${entry.path}:`, e);
             hasError = true;
         }
+    }
+
+    if (warnTotals.size > 0) {
+        let total = 0;
+        warnTotals.forEach(t => { total += t.count; });
+        console.warn(`\n⚠️  ${total} content warning(s) — they do not fail the build${STRICT ? ' (but --strict is on)' : ''}. Run "npm run validate -- --warnings" to list them.`);
+        warnTotals.forEach(t => console.warn(`   • ${String(t.count).padStart(3)} × ${t.title}  [${t.files.size} file(s)]  e.g. ${t.example.slice(0, 150)}`));
+        if (STRICT) hasError = true;
     }
 
     if (hasError) {
