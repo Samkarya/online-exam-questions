@@ -780,7 +780,7 @@
     },
     "correct_answer": "d",
     "difficulty": "Hard",
-    "explanation": "Let the original cost of a TV be ₹200.\nOriginal cost of a washing machine (WM) $= 200 - (50\\% \\text{ of } 200) = ₹100$.\nOriginal total cost for 4 WMs and 2 TVs $= 4(100) + 2(200) = 400 + 400 = 800$.\nNew cost of WM (33% increase) $= 100 \\times 1.33 = 133$.\nNew cost of TV (13% decrease) $= 200 \\times 0.87 = 174$.\nNew total cost for 4 WMs and 2 TVs $= 4(133) + 2(174) = 532 + 348 = 880$.\nChange in cost $= 880 - 800 = +80$ (Increase).\nPercentage change $= \\left(\\frac{80}{800}\\right) \\times 100\\% = 10\\% \\text{ increase}.",
+    "explanation": "Let the original cost of a TV be ₹200.\nOriginal cost of a washing machine (WM) $= 200 - (50\\% \\text{ of } 200) = ₹100$.\nOriginal total cost for 4 WMs and 2 TVs $= 4(100) + 2(200) = 400 + 400 = 800$.\nNew cost of WM (33% increase) $= 100 \\times 1.33 = 133$.\nNew cost of TV (13% decrease) $= 200 \\times 0.87 = 174$.\nNew total cost for 4 WMs and 2 TVs $= 4(133) + 2(174) = 532 + 348 = 880$.\nChange in cost $= 880 - 800 = +80$ (Increase).\nPercentage change $= \\left(\\frac{80}{800}\\right) \\times 100\\% = 10\\% \\text{ increase}$.",
     "section_id": null
   },
   {

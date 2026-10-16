@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "validate": "ts-node src/validate.ts",
-    "serve": "node server.js"
+    "serve": "node server.js",
+    "test:core": "ts-node src/examCore.test.ts"
   },
   "repository": {
     "type": "git",

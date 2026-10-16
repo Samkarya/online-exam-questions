@@ -806,7 +806,7 @@
     "question_text": "The set of all real values of $x$ for which $(x^2 - |x + 9| + x ) > 0$, is",
     "options": {
       "a": "$(-\\infty, -9) \\cup (9, \\infty)$",
-      "b": "$(-\\infty, -9) \\cup (3, \\infty)$",
+      "b": "$(-\\infty, 9) \\cup (-3, \\infty)$",
       "c": "$(-\\infty, -9) \\cup (3, \\infty)$",
       "d": "$(-\\infty, -3) \\cup (3, \\infty)$"
     },

@@ -2003,11 +2003,11 @@
     "question_number": 126,
     "subject": "CPPB Domain III: Sourcing & Supplier Selection",
     "topic": "Evaluating Responses - Discrepancies",
-    "question_text": "During bid tabulation, the buyer notices a math error on Vendor A's bid. The unit price for an item is $5, the quantity is 10, but the vendor wrote $500 in the extended total column. According to standard procurement practice, how is this handled?",
+    "question_text": "During bid tabulation, the buyer notices a math error on Vendor A's bid. The unit price for an item is \\$5, the quantity is 10, but the vendor wrote \\$500 in the extended total column. According to standard procurement practice, how is this handled?",
     "options": {
       "a": "The bid is rejected for math errors",
-      "b": "The extended price of $500 is binding",
-      "c": "The unit price of $5 governs, and the agency corrects the extended price to $50",
+      "b": "The extended price of \\$500 is binding",
+      "c": "The unit price of \\$5 governs, and the agency corrects the extended price to \\$50",
       "d": "The vendor is allowed to submit a new price"
     },
     "correct_answer": "c",
@@ -2131,7 +2131,7 @@
     "question_number": 134,
     "subject": "CPPB Domain III: Sourcing & Supplier Selection",
     "topic": "Negotiation Strategies - Tactics",
-    "question_text": "During RFP negotiations, a vendor opens the discussion by stating a software implementation fee of $500,000, which they know is extremely high. They do this so that their subsequent 'discount' to $300,000 seems generous. This psychological tactic is known as:",
+    "question_text": "During RFP negotiations, a vendor opens the discussion by stating a software implementation fee of \\$500,000, which they know is extremely high. They do this so that their subsequent 'discount' to \\$300,000 seems generous. This psychological tactic is known as:",
     "options": {
       "a": "Anchoring",
       "b": "The Bogey",
@@ -2359,8 +2359,8 @@
     "options": {
       "a": "Your proposed price exceeds our independent cost estimate by 20%.",
       "b": "We need you to rethink your pricing on line items 4 and 5.",
-      "c": "Vendor C just offered $45,000 for this work. If you bid $44,000, the contract is yours.",
-      "d": "Our budget cannot exceed $50,000."
+      "c": "Vendor C just offered \\$45,000 for this work. If you bid \\$44,000, the contract is yours.",
+      "d": "Our budget cannot exceed \\$50,000."
     },
     "correct_answer": "c",
     "difficulty": "Medium",

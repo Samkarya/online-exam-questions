@@ -428,7 +428,7 @@
         },
         "correct_answer": "c",
         "difficulty": "Hard",
-        "explanation": "Nickel is $[Ar] 4s^2 3d^8$. The $d​$ subshell has 5 orbitals. With 8 electrons, 3 orbitals are filled ($3 \\\\times 2 = 6$) and 2 orbitals are half-filled ($2 \\\\times 1 = 2$). Total unpaired electrons = 2.",
+        "explanation": "Nickel is $[Ar] 4s^2 3d^8$. The $d​$ subshell has 5 orbitals. With 8 electrons, 3 orbitals are filled ($3 \\times 2 = 6$) and 2 orbitals are half-filled ($2 \\times 1 = 2$). Total unpaired electrons = 2.",
         "section_id": null
     },
     {

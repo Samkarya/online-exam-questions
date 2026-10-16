@@ -172,7 +172,7 @@
     },
     "correct_answer": "b",
     "difficulty": "Medium",
-    "explanation": "The gradients of the lines are $m_1 = 2$ and $m_2 = -3$. The acute angle $\\theta$ between them is given by $\\tan \\theta = \\left|\\frac{m_1 - m_2}{1 + m_1 m_2}\\right|$. Plugging in the values: $\\tan \\theta = \\left|\\frac{2 - (-3)}{1 + (2)(-3)}\right| = \\left|\\frac{5}{1 - 6}\\right| = \\left|\\frac{5}{-5}\\right| = 1$. Hence, $\\theta = \\tan^{-1}(1) = 45^\\circ$.",
+    "explanation": "The gradients of the lines are $m_1 = 2$ and $m_2 = -3$. The acute angle $\\theta$ between them is given by $\\tan \\theta = \\left|\\frac{m_1 - m_2}{1 + m_1 m_2}\\right|$. Plugging in the values: $\\tan \\theta = \\left|\\frac{2 - (-3)}{1 + (2)(-3)}\\right| = \\left|\\frac{5}{1 - 6}\\right| = \\left|\\frac{5}{-5}\\right| = 1$. Hence, $\\theta = \\tan^{-1}(1) = 45^\\circ$.",
     "section_id": null
   },
   {
