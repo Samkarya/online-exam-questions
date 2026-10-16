@@ -629,10 +629,10 @@
     "topic": "Processes involved in data processing",
     "question_text": "What is the standard chronological sequence of stages in the electronic data processing cycle?",
     "options": {
-      "a": "Output $\\rightarrow$ Processing $\rightarrow$ Input $\rightarrow$ Storage",
-      "b": "Input $\\rightarrow$ Processing $\rightarrow$ Storage $\rightarrow$ Output",
-      "c": "Storage $\rightarrow$ Input $\rightarrow$ Output $\rightarrow$ Processing",
-      "d": "Processing $\rightarrow$ Output $\rightarrow$ Storage $\rightarrow$ Input"
+      "a": "Output $\\rightarrow$ Processing $\\rightarrow$ Input $\\rightarrow$ Storage",
+      "b": "Input $\\rightarrow$ Processing $\\rightarrow$ Storage $\\rightarrow$ Output",
+      "c": "Storage $\\rightarrow$ Input $\\rightarrow$ Output $\\rightarrow$ Processing",
+      "d": "Processing $\\rightarrow$ Output $\\rightarrow$ Storage $\\rightarrow$ Input"
     },
     "correct_answer": "b",
     "difficulty": "Easy",
