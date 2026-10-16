@@ -252,7 +252,7 @@
         },
         "correct_answer": "b",
         "difficulty": "Medium",
-        "explanation": "At STP, 1 mole occupies 22.4 L. Molar Mass $M = \\text{density} \\times \\text{Molar Volume} = 1.96\\ \\text{g/L} \\times 22.4\\ \\text{L/mol} \\approx 43.9\\ \\text{g/mol}$. The closest value is 44 g/mol ($\\\\text{CO}_2$).",
+        "explanation": "At STP, 1 mole occupies 22.4 L. Molar Mass $M = \\text{density} \\times \\text{Molar Volume} = 1.96\\ \\text{g/L} \\times 22.4\\ \\text{L/mol} \\approx 43.9\\ \\text{g/mol}$. The closest value is 44 g/mol ($\\text{CO}_2$).",
         "section_id": null
     },
     {

@@ -163,7 +163,7 @@
         "question_number": 11,
         "subject": "Chemistry",
         "topic": "Covalent Bonding",
-        "question_text": "Using electronegativity values ($\\\\chi$), which of the following bonds corresponds to a 'polar covalent' bond?",
+        "question_text": "Using electronegativity values ($\\chi$), which of the following bonds corresponds to a 'polar covalent' bond?",
         "options": {
             "a": "A bond where $\\Delta\\chi = 0$ (e.g., H-H)",
             "b": "A bond where $\\Delta\\chi > 2.0$ (e.g., Na-Cl)",

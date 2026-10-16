@@ -44,7 +44,7 @@
     },
     "correct_answer": "c",
     "difficulty": "Medium",
-    "explanation": "En utilisant la règle du quotient $(u/v)' = (u'v - uv') / v^2$ avec $u(x) = \\ln(x)+1$ et $v(x) = x$, on obtient $f'(x) = \\frac{(1/x \\cdot x) - (\\ln(x)+1) \\cdot 1}{x^2} = -\\frac{\\ln(x)}{x^2}.",
+    "explanation": "En utilisant la règle du quotient $(u/v)' = (u'v - uv') / v^2$ avec $u(x) = \\ln(x)+1$ et $v(x) = x$, on obtient $f'(x) = \\frac{(1/x \\cdot x) - (\\ln(x)+1) \\cdot 1}{x^2} = -\\frac{\\ln(x)}{x^2}$.",
     "section_id": null
   },
   {

@@ -691,9 +691,9 @@
     "question_number": 44,
     "subject": "Ethics & Professional Responsibilities",
     "topic": "Errors by Opposing Counsel",
-    "question_text": "Opposing counsel sends over a drafted settlement agreement for a breach of contract matter. The paralegal notices opposing counsel made a typographical error in the mathematics, inserting $15,000 instead of the agreed-upon $5,000. What must the paralegal do?",
+    "question_text": "Opposing counsel sends over a drafted settlement agreement for a breach of contract matter. The paralegal notices opposing counsel made a typographical error in the mathematics, inserting \\$15,000 instead of the agreed-upon \\$5,000. What must the paralegal do?",
     "options": {
-      "a": "Tell their client to sign it immediately to secure the extra $10,000.",
+      "a": "Tell their client to sign it immediately to secure the extra \\$10,000.",
       "b": "Notify opposing counsel of the obvious error before executing the agreement.",
       "c": "Alter the document to correct the math error and send it back signed without explanation.",
       "d": "Withdraw from the file due to the opponent's incompetence."
@@ -1363,7 +1363,7 @@
     "question_number": 86,
     "subject": "Ethics & Professional Responsibilities",
     "topic": "Marketing - Testimonials",
-    "question_text": "A paralegal wishes to place a client testimonial on their website. The client writes: \"This paralegal won my impossible case and got me $100,000!\" In reality, the case settled for $20,000. Is this permissible if the client genuinely wrote the testimonial without prompting?",
+    "question_text": "A paralegal wishes to place a client testimonial on their website. The client writes: \"This paralegal won my impossible case and got me \\$100,000!\" In reality, the case settled for \\$20,000. Is this permissible if the client genuinely wrote the testimonial without prompting?",
     "options": {
       "a": "Yes, because the paralegal cannot control what a client writes.",
       "b": "No, marketing rules require all statements-even client testimonials-to be demonstrably true, accurate, and verifiable.",
@@ -1555,9 +1555,9 @@
     "question_number": 98,
     "subject": "Ethics & Professional Responsibilities",
     "topic": "Self-Represented Litigants in Negotiation",
-    "question_text": "During settlement discussions, a self-represented defendant mistakenly believes they are legally liable for $10,000, whereas the law actually limits their liability to $2,000. The plaintiff's paralegal knows of the defendant's mistake. What must the paralegal do?",
+    "question_text": "During settlement discussions, a self-represented defendant mistakenly believes they are legally liable for \\$10,000, whereas the law actually limits their liability to \\$2,000. The plaintiff's paralegal knows of the defendant's mistake. What must the paralegal do?",
     "options": {
-      "a": "Draft a settlement for $10,000 immediately, as the paralegal owes no duty to the defendant.",
+      "a": "Draft a settlement for \\$10,000 immediately, as the paralegal owes no duty to the defendant.",
       "b": "Advise the defendant of the correct law to ensure fairness.",
       "c": "Not take unfair advantage of the unrepresented person's obvious mistake of law, ensure they know the paralegal does not protect their interests, and advise them to seek independent legal advice.",
       "d": "Withdraw from the file due to a conflict of interest."
@@ -1587,16 +1587,16 @@
     "question_number": 100,
     "subject": "Ethics & Professional Responsibilities",
     "topic": "First Action - Mixed Funds",
-    "question_text": "A client writes a single cheque for $2,000 to the paralegal. $500 of this is to pay an already billed invoice, and $1,500 is an advance retainer for future work. What is the paralegal's **first action** upon receiving this cheque?",
+    "question_text": "A client writes a single cheque for \\$2,000 to the paralegal. \\$500 of this is to pay an already billed invoice, and \\$1,500 is an advance retainer for future work. What is the paralegal's **first action** upon receiving this cheque?",
     "options": {
-      "a": "Deposit the entire $2,000 into the general account, and transfer $1,500 to trust later.",
+      "a": "Deposit the entire \\$2,000 into the general account, and transfer \\$1,500 to trust later.",
       "b": "Cash the cheque and split the money manually.",
-      "c": "Deposit the entire $2,000 into the mixed trust account, then transfer the earned $500 to the general account as soon as practicable.",
+      "c": "Deposit the entire \\$2,000 into the mixed trust account, then transfer the earned \\$500 to the general account as soon as practicable.",
       "d": "Return the cheque to the client and demand two separate cheques."
     },
     "correct_answer": "c",
     "difficulty": "Hard",
-    "explanation": "Under LSO By-Law 9, when a licensee receives funds that consist of both trust money (unearned retainer) and non-trust money (earned/billed fees), the funds must be deposited into the trust account first. Once the funds clear, the non-trust portion (the $500 earned) must be withdrawn/transferred to the general account as soon as practicable.",
+    "explanation": "Under LSO By-Law 9, when a licensee receives funds that consist of both trust money (unearned retainer) and non-trust money (earned/billed fees), the funds must be deposited into the trust account first. Once the funds clear, the non-trust portion (the \\$500 earned) must be withdrawn/transferred to the general account as soon as practicable.",
     "section_id": null
   }
 ]
