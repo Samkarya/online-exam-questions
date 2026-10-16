@@ -2115,7 +2115,7 @@
     "question_number": 133,
     "subject": "CPPB Domain II: Pre-Solicitation Planning",
     "topic": "Asset & Logistics Management",
-    "question_text": "An agency sets a 'capitalization threshold' of $5,000. How does this threshold affect the procurement and logistics process for a newly purchased $6,500 industrial lawnmower?",
+    "question_text": "An agency sets a 'capitalization threshold' of \\$5,000. How does this threshold affect the procurement and logistics process for a newly purchased \\$6,500 industrial lawnmower?",
     "options": {
       "a": "It cannot be purchased using grant funds.",
       "b": "It must be recorded as a fixed asset, assigned an inventory tag, and tracked on the agency's balance sheet for depreciation.",
@@ -2339,7 +2339,7 @@
     "question_number": 147,
     "subject": "CPPB Domain II: Pre-Solicitation Planning",
     "topic": "Financial Considerations",
-    "question_text": "An agency policy requires competitive bidding for purchases over $5,000. An employee has a P-Card with a single-transaction limit of $3,000. The employee needs $7,000 worth of computer monitors and tells the vendor to run the card three times on the same day for $2,333 each. This is an example of:",
+    "question_text": "An agency policy requires competitive bidding for purchases over \\$5,000. An employee has a P-Card with a single-transaction limit of \\$3,000. The employee needs \\$7,000 worth of computer monitors and tells the vendor to run the card three times on the same day for \\$2,333 each. This is an example of:",
     "options": {
       "a": "Efficient inventory management.",
       "b": "An unauthorized split purchase intended to circumvent procurement thresholds.",
@@ -2419,7 +2419,7 @@
     "question_number": 152,
     "subject": "CPPB Domain II: Pre-Solicitation Planning",
     "topic": "Financial Considerations",
-    "question_text": "A procurement professional signs a multi-year IT contract that obligates $5 million total, but the legislature has only appropriated $1 million for the current fiscal year. To avoid violating 'Anti-Deficiency' laws, what clause MUST be included in the contract?",
+    "question_text": "A procurement professional signs a multi-year IT contract that obligates \\$5 million total, but the legislature has only appropriated \\$1 million for the current fiscal year. To avoid violating 'Anti-Deficiency' laws, what clause MUST be included in the contract?",
     "options": {
       "a": "A Non-Appropriation (or Funding Out) clause, allowing the agency to cancel the contract without penalty if future funds are not appropriated.",
       "b": "An advance payment clause to get all the money upfront.",

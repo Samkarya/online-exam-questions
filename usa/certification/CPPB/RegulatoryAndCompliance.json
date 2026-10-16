@@ -243,7 +243,7 @@
     "question_number": 16,
     "subject": "CPPB Domain I: Regulatory & Compliance",
     "topic": "Contract Law Basics",
-    "question_text": "Vendor A submits an offer to sell 100 laptops for $50,000. The purchasing agent responds: 'We agree to buy 100 laptops, but only for $45,000.' In contract law, the agent's response is classified as a(n):",
+    "question_text": "Vendor A submits an offer to sell 100 laptops for \\$50,000. The purchasing agent responds: 'We agree to buy 100 laptops, but only for \\$45,000.' In contract law, the agent's response is classified as a(n):",
     "options": {
       "a": "Conditional acceptance",
       "b": "Breach of contract",
@@ -259,7 +259,7 @@
     "question_number": 17,
     "subject": "CPPB Domain I: Regulatory & Compliance",
     "topic": "Contract Law Basics",
-    "question_text": "To be enforceable, certain types of contracts-such as contracts for the sale of goods over $500, or contracts that cannot be performed within one year-must be in writing. This legal principle is known as:",
+    "question_text": "To be enforceable, certain types of contracts-such as contracts for the sale of goods over \\$500, or contracts that cannot be performed within one year-must be in writing. This legal principle is known as:",
     "options": {
       "a": "The Parol Evidence Rule",
       "b": "The Statute of Frauds",
@@ -483,12 +483,12 @@
     "question_number": 31,
     "subject": "CPPB Domain I: Regulatory & Compliance",
     "topic": "UCC: Mixed Contracts",
-    "question_text": "A public agency enters a contract for a specialized computer server (cost $40,000) and installation services (cost $2,000). Under the 'predominant purpose test' used by most courts, does UCC Article 2 govern this contract?",
+    "question_text": "A public agency enters a contract for a specialized computer server (cost \\$40,000) and installation services (cost \\$2,000). Under the 'predominant purpose test' used by most courts, does UCC Article 2 govern this contract?",
     "options": {
       "a": "No, because any inclusion of services removes it from the UCC.",
       "b": "Yes, because the predominant purpose of the transaction is the sale of goods.",
       "c": "No, because computer servers are not considered goods.",
-      "d": "Only the $2,000 service portion is governed by the UCC."
+      "d": "Only the \\$2,000 service portion is governed by the UCC."
     },
     "correct_answer": "b",
     "difficulty": "Hard",
@@ -822,7 +822,7 @@
     "question_text": "What is the primary legal distinction between a 'gratuity/gift' and a 'bribe'?",
     "options": {
       "a": "A bribe requires 'quid pro quo' intent to influence an official act, whereas a gratuity might lack explicit mutual intent.",
-      "b": "A bribe is over $500 in value, while a gratuity is under $500.",
+      "b": "A bribe is over \\$500 in value, while a gratuity is under \\$500.",
       "c": "Bribes are offered by vendors; gratuities are offered by citizens.",
       "d": "There is no legal distinction; the terms are synonymous in all criminal codes."
     },

@@ -931,7 +931,7 @@
     "question_number": 59,
     "subject": "Procurement Business Principles",
     "topic": "Roles & Responsibilities/Authority",
-    "question_text": "An agency's policy states buyers can sign contracts up to $50,000. A buyer signs a contract for $75,000. What defense protects the government from fulfilling the $75,000 contract?",
+    "question_text": "An agency's policy states buyers can sign contracts up to \\$50,000. A buyer signs a contract for \\$75,000. What defense protects the government from fulfilling the \\$75,000 contract?",
     "options": {
       "a": "Caveat Emptor",
       "b": "The buyer exceeded their actual authority, and apparent authority typically does not bind governments.",
@@ -940,7 +940,7 @@
     },
     "correct_answer": "b",
     "difficulty": "Hard",
-    "explanation": "Because the buyer exceeded the $50,000 limit, they lacked actual authority. Vendors are legally obligated to know the bounds of a public agent's authority, so the government isn't bound.",
+    "explanation": "Because the buyer exceeded the \\$50,000 limit, they lacked actual authority. Vendors are legally obligated to know the bounds of a public agent's authority, so the government isn't bound.",
     "section_id": null
   },
   {
